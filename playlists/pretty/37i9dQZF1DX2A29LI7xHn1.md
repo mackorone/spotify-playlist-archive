@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,516 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,494 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 72 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
 | 73 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 |
 | 74 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
-| 75 | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/track/5NhIOYnj0GktQMFvSKfLto) | [BabyChiefDoit](https://open.spotify.com/artist/65NfdQM6lDzNZJW3P8QRJS), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/album/3lTC45fwBorhSoHrb3z1oF) | 2:51 |
+| 75 | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/track/5NhIOYnj0GktQMFvSKfLto) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/album/3lTC45fwBorhSoHrb3z1oF) | 2:51 |
 | 76 | [Girls Like Girls](https://open.spotify.com/track/41u8Oh1FAo27ROaw9MMRh3) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Girls Like Girls](https://open.spotify.com/album/5mn3ENQXUsejrfiyW6mdSA) | 2:10 |
 | 77 | [No Love \(feat\. 24MMY\)](https://open.spotify.com/track/7oR7B8XJJAtTcsIbwF3ix9) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [24MMY](https://open.spotify.com/artist/4tixpuxUuqHUBvcTEzJO0b) | [No Love](https://open.spotify.com/album/5iwxBvlv0llUb5ScgeT4Lr) | 1:43 |
 | 78 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |

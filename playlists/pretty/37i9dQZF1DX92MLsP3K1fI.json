@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! ARIA BELA en portada.",
-  "num_followers": 90725,
+  "num_followers": 90895,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-04-25 20:00:52",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB"
+    },
+    {
+      "added_at": "2025-04-25 20:00:52",
+      "album": {
         "name": "Guaro con Ron",
         "url": "https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 148454,
       "name": "Guaro con Ron",
       "url": "https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM"
-    },
-    {
-      "added_at": "2025-04-25 20:00:52",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB"
     },
     {
       "added_at": "2025-04-25 20:00:52",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-04-25 20:00:52",
       "album": {
-        "name": "Fetiche",
-        "url": "https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn"
-    },
-    {
-      "added_at": "2025-04-25 20:00:52",
-      "album": {
         "name": "EL DIABLO",
         "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 193181,
       "name": "EL DIABLO",
       "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
+    },
+    {
+      "added_at": "2025-04-25 20:00:52",
+      "album": {
+        "name": "Fetiche",
+        "url": "https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn"
     },
     {
       "added_at": "2025-04-25 20:00:52",

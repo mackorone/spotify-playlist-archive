@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Samuel ASH, Tommy Royale, & Secretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,775 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,002 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 5 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 |
 | 6 | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/track/4CoQhr7DbXX5j10naSIDsM) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/album/0sjtIO2ippBTAHkh0Dyzzm) | 5:20 |
 | 7 | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/track/33JhVpJsifXLo4f5iE0L4I) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/album/7DwEO3HOKXP0ilMqOnh1H6) | 6:05 |
-| 8 | [Cuanto Te Amo](https://open.spotify.com/track/5WEXhzo0KnKg06SdyDYgr0) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuanto Te Amo](https://open.spotify.com/album/4BN6T7Dke8cmLQ5DFDXvyP) | 3:19 |
+| 8 | [Cuánto Te Amo](https://open.spotify.com/track/5WEXhzo0KnKg06SdyDYgr0) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuánto Te Amo](https://open.spotify.com/album/4BN6T7Dke8cmLQ5DFDXvyP) | 3:19 |
 | 9 | [AL100](https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100](https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS) | 3:09 |
 | 10 | [Gracias](https://open.spotify.com/track/1i9VV4U4QVWdhOODMfE229) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [AM 7](https://open.spotify.com/album/6vJtUOKKP5nCJCpGkwUSLm) | 3:28 |
 | 11 | [Sin Ti](https://open.spotify.com/track/1w4xJlYy91E64vp3anuXsR) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Sin Ti](https://open.spotify.com/album/5KVE4Jj6hK3LTKjqohRQFi) | 3:21 |

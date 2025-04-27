@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lorde, PinkPantheress, Myles Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,484 likes - 128 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,539 likes - 128 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 74 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
 | 75 | [Forever The Night](https://open.spotify.com/track/0WLQtuxBnuOYWB6RuQ8flr) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Forever The Night](https://open.spotify.com/album/5TqbTmXgostHmPdlVS43sI) | 4:05 |
 | 76 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
-| 77 | [Under the Water](https://open.spotify.com/track/6K5ji9gF2mbt8YptTLd8ob) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Under the Water](https://open.spotify.com/album/286J344QegfwhhXfkS2dbr) | 3:25 |
+| 77 | [Under The Water](https://open.spotify.com/track/6K5ji9gF2mbt8YptTLd8ob) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Under The Water](https://open.spotify.com/album/286J344QegfwhhXfkS2dbr) | 3:25 |
 | 78 | [Death Song](https://open.spotify.com/track/2ttKbV41PuQPmVeAJHS54e) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Whiplash](https://open.spotify.com/album/2NVwWb26jXrQ5kdlizTpso) | 3:26 |
 | 79 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 |
 | 80 | [Forgive Me](https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Forgive Me](https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y) | 3:06 |

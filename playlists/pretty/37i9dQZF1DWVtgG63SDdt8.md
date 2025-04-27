@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Luke Bower
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,267 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,293 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 17 | [Unknown](https://open.spotify.com/track/02Ie4JzAUAq7vDmjvNk3ZG) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Unknown](https://open.spotify.com/album/03EHDa6SSrzc5w4BKROvDr) | 4:09 |
 | 18 | [Like Gravity](https://open.spotify.com/track/3pUrFheX6395xwU2ZHcJWo) | [Jonathan Cyphers](https://open.spotify.com/artist/3JwXWRtJollDRj2AnWLUoQ) | [Like Gravity](https://open.spotify.com/album/69Ph3Fw7qoN8TthbDyFKoT) | 4:22 |
-| 19 | [Thank You Isn't Enough \(feat\. The Choir Room\)](https://open.spotify.com/track/71q7eCkLuNA2AJis2Zftgy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Thank You Isn't Enough \(feat\. The Choir Room\)](https://open.spotify.com/album/2tL8YH2sbW8cTCUxz89Lsk) | 3:06 |
+| 19 | [Thank You Isn't Enough](https://open.spotify.com/track/71q7eCkLuNA2AJis2Zftgy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Thank You Isn't Enough](https://open.spotify.com/album/2tL8YH2sbW8cTCUxz89Lsk) | 3:06 |
 | 20 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 | 21 | [Consider Him \- Live](https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [1350 \(Live\)](https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z) | 5:32 |
 | 22 | [The Sacrifice](https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [The Sacrifice](https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB) | 3:48 |

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Slaughter to Prevail
 
-637 songs - 1 day 17 hr 16 min
+638 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-02-27 | 2025-03-15 |
 | [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-09 | 2024-08-24 |
 | [Bloodguilt](https://open.spotify.com/track/24PhPzlNAOCsnHAP65GCeA) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Bloodguilt](https://open.spotify.com/album/6vdb4SkMuWtLYqw4lHlOVW) | 4:55 | 2021-12-17 | 2022-04-09 |
+| [Bloodletting](https://open.spotify.com/track/7hE7akdK108sKoJcbMOp3b) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Bloodletting](https://open.spotify.com/album/79IaUId4APE89L4Sj0vzH3) | 2:39 | 2025-04-25 |  |
 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-23 |  |
 | [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 | 2022-12-13 |
 | [Bonebreaker](https://open.spotify.com/track/4TV4Hz8egoZ0x1S3h8kQ7G) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 4:25 | 2022-10-27 | 2023-04-29 |
@@ -496,7 +497,7 @@
 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:16 | 2024-06-25 | 2025-03-15 |
 | [Set the World on Fire](https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Set the World on Fire](https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW) | 2:49 | 2025-04-25 |  |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2021-12-17 | 2025-03-15 |
-| [SHALLOW GRAVE](https://open.spotify.com/track/4IRI94PiTsO8GPmEjBa5iO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [SHALLOW GRAVE](https://open.spotify.com/album/53ikhdZE3GFL8A1ATJDJNJ) | 1:31 | 2025-01-17 |  |
+| [SHALLOW GRAVE](https://open.spotify.com/track/4IRI94PiTsO8GPmEjBa5iO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [SHALLOW GRAVE](https://open.spotify.com/album/53ikhdZE3GFL8A1ATJDJNJ) | 1:31 | 2025-01-17 | 2025-04-27 |
 | [Shard Throat](https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD) | [Shard Throat](https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD) | 2:33 | 2025-01-17 |  |
 | [Shepherd](https://open.spotify.com/track/1HEeNe1VoY6HlnoN9gDMuv) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Shepherd](https://open.spotify.com/album/4K0BaqCecm68KFC748kBzA) | 4:11 | 2021-12-17 | 2022-07-25 |
 | [Shock Tactics \(1000v\)](https://open.spotify.com/track/6gpBsJWLB5qhY60wik87jo) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Shock Tactics \(1000v\)](https://open.spotify.com/album/5BFAfdSGioyMmIVYag9i3w) | 4:28 | 2023-06-30 | 2024-08-24 |

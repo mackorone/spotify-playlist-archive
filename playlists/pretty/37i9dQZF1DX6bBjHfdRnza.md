@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Surusinghe\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,596 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,652 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 7 | [Had To \- Radio](https://open.spotify.com/track/1wTmBjU4b18UH5uAntRbGv) | [Isaac Carter](https://open.spotify.com/artist/1wp5fYOou3912NRzGN28E8), [Biyi](https://open.spotify.com/artist/2k7lG3hJ0R4F5I2CY7RY4H) | [Had To](https://open.spotify.com/album/3nnFjN401E51sEorhPCMVI) | 3:02 |
 | 8 | [The Fall](https://open.spotify.com/track/5gV08IdTyWZhfbyOo2guSY) | [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo), [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs) | [The Fall](https://open.spotify.com/album/1zgOUuLPqWcK5qeTg27YCs) | 4:45 |
 | 9 | [LET'S GO B$NG!](https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1) | [Milion](https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe) | [LET'S GO B$NG!/FICOU BRABA](https://open.spotify.com/album/6e6rrZ7NwsW2ApiEYpVMqR) | 3:33 |
-| 10 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:27 |
+| 10 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:26 |
 | 11 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 |
 | 12 | [Where Have You Been](https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [Where Have You Been](https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx) | 2:50 |
 | 13 | [Global Vision](https://open.spotify.com/track/0KaANauI3OAZDjake6TAJU) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Ramyen](https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2) | [Global Vision](https://open.spotify.com/album/05M9Jt6WSAJvKcpQopQKlT) | 4:52 |

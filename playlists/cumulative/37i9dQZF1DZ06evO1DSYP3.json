@@ -1269,6 +1269,40 @@
     },
     {
       "album": {
+        "name": "Luh U",
+        "url": "https://open.spotify.com/album/4YiIRhq3Ri4FXVgAIM2xNc"
+      },
+      "artists": [
+        {
+          "name": "Splash Bakery",
+          "url": "https://open.spotify.com/artist/6QeXOfhhPu8DvbPKUmnN2W"
+        },
+        {
+          "name": "Hokage Simon",
+          "url": "https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Michael Prince",
+          "url": "https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO"
+        },
+        {
+          "name": "ClayDough",
+          "url": "https://open.spotify.com/artist/5r7Rbfw8HjHPA5H0lHLyWW"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/2HplfkQ6SRKTkFyvp6COBj"
+    },
+    {
+      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -1306,7 +1340,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 144060,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"

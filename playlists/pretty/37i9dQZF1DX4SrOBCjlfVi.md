@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Young Thug, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,311 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,444 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [SLÁINTE](https://open.spotify.com/track/7dPKB0AtIHuVKk9UVuRmsl) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [SADDEST TRUTH](https://open.spotify.com/album/0N1Q6nIiSUE5UWISRuLJfW) | 2:25 |
 | 25 | [You, Me Or The Drugs](https://open.spotify.com/track/5ibLa9wvvd3viqjgI7CVuh) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [You, Me Or The Drugs](https://open.spotify.com/album/4rn4bJv1BtAx42wnF3Pejv) | 3:45 |
 | 26 | [Chico \(Dog Hoes\)](https://open.spotify.com/track/0Taw6tejC7mgsilKM3uwiO) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Watch This](https://open.spotify.com/album/5AXR7X4eT1HTI0P5NoAsnk) | 2:37 |
-| 27 | [Death B4 Dishonor](https://open.spotify.com/track/53a59vit0m1WxxOohvq533) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [Rocaine](https://open.spotify.com/artist/6OOETqt3Jh8y39gYtof7tN), [SPLURGE](https://open.spotify.com/artist/6ri5sYCiVlU5xXhlFBP7uR) | [Death B4 Dishonor](https://open.spotify.com/album/33gkPCIINaCk8pWcsVLlWr) | 3:26 |
+| 27 | [Death B4 Dishonor](https://open.spotify.com/track/53a59vit0m1WxxOohvq533) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [SSG Splurge](https://open.spotify.com/artist/5mU4H1cbfHpKYuyhNnA3PC) | [Death B4 Dishonor](https://open.spotify.com/album/33gkPCIINaCk8pWcsVLlWr) | 3:26 |
 | 28 | [WHEN IN ROME](https://open.spotify.com/track/5oWZuJIRqiLjbnrYQWdA22) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [WHEN IN ROME](https://open.spotify.com/album/789Bksm1brUUGEvFS0SNIc) | 3:09 |
 | 29 | [Thinking](https://open.spotify.com/track/1loNoa43LbfiSIeSSi7ow7) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Mi Familia Por Vida](https://open.spotify.com/album/20gRRPemG7urictgGW8R4x) | 2:32 |
 | 30 | [Truer Than Most](https://open.spotify.com/track/3bJrarywtMeKIWInmyqx2Y) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [FREE ANDY III](https://open.spotify.com/album/4VpECJnw47G8Un9QDTx2Tx) | 2:24 |

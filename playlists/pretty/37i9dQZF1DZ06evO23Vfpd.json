@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 45713,
+  "num_followers": 45838,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAl/AAAAAADbOE2W5L0oxo0n7MErp/sg",
+  "snapshot_id": "aArQgAAAAADMVszEebu8u4eB68mhi6a1",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": null,
@@ -371,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+        "name": "Joan Jett",
+        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
       },
       "artists": [
         {
@@ -380,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+      "duration_ms": 246883,
+      "name": "Joan Jett",
+      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
     },
     {
       "added_at": null,
@@ -435,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Jett",
-        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -444,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 246883,
-      "name": "Joan Jett",
-      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -483,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 164616,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cabelas",
         "url": "https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61"
       },
@@ -515,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starfoxx",
-        "url": "https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Starfoxx",
-      "url": "https://open.spotify.com/track/26ripkMj3zMuzvXUFba7Ig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Wrangler",
         "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
       },
@@ -543,6 +567,38 @@
       "duration_ms": 274853,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 192609,
+      "name": "Fire And Gasoline",
+      "url": "https://open.spotify.com/track/2bSp7973XonvsjQ5X73ESN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starfoxx",
+        "url": "https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Starfoxx",
+      "url": "https://open.spotify.com/track/26ripkMj3zMuzvXUFba7Ig"
     },
     {
       "added_at": null,
@@ -575,6 +631,22 @@
       "duration_ms": 267973,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     }
   ],
   "unique_name": "This Is Shaboozey",

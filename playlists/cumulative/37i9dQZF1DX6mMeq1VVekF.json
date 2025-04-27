@@ -1019,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+    },
+    {
+      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 188006,
       "name": "BAMBI",
       "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
@@ -2519,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "dream girl / wake up b*tch",
+        "url": "https://open.spotify.com/album/1Kpt6L8hF6bDLSgoPdHLHv"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121234,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/44MckRqvFUyYmPIl3mYMjp"
+    },
+    {
+      "album": {
         "name": "Drilly Rucksack",
         "url": "https://open.spotify.com/album/0nlruuoypWaVHuN8mCIzqG"
       },
@@ -3252,7 +3292,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 167684,
       "name": "Get Me",
       "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,830 likes - 80 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,893 likes - 80 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 35 | [Mit Ihm](https://open.spotify.com/track/5vHh5zfdFE4uzibvOAT461) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Mit Ihm](https://open.spotify.com/album/1WlVVI8YfHsjhbn0jvkjmI) | 2:40 |
 | 36 | [Temperatura](https://open.spotify.com/track/3CBPfbeWuAD1pM1IFHQ4Er) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Temperatura](https://open.spotify.com/album/2mgO09x0ArB8EoprTK89Xk) | 2:14 |
 | 37 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
-| 38 | [Warum ich](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
+| 38 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
 | 39 | [SO FRESH SO CLEAN](https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [G\-CODE](https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw) | 2:30 |
 | 40 | [Augen auf mir](https://open.spotify.com/track/1N8z59n95wvAv4069I6y7Y) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Augen auf mir](https://open.spotify.com/album/5k3QdSAmho2Flk2xLYQbWv) | 2:08 |
 | 41 | [WER MACHT PARA 3](https://open.spotify.com/track/1XhEwA9KL44MtKNfHEc2NJ) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Daniel Slump](https://open.spotify.com/artist/6aCnsDwUUiBSNDdsmtuSRb) | [WER MACHT PARA 3](https://open.spotify.com/album/1myLq2BFzmGEPqReRp6BUh) | 2:26 |

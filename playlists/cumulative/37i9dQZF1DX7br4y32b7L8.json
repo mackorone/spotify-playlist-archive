@@ -13097,6 +13097,24 @@
     },
     {
       "album": {
+        "name": "Viraal",
+        "url": "https://open.spotify.com/album/1XUoGpopyjrDTJTkCSRHAw"
+      },
+      "artists": [
+        {
+          "name": "Straatorgel",
+          "url": "https://open.spotify.com/artist/77ig0wiX3HDRBzHlM1xU9M"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128352,
+      "name": "Viraal",
+      "url": "https://open.spotify.com/track/2P4ywspztlDq513vHHXN99"
+    },
+    {
+      "album": {
         "name": "Viva Hollandia",
         "url": "https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4"
       },

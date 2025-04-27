@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "De Anta\u00f1o Lado B",
+        "url": "https://open.spotify.com/album/3MNhuxpkvA4dlCGfY5Moe4"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277077,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/66Iqy7EyPHmi656BXUnKmD"
+    },
+    {
+      "album": {
         "name": "Emancipaci\u00f3n",
         "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
       },
@@ -436,7 +458,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 234056,
       "name": "Emancipaci\u00f3n",
       "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"

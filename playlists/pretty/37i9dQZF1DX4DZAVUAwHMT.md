@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,025 likes - 83 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,976 likes - 83 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

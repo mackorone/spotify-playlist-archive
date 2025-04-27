@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Theatre Of Cruelty (Live at The Whisky a Go Go, 8901 Sunset Blvd at Clark, West Hollywood, CA. 1973)",
+        "url": "https://open.spotify.com/album/23uNdlvLr6ltEXDWhl4CcH"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363087,
+      "name": "I Need Somebody - Live at Whisky a Go Go 17th October 1973",
+      "url": "https://open.spotify.com/track/4Bzscue6zmSZHbi8RG6aap"
+    },
+    {
+      "album": {
         "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
         "url": "https://open.spotify.com/album/7B8oP2SSsvnshUidrYYgqg"
       },
@@ -1652,7 +1674,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 181880,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"

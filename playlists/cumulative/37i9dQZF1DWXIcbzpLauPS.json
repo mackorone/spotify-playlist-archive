@@ -2390,6 +2390,24 @@
     {
       "album": {
         "name": "Better Off",
+        "url": "https://open.spotify.com/album/5U31qOwfXnPHLbrwMi4hMH"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4qCTJDBxePD71mmyiZWOUV"
+    },
+    {
+      "album": {
+        "name": "Better Off",
         "url": "https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx"
       },
       "artists": [
@@ -6776,7 +6794,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 238426,
       "name": "Echoes of War",
       "url": "https://open.spotify.com/track/2rPZK6eDDi1coX1yeluYEX"
@@ -7278,6 +7296,28 @@
       "duration_ms": 200663,
       "name": "Exsanguination",
       "url": "https://open.spotify.com/track/5jeWsgseKRQDC4FfK0SZ07"
+    },
+    {
+      "album": {
+        "name": "Eye 4 An Eye",
+        "url": "https://open.spotify.com/album/44QoptHxk6HLEYjKMg64PE"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        },
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190150,
+      "name": "Eye 4 An Eye",
+      "url": "https://open.spotify.com/track/1oWqGjFASBKce5ck6IHq2y"
     },
     {
       "album": {
@@ -17421,6 +17461,24 @@
     },
     {
       "album": {
+        "name": "Back From Hell",
+        "url": "https://open.spotify.com/album/2kImUPrlzk6KlccyOhlXAt"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225277,
+      "name": "Solace in Suffer",
+      "url": "https://open.spotify.com/track/0q1Mg3WITHYJNWzqrmMPp1"
+    },
+    {
+      "album": {
         "name": "SOMEONE ELSE",
         "url": "https://open.spotify.com/album/77UuardHSldSzZApqo95tt"
       },
@@ -20484,7 +20542,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 223086,
       "name": "Uncontrolled",
       "url": "https://open.spotify.com/track/4Cpsa0GfBpGJiwD6kPbhj5"
@@ -22078,7 +22136,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 266133,
       "name": "You'll Know It Was Me (feat. George Clarke)",
       "url": "https://open.spotify.com/track/3i1JqxyQn1Zmya2I3v4NhA"

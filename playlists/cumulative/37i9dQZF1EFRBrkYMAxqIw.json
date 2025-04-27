@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Before You Love Me",
+        "url": "https://open.spotify.com/album/1fpDo3COpXLZcS3d7uY2h2"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "BnO",
+          "url": "https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175424,
+      "name": "Before You Love Me",
+      "url": "https://open.spotify.com/track/5x6GfRhKqnK06CzEVTUcc9"
+    },
+    {
+      "album": {
         "name": "Better Without You (feat. Glowie)",
         "url": "https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > <a href="spotify:artist:6w3SkAHYPsQ1bxV7VDlG5y">Cazzu</a> presenta <a href="spotify:album:6ilEhVQVT7DnbBjDMBnzNs">Latinaje</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,472,166 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,472,120 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

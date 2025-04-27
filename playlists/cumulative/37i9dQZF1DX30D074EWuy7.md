@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-515 songs - 1 day 14 hr 53 min
+516 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Amen](https://open.spotify.com/track/5fbPlVyg0MsoxYnyc1iDJV) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Oltremare](https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5) | 3:17 | 2023-06-04 | 2023-09-18 |
 | [Amore a prima vista \- Bossa & Jazz Version](https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO) | [Simona Molinari](https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4) | [Amore a prima vista](https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn) | 2:44 | 2024-11-14 |  |
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2022-09-30 |  |
-| [Anastasia](https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [Stefano Di Battista](https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP) | 5:10 | 2024-04-26 |  |
+| [Anastasia](https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [Stefano Di Battista](https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP) | 5:10 | 2024-04-26 | 2025-04-27 |
 | [Anastasia](https://open.spotify.com/track/0qBYNE6tgJFT0RxOSGREqU) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [round about roma](https://open.spotify.com/album/0IJrtsaMdNd4EP108yCOWJ) | 6:37 | 2023-06-04 | 2023-09-18 |
 | [Animo](https://open.spotify.com/track/0wD0jc5NYktDpYznv8pFCj) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Integra](https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz) | 5:30 | 2023-01-30 | 2023-06-05 |
 | [Aperture](https://open.spotify.com/track/3lFSMND54Kqc6sVBBlqHkC) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Trasforma](https://open.spotify.com/album/2pvJyykDcs2tm0SucmDsmV) | 3:26 | 2024-03-28 | 2024-04-19 |
@@ -321,6 +321,7 @@
 | [Metamorfosi](https://open.spotify.com/track/653dRrOJJkAJkDOAgBbJ5I) | [The Paolo Fresu Angel Quartet](https://open.spotify.com/artist/2zuxOvKl67I0vljbCPNMVt) | [Metamorphosi](https://open.spotify.com/album/1uBCJiku4unhCQkRzMAc94) | 4:02 | 2023-06-04 | 2023-09-18 |
 | [Mezcal](https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Kairòs](https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ) | 4:15 | 2025-02-25 |  |
 | [Michelangelo Antonioni \(feat\. Caetano Veloso\)](https://open.spotify.com/track/09AVoedIvM5WqdJA2j4tIb) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Que Bom](https://open.spotify.com/album/5026kdJj7O7U2ucEbJQ2LT) | 3:20 | 2022-09-30 | 2022-11-03 |
+| [Mindfulness](https://open.spotify.com/track/3XXzssTKMp8r9sfzg8DvQX) | [Fabio Giachino](https://open.spotify.com/artist/6PhcZkO4iU39XChybYpiS9) | [Limitless](https://open.spotify.com/album/3qO3TIWueKUcGr13dG0MzQ) | 4:08 | 2025-02-25 |  |
 | [Missed Vone Call](https://open.spotify.com/track/5kRXmjrPzDtYnB82XiHgZZ) | [Devin Gray](https://open.spotify.com/artist/4Ivo3FWLlLMJLnscn6Z6Ha), [Liz Kosack](https://open.spotify.com/artist/1Y6UbBPgHPBaBePQUDD4gc), [Cansu Tanrikulu](https://open.spotify.com/artist/7kJqs9hoKPpJFvMXSxq9BX) | [Missed Vone Call](https://open.spotify.com/album/6huLmObMHEgNdWY2FA5Aa1) | 2:35 | 2024-04-04 | 2024-06-09 |
 | [Mistletoe And Holly](https://open.spotify.com/track/6zPuGWyVD5hY1on54zcKdE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:19 | 2023-12-05 | 2024-03-29 |
 | [Mo Vene Natale](https://open.spotify.com/track/0CbXXouCcgmdGQLJMsIlfv) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Torero](https://open.spotify.com/album/24BN26qwE9PDc4BNK94TPy) | 3:08 | 2022-12-05 | 2023-02-01 |

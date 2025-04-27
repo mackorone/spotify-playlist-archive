@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-467 songs - 1 day 23 hr 59 min
+468 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Poet\-Ease](https://open.spotify.com/track/5u8RZrjxxYHBgSBwWDyV16) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm), [Sandra Restrepo](https://open.spotify.com/artist/6xcbHjACwkci6y1yJV7om2) | [Poet\-Ease](https://open.spotify.com/album/3UEMeHZo8S1uqlNuFfKu16) | 6:22 | 2019-09-06 | 2020-04-27 |
 | [Precious Story](https://open.spotify.com/track/5yK0lEffT7BqplloPOrg2g) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Buddha Bar: The Ultimate Experience](https://open.spotify.com/album/1QG5GYYjwWlBY1VDdNQ9Wd) | 6:33 | 2019-08-02\* | 2021-05-28 |
 | [Pulse Antique](https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:18 | 2024-04-26 |  |
+| [Pártelo](https://open.spotify.com/track/7pAZFQZylCaA138Gort875) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Ghetto Flow](https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP) | [Pártelo](https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC) | 2:07 | 2025-04-18 |  |
 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 | 2021-08-22 | 2024-05-25 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-05-08 | 2023-09-07 |
 | [Ra Lontano \- David Walters Remix](https://open.spotify.com/track/02cjXBe6xdlHbKFLQ92oSu) | [Bumcello](https://open.spotify.com/artist/1JESBD3cYCVDf3buyZnMeN), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Ra Lontano \(David Walters Remix\)](https://open.spotify.com/album/61gb3M50FXXfOdadMosNhy) | 4:07 | 2020-01-30 | 2020-04-18 |
@@ -459,7 +460,7 @@
 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2021-07-30 | 2024-09-15 |
 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 | 2022-11-25 |  |
 | [Work For It \- Club Mix](https://open.spotify.com/track/10B5Qt4RXuzZUP6nHmXMGU) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [MEE•KAY](https://open.spotify.com/artist/7bB81EAeT6u9gmLp0gQCaB), [saint nbdy](https://open.spotify.com/artist/2o5Vii2rGx7iMMC1FPbSAJ) | [Work For It \(Club Mix\)](https://open.spotify.com/album/7nVhIalu5fjsdQ0BmzNlmg) | 3:03 | 2024-11-15 | 2025-03-08 |
-| [World Goin' Crazy \(feat\. Jaz Karis\) \- DJEFF Remix](https://open.spotify.com/track/6OFe3RGAwXEBsYHcChvSLV) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [World Goin' Crazy \(feat\. Jaz Karis\) \[DJEFF Remix\]](https://open.spotify.com/album/76jq7lACKeDet4d3EGE20q) | 3:21 | 2025-01-27 |  |
+| [World Goin' Crazy \(feat\. Jaz Karis\) \- DJEFF Remix](https://open.spotify.com/track/6OFe3RGAwXEBsYHcChvSLV) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [World Goin' Crazy \(feat\. Jaz Karis\) \[DJEFF Remix\]](https://open.spotify.com/album/76jq7lACKeDet4d3EGE20q) | 3:21 | 2025-01-27 | 2025-04-27 |
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 |  |
 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 | 2021-02-28 |  |
 | [Yam](https://open.spotify.com/track/5611kGfXxWTSKXhK8GGtZ6) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Yam](https://open.spotify.com/album/7CJcQ7QyRFVZMEeNx40Oe9) | 9:33 | 2019-08-02\* | 2021-07-04 |

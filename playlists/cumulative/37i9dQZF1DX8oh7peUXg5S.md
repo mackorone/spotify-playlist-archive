@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-331 songs - 21 hr 9 min
+332 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acaso](https://open.spotify.com/track/39tmRtKKAWb6PyvUioJOD1) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Acaso](https://open.spotify.com/album/4wALhbk6F1YilNThaNPDhC) | 3:42 | 2023-10-26 | 2023-12-15 |
 | [Adios rios, adios fontes](https://open.spotify.com/track/5QYwFUayrzxqwVV7GEMXM3) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Rosalia de Castro](https://open.spotify.com/album/3DnXxEHxaVU2J1QjYPwKc7) | 2:36 | 2022-06-09 | 2022-07-25 |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-06-09 |  |
-| [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 |  |
+| [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 | 2025-04-27 |
 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 | 2022-08-11 |  |
 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 | 2022-06-09 |  |
 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2022-06-09 |  |
@@ -102,6 +102,7 @@
 | [El Meteco \(Le Métèque\)](https://open.spotify.com/track/5Wsk3PjvEpeyJADawCDHsJ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2) | [Canta Moustaki y Canciones de la Resistencia](https://open.spotify.com/album/7igLnNu1BTR55GnN49wfoW) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [El novio de la muerte](https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Grandes Exitos](https://open.spotify.com/album/6XlZhZZ0tjPOTZhdyRDIul) | 4:00 | 2022-06-09 | 2022-07-28 |
 | [El Otro](https://open.spotify.com/track/3rSMP6Rx0DxlXN01DWotof) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [El Otro](https://open.spotify.com/album/6pl3ZsD89ASk91SpE61Gt5) | 3:36 | 2024-05-21 | 2024-06-29 |
+| [El Palomo y La Negra](https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 7:00 | 2025-04-24 |  |
 | [El Panadero](https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [De camino al camino](https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS) | 5:40 | 2024-07-31 | 2024-11-29 |
 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 | 2022-06-09 |  |
 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 | 2022-06-30 | 2024-04-19 |

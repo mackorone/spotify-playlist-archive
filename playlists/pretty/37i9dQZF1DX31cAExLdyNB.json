@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 73579,
+  "num_followers": 73606,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Bonafide (feat. Chiiild)",
+        "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
       },
@@ -1115,6 +1135,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/3lsmVQoFvCNouKW2PeeYuz"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
       },
@@ -1127,26 +1163,6 @@
       "duration_ms": 302573,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Bonafide (feat. Chiiild)",
-        "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/3lsmVQoFvCNouKW2PeeYuz"
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1215,22 +1231,6 @@
       "duration_ms": 213896,
       "name": "Lilas",
       "url": "https://open.spotify.com/track/5gb4DPjRoVA3y4O5KMmmQq"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

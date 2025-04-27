@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>, <a href="spotify:artist:163tK9Wjr9P9DmM0AVK7lm">Lorde</a>,  <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,497 likes - 112 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,516 likes - 112 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 34 | [Sæson](https://open.spotify.com/track/65Nq6t6JmdfVOf2IIkCIgX) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Sæson](https://open.spotify.com/album/0rjKYgUC4EPdh7uJz338XZ) | 3:10 |
 | 35 | [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 |
 | 36 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
-| 37 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:27 |
+| 37 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:26 |
 | 38 | [LETE AMBO \- All We Need \(feat\. NATURE\)](https://open.spotify.com/track/1bizefHeXZNNsBv3ucLbQc) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x), [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [LETE AMBO \- All We Need \(feat\. NATURE\)](https://open.spotify.com/album/0OOupp3cXfV1RI6PR7ZFGk) | 3:46 |
 | 39 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
 | 40 | [I Don’t Wanna Be Strong \(feat\. NATURE\)](https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [I Don’t Wanna Be Strong \(feat\. NATURE\)](https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4) | 3:17 |

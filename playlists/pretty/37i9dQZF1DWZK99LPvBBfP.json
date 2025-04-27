@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 316394,
+  "num_followers": 316586,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "The Rising Sun",
-        "url": "https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg"
-      },
-      "artists": [
-        {
-          "name": "Heller & Farley",
-          "url": "https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd"
-        },
-        {
-          "name": "Danny Tenaglia",
-          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
-        }
-      ],
-      "duration_ms": 607392,
-      "name": "The Rising Sun - Danny Tenaglia Remix",
-      "url": "https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "The Rising Sun",
+        "url": "https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg"
+      },
+      "artists": [
+        {
+          "name": "Heller & Farley",
+          "url": "https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd"
+        },
+        {
+          "name": "Danny Tenaglia",
+          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
+        }
+      ],
+      "duration_ms": 607392,
+      "name": "The Rising Sun - Danny Tenaglia Remix",
+      "url": "https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6"
     },
     {
       "added_at": "2024-03-22 15:59:52",

@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-697 songs - 1 day 11 hr 23 min
+698 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Verliefd Op Je Moeder](https://open.spotify.com/track/7i23TTo8rtoPiEDeMzn7Af) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Joelito Cortes](https://open.spotify.com/artist/7dFAnqjYvsqYLixFroWPYw) | [Verliefd Op Je Moeder](https://open.spotify.com/album/18cFTTLVDDjtgWDVqJ3oPd) | 3:21 | 2024-03-16 | 2024-04-09 |
 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-10 | 2025-02-28 |
 | [Viraal](https://open.spotify.com/track/1oDGSDSB1WMKOJ9Uan2xhK) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Francis \(Deluxe\)](https://open.spotify.com/album/7grJqgWAfkay4AI7XubQYc) | 3:04 | 2025-02-23 |  |
+| [Viraal](https://open.spotify.com/track/2P4ywspztlDq513vHHXN99) | [Straatorgel](https://open.spotify.com/artist/77ig0wiX3HDRBzHlM1xU9M) | [Viraal](https://open.spotify.com/album/1XUoGpopyjrDTJTkCSRHAw) | 2:08 | 2025-04-26 |  |
 | [Viva Hollandia \- Oranje Versie](https://open.spotify.com/track/04rYjvkkgtZk4i6D6TOVnY) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Viva Hollandia](https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4) | 2:52 | 2024-07-10 | 2024-07-12 |
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2023-08-11 | 2023-12-15 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-07 | 2024-03-22 |

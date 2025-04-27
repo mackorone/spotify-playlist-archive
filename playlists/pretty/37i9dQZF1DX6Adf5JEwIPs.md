@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Kane Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,630 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,699 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 31 | [Solo Y Triste](https://open.spotify.com/track/78dPUxIN9us6Z4ZlPxbpFJ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Solo Y Triste](https://open.spotify.com/album/5xlQHImKHy8gx1B3xhPSsy) | 3:25 |
 | 32 | [Bonita](https://open.spotify.com/track/3qsvUw3yjG7gn7chFLmAcg) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Bonita](https://open.spotify.com/album/5pJBh2RyM6VKLMFYn58A9k) | 3:36 |
 | 33 | [Ven Porque Te Necesito](https://open.spotify.com/track/1DFxVZNWukzeQmUzqKwGWO) | [Los Mentados De Culiacán](https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV) | [Ven Porque Te Necesito](https://open.spotify.com/album/3bVgANx64Qsb3EfGqpC7SO) | 3:22 |
-| 34 | [Cuernito](https://open.spotify.com/track/6qD6nrJ9GNR9aEmFJWSMRP) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA), [Bruno Caleb](https://open.spotify.com/artist/1p0oNUu5r3N34CvGfcOrge) | [Cuernito](https://open.spotify.com/album/7eQ0vQyTrsiXg7HFbABRbp) | 2:39 |
+| 34 | [Cuernito](https://open.spotify.com/track/6qD6nrJ9GNR9aEmFJWSMRP) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA), [Bruno Caleb](https://open.spotify.com/artist/1p0oNUu5r3N34CvGfcOrge) | [Cuernito](https://open.spotify.com/album/7eQ0vQyTrsiXg7HFbABRbp) | 2:34 |
 | 35 | [Vivir O Morir En LA](https://open.spotify.com/track/3AxBhLZ99OFbE37ej2BQbU) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Bobby Castro](https://open.spotify.com/artist/4ihFcvdNSlB6Likn7JXeuO) | [Vivir O Morir En LA](https://open.spotify.com/album/5WMtBqDGwPiyCq7tTNi6ke) | 2:33 |
 | 36 | [Aquí Estoy Otra Vez](https://open.spotify.com/track/0NWz5kpPSCKuwAc8PWmYzz) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Aquí Estoy Otra Vez](https://open.spotify.com/album/1E4ilBh2PupZ679Pb0O9AB) | 3:23 |
 | 37 | [Vida Alegre](https://open.spotify.com/track/0lZGwjwOF18AKZsAbxSrQY) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Ruben Salazar](https://open.spotify.com/artist/3gZzeJxVHgffS6L99rXXZ7) | [Vida Alegre](https://open.spotify.com/album/63XjjE13QPt3tUoN25M3Go) | 3:40 |

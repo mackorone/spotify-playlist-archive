@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Esau Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,670 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,715 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 17 | [Mustangson](https://open.spotify.com/track/4cigPi41A3NvCqgOjD5znn) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Mustangson](https://open.spotify.com/album/7MwlQpqH0gjRaLQyLRoTCQ) | 2:51 |
 | 18 | [GC2](https://open.spotify.com/track/7ikSVS00cr9q0eLkZV5Wff) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [GC2](https://open.spotify.com/album/6CwfRLxOEriZKcYspVWweb) | 2:05 |
 | 19 | [Un Pinche Beso](https://open.spotify.com/track/74VqzkAHExc3swzo3KyVpX) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Un Pinche Beso](https://open.spotify.com/album/0EhgMS8ItwTpkWe9JrrkVW) | 3:13 |
-| 20 | [Cuernito](https://open.spotify.com/track/6qD6nrJ9GNR9aEmFJWSMRP) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA), [Bruno Caleb](https://open.spotify.com/artist/1p0oNUu5r3N34CvGfcOrge) | [Cuernito](https://open.spotify.com/album/7eQ0vQyTrsiXg7HFbABRbp) | 2:39 |
+| 20 | [Cuernito](https://open.spotify.com/track/6qD6nrJ9GNR9aEmFJWSMRP) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA), [Bruno Caleb](https://open.spotify.com/artist/1p0oNUu5r3N34CvGfcOrge) | [Cuernito](https://open.spotify.com/album/7eQ0vQyTrsiXg7HFbABRbp) | 2:34 |
 | 21 | [Vibrar +](https://open.spotify.com/track/3ZhAp3NqitEPfKINYmir12) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Vibrar +](https://open.spotify.com/album/5JG8dcjPqJTaunDFiyeWw6) | 3:12 |
 | 22 | [Agonía](https://open.spotify.com/track/4eK4WqZ60xSVQ6wJ8Skppg) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Agonía](https://open.spotify.com/album/1bs61DBrIGO6oAiCMFIKer) | 2:44 |
 | 23 | [Lágrimas de Cristal](https://open.spotify.com/track/50Rt7nxfuhsWMQYetIbOEw) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [Lágrimas de Cristal](https://open.spotify.com/album/5ivJ6AFxmQy1DBcaEVVJpg) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,663 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,673 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 81 | [해후](https://open.spotify.com/track/6pmaYVS7RYSampMASIfvVr) | [Choi Sung\-Soo](https://open.spotify.com/artist/6z9myYOnV4TlVRyIhpaesB) | [2집 동행, 해후](https://open.spotify.com/album/1yZGg2eVMagSzx3VkuI3wO) | 4:41 |
 | 82 | [작은배](https://open.spotify.com/track/6OStKM38fMLK2RLCCHmoZM) | [Jo Dong Jin](https://open.spotify.com/artist/5hNOAcMCRMaVq2JxYPWo2X) | [조동진 best collection](https://open.spotify.com/album/7owUauFEMVyl6GtZnaMMF3) | 4:36 |
 | 83 | [그대 그리고 나](https://open.spotify.com/track/6GNfSUnrCNHYVnII0nVhQv) | [송민수](https://open.spotify.com/artist/7wtgB7b2KnKb0KXpRbkJPI) | [강촌사람들 2집](https://open.spotify.com/album/0Ny5CpfgimmkK6MvspXUVs) | 3:38 |
-| 84 | [Poet's Village](https://open.spotify.com/track/3LyAY6DE2w6SxoBywojKGv) | [Joung Tae Choon](https://open.spotify.com/artist/3dbQtvTg86O47krpwPZyXQ), [Park Eunok](https://open.spotify.com/artist/1RKIrIfK7MPUe5IrTsD1go) | [Selections 1](https://open.spotify.com/album/6frWrpXYrMCBNMkw6aUomI) | 4:34 |
+| 84 | [Poet's Village](https://open.spotify.com/track/3LyAY6DE2w6SxoBywojKGv) | [Joung Tae Choon](https://open.spotify.com/artist/3dbQtvTg86O47krpwPZyXQ), [Park Eun Ohk](https://open.spotify.com/artist/2Zmq5vPjYzUftwpLdvQYYx) | [Selections 1](https://open.spotify.com/album/6frWrpXYrMCBNMkw6aUomI) | 4:34 |
 | 85 | [Child Of The Winter](https://open.spotify.com/track/4EI3o8ZxBZITf1Y12tcVEI) | [Lee Jongyong](https://open.spotify.com/artist/7a6u6RfJPVQHl5N7lIk8Wt) | [Lee Jongyong](https://open.spotify.com/album/5HFUe5GPpjmX6umcBlPYkt) | 4:22 |
 | 86 | [Changing Seasons](https://open.spotify.com/track/7hV1RYCYJjXChKSrhHaamj) | [Lee Yong](https://open.spotify.com/artist/23S2B8TUv56DUXF7kpfi1h) | [Lee Yong 1.](https://open.spotify.com/album/78rjwQxUD7eGQtwIYO5fae) | 3:47 |
 | 87 | [내마음의 보석상자](https://open.spotify.com/track/5nSBcnvB8fbgu0xJLPYdkl) | [해바라기](https://open.spotify.com/artist/1d0JcDAe4qjqpNzPJuf9uB) | [사랑은 언제나 그자리에](https://open.spotify.com/album/78lqaBjh6s38tBSwghSuon) | 4:05 |

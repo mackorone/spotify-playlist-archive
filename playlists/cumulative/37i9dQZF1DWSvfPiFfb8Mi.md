@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-368 songs - 1 day 0 hr 14 min
+369 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-05-19 |  |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2021-07-24 | 2023-09-17 |
 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 | 2021-07-24 | 2025-02-15 |
-| [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 | 2023-08-04 |  |
+| [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 | 2023-08-04 | 2025-04-27 |
 | [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 | 2024-06-21 |  |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-06-28 |  |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- LP Giobbi Remix](https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[LP Giobbi Remix\]](https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn) | 2:53 | 2024-04-26 |  |
@@ -376,5 +376,6 @@
 | [You've Got That Sound](https://open.spotify.com/track/6XBap7RZKz8fnJ8H7ChGLz) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [You've Got That Sound](https://open.spotify.com/album/7CgaGa73tHombkMeXLyyNV) | 6:05 | 2021-07-24 | 2023-05-20 |
 | [Young In California](https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Young In California](https://open.spotify.com/album/77AL4lIpiSzEf4P6Z2j4XF) | 3:57 | 2023-07-21 | 2025-04-13 |
 | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:41 | 2023-05-19 | 2025-02-11 |
+| [Ça Va Aller](https://open.spotify.com/track/1SNxT1dtzAz5Jfiam3oihq) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ça Va Aller](https://open.spotify.com/album/63896UNR4OgFrYDO3RTZhU) | 4:46 | 2025-04-25 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

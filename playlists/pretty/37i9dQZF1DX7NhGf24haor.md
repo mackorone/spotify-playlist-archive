@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,591 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,662 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 44 | [Beyond the Light \- Radio Edit](https://open.spotify.com/track/3M6e8XQzUEKZx8aChW6ip8) | [Dypression](https://open.spotify.com/artist/1VqAzNHvB2zNtXCgnEsTkJ), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Beyond the Light \(Radio Edit\)](https://open.spotify.com/album/4OiJORPadJlFWm8NtZ2KhL) | 2:46 |
 | 45 | [Like A Bitch](https://open.spotify.com/track/38g2OfneomEog25tsXHDHX) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Like A Bitch](https://open.spotify.com/album/4GTbz3WgJvTzry8k4RvIlu) | 2:41 |
 | 46 | [Higher](https://open.spotify.com/track/0OimFKahMR1inr2Wl07T4P) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Higher](https://open.spotify.com/album/1RumGy0vd7wfgEc5LGd0Hs) | 2:43 |
-| 47 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Sonja](https://open.spotify.com/artist/0X41IVISCoYgYWT2PsfqoC) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
+| 47 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
 | 48 | [FEEL THAT SOUND](https://open.spotify.com/track/73Yqlqt6cSLsDdzOr47Ext) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [FEEL THAT SOUND](https://open.spotify.com/album/6D9fZrKd5lExclQIVEzPvX) | 2:17 |
 | 49 | [Remedy](https://open.spotify.com/track/2Y3ZCiAj9Td3H8dYvycaVk) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [Remedy](https://open.spotify.com/album/21S7K51Dn769uIaDyKEB1y) | 3:06 |
 | 50 | [DIE 4 SOMETHING](https://open.spotify.com/track/1CrKRN0HQ8hAecQaIlM3pv) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [DIE 4 SOMETHING](https://open.spotify.com/album/0QSdTz1zzbUJWWyDcsrqaR) | 3:22 |

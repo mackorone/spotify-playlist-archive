@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,644 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,154 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 10 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 |
 | 11 | [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 |
 | 12 | [Born Funky](https://open.spotify.com/track/3NR678vn8CA4WtNfujey2W) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Born Funky / Lights Off](https://open.spotify.com/album/5j9rLNv0RgZVs8FStsF9rz) | 2:52 |
-| 13 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:27 |
+| 13 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:26 |
 | 14 | [The Whistle](https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [The Whistle / My Team](https://open.spotify.com/album/142SZCqFfk2OgKTTHZVaCi) | 3:30 |
 | 15 | [Psycho](https://open.spotify.com/track/0Rtw2QAmHGGrCCTpXxNyIW) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Psycho](https://open.spotify.com/album/5dOppSysiFh0fjrhz1xx2K) | 3:15 |
 | 16 | [The Underground](https://open.spotify.com/track/725XQpVXQxik8j47abPZqC) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [The Underground](https://open.spotify.com/album/12oFVkkviJ2Zq4nF6e5fDH) | 3:36 |

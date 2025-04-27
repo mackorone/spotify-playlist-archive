@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 183200,
       "name": "Comerte",
       "url": "https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 202159,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6vatfs7t1je6O2rrp5NNBZ"
@@ -1188,6 +1188,24 @@
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/0dfdg93deJMozKJk2Uxqj9"
+    },
+    {
+      "album": {
+        "name": "Pegate",
+        "url": "https://open.spotify.com/album/3GQQtZbriguMYxAKRZF24V"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/0l2nYr3FtVARslvVHw2KuX"
     },
     {
       "album": {

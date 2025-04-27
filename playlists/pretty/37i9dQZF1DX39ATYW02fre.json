@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 251196,
+  "num_followers": 251227,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Lose You",
-        "url": "https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/3kwO6PsIaJRPly16C4kdMI"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/4xbmE7Wf6afPmc8Px1Rc7Q"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "What We Best Do",
         "url": "https://open.spotify.com/album/27qkQUeZSdWumxrX6I4u4v"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 164424,
       "name": "What We Best Do",
       "url": "https://open.spotify.com/track/35s6mH2lDL4o2OzyZg6Z8O"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2025-04-17 23:00:35",

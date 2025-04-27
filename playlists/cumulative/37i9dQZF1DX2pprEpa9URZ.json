@@ -6833,6 +6833,32 @@
     },
     {
       "album": {
+        "name": "P\u00e1rtelo",
+        "url": "https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC"
+      },
+      "artists": [
+        {
+          "name": "David Tort",
+          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        },
+        {
+          "name": "Ghetto Flow",
+          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127926,
+      "name": "P\u00e1rtelo",
+      "url": "https://open.spotify.com/track/7pAZFQZylCaA138Gort875"
+    },
+    {
+      "album": {
         "name": "Quem Sou Eu",
         "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
@@ -9334,7 +9360,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 201025,
       "name": "World Goin' Crazy (feat. Jaz Karis) - DJEFF Remix",
       "url": "https://open.spotify.com/track/6OFe3RGAwXEBsYHcChvSLV"

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,309 songs - 3 day 15 hr 58 min
+2,310 songs - 3 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 | 2024-05-14 |
 | [Chasette](https://open.spotify.com/track/6YxNZWfsde3p8xYqO5bZsQ) | [Koloso](https://open.spotify.com/artist/5sJTKXv0COjf7x8ucatN55) | [Chasette](https://open.spotify.com/album/2nEtJlvncjBCZpx818evPA) | 3:14 | 2022-04-15 | 2022-06-10 |
 | [Cheating Accidentally](https://open.spotify.com/track/3x5U06AxZduhHGtMxR5PVX) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Cheating Accidentally](https://open.spotify.com/album/35mtHWzN4VCTlIFhvTKos3) | 2:03 | 2023-07-13 | 2023-08-18 |
-| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 | 2025-02-20 |
+| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 |  |
 | [checkerboard floor](https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [checkerboard floor](https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW) | 2:32 | 2024-01-05 |  |
 | [Cheese](https://open.spotify.com/track/3kezm9BJFigeCNyw7fEuQL) | [Qblai](https://open.spotify.com/artist/6kic9xfTDro2RmmCYJuYEe) | [Cheese](https://open.spotify.com/album/502VQnDl3T8DLwIF8ImytZ) | 1:55 | 2022-04-15 | 2022-09-02 |
 | [Cheese cake express](https://open.spotify.com/track/4lYciP0rbVDIwXaqIYZTUk) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Cheese cake express](https://open.spotify.com/album/5j3BiFxAlTUJqrwDbsdZ1N) | 2:01 | 2022-04-15 | 2023-02-14 |
@@ -413,7 +413,7 @@
 | [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 | 2024-08-24 |
 | [collogue](https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [collogue](https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min) | 2:00 | 2023-12-22 | 2024-04-27 |
 | [Cologne](https://open.spotify.com/track/51Y2wtkgr7E6H2qs0w1xi0) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cologne](https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW) | 1:36 | 2023-09-15 | 2024-05-01 |
-| [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2023-08-17 |  |
+| [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2023-08-17 | 2025-04-27 |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2023-11-17 |  |
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2022-04-15 | 2022-08-12 |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-04-15 | 2022-06-10 |
@@ -615,7 +615,7 @@
 | [enjoy](https://open.spotify.com/track/4o7HdlY1kz3wgydBjBUnXg) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [enjoy](https://open.spotify.com/album/4xLi3t4sYeqwgVRmzvP4BD) | 2:04 | 2022-08-05 | 2022-08-12 |
 | [Enjoying the day](https://open.spotify.com/track/7zpBzfVMJ7pxHUtv4ovbvZ) | [Arkei](https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw) | [Enjoying the day](https://open.spotify.com/album/4ZwnFRo81rASRwGFVZpqF4) | 1:43 | 2022-08-05 | 2022-09-17 |
 | [Envision](https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ) | [Rumun III](https://open.spotify.com/artist/1Wq0AZnbeWGdPTTC1Hi9Ug) | [Envision](https://open.spotify.com/album/3wrRu4qhyAbkqqKSiuNaR0) | 2:43 | 2024-03-22 | 2024-09-14 |
-| [Ericeira](https://open.spotify.com/track/09jQvvsQmpznQhdSH28OK0) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Ericeira](https://open.spotify.com/album/1vhRqSTwsOfN1LGzsJNK6H) | 2:29 | 2025-04-04 |  |
+| [Ericeira](https://open.spotify.com/track/09jQvvsQmpznQhdSH28OK0) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Ericeira](https://open.spotify.com/album/1vhRqSTwsOfN1LGzsJNK6H) | 2:29 | 2025-04-04 | 2025-04-27 |
 | [esmeralda](https://open.spotify.com/track/0Lj1X67CDtaEWSo1hcwJdx) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [esmeralda](https://open.spotify.com/album/3JUStuPYqenccbd0mme7OU) | 2:58 | 2022-07-01 | 2023-03-09 |
 | [Espresso Dreams](https://open.spotify.com/track/5RxXQDO8DJ3dKnvTeQUadQ) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Spoonful Of Soup](https://open.spotify.com/album/1NvgkHRMAM7qlDyFqXsa4S) | 2:32 | 2022-04-15 | 2022-08-19 |
 | [Essence](https://open.spotify.com/track/1sEmxwmZVUo6xedokWhkVx) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Essence](https://open.spotify.com/album/34BOK5sRNg2bhvka350wCY) | 1:59 | 2025-01-24 | 2025-02-28 |
@@ -2105,6 +2105,7 @@
 | [Track 1](https://open.spotify.com/track/1ft2SofZgoOUES7BDdgKun) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 1](https://open.spotify.com/album/2OiLMI7DmmVPt60kkKjEvt) | 3:51 | 2022-07-08 | 2022-12-03 |
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [trail running](https://open.spotify.com/track/3596EdDGZEzM9UPr9w2I0w) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [trail running](https://open.spotify.com/album/114QRu5RtFb6ckOjLI3LGP) | 2:41 | 2024-03-22 |  |
+| [trailfinder](https://open.spotify.com/track/3kovXGUqe1UPgVSYwrnGTV) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [trailfinder](https://open.spotify.com/album/5ZJG6CebRCCTsLPB9Is1Bn) | 2:12 | 2025-04-25 |  |
 | [Train Daze](https://open.spotify.com/track/6NSdBGSHTlcgV4rpYDovJi) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Bridges We Burn](https://open.spotify.com/album/2kYWdCoZKAM2eFk9scogK6) | 1:33 | 2022-10-28 | 2023-01-20 |
 | [Train of Thought](https://open.spotify.com/track/3YND9PKIVwNUOQhKniUcCQ) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:12 | 2022-04-15 | 2022-05-27 |
 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-04-20 | 2024-11-16 |

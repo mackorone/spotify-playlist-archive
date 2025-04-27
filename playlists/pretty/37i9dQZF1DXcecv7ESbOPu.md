@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Zara Larsson, Y4ska, Lorde och Veronica Maggio med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,772 likes - 114 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,798 likes - 114 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 |
 | 56 | [Fake Nice \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/5KcdtJsVc2X36iBOV8S3Zt) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Fake Nice \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/324GNFC8aQ3DpoVQVnrp82) | 3:28 |
 | 57 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
-| 58 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:27 |
+| 58 | [What’s The Time?](https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [What’s The Time?](https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP) | 2:26 |
 | 59 | [You dont even miss me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You dont even miss me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 |
 | 60 | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 |
 | 61 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |

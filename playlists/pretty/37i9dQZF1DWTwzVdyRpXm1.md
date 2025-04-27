@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,842 likes - 77 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,045 likes - 77 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

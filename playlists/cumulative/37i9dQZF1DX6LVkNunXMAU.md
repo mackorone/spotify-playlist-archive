@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Paz Carrara y Raly Barrionuevo
 
-324 songs - 17 hr 41 min
+326 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Cruzandonos](https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n) | [Rosario Serafin](https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM) | [Cruzandonos](https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY) | 3:35 | 2023-05-12 | 2023-12-23 |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 | 2023-05-10 |
 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2022-11-11 | 2023-06-24 |
-| [Cuando Empecé a Quererte](https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a) | [Gamuza](https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D) | [Cuando Empecé a Quererte](https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw) | 3:05 | 2023-05-26 |  |
+| [Cuando Empecé a Quererte](https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a) | [Gamuza](https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D) | [Cuando Empecé a Quererte](https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw) | 3:05 | 2023-05-26 | 2025-04-27 |
 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 | 2022-11-11 |  |
 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2022-05-20 | 2022-08-27 |
 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 | 2023-06-23 | 2024-09-27 |
@@ -99,7 +99,7 @@
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 |  |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 |  |
-| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 |  |
+| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 | 2025-04-27 |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-06-16 | 2024-09-27 |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-03-07 | 2024-09-27 |
@@ -126,6 +126,7 @@
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 |  |
 | [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 | 2023-08-04 |  |
 | [Eros \(Claroscuro\)](https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Eros \(Claroscuro\)](https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM) | 2:48 | 2023-12-07 | 2024-09-27 |
+| [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 | 2025-04-25 |  |
 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 | 2023-06-24 |
 | [febrero](https://open.spotify.com/track/04Iw1lILPMZ2Olx9uaxuS2) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [febrero](https://open.spotify.com/album/2IFtyFe4JwkDAeNskiNKbo) | 3:16 | 2023-06-23 | 2023-08-26 |
 | [Final Feliz](https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM) | [JUSTINA](https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc) | [Final Feliz](https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9) | 3:34 | 2024-09-26 |  |
@@ -250,6 +251,7 @@
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2022-11-11 | 2023-04-15 |
 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 | 2022-05-20 | 2022-12-18 |
 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-11-11 | 2023-10-07 |
+| [Pétalo de sal](https://open.spotify.com/track/1caOzwrLNlGpB2EmHKFAZL) | [Dos Más Uno](https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh) | [Las canciones más lindas del mundo, Vol\. 2](https://open.spotify.com/album/3cwIE8jEoB626Z1Sj3J1Fm) | 2:55 | 2025-04-25 |  |
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2022-11-11 |  |
 | [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 | 2022-05-20 | 2023-03-06 |
 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 | 2024-04-12 | 2024-09-27 |

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-780 songs - 2 day 7 hr 30 min
+781 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2021-10-06 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2021-10-06 | 2023-04-29 |
 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2021-10-06 | 2024-02-10 |
-| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 |  |
+| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 | 2025-04-27 |
 | [OOO](https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OOO](https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd) | 3:03 | 2022-01-12 | 2024-07-05 |
 | [Open the Gates](https://open.spotify.com/track/31RxSGS6KMoMfVIOISvVFy) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/7tTmhBfHBSUJWHIygHlX31) | 2:39 | 2022-02-12 | 2022-06-12 |
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-06-27 |  |
@@ -775,6 +775,7 @@
 | [Yellow Sari](https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Yellow Sari](https://open.spotify.com/album/2c0QZvuJ1KGVT4mD8rRQCb) | 3:00 | 2021-10-06 | 2022-07-13 |
 | [Yo No Me Voy](https://open.spotify.com/track/1e4BOTRjWDjsXIiWod2uPC) | [Wara](https://open.spotify.com/artist/0JsGzIgI4gPBcwc9I26xG6) | [Yo No Me Voy](https://open.spotify.com/album/5vIC2fk7FiQflYiBgcsyaA) | 3:55 | 2022-04-17 | 2022-04-21 |
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 | 2022-06-24 |
+| [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 | 2025-04-25 |  |
 | [Zarambe \- Afrolicious Remix](https://open.spotify.com/track/0Oga3F3Fs4bZGrfiwkuSLl) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Afrolicious](https://open.spotify.com/artist/3KqifmMqcKiOWYzte5jZcF) | [Karimba Diabolic](https://open.spotify.com/album/1ZIUBvitQJ6WMfQvnHjjxU) | 4:58 | 2022-04-01 | 2022-04-12 |
 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 | 2025-03-28 |
 | [Zorromi](https://open.spotify.com/track/6POQFiHPuoSsjRwDoEin2I) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [NOUSSIN](https://open.spotify.com/album/2GTv9mrqZql1WAuSq4zAQH) | 3:54 | 2021-10-06 | 2022-07-29 |

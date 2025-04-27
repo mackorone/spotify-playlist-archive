@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,474 likes - 470 songs - 1 day 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,494 likes - 470 songs - 1 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 122 | [All You Had To Do Was Stay](https://open.spotify.com/track/4NNolUeL5m2ju7kf8pdg6H) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:13 |
 | 123 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 |
 | 124 | [Ordinary Life](https://open.spotify.com/track/7lsYGc5H5DHktxO7gbB8bN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 3:41 |
-| 125 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
-| 126 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 |
+| 125 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 |
+| 126 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
 | 127 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
 | 128 | [feelslikeimfallinginlove](https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:56 |
 | 129 | [So It Goes...](https://open.spotify.com/track/41T04yafZVrjNq2FqvLtId) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 3:47 |
@@ -309,8 +309,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 299 | [Dinosaur](https://open.spotify.com/track/74cq6AFbsKdUVZMpG2TPEr) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:55 |
 | 300 | [Blank Space](https://open.spotify.com/track/5mRAG78zUjsakidiVqYzqn) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Blank Space](https://open.spotify.com/album/5rJt6afdkioBpYOAB5PDR4) | 3:18 |
 | 301 | [Light Up The World](https://open.spotify.com/track/1Et2wMhDPqbu5y4sGRt6Ue) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 6](https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS) | 3:43 |
-| 302 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
-| 303 | [iAAM](https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:03 |
+| 302 | [iAAM](https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:03 |
+| 303 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
 | 304 | [Mateo](https://open.spotify.com/track/6n2geOyYHOGZtpITVmrWoo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:49 |
 | 305 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
 | 306 | [Don't Go Knockin' on My Door](https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:43 |
@@ -369,8 +369,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 359 | [Motivation \(with 21 Savage\) \- Savage Remix](https://open.spotify.com/track/5jpPuiSfxFPmjJRQyH1Lie) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Motivation \(with 21 Savage\) \[Savage Remix\]](https://open.spotify.com/album/7573vI8N5aDdqoaeSOgflW) | 3:24 |
 | 360 | [Baby \(T.U.M.H.\)](https://open.spotify.com/track/6Gng3257ZAGLbswdbCJ6xm) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Crystals](https://open.spotify.com/album/4GNyOPxAoQf0Y12fmkygOf) | 3:13 |
 | 361 | [Stay My Baby](https://open.spotify.com/track/0YonII18xBlXaIEy2wd4mh) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [iCarly \- Music From and Inspired by the Hit TV Show](https://open.spotify.com/album/0xNAZJ9t4vyY9SNWoZ3rrx) | 3:05 |
-| 362 | [Quit Playing Games \(With My Heart\) \- music underlaying words](https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB) | [Quit Playing Games \(With My Heart\) \[music underlaying words\]](https://open.spotify.com/album/0CZXXBYQteYVfCSb5Wwcfj) | 2:29 |
-| 363 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
+| 362 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
+| 363 | [Quit Playing Games \(With My Heart\) \- music underlaying words](https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB) | [Quit Playing Games \(With My Heart\) \[music underlaying words\]](https://open.spotify.com/album/0CZXXBYQteYVfCSb5Wwcfj) | 2:29 |
 | 364 | [Right Type of Mood](https://open.spotify.com/track/4AVRF0HQlBh62hgE3s3R75) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:13 |
 | 365 | [Man in The Moon](https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:54 |
 | 366 | [Into the Nightlife](https://open.spotify.com/track/5sNMvugK74Y1EtpRfBETX6) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Bring Ya To The Brink](https://open.spotify.com/album/3AjLjZYNM0pBO56XfXaye9) | 4:00 |
@@ -479,4 +479,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 469 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 470 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbvwIAAAAAA8jOZIJjI2P50GSMzRXPNz`
+Snapshot ID: `Abv1wAAAAACNTrCOUpjqdpGEq3S6dTRB`

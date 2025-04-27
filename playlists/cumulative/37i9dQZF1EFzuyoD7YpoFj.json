@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "SESJUN RADIO SHOWS VOL.2",
+        "url": "https://open.spotify.com/album/7FAkmTKo6gCz6n3xiwTk4J"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 731813,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0"
+    },
+    {
+      "album": {
         "name": "Look What I Found",
         "url": "https://open.spotify.com/album/0p2j4p50OqENNhQox5ea8A"
       },
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 731773,
       "name": "The New Yorkers: Love for Sale",
       "url": "https://open.spotify.com/track/7mznEsmnTKFMNoN1604nlf"

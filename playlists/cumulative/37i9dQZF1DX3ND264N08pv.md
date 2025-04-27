@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-327 songs - 17 hr 58 min
+329 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Drifting Away](https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:03 | 2023-01-19 | 2023-10-26 |
 | [DROP IT \- Better With Condom Remix](https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Better With Condom](https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc) | [DROP IT \(Better With Condom Remix\)](https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad) | 3:23 | 2023-02-16 | 2023-03-07 |
 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 | 2023-08-31 | 2024-12-13 |
+| [Dynamite \- 2025 OST](https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Dynamite \(2025 OST\)](https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ) | 2:53 | 2025-04-25 |  |
 | [Endemic](https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Endemic](https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc) | 4:00 | 2022-12-08 | 2023-09-02 |
 | [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 | 2023-09-01 | 2024-08-29 |
 | [Enemy Contact](https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Enemy Contact](https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu) | 3:40 | 2023-06-01 | 2023-09-01 |
@@ -126,6 +127,7 @@
 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 | 2024-09-10 |
 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-01-24 | 2025-04-26 |
 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 | 2024-11-18 | 2025-04-09 |
+| [Hardcore Riot](https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Hardcore Riot](https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP) | 2:40 | 2025-04-25 |  |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [HARI HARI \(2024 RMX\)](https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [HARI HARI \(2024 RMX\)](https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM) | 3:16 | 2024-01-24 | 2024-02-09 |
 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 | 2025-04-17 |  |
@@ -137,7 +139,7 @@
 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 | 2023-04-13 | 2024-06-03 |
 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 | 2024-02-15 | 2025-02-28 |
 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 | 2022-12-08 | 2024-02-05 |
-| [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 | 2024-02-15 |  |
+| [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 | 2024-02-15 | 2025-04-27 |
 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 | 2023-03-30 | 2024-06-28 |
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 | 2023-10-26 |
 | [Hola](https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx) | [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Hola](https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL) | 2:15 | 2024-08-30 | 2024-12-19 |
@@ -334,6 +336,6 @@
 | [Xtreme Audio \- Official Thunderdome 2023 Anthem](https://open.spotify.com/track/6dSWJAPcVBn8TPrKqla5LA) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Xtreme Audio \(Official Thunderdome 2023 Anthem\)](https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG) | 3:51 | 2023-10-25 | 2024-12-13 |
 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 | 2023-04-11 |
 | [You Can't Stop Me](https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [You Can't Stop Me](https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ) | 3:19 | 2022-12-08 | 2023-12-22 |
-| [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 | 2024-10-03 |  |
+| [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 | 2024-10-03 | 2025-04-27 |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

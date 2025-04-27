@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 23 min
+95 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anchor](https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:41 | 2023-12-13 |  |
 | [Arrival](https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:55 | 2023-12-13 |  |
 | [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 | 2023-12-13 | 2025-04-10 |
+| [Beat The Charge](https://open.spotify.com/track/1cBxj4iul3ojLLDOF9mqBR) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Beat The Charge](https://open.spotify.com/album/1S7PFmHtbdLHnNMB9Oexx1) | 2:37 | 2025-04-27 |  |
 | [Beg](https://open.spotify.com/track/20MqlBEQ7FhjqWb9xJWn5Y) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [ETO](https://open.spotify.com/artist/3EX6Tq7do8AKaFv39oRCfQ) | [Valenti & Rizzuto](https://open.spotify.com/album/31uGT3nPqfgTPffCdLluW6) | 2:44 | 2024-03-04 | 2024-03-07 |
 | [Big George Bombs](https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:00 | 2023-12-13 |  |
 | [Body of Lies](https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Body of Lies](https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp) | 2:59 | 2023-12-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 468763,
+  "num_followers": 468810,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Rita Hits",
+        "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 127840,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -63,26 +83,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Rita Hits",
-        "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 127840,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
-      },
-      "artists": [
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "2 Em 1",
         "url": "https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 269426,
       "name": "La Belle De Jour",
       "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+      },
+      "artists": [
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -471,6 +471,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 284173,
       "name": "Maracatu At\u00f4mico",
       "url": "https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Tropicana (Morena Tropicana)",
-      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Ao Vivo No Parque Madureira (Deluxe)",
         "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 216866,
       "name": "O Show Tem Que Continuar - Ao Vivo",
       "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 201666,
       "name": "O Feij\u00e3o de Dona Nen\u00e9m",
       "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Eu Vou Fazer Voc\u00ea Voar",
+        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Eu Vou Fazer Voc\u00ea Voar",
+      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "111 1",
         "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 155466,
       "name": "Foi Um Rio Que Passou Em Minha Vida",
       "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Eu Vou Fazer Voc\u00ea Voar",
-        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Eu Vou Fazer Voc\u00ea Voar",
-      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
     }
   ],
   "unique_name": "Festa Brasileira",

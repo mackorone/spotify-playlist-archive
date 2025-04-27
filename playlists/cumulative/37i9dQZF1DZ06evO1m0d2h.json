@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Damocles",
+        "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264836,
+      "name": "Damocles",
+      "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
+    },
+    {
+      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 169000,
       "name": "I Wanna Dance With Somebody - from the room below",
       "url": "https://open.spotify.com/track/6YnB0wTkXJOdn2m41yTiXD"

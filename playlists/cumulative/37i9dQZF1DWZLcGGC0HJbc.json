@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "The Risk",
+        "url": "https://open.spotify.com/album/4Ettijl3wphOA1GCzx8n0i"
+      },
+      "artists": [
+        {
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222210,
+      "name": "The Risk",
+      "url": "https://open.spotify.com/track/4G7lABf8I3uFBBX9XkDa4Z"
+    },
+    {
+      "album": {
         "name": "The Rules",
         "url": "https://open.spotify.com/album/6ixQBPjQSxlp1ITpzyzTHj"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 159200,
       "name": "This House",
       "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"

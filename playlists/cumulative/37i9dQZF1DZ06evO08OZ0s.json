@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/1MT1keWoVvaTMJJzk2Y5Z3"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/7uNno3yILVgHirIMZ7JXiq"
+    },
+    {
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/6X3fcKiSDnPgCW3S3MUx19"
       },
@@ -1124,7 +1150,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 166060,
       "name": "Sweet Desperation - Radio Edit",
       "url": "https://open.spotify.com/track/7e68OISHjPwhWFy9gSmE6h"

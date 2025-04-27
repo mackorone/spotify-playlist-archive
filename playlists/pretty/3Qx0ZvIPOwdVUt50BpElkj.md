@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3Qx0ZvIPOwdVUt50BpElkj.md) - [plain]
 
 > Celebrating Black believers and their sounds that shaped us, brought to you by Scene in Black and Frequency.
 
-[Max](https://open.spotify.com/user/ss3mmbj4859e4gzwxd1yqgzmc) - 87 likes - 65 songs - 4 hr 40 min
+[Max](https://open.spotify.com/user/ss3mmbj4859e4gzwxd1yqgzmc) - 86 likes - 65 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It's Your World \- Part 1 & 2 \(Explicit\)](https://open.spotify.com/track/6lXGIJbyM4YBjK6CzIce25) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 8:33 |
+| 1 | [It's Your World \- Part 1 & 2](https://open.spotify.com/track/6lXGIJbyM4YBjK6CzIce25) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 8:33 |
 | 2 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 3 | [Believe In Me](https://open.spotify.com/track/69ujkf6tUd9WPvZICorJE8) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [For The Sake Of Love \(Expanded Edition\)](https://open.spotify.com/album/1yJo6w1cOr9c2Iwjd9uJ5d) | 5:21 |
 | 4 | [We Are One](https://open.spotify.com/track/4En1RHebOOiZlULe6qY0sF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 6:27 |

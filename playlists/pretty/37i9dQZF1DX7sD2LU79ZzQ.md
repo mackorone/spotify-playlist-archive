@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Dere
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,132 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,161 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 80 | [Aku Bukan Rumahmu Lagi](https://open.spotify.com/track/2Tp0vo1QVtFByIdPcuJ5Vg) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Aku Bukan Rumahmu Lagi](https://open.spotify.com/album/2tY4YShAaf0hQqZIvJUAeI) | 3:17 |
 | 81 | [Andai Sampai Akhir Usia](https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Andai Sampai Akhir Usia](https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0) | 5:09 |
 | 82 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 |
-| 83 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/5wiNMYMncIaYexr00AbVh8) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
+| 83 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/2Vet0dnOCyVbLTR75LFC4l) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
 | 84 | [Sandaran Hati](https://open.spotify.com/track/03DuQhnd8hUCKjD5zCRJVA) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sandaran Hati](https://open.spotify.com/album/2plCx7gBci1UdwvZJLJ95I) | 3:57 |
 | 85 | [Denyut](https://open.spotify.com/track/1JfKPwPFswBi3kiOkDSkcj) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Denyut](https://open.spotify.com/album/4pdboVIJyZygcV6279tVPk) | 4:20 |
 | 86 | [Hilang](https://open.spotify.com/track/3H8xGeZAqfFkhD3oeiEWMP) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Pesan Cinta](https://open.spotify.com/album/1FW0X2jksg6YIyUKABqCFi) | 4:19 |

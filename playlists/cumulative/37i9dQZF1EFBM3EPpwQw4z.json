@@ -1870,10 +1870,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 384653,
       "name": "Space In Between",
       "url": "https://open.spotify.com/track/5hNauSpHsisS2APmxMj8QV"
+    },
+    {
+      "album": {
+        "name": "Opus Label Two",
+        "url": "https://open.spotify.com/album/66WHYSG4pQyeGk0Evca96d"
+      },
+      "artists": [
+        {
+          "name": "Kristy Lee & Mike Ross",
+          "url": "https://open.spotify.com/artist/5TSEkQLz9DEl32Seds5k0m"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384653,
+      "name": "Space In Between",
+      "url": "https://open.spotify.com/track/7kOEpNzMIjKdnppkAPSy2Q"
     },
     {
       "album": {

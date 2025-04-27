@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new 🔥 fire 🔥 from Jane Remover
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,124 likes - 200 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,172 likes - 200 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

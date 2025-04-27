@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
+    },
+    {
+      "album": {
         "name": "Njib El Money (pablo Escobar)",
         "url": "https://open.spotify.com/album/1Tu1cPyBT51plB72MoSSV1"
       },
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 303250,
       "name": "Streams",
       "url": "https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3"

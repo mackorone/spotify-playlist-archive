@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  ELENA ROSE, Camilo & Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,183 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,203 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 61 | [Rompecintura](https://open.spotify.com/track/71FINM6q6NNeBD0BEGkTqu) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Rompecintura](https://open.spotify.com/album/6RRNdLZU6lwt7bq90ErlKT) | 3:54 |
 | 62 | [Tú Eres Ajena / No Quiero Herirte \(En Vivo Gran Rex\)](https://open.spotify.com/track/6BjBSu7f5GshEq0VXRI4WK) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Tú Eres Ajena / No Quiero Herirte \(En Vivo Gran Rex\)](https://open.spotify.com/album/6R6DuafSX3x5CqRucKRjhf) | 4:46 |
 | 63 | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C) | 3:16 |
-| 64 | [Y Yo La Amo](https://open.spotify.com/track/5FjSdWevpukbexqXTnvYLZ) | [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Willy Campero](https://open.spotify.com/artist/3VYoITWsXC5qWcdf1dUeL3), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [WILLY CAMPERO / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/4JB6efS7NJYZMiPTPqeu17) | 1:49 |
+| 64 | [Y Yo La Amo](https://open.spotify.com/track/5FjSdWevpukbexqXTnvYLZ) | [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Willy Campero](https://open.spotify.com/artist/3VYoITWsXC5qWcdf1dUeL3), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [WILLY CAMPERO / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/4JB6efS7NJYZMiPTPqeu17) | 1:16 |
 | 65 | [Mía](https://open.spotify.com/track/4a0boU6hLy1dqh9b2ihv33) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Mía](https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT) | 3:28 |
 | 66 | [Yo Vengo de Todas Partes](https://open.spotify.com/track/1EmbTl3A46JkBvo5rjxiz2) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Yo Vengo de Todas Partes](https://open.spotify.com/album/2DDgMVgWQ7IoUJvDAgtR8C) | 2:58 |
 | 67 | [Caracoles de Colores](https://open.spotify.com/track/7hv29aVz52d5an52GnI4Mw) | [Rafael Santos](https://open.spotify.com/artist/0yGFBQWLY4RlvdlOkMdSdQ), [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Caracoles de Colores](https://open.spotify.com/album/6fhYfKG2jVaZmS2cWi2xbK) | 3:30 |

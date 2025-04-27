@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,817 songs - 11 day 6 hr 5 min
+4,818 songs - 11 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2470,6 +2470,7 @@
 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 | 2020-07-18 | 2020-08-20 |
 | [Look for Me](https://open.spotify.com/track/3m13ew3vHgAaNhXs3XgdqC) | [Riverside](https://open.spotify.com/artist/0c3aEpOOEMSqA7Eyf67dXU), [Mannis](https://open.spotify.com/artist/3EkD7husgPaiAm0NC3XsZj), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Look for Me](https://open.spotify.com/album/3bpPSNs2Z3VhgF4qLXq7E6) | 3:10 | 2021-03-06 | 2021-04-26 |
 | [Look how beautiful you are \(Feat\. MODSIWH\)](https://open.spotify.com/track/5y3YnJc1EckiKaWuDhfJq5) | [Little stone](https://open.spotify.com/artist/2sKntwQb2qFRIMfcz4wfZO), [MODSIWH](https://open.spotify.com/artist/0RwJZ7e6SQExEsyhAi7M3C) | [4 seasons](https://open.spotify.com/album/3cWfP9gd22TEeGF10FSMqF) | 3:23 | 2023-04-22 | 2023-05-02 |
+| [Looking Away](https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Looking Away](https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk) | 2:47 | 2025-04-26 |  |
 | [Los Angeles](https://open.spotify.com/track/6ljNdzcRb0rml3my3lwVQQ) | [brady](https://open.spotify.com/artist/7nq9mnjjuDB4dYxMOFUTy4) | [Los Angeles](https://open.spotify.com/album/7GJdwDc0lPW9N5ccDOXuLl) | 3:56 | 2024-03-31 | 2024-04-12 |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2020-02-21 | 2020-03-11 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-12-29 | 2024-03-08 |

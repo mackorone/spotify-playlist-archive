@@ -1,13 +1,29 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 632864,
+  "num_followers": 632931,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAl/AAAAAAAquqtPIq+jRTln0Hpf4nXS",
+  "snapshot_id": "aArQgAAAAABg6w627x23juWES4Nuk6hO",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0mahLLFCziqNDRLAPM4HCd"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184227,
+      "name": "Como La Flor - Remastered 2025",
+      "url": "https://open.spotify.com/track/4AuguwikY0eDBGRzPxtpcG"
+    },
     {
       "added_at": null,
       "album": {
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 403640,
-      "name": "Como La Flor - Live From Astrodome",
-      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+      "duration_ms": 125266,
+      "name": "Amor Prohibido - Live",
+      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
     },
     {
       "added_at": null,
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 125266,
-      "name": "Amor Prohibido - Live",
-      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+      "duration_ms": 195346,
+      "name": "El Chico Del Apartamento 512 - Live",
+      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
     },
     {
       "added_at": null,
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 195346,
-      "name": "El Chico Del Apartamento 512 - Live",
-      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+      "duration_ms": 116600,
+      "name": "Cobarde - Live",
+      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 177066,
       "name": "No Quiero Saber - 1990 Version",
       "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 116600,
-      "name": "Cobarde - Live",
-      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 191133,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 169666,
       "name": "Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
     },
     {
       "added_at": null,

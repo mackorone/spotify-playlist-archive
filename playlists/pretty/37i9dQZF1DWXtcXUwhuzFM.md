@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia costeelta, KIKIltä & Mikael Gabrielilta, Lordelta, Portion Boysilta ja Jami Faltinilta & ibeltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,245 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,277 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

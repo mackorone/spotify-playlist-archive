@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2592787,
+  "num_followers": 2592759,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-04-25 18:59:56",
       "album": {
+        "name": "PAYBACK",
+        "url": "https://open.spotify.com/album/1PFMCeY6VJm60Vmtl3mEk0"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 219230,
+      "name": "PAYBACK",
+      "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
+    },
+    {
+      "added_at": "2025-04-25 18:59:56",
+      "album": {
         "name": "The R\u267e\ufe0fts",
         "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 164139,
       "name": "select@",
       "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
-    },
-    {
-      "added_at": "2025-04-25 18:59:56",
-      "album": {
-        "name": "PAYBACK",
-        "url": "https://open.spotify.com/album/1PFMCeY6VJm60Vmtl3mEk0"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 219230,
-      "name": "PAYBACK",
-      "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
     },
     {
       "added_at": "2025-04-25 18:59:56",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-04-25 18:59:56",
       "album": {
-        "name": "IN THE ALLEY",
-        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "IN THE ALLEY",
-      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
-    },
-    {
-      "added_at": "2025-04-25 18:59:56",
-      "album": {
         "name": "YA BODY",
         "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 183165,
       "name": "YA BODY",
       "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "added_at": "2025-04-25 18:59:56",
+      "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "added_at": "2025-04-25 18:59:56",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-04-25 18:59:56",
       "album": {
-        "name": "At Night",
-        "url": "https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 170142,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709"
-    },
-    {
-      "added_at": "2025-04-25 18:59:56",
-      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "added_at": "2025-04-25 18:59:56",
+      "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 170142,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709"
     },
     {
       "added_at": "2025-04-25 18:59:56",
@@ -1543,26 +1543,18 @@
     {
       "added_at": "2025-04-25 18:59:56",
       "album": {
-        "name": "BANG YOUR HEAD",
-        "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi"
       },
       "artists": [
         {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
         }
       ],
-      "duration_ms": 204798,
-      "name": "BANG YOUR HEAD",
-      "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
+      "duration_ms": 211862,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5"
     }
   ],
   "unique_name": "Hype",

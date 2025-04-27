@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 51219,
+  "num_followers": 51231,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAl/AAAAAADZdsxghSGxCV64py6kP+3S",
+  "snapshot_id": "aArQgAAAAAClZN0OkBS/xpXNlW/mxWXI",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "So You Want to Be",
-      "url": "https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "So You Want to Be",
+      "url": "https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
       },
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 331103,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
+      "duration_ms": 304671,
+      "name": "As The Night Goes By",
+      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 304671,
-      "name": "As The Night Goes By",
-      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
+      "duration_ms": 331103,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 359783,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX"
+      "duration_ms": 244031,
+      "name": "Wild Leaves",
+      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
     },
     {
       "added_at": null,

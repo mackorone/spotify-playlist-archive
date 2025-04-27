@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,387,243 likes - 175 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387,140 likes - 175 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

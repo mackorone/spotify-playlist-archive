@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Luchè, Guè e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,761 likes - 149 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,777 likes - 149 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uragano](https://open.spotify.com/track/6i5ALDBA6MeJk4dcyb5fhI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Uragano](https://open.spotify.com/album/0Nfz4vCPFmDvk9jag8GUDY) | 2:42 |
+| 1 | [Uragano](https://open.spotify.com/track/6i5ALDBA6MeJk4dcyb5fhI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Uragano](https://open.spotify.com/album/0Nfz4vCPFmDvk9jag8GUDY) | 2:40 |
 | 2 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
 | 3 | [Autostima](https://open.spotify.com/track/3yNaZIeDu08fNHm4EOdjDQ) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Autostima](https://open.spotify.com/album/1hMyx7jjaESnoYbWwsYAXO) | 2:50 |
 | 4 | [G Class](https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [G Class](https://open.spotify.com/album/6u19dZ1V8d9lCZgsARSXQY) | 2:28 |

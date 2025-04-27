@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60287,
+  "num_followers": 60281,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Break Your Composure",
+        "url": "https://open.spotify.com/album/0wBYaOuAvUWJhi81UjZlYz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Burns",
+          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+        }
+      ],
+      "duration_ms": 174797,
+      "name": "Break Your Composure",
+      "url": "https://open.spotify.com/track/6Xp5WQZCUMGXNnmRmoeLrR"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Coup De Gr\u00e2ce",
         "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Break Your Composure",
-        "url": "https://open.spotify.com/album/0wBYaOuAvUWJhi81UjZlYz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Burns",
-          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "Break Your Composure",
-      "url": "https://open.spotify.com/track/6Xp5WQZCUMGXNnmRmoeLrR"
     }
   ],
   "unique_name": "Pool Party (2)",

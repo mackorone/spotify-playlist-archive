@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1083965,
+  "num_followers": 1084021,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAl/AAAAAAAOFNupObPEH5nHLZhX5xhu",
+  "snapshot_id": "aArQgAAAAAAwvSHgMPNMYA2z3UBUEV4M",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 276213,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 268306,
       "name": "Low",
       "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 276213,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
     },
     {
       "added_at": null,

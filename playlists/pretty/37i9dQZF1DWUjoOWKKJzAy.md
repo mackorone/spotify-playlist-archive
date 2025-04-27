@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,821 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,121 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 2 | [Meu Erro](https://open.spotify.com/track/6P694ZjCWctbgzgh9qAmW8) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [D](https://open.spotify.com/album/6sIIMLooMGuw7oEja7uWTe) | 4:03 |
 | 3 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
 | 4 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 |
-| 5 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/1pJjIJrzhXd3QyxYleNxWV) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
+| 5 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
 | 6 | [Faroeste Caboclo](https://open.spotify.com/track/6ttKOudrrD5yjt4saUjhNa) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 9:07 |
 | 7 | [Você Não Soube Me Amar](https://open.spotify.com/track/5uIKGh0ysPZDJEYadog5em) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Nova Bis \- Blitz](https://open.spotify.com/album/5E4mboMBKFPpPQC0SOgRnN) | 3:22 |
 | 8 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 36 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 37 | [Como uma onda \- Zen\-surfismo](https://open.spotify.com/track/2RBGbLDceAHxJ0w2Pfxnzn) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:37 |
 | 38 | [Família](https://open.spotify.com/track/7MFq7ihwl8ZolUaPCc4sKh) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs \- iCollection](https://open.spotify.com/album/7sH8F9Nh0ud7Q4q4OrmV6A) | 3:33 |
-| 39 | [Por que não eu? \- Acústico](https://open.spotify.com/track/6sg6zE2HS29PewtJoXxNe0) | [Kid Abelha](https://open.spotify.com/artist/1pJjIJrzhXd3QyxYleNxWV) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 3:25 |
+| 39 | [Por que não eu? \- Acústico](https://open.spotify.com/track/6sg6zE2HS29PewtJoXxNe0) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 3:25 |
 | 40 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 |
 | 41 | [Serão Extra](https://open.spotify.com/track/4UWDiBISWABN9nPmEJgG1I) | [Dr\. Silvana & Cia.](https://open.spotify.com/artist/7hj6TfWecHlMmeUPwiAazv) | [Dr\. Silvana & Cia](https://open.spotify.com/album/6kM9tsyXNygsvtuhIpkAa8) | 3:38 |
 | 42 | [Lágrimas de Crocodilo](https://open.spotify.com/track/1ONnn6GrKQoGuHUYQ3eTyv) | [João Penca E Seus Miquinhos Amestrados](https://open.spotify.com/artist/3ISUva36663YvbTZVduBan) | [Hot 20 \- João Penca e Seus Miquinhos Amestrados](https://open.spotify.com/album/0C304PONzIjVaPp4E9U78L) | 3:52 |

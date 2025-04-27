@@ -1,6 +1,6 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: CoolKid",
-  "num_followers": 3004,
+  "num_followers": 3005,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
@@ -495,38 +495,6 @@
     {
       "added_at": "2025-03-27 17:00:01",
       "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
-      },
-      "artists": [
-        {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
-        }
-      ],
-      "duration_ms": 220023,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
-    },
-    {
-      "added_at": "2025-03-27 17:00:01",
-      "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 250748,
-      "name": "N\u1eafng hoa ni\u00ean",
-      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
-    },
-    {
-      "added_at": "2025-03-27 17:00:01",
-      "album": {
         "name": "FASHION RAPPER",
         "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 205656,
       "name": "FASHION RAPPER",
       "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
+    },
+    {
+      "added_at": "2025-03-27 17:00:01",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 250748,
+      "name": "N\u1eafng hoa ni\u00ean",
+      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
+    },
+    {
+      "added_at": "2025-03-27 17:00:01",
+      "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "duration_ms": 220023,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
     },
     {
       "added_at": "2025-03-27 17:00:01",

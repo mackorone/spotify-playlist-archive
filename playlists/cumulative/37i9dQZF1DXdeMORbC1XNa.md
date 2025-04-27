@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: oSHAMO
 
-580 songs - 1 day 6 hr 10 min
+581 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-08-18 | 2022-09-17 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-02-01 | 2023-04-16 |
 | [Accusations](https://open.spotify.com/track/29feCTozqN8cblFF36KE85) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Accusations](https://open.spotify.com/album/5TKbXvC1OuzaxYqbIj38cG) | 2:44 | 2021-12-20 | 2022-07-20 |
-| [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-26 |  |
+| [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-26 | 2025-04-27 |
 | [Afro Highlife](https://open.spotify.com/track/6m6ExiV0IVR6sLPO69OczQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 | 2022-08-18 | 2022-09-17 |
 | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/track/1a9Tqucs04J8IUt8cww6IC) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/album/6krhhAJY1IOIU2oAZMg6IE) | 3:57 | 2021-12-20 | 2022-03-09 |
 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-24 | 2025-02-07 |
@@ -193,6 +193,7 @@
 | [Fè Plas](https://open.spotify.com/track/1wlMZAtBzeruzXfsSNtLd2) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Fè Plas](https://open.spotify.com/album/7l5GuplNsAdqyEZV7pzNT0) | 3:56 | 2025-01-03 | 2025-02-28 |
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2021-12-20 | 2023-04-27 |
 | [Get Low](https://open.spotify.com/track/70RGIx9mqB96wMwtA8ybOa) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:55 | 2022-08-18 | 2022-09-17 |
+| [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-04-25 |  |
 | [Gimme Some \- Radio Edit](https://open.spotify.com/track/4accPh4Moan4rmdR71oom9) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [K\-Zaka](https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR) | [Gimme Some](https://open.spotify.com/album/28hzuLw9VcFUyFkCQGOIZK) | 4:05 | 2022-05-06 | 2022-07-17 |
 | [Gimme That](https://open.spotify.com/track/5id0tsRlb0cRjLS1GxKPyc) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Gimme That](https://open.spotify.com/album/6iz0Z8LMdgOxgnkhUiXWoU) | 3:15 | 2023-07-21 | 2023-07-28 |
 | [GINGAA](https://open.spotify.com/track/6T5FZ8vOntfLzv98hyjTMI) | [Samzo](https://open.spotify.com/artist/4DIZGdEil3YUeBpBm2GBfk) | [GINGAA](https://open.spotify.com/album/3InH1kdZtiTI66r6csQ8Oq) | 2:23 | 2024-09-19 | 2025-01-03 |

@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 566960,
+  "num_followers": 567183,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Bendito Cielo",
+        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Te Quiero Todav\u00eda",
-        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
-        }
-      ],
-      "duration_ms": 221648,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1760,9 +1760,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Te Quiero Todav\u00eda",
+        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221648,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Hola Como Estas",
-      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Hola Como Estas",
+      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0j51KX0YG6HivxxPVwGzby"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 220474,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/5T3CGyN8uwq3lfwMhEEZ3I"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1955,6 +1955,22 @@
       "duration_ms": 207666,
       "name": "Me Duele Estar Solo",
       "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Bendito Cielo",
+        "url": "https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "A Mentir A La Calle",
+      "url": "https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -2003,22 +2019,6 @@
       "duration_ms": 189213,
       "name": "C\u00f3mo Me Duele Amor",
       "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
     }
   ],
   "unique_name": "Romance Grupero",

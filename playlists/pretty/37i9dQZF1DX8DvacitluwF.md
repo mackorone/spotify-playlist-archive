@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=lPNtuHahTGGEVb2ltMKlcg">Tiwa Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,249 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,265 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

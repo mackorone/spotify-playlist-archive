@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12334,
+  "num_followers": 12333,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAl/AAAAAADyLzyTH7y7YEk0HjqTbt0E",
+  "snapshot_id": "aArQgAAAAABjOAMsbTiOykfQD1MRKfAu",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacando El Polvo",
-        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+        "name": "BELLAGIO (En Vivo)",
+        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 241727,
-      "name": "Sacando El Polvo",
-      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+      "duration_ms": 158066,
+      "name": "BELLAGIO",
+      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELLAGIO (En Vivo)",
-        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 158066,
-      "name": "BELLAGIO",
-      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
     },
     {
       "added_at": null,
@@ -228,41 +228,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 146249,
-      "name": "Gente De Negocio",
-      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Tali 50",
-      "url": "https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 176181,
-      "name": "Recio Andamos",
-      "url": "https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8"
+      "duration_ms": 146499,
+      "name": "Playas",
+      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
     },
     {
       "added_at": null,
@@ -287,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
       "artists": [
         {
@@ -296,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 146499,
-      "name": "Playas",
-      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
+      "duration_ms": 176181,
+      "name": "Recio Andamos",
+      "url": "https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8"
     },
     {
       "added_at": null,
@@ -312,15 +280,15 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 177506,
-      "name": "Soy Ayon",
-      "url": "https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0"
+      "duration_ms": 153333,
+      "name": "Tali 50",
+      "url": "https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 164064,
-      "name": "El Vivo Retrato (Ivan Archivaldo)",
-      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
+      "duration_ms": 146249,
+      "name": "Gente De Negocio",
+      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
     },
     {
       "added_at": null,
@@ -351,6 +319,38 @@
       "duration_ms": 197929,
       "name": "Vida Peligrosa (En Vivo)",
       "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 164064,
+      "name": "El Vivo Retrato (Ivan Archivaldo)",
+      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Soy Ayon",
+      "url": "https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0"
     },
     {
       "added_at": null,

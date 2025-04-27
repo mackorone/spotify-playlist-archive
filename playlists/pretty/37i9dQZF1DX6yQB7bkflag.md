@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,195 likes - 117 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,192 likes - 117 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Apr 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Apr 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARZbqjO7KKr0ld03mzbHtUEnU1TEBK",
+  "snapshot_id": "AAARbF+Nh1chNe3LHXKEhXi36G2Tm+E+",
   "tracks": [
     {
       "added_at": "2025-04-25 08:04:23",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
     },
     {
+      "added_at": "2025-04-27 03:04:08",
+      "album": {
+        "name": "V.I.S.",
+        "url": "https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "V.I.S.",
+      "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
+    },
+    {
       "added_at": "2025-04-25 22:03:34",
       "album": {
         "name": "Tyrants",
@@ -199,6 +215,22 @@
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "added_at": "2025-04-26 18:03:58",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0Nlopyeu2gwpETJK0sqUd4"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1suxL65o1WETsaGBf7e6Gk"
     },
     {
       "added_at": "2025-04-25 13:04:43",
@@ -231,6 +263,22 @@
       "duration_ms": 109267,
       "name": "HANDS UP!",
       "url": "https://open.spotify.com/track/0X2lLr1mZEGiq1iSCkGhaT"
+    },
+    {
+      "added_at": "2025-04-27 03:04:08",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1rsPsoteYQ6VBKhgznMOWo"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251162,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4IhtB9iT2nYzKyu1jn87uP"
     },
     {
       "added_at": "2025-04-24 18:04:16",
@@ -267,6 +315,22 @@
       "duration_ms": 119798,
       "name": "INTERNET HOE!",
       "url": "https://open.spotify.com/track/0d8m0cXQMU6F70dUSpBoCU"
+    },
+    {
+      "added_at": "2025-04-26 08:03:35",
+      "album": {
+        "name": "see gbedu",
+        "url": "https://open.spotify.com/album/3M7mjMwxSmis9k4c9YbLRu"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "see gbedu",
+      "url": "https://open.spotify.com/track/4wpokHZfCpTZQdMJaBfIKl"
     },
     {
       "added_at": "2025-04-25 13:04:43",
@@ -525,6 +589,22 @@
       "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
+      "added_at": "2025-04-27 03:04:08",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 249069,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
       "added_at": "2025-04-22 08:04:51",
       "album": {
         "name": "MONDAY",
@@ -536,7 +616,7 @@
           "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
         }
       ],
-      "duration_ms": 243708,
+      "duration_ms": 243664,
       "name": "MONDAY",
       "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5"
     },
@@ -731,94 +811,6 @@
       "duration_ms": 164897,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8"
-    },
-    {
-      "added_at": "2025-04-18 18:04:14",
-      "album": {
-        "name": "this is what floating feels like",
-        "url": "https://open.spotify.com/album/6HTDWSqiAiRrwOltna85gk"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 148301,
-      "name": "this is what floating feels like",
-      "url": "https://open.spotify.com/track/51aKhzD5dtUJeiK1TN3RmL"
-    },
-    {
-      "added_at": "2025-04-18 18:04:14",
-      "album": {
-        "name": "In The Air Tonight",
-        "url": "https://open.spotify.com/album/0Z4E3iA6Z8V5LitVUXTKz4"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 301683,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/1u9iHwttLc4aRzBPAXnuHk"
-    },
-    {
-      "added_at": "2025-04-21 18:04:19",
-      "album": {
-        "name": "GOD/MARRIAGE",
-        "url": "https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 131527,
-      "name": "GOD (with Sid Sriram)",
-      "url": "https://open.spotify.com/track/0evhnYBqAagPGFM8KJHNeO"
-    },
-    {
-      "added_at": "2025-04-19 22:04:41",
-      "album": {
-        "name": "Girls Like Girls",
-        "url": "https://open.spotify.com/album/5mn3ENQXUsejrfiyW6mdSA"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 130729,
-      "name": "Girls Like Girls",
-      "url": "https://open.spotify.com/track/41u8Oh1FAo27ROaw9MMRh3"
-    },
-    {
-      "added_at": "2025-04-18 13:04:28",
-      "album": {
-        "name": "The Grinch",
-        "url": "https://open.spotify.com/album/02yApEuGWjeFq6gm0rsjoe"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 135167,
-      "name": "The Grinch",
-      "url": "https://open.spotify.com/track/1y2VUfCi3CvXpRS1qmxx4R"
     }
   ],
   "unique_name": "New Singles Now",

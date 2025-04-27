@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Nunca Mais",
+        "url": "https://open.spotify.com/album/3uIKrxKeLH3JGgQE8QT87Z"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181429,
+      "name": "Nunca Mais",
+      "url": "https://open.spotify.com/track/11wZSKUFva32LAmMauyTYO"
+    },
+    {
+      "album": {
         "name": "Oops!...I did it again",
         "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
       },

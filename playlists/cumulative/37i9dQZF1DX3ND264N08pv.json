@@ -1549,6 +1549,32 @@
     },
     {
       "album": {
+        "name": "Dynamite (2025 OST)",
+        "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173055,
+      "name": "Dynamite - 2025 OST",
+      "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
+    },
+    {
+      "album": {
         "name": "Endemic",
         "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
       },
@@ -2501,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Hardcore Riot",
+        "url": "https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160762,
+      "name": "Hardcore Riot",
+      "url": "https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut"
+    },
+    {
+      "album": {
         "name": "The Bones Collection",
         "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
       },
@@ -2746,7 +2794,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 234846,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
@@ -6836,7 +6884,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 164400,
       "name": "Zware Jongens",
       "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"

@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: MRCY
+> New soul\-infused music! Cover: Durand Jones & The Indications
 
 1,088 songs - 2 day 18 hr 16 min
 

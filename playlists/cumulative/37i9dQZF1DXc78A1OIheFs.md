@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-261 songs - 14 hr 58 min
+262 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,10 +159,11 @@
 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU), [rede.](https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 | 2024-09-12 | 2025-01-24 |
 | [Memories \(feat\. Mikeyy\)](https://open.spotify.com/track/7DKJ8KgtH0ucRjGABVvDZK) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w), [Mikeyy](https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW) | [Memories \(feat\. Mikeyy\)](https://open.spotify.com/album/3bel1jbtwgvU3Yv5b9PSkl) | 2:30 | 2024-05-20 | 2024-10-25 |
 | [MI6](https://open.spotify.com/track/02BSEBESskfRqcXF2l6p8Q) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [BRAIN \(SIDE A\)](https://open.spotify.com/album/4sCfUtLgXkHO7flH2ePDl9) | 2:39 | 2024-05-20 | 2024-10-25 |
-| [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-24 |  |
+| [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-24 | 2025-04-27 |
 | [Millions](https://open.spotify.com/track/1OiEaDZf2xda14zWlkXinE) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [The Days](https://open.spotify.com/album/3Orb30lEud5jYVlIjdtWfd) | 3:10 | 2024-05-20 | 2024-08-16 |
 | [Miss You All The Time](https://open.spotify.com/track/2Z47P8OrffWIO5BKWrIlou) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Miss You All The Time](https://open.spotify.com/album/36u6nqSNbq4ZeH10s6lBgl) | 3:00 | 2024-05-20 | 2024-11-08 |
 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 | 2024-08-15 | 2025-02-07 |
+| [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 | 2025-04-24 |  |
 | [more than a minute](https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [how to say goodbye](https://open.spotify.com/album/4KcmPWoY1mQKNKcvgqYk4l) | 3:46 | 2024-11-07 | 2024-11-29 |
 | [MUM](https://open.spotify.com/track/5clGAOFUhpXHFIadIpOnTS) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [MUM](https://open.spotify.com/album/1MNGDkn7tYw1Gk7gxMufQO) | 3:22 | 2024-05-20 | 2024-11-08 |
 | [Mumma and Me](https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mumma and Me](https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl) | 3:32 | 2024-05-20 | 2024-12-02 |

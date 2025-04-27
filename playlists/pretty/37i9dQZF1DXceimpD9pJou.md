@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Oveja Cosmica
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,424 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,452 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 18 | [A Su Único Hijo](https://open.spotify.com/track/0j4pJAhiNwShi27DbYpAiw) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [A Su Único Hijo](https://open.spotify.com/album/1Ayfzyg6kqulhXThYswEmh) | 3:32 |
 | 19 | [Alfa y Omega](https://open.spotify.com/track/1jIrfH7937m8XOPywpFH3F) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Alfa y Omega](https://open.spotify.com/album/7knCxCCJRykcI5PgvvEn0t) | 8:05 |
 | 20 | [La Gloria de Dios](https://open.spotify.com/track/18Bz4yDxHvSsGlDS3k5G5O) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [La Gloria de Dios](https://open.spotify.com/album/7fEQ3qOWz7GjQvZuKmvVaz) | 7:08 |
-| 21 | [Cuanto Te Amo](https://open.spotify.com/track/5WEXhzo0KnKg06SdyDYgr0) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuanto Te Amo](https://open.spotify.com/album/4BN6T7Dke8cmLQ5DFDXvyP) | 3:19 |
+| 21 | [Cuánto Te Amo](https://open.spotify.com/track/5WEXhzo0KnKg06SdyDYgr0) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Cuánto Te Amo](https://open.spotify.com/album/4BN6T7Dke8cmLQ5DFDXvyP) | 3:19 |
 | 22 | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/track/4CoQhr7DbXX5j10naSIDsM) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/album/0sjtIO2ippBTAHkh0Dyzzm) | 5:20 |
 | 23 | [Yo Le Creo a Jesús](https://open.spotify.com/track/296G1jkVXpgDy9VriAmNFk) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [Yo Le Creo a Jesús](https://open.spotify.com/album/2UvJ5H3FOhkZpsJsb50KF8) | 7:35 |
 | 24 | [Uno](https://open.spotify.com/track/2cdCNsVlU3iNG4vSbDP5Ey) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g) | [Uno](https://open.spotify.com/album/2qwGKk4unqaw8gduRJOau6) | 8:08 |

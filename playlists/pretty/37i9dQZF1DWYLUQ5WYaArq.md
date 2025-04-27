@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > If you've been sleeping on these Australian pop divas, it's time to wake up! ⏰ Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,439 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,456 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

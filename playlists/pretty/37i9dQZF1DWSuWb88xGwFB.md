@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,629 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,636 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 4 | [I Like to Move It \(feat\. The Mad Stuntman\) \- Erick "More" Club Mix](https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5) | [I Like To Move It \(feat\. The Mad Stuntman\)](https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP) | 5:52 |
 | 5 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 6 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
-| 7 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 |
-| 8 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 7 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 8 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 |
 | 9 | [Break Night \- The Mardi Gras Mix](https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1) | [The Mole People](https://open.spotify.com/artist/0Q2uG3App7RQkfBSt7f2lt) | [Break Night](https://open.spotify.com/album/6aMCKm4Nm9iBCc6TspYBva) | 13:00 |
 | 10 | [Asuca \- Tribal Mix](https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [Asuca \(Remixes\)](https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi) | 5:56 |
 | 11 | [Who Dares to Believe in Me? \- Original Mix](https://open.spotify.com/track/7G8BLNiIzmSONoV0NINhiv) | [The Believers](https://open.spotify.com/artist/3LWjn3J7aun2wVwFLjyjzH) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/74G3DQYzrosmEtmNBDElls) | 8:11 |

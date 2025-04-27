@@ -2051,6 +2051,40 @@
     },
     {
       "album": {
+        "name": "Hindemith: Mathis der Maler",
+        "url": "https://open.spotify.com/album/4iyUA3vI0tgOE4TK9ru3vG"
+      },
+      "artists": [
+        {
+          "name": "Paul Hindemith",
+          "url": "https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Urszula Koszut",
+          "url": "https://open.spotify.com/artist/711YakG8B4o6iRcasOJvvs"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        }
+      ],
+      "date_added": "2017-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Hindemith: Mathis der Maler, Bild 6: \"Der liebste Vater, er verstand mich\" (Regina, Mathis)",
+      "url": "https://open.spotify.com/track/6cBuuO6BUacsua6WC6LAaw"
+    },
+    {
+      "album": {
         "name": "Mozart: Idomeneo",
         "url": "https://open.spotify.com/album/59Hf5d60yBOOCW1wAYdUYf"
       },
@@ -4016,36 +4050,6 @@
       "duration_ms": 189760,
       "name": "Massenet: Manon, Act 3: \"Ob\u00e9issons, quand leur voix appelle\" (Manon, Br\u00e9tigny, Ch\u0153ur)",
       "url": "https://open.spotify.com/track/3VC3fi0Iz3cV1dtsDLwoII"
-    },
-    {
-      "album": {
-        "name": "Hindemith: Mathis der Maler",
-        "url": "https://open.spotify.com/album/4iyUA3vI0tgOE4TK9ru3vG"
-      },
-      "artists": [
-        {
-          "name": "Paul Hindemith",
-          "url": "https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        },
-        {
-          "name": "Bayerischer Rundfunk",
-          "url": "https://open.spotify.com/artist/5egG82iH7Yc3SPZwGEvoXv"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        }
-      ],
-      "date_added": "2017-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214560,
-      "name": "Mathis Der Maler, 6th Tableau, Scene 1: Der liebste Vater, eer verstand mich (Regina/Mathis)",
-      "url": "https://open.spotify.com/track/6cBuuO6BUacsua6WC6LAaw"
     },
     {
       "album": {

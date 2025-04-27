@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Revel In The Chaos",
+        "url": "https://open.spotify.com/album/77mSYLnSCZ4PQV0bVLb37s"
+      },
+      "artists": [
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        },
+        {
+          "name": "Nova Tropics",
+          "url": "https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "Revel In The Chaos",
+      "url": "https://open.spotify.com/track/4BUkQEtq4b70YlS5FWnT9N"
+    },
+    {
+      "album": {
         "name": "Survival Mode",
         "url": "https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4"
       },

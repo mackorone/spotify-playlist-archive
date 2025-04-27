@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,094 likes - 130 songs - 9 hr 31 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,102 likes - 130 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 60 | [The Demon](https://open.spotify.com/track/1NJBKa0n6PGbb0V7R7s9Qm) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Ferd](https://open.spotify.com/artist/7eRaOWhNrOTF1W2gdsdaTQ) | [Xmas Weapons](https://open.spotify.com/album/1vlidkka9cKWIVdjPfKTra) | 4:34 |
 | 61 | [Sputnik](https://open.spotify.com/track/4EhQrGzqi8k24qWIJuG5CH) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [The Race For Space](https://open.spotify.com/album/65KwtzkJXw7oT819NFWmEP) | 7:09 |
 | 62 | [The Outset](https://open.spotify.com/track/2nfTaEm7yvvASseSn9K7gJ) | [Color Theory](https://open.spotify.com/artist/7uWMG0Go7YMKqVG1fbsOBO) | [The Outset](https://open.spotify.com/album/31MJBbkl8zfFU1EnGbVPJf) | 4:32 |
-| 63 | [Searching For a Lost Horizon](https://open.spotify.com/track/415hefozSU1DoRJsluDdK4) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ) | [Monochrome \(Deluxe Edition\)](https://open.spotify.com/album/34AAv07g0lcBEzuTIT6Fdo) | 2:58 |
+| 63 | [Searching For a Lost Horizon](https://open.spotify.com/track/415hefozSU1DoRJsluDdK4) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Monochrome \(Deluxe Edition\)](https://open.spotify.com/album/34AAv07g0lcBEzuTIT6Fdo) | 2:58 |
 | 64 | [Shadows](https://open.spotify.com/track/3hAcovbGYes1R1ZsLpmrKb) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [New World](https://open.spotify.com/album/3Y9lAnoBArXkZxvsdZj8j7) | 4:42 |
 | 65 | [1982 Space Program](https://open.spotify.com/track/0CNolXkqcjhUEYdFjFDCy1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Exploration 84](https://open.spotify.com/album/4oqsOmuIgfGiOADX2XRA12) | 4:32 |
 | 66 | [A Real Hero](https://open.spotify.com/track/6wg8nDWs3MAUEYEd8tO6Hf) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Drive](https://open.spotify.com/album/1XyEkVYVt6Q7SJHb5e8IrI) | 4:27 |

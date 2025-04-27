@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 3 min
+64 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [It's A Nice Face \- 1969 Motion Picture Soundtrack](https://open.spotify.com/track/6YAVFI016xXJQ2deEw5wUF) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Dorothy Fields](https://open.spotify.com/artist/3nN1h30sPPiYW2DxRCdeQ1), [Shirley Maclaine](https://open.spotify.com/artist/4F5NEP6tLmycfFPeHhha4g), [Joseph Gershenson](https://open.spotify.com/artist/6uoevoVvSe6CME0ESVSzuV) | [Sweet Charity](https://open.spotify.com/album/3FgYqc3QawZLZW3JuZsHXw) | 2:08 | 2024-07-26 |  |
 | [It's Not Where You Start](https://open.spotify.com/track/55yuXvaZrxfMKapxbeadro) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP) | [Barbara Cook's Broadway](https://open.spotify.com/album/5aJhI8YlzokNJhacuItf0Y) | 2:53 | 2024-07-26 |  |
 | [Lovely To Look At](https://open.spotify.com/track/2H0ktBNfFXSTJGOg8yPinH) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 3:26 | 2024-07-26 |  |
-| [Memories Are Made Of This](https://open.spotify.com/track/2NqpaHct1cbjo5OMKVgxq1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:19 | 2024-07-26 |  |
+| [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 | 2025-04-26 |  |
+| [Memories Are Made Of This](https://open.spotify.com/track/2NqpaHct1cbjo5OMKVgxq1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:19 | 2024-07-26 | 2025-04-27 |
 | [My City](https://open.spotify.com/track/1t1gRXs3eDFj2DSncPIOCN) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:36 | 2024-07-26 |  |
 | [My Personal Property](https://open.spotify.com/track/1kFjd8pEF6h7Cu2LHTcvGT) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [I've Gotta Be Me](https://open.spotify.com/album/1DNtn7Fsu6oxk4rhPktUma) | 2:26 | 2024-07-26 |  |
 | [Nobody Does It Like Me](https://open.spotify.com/track/6VOlq6d5FTCG8NsEIIBzkD) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:10 | 2024-07-26 |  |

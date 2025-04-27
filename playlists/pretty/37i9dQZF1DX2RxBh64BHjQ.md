@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3gBZUcNeVumkeeJ19CY2sX">Ken Carson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,803,603 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,803,783 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 27 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 |
 | 28 | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/track/642qULKEwp9AJQ6YTxqrxj) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/album/7chICcUeSMoJ2RKvdqFI2Y) | 2:36 |
 | 29 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
-| 30 | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/track/5NhIOYnj0GktQMFvSKfLto) | [BabyChiefDoit](https://open.spotify.com/artist/65NfdQM6lDzNZJW3P8QRJS), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/album/3lTC45fwBorhSoHrb3z1oF) | 2:51 |
+| 30 | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/track/5NhIOYnj0GktQMFvSKfLto) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Why Would I? \(Feat\. Luh Tyler\)](https://open.spotify.com/album/3lTC45fwBorhSoHrb3z1oF) | 2:51 |
 | 31 | [all my hoes](https://open.spotify.com/track/1lHBWS4ql7BGKCWkwTV4Ca) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [all my hoes](https://open.spotify.com/album/0yypup3UfzoZwa0HF3lrd3) | 1:56 |
 | 32 | [XOXO](https://open.spotify.com/track/1DNAIKJQTTOxAIgFl2dcls) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [XOXO](https://open.spotify.com/album/4pZTdwIXeXMGBnzHH6Jgb6) | 2:20 |
 | 33 | [Look Like](https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Still Bussin](https://open.spotify.com/album/0WFYOaHjMHBtu4vuoiWdAt) | 2:56 |

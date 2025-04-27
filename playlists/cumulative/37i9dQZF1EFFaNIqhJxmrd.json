@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "alice",
+        "url": "https://open.spotify.com/album/3kQSmpNa25t6N1gQfoTPSW"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "alice",
+      "url": "https://open.spotify.com/track/3t9shUk4JcLdtbULSpvfVH"
+    },
+    {
+      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp"
       },

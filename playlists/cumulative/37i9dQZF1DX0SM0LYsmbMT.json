@@ -4912,6 +4912,28 @@
     {
       "album": {
         "name": "Aura",
+        "url": "https://open.spotify.com/album/6mh19mItDR58DnK82NcjTZ"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        },
+        {
+          "name": "RMB Justize",
+          "url": "https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123821,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3Lg2pAwCSKfymuc0pLDRbT"
+    },
+    {
+      "album": {
+        "name": "Aura",
         "url": "https://open.spotify.com/album/1ea31ImgDvalTNdhLKN4kP"
       },
       "artists": [
@@ -88264,7 +88286,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-27",
       "duration_ms": 155500,
       "name": "You Know",
       "url": "https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO"

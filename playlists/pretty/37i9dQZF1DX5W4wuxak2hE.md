@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,312 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,336 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 44 | [I Don't Like Your Face](https://open.spotify.com/track/6sSXlaw3tSUNhETDlG5WoQ) | [The Heats](https://open.spotify.com/artist/0duYKsd7JEqkxQtXsqnTnP) | [Have an Idea \(Bonus Tracks\)](https://open.spotify.com/album/5Eh7ajjvP7ExrsCe1QAFhg) | 2:24 |
 | 45 | [Hold Me Up](https://open.spotify.com/track/7DfIDN6rPq46vu648YhlT6) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [Teenage Symphonies To God](https://open.spotify.com/album/6N2CirqrRo0J3yrSR59ZJG) | 2:58 |
 | 46 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
-| 47 | [Dover Beach](https://open.spotify.com/track/0BoAhTz2MEF3BnAJDvITdN) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [All Over the Place \(Expanded Edition\)](https://open.spotify.com/album/4WdNNACnrsj7CZvceyTgkN) | 3:48 |
+| 47 | [Dover Beach](https://open.spotify.com/track/0BoAhTz2MEF3BnAJDvITdN) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [All Over the Place \(Expanded Edition\)](https://open.spotify.com/album/4WdNNACnrsj7CZvceyTgkN) | 3:48 |
 | 48 | [Behind The Wall Of Sleep](https://open.spotify.com/track/04PXKaJMdeD8NFz1ttQ7SN) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Especially For You](https://open.spotify.com/album/3dL4XWDXC0n9Z1OtebGbbD) | 3:23 |
 | 49 | [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 |
 | 50 | [Second Choice](https://open.spotify.com/track/6TBVPLlKe7U07KLzxMhv0G) | [Any Trouble](https://open.spotify.com/artist/5GdL3YywdzweoBs0So2wYM) | [Where Are All The Nice Girls](https://open.spotify.com/album/2CV9DCyTjAZ1Ouj9ry4E0z) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,532 likes - 75 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,595 likes - 75 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 57 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 | 58 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 |
 | 59 | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 |
-| 60 | [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 |
+| 60 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
 | 61 | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4) | [Sanatana Bharat](https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW), [Upadhyay](https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6), [Amrita Chaturvedi](https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze) | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ) | 13:26 |
-| 62 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
+| 62 | [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 |
 | 63 | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5) | [Abdhesh Goswami](https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh) | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd) | 3:30 |
 | 64 | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn) | 6:13 |
 | 65 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 71 | [Mahamrityunjay Mantra \- Om Tryambakam Yajamahe](https://open.spotify.com/track/48TC3j55Q6z0DZ2Spm6AnJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Gayatri Mantra Mala, Pt\. 1](https://open.spotify.com/album/57gvAW3h4riK2CSQWUIBbj) | 3:30 |
 | 72 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 | 73 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
-| 74 | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 |
+| 74 | [Guruji Mantras](https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Guruji Mantras](https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn) | 21:45 |
 | 75 | [Lam Chakra Mantra To Let Go Of Fears](https://open.spotify.com/track/6dxz5b7hSl4SG3Xyynrqtc) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:01 |
 
 Snapshot ID: `Z/NW0gAAAAAJe4+EqhIn+Be9M/CcSS1x`

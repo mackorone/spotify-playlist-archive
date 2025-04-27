@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ren er her!\u2600\ufe0f\n",
-  "num_followers": 94107,
+  "num_followers": 94123,
   "original_name": "V\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 189453,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -619,6 +635,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
       },
@@ -663,22 +695,6 @@
       "duration_ms": 237086,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "Fargepalett",
         "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
@@ -831,18 +831,38 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "How did I let this get so serious?",
-        "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU"
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 174935,
-      "name": "Hospitals",
-      "url": "https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6"
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "Solgangsbrisen",
+        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
+      },
+      "artists": [
+        {
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+        },
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Solgangsbrisen",
+      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -879,38 +899,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Solgangsbrisen",
-        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
+        "name": "How did I let this get so serious?",
+        "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU"
       },
       "artists": [
         {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
-        },
-        {
-          "name": "Postgirobygget",
-          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 205784,
-      "name": "Solgangsbrisen",
-      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
+      "duration_ms": 174935,
+      "name": "Hospitals",
+      "url": "https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -931,6 +931,42 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "V\u00e5rs\u00f8g",
+        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Henning Sommerro",
+          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
+        }
+      ],
+      "duration_ms": 188202,
+      "name": "V\u00e5rs\u00f8g",
+      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -963,26 +999,6 @@
       "duration_ms": 194974,
       "name": "Love That Hurts",
       "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "V\u00e5rs\u00f8g",
-        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Henning Sommerro",
-          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
-        }
-      ],
-      "duration_ms": 188202,
-      "name": "V\u00e5rs\u00f8g",
-      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1171,22 +1187,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        },
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Pornography",
-      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1247,18 +1259,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+      "duration_ms": 226666,
+      "name": "Pornography",
+      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Felt Cute Might Delete Later",
-        "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 131642,
-      "name": "Darkest Hour",
-      "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "Felt Cute Might Delete Later",
+        "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 131642,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1343,38 +1359,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Lever fint",
-        "url": "https://open.spotify.com/album/0yifld6UxwWqr4D3T7xK19"
-      },
-      "artists": [
-        {
-          "name": "Pikekyss",
-          "url": "https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho"
-        }
-      ],
-      "duration_ms": 182181,
-      "name": "Lever fint",
-      "url": "https://open.spotify.com/track/5icmMis8YoRWjvdlaJImdB"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
@@ -1395,6 +1379,38 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "Lever fint",
+        "url": "https://open.spotify.com/album/0yifld6UxwWqr4D3T7xK19"
+      },
+      "artists": [
+        {
+          "name": "Pikekyss",
+          "url": "https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho"
+        }
+      ],
+      "duration_ms": 182181,
+      "name": "Lever fint",
+      "url": "https://open.spotify.com/track/5icmMis8YoRWjvdlaJImdB"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "Hei p\u00e5 deg",
         "url": "https://open.spotify.com/album/78sIK6QQYQ3wVnAngrG5dy"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 132834,
       "name": "V\u00e6r s\u00e5 snill",
       "url": "https://open.spotify.com/track/1E1pF8K5l8K4gRWR7w3OFc"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "Flink Pike",
-        "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 173140,
-      "name": "Flink Pike",
-      "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
     },
     {
       "added_at": "2025-04-24 22:00:42",

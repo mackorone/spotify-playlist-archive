@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356986,
+  "num_followers": 356961,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Kung f\u00f6r en dag",
+      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Animal (with Jason Derulo)",
         "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 158671,
       "name": "Gimme Gimme Gimme",
       "url": "https://open.spotify.com/track/1Uin0T7NJQiHA9VspYiMi8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Uggla Box",
-        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Kung f\u00f6r en dag",
-      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "\u00c4lskade \u00e4ngel",
+        "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
+      },
+      "artists": [
+        {
+          "name": "Ooooklart",
+          "url": "https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "\u00c4lskade \u00e4ngel",
+      "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "\u00c4lskade \u00e4ngel",
-        "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
-      },
-      "artists": [
-        {
-          "name": "Ooooklart",
-          "url": "https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "\u00c4lskade \u00e4ngel",
-      "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
     },
     {
       "added_at": "2024-06-13 22:00:00",

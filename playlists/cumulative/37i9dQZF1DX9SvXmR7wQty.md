@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Theodora et Guy2Bezbar
 
-3,246 songs - 7 day 4 hr 12 min
+3,247 songs - 7 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [1990](https://open.spotify.com/track/6exn1RCFYT1SwL6SYaWIGz) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [1990](https://open.spotify.com/album/1V6yO70pkJIN4LHc1VOXD9) | 2:32 | 2023-03-31 | 2023-04-09 |
 | [1990](https://open.spotify.com/track/4XwTY4kqywle66xnhmbG4E) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [1990](https://open.spotify.com/album/7DivTcYqGWHAhpCjuoxzIj) | 2:09 | 2025-03-21 | 2025-03-29 |
 | [1994](https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [1994](https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB) | 3:17 | 2023-03-31 | 2023-04-29 |
+| [2 coups d'avance](https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 2:43 | 2025-04-25 |  |
 | [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 | 2025-01-17 | 2025-03-29 |
 | [20 ans plus tard](https://open.spotify.com/track/2GBqnoqXTzrf6yR6AfaCBA) | [Damien](https://open.spotify.com/artist/3PB3EoNBONIKaRTh2uyfOB), [Koopsala](https://open.spotify.com/artist/1Cbu28KNwWU8C4tninooFI), [Lappa](https://open.spotify.com/artist/0I7zTG6GZrTiHhNWarxF2F) | [20 ans plus tard](https://open.spotify.com/album/6778ctRjtIPWxBRimpsxOK) | 4:00 | 2022-09-23 | 2022-10-01 |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-23 | 2024-09-08 |
@@ -585,7 +586,7 @@
 | [Comme un oiseau](https://open.spotify.com/track/4cSvVZdMWCPkGmmCjneYDu) | [Komo](https://open.spotify.com/artist/5wg2ra651q5K20VOy3WUqL) | [Comme un oiseau](https://open.spotify.com/album/5umCSAciVXC9tdAO1Dca4C) | 2:48 | 2022-04-08 | 2022-04-16 |
 | [Comme un saule](https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Comme un saule](https://open.spotify.com/album/75l2H4yE3KjVWhyigNUdgo) | 3:06 | 2023-06-23 | 2023-07-09 |
 | [Comme une évidence](https://open.spotify.com/track/2ppnLfEpEqlDZs8qmpsdCB) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte deux](https://open.spotify.com/album/531fHm8Odx5THAX4CuLg91) | 3:36 | 2022-09-02 | 2022-09-17 |
-| [Comme Ye](https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Comme Ye](https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas) | 2:33 | 2025-03-28 |  |
+| [Comme Ye](https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Comme Ye](https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas) | 2:33 | 2025-03-28 | 2025-04-27 |
 | [Comme ça](https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Comme ça](https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt) | 2:31 | 2023-10-27 | 2024-01-05 |
 | [Comme ça](https://open.spotify.com/track/5tMRCsbCLNfbrKCAf47kYe) | [Shecky](https://open.spotify.com/artist/3N3ik9Imb3cjqYRL6cz3qv) | [Amour Délétère](https://open.spotify.com/album/1KCL3PKWV96JnYgq5i71hN) | 2:52 | 2022-08-05 | 2022-08-27 |
 | [Comment comment](https://open.spotify.com/track/1AXzOrfhuYFimANimmvIeH) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa), [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8) | [Comment comment](https://open.spotify.com/album/1RlT0KHsTw6RGhT6b0gki3) | 2:49 | 2022-09-30 | 2022-10-15 |

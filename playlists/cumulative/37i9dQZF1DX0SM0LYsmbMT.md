@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,397 songs - 6 day 23 hr 28 min
+4,398 songs - 6 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Aubade](https://open.spotify.com/track/5xZuZfJ9XHZfU3sWXzUe7Z) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Only Poem](https://open.spotify.com/album/3pCgGtXfUsieWZRGWr686k) | 1:51 | 2023-08-10 | 2023-11-14 |
 | [August](https://open.spotify.com/track/7gN1MJGsdP0L2ENMjWw9zi) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [August](https://open.spotify.com/album/2XANU3KjgZaGcrncErOD1a) | 2:06 | 2020-09-26 | 2021-05-14 |
 | [August \- Vacant](https://open.spotify.com/track/0f9mCjcefox0H8ucJkvSqa) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [August \- Vacant](https://open.spotify.com/album/1b94gdhIXWmoj1RIwi3yXs) | 2:35 | 2019-08-30 | 2019-12-20 |
+| [Aura](https://open.spotify.com/track/3Lg2pAwCSKfymuc0pLDRbT) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Aura](https://open.spotify.com/album/6mh19mItDR58DnK82NcjTZ) | 2:03 | 2025-04-25 |  |
 | [Aura](https://open.spotify.com/track/0E3mdDji1HOyCQWAt2p4FH) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Aura](https://open.spotify.com/album/1ea31ImgDvalTNdhLKN4kP) | 2:00 | 2025-03-14 |  |
 | [auras](https://open.spotify.com/track/0c6yUkSXOx7GseW24IbS0V) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [auras](https://open.spotify.com/album/5hVjFNVS0blgqbkSt5efzh) | 1:45 | 2020-02-01 | 2020-05-12 |
 | [Auro](https://open.spotify.com/track/5VIh5WeeOatqdcuQFSOCtC) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Auro](https://open.spotify.com/album/1vKwUJl0j45w0PuTPY29eK) | 1:50 | 2024-04-25 | 2024-05-01 |
@@ -4372,7 +4373,7 @@
 | [you are exactly where you need to be right now](https://open.spotify.com/track/6KHSclNt1LnucOmfUal7Nn) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [you are exactly where you need to be right now](https://open.spotify.com/album/04TRTYmF2ThDRS5YXTbLSE) | 2:20 | 2023-11-23 | 2023-12-02 |
 | [You Cried](https://open.spotify.com/track/60K7hFMcnVg7UpTLtJombP) | [cbakl](https://open.spotify.com/artist/1td5uTADjYVJwwa9chV19P) | [Wisdom Is Misery](https://open.spotify.com/album/2iJ16scsbH0QixYxjy8QiG) | 2:19 | 2019-08-02 | 2019-10-25 |
 | [You Go?!](https://open.spotify.com/track/1ik7xZMTedPed4uN8lxDDW) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [You Go?!](https://open.spotify.com/album/2B6f7XTlVJ9ZYO7rxQMBdD) | 0:44 | 2020-05-01 | 2020-07-10 |
-| [You Know](https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [You Know](https://open.spotify.com/album/7CMezD7MYhwln1HRbpqhdU) | 2:35 | 2022-10-13 |  |
+| [You Know](https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [You Know](https://open.spotify.com/album/7CMezD7MYhwln1HRbpqhdU) | 2:35 | 2022-10-13 | 2025-04-27 |
 | [You Know How It Goes](https://open.spotify.com/track/0IEoI3PxcOpqw5LVgfcW37) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [You Know How It Goes](https://open.spotify.com/album/6MyYklxIu9OogcRc3JkxFr) | 2:22 | 2020-06-16 | 2020-09-11 |
 | [You Know How Much](https://open.spotify.com/track/6sRf9kK808T03nXPkOHzsA) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [You Know How Much](https://open.spotify.com/album/2dfpZhuQszJ2s5g8VPzZT2) | 2:57 | 2020-10-30 | 2021-01-23 |
 | [You Know You Know](https://open.spotify.com/track/3g6XSwcTGzKeYqDdqy1J2D) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Sloth City \(Vol\. 2\)](https://open.spotify.com/album/71uAGkGV8ChO97AoPiuxrF) | 2:59 | 2021-08-13 | 2021-11-19 |
