@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,331 songs - 11 day 13 hr 38 min
+7,333 songs - 11 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1445,6 +1445,7 @@
 | [Crestfallen](https://open.spotify.com/track/68hLSA41wxIcMueRmN7tem) | [Kyola](https://open.spotify.com/artist/301wYjdgUExDcZTEre9dw8), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [luffmoor](https://open.spotify.com/artist/0RRp7Ako9aGQ1RjnP7PC6w) | [Crestfallen](https://open.spotify.com/album/5NpAqslL5QxNeWDlI6pyW6) | 2:35 | 2024-12-06 |  |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Les Jardíns](https://open.spotify.com/artist/1KmgcJvdi7bqvZMrCr9z8a) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 | 2025-04-19 |
+| [crispy](https://open.spotify.com/track/296PtyBwDRi5dLobxeLxWW) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [crispy](https://open.spotify.com/album/5B9gshRopEWYswsesszmpc) | 2:06 | 2025-04-25 |  |
 | [Crispy Clouds](https://open.spotify.com/track/4aocuOYi95rQqZNIZt5qtK) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Crispy Clouds](https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR) | 2:00 | 2022-07-29 | 2022-11-11 |
 | [Croaky](https://open.spotify.com/track/3QDkNXAurjaxSkbCVZ9pmf) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Tape Beats 1](https://open.spotify.com/album/3zChkhJVAtkkzBuH6vrZbR) | 1:59 | 2022-09-30 | 2023-01-13 |
 | [Crocus](https://open.spotify.com/track/4VTVOg3QC2zXH0ZddrRyHB) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Crocus](https://open.spotify.com/album/2aZnr2oUWrSsrPTDTIwMdT) | 1:31 | 2023-04-20 | 2023-09-30 |
@@ -5076,7 +5077,7 @@
 | [Quick n' Dirty](https://open.spotify.com/track/2ZMhWoU2PK0AcmCrxuFGGn) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Quick n' Dirty](https://open.spotify.com/album/2dD6iqB5d162mhV54Kudub) | 1:42 | 2022-05-27 | 2022-09-23 |
 | [Quiet](https://open.spotify.com/track/1QMYmtadANtZtZKi1wcWrH) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [Quiet](https://open.spotify.com/album/4L5QkJuN1sfAYHbTYJ0LKY) | 4:43 | 2020-04-30 | 2020-07-07 |
 | [Quiet](https://open.spotify.com/track/1JDU7P2xufSVVYAWTjnsIe) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Quiet](https://open.spotify.com/album/3i5QPemDESNn5wlLdH4rbS) | 1:32 | 2019-12-06 | 2021-01-17 |
-| [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2024-01-05 |  |
+| [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2024-01-05 | 2025-04-28 |
 | [Quiet Life](https://open.spotify.com/track/2gtiic8nRNAegDFAs9xeYk) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Quiet Life](https://open.spotify.com/album/7g0gSd364KtNb2VCfyZiPF) | 1:22 | 2019-12-06 | 2021-02-04 |
 | [Quiet Nights](https://open.spotify.com/track/6NyUKv40Lorxjlet7IltHJ) | [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Quiet Nights](https://open.spotify.com/album/3RxehYUQevCTUpCzZMI5Ed) | 2:08 | 2019-11-22 | 2021-07-11 |
 | [Quiet Reef](https://open.spotify.com/track/3HpRSAVtkUbJMWvuq4Uuji) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Quiet Reef](https://open.spotify.com/album/1JCVsHKs8rps14p8doiszF) | 1:55 | 2022-07-15 | 2022-10-28 |
@@ -5699,7 +5700,7 @@
 | [Slushies](https://open.spotify.com/track/69HmwjbEslTDyPvHK1RucH) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Slushies](https://open.spotify.com/album/4lpwYPMZWGNNn82YRw624V) | 2:06 | 2020-04-05 | 2021-06-18 |
 | [Small Breeds](https://open.spotify.com/track/4FgvcLDBvDyiUnfgfz1yRv) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Small Breeds](https://open.spotify.com/album/7n529xgrCmdjeA5TV4PrKI) | 2:20 | 2024-07-12 | 2024-08-17 |
 | [Small Breeze](https://open.spotify.com/track/1iUkvgJvuKz6X6YtIPKIO2) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Small Breeze](https://open.spotify.com/album/5p0HpcIr0ZNiUc9ctE8WB2) | 1:56 | 2024-02-02 | 2024-11-23 |
-| [Small Steps](https://open.spotify.com/track/5UZz3gPPEQyAAzzGB2zL26) | [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA) | [Small Steps](https://open.spotify.com/album/2N1YeJ5Lya1LDseOT7cNMY) | 2:20 | 2024-02-16 |  |
+| [Small Steps](https://open.spotify.com/track/5UZz3gPPEQyAAzzGB2zL26) | [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA) | [Small Steps](https://open.spotify.com/album/2N1YeJ5Lya1LDseOT7cNMY) | 2:20 | 2024-02-16 | 2025-04-28 |
 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 | 2024-02-23 |  |
 | [Smear](https://open.spotify.com/track/5d5MGTGygirIvYMCC6IxUs) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 2:05 | 2021-01-13 | 2021-11-21 |
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-07-17 | 2022-03-12 |
@@ -6555,6 +6556,7 @@
 | [to a cloudy sky](https://open.spotify.com/track/2xKXY9ciynng6mdmUJrh5P) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [perspective](https://open.spotify.com/album/2ClhqXQ2dCHH83xusNbdeI) | 2:45 | 2023-12-15 | 2024-04-13 |
 | [to be free](https://open.spotify.com/track/1ncwoDTX8vvervcqmmIaT9) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Magnole](https://open.spotify.com/artist/5Sxf6pGNW0sp28hqv1tc6a) | [to be free](https://open.spotify.com/album/79kSJAjjEzrEuZ96VNgUFs) | 1:49 | 2023-03-24 | 2023-10-20 |
 | [To Be Honest](https://open.spotify.com/track/28I04TZda8fyLCICihRij9) | [Valeu Irmao](https://open.spotify.com/artist/593de5y1o4gIflKTrMtxb4) | [To Be Honest](https://open.spotify.com/album/4bzkCz4bXcoKYi28B0Hwt0) | 2:18 | 2024-01-05 |  |
+| [to love](https://open.spotify.com/track/0UjVWiLliLtyZlVaP24N2A) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [to love](https://open.spotify.com/album/5Pmfe4B1QkiLnYmGj4Qq2A) | 2:58 | 2025-04-25 |  |
 | [To the Shore](https://open.spotify.com/track/2i7YT78gYhOoBOHNhMligd) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv), [Mika Novo](https://open.spotify.com/artist/4zJzLRWgL9CiQIw7HIjTz7) | [Ocean Thoughts](https://open.spotify.com/album/6sL83JFJ0qQQ1gDgnxmq2d) | 2:03 | 2022-08-19 | 2022-11-25 |
 | [Toada](https://open.spotify.com/track/0wRBLhXKcxODx9734qcZ9h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Boranda](https://open.spotify.com/album/78zZ4BLZVCszy6iRBCKk9F) | 1:36 | 2022-02-14 | 2022-07-22 |
 | [Toady Encore](https://open.spotify.com/track/2gko20FmesKImBqwvVdgh1) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Toady Encore](https://open.spotify.com/album/724z4tSlQug9WKkVxQkLAw) | 1:59 | 2022-12-02 | 2024-04-27 |

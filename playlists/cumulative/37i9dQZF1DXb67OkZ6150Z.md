@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Beach Fossils
 
-477 songs - 1 day 5 hr 12 min
+478 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-03 |  |
 | [It's You](https://open.spotify.com/track/6SkG8OCuHktTfEPBGB2uHL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [It's You](https://open.spotify.com/album/0cZjs7bWRgLtzM9rih3Bsw) | 4:16 | 2022-02-25 | 2022-07-29 |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-08 |  |
+| [Jenny Was a Friend of Mine](https://open.spotify.com/track/4M17IRs3hNVSmTQJ4apr7b) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Jenny Was a Friend of Mine](https://open.spotify.com/album/6D5Ge18x690iMLrfvdiu3j) | 3:09 | 2025-04-25 |  |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-03-12 | 2022-07-28 |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-17 |  |
 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 | 2024-01-16 |
@@ -462,7 +463,7 @@
 | [Why Can't I](https://open.spotify.com/track/0diSTXJMz375F30ec95DJ0) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 4:15 | 2021-03-19 | 2022-07-07 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 | 2022-02-25 | 2023-01-14 |
 | [Wicked Game.](https://open.spotify.com/track/6V8hkPRestS5H6EfmqjqtA) | [Mcevoy](https://open.spotify.com/artist/75RCH6Pr8XrCnvWdbMwgVa) | [Wicked Game.](https://open.spotify.com/album/5ZHJlXrPKXThCjhDtWHQlu) | 2:36 | 2021-03-12 | 2022-04-21 |
-| [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 | 2024-03-08 |  |
+| [Wildest Dreams](https://open.spotify.com/track/37PKuOlceH4r1zXQgsFPpZ) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Looking Back EP \(Deluxe Version\)](https://open.spotify.com/album/0pcitN9tJOsw4vte4wS3fI) | 3:15 | 2024-03-08 | 2025-04-28 |
 | [Will The Night \- Live At Electric Lady](https://open.spotify.com/track/2gztNsDYuFD9JT55WkF9MX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 2:49 | 2023-06-05 | 2023-06-17 |
 | [Will You Still Love Me Tomorrow?](https://open.spotify.com/track/3JHS3zCxhB82wuCLKIGZ7H) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw), [DJ Leao](https://open.spotify.com/artist/7686VIQ7AquEtoHpM0rrQW) | [Will You Still Love Me Tomorrow?](https://open.spotify.com/album/5GNTZHXJwm0SO6oKZs8UOH) | 3:30 | 2021-03-12 | 2022-04-21 |
 | [Wouldn’t It Be Nice](https://open.spotify.com/track/3d7iBJrADpmv9B5sEy0QUA) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN B](https://open.spotify.com/album/5ZudF1lVet6DmPVwKDBhy8) | 2:44 | 2022-05-20 | 2022-06-24 |

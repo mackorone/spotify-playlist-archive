@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Eskitilmiş Yaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,029 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,015 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 2 | [Gök Mavi](https://open.spotify.com/track/3NX2P6H6fIHFyslgvXPcWw) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Gök Mavi](https://open.spotify.com/album/26C0RYvZSB22FpPaal747E) | 4:45 |
 | 3 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 |
 | 4 | [Vazgeçtin Mi Bizden?](https://open.spotify.com/track/5zxrdDNy6l23fc6lk1mpPy) | [Eskitilmiş Yaz](https://open.spotify.com/artist/5jqUKWt4bZ92tx05YkDyou) | [Vazgeçtin Mi Bizden?](https://open.spotify.com/album/3gex2w7Kns7ibQaEEdpBPb) | 3:55 |
-| 5 | [Zararsız Yolcu](https://open.spotify.com/track/1yDU0TglvShQ3vCzLMHvfB) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4), [Nejat Yavaşoğulları](https://open.spotify.com/artist/7fXsnTafGVw9DWQiFLlhsk), [Sina Koloğlu](https://open.spotify.com/artist/6jus4osVpToYq4EGcNB2Vs), [Gencay Kıymaz](https://open.spotify.com/artist/2Igybj8dFcGeQ4GUqRXo5Y), [Gökhan Büyükkara](https://open.spotify.com/artist/3QCPdFzyVXPsLsPchCbkG1) | [Zararsız Yolcu](https://open.spotify.com/album/6StAYIqtaJhdF3aXvYKcBr) | 3:06 |
+| 5 | [Zararsız Yolcu](https://open.spotify.com/track/1yDU0TglvShQ3vCzLMHvfB) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4) | [Zararsız Yolcu](https://open.spotify.com/album/6StAYIqtaJhdF3aXvYKcBr) | 3:06 |
 | 6 | [Anlarsın, ağlarsın](https://open.spotify.com/track/1rJizQgfAylxJGstJgOhyV) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Anlarsın, ağlarsın](https://open.spotify.com/album/1ZwKJi9tHGtMvl4UFIbUbg) | 3:30 |
 | 7 | [Suçlusun](https://open.spotify.com/track/1wp9Hb2HPr60upMYMcnRbC) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [Suçlusun](https://open.spotify.com/album/0ZC8oQF1PdCDWI3m7dGHVG) | 5:38 |
 | 8 | [Bergüzarım](https://open.spotify.com/track/43ku3E4jFdccOLg7fllJeb) | [maNga](https://open.spotify.com/artist/7rEIUw67hRTgievwuKQGSj) | [Bergüzarım](https://open.spotify.com/album/6bV8EndQkDUy7fWehIqCSm) | 3:24 |

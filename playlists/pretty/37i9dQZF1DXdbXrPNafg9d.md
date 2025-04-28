@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,076 likes - 230 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,322 likes - 230 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

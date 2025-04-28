@@ -4,7 +4,7 @@
 
 > 
 
-6,981 songs - 18 day 4 hr 5 min
+6,985 songs - 18 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [A Devil's Touch in the Midwest](https://open.spotify.com/track/0W2CHYtNLuEBJCCuqOona7) | [Macabre Plaza](https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t) | [An Old Smile](https://open.spotify.com/album/6CqtWGd1BcpvH4bDTIMvua) | 1:08 | 2025-01-30 |  |
 | [A Devil's Touch in the Midwest](https://open.spotify.com/track/2GUcSiUAkCkIKOpz6HR7wA) | [Macabre Plaza](https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t) | [An Old Smile](https://open.spotify.com/album/1WBRxFQiWLnyU2HdGMGwZT) | 1:08 | 2025-03-07 |  |
 | [A Dream](https://open.spotify.com/track/2bQ2a7b8WuWRY3mkqk1MB8) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:12 | 2025-01-03 |  |
+| [A Dream With a Baseball Player](https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:41 | 2025-04-27 |  |
 | [A Fool Moon Night](https://open.spotify.com/track/0NIZWVJdeGizq0SkwTLwfT) | [THE KOXX](https://open.spotify.com/artist/0o7EzfVASiH8ws8bwYEqqv) | [ENTER](https://open.spotify.com/album/2BGvfWitMmZpO3ZjJx7ftH) | 4:36 | 2025-01-03 |  |
 | [A Garden Of Peace](https://open.spotify.com/track/4UCnesWBYpZzubfByNP7je) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Dreams Of Tomorrow](https://open.spotify.com/album/4Wa4eIayWkrVtaA22cbmph) | 3:08 | 2025-01-04 |  |
 | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:44 | 2025-01-15 |  |
@@ -2777,6 +2778,7 @@
 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 | 2024-12-14 |  |
 | [Jazz Cafe](https://open.spotify.com/track/2zPuOq780bD9bkp8kV7WGw) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/1VAGcoDkrvxGURbqzh7m5l) | 4:35 | 2025-01-15 |  |
 | [JD](https://open.spotify.com/track/6wwPtKxaMEbQYc6atQmhTE) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 1:45 | 2024-12-05 |  |
+| [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2025-04-27 |  |
 | [Jealous \- Remix](https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:42 | 2025-04-11 |  |
 | [Jealousy](https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Jealousy](https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c) | 2:53 | 2025-01-15 |  |
 | [Jennifer](https://open.spotify.com/track/5ZJ9wxMqAhIOekYLmukc2L) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Jennifer](https://open.spotify.com/album/1VfJIxmeCnwRI7VTPZiAej) | 3:33 | 2025-01-15 |  |
@@ -3599,6 +3601,7 @@
 | [Mr\. Jones \(feat\. Future\)](https://open.spotify.com/track/3Zg68ElzsOAHABZsfXlljo) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:34 | 2025-01-15 |  |
 | [Mr\. Me Too](https://open.spotify.com/track/6cAldqwmbUwpM8D17FWtPL) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2024-12-14 |  |
 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 | 2025-01-03 |  |
+| [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 | 2025-04-27 |  |
 | [Mr\. T](https://open.spotify.com/track/07ZC0qJ896Hc3VPPPq1ckD) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FLYGOD](https://open.spotify.com/album/6ZOa1wCHW2fZlsIYh8Yyw4) | 3:25 | 2025-01-15 |  |
 | [Mr\. Telephone Man](https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 3:59 | 2025-01-04 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2025-01-15 |  |
@@ -4277,6 +4280,7 @@
 | [Pyro \(leak 2019\)](https://open.spotify.com/track/4hgS8ANdhHy2G7XtyVqLDw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 1:21 | 2025-01-03 |  |
 | [PYS \(feat\. DJ Paul\)](https://open.spotify.com/track/7kAyuqFCU2iYqeUao2cO21) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:48 | 2025-01-03 |  |
 | [Quarterback \(feat\. Quavo, Offset & PeeWee Longway\)](https://open.spotify.com/track/2mpJGKIOpDz4KG9p9feCmM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 5:01 | 2025-01-15 |  |
+| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2025-04-27 |  |
 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 | 2025-01-04 |  |
 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 | 2025-01-03 |  |
 | [Quiet, The Winter Harbor](https://open.spotify.com/track/1OArWxrw689jZXaJzSErbh) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:15 | 2025-01-04 |  |

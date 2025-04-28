@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
-  "num_followers": 10248,
+  "num_followers": 10252,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "hou me vast",
-        "url": "https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 231159,
-      "name": "hou me vast",
-      "url": "https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Weer Verliefd",
         "url": "https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 201750,
       "name": "Weer Verliefd",
       "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "hou me vast",
+        "url": "https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 231159,
+      "name": "hou me vast",
+      "url": "https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -331,38 +331,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "voor alles bang / h-e-l-p",
-        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 187408,
-      "name": "h-e-l-p",
-      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
-        "name": "Wolken",
-        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
-      },
-      "artists": [
-        {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
-        }
-      ],
-      "duration_ms": 205758,
-      "name": "Wolken",
-      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Diep In De Nacht (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
       },
@@ -375,22 +343,6 @@
       "duration_ms": 114390,
       "name": "Wauw",
       "url": "https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
-        "name": "Mijn Haren Ruiken Naar Vuur",
-        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 162694,
-      "name": "Mijn Haren Ruiken Naar Vuur",
-      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -411,6 +363,54 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
+        "name": "voor alles bang / h-e-l-p",
+        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 187408,
+      "name": "h-e-l-p",
+      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 162694,
+      "name": "Mijn Haren Ruiken Naar Vuur",
+      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
         "name": "Koortsdroom",
         "url": "https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Drijfzand",
-        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 178547,
-      "name": "Drijfzand",
-      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Vlinder",
         "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169604,
       "name": "Vlinder",
       "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Drijfzand",
+        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 178547,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Waarom Ik Zo Ben",
-        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
-      },
-      "artists": [
-        {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Waarom Ik Zo Ben",
-      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "ER IS HOOP*",
         "url": "https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 178610,
       "name": "IK LACH MAAR IK HUIL",
       "url": "https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Waarom Ik Zo Ben",
+        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Waarom Ik Zo Ben",
+      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
+        "name": "Naamloze Liefde",
+        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+      },
+      "artists": [
+        {
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "Nieuw Begin",
+      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
         "name": "Wind In De Zeilen",
         "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Naamloze Liefde",
-        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+        "name": "Symptomen",
+        "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
       },
       "artists": [
         {
-          "name": "Roos Blufpand",
-          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
         }
       ],
-      "duration_ms": 157752,
-      "name": "Nieuw Begin",
-      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+      "duration_ms": 222506,
+      "name": "Symptomen",
+      "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -751,18 +767,18 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Symptomen",
-        "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
+        "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
+        "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
       },
       "artists": [
         {
-          "name": "Johannes Is Zijn Naam",
-          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Symptomen",
-      "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
+      "duration_ms": 209532,
+      "name": "De Grens Tussen Ons",
+      "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -783,22 +799,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
-        "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
-      },
-      "artists": [
-        {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
-        }
-      ],
-      "duration_ms": 209532,
-      "name": "De Grens Tussen Ons",
-      "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Sorry Lul",
         "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Als Je Nog Wil",
-        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
+        "name": "platland",
+        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
       },
       "artists": [
         {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
         }
       ],
-      "duration_ms": 203264,
-      "name": "Als Je Nog Wil",
-      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
+      "duration_ms": 206590,
+      "name": "platland",
+      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
     }
   ],
   "unique_name": "indie.nl",

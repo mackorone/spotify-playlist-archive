@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 394039,
+  "num_followers": 394024,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAACODdx7PkMr8TBKXndsizP7",
+  "snapshot_id": "aAwiAAAAAADSRNM5btTcf/phJT/4bFWU",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bite Marks",
-        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "TEYA",
-          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
-        }
-      ],
-      "duration_ms": 190138,
-      "name": "Bite Marks",
-      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 192881,
       "name": "RISE",
       "url": "https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bite Marks",
+        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        }
+      ],
+      "duration_ms": 190138,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
     },
     {
       "added_at": null,
@@ -539,34 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/2OpCTw15JLMqUTeBAA2yd7"
-      },
-      "artists": [
-        {
-          "name": "MIYAVI",
-          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 161376,
-      "name": "Snakes (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/62AdLIvL8qZYX0FhxVJLND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALL OUT",
         "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 199125,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snakes (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2OpCTw15JLMqUTeBAA2yd7"
+      },
+      "artists": [
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 161376,
+      "name": "Snakes (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/62AdLIvL8qZYX0FhxVJLND"
     },
     {
       "added_at": null,

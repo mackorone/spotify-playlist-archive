@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Selin x Sertab Erener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,861 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,871 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 43 | [Cihana hitabe III](https://open.spotify.com/track/3tWtAqoPnL5o4ZS1ikAFlf) | [K''st](https://open.spotify.com/artist/4x19qDNFXvWQnudUjs0XOE), [Fuat](https://open.spotify.com/artist/6tRmpYzDIjWoRHzbJO7Cpx) | [Cihana hitabe III](https://open.spotify.com/album/2lDq8OHK7lxxHrEBpMG2js) | 4:02 |
 | 44 | [N.A.O.A](https://open.spotify.com/track/3JYGFo25EHjeKp2JgxKkYM) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [N.A.O.A](https://open.spotify.com/album/2SZ6lVhCfMjgUsp6G5cNTL) | 2:14 |
 | 45 | [ŞEYTAN](https://open.spotify.com/track/2NLg4fwiwtkblZ7KVBS3Ww) | [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [ŞEYTAN](https://open.spotify.com/album/4TOXpHV59wIu3xxVY4ubmm) | 2:41 |
-| 46 | [Zararsız Yolcu](https://open.spotify.com/track/1yDU0TglvShQ3vCzLMHvfB) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4), [Nejat Yavaşoğulları](https://open.spotify.com/artist/7fXsnTafGVw9DWQiFLlhsk), [Sina Koloğlu](https://open.spotify.com/artist/6jus4osVpToYq4EGcNB2Vs), [Gencay Kıymaz](https://open.spotify.com/artist/2Igybj8dFcGeQ4GUqRXo5Y), [Gökhan Büyükkara](https://open.spotify.com/artist/3QCPdFzyVXPsLsPchCbkG1) | [Zararsız Yolcu](https://open.spotify.com/album/6StAYIqtaJhdF3aXvYKcBr) | 3:06 |
+| 46 | [Zararsız Yolcu](https://open.spotify.com/track/1yDU0TglvShQ3vCzLMHvfB) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4) | [Zararsız Yolcu](https://open.spotify.com/album/6StAYIqtaJhdF3aXvYKcBr) | 3:06 |
 | 47 | [Ne Fark Eder](https://open.spotify.com/track/3OOYwCiPIjC64b2VXLk3cH) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Ne Fark Eder](https://open.spotify.com/album/0bTEq84HsGhDpimlYCIGNe) | 3:07 |
 | 48 | [J'irai en enfer](https://open.spotify.com/track/3mp3NJnyDVifpqxKapntf1) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Malabar Princess](https://open.spotify.com/album/4ocV7Sx1zDfOq5jR5KhagL) | 3:34 |
 | 49 | [Yıllar](https://open.spotify.com/track/6XJgyLqZtjDsYMdRuKyQty) | [Soner Avcu](https://open.spotify.com/artist/61F6Tth6ruPoNgy40WyFDH) | [Yıllar](https://open.spotify.com/album/11RWz5xPuKovycK03FolSp) | 4:42 |

@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,042 songs - 1 day 22 hr 8 min
+1,043 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,6 +1018,7 @@
 | [Where Have You Been](https://open.spotify.com/track/0iLFKCWNxgjMHqeJbmePa7) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Where Have You Been](https://open.spotify.com/album/7k3LUBMenFGgR04kQklEEj) | 2:31 | 2024-05-17 | 2024-09-10 |
 | [Where I Belong](https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Where I Belong](https://open.spotify.com/album/1G0jW7eipMKCiiHml5Cwmq) | 2:37 | 2023-11-14 | 2024-09-15 |
 | [Where You Are](https://open.spotify.com/track/56roD4hdsjbp73Rzxit9Yc) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Where You Are](https://open.spotify.com/album/1av2sOPOB2hgau027Bb79D) | 2:41 | 2024-11-15 | 2025-03-14 |
+| [Where You Go](https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk) | [Neascape](https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT) | [Where You Go](https://open.spotify.com/album/3Gl9qRa0JC7fLGGFxa3Uae) | 2:37 | 2025-04-28 |  |
 | [Wherever You Go](https://open.spotify.com/track/1a9Wg1Rtoj6flD9fMkIkVp) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [SAMI](https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara) | [Wherever You Go](https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE) | 2:29 | 2024-02-02 | 2025-03-08 |
 | [While We're Young](https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [While We're Young](https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ) | 2:26 | 2024-07-05 | 2025-03-14 |
 | [Who Do You Love](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA) | [Fedders](https://open.spotify.com/artist/3855hpvqzbzC5a2aESi23g), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Who Do You Love](https://open.spotify.com/album/3Wji1VJEurO045eJ4H92ea) | 3:16 | 2024-08-30 | 2024-11-18 |

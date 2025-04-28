@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>, <a href="spotify:artist:163tK9Wjr9P9DmM0AVK7lm">Lorde</a>,  <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,516 likes - 112 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,522 likes - 112 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

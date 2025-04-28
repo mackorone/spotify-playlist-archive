@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17688,
+  "num_followers": 17692,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,38 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 193547,
+      "name": "SEXTAPE",
+      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "kolorowe domy",
         "url": "https://open.spotify.com/album/4WrhYd2L5Hj0n83MK4DyPi"
       },
@@ -451,38 +483,6 @@
       "duration_ms": 240280,
       "name": "Mo\u017cna",
       "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 193547,
-      "name": "SEXTAPE",
-      "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 202037,
       "name": "Sama na planecie",
       "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+        "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
+      },
+      "artists": [
+        {
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+        }
+      ],
+      "duration_ms": 310653,
+      "name": "Kr\u00f3lowa \u0142ez",
+      "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-        "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
-      },
-      "artists": [
-        {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
-        }
-      ],
-      "duration_ms": 310653,
-      "name": "Kr\u00f3lowa \u0142ez",
-      "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Ku pogrzebaniu serc",
-        "url": "https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9"
-      },
-      "artists": [
-        {
-          "name": "Dom Z\u0142y",
-          "url": "https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt"
-        }
-      ],
-      "duration_ms": 414805,
-      "name": "Nie pami\u0119tam siebie",
-      "url": "https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Edi",
         "url": "https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv"
       },
@@ -1139,26 +1123,18 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Brim On",
-        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
+        "name": "Ku pogrzebaniu serc",
+        "url": "https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9"
       },
       "artists": [
         {
-          "name": "Leszek Mo\u017cd\u017cer",
-          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Zohar Fresco",
-          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
+          "name": "Dom Z\u0142y",
+          "url": "https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Brim On",
-      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
+      "duration_ms": 414805,
+      "name": "Nie pami\u0119tam siebie",
+      "url": "https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1203,6 +1179,30 @@
       "duration_ms": 236493,
       "name": "Jestem g\u0142odny",
       "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Brim On",
+        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
+      },
+      "artists": [
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Zohar Fresco",
+          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Brim On",
+      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
     },
     {
       "added_at": "2025-04-06 08:27:45",

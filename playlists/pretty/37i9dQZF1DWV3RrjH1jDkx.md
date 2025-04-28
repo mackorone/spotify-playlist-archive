@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Alessandra, Synne Vo, Zara Larsson, Lorde og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,240 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,235 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 97 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 |
 | 98 | [Peacefield \- Single Version](https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 4:46 |
 | 99 | [Har du visst det lenge](https://open.spotify.com/track/0s8pWe6Yf47Iu5K0VQ0XO1) | [Maria Solheim](https://open.spotify.com/artist/50dO3ZgIhCt8OEmmMougtn) | [Over fjellet](https://open.spotify.com/album/4WcG9IxIHQAZd5h2zbmYE5) | 4:54 |
-| 100 | [You dont even miss me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You dont even miss me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 |
+| 100 | [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 |
 | 101 | [everything will b ok](https://open.spotify.com/track/7kxwQt1M97v5mhzPeXcRQU) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM), [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [everything will be ok](https://open.spotify.com/album/5C87Zf01ONxL0RrKbt5CLv) | 2:53 |
 | 102 | [Moonlight](https://open.spotify.com/track/6Bw0zZ2YVwCPuHwqvouIL3) | [Troche](https://open.spotify.com/artist/0XQrK5nch5roEvmTBxFBiS), [Lucy La Dusk](https://open.spotify.com/artist/76DAyaPavieO3UaU0MDPHb) | [Moonlight](https://open.spotify.com/album/46xvj4Zs5HjTmBD2Mcounx) | 4:27 |
 | 103 | [if only](https://open.spotify.com/track/5DyEyqD8pK3S3BPS2coEgK) | [Susanne Lykke](https://open.spotify.com/artist/6Y2MuJm11w0ZOKLSoh6RxE) | [if only](https://open.spotify.com/album/6lNo9p76JE8Jwx6zQJbOU1) | 3:22 |

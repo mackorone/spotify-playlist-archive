@@ -28023,6 +28023,24 @@
     },
     {
       "album": {
+        "name": "crispy",
+        "url": "https://open.spotify.com/album/5B9gshRopEWYswsesszmpc"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "crispy",
+      "url": "https://open.spotify.com/track/296PtyBwDRi5dLobxeLxWW"
+    },
+    {
+      "album": {
         "name": "Crispy Clouds",
         "url": "https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR"
       },
@@ -98708,7 +98726,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 130200,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW"
@@ -110778,7 +110796,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 140800,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/5UZz3gPPEQyAAzzGB2zL26"
@@ -127444,6 +127462,28 @@
       "duration_ms": 138227,
       "name": "To Be Honest",
       "url": "https://open.spotify.com/track/28I04TZda8fyLCICihRij9"
+    },
+    {
+      "album": {
+        "name": "to love",
+        "url": "https://open.spotify.com/album/5Pmfe4B1QkiLnYmGj4Qq2A"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "to love",
+      "url": "https://open.spotify.com/track/0UjVWiLliLtyZlVaP24N2A"
     },
     {
       "album": {

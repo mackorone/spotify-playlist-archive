@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 76159,
+  "num_followers": 76216,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAAC1OrvZGQyTuDFtZbRs3DEn",
+  "snapshot_id": "aAwiAAAAAAAnlkctNFJ+4gHJwWfzKtEG",
   "tracks": [
     {
       "added_at": null,
@@ -1063,18 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+        "name": "Ao Vivo No Rio",
+        "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
       },
       "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+      "duration_ms": 250106,
+      "name": "Meu Menino (Minha Menina) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
     },
     {
       "added_at": null,
@@ -1099,22 +1103,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Vivo No Rio",
-        "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
       "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Meu Menino (Minha Menina) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,

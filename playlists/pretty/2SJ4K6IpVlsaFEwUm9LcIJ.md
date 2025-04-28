@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,977 likes - 80 songs - 5 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,977 likes - 81 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,25 +68,26 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 58 | [High](https://open.spotify.com/track/6ZQUvbyiTVNy66ghsYb1Tg) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Three Times](https://open.spotify.com/album/4R90JamYSfq0pNRb2xoiu5) | 4:07 |
 | 59 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 60 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 |
-| 61 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 |
-| 62 | [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 |
-| 63 | [Harmless](https://open.spotify.com/track/4OYmd02op9NYxIdOfjYo4C) | [Mad About The Boy](https://open.spotify.com/artist/0ux8iLN3qDkhoXLwbTA1M0) | [Top Earner](https://open.spotify.com/album/2adLrKoyb1QYHuSqlSu6Bi) | 4:48 |
-| 64 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
-| 65 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 |
-| 66 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 67 | [Puddles on My Pillow](https://open.spotify.com/track/6r15HLqlrLaxKesH2qaAVL) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Swimming Pool](https://open.spotify.com/album/5Fz76M7GkaDO8pObe6MRFs) | 2:00 |
-| 68 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 |
-| 69 | [I Feel It Starts Again](https://open.spotify.com/track/5BRBSRdSHRbq5E9GmdZ6ye) | [Suzanne Menzel](https://open.spotify.com/artist/6As3O7Fndk3au4CcOSYT3H) | [Goodbyes And Beginnings](https://open.spotify.com/album/0NehyKBbhDRF123SuqLe4c) | 3:28 |
-| 70 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 |
-| 71 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 |
-| 72 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 |
-| 73 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 |
-| 74 | [Man On The Tube](https://open.spotify.com/track/5UG4irKV9cvtktJWRzTiAU) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Michael & Miranda](https://open.spotify.com/album/1JvEQ9sw7KgdlPX3z4syN6) | 3:53 |
-| 75 | [My Sound](https://open.spotify.com/track/6Wz3jWMD5fgc7MB2EoXuWE) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/7jPRc2iSpir5elpmK0WQrM) | 6:07 |
-| 76 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 |
-| 77 | [Starshy](https://open.spotify.com/track/4lHPPwYzahtsG46xE2idb5) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 4:09 |
-| 78 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
-| 79 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 |
-| 80 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
+| 61 | [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 |
+| 62 | [Harmless](https://open.spotify.com/track/4OYmd02op9NYxIdOfjYo4C) | [Mad About The Boy](https://open.spotify.com/artist/0ux8iLN3qDkhoXLwbTA1M0) | [Top Earner](https://open.spotify.com/album/2adLrKoyb1QYHuSqlSu6Bi) | 4:48 |
+| 63 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
+| 64 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 |
+| 65 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
+| 66 | [Puddles on My Pillow](https://open.spotify.com/track/6r15HLqlrLaxKesH2qaAVL) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Swimming Pool](https://open.spotify.com/album/5Fz76M7GkaDO8pObe6MRFs) | 2:00 |
+| 67 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 |
+| 68 | [I Feel It Starts Again](https://open.spotify.com/track/5BRBSRdSHRbq5E9GmdZ6ye) | [Suzanne Menzel](https://open.spotify.com/artist/6As3O7Fndk3au4CcOSYT3H) | [Goodbyes And Beginnings](https://open.spotify.com/album/0NehyKBbhDRF123SuqLe4c) | 3:28 |
+| 69 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 |
+| 70 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 |
+| 71 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 |
+| 72 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 |
+| 73 | [Man On The Tube](https://open.spotify.com/track/5UG4irKV9cvtktJWRzTiAU) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Michael & Miranda](https://open.spotify.com/album/1JvEQ9sw7KgdlPX3z4syN6) | 3:53 |
+| 74 | [My Sound](https://open.spotify.com/track/6Wz3jWMD5fgc7MB2EoXuWE) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/7jPRc2iSpir5elpmK0WQrM) | 6:07 |
+| 75 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 |
+| 76 | [Starshy](https://open.spotify.com/track/4lHPPwYzahtsG46xE2idb5) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 4:09 |
+| 77 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
+| 78 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 |
+| 79 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
+| 80 | [No usa](https://open.spotify.com/track/4WAWDgOppVnkZmlPMZ4CXO) | [ROSSER ELECTRONICS](https://open.spotify.com/artist/6AkTcHrBBdPSDqrC5ZUl7O) | [This time it'll work](https://open.spotify.com/album/1rageEi7EsiawKmzmySfhV) | 3:14 |
+| 81 | [I Never Want To Be Without You](https://open.spotify.com/track/0j5XRIuOKp6Nsx6FRan8Z9) | [AIR](https://open.spotify.com/artist/5I8xhwELTKXC9ZRCq2zzgr) | [In Need of You featuring Googie](https://open.spotify.com/album/2Jn1DbxmIirP7RvA5U1fVW) | 3:22 |
 
-Snapshot ID: `AAAMTuH/4CNJ3RLumwxFnSlvOlKwFxJD`
+Snapshot ID: `AAAMUXdF+MBC2xPmMFK7rCsSN8lb+453`

@@ -21669,6 +21669,24 @@
     },
     {
       "album": {
+        "name": "Where You Go",
+        "url": "https://open.spotify.com/album/3Gl9qRa0JC7fLGGFxa3Uae"
+      },
+      "artists": [
+        {
+          "name": "Neascape",
+          "url": "https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157102,
+      "name": "Where You Go",
+      "url": "https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk"
+    },
+    {
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE"
       },

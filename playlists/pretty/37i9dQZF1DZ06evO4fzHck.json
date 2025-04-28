@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 570575,
+  "num_followers": 570661,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAACLNRn0r2A6Kpc6zdtNMT/K",
+  "snapshot_id": "aAwiAAAAAADSLC02jIbCzU2QeALTSp61",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 363460,
-      "name": "I Can Never Say Goodbye",
-      "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
+      "duration_ms": 285131,
+      "name": "Drone:Nodrone",
+      "url": "https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 285131,
-      "name": "Drone:Nodrone",
-      "url": "https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd"
+      "duration_ms": 623320,
+      "name": "Endsong",
+      "url": "https://open.spotify.com/track/0gHvrWN5ZQPDqn3QnpI5DD"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 250653,
       "name": "Cut Here",
       "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -763,6 +747,30 @@
       "duration_ms": 283880,
       "name": "Last Dance - Remastered",
       "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can Never Say Goodbye (Paul Oakenfold ''Cinematic'' Remix)",
+        "url": "https://open.spotify.com/album/2r3uNooMXvwx8rUGSMmtyG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Simon Finley",
+          "url": "https://open.spotify.com/artist/3ZEjU2D2w0JnANHfgzxLa7"
+        }
+      ],
+      "duration_ms": 255967,
+      "name": "I Can Never Say Goodbye - Paul Oakenfold \"Cinematic\" Remix",
+      "url": "https://open.spotify.com/track/2FM7hevWnqa4UDTaMrMyY9"
     },
     {
       "added_at": null,
@@ -799,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
       "artists": [
         {
@@ -808,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 399866,
-      "name": "One Hundred Years",
-      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+      "duration_ms": 258346,
+      "name": "Closedown - Remastered 2010",
+      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
     }
   ],
   "unique_name": "This Is The Cure",

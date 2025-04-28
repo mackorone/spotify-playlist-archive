@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain](/playlists/plain/7smcyWmMxpr2nqnefrh792) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7smcyWmMxpr2nqnefrh792)
 
-### [💀Punk\-O\-Rama \- Punk Rock Bowling 2023 Edition](https://open.spotify.com/playlist/7smcyWmMxpr2nqnefrh792)
+### [💀 Punk\-O\-Rama](https://open.spotify.com/playlist/7smcyWmMxpr2nqnefrh792)
 
 > The greatest tunes inspired by a time when Punk was Punk and parents were nervous.
 
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain]
 | 43 | [Crucified](https://open.spotify.com/track/5TzujOwXTA6XdN17mo8wpk) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:25 |
 | 44 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
 
-Snapshot ID: `AAADBrEiyo7P/WXt6KiZ9U+V3UF3O3By`
+Snapshot ID: `AAADCMQcCCfsGV5NpQiEpSQA7cevblis`

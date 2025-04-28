@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring Jackie Hollander
 
-2,086 songs - 4 day 19 hr 19 min
+2,087 songs - 4 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Devoted \(feat\. Byron Stingily\)](https://open.spotify.com/track/6f6BSEmjqw43GVwTrArNgU) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD) | [Devoted \(feat\. Byron Stingily\)](https://open.spotify.com/album/29PMM8dX5U81KHvVWnxYnr) | 3:23 | 2021-12-03 | 2022-04-23 |
 | [Di Da Di](https://open.spotify.com/track/6gXGso6sUgXkDTYb13zlz0) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Di Da Di](https://open.spotify.com/album/1wsSqrIvLM48vY7ru0QUFY) | 2:46 | 2022-05-06 | 2022-08-13 |
 | [Di Nobo](https://open.spotify.com/track/4KCs5QWk6YBcIMqSfSqAiJ) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/6wMSTM3o8peez0H1RSTfKI) | 3:15 | 2021-11-26 | 2022-01-06 |
-| [Diablo](https://open.spotify.com/track/4VstANfj9EnyndQPGOqU51) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Diablo](https://open.spotify.com/album/04Rs0ySDE8gQXFuF9YZz52) | 3:13 | 2025-03-28 |  |
+| [Diablo](https://open.spotify.com/track/4VstANfj9EnyndQPGOqU51) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Diablo](https://open.spotify.com/album/04Rs0ySDE8gQXFuF9YZz52) | 3:13 | 2025-03-28 | 2025-04-28 |
 | [Diamond Therapy](https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Diamond Therapy](https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep) | 3:19 | 2023-09-15 | 2024-08-17 |
 | [Diamonds](https://open.spotify.com/track/6kLiLGTBQ0RhPgYOHYt9gI) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/6WD7M9RxSh0SKryaGiHkXb) | 2:55 | 2021-11-26 | 2022-03-12 |
 | [Dice](https://open.spotify.com/track/6pK1dCN0zuT6Rkf0rqA7AI) | [DJ Wady](https://open.spotify.com/artist/2yRUlvlTqfWQHTriEoeR55), [Afroloko](https://open.spotify.com/artist/4xYh2GHr8Vj2lmNmbfBcsU) | [Dice](https://open.spotify.com/album/0FrXYHZpNdgwGO7fLjFVyq) | 6:15 | 2022-04-22 | 2022-06-11 |
@@ -1727,6 +1727,7 @@
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-07-16 |
 | [Supernatural \- feat\. Ursula Rucker](https://open.spotify.com/track/2AqSeHrVaD64Csir2xKsDj) | [King Britt](https://open.spotify.com/artist/3dLfgaGJjjkkF1OUNiEput), [Firefly](https://open.spotify.com/artist/1MSiu4alHI6S2lZtiFvUjH), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm) | [Supernatural \(feat\. Ursula Rucker\)](https://open.spotify.com/album/0PWh8841UagFUDH5Xw1bR3) | 9:30 | 2022-12-28 | 2023-01-06 |
 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 | 2024-10-04 |  |
+| [Supersonic](https://open.spotify.com/track/2xazqBgWjJ6mDyprFbfFtG) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Supersonic](https://open.spotify.com/album/14xy1s0yN4g2exRPh7RMFr) | 2:34 | 2025-04-28 |  |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-09 | 2023-02-04 |
 | [Susanna](https://open.spotify.com/track/2OHLvh6BIA1yTKQLA4kAbF) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [Susanna](https://open.spotify.com/album/3vAiDmx1dpeDcqT4ebU8CU) | 2:34 | 2022-09-05 | 2022-10-15 |
 | [Sway](https://open.spotify.com/track/0LZzGrLgxK8e0V6IoAQtd5) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sway](https://open.spotify.com/album/2SFHdh9jrZsQTpsrqm2Wll) | 3:30 | 2021-11-26 | 2022-01-06 |

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa ELLIMEI.
 
-679 songs - 1 day 9 hr 55 min
+680 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Kuka on vastuus?](https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Kuka on vastuus?](https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY) | 2:32 | 2025-03-20 | 2025-04-18 |
 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 | 2025-01-30 | 2025-03-28 |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 |  |
+| [Kuolen ikävään](https://open.spotify.com/track/75oUR9vsCYxDbFjhJMDrek) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Kuolen ikävään](https://open.spotify.com/album/7JsRMWiD9i1cZ1koysOyc3) | 3:01 | 2025-04-27 |  |
 | [Kuollut liekki](https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Kuollut liekki](https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV) | 2:58 | 2024-09-19 | 2024-11-15 |
 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 | 2024-07-02 | 2024-07-19 |
 | [Kuumempi ku koskaan ennen](https://open.spotify.com/track/2z6dFRvYLRsDOwihu12DVB) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN) | [Kuumempi ku koskaan ennen](https://open.spotify.com/album/0o3JIk2kxMKBf8C6r3MngW) | 2:51 | 2025-02-13 | 2025-03-07 |

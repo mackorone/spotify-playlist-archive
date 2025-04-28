@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "pretty years",
+        "url": "https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179035,
+      "name": "pretty years",
+      "url": "https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9"
+    },
+    {
+      "album": {
         "name": "Butterflies In My Head",
         "url": "https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy"
       },

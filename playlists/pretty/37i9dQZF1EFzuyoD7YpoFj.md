@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 406 songs - 21 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 406 songs - 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -410,9 +410,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 400 | [Pick Me Up and Lay Me Down](https://open.spotify.com/track/2Zo116V06QDbq3LdmW2AHk) | [Valerie Anastasio & Tim Harbold](https://open.spotify.com/artist/6HWnY95H21n6B8mKzaKjvc) | [Give 'em the Oo\-La\-La](https://open.spotify.com/album/6oDkJzUJvR3FWUhjBGPL1Y) | 3:58 |
 | 401 | [Thank You So Much Mrs\. Lowsborough\-Goodby](https://open.spotify.com/track/6TzgQd0cfn4OaNkJYtc0it) | [Ambrose](https://open.spotify.com/artist/0iKiwo4LTF4E2EsJwcNZyF) | [Tribute To Cole Porter](https://open.spotify.com/album/3wFy6UAW8UC5rfN9Lj9dpZ) | 3:16 |
 | 402 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
-| 403 | [Quainty, Dainty Me \- Remastered](https://open.spotify.com/track/7KLochx49d0KSmjAUNQIrw) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/4bQSGb4laq7OD90vuCDmYt) | 4:15 |
-| 404 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
+| 403 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
+| 404 | [Quainty, Dainty Me \- Remastered](https://open.spotify.com/track/7KLochx49d0KSmjAUNQIrw) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/4bQSGb4laq7OD90vuCDmYt) | 4:15 |
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 406 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Abv1wAAAAAA3qDUab5epJYBpVu+B91jZ`
+Snapshot ID: `Abv7nAAAAABlTMv/us3JPEsXntwWxIq5`

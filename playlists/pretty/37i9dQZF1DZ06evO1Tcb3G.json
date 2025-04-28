@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 490686,
+  "num_followers": 490771,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAAC/bqkEqt+6wdIyKaFn3Idc",
+  "snapshot_id": "aAwiAAAAAAArJr9FqGL1cfvMIHbRiY+F",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart of Gold: The Songs of Neil Young, Vol. 1",
+        "url": "https://open.spotify.com/album/5lY4Z0HnS2J9JX8Pnz9L4m"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/53xyv9M9POTmo0mZUqc5D8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "Cold Arms",
-      "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart of Gold: The Songs of Neil Young, Vol. 1",
-        "url": "https://open.spotify.com/album/5lY4Z0HnS2J9JX8Pnz9L4m"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/53xyv9M9POTmo0mZUqc5D8"
+      "duration_ms": 169906,
+      "name": "Cold Arms",
+      "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
     },
     {
       "added_at": null,

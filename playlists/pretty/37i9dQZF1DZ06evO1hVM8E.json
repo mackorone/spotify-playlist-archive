@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 43629,
+  "num_followers": 43638,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAADpmuFp+EAJYb4S3Z10GR2Y",
+  "snapshot_id": "aAwiAAAAAABXEZUkxXFCORLqaysyI/Ll",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Los Traficantes",
-      "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221480,
       "name": "Ya No Te Vayas",
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Los Traficantes",
+      "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
+        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Entre Perico y Perico",
-      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
+      "duration_ms": 154160,
+      "name": "Hasta Mi \u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
-        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Hasta Mi \u00daltimo D\u00eda",
-      "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
+      "duration_ms": 182466,
+      "name": "Entre Perico y Perico",
+      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
     },
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+        "name": "Diamante Negro",
+        "url": "https://open.spotify.com/album/0hjfd0waBAkVDRvAXHhddR"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 154426,
-      "name": "Me Lo Contaron Ayer",
-      "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
+      "duration_ms": 206875,
+      "name": "Diamante Negro",
+      "url": "https://open.spotify.com/track/320Sk1ouyKo9jQIDjRgBYC"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamante Negro",
-        "url": "https://open.spotify.com/album/0hjfd0waBAkVDRvAXHhddR"
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 206875,
-      "name": "Diamante Negro",
-      "url": "https://open.spotify.com/track/320Sk1ouyKo9jQIDjRgBYC"
+      "duration_ms": 154426,
+      "name": "Me Lo Contaron Ayer",
+      "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
     },
     {
       "added_at": null,

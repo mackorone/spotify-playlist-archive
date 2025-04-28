@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Street Runnaz 71",
+        "url": "https://open.spotify.com/album/0DUanaQOnLsiDiMnSN2dwh"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194481,
+      "name": "Julio",
+      "url": "https://open.spotify.com/track/06mKlVJEJvUObtruuxQuKi"
+    },
+    {
+      "album": {
         "name": "Jugg King",
         "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
       },
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 177855,
       "name": "Trap Slow",
       "url": "https://open.spotify.com/track/2rRrYmgUJataikDTcSJkQ3"

@@ -8476,5 +8476,5 @@
 - [�](/playlists/pretty/37i9dQZF1DWXfgmQDgebb6.md)
 - [𝙛𝙨𝙝 𝙣𝙙 𝙘𝙝𝙥 𝙟𝙢𝙨](/playlists/pretty/4bPJzqdwVF3SMKYy9MzH5e.md)
 - [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)
-- [💀Punk\-O\-Rama \- Punk Rock Bowling 2023 Edition](/playlists/pretty/7smcyWmMxpr2nqnefrh792.md)
+- [💀 Punk\-O\-Rama](/playlists/pretty/7smcyWmMxpr2nqnefrh792.md)
 - [💗kittydog songs featured playlist💙](/playlists/pretty/0fK21q3rVTX5AlC3dZRf2J.md)

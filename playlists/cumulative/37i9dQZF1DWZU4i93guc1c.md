@@ -4,13 +4,13 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Shmiska
 
-331 songs - 17 hr 24 min
+332 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 разів](https://open.spotify.com/track/4dAuvPHdQazF5XfO4KRWuC) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [10 разів](https://open.spotify.com/album/1j6iDmoFGrP1GYt6z68dQM) | 2:08 | 2024-09-13 | 2024-11-08 |
 | [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 | 2024-09-13 | 2024-10-15 |
-| [3 із 5](https://open.spotify.com/track/1MrkiQGI74SAje7M2FGKAu) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [3 із 5](https://open.spotify.com/album/1agweiMAk0y0S6lNM1CthQ) | 2:03 | 2025-04-11 |  |
+| [3 із 5](https://open.spotify.com/track/1MrkiQGI74SAje7M2FGKAu) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [3 із 5](https://open.spotify.com/album/1agweiMAk0y0S6lNM1CthQ) | 2:03 | 2025-04-11 | 2025-04-28 |
 | [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 | 2024-07-27 |
 | [Bird of Pray \- Vidbir 2025](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Vidbir 2025\)](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-01-24 |  |
 | [BLACKOUT](https://open.spotify.com/track/6RUESkzMM2mEtWNSZ6IDFS) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm), [SARCOMA HORROR](https://open.spotify.com/artist/1DH5gB0AVs87Vg3webgJAV) | [BLACKOUT](https://open.spotify.com/album/7s5BkwEVarOEvg1Dw5g6sV) | 3:42 | 2025-01-24 | 2025-03-04 |
@@ -114,6 +114,7 @@
 | [Залишився лиш час](https://open.spotify.com/track/7wNXXcMRYL6zicbpBTWn3K) | [Загреб](https://open.spotify.com/artist/40ueLYPFI0jZYk5IwFKc9m) | [Чотири](https://open.spotify.com/album/7t0QsZ0hzqpHeErtk9FyIl) | 4:01 | 2024-11-07 | 2024-12-07 |
 | [зараза](https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [la princesse lointaine](https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5) | 4:27 | 2024-12-06 |  |
 | [Засинаю перша](https://open.spotify.com/track/5Vuo5Irn3JzftTZkADcOCI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Засинаю перша](https://open.spotify.com/album/4BumJN5T1QfIxuSjhQBpg1) | 3:00 | 2024-07-26 | 2024-08-24 |
+| [зачарував](https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [зачарував](https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3) | 2:20 | 2025-04-24 |  |
 | [Земля](https://open.spotify.com/track/6gYpS809CZImTMCcOseUZa) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK) | [Земля](https://open.spotify.com/album/3E0ZEYk0ycG6OqYGIKNBcf) | 3:10 | 2025-01-24 | 2025-03-04 |
 | [Зламалось](https://open.spotify.com/track/3ZfLh92AhRBJb9LryDHiqM) | [Кімната Гретхен](https://open.spotify.com/artist/6E4ZDtPGWri8DKXekjg4Gv) | [Зламалось](https://open.spotify.com/album/7CNzfZYXhcq5Qd0kpcNuAX) | 4:02 | 2024-10-18 | 2024-11-08 |
 | [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 | 2024-10-18 | 2025-04-12 |

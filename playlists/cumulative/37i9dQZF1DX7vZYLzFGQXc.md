@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
 
-1,533 songs - 3 day 14 hr 15 min
+1,535 songs - 3 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Footsteps](https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Footsteps](https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb) | 3:44 | 2022-05-02 | 2022-06-10 |
 | [For no reason](https://open.spotify.com/track/7lyB88DUokYgUAjvryjjjQ) | [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [For no reason](https://open.spotify.com/album/71Qvxa1Ap9g8RSnstES2WJ) | 4:52 | 2023-01-11 | 2023-02-09 |
 | [for rosie](https://open.spotify.com/track/4v9hf6bHc3r4n1IrDdi8wS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [serenade](https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby) | 3:48 | 2024-06-04 | 2024-09-03 |
+| [For You](https://open.spotify.com/track/46xCLLDfzglB5H2uo4M7XA) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [For You](https://open.spotify.com/album/4lSZlBAobYqUjk2UzSpOxW) | 3:15 | 2025-04-28 |  |
 | [Forest](https://open.spotify.com/track/5keELfGpCZcFoJy2cxRBmI) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Forest](https://open.spotify.com/album/2f8IvbBdJZZkWunMlvg0hg) | 2:42 | 2021-12-02 | 2022-01-11 |
 | [forest](https://open.spotify.com/track/3IS94oUtno6qoCe2GUB3is) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [forest](https://open.spotify.com/album/01x7G8ibDSoFu1XIge8S7Q) | 3:16 | 2022-08-18 | 2022-10-15 |
 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-05-02 | 2024-09-03 |
@@ -929,7 +930,7 @@
 | [Older Brother](https://open.spotify.com/track/70CpvttRNIAqn34y1ullTJ) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Older Brother](https://open.spotify.com/album/64D9Bw1OSF9dTnQGkjyrHP) | 4:05 | 2023-05-01 | 2023-07-06 |
 | [Olympic Road \(Feat\. CRUCiAL STAR\)](https://open.spotify.com/track/0SAL7zV02CKX8zmlnCyGuQ) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Archive](https://open.spotify.com/album/2hqvhJUhGwzlyiGtAQoxFP) | 3:54 | 2022-01-10 | 2022-02-24 |
 | [OMG, It's pointless](https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [OMG, It's pointless](https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN) | 3:22 | 2023-03-02 | 2023-05-02 |
-| [OMW](https://open.spotify.com/track/5IVqC7yn1Q0cMXAvwwFsmE) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [OMW](https://open.spotify.com/album/3tzIgE0Lpie6rNgrFHDFha) | 2:18 | 2025-02-04 |  |
+| [OMW](https://open.spotify.com/track/5IVqC7yn1Q0cMXAvwwFsmE) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [OMW](https://open.spotify.com/album/3tzIgE0Lpie6rNgrFHDFha) | 2:18 | 2025-02-04 | 2025-04-28 |
 | [On a good day like this](https://open.spotify.com/track/2hSc1YwcTRn4Eafngp4eS7) | [moonO=](https://open.spotify.com/artist/4MWE7CxRweYbQUVBJKrWfs) | [On a good day like this](https://open.spotify.com/album/6cBYAHSn0IlJuPBIxzqr3u) | 3:54 | 2024-08-02 | 2025-02-04 |
 | [On my side](https://open.spotify.com/track/4NE4YuoNNxdjCN36FpOMPy) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [On my side](https://open.spotify.com/album/4VLGY6XjG0MaxAJbEdgcpA) | 3:01 | 2022-09-29 | 2022-12-01 |
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-01-28 |
@@ -1088,7 +1089,7 @@
 | [SCAR FACE](https://open.spotify.com/track/3FaAn2OgqMklhl9y7M44Un) | [nowimyoung](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [SUDO](https://open.spotify.com/artist/0KLEGOxFdkllQF972DAiPU) | [SCAR FACE](https://open.spotify.com/album/3LEM5tpNQgPRE4qKbeCa7G) | 2:50 | 2022-06-18 | 2022-07-05 |
 | [Scarlet youth](https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Scarlet youth in Nomadic daybreak](https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA) | 2:55 | 2024-01-08 | 2025-01-21 |
 | [Schadenfreude](https://open.spotify.com/track/5kLLcku7bnYYzGrzH1aRzQ) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Schadenfreude](https://open.spotify.com/album/3o2kTeka6t3MLWSZHfjU4t) | 4:28 | 2022-06-09 | 2022-07-05 |
-| [Sea of Appointment](https://open.spotify.com/track/7dcMLsjqmakRo6g0pIWchU) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Sea of Appointment](https://open.spotify.com/album/6xGnE1503rLhAYYc0A9ejd) | 3:17 | 2025-02-28 |  |
+| [Sea of Appointment](https://open.spotify.com/track/7dcMLsjqmakRo6g0pIWchU) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Sea of Appointment](https://open.spotify.com/album/6xGnE1503rLhAYYc0A9ejd) | 3:17 | 2025-02-28 | 2025-04-28 |
 | [Sea Turtle](https://open.spotify.com/track/2g6i2vnBpvpQXgwXQdWjbn) | [toasterz](https://open.spotify.com/artist/1UY9Jxren3wBLXUVbSmA9F) | [\[toasterz : pilot episode\]](https://open.spotify.com/album/2yfKknMJTHr75K7mS7jjxh) | 3:01 | 2024-07-03 | 2024-09-20 |
 | [Sea&U&I](https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9) | [polar](https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi) | [Sea&U&I](https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W) | 3:15 | 2023-07-06 | 2024-01-03 |
 | [Searched your name on instagram](https://open.spotify.com/track/0N9QkwJeveGUGpWvUORlzy) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Searched your name on instagram](https://open.spotify.com/album/21gf9IgPsdFViKGVZv5GwF) | 2:52 | 2023-01-11 | 2023-02-09 |
@@ -1423,6 +1424,7 @@
 | [WINTER FLOWER](https://open.spotify.com/track/24MIIiuBemcfY8Grr1Q61x) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [On My Way To You](https://open.spotify.com/album/1CpZGP4dij7YWzaCm5GjJS) | 1:32 | 2023-01-30 | 2023-04-01 |
 | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/track/1dUkH9OTBqCmXtXzZrWRNy) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Wetboy](https://open.spotify.com/artist/5WTC9ObtgUkLbac6FpKcIF) | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/album/3oC70ZNeqbMA6Vrmx8rMgC) | 3:05 | 2022-05-02 | 2022-06-10 |
 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 | 2025-04-21 |  |
+| [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KimYoungSeok Band](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 | 2025-04-28 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-08-13 |
 | [Wish!](https://open.spotify.com/track/6rqf1XFZjBGesjZ850msAm) | [LEVENUE](https://open.spotify.com/artist/1C9OICkvpyG9oHKaZvRreX) | [Wish!](https://open.spotify.com/album/7pqKbTAFYlCtlcJILZ0g3F) | 2:24 | 2023-05-01 | 2023-07-27 |
 | [with the eyes of the moon](https://open.spotify.com/track/7qglpdOQtClVfNDper6YaH) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [with the eyes of the moon](https://open.spotify.com/album/6OiLARt2DB1ptef8I6kNWs) | 3:46 | 2022-07-04 | 2022-09-06 |

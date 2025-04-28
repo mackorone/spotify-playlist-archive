@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Bells Larsen on the cover🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,772 likes - 142 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,856 likes - 142 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

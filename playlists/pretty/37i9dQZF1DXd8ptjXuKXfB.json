@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
-  "num_followers": 26439,
+  "num_followers": 26445,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "Don't Be Afraid",
-        "url": "https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 172660,
-      "name": "Don't Be Afraid",
-      "url": "https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
         "name": "ZHA MAJ DUR",
         "url": "https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "EGY/KETT\u0150",
-        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
         }
       ],
-      "duration_ms": 299768,
-      "name": "EGY/KETT\u0150",
-      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
+      "duration_ms": 172660,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -735,26 +719,18 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "BAKPAKK",
-        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
+        "name": "EGY/KETT\u0150",
+        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 147120,
-      "name": "PANNONIA",
-      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
+      "duration_ms": 299768,
+      "name": "EGY/KETT\u0150",
+      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -775,6 +751,30 @@
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "PANNONIA",
+      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
         "name": "PATK\u00c1NY",
         "url": "https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "Meztelen",
-        "url": "https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi"
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb"
       },
       "artists": [
         {
-          "name": "Majka",
-          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
-        },
-        {
-          "name": "Horv\u00e1th Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Meztelen",
-      "url": "https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv"
+      "duration_ms": 210186,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -967,18 +947,22 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "Meztelen",
+        "url": "https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        },
+        {
+          "name": "Horv\u00e1th Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz"
         }
       ],
-      "duration_ms": 169841,
-      "name": "introvert\u00e1lt dal",
-      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
+      "duration_ms": 248000,
+      "name": "Meztelen",
+      "url": "https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -1019,6 +1003,26 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 130679,
+      "name": "PROSECCO",
+      "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
         "name": "SZ\u00cdVTIPR\u00d3",
         "url": "https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k"
       },
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 130679,
-      "name": "PROSECCO",
-      "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
+      "duration_ms": 169841,
+      "name": "introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 150295,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
         "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k (Rolling back)",
         "url": "https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le"
       },
@@ -1175,22 +1195,6 @@
       "duration_ms": 208000,
       "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
       "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Doktor - Torz",
-      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 150295,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
+      "duration_ms": 178800,
+      "name": "Doktor - Torz",
+      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "Frida Kahlo",
-        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        },
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 163107,
-      "name": "Frida Kahlo",
-      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
         "name": "SISTAHOOD",
         "url": "https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE"
       },
@@ -1327,22 +1307,22 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+        "name": "Frida Kahlo",
+        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
       },
       "artists": [
         {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         },
         {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
         }
       ],
-      "duration_ms": 154571,
-      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
-      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
+      "duration_ms": 163107,
+      "name": "Frida Kahlo",
+      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
     },
     {
       "added_at": "2025-04-22 10:28:47",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 154571,
+      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
+      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
         "name": "G\u00c1Z",
         "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-04-22 10:28:47",
       "album": {
-        "name": "rabiga",
-        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 170751,
-      "name": "egyszer\u0171",
-      "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
-    },
-    {
-      "added_at": "2025-04-22 10:28:47",
-      "album": {
         "name": "A b\u00e1lban",
         "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 234000,
       "name": "\u00fagy unom",
       "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"
+    },
+    {
+      "added_at": "2025-04-22 10:28:47",
+      "album": {
+        "name": "rabiga",
+        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "egyszer\u0171",
+      "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
     },
     {
       "added_at": "2025-04-22 10:28:47",

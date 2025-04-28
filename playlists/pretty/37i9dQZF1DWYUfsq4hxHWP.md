@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: MAYCE, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,101 likes - 165 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,148 likes - 165 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

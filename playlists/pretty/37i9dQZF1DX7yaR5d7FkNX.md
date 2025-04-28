@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de Javiera Mena y Santiago Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,487 likes - 104 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,480 likes - 104 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 9 | [no me culpes por sentir](https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [no me culpes por sentir](https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be) | 3:48 |
 | 10 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 |
 | 11 | [Ultramodos Sexuales](https://open.spotify.com/track/7qdUdWScBYaZBmmzk4ccxQ) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Ultramodos Sexuales](https://open.spotify.com/album/3OT46emPuGQ0oOYh8Tvi4Y) | 1:58 |
-| 12 | [Te Hago Un Resumen](https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Te Hago Un Resumen](https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f) | 3:06 |
+| 12 | [Te Hago Un Resumen](https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Te Hago Un Resumen](https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f) | 3:06 |
 | 13 | [El Polvo de los Días Raros](https://open.spotify.com/track/6z98CyBiVapgBCecH98y4d) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Polvo de los Días Raros](https://open.spotify.com/album/49NvBmz5ULkzTBuoVD2GLc) | 4:07 |
 | 14 | [Imagínate](https://open.spotify.com/track/2pDDEqLEVfJIuVqbLtuWEB) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Imagínate](https://open.spotify.com/album/0DjXHEfgVw6DiuijCazaOc) | 3:24 |
 | 15 | [Brillas \- en vivo desde el Palacio de los Deportes](https://open.spotify.com/track/57ajYJFvqlETyvd666WqPB) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH) | [Brillas \(en vivo desde el Palacio de los Deportes\)](https://open.spotify.com/album/78iEzoHKyUuqoQUk58PNLD) | 4:18 |

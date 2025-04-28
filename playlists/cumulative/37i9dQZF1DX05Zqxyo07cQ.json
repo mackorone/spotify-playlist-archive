@@ -2835,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Deep Abyssal",
+        "url": "https://open.spotify.com/album/187qENgE5y5f3XeEFVjkx3"
+      },
+      "artists": [
+        {
+          "name": "Meloleon",
+          "url": "https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Deep Abyssal",
+      "url": "https://open.spotify.com/track/22LEo2UNoQMBaJWApcj5gE"
+    },
+    {
+      "album": {
         "name": "Deep breaths",
         "url": "https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 175000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz"
@@ -5924,7 +5942,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 177693,
       "name": "Include",
       "url": "https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO"
@@ -12092,7 +12110,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 162098,
       "name": "Translucent night",
       "url": "https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5"

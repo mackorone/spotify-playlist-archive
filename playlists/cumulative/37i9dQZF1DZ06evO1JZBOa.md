@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-149 songs - 11 hr 15 min
+150 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ami Xintadu](https://open.spotify.com/track/3PXt08foKsvC84vcTc34Oo) | [Mário Lúcio](https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Independance](https://open.spotify.com/album/35E7iZTJC9CBJ4tG4Rg5kT) | 4:49 | 2025-02-02 |  |
 | [Anbessa](https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 3:41 | 2022-09-10 |  |
 | [Angola](https://open.spotify.com/track/0Oqm0L0kG0TIQ5ncBMGDyP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:26 | 2022-02-19 | 2022-02-21 |
+| [Ashiko Oumba](https://open.spotify.com/track/7jXhx41keYxGSQHFUcfqAq) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 9:52 | 2025-04-28 |  |
 | [Ba\-Kuba](https://open.spotify.com/track/0F7SrgvWE55PgFxxsUe96v) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:53 | 2021-12-28 | 2022-11-27 |
 | [Baobab Sunset](https://open.spotify.com/track/4TDKAGpQ975zwKU6U75oX5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 6:55 | 2021-12-28 | 2022-10-13 |
 | [Bayam Sell'Am](https://open.spotify.com/track/2t0c9foU1L4kNsNSK5zBWF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afrovision](https://open.spotify.com/album/2VS5qtVnp4Ce0U8Klil9cL) | 5:53 | 2024-04-23 | 2024-05-28 |
@@ -48,7 +49,7 @@
 | [Dasiko](https://open.spotify.com/track/16tLBvLCBclgLVyFzAWwEm) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:05 | 2021-12-28 | 2022-10-13 |
 | [Dasiko \- Interprete Par Bella Bellow](https://open.spotify.com/track/3XBCla95pMHvDEE1CAeJTh) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Safari](https://open.spotify.com/album/1fSXRjeDsXDogVCQOU4nRJ) | 4:04 | 2024-01-22 | 2024-04-04 |
 | [Demaro](https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lambi golo](https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN) | 3:58 | 2023-03-10 | 2025-02-15 |
-| [Diarabi \(feat\. Bonga, Touré Kunda\)](https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:58 | 2021-12-28 |  |
+| [Diarabi \(feat\. Bonga, Touré Kunda\)](https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:58 | 2021-12-28 | 2025-04-28 |
 | [Dikalo \- Remix 97](https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:07 | 2024-08-31 | 2025-04-24 |
 | [Du bush a bush](https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:56 | 2021-12-29 | 2022-09-03 |
 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 | 2022-10-12 |  |

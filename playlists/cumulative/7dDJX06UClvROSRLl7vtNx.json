@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 174339,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/1jF6RZDYvmO30U7mwSbK5A"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 148750,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/6U8OBu33l76fnBTVJZOd6G"
@@ -5694,6 +5694,24 @@
       "duration_ms": 155420,
       "name": "Golden Hour (feat. Eirik N\u00e6ss)",
       "url": "https://open.spotify.com/track/4DuWtS1xpr6lftXRK5p7Iu"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/17vdzxxOgxkuBCqXC5pV7M"
+      },
+      "artists": [
+        {
+          "name": "Kaphy",
+          "url": "https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165368,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1aZAMeEieUIuLyxFp9XZJU"
     },
     {
       "album": {
@@ -7455,6 +7473,32 @@
     },
     {
       "album": {
+        "name": "I Wanted That",
+        "url": "https://open.spotify.com/album/48TOZlhE6APQNsxgdrY6DQ"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142184,
+      "name": "I Wanted That",
+      "url": "https://open.spotify.com/track/0XzYhe3jE5d80apayNMqUG"
+    },
+    {
+      "album": {
         "name": "I Will Never Let You Go",
         "url": "https://open.spotify.com/album/10kOKwK7DirtMUZVdSXHmc"
       },
@@ -9204,7 +9248,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 138000,
       "name": "Like a Mystery",
       "url": "https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5"
@@ -11028,6 +11072,28 @@
     {
       "album": {
         "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/0QTc25gjTVDhPj0EM8wfRS"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/0uE87YJLWQRqSOVzD1r82U"
+    },
+    {
+      "album": {
+        "name": "Morning Sun",
         "url": "https://open.spotify.com/album/0wiKQOncV2Bl2mDqNGjNUd"
       },
       "artists": [
@@ -11281,6 +11347,36 @@
     },
     {
       "album": {
+        "name": "M\u00f6tley Cr\u00fce",
+        "url": "https://open.spotify.com/album/1EU8YSiQguB7D2lJZgQ1uU"
+      },
+      "artists": [
+        {
+          "name": "AZURA",
+          "url": "https://open.spotify.com/artist/0KkfIjZrSK9CjBCM9S2Jms"
+        },
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        },
+        {
+          "name": "Ernar",
+          "url": "https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "M\u00f6tley Cr\u00fce",
+      "url": "https://open.spotify.com/track/0VJxbuxGApiyMNgE7gQimp"
+    },
+    {
+      "album": {
         "name": "Navigation",
         "url": "https://open.spotify.com/album/5xp6XLUeKnihtacMzsRMkZ"
       },
@@ -11444,6 +11540,28 @@
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/6YlVsp5W6vj81HINKAgneT"
+    },
+    {
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/2ptfnsQuvtg3Qy3I7q7mpT"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/7ddyZw5F6xZ1HAxrdhnJab"
     },
     {
       "album": {
@@ -12409,6 +12527,24 @@
     },
     {
       "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/0yd2qOVKXeRFzrqgXGS63P"
+      },
+      "artists": [
+        {
+          "name": "Nick Raff",
+          "url": "https://open.spotify.com/artist/5RKz5nG67MROnbKyfbIQYF"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B"
+    },
+    {
+      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/4LZMn3Mf1otyIo8Kr4iU6L"
       },
@@ -12826,7 +12962,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 168829,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/33ngsrZaAkWQAfVe9lpamN"

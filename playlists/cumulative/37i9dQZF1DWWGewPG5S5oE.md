@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 中村海斗
 
-407 songs - 1 day 8 hr 39 min
+408 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 | 2024-05-09 |
 | [Buono Time](https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Buono Time](https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E) | 2:56 | 2025-02-04 | 2025-04-02 |
 | [CALL ME](https://open.spotify.com/track/5WiUDi45DPJNgfsF8LBFV5) | [才恵加\(saeka\)](https://open.spotify.com/artist/701fnjrVk4bW0uDZXSVhdF) | [NEW CITY](https://open.spotify.com/album/3i8z39blp9XUU0ijk8PGC9) | 3:56 | 2024-07-23 | 2024-09-18 |
+| [calm](https://open.spotify.com/track/6XLfxl4o3O0bU6puV1guqJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [calm](https://open.spotify.com/album/1LbqYeKsGTsUtLWzZaSyKn) | 4:01 | 2025-04-22 |  |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
 | [Can't Hide Love](https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [m\_unit: Beyond Orbits](https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u) | 5:59 | 2023-09-26 | 2024-04-19 |
 | [Can’t Hide Love](https://open.spotify.com/track/3say48b5YjOGpHkrHyIfap) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [Beyond Orbits](https://open.spotify.com/album/3W0Me7Gsn13sSJft44KHBI) | 5:59 | 2023-09-12 | 2024-05-29 |
@@ -308,7 +309,7 @@
 | [Theme of “Muscle King”](https://open.spotify.com/track/6adzrDs94f06CWv2rktMGC) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Theme of “Muscle King”](https://open.spotify.com/album/775ACjpCE3Q79Kbn5JioP1) | 3:37 | 2022-11-22 | 2022-12-21 |
 | [This city is too jazzy to be in love](https://open.spotify.com/track/1VM8oNBd8x3v7yN3VW386h) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/5oFEWNhXgLNuMbwNuzcVXz) | 3:30 | 2024-01-31 | 2024-04-03 |
 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 | 2024-05-28 |  |
-| [Thoth](https://open.spotify.com/track/7yDAKkaZFBjl4jdvXMPivN) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Thoth](https://open.spotify.com/album/1lQNAXOx50YgaTyKxK5jM7) | 4:43 | 2025-03-18 |  |
+| [Thoth](https://open.spotify.com/track/7yDAKkaZFBjl4jdvXMPivN) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Thoth](https://open.spotify.com/album/1lQNAXOx50YgaTyKxK5jM7) | 4:43 | 2025-03-18 | 2025-04-28 |
 | [tietie](https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [tietie](https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb) | 3:11 | 2022-10-25 | 2022-12-21 |
 | [TIGER MARCH](https://open.spotify.com/track/6Oclj8mALO4Qt1apY6X37T) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [Walter Blanding](https://open.spotify.com/artist/2CSZMV16BjcsK0LttyHTky), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [DANSE MACABRE](https://open.spotify.com/album/3wiRd5fP0VKdPR7xGRTMmg) | 4:21 | 2024-10-23 | 2025-04-20 |
 | [Tiger Rag](https://open.spotify.com/track/1vIrFpbVFbdDNoELavkLhz) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Eiji Kitamura](https://open.spotify.com/artist/3ObcIjZXcEvPEGqSJxI8KM), [中川喜弘](https://open.spotify.com/artist/3oi4zctKJg8k5J3NuBEgkX), [中川英二郎](https://open.spotify.com/artist/5n3EOyRF5yPU67VVCCefpx), [中村健吾](https://open.spotify.com/artist/1GT3yeZxbeiNfLoTwYw6pq), [高橋信之介](https://open.spotify.com/artist/2ird8pw3KnFYmCcMJKWdcb) | [PARK STREET KIDS](https://open.spotify.com/album/7DL4EnsqFanSVPyjZS1zLa) | 6:01 | 2022-12-27 | 2023-01-11 |

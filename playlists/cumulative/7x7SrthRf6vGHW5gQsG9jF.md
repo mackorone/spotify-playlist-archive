@@ -4,7 +4,7 @@
 
 > mostly rock
 
-859 songs - 2 day 7 hr 5 min
+866 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [dance and](https://open.spotify.com/track/2q2Bp2OnN8HF0grI6HIJQG) | [chouchou merged syrups.](https://open.spotify.com/artist/1rMlvq1rWmYdg0lzZcf7G0) | [clepsydra](https://open.spotify.com/album/5lIy1uUXZbNdEH4y05hdnd) | 4:11 | 2023-07-09 |  |
 | [danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 4:32 | 2023-12-21 |  |
 | [Dearly Departed](https://open.spotify.com/track/2Wz1csnKdKijMpk3FM3Wop) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [Dearly Departed](https://open.spotify.com/album/6fJYwluf7RN6Hrpy4ZrsGB) | 5:28 | 2024-03-18 |  |
+| [Death Metal Cheese Cake](https://open.spotify.com/track/1MQtK8wmVdStnfiKg7plaZ) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 4:12 | 2025-04-27 |  |
 | [Declaration Ceremony](https://open.spotify.com/track/3ZPrXvL5xqQJJZyWncZXJr) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Object](https://open.spotify.com/album/5MPvrs3Xzela08ir7DTHhV) | 3:05 | 2024-05-18 |  |
 | [Deeeeep!](https://open.spotify.com/track/3CaQdboLeE42pFJ35bUsy1) | [Lionel Hsiao](https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia) | [Deeeeep!](https://open.spotify.com/album/0VJo7QD4AS5BCcZhWOGlsD) | 2:49 | 2024-06-30 |  |
 | [deep love](https://open.spotify.com/track/3KVVXyYUrPiWqIfPXYsfZM) | [Split end](https://open.spotify.com/artist/7HxOuo5CXeShZ03FzmtFKv) | [deep love](https://open.spotify.com/album/2ZO8nAjCwDNVB8Vi4vxom0) | 3:55 | 2024-04-07 |  |
@@ -162,6 +163,7 @@
 | [First message \- quoree remix](https://open.spotify.com/track/0ZNT9OO4nbwEqZNOXmgYgx) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD), [quoree](https://open.spotify.com/artist/07ZRlBeAUP10OXn3oZgnT7) | [MIZUSHOBAI](https://open.spotify.com/album/0zQvERqMiMAbyBVPXDqepz) | 2:04 | 2024-12-05 |  |
 | [Flipper](https://open.spotify.com/track/1qqTuxNccTQnQdkCEog6Ij) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 4:00 | 2024-08-18 |  |
 | [Floccinaucinihilipilification](https://open.spotify.com/track/11IU2Drpm6E6kHYizy6gj1) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Floccinaucinihilipilification](https://open.spotify.com/album/2niPXVmCaccMPBFOQo8pWC) | 3:39 | 2024-03-05 |  |
+| [flood warning](https://open.spotify.com/track/3ANkAAXO6v1dKhokGxYBD2) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Bitter Sweet Idealism](https://open.spotify.com/album/4siQNQ1MtkupIf7RHxq4gG) | 2:54 | 2025-04-27 |  |
 | [FLOWER GIRL](https://open.spotify.com/track/3ZuGGlqb2LqQSS6o1D36Ts) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [ロンググッドバイ](https://open.spotify.com/album/2qqwUNewGqmBiV7jUdqqQd) | 7:09 | 2023-12-31 |  |
 | [flower raft](https://open.spotify.com/track/6RjFm8vUHC4KANOnlbK6w4) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [paddle ship](https://open.spotify.com/album/2HULE25xvNmDc1kKjVFFhJ) | 4:31 | 2024-07-18 |  |
 | [Flowers](https://open.spotify.com/track/69Cn9wUC2rqZMb9DfXL7kk) | [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [君のように生きれたら](https://open.spotify.com/album/3rehesLQoJRonofHk1AmXh) | 1:58 | 2024-02-15 |  |
@@ -366,6 +368,7 @@
 | [Prism](https://open.spotify.com/track/4INz0XBe0JgMNYXBmcPpqV) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Reflect](https://open.spotify.com/album/0gpNUbtnFvOx2goh27SMsN) | 4:23 | 2024-05-03 |  |
 | [PUMP! feat.chelmico](https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 3:00 | 2024-05-03 |  |
 | [rabbit](https://open.spotify.com/track/24FpmtvLCN7ExbThu78Ppe) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ANGRY DOG](https://open.spotify.com/album/3XlpgvHos5aLXf6QufH8B4) | 2:27 | 2023-09-22 |  |
+| [RAIN](https://open.spotify.com/track/7aCdXnpn7oPN1sz3i78t7x) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/6yZiidnATIgSBcKsrjZxji) | 5:10 | 2025-04-27 |  |
 | [Rainy Tapestry](https://open.spotify.com/track/3INsIMe6Ap6EJ2xXgt9NB8) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 5:26 | 2024-04-22 |  |
 | [raison dale](https://open.spotify.com/track/6iwFjthGgRcyukvWhSEQ5l) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [moment l.p.](https://open.spotify.com/album/14JGvzgBLwYENuT7UnoeEe) | 4:51 | 2023-11-18 |  |
 | [Ramune River](https://open.spotify.com/track/37xK8GDg5SMwi3QMbeqOZA) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [Ramune River](https://open.spotify.com/album/0e14Wd86QXWafWYKeroONh) | 4:59 | 2024-04-30 |  |
@@ -609,6 +612,7 @@
 | [ゲシュタルト \- 崩壊Remix](https://open.spotify.com/track/5YzPYZKg94yEOgSlODzfK1) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Otome](https://open.spotify.com/artist/6lDhtdOHuApMDkvQWtDpdV) | [ゲシュタルト \(崩壊Remix\)](https://open.spotify.com/album/5hdH3H4sjF4OoGsTyzPTLI) | 3:54 | 2024-07-15 |  |
 | [コンタクト](https://open.spotify.com/track/2tKEEiuxTUJqT57KG49vUj) | [Mowmow Lulu Gyaban](https://open.spotify.com/artist/3oyqpQcFZHn1eEAkigzsNB) | [野口、久津川で爆死](https://open.spotify.com/album/76078eqdqo2iROalBLsBU9) | 4:25 | 2023-09-12 |  |
 | [サイケな恋人](https://open.spotify.com/track/3ShTQT4QvhkeWmPPGBbIT2) | [Mowmow Lulu Gyaban](https://open.spotify.com/artist/3oyqpQcFZHn1eEAkigzsNB) | [野口、久津川で爆死](https://open.spotify.com/album/76078eqdqo2iROalBLsBU9) | 6:47 | 2023-08-18 |  |
+| [サザンカ](https://open.spotify.com/track/590HV9S4m776vmsT1NORTQ) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/6yZiidnATIgSBcKsrjZxji) | 4:30 | 2025-04-27 |  |
 | [サマースクール](https://open.spotify.com/track/28oSjVeTIM8v1LrXmoo2GA) | [SEAPOOL](https://open.spotify.com/artist/0iuh3bi0fF2wlYvZG01vZn) | [スイート Q ラブ](https://open.spotify.com/album/0fZRULe28oLLCVJPrwoUXw) | 3:04 | 2023-08-04 |  |
 | [サラバ青春](https://open.spotify.com/track/0rzpfStMhpjX8gQ9qagZOL) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [サラバ青春](https://open.spotify.com/album/1WtzRUR7xstZM3hAWIhOVi) | 5:15 | 2025-03-02 |  |
 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 | 2024-04-25 |  |
@@ -710,6 +714,7 @@
 | [同窓会](https://open.spotify.com/track/2Tb924OBAMBs4OAObgmRbG) | [是](https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt) | [同窓会](https://open.spotify.com/album/5nMCu1NqDiljezRGa3ZWa1) | 2:49 | 2024-09-15 |  |
 | [名前のない花束](https://open.spotify.com/track/4qieOBrfvGgw4lYmTN5V9Y) | [イツエ](https://open.spotify.com/artist/4d6ET0Ydnkc875OFlTBSuJ) | [「今夜絶対」](https://open.spotify.com/album/6ZKgWon1HwSKBl4m6BYXNV) | 5:50 | 2024-08-01 |  |
 | [名前を呼んで](https://open.spotify.com/track/6y40PXbtqeA7XaZpeQoTEE) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [猫とアレルギー](https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK) | 3:31 | 2023-12-31 |  |
+| [向こう髪](https://open.spotify.com/track/02XUiOvk37zmDi8SpI2ogu) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [向こう髪](https://open.spotify.com/album/0LVCjL4xOpumA9EczzKg4N) | 4:51 | 2025-04-27 |  |
 | [向こう髪](https://open.spotify.com/track/4f6dlfEJUFMAKNnXppcZse) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [袖の汀](https://open.spotify.com/album/0Rq3AhkgTk8m15vfDllorO) | 4:51 | 2024-05-18 |  |
 | [君のように生きれたら](https://open.spotify.com/track/3GHndb9dk6CFSeNUi3yh2Y) | [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [君のように生きれたら](https://open.spotify.com/album/3rehesLQoJRonofHk1AmXh) | 3:49 | 2023-12-12 |  |
 | [君の彼方](https://open.spotify.com/track/3nqeM9GPUPvQeiIJReUgmV) | [海の散歩](https://open.spotify.com/artist/3qDyWYaHmvAGKXjdrMGYex) | [僕らのオールシングスマストパス](https://open.spotify.com/album/5IFM8WMbjAF3dueYoVjx9c) | 4:35 | 2024-07-02 |  |
@@ -776,6 +781,7 @@
 | [春華](https://open.spotify.com/track/1wyrvwPrY5e0XPeRL77y8I) | [HoYoFair](https://open.spotify.com/artist/1PMdsoejY7SYqAuTysCeHM), [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [Teyvat Film Festival: Genshin Impact HoYoFair Music Selection](https://open.spotify.com/album/4rX4azRdqL651QBIRoL7x5) | 3:34 | 2024-10-21 |  |
 | [時のゆらめき](https://open.spotify.com/track/7mh2PjtG0nmdzsL6xO0YmI) | [イツエ](https://open.spotify.com/artist/4d6ET0Ydnkc875OFlTBSuJ) | [優しい四季たち](https://open.spotify.com/album/17bT1pX1E3fzz2bPTIwLSV) | 4:31 | 2023-09-24 |  |
 | [最後の楽園](https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [PACIFIC](https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7) | 4:03 | 2024-11-19 | 2025-04-21 |
+| [最高到達点](https://open.spotify.com/track/0me6i7dxq8acYtc0kFU71M) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [HARAJUKU BUZZ TRACKS \- Running Booster \-](https://open.spotify.com/album/7HCv5H3MdVSopGyvgPq83m) | 3:46 | 2025-04-27 |  |
 | [月の丘](https://open.spotify.com/track/79TkZmpXpNxLDi1RL0AXhP) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [ｑｐ](https://open.spotify.com/album/60JwRRKU6wsdJex2cbq974) | 3:26 | 2024-06-09 |  |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2024-10-21 |  |
 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 | 2024-05-18 |  |
@@ -785,6 +791,7 @@
 | [杪夏](https://open.spotify.com/track/2CtxtHFPv6BlktklptCDYd) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Touch the figure](https://open.spotify.com/album/0ArvB0Nzv365pCu1R8R3q2) | 2:38 | 2024-05-06 |  |
 | [東京](https://open.spotify.com/track/7jXmSHYnTaV5CVr2knYhO3) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 5:05 | 2023-07-28 |  |
 | [東京](https://open.spotify.com/track/71M5eHFCDR9vQHh0e5XO6h) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Clean Clean Clean](https://open.spotify.com/album/2aDrFJYYKSOT0TrR35skO9) | 4:21 | 2024-09-13 |  |
+| [栞](https://open.spotify.com/track/0rhHAtKnobTQItcYwPTiIa) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [HARAJUKU BUZZ TRACKS \- Running Booster \-](https://open.spotify.com/album/7HCv5H3MdVSopGyvgPq83m) | 4:30 | 2025-04-27 |  |
 | [桜が咲く前に](https://open.spotify.com/track/0Dy4xCryw1F6rO3c42gVMK) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [猫とアレルギー](https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK) | 5:35 | 2023-12-31 |  |
 | [桜流し](https://open.spotify.com/track/2TQsZUVhevVTtNUil5JoJv) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Fantome](https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS) | 4:40 | 2025-03-12 |  |
 | [棄てるなどして](https://open.spotify.com/track/7tNqLnBkixDhQlWcEB7Vd5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [マイルーム・マイステージ](https://open.spotify.com/album/1ka12FkauAHxBbLlOdshoI) | 2:52 | 2023-12-12 |  |

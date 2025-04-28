@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 169500,
       "name": "Bad Frequencies",
       "url": "https://open.spotify.com/track/29v2Qn7tZmePBZQ6J4OwNt"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 208518,
       "name": "Gold Econoline",
       "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "album": {
         "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
@@ -937,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/2bO7PHFh5712J67rb3A1ZR"
+      },
+      "artists": [
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        },
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Ohio is for Lovers - Lofi",
+      "url": "https://open.spotify.com/track/5uRv1MShrZQBJhUqahx8s8"
+    },
+    {
+      "album": {
         "name": "Ohio is for Lovers (Lofi)",
         "url": "https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw"
       },
@@ -952,7 +992,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 174915,
       "name": "Ohio Is For Lovers - Lofi",
       "url": "https://open.spotify.com/track/68kuwYK3mdn415abKKiISa"
@@ -1516,7 +1556,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 219500,
       "name": "The Suicide Mile",
       "url": "https://open.spotify.com/track/6KwxSlvsFeiAe3kDvyAgba"

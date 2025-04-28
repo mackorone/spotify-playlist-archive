@@ -232,6 +232,24 @@
     {
       "album": {
         "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/1716cky8w4roZox3AyO1zh"
+    },
+    {
+      "album": {
+        "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/08cA6Tv3pBYlwbJjUpFnn1"
       },
       "artists": [
@@ -242,7 +260,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 161544,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/2YfSEfmGirtcp6C6ZcLelL"

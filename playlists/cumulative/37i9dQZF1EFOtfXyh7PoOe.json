@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "1000 Suns",
+        "url": "https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        },
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204634,
+      "name": "1000 Suns",
+      "url": "https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t"
+    },
+    {
+      "album": {
         "name": "PABLO ESCAPAR!",
         "url": "https://open.spotify.com/album/4Cs7btLNavBT6wcuNJUQWv"
       },
@@ -60,7 +82,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 204634,
       "name": "1000 Suns",
       "url": "https://open.spotify.com/track/1zfq89eoPIvQFveUgOwU8W"

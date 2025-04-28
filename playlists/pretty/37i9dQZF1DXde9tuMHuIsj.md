@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Bryant Myers & Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,313 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,282 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 4 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 5 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 |
 | 6 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 |
-| 7 | [YZ \(feat\. Pressure 9X19\)](https://open.spotify.com/track/6hLx3BOVp25Bx4bLFxlACG) | [Glizzy Gvng](https://open.spotify.com/artist/5RpxZNS91QBBvRCPqvGTKs), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [YZ \(feat\. Pressure 9X19\)](https://open.spotify.com/album/2qbBK4c9VF275pbpqMGuTH) | 1:47 |
+| 7 | [YZ \(feat\. Pressure 9X19 & Turbo\)](https://open.spotify.com/track/6hLx3BOVp25Bx4bLFxlACG) | [Glizzy Gvng](https://open.spotify.com/artist/5RpxZNS91QBBvRCPqvGTKs), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Turbo](https://open.spotify.com/artist/7gtzfqNaI6M8o3iUCFjHZW) | [YZ \(feat\. Pressure 9X19 & Turbo\)](https://open.spotify.com/album/2qbBK4c9VF275pbpqMGuTH) | 1:47 |
 | 8 | [Vetements](https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:20 |
 | 9 | [Ja Morant](https://open.spotify.com/track/1SxOZg8hIxeEck104rwnCI) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [JA MORANT](https://open.spotify.com/album/0xZwy50WGpCnby43xDTgZ7) | 2:49 |
 | 10 | [2 K 1 6](https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 4:05 |

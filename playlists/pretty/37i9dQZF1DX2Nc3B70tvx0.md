@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,598 likes - 118 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,190 likes - 118 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

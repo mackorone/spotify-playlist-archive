@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Florito, Neyna
 
-504 songs - 1 day 5 hr 24 min
+505 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Divino](https://open.spotify.com/track/5SCcDWBNJjWaLxLAt6WldT) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Twenty Fingers](https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC) | [Divino](https://open.spotify.com/album/60BF8XXcz7XMinc13qPxpQ) | 4:26 | 2025-02-07 |  |
 | [Djudan](https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7) | [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Djudan](https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ) | 3:29 | 2023-03-17 | 2023-04-07 |
 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 | 2024-05-24 |
-| [Do Teu Lado](https://open.spotify.com/track/3smESE5L7Szg8r7EFCO5WJ) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Do Teu Lado](https://open.spotify.com/album/3lOLEiTVkYphbj7qeKM8iB) | 3:12 | 2025-03-14 |  |
+| [Do Teu Lado](https://open.spotify.com/track/3smESE5L7Szg8r7EFCO5WJ) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Do Teu Lado](https://open.spotify.com/album/3lOLEiTVkYphbj7qeKM8iB) | 3:12 | 2025-03-14 | 2025-04-28 |
 | [Doda](https://open.spotify.com/track/0CmWTQYRqTJI9oZb6QcHs9) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Doda](https://open.spotify.com/album/2yGoDSzzHg0cOs3uWbzb16) | 3:30 | 2025-03-07 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/14tIxwfij6H2iverAOGQb8) | [Dj Ademar](https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Don't Forget About Me](https://open.spotify.com/album/6KZ2G3ba4Yn1tZYGKITYn7) | 2:45 | 2024-08-01 | 2024-10-18 |
 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 | 2021-12-10 | 2023-06-23 |
@@ -248,6 +248,7 @@
 | [Magui](https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Magui](https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf) | 3:37 | 2023-03-03 |  |
 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-01-27 |  |
 | [Malembe Malembe](https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Vanda May](https://open.spotify.com/artist/1bNarEsCgTgkC04nAi8I7J), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [African Prince](https://open.spotify.com/album/7K0p3XgUd0ZlcJ7kjMu8Rf) | 4:04 | 2021-12-10 | 2022-02-09 |
+| [Malibu](https://open.spotify.com/track/11bu6O03dBehX5jVTYk7Qo) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Mc Acondize](https://open.spotify.com/artist/39yq2GrGjYbLCZE4d2cRvZ) | [Malibu](https://open.spotify.com/album/6rwYkIMFSHziuIg0S676TQ) | 2:37 | 2025-04-24 |  |
 | [Maluco](https://open.spotify.com/track/62MFlcVghmm0TzTNAlYN0j) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Do Jeito Que Eu Sou \(Part.2\)](https://open.spotify.com/album/3z89VRMwfVNZebtOrDfao9) | 4:22 | 2021-12-10 | 2022-07-21 |
 | [Mamã](https://open.spotify.com/track/4tcQPnO1jwLxJTNPnj6s9t) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [Crazy B](https://open.spotify.com/artist/3Z99aP1ne2L3vkPkXnYicW), [Chuk](https://open.spotify.com/artist/33f0HoDKufdA3vuAMlIv3r), [Giga DMT](https://open.spotify.com/artist/3FnfevzVYfrSQfEP7zDg85) | [Mamã](https://open.spotify.com/album/0qpsd5IVXoPA1LWjSv1XwL) | 3:14 | 2024-11-15 | 2024-12-06 |
 | [Maningue Doce](https://open.spotify.com/track/4x2pDgtEyVVjmjHpoEO38H) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Maningue Doce](https://open.spotify.com/album/4ennAV88BGgrf5q13Jovv4) | 3:04 | 2021-12-10 | 2022-07-29 |

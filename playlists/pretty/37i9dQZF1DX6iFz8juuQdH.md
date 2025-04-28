@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 
 > A trailblazer for Black British music culture\. Cover: Jamal Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,577 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,580 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 | 7 | [Purple Rain](https://open.spotify.com/track/6y0ZkkmpDHPv3mYk8Mpxnc) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Training Day](https://open.spotify.com/album/12oTSGsDE0iB9kWhaBqT0o) | 4:34 |
 | 8 | [That's Not Me \- Remix](https://open.spotify.com/track/0kOx8xSNt75Kzdzb41TpyG) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq), [President T](https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS), [John Tonks](https://open.spotify.com/artist/50j97EVENs9mGY1nJtOzJW), [Janum Khan](https://open.spotify.com/artist/5mc7ryF0duUyM4nuf49EL7) | [That's Not Me \(Remix\)](https://open.spotify.com/album/1RqNl5WBb16OyR62Q86unb) | 3:28 |
 | 9 | [Lean & Bop](https://open.spotify.com/track/3Pw0GqxFrLKEwTVdThYd0Q) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Lean & Bop](https://open.spotify.com/album/2C6helf8GTGXkMtK6aCjrm) | 3:08 |
-| 10 | [Wonderful](https://open.spotify.com/track/5iB84jjNkwxhSrV7GBqX5a) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Wonderful](https://open.spotify.com/album/41JSfoYWp9U0y6dy6jxHge) | 3:30 |
+| 10 | [Wonderful](https://open.spotify.com/track/5iB84jjNkwxhSrV7GBqX5a) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Wonderful](https://open.spotify.com/album/41JSfoYWp9U0y6dy6jxHge) | 3:30 |
 | 11 | [Price Tag](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:43 |
 | 12 | [F64](https://open.spotify.com/track/7lQLBHyCOwMYozS0qE51oT) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [Second Chance](https://open.spotify.com/album/3GGh7rxiTI2MMT8o0xlBEt) | 2:41 |
 | 13 | [Redrum Reverse](https://open.spotify.com/track/4t7jZtTX3mrmeM8cpzezMm) | [R6](https://open.spotify.com/artist/4SuG4WyuUZyY6GV67PgMhS) | [Redrum Reverse](https://open.spotify.com/album/18zUfwDpwcZwtEIsvTpUHV) | 3:34 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 | 22 | [SBTV Warm Up Session](https://open.spotify.com/track/1282uTBxNxRBRxc7Q7LTcI) | [Snap Capone](https://open.spotify.com/artist/3VPxstOu7nMAaOrD3hhUR1) | [Return of the Shooter](https://open.spotify.com/album/55Ngz3sKXDxQwH0qhiIyZI) | 9:46 |
 | 23 | [I Need](https://open.spotify.com/track/4TOnziP6TsZ6dD7RzEVEqG) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are The Brave](https://open.spotify.com/album/0GwWmKEUgzykmMXPYX93ba) | 4:00 |
 | 24 | [German Whip](https://open.spotify.com/track/6T9ZqPIWm4I4vygRZwgpJv) | [Meridian Dan](https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg), [Big H](https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [German Whip](https://open.spotify.com/album/2w1jh4sQHf253x0XspJhih) | 3:16 |
-| 25 | [Take My Number \(feat\. Àngel\)](https://open.spotify.com/track/7CmpcdLcegSsqn0h83iwm2) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Take My Number \(feat\. Àngel\)](https://open.spotify.com/album/0y5Y14ueR4CB2HBDvoyHYD) | 3:49 |
+| 25 | [Take My Number \(feat\. Àngel\)](https://open.spotify.com/track/7CmpcdLcegSsqn0h83iwm2) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Take My Number \(feat\. Àngel\)](https://open.spotify.com/album/0y5Y14ueR4CB2HBDvoyHYD) | 3:49 |
 | 26 | [Mains](https://open.spotify.com/track/3kY7f3qkk184PsKPylIEes) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Insomnia](https://open.spotify.com/album/3BZyfvmDgZFXqCGJpYt7ES) | 3:50 |
 | 27 | [One More Chance Freestyle](https://open.spotify.com/track/2iBk5z1JNM0SjYJnZAg93C) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [80's Baby](https://open.spotify.com/album/5ahPmRn5UohSVU7Dy8MvU3) | 4:30 |
 | 28 | [Bestie \(feat\. Yxng Bane\)](https://open.spotify.com/track/638s8Qi75q1pXjuH86fJX7) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Bestie \(feat\. Yxng Bane\)](https://open.spotify.com/album/7JlEQYvZ3DU78w1N2Yzb4T) | 3:39 |

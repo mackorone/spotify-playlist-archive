@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,837 songs - 3 day 23 hr 21 min
+1,838 songs - 3 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1223,6 +1223,7 @@
 | [Parking Lot Sunset](https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun) | 3:33 | 2024-04-11 | 2024-05-10 |
 | [Passivt aggressiv inkomst](https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf), [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Passivt aggressiv inkomst](https://open.spotify.com/album/11cpm6ipDpqikocjJcFYBf) | 2:39 | 2024-11-14 | 2025-02-16 |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
+| [PAUS](https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [PAUS](https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2) | 2:34 | 2025-04-24 |  |
 | [Peace and Quiet](https://open.spotify.com/track/5PEGMGEcDvFM3dEZVIKw51) | [Flux Vortex](https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H) | [Peace and Quiet](https://open.spotify.com/album/5FQuCiGSXHB9TpVg9sgJSB) | 3:20 | 2024-10-24 | 2024-11-12 |
 | [Peace Reign](https://open.spotify.com/track/37AnElQAdOqGpCwahotyce) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Peace Reign](https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7) | 2:35 | 2025-03-20 |  |
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
@@ -1413,7 +1414,7 @@
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [Snöar I April](https://open.spotify.com/track/52aE4Wr5rFoioFiXm0kehr) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Snöar I April](https://open.spotify.com/album/208rn4DQxOpMy0DDrha1rP) | 3:36 | 2024-02-24 | 2024-04-12 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
-| [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-14 |  |
+| [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-14 | 2025-04-28 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 | 2023-09-29 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-27 | 2024-09-28 |

@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 222133,
       "name": "2 Poemes, Op. 32 : 2 Poemes, Op. 32: No. 1 in F sharp major",
       "url": "https://open.spotify.com/track/3p2Bs1MKlmN52yrJPlZpCY"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 485293,
       "name": "ORGANUM FOR STEFANO II",
       "url": "https://open.spotify.com/track/49Q7Mt36cgPZpaXPlhnpUR"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 506088,
       "name": "Science Fiction",
       "url": "https://open.spotify.com/track/0Yg9Kv0WiWE9AR7DoVF37z"
@@ -3854,7 +3854,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"
@@ -3930,6 +3930,40 @@
       "duration_ms": 132200,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre"
+    },
+    {
+      "album": {
+        "name": "Y Bolanzero",
+        "url": "https://open.spotify.com/album/0KCUTx8tepcwlHWYf3DI4r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "David Tanenbaum",
+          "url": "https://open.spotify.com/artist/1GtK9rOQJok6hwWNl9iiEi"
+        },
+        {
+          "name": "Helmut Oesterreich",
+          "url": "https://open.spotify.com/artist/59D2MES2O4xvumHM0Ic0wf"
+        },
+        {
+          "name": "Jugendgitarrenorchester Baden-W\u00fcrttemberg",
+          "url": "https://open.spotify.com/artist/1PTVCaqNVMohTah3XU3qmx"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301813,
+      "name": "Y Bolanzero (1)",
+      "url": "https://open.spotify.com/track/0AZs9twmL8jrfA4E6PpdRO"
     },
     {
       "album": {

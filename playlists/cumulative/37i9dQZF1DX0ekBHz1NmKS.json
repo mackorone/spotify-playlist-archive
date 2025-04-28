@@ -22751,6 +22751,24 @@
     },
     {
       "album": {
+        "name": "PAUS",
+        "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "PAUS",
+      "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
+    },
+    {
+      "album": {
         "name": "Peace and Quiet",
         "url": "https://open.spotify.com/album/5FQuCiGSXHB9TpVg9sgJSB"
       },
@@ -26286,7 +26304,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 144666,
       "name": "So much worse",
       "url": "https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR"

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 515720,
+  "num_followers": 515847,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQgAAAAAD+Y5oBrBsaDdLXWdT2PkF6",
+  "snapshot_id": "aAwiAAAAAAB7w8Ob+i6tVJhs2MIn5rqR",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Nice",
-        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 228714,
-      "name": "Be Nice",
-      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GUARANTEE (feat. J. Rey Soul) [SUMMER MIX]",
         "url": "https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 211875,
       "name": "GUARANTEE (feat. J. Rey Soul) - SUMMER MIX",
       "url": "https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Nice",
+        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 228714,
+      "name": "Be Nice",
+      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
     },
     {
       "added_at": null,

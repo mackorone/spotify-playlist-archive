@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,402 likes - 496 songs - 1 day 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,507 likes - 496 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 7 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
 | 8 | [Dawn/Day](https://open.spotify.com/track/39zHTSWAGyAy2ho6uXuLA9) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dawn/Day](https://open.spotify.com/album/2QY2OSYYA7PDG7qKAskDl6) | 3:08 |
 | 9 | [introvert](https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [introvert](https://open.spotify.com/album/54HHjKn4JFZJhkOiG7z4v7) | 2:32 |
-| 10 | [You dont even miss me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You dont even miss me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 |
+| 10 | [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 |
 | 11 | [Shadow](https://open.spotify.com/track/4zSkRhZ5vJoMWGdTBF0oR3) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Shadow](https://open.spotify.com/album/3RvyOtHmRJNPzQXhSB7Ych) | 2:59 |
 | 12 | [Where Did You Go](https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Where Did You Go](https://open.spotify.com/album/22SUak4hVnLacCQKUHjMi0) | 2:12 |
 | 13 | [tell you straight \(Killen.’s version\)](https://open.spotify.com/track/502IDUMPO7Qv85AA52eZwR) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [tell you straight \(Killen.’s version\)](https://open.spotify.com/album/2x8pvSorMHBndwkSHBPaLi) | 3:08 |

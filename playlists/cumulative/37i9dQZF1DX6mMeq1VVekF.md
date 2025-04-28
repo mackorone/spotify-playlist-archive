@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: JD Cliffe
 
-489 songs - 1 day 1 hr 10 min
+490 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-22 | 2022-10-24 |
 | [HOTnKOLD \(feat\. BXKS\)](https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [COBALT: SOMUCHMoRE](https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8) | 2:31 | 2024-04-26 | 2024-06-28 |
 | [How Far](https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [How Far](https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg) | 3:09 | 2024-10-21 | 2024-11-10 |
-| [How to Win at Rock Paper Scissors](https://open.spotify.com/track/4mE8wA3Mt34C4g3vc4hiFe) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How to Win at Rock Paper Scissors](https://open.spotify.com/album/1zJmlI0t6fsP5sLUce4ima) | 3:23 | 2025-03-07 |  |
+| [How to Win at Rock Paper Scissors](https://open.spotify.com/track/4mE8wA3Mt34C4g3vc4hiFe) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How to Win at Rock Paper Scissors](https://open.spotify.com/album/1zJmlI0t6fsP5sLUce4ima) | 3:23 | 2025-03-07 | 2025-04-28 |
 | [Humble Beginnings](https://open.spotify.com/track/0aJugbUSMF6djSVl3KK2w6) | [E\. Mak](https://open.spotify.com/artist/5q0VyH9hnGjR9kMqegBtt4) | [Humble Beginnings](https://open.spotify.com/album/1etpjdPvjCEei6PxQlb2EO) | 1:52 | 2023-05-15 | 2023-05-19 |
 | [Humility?](https://open.spotify.com/track/2voww0mdtDJa6gREsW8jIq) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Humility?](https://open.spotify.com/album/2fA7m2kL9XtV1UzF03igLI) | 2:32 | 2022-10-23 | 2023-05-16 |
 | [Hunnids](https://open.spotify.com/track/1UiLNKp0mKL7GdJ9zuwflC) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local MVP](https://open.spotify.com/album/6omt03AfkYIiFhmzutwsla) | 2:44 | 2022-07-17 | 2022-07-26 |
@@ -249,6 +249,7 @@
 | [London's Calling](https://open.spotify.com/track/0mUTOo5ZWhxWfWE68I0COt) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [London's Calling](https://open.spotify.com/album/5ZjHN7anVFMnDCP4Rx06aO) | 2:51 | 2025-03-21 |  |
 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 | 2022-08-22 | 2022-10-24 |
 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 | 2022-06-24 | 2024-10-04 |
+| [lost my mind](https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [lost my mind](https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5) | 3:15 | 2025-04-24 |  |
 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-18 | 2024-02-25 |
 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 | 2022-10-28 | 2023-03-27 |
 | [lOvE LeTtEr \(feat\. Don Toliver\)](https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:02 | 2024-10-21 | 2025-03-17 |

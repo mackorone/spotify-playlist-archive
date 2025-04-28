@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Apr 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Apr 13:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARbF+Nh1chNe3LHXKEhXi36G2Tm+E+",
+  "snapshot_id": "AAARbsOprRaf/FhRst7XL792tDSwiod3",
   "tracks": [
     {
       "added_at": "2025-04-25 08:04:23",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv"
     },
     {
+      "added_at": "2025-04-27 13:04:10",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
       "added_at": "2025-04-25 08:04:23",
       "album": {
         "name": "Stateside",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
     },
     {
+      "added_at": "2025-04-27 13:04:10",
+      "album": {
+        "name": "Templars",
+        "url": "https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Templars",
+      "url": "https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj"
+    },
+    {
       "added_at": "2025-04-25 08:04:23",
       "album": {
         "name": "Damocles",
@@ -183,6 +215,22 @@
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
+    },
+    {
+      "added_at": "2025-04-27 13:04:10",
+      "album": {
+        "name": "Heart By Heart",
+        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Heart By Heart",
+      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
     },
     {
       "added_at": "2025-04-27 03:04:08",
@@ -763,54 +811,6 @@
       "duration_ms": 146173,
       "name": "IMMA RIDE 4 YOU",
       "url": "https://open.spotify.com/track/1JPKeahg89aOPJYGa0JDFC"
-    },
-    {
-      "added_at": "2025-04-24 13:04:29",
-      "album": {
-        "name": "all the things",
-        "url": "https://open.spotify.com/album/6t0t7MN9ajTlKuEzZMmPk1"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "all the things",
-      "url": "https://open.spotify.com/track/2q6Ha2mXXyMBwDiw9TKbYq"
-    },
-    {
-      "added_at": "2025-04-24 22:04:17",
-      "album": {
-        "name": "Too Long",
-        "url": "https://open.spotify.com/album/1gI2ToZT1msUaXr8e6jRJv"
-      },
-      "artists": [
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        }
-      ],
-      "duration_ms": 103225,
-      "name": "Too Long",
-      "url": "https://open.spotify.com/track/6yMXY2VvZ3bJFLW1u1Pjx5"
-    },
-    {
-      "added_at": "2025-04-18 08:05:06",
-      "album": {
-        "name": "The Bell",
-        "url": "https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "The Bell",
-      "url": "https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8"
     }
   ],
   "unique_name": "New Singles Now",

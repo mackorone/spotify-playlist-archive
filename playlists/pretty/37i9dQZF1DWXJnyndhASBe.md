@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Popkillery 2025 rozdane! Posłuchaj największych zwycięzców na specjalnej edycji RAP GENERACJI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,343 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,456 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

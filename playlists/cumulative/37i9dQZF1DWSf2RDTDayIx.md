@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-470 songs - 1 day 0 hr 57 min
+471 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2022-02-25 |  |
 | [Sad Songs \(feat\. Clide\)](https://open.spotify.com/track/7hBAZYZpQTyp3BrbnF7T7W) | [One Bit](https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT), [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Sad Songs \(feat\. Clide\)](https://open.spotify.com/album/7DmDFq4YJCYjEtoPQOWtKw) | 2:41 | 2021-12-03 | 2022-01-08 |
 | [San Pellegrino](https://open.spotify.com/track/0NFjqDNm7MyB7PtjouP5Z1) | [Wizman](https://open.spotify.com/artist/5qDEpgWy2vZpWvdZddb63V) | [San Pellegrino](https://open.spotify.com/album/7x2lqnsF39dQXhqSUyeGdg) | 4:00 | 2021-12-03 | 2022-01-08 |
+| [Saving It All](https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Angel Janson](https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz) | [Saving It All](https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV) | 3:06 | 2025-04-25 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 |  |
 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 | 2024-01-26 |  |
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-05-12 |  |
@@ -464,7 +465,7 @@
 | [Wounded](https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Wounded](https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP) | 3:11 | 2022-06-03 | 2024-09-07 |
 | [You \(à la\)](https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [You \(à la\)](https://open.spotify.com/album/2wpLvM1TFulyMceUhyeozM) | 2:24 | 2021-12-03 | 2022-01-08 |
 | [You Got The Love](https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [You Got The Love](https://open.spotify.com/album/2kNfpqN1fT9lRc1cYuAhWt) | 3:16 | 2021-12-03 | 2023-06-19 |
-| [You Know What I Need](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2) | 2:50 | 2024-04-19 |  |
+| [You Know What I Need](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2) | 2:50 | 2024-04-19 | 2025-04-28 |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-02 | 2024-04-19 |
 | [You Make Me Feel](https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [You Make Me Feel](https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as) | 3:23 | 2022-05-27 |  |
 | [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-12 |  |

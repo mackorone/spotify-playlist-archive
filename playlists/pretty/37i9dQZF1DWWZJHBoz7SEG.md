@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya casi se termina Abril, pero no sin antes dejarnos unas rolitas frescas con Vivir Quintana en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,250 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,313 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

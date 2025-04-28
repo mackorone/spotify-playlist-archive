@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 421177,
+  "num_followers": 421307,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,30 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Clamo Jesus",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "duration_ms": 437426,
+      "name": "Clamo Jesus",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Eu Te Entrego o Meu Dia",
         "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 383184,
       "name": "Eu Creio (Believe For It)",
       "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Clamo Jesus",
-        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        }
-      ],
-      "duration_ms": 437426,
-      "name": "Clamo Jesus",
-      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -263,22 +263,6 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -355,6 +339,22 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
+        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 409301,
+      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
+      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Grande \u00c9 O Meu Deus",
         "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 325533,
       "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
       "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -423,18 +439,18 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
-        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
+        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
         }
       ],
-      "duration_ms": 409301,
-      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
-      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
+      "duration_ms": 260481,
+      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -451,22 +467,6 @@
       "duration_ms": 399243,
       "name": "O Que Sua Gl\u00f3ria Fez Comigo",
       "url": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 260481,
-      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -683,38 +683,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
         "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
       },
@@ -759,6 +727,38 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Excel\u00eancia",
         "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 333546,
       "name": "Adorador por Excel\u00eancia",
       "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -827,6 +811,22 @@
       "duration_ms": 497683,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/3rT4pjQiuQc4TbmffBEecq"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -923,38 +923,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 323308,
-      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "Tua Presen\u00e7a Vale Mais / Aviva-nos (Ao Vivo)",
         "url": "https://open.spotify.com/album/12N3XsAj4avkCwYQGQ9Xxj"
       },
@@ -991,6 +959,38 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 323308,
+      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Yeshua (Live Session)",
         "url": "https://open.spotify.com/album/370TweCf3tJ02GviRMFFEt"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 349813,
       "name": "Yeshua - Live Session",
       "url": "https://open.spotify.com/track/0mggoBDY7yBtYk6dY6PqBj"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 386420,
-      "name": "Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1043,6 +1023,26 @@
       "duration_ms": 278507,
       "name": "Doce Voz",
       "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 386420,
+      "name": "Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Jesus te Amamos",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Jonas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Jonas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "No Secreto (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
       },
@@ -1211,6 +1195,38 @@
       "duration_ms": 281273,
       "name": "No Secreto - Ao Vivo",
       "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1271,22 +1287,6 @@
       "duration_ms": 618059,
       "name": "O Senhor, n\u00e3o os \u00eddolos",
       "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Equil\u00edbrio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "Primeiro Lugar",
         "url": "https://open.spotify.com/album/4dw3smVMrJYqXZfFsG2zBo"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 354250,
       "name": "A Melhor Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Equil\u00edbrio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
+        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Era a M\u00e3o de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Era a M\u00e3o de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "O Centro \u00c9s Tu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 345041,
-      "name": "O Centro \u00c9s Tu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1seJyynjfAZdCLIe6NVxLF"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 377647,
       "name": "Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/7jeZoPKb83tyeEREUmeZhC"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "O Centro \u00c9s Tu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 345041,
+      "name": "O Centro \u00c9s Tu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Plano Melhor",
-        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Plano Melhor",
-      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "Gratid\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 370000,
       "name": "Gratid\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Plano Melhor",
+        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "Plano Melhor",
+      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/5MmNWIopuiCjj7HeEQCUBR"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 493943,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/6raeLv4GSRVBXEhkhKSHEr"
-    },
-    {
-      "added_at": "2025-04-14 17:16:32",
-      "album": {
         "name": "De Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 275240,
       "name": "De Manh\u00e3 (Ao Vivo)",
       "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
+    },
+    {
+      "added_at": "2025-04-14 17:16:32",
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/5MmNWIopuiCjj7HeEQCUBR"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 493943,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/6raeLv4GSRVBXEhkhKSHEr"
     },
     {
       "added_at": "2025-04-14 17:16:32",
@@ -2231,26 +2231,22 @@
     {
       "added_at": "2025-04-14 17:16:32",
       "album": {
-        "name": "O Le\u00e3o e a Igreja",
-        "url": "https://open.spotify.com/album/7ctd0skd8dntgqBWzMdBC0"
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
       },
       "artists": [
         {
-          "name": "Voc\u00ea Adora",
-          "url": "https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA"
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         },
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Inai\u00e1 Ramos",
-          "url": "https://open.spotify.com/artist/5tob4TLbUSXoEao5ZogNet"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 255041,
-      "name": "O Le\u00e3o e a Igreja",
-      "url": "https://open.spotify.com/track/2FPNcYMAk9GmW9SvOpdiwV"
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

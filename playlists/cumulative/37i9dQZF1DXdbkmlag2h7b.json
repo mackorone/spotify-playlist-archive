@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 197000,
       "name": "Behind Your Eyes",
       "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
@@ -3400,6 +3400,24 @@
       "duration_ms": 223500,
       "name": "Quiet Shores",
       "url": "https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv"
+    },
+    {
+      "album": {
+        "name": "Radiant Refractor",
+        "url": "https://open.spotify.com/album/6vHEwJU7RQuGeVosC53Qd8"
+      },
+      "artists": [
+        {
+          "name": "Roy Grall",
+          "url": "https://open.spotify.com/artist/2ZFF1blZGfmGzHvdApJnI2"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Radiant Refractor",
+      "url": "https://open.spotify.com/track/2vTDJRlpG9YXqphJea4Wwi"
     },
     {
       "album": {

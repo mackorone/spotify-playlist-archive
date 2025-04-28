@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Theodora et Guy2Bezbar
 
-3,247 songs - 7 day 4 hr 15 min
+3,248 songs - 7 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,7 +1061,7 @@
 | [Fuguer](https://open.spotify.com/track/2DZE7aPbYLAJZUV3N9KAqC) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/3RnEujmDh33OhHidA423Go) | 3:06 | 2022-10-21 | 2022-11-05 |
 | [Fuir](https://open.spotify.com/track/2yElXwqHtmkIrKm0rxsppD) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Fuir](https://open.spotify.com/album/1N1RgTJyTGUg0GhD58VCpQ) | 3:39 | 2024-01-12 | 2024-01-20 |
 | [Fumée](https://open.spotify.com/track/4WPxsbif1zIetQsn6xhCHl) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [SAUVAGE](https://open.spotify.com/album/36m6tjnui4wYIIq8IVFCfH) | 2:43 | 2022-10-07 | 2022-10-15 |
-| [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 | 2025-03-14 |  |
+| [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 | 2025-03-14 | 2025-04-28 |
 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-02 | 2022-09-17 |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 | 2022-06-18 |
 | [Funky Flow \- Extended Version](https://open.spotify.com/track/2UK4gF0Vlowq74huWyreie) | [LGS](https://open.spotify.com/artist/0CEcOFQhp0vr9O0m8i41Py) | [Funky Flow \(Extended Version\)](https://open.spotify.com/album/1Yn267gamNyi8S75nBEnj3) | 3:09 | 2021-12-31 | 2022-01-22 |
@@ -2415,6 +2415,7 @@
 | [Promesse](https://open.spotify.com/track/4IdC1RtoEQTZlWKK9VQ8A6) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Pas d'Accord !](https://open.spotify.com/album/3FmbPQ4RQOQOz2dZfLAw10) | 2:12 | 2023-03-10 | 2023-03-18 |
 | [Promesses brisées](https://open.spotify.com/track/4xPMN1DIracOlctKFcLKJ5) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Lion G](https://open.spotify.com/artist/2xtRj7qoU5qPbLNuQAaEex) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:24 | 2022-09-02 | 2022-09-17 |
 | [Promets toujours](https://open.spotify.com/track/4a5VFLISa8vPLYrZQhHFta) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [Promets toujours](https://open.spotify.com/album/64zCH18RQDUIW9BBOTLpvw) | 3:07 | 2022-04-08 | 2022-04-23 |
+| [Promets\-le moi](https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Promets\-le moi](https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX) | 2:43 | 2025-04-25 |  |
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2023-10-13 | 2023-12-16 |
 | [PROPULSER](https://open.spotify.com/track/0DgCbZonC1h3uryxzHIzgp) | [MagikFingerz](https://open.spotify.com/artist/30KTAH9eU8PBw5KkIeyUcY), [Flexx](https://open.spotify.com/artist/4ETbG8TrgE3bDUr4CfDcv1), [Nickendy Mix](https://open.spotify.com/artist/5TNJ0QitbaLTwzSdg0YouW), [Kap\-O](https://open.spotify.com/artist/3hQ6cxGN02eYiIG9biDbrW) | [PROPULSER](https://open.spotify.com/album/6RcXyhAp1ImiCF1cmqZzB6) | 3:32 | 2021-12-31 | 2022-01-22 |
 | [PROSECCO](https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [PROSECCO](https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ) | 3:23 | 2024-12-13 | 2025-01-25 |

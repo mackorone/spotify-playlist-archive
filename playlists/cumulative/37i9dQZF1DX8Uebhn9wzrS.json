@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "apple sauce",
+        "url": "https://open.spotify.com/album/6LPcmzdfV2tDeIjmMsli2j"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "apple sauce",
+      "url": "https://open.spotify.com/track/72bnqWOrKvRM6Wg6DZ5S76"
+    },
+    {
+      "album": {
         "name": "Apricot",
         "url": "https://open.spotify.com/album/1WhIjWDrM2amxtkYiSSy6Z"
       },
@@ -17680,7 +17698,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"

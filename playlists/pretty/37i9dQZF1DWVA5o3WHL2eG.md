@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Jamila
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,506 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,505 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
 | 24 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
 | 25 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
-| 26 | [Unconditional](https://open.spotify.com/track/239fX9EmhCkfrAkMqY4LsK) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Unconditional](https://open.spotify.com/album/23WwMdhEaZBdk2HmeeXl1f) | 3:13 |
-| 27 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
+| 26 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
+| 27 | [Unconditional](https://open.spotify.com/track/239fX9EmhCkfrAkMqY4LsK) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Unconditional](https://open.spotify.com/album/23WwMdhEaZBdk2HmeeXl1f) | 3:13 |
 | 28 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 29 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |
 | 30 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [echte männer](https://open.spotify.com/track/7GQXbqNI7eNMO92qPs8JyN) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [echte männer](https://open.spotify.com/album/5ZyNpg0rC1qDrne5aw2e2W) | 1:40 |
 | 38 | [A Waste Of Time](https://open.spotify.com/track/3TG8Rl5GmwdmfUUi9dtZ79) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [A Waste Of Time](https://open.spotify.com/album/1APjRfyuRNo5XMewpw1ndB) | 3:44 |
 | 39 | [Funken](https://open.spotify.com/track/3UK14tJPljA8ZQKICKe7cz) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Funken](https://open.spotify.com/album/6wugW8D1hFDRDOqxrTud60) | 3:11 |
-| 40 | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/track/04RBUVzGhX3xO048vRnp2u) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/album/2EfLPSErmuAmABkXzEL4gF) | 2:03 |
-| 41 | [Tristessa West\-Berlin](https://open.spotify.com/track/7I6HCuuqHFuJz5F5o6YSVA) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Tristessa West\-Berlin](https://open.spotify.com/album/1W4q301wMOLXM7cFHhfgao) | 2:48 |
-| 42 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
-| 43 | [Feminist Girlfriend \- Radio Edit](https://open.spotify.com/track/0cv305KkbUEceUycmMMI2T) | [Alicia Edelweiss](https://open.spotify.com/artist/5XrxRMRkTJ5WeYotu0b5KO) | [Feminist Girlfriend \(Radio Edit\)](https://open.spotify.com/album/6NKMufN7Jg2dOdEdRuibyK) | 4:08 |
+| 40 | [Tristessa West\-Berlin](https://open.spotify.com/track/7I6HCuuqHFuJz5F5o6YSVA) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Tristessa West\-Berlin](https://open.spotify.com/album/1W4q301wMOLXM7cFHhfgao) | 2:48 |
+| 41 | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/track/04RBUVzGhX3xO048vRnp2u) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/album/2EfLPSErmuAmABkXzEL4gF) | 2:03 |
+| 42 | [Feminist Girlfriend \- Radio Edit](https://open.spotify.com/track/0cv305KkbUEceUycmMMI2T) | [Alicia Edelweiss](https://open.spotify.com/artist/5XrxRMRkTJ5WeYotu0b5KO) | [Feminist Girlfriend \(Radio Edit\)](https://open.spotify.com/album/6NKMufN7Jg2dOdEdRuibyK) | 4:08 |
+| 43 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
 | 44 | [Irgendwie Kalt](https://open.spotify.com/track/4xd7CpiEwp5j809LYUBGoB) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Irgendwie Kalt](https://open.spotify.com/album/73ZJtCAaWxuvBUYWBqAGlM) | 2:04 |
 | 45 | [\(spielen mit den großen\) JUNGS](https://open.spotify.com/track/2RD4DLt3kmN9OcKwbbZYx3) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [\(spielen mit den großen\) JUNGS](https://open.spotify.com/album/0HmtIzR5mvDlrYRMPNTAZD) | 3:22 |
 | 46 | [Birds in da House](https://open.spotify.com/track/2hq6QIAizio0Tf8eLM4YAH) | [Klaudia Gawlas](https://open.spotify.com/artist/2xiTOSr9ymuHpWFAgSw6sR) | [Birds in da House](https://open.spotify.com/album/0SkJGbFSnTlrlGOkjHlnnO) | 3:02 |

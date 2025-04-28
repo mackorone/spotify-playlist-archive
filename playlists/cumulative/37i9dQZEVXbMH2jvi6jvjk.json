@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 273711,
       "name": "\"Heal'lang\"(folang)",
       "url": "https://open.spotify.com/track/4Om6zFeaZy44UT5sLWfk1U"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 229331,
       "name": "Abazazi Bafunani",
       "url": "https://open.spotify.com/track/0spmIF7xn9SuE5hH5ubT8f"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 425338,
       "name": "Ama Gear",
       "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 454778,
       "name": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
       "url": "https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg"
@@ -10612,7 +10612,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 278875,
       "name": "Dear Ex Yami",
       "url": "https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW"
@@ -12396,7 +12396,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/0mh6Fg4hnUN8fzxBUD3Adl"
@@ -13378,7 +13378,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 247588,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/0zSGfaxDJWmzfRT67F4dnM"
@@ -20744,7 +20744,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 345704,
       "name": "Inja Kabi Lena",
       "url": "https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW"
@@ -28546,6 +28546,32 @@
     {
       "album": {
         "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/5UbeAUI1kFF1l7n6sRr7TN"
+      },
+      "artists": [
+        {
+          "name": "Goon Flavour",
+          "url": "https://open.spotify.com/artist/5Uc6XVglgR7fb3Q5FSy0zW"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2025-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348357,
+      "name": "Mina Nawe",
+      "url": "https://open.spotify.com/track/5TsjcsZxlhw85ChHMktd2g"
+    },
+    {
+      "album": {
+        "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY"
       },
       "artists": [
@@ -28744,7 +28770,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 245401,
       "name": "Mmapelo",
       "url": "https://open.spotify.com/track/685eBVJA10zu3EkpFOiSkk"
@@ -29734,7 +29760,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 401379,
       "name": "Mpumelelo",
       "url": "https://open.spotify.com/track/2ki3srajCBnmXzRsIn0a2C"
@@ -29870,7 +29896,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 394576,
       "name": "Muthi",
       "url": "https://open.spotify.com/track/77DVbEGHnExzOPm6dEueC1"
@@ -32238,7 +32264,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -39312,7 +39338,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
@@ -49350,7 +49376,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 268051,
       "name": "Warning",
       "url": "https://open.spotify.com/track/4c6BwCMZqdBPLrjhOuFRiS"

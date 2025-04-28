@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Beyhude Bir Gam",
+        "url": "https://open.spotify.com/album/51OonkPnYYg3MFjP7yIJpB"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Beyhude Bir Gam",
+      "url": "https://open.spotify.com/track/7zhzf1VBkGvwjhggPbC843"
+    },
+    {
+      "album": {
         "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
         "url": "https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-28",
       "duration_ms": 163616,
       "name": "Can \u0130zi",
       "url": "https://open.spotify.com/track/026lcxlgR9NvkT0A4bMerG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain]
 
 > ITZY&\#x27;s performance list of THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN
 
-[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,884 likes - 24 songs - 1 hr 15 min
+[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,883 likes - 24 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

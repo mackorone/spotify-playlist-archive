@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,320 likes - 90 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,316 likes - 90 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

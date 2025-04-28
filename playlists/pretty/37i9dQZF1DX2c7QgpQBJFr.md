@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Vale LP, Lil Jolie e IRBIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,892 likes - 110 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,895 likes - 110 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

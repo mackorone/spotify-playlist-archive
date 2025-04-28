@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,185 songs - 3 day 0 hr 51 min
+1,186 songs - 3 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2022-07-13 | 2022-07-23 |
 | [Empty, Like Me.](https://open.spotify.com/track/1oaRm4ubgYTSlDNM0xGbgR) | [Grieve](https://open.spotify.com/artist/6DAXLVtNvEBAy0ncBuaQGv), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Empty, Like Me.](https://open.spotify.com/album/0wKIiZrKsOPxqhRxvlWcQ0) | 4:24 | 2023-02-17 | 2023-05-27 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2022-07-13 | 2022-07-23 |
+| [Ending Scene](https://open.spotify.com/track/2luOKihLKUYMHF4IUB4Ash) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Ending Scene](https://open.spotify.com/album/7JQXb7Ik9o29agL6SgKIWr) | 2:45 | 2025-04-25 |  |
 | [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 | 2024-02-09 |  |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 | 2022-10-12 |
@@ -580,7 +581,7 @@
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2022-07-13 | 2022-07-20 |
 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 | 2024-06-10 | 2025-04-26 |
 | [Isolated](https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Isolated](https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz) | 3:41 | 2022-05-20 | 2022-07-23 |
-| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 |  |
+| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 | 2025-04-28 |
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 | 2024-05-11 |
 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-05 | 2024-04-19 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-736 songs - 1 day 13 hr 7 min
+737 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Angels](https://open.spotify.com/track/4KwcBCwtLql3ioOmmY8dwX) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Angels](https://open.spotify.com/album/4CEFJYar9wG5YFz9rKBLUo) | 2:38 | 2022-04-01 |  |
 | [Another Love](https://open.spotify.com/track/3XoNXct7zTtKFoExkw2yhw) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Another Love](https://open.spotify.com/album/22YNnuYYZs7nPNjk6N4JYu) | 2:05 | 2024-01-02 |  |
 | [Another You](https://open.spotify.com/track/3G2XO4Ax0Wbv5s83cLqLFa) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Another You](https://open.spotify.com/album/49eB2ryZNiNPXJ9DI6ZRJi) | 2:33 | 2022-06-10 | 2023-10-28 |
+| [Anymore](https://open.spotify.com/track/5dHVdvmMAse7yVWILKU9Im) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Anymore](https://open.spotify.com/album/0f6RPKrjMUyyKXle2eBLg2) | 2:45 | 2025-04-25 |  |
 | [Anymore](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Anymore](https://open.spotify.com/album/0136dl7WXw7P8tptO4Ir2t) | 2:21 | 2023-01-13 |  |
 | [Anymore \- Lost Frequencies Remix](https://open.spotify.com/track/5Ov2PopcdXsm6ja4j9AsHE) | [Alphabet](https://open.spotify.com/artist/1xZ8LaJNR2DBajdssEXR5I), [Arc](https://open.spotify.com/artist/5Pn4LlS7nV31TtEvkriCdx), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Anymore \(Lost Frequencies Remix\)](https://open.spotify.com/album/5HBxEZk4nDUlYBZYD0iJPa) | 3:06 | 2022-01-21 | 2022-04-09 |
 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 | 2025-02-28 |  |
@@ -391,7 +392,7 @@
 | [Loving You Forever](https://open.spotify.com/track/14WOYReC2KGZKGsjY7qiNk) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Loving You Forever](https://open.spotify.com/album/1wAN1IuFfQLiKKeXN4RH3R) | 2:21 | 2022-09-30 | 2022-11-19 |
 | [Lucky Star](https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Lucky Star](https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN) | 3:12 | 2022-06-17 | 2023-07-27 |
 | [Lucky Star](https://open.spotify.com/track/0FPs72GvFCFu2sJD5eZkoJ) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Lucky Star](https://open.spotify.com/album/2rAh08Pe3nmBvo12Dhigui) | 3:12 | 2023-08-25 | 2024-04-19 |
-| [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
+| [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 | 2025-04-28 |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 | 2024-05-04 |
 | [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 | 2022-12-02 |
