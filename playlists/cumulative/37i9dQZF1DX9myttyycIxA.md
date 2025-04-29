@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Florence Road
 
-1,561 songs - 3 day 17 hr 39 min
+1,562 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-08-27 | 2022-04-25 |
 | [New Sublet](https://open.spotify.com/track/6j3FP8EWatS21qW1EBRjIA) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [New Sublet](https://open.spotify.com/album/6zfjNPkpHppPX9NiAZpjbE) | 3:01 | 2021-03-05 | 2022-03-22 |
 | [Next Time](https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Next Time](https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV) | 2:58 | 2024-02-16 | 2024-07-06 |
+| [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-04-28 |  |
 | [Nice enough words](https://open.spotify.com/track/2N8k0QJ4tGJitOywToZBKg) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Nice enough words](https://open.spotify.com/album/75uVNd34yRpMdImCLOlKRr) | 2:26 | 2024-10-04 | 2024-12-14 |
 | [Night Sports](https://open.spotify.com/track/4RirhEfyc8Iz163Dy9OFMN) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Night Sports](https://open.spotify.com/album/0ejShf7B7mjNEeduHZbVnP) | 3:15 | 2021-03-05 | 2022-04-21 |
 | [Night Vision](https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Night Vision](https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w) | 3:22 | 2022-05-20 | 2022-07-23 |

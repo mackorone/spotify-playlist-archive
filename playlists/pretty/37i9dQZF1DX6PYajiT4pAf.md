@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > rusowsky & Ralphie Choo, Feid y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,912 likes - 95 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,925 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 5 | [Nena Sad Remix](https://open.spotify.com/track/3MDaMg89kr21WgU0ZFFHX7) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [Nena Sad Remix](https://open.spotify.com/album/6nmfgEA5oMNLB2Zd90pjnp) | 4:05 |
 | 6 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 7 | [5'3](https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [5'3](https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll) | 3:00 |
-| 8 | [RMPR T](https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Romper T](https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242) | 3:39 |
+| 8 | [RMPR T](https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [RMPR T](https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242) | 3:39 |
 | 9 | [Aplicándola](https://open.spotify.com/track/3SG1fjipMfzWjvFLUQjPba) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Aplicándola](https://open.spotify.com/album/66gnFlDdHytTZGkGRVK1IA) | 3:07 |
 | 10 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
 | 11 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 94 | [DON \- Bill$](https://open.spotify.com/track/7LSVnbAzYATVF3gy5nw2fk) | [LHARA](https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC) | [MANOS EN LA MESA](https://open.spotify.com/album/3by64IjymxL04h2iLhN71Z) | 2:02 |
 | 95 | [Fortuna](https://open.spotify.com/track/6dYAZm5D89pD56rSRh0nzi) | [joseluis](https://open.spotify.com/artist/5x6IvwLFRH9IsqNFJWkJq4) | [Fortuna](https://open.spotify.com/album/1eHdl4QFyUuDCF1H59RiU0) | 3:22 |
 
-Snapshot ID: `aAq0uwAAAADXqnyEZdaNtdAFDF0qSgyt`
+Snapshot ID: `aAq0uwAAAABz5lMjI+86XtF63JN6w0/f`

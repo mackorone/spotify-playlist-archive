@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,522 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,549 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 |
 | 100 | [Boys Don't Cry](https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Boys Don't Cry](https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX) | 2:42 |
 
-Snapshot ID: `aAq0gAAAAABj2zNj8NoOKkaI0hWA9hOs`
+Snapshot ID: `aAq0gAAAAACxJudlAd4lqFdo82FVX+Mf`

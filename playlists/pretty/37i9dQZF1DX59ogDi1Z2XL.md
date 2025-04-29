@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,748 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,791 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 74 | [EASY!](https://open.spotify.com/track/1ZePJy3P8Xgzh54C5JfUXr) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [EASY!](https://open.spotify.com/album/0GJdja9kQ2Z1V3TtDSa1q2) | 1:55 |
 | 75 | [Trippen'](https://open.spotify.com/track/2U6aawHsKw4usU80ExGXdd) | [Sankya](https://open.spotify.com/artist/5acRa2QbDppRpLi4PALTx9) | [Intro](https://open.spotify.com/album/2Fq9FzVnHAqQCbOqrCPLA2) | 3:09 |
 
-Snapshot ID: `aAsI6wAAAAAYt6Fws9GVTUIg29dpLydv`
+Snapshot ID: `aAsI6wAAAAB2eisYXETBJhz3nNr2YJTg`

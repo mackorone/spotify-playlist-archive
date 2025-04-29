@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: FLEMMING & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,494 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,581 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 |
 | 100 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 |
 
-Snapshot ID: `aAtTnwAAAAAufZWl6+g4lXbrcE36KnZw`
+Snapshot ID: `aAtTnwAAAABATrdLB6B4GK6ye63UUTwD`

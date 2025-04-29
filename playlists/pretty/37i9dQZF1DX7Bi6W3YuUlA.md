@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: nobigdyl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,988 likes - 95 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,028 likes - 95 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 94 | [GOSPEL \(feat\. Chance The Rapper, Gucci Mane & YK Osiris\)](https://open.spotify.com/track/0WoAkdHmgPmEXfiBox1flk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:34 |
 | 95 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 
-Snapshot ID: `aAsI9gAAAAAqgcCajkWC6c/6D7WPh3Kp`
+Snapshot ID: `aAsI9gAAAAD+LrnbbFFotgNHfyaFDinI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 
 > Music from "Demon Slayer"\. © 吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,869 likes - 12 songs - 46 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 10,140 likes - 12 songs - 46 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 | 11 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
 | 12 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 
-Snapshot ID: `Z/U6mQAAAABArus4hcSR7hRq2+yQyGOL`
+Snapshot ID: `Z/U6mQAAAABpzUQahdNknvXHYGJgMOTE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Cazzu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,573 likes - 147 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,587 likes - 147 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 146 | [CIEGO SORDO MUDO](https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:16 |
 | 147 | [RED FLAG](https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:22 |
 
-Snapshot ID: `aAsI9wAAAAAiD+H1bUKxOieVZCIeNgqW`
+Snapshot ID: `aAsI9wAAAADt4apcqrI5vUKphkf51Zb/`

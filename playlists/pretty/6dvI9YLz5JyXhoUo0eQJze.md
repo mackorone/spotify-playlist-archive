@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,095 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain]
 | 13 | [Unchained Melody](https://open.spotify.com/track/1Y49gqQSerc9xxdxAvvySE) | [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [Ghost \- The Musical](https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5) | 2:50 |
 | 14 | [Theme From New York, New York \- Remastered \) \[The Frank Sinatra Collection\]](https://open.spotify.com/track/4bBgZTIRQ2PHonaRwnn3jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \[The Frank Sinatra Collection\]](https://open.spotify.com/album/48ijda2pd3B1CcrqN9sgdV) | 3:24 |
 | 15 | [Theme From "Shaft"](https://open.spotify.com/track/2tqxkJtkbik8o0b3vsSEl5) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft](https://open.spotify.com/album/2KIGwFJHrXcyK0VUb5FH9m) | 4:36 |
-| 16 | [Flashdance… What A Feeling](https://open.spotify.com/track/44SLjUsOa1ChiuKlIsUmDP) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Flashdance… What A Feeling \- EP](https://open.spotify.com/album/6q5JAUaGNy7jkAMhWygnUj) | 4:09 |
+| 16 | [Flashdance… What A Feeling](https://open.spotify.com/track/44SLjUsOa1ChiuKlIsUmDP) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Flashdance… What a Feeling \- EP](https://open.spotify.com/album/6q5JAUaGNy7jkAMhWygnUj) | 4:09 |
 | 17 | [Street Life](https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 4:16 |
 | 18 | [I Put A Spell On You](https://open.spotify.com/track/6zHTQ3QaQSsQSLEtZzh377) | [Kim Circle](https://open.spotify.com/artist/5MtxtrfQgi9vKBMtE1oWCr) | [Tarantino Fiction](https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ) | 2:37 |
 | 19 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |

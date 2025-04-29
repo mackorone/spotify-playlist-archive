@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Kekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,175 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,181 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Poesia Acústica \- Paris](https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Poesia Acústica \- Paris](https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS) | 7:00 |
 | 50 | [Casal Mandrake](https://open.spotify.com/track/3PdcogyDv7jXLcbEvqYttT) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Casal Mandrake](https://open.spotify.com/album/6hAkf9KXRRAnNL2dT7Mlu9) | 2:19 |
 
-Snapshot ID: `Z1xmigAAAACeuJnY5IebTLSwNFTwTMdR`
+Snapshot ID: `Z1xmigAAAAARJACfMuJ1pFTSGfBhDnZS`

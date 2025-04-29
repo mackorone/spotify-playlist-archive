@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,013 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,010 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Coma](https://open.spotify.com/track/10qbuooTRQ2xgc5mWNLShX) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma](https://open.spotify.com/album/1dDxtEPO5Ih2dRKyd1LBHY) | 3:07 |
 | 100 | [ecstasy](https://open.spotify.com/track/5RWAiIfn8fMhwnKssILmzJ) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [ecstasy](https://open.spotify.com/album/4AYn2VPfLrzwVrZVOC6jj9) | 2:09 |
 
-Snapshot ID: `aAtAdwAAAAA4rbUxF7u2A2uvFRpz1Q4K`
+Snapshot ID: `aAtAdwAAAADuEHpu9jeZ6zvqhR4e+9pG`

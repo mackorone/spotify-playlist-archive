@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,643 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,648 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 59 | [Pa Que No Me Anden Contando](https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Pa Que No Me Anden Contando](https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u) | 2:09 |
 | 60 | [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 |
 
-Snapshot ID: `Znrt4gAAAADeuYT2snynrbKyC5O0kF5w`
+Snapshot ID: `Znrt4gAAAABY1Y4EtO0MTVpcYP6Gs40o`

@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1489361,
+  "num_followers": 1489408,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl3VgAAAAAD7OpNpPALUunU1QQ8G0dbc",
+  "snapshot_id": "Zl3VgAAAAADzmwzHG2lX5LSLfBakXNsH",
   "tracks": [
     {
       "added_at": "2024-06-03 14:38:56",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 251493,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
         "name": "The Ultimate Collection 1968-2003",
         "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 233240,
       "name": "Up Where We Belong",
       "url": "https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 251493,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe"
     },
     {
       "added_at": "2024-06-03 14:38:56",

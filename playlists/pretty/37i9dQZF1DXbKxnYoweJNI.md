@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 163 braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,758 likes - 133 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,755 likes - 133 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 132 | [淵](https://open.spotify.com/track/0JHjA5R4aBfcrnYZnb2YMU) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [淵](https://open.spotify.com/album/2IjDTmF9SOVyT8gjYADQQL) | 4:05 |
 | 133 | [純愛戰士](https://open.spotify.com/track/6aW92pDPW6izEo5TDnmbAk) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt), [怕胖團 閃亮](https://open.spotify.com/artist/0kh5zrvVQJ1xnvemx66K0g) | [純愛戰士](https://open.spotify.com/album/2HOfNHeFVyeQZBo4LDOSoi) | 3:00 |
 
-Snapshot ID: `aApgHgAAAADim2qmjhd+HiyWoCxjQ79x`
+Snapshot ID: `aApgHgAAAAAJGYJgPrNJtL/h+7IXhcwW`

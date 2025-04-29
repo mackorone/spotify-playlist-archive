@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: シャッポ Chappo
 
-2,357 songs - 6 day 3 hr 12 min
+2,358 songs - 6 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1178,7 +1178,7 @@
 | [Something like Hope](https://open.spotify.com/track/2xXxhNbNkeOUH2rQhzmqCB) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Shoe Shine](https://open.spotify.com/album/7tPVkZr79zSooDsjgYEy5r) | 5:47 | 2024-09-17 | 2024-10-09 |
 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 | 2023-01-12 | 2023-04-05 |
 | [Somewhere](https://open.spotify.com/track/66Y414GgpGzepfJEsT2D7A) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Somewhere](https://open.spotify.com/album/5OSXSuN2jEjGsFRUR2Qv8S) | 3:47 | 2024-11-05 | 2024-12-06 |
-| [SONAR](https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa) | 3:17 | 2025-02-12 |  |
+| [SONAR](https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa) | 3:17 | 2025-02-12 | 2025-04-29 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-06-01 |
 | [Song For You & Me](https://open.spotify.com/track/2PwUNMzovPMyv6i6uibS3D) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [RICORITA](https://open.spotify.com/album/16yI6zhMtzYc1xSoKrxV1M) | 2:52 | 2024-06-11 | 2024-07-10 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 | 2024-09-18 |
@@ -1277,6 +1277,7 @@
 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-21 |
 | [sweet vertigo](https://open.spotify.com/track/60YSKrBkxoZGwOtoUKvZm3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [works.ep](https://open.spotify.com/album/1JxwaDeWRXBXqJtYeNC0XK) | 4:31 | 2023-01-24 | 2023-01-26 |
 | [sweet vertigo](https://open.spotify.com/track/6k0QnSV8s0LuQBhWWtB21c) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 4:31 | 2023-01-24 | 2023-03-01 |
+| [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 | 2025-04-24 |  |
 | [Swimming Pool \- Rejoicer Remix](https://open.spotify.com/track/3INq5BnEL5zobj106vIL80) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Swimming Pool \(Rejoicer Remix\)](https://open.spotify.com/album/7wrLZ07USOe8ZbKkqhTJNE) | 3:45 | 2023-09-05 | 2023-09-13 |
 | [Syncer](https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [ISLAND](https://open.spotify.com/album/23ZjMOszKR7sjFmN0vXEan) | 4:41 | 2024-11-05 | 2024-11-20 |
 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 | 2023-09-26 | 2023-12-13 |

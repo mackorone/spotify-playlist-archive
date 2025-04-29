@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,876 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,905 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [All In Your Hands](https://open.spotify.com/track/7ouZfpLDgTQAj4aDId5joo) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [All In Your Hands](https://open.spotify.com/album/0KyrqZ0D1gmRwBq3viNzg0) | 3:50 |
 | 100 | [The Fork](https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2) | 4:40 |
 
-Snapshot ID: `aAHOaQAAAABB6jvVZIeUi5zbo+G667tV`
+Snapshot ID: `aAHOaQAAAADyyqvUaPe36FNsFZXVVz5w`

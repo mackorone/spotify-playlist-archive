@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Cloth
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,011 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,017 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 50 | [Impression](https://open.spotify.com/track/22XNkzGxNaaCG1j0MpMKvG) | [max ware](https://open.spotify.com/artist/1oExNGd4yweQu0NAIlslIF), [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [Impression](https://open.spotify.com/album/0P4XF0PSbe2T4hEs1nB9sb) | 2:42 |
 | 51 | [Loved You Then And Now Again](https://open.spotify.com/track/5qOj6ZoX3ZOgpbcYD3yZLl) | [Anna Soleil](https://open.spotify.com/artist/7GBU1lsy6kB6lLGDUUEbTg) | [Loved You Then And Now Again](https://open.spotify.com/album/7wkcWVE9G06G5TrlAQO4VF) | 2:16 |
 
-Snapshot ID: `Z/0ttQAAAABaN/VbgiBZWU+34DNT9XWO`
+Snapshot ID: `Z/0ttQAAAAArF8xpSb60rIbodLqKmFOI`

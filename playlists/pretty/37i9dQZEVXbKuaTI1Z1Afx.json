@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 367079,
+  "num_followers": 367093,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L6Gf+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L6LxeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "WW3",
         "url": "https://open.spotify.com/album/1swjwGPv1aHBed9jy9ASDk"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Texas",
         "url": "https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "WHIM WHAMIEE",
         "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 34400,
-      "name": "Steve's Lava Chicken",
-      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "It's Not You, It's Me",
         "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
@@ -93,39 +77,23 @@
       "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
       },
       "artists": [
         {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
         }
       ],
-      "duration_ms": 290110,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -153,7 +121,39 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Dat Type Of Gurl",
         "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "WTHELLY",
         "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Triple Lavada",
         "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "PUT IT DOWN",
         "url": "https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu"
@@ -253,23 +253,7 @@
       "url": "https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
@@ -285,7 +269,23 @@
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "PAID IN MEMORIES",
         "url": "https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9"
@@ -301,23 +301,7 @@
       "url": "https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "Nobody New",
-        "url": "https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
@@ -333,7 +317,23 @@
       "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "Nobody New",
+        "url": "https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Witchazel",
         "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "MONTAGEM TOMADA",
         "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
@@ -397,7 +397,23 @@
       "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "messy",
+        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 207873,
+      "name": "messy",
+      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
@@ -417,23 +433,7 @@
       "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "messy",
-        "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 207873,
-      "name": "messy",
-      "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Gucci Mane",
         "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
@@ -465,23 +465,7 @@
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "Just In Case",
-        "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 166206,
-      "name": "Just In Case",
-      "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -497,23 +481,23 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
-        "name": "Malcolm Todd",
-        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
+      "duration_ms": 166206,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
@@ -533,7 +517,7 @@
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
@@ -549,71 +533,7 @@
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "IN YOUR EYES",
-      "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "tell you straight",
         "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
@@ -629,23 +549,71 @@
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "IN YOUR EYES",
+      "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
@@ -661,27 +629,39 @@
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
         }
       ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "In the Moment (Adriatique Remix)",
         "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
@@ -701,23 +681,27 @@
       "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
       "artists": [
         {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2oAx7IwtOJL7oE2xspR3AH"
@@ -733,7 +717,7 @@
       "url": "https://open.spotify.com/track/7aTPGByz1LCEObBAxt3UAh"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
@@ -749,7 +733,7 @@
       "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -765,39 +749,7 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "DEEP IN YOUR SOUL",
-        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
-      },
-      "artists": [
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
-        }
-      ],
-      "duration_ms": 191515,
-      "name": "DEEP IN YOUR SOUL",
-      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -813,7 +765,39 @@
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/0auX6W6oLjO9cHmx4UTaNj"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "MUTT (CB REMIX)",
         "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
@@ -833,7 +817,23 @@
       "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
     },
     {
-      "added_at": "2025-04-27 15:37:43",
+      "added_at": "2025-04-28 15:37:41",
+      "album": {
+        "name": "DEEP IN YOUR SOUL",
+        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "duration_ms": 191515,
+      "name": "DEEP IN YOUR SOUL",
+      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
+    },
+    {
+      "added_at": "2025-04-28 15:37:41",
       "album": {
         "name": "DOWN BAD",
         "url": "https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC"

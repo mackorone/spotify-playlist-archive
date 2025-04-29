@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > PinkPantheress' got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,067 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,083 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 64 | [Katana](https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Katana](https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo) | 2:58 |
 | 65 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 
-Snapshot ID: `aAsI6wAAAACdR5xAW8GQdY2w9kDVk/e0`
+Snapshot ID: `aAsI6wAAAACFqy1w0YTNBUlMOHZ7KPFo`

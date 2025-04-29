@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,186 songs - 3 day 0 hr 54 min
+1,187 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 | 2023-10-27 | 2024-08-13 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-31 |  |
 | [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-12-06 | 2024-02-10 |
+| [Broken](https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Broken](https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL) | 2:49 | 2025-04-25 |  |
 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 | 2023-11-27 | 2024-04-13 |
 | [Broken Home](https://open.spotify.com/track/4V00WAiMJlBBniPTOUIWPo) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Broken Home](https://open.spotify.com/album/4CSFgqGQPjNXRTRmTrsd81) | 3:05 | 2024-03-27 | 2024-06-05 |
 | [Broken Homes](https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Afterglow](https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5) | 3:16 | 2021-12-17 | 2022-07-23 |
@@ -424,7 +425,7 @@
 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 | 2023-03-17 | 2024-02-24 |
 | [Feast on the Living](https://open.spotify.com/track/1pL4wqHUtrMTancAmAs5fV) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Feast on the Living](https://open.spotify.com/album/2PwI1RioDm1RxP7fhfxgSd) | 3:22 | 2022-07-13 | 2022-07-23 |
 | [Feasting Upon a False God](https://open.spotify.com/track/32wy15KlsVRtRW0x7YvdGc) | [Extinction in Progress](https://open.spotify.com/artist/2ctB3hDSIIyxpKYDtYlzKY) | [Feasting Upon a False God](https://open.spotify.com/album/5s6INzs47jeAp40pkWNIif) | 3:22 | 2022-07-13 | 2022-07-19 |
-| [Fed by Violence](https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO) | [Frontières](https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc) | [Fed by Violence](https://open.spotify.com/album/0dAdjwMqwqDU8TZuryA2Os) | 3:54 | 2024-10-18 |  |
+| [Fed by Violence](https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO) | [Frontières](https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc) | [Fed by Violence](https://open.spotify.com/album/0dAdjwMqwqDU8TZuryA2Os) | 3:54 | 2024-10-18 | 2025-04-29 |
 | [Feeding Demons](https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Feeding Demons](https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG) | 3:17 | 2023-11-27 | 2024-11-23 |
 | [Feel Alive](https://open.spotify.com/track/4znWqxuT0H5jhzq00oaA75) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Feel Alive](https://open.spotify.com/album/12VlpHTisx4dXj00opt0kV) | 3:42 | 2022-05-20 | 2022-06-24 |
 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 | 2022-07-01 | 2022-12-17 |

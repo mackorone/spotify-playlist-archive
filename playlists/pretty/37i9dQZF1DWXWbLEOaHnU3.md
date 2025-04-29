@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,464 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,528 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 61 | [Nova \- Original mix](https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Nova](https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv) | 8:08 |
 | 62 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 63 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 |
-| 64 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
-| 65 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
-| 66 | [Anahata Trip](https://open.spotify.com/track/78s2UUkbnjLTaC6BjJPU4E) | [Novlik](https://open.spotify.com/artist/2C6EC0PuCxPyUjfDmUoM0O) | [Anahata Trip](https://open.spotify.com/album/3JL51xwG8MVuLfNHLB6Dco) | 5:56 |
-| 67 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 |
+| 64 | [Anahata Trip](https://open.spotify.com/track/78s2UUkbnjLTaC6BjJPU4E) | [Novlik](https://open.spotify.com/artist/2C6EC0PuCxPyUjfDmUoM0O) | [Anahata Trip](https://open.spotify.com/album/3JL51xwG8MVuLfNHLB6Dco) | 5:56 |
+| 65 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
+| 66 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
+| 67 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 |
 | 68 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
-| 69 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 |
+| 69 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 |
 | 70 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 71 | [Shiva Style, Pt\. 2](https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY), [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shiva Style, Pt\. 2](https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa) | 5:49 |
 | 72 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
 | 75 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
 
-Snapshot ID: `Z+Ye4gAAAABjUfgM2vrlxGbweYbytTPt`
+Snapshot ID: `Z+Ye4gAAAACcvOm2gBv3mt+B0DKz+9n2`

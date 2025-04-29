@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,955 likes - 101 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,123 likes - 101 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Hard to Believe](https://open.spotify.com/track/5s12YmoYGyampxZsF99hDr) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Hard to Believe](https://open.spotify.com/album/3OljMCBnfpT780rXn4Xcb4) | 2:24 |
 | 101 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
 
-Snapshot ID: `aAsI+QAAAABmAW0RiLZEm8dgZF/unmkz`
+Snapshot ID: `aAsI+QAAAAD4VYrxo2ljtCprtDtACnXx`

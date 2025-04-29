@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Heart Attack Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,921 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,937 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [The Sham! The Sham! The Sham!](https://open.spotify.com/track/1XkkYWC4CpHZmjpcRolLKw) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [The Sham! The Sham! The Sham!](https://open.spotify.com/album/2fE2cFgRPMGObeddrglvLv) | 2:11 |
 | 100 | [Wild Imagination](https://open.spotify.com/track/77k9kl2WiBMXDw8KNI2XU3) | [Real Sickies](https://open.spotify.com/artist/69zOtixHikb7pSLZGKYYRN) | [Under a Plastic Bag](https://open.spotify.com/album/2GStLX0NY1Cm0ySEIIn5bk) | 2:02 |
 
-Snapshot ID: `aAsMBAAAAADeknyBdGtBaChlX8QFt4N2`
+Snapshot ID: `aAsMBAAAAADY+kHpwtGxegWX1pXGLSGW`

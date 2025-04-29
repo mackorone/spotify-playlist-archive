@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > De los malos tiempos aprendí que a la gente nunca la tienes feliz\. Grupo Selectivo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,078 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,350 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 59 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 | 60 | [Cada Vez](https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Cada Vez](https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx) | 2:15 |
 
-Snapshot ID: `Z8qLeAAAAAAIznoy5EFDMUqg/dmkfx2H`
+Snapshot ID: `Z8qLeAAAAAD2LA7WiPz3LJ9J7xnFX/WQ`

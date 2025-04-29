@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,217 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,269 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [Andy](https://open.spotify.com/track/1QZ7Co5mBLhAQf9OFk4ovN) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [The No Comprendo](https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY) | 5:22 |
 | 50 | [Sarbacane \- Remastered](https://open.spotify.com/track/3joYxf5x8kQv2eEpZg6jCm) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 4:07 |
 
-Snapshot ID: `ZwOWDQAAAABBdoagF2jiCJUo4rChVlZi`
+Snapshot ID: `ZwOWDQAAAAALYzW0LqdV2ee+Ic8ITuG7`

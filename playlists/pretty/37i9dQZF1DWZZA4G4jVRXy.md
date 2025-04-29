@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,738 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,755 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui](https://open.spotify.com/track/44af8bRzfNjWQrx28h2eeP) | [Chick Floyd & His Orchestra](https://open.spotify.com/artist/4eamYt7q78mgbl55OkWBxW) | [Exotic World](https://open.spotify.com/album/5Q5D1PmZjo2l6bG3dOsKQ5) | 3:21 |
 | 76 | [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 |
 
-Snapshot ID: `ZicXmQAAAAAB0sCCJf6or8uoQJRzUJzT`
+Snapshot ID: `ZicXmQAAAAA2IHoAq3S2pkTTkOaR/xob`

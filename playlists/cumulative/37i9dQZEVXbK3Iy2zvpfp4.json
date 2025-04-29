@@ -14908,7 +14908,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -28476,7 +28476,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -34854,7 +34854,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 95302,
       "name": "MONTAGEM TOMADA - Super Slowed",
       "url": "https://open.spotify.com/track/0nSFbMZNoOuuFT655Ghevf"
@@ -41532,7 +41532,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 139357,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
@@ -42614,7 +42614,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 199318,
       "name": "Pist\u00e1cie",
       "url": "https://open.spotify.com/track/5YGSgkf3EwptDJVui3TotY"
@@ -50164,7 +50164,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 210733,
       "name": "Sny O Tyg\u0159\u00ed Lady",
       "url": "https://open.spotify.com/track/5R0PtS1VHpr8pCC0xgYkTw"
@@ -53138,6 +53138,24 @@
       "duration_ms": 251733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3"
+    },
+    {
+      "album": {
+        "name": "Witchazel",
+        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
     },
     {
       "album": {
@@ -60890,6 +60908,24 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "album": {
+        "name": "WTHELLY",
+        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "WTHELLY",
+      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
       "album": {

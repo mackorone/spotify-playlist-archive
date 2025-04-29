@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: PhaseOne \\m/",
-  "num_followers": 340129,
+  "num_followers": 340136,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAJVaQAAAADn8Uw82S2qnsgA1Fkrtj9b",
+  "snapshot_id": "aAJVaQAAAAB/zIcT8zXwUO8UUBXHH2d6",
   "tracks": [
     {
       "added_at": "2025-04-18 13:36:41",
@@ -1451,22 +1451,26 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
       "artists": [
         {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -1519,26 +1523,22 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
         },
         {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
         "name": "Icarus - Shockone Remix",
         "url": "https://open.spotify.com/album/2Bw07TP2W63OU9lbYHquGc"
       },
@@ -2103,26 +2123,6 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -2135,6 +2135,22 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "Straight To Heart",
+        "url": "https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Straight To Heart",
+      "url": "https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2163,22 +2179,6 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Straight To Heart",
-        "url": "https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Straight To Heart",
-      "url": "https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -2191,22 +2191,6 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
-        "name": "OLDE GUARDE EP",
-        "url": "https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG"
-      },
-      "artists": [
-        {
-          "name": "MARAUDA",
-          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "OLDE GUARDE",
-      "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2247,6 +2231,22 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "OLDE GUARDE EP",
+        "url": "https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG"
+      },
+      "artists": [
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "OLDE GUARDE",
+      "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
-      },
-      "artists": [
-        {
-          "name": "HOWL",
-          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     },
     {
       "added_at": "2025-04-18 13:36:41",

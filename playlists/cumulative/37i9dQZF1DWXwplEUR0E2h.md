@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Maisak
 
-171 songs - 8 hr 42 min
+172 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 | 2023-09-30 | 2024-04-19 |
 | [Poblado](https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/4VZz15JGgc4DT0TTI9pPaz) | 3:21 | 2024-03-01 | 2024-11-30 |
 | [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-07 | 2024-08-10 |
+| [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 | 2025-04-29 |  |
 | [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 | 2023-09-30 |  |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2023-09-30 | 2023-11-18 |
 | [PUEBLO DE MEDALLO](https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 3:28 | 2024-05-10 |  |
@@ -152,7 +153,7 @@
 | [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 | 2023-10-10 | 2023-12-09 |
 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-30 | 2023-10-13 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-09-30 | 2024-06-08 |
-| [Secretito](https://open.spotify.com/track/7eAYJkhIbNG6lzpfOQFO5z) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Secretito](https://open.spotify.com/album/2VSW7J2SqqOOIhibjk8x3d) | 2:25 | 2024-11-22 |  |
+| [Secretito](https://open.spotify.com/track/7eAYJkhIbNG6lzpfOQFO5z) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Secretito](https://open.spotify.com/album/2VSW7J2SqqOOIhibjk8x3d) | 2:25 | 2024-11-22 | 2025-04-29 |
 | [SI A BUENO](https://open.spotify.com/track/3jXlnjcqh0oVlEimqYIZ7P) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 3:16 | 2024-01-26 |  |
 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 | 2024-01-26 |  |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2023-09-30 | 2023-10-21 |

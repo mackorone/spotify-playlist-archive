@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34766,
+  "num_followers": 34770,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz9pJQAAAAA35gZ3UtCuCD/q3TWes1Sc",
+  "snapshot_id": "Zz9pJQAAAABQN5ID5tBEBtQp/CpN6Odj",
   "tracks": [
     {
       "added_at": "2024-11-21 17:08:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
-        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "\u5076\u9663\u96e8",
-      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u771f\u611b \u65b0\u66f2 + \u771f\u6b63\u7cbe\u9078",
         "url": "https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 256826,
       "name": "\u85cd\u96e8",
       "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
+        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "\u5076\u9663\u96e8",
+      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
         "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 285851,
       "name": "\u96e8\u6c92\u505c\u904e",
       "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u6642\u9593\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 289524,
-      "name": "\u96e8\u6c34\u4e00\u76d2",
-      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u514b\u535c\u52d2",
         "url": "https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 289927,
       "name": "\u96e8\u8fd8\u662f\u4e0d\u505c\u5730\u843d\u4e0b",
       "url": "https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u6642\u9593\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 289524,
+      "name": "\u96e8\u6c34\u4e00\u76d2",
+      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u5fd8\u8a18\u6211\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/3kEItXCa7gZFnHsVHtzRAV"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "\u4e0b\u96e8",
-      "url": "https://open.spotify.com/track/0s4c9AqQIrpmm5MWAnXb5i"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "Montagne D'amour \u611b\u60c5\u5c71",
         "url": "https://open.spotify.com/album/6GqTOdNqk78tx5LJo3v5Tg"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 244394,
       "name": "\u600e\u9ebc\u53c8\u662f\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/4ytwN2vT5kMdki4LmmHpKS"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u5fd8\u8a18\u6211\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/3kEItXCa7gZFnHsVHtzRAV"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "\u4e0b\u96e8",
+      "url": "https://open.spotify.com/track/0s4c9AqQIrpmm5MWAnXb5i"
     },
     {
       "added_at": "2024-11-21 17:08:53",

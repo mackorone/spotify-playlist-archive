@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,218 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,229 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 79 | [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 |
 | 80 | [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 |
 | 81 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 |
-| 82 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
-| 83 | [Arde la ciudad](https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Vivire Viajando](https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg) | 4:13 |
+| 82 | [Arde la ciudad](https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Vivire Viajando](https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg) | 4:13 |
+| 83 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
 | 84 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
 | 85 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
 | 86 | [El Riesgo \- Vivo en Obras](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 88 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 |
 | 89 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
 | 90 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 |
-| 91 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 |
-| 92 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 |
+| 91 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 |
+| 92 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 |
 | 93 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 |
 | 94 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
 | 95 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
 | 100 | [O No? \- En Vivo](https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Luna en Obras \(En Vivo\)](https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4) | 2:43 |
 
-Snapshot ID: `aAr6zgAAAAC0K8NwS/ZZqjDAFxHo7xQG`
+Snapshot ID: `aAr6zgAAAAAtrYnr+qRSpIYesmlLbk3V`

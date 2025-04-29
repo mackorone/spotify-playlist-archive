@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Magda Kluz
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,505 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,512 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [posłuszny](https://open.spotify.com/track/3RKy5uSxKjUglMJTe0M4XA) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [posłuszny](https://open.spotify.com/album/2T9sDbInfrwjVzrJTOpL3U) | 2:31 |
 | 100 | [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 |
 
-Snapshot ID: `aAq0jQAAAACe7hNG86ONdqzvIxf6/4+l`
+Snapshot ID: `aAq0jQAAAADvpTDXVN3tZtkWSRuMiR2Q`

@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: MEOVV\)
 
-598 songs - 1 day 7 hr 42 min
+599 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Grown up man](https://open.spotify.com/track/3ZZ2qqLij5dxYBR4D1np2c) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Grown up man](https://open.spotify.com/album/06o31SH5UNDDpnRNYIcqWa) | 3:22 | 2024-08-05 | 2024-09-12 |
 | [Gummy Bear \(feat\. BIGONE\)](https://open.spotify.com/track/4OPgqi6IPWuntmy7woOKaA) | [DOHANSE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Gummy Bear](https://open.spotify.com/album/1Br49yy12uY6vswyCcZg5S) | 2:22 | 2023-10-29 | 2024-03-22 |
 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-30 | 2024-08-02 |
+| [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-04-29 |  |
 | [HAPPY](https://open.spotify.com/track/0BRnNUNVMFesOCdXScu3tQ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Snack Music : Vol\. 3](https://open.spotify.com/album/1iqLXJ7zaFagSVR9JmgZp5) | 2:18 | 2025-03-12 |  |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-30 | 2023-02-16 |
 | [Haze](https://open.spotify.com/track/72QuyLICroWabN7X85pDSL) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Fever](https://open.spotify.com/album/7hANiZ9XFG3TJPptCPemFW) | 4:17 | 2023-08-23 | 2023-10-30 |

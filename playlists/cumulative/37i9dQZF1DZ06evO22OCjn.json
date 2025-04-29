@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Real Life (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 197933,
       "name": "Real Life (feat. Stormzy)",
       "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
@@ -2922,10 +2922,48 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "album": {
+        "name": "WE PRAY (TWICE Version)",
+        "url": "https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247523,
+      "name": "WE PRAY - TWICE Version",
+      "url": "https://open.spotify.com/track/3wLvOITQt7cbK4KzQ3dufu"
     },
     {
       "album": {

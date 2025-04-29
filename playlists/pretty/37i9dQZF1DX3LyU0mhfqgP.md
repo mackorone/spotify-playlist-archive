@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\.  Cover: MOONGA K.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,611 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,569 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 |
 | 50 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
 
-Snapshot ID: `aAcUYQAAAABC2jU9kBOYAiT9+YEyneOH`
+Snapshot ID: `aAcUYQAAAABWBRv+4lJtr6LWD47cOr8w`

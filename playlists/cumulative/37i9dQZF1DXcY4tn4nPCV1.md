@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-487 songs - 20 hr 41 min
+488 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 | 2022-04-04 | 2024-03-20 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-04 | 2023-10-03 |
 | [Break Of Day](https://open.spotify.com/track/0ln7Ux0MDrjJ22lu0sNCyU) | [Maria Marble](https://open.spotify.com/artist/3LmBcqcFv3Nvzs5gJMw8O4) | [Break Of Day](https://open.spotify.com/album/5bLPlyr6h30Su5VPSodDcE) | 2:10 | 2022-04-28 | 2024-10-16 |
-| [Bygone times](https://open.spotify.com/track/6oyU04b8W2SHwL72QsDtKy) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Bygone times](https://open.spotify.com/album/4oiA2h89zEUicBtWIyUhLL) | 2:17 | 2024-08-12 |  |
+| [Bygone times](https://open.spotify.com/track/6oyU04b8W2SHwL72QsDtKy) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Bygone times](https://open.spotify.com/album/4oiA2h89zEUicBtWIyUhLL) | 2:17 | 2024-08-12 | 2025-04-29 |
 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 | 2024-03-19 |  |
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Calvaire](https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Calvaire](https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB) | 2:16 | 2022-04-04 | 2022-11-19 |
@@ -159,6 +159,7 @@
 | [Garden of mine](https://open.spotify.com/track/0x0brgn1K22WQoqiexeLX9) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Garden of mine](https://open.spotify.com/album/0KddFugeznttIbjcdM2wZZ) | 2:41 | 2022-04-04 | 2024-04-04 |
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-04 | 2022-11-19 |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-04-04 | 2024-03-26 |
+| [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 | 2025-04-28 |  |
 | [Go With The Flow](https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Go With The Flow](https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh) | 2:50 | 2024-03-04 |  |
 | [Goodnight Moon](https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Goodnight Moon](https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu) | 3:14 | 2022-04-04 |  |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-04 | 2024-04-04 |

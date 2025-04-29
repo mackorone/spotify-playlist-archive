@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 
 > 都市型音楽フェス「<a href="https://metrock.jp/">METROPOLITAN ROCK FESTIVAL 2024</a>」（METROCK2024）の出演アーティストを特集。5月11日（土）\- 12日（日）大阪府 海とのふれあい広場、5月18日（土）\-19日（日）東京都 若洲公園にて開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 | 68 | [Judgement Syndrome](https://open.spotify.com/track/6zw7RIJiHSmsUErLdWBsCr) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [Judgement Syndrome](https://open.spotify.com/album/6POeHBYCHMiTdptSzpEnUZ) | 3:43 |
 | 69 | [チキンisうまい！](https://open.spotify.com/track/6eaJUYZHqB3xnchfCoPY5f) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [チキンisうまい！](https://open.spotify.com/album/1TIP71PUKjBWYMeoaFswiE) | 2:32 |
 
-Snapshot ID: `ZkjA3AAAAADMN/zjhWIlx4JSNp78tNAz`
+Snapshot ID: `ZkjA3AAAAAARJnEPC8b2WqxIKtfItqQL`

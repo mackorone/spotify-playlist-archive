@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Danilo e Davi e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,553,964 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,553,960 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Observando Essa Salada](https://open.spotify.com/track/3WxetTBTlpfyknxJfPQ7eQ) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Observando Essa Salada](https://open.spotify.com/album/3B0iWBDRvetLROpcfN8aya) | 3:01 |
 | 50 | [Meu Carro nao tem Porta Luva \- Remastered 2024](https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc) | [DJ NATAN 22](https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Meu Carro nao tem Porta Luva \(Remastered 2024\)](https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b) | 2:39 |
 
-Snapshot ID: `aAwK5AAAAAA7PFvo+zKLXpx81ZVyJ4H1`
+Snapshot ID: `aAwK5AAAAABmIU2gt5UF1n2b1/fizH+3`

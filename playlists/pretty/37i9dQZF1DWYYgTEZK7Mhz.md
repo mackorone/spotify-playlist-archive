@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,911 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,930 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 11 | [Abbronzatissima](https://open.spotify.com/track/6OIZN7iSLdw6ml70zRlAUu) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:29 |
 | 12 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
 | 13 | [Quando quando quando](https://open.spotify.com/track/5x3Hpqf0pvVGELLVLf4bNd) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Tony Renis](https://open.spotify.com/album/3ClTylraxBpTRumWOwuXnm) | 2:46 |
-| 14 | [Nell'aria](https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Un'ora con...](https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44) | 3:56 |
-| 15 | [Balla](https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Balla \(Remastered\)](https://open.spotify.com/album/4A6errXJxy9750cknTxu1p) | 3:15 |
+| 14 | [Balla](https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Balla \(Remastered\)](https://open.spotify.com/album/4A6errXJxy9750cknTxu1p) | 3:15 |
+| 15 | [Nell'aria](https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Un'ora con...](https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44) | 3:56 |
 | 16 | [Tropicana](https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R) | [Gruppo Italiano](https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft) | [Gruppo Italiano](https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD) | 3:30 |
 | 17 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
 | 18 | [Luglio](https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |
 | 50 | [La Partita Di Pallone](https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:13 |
 
-Snapshot ID: `ZqwhvAAAAAAWeaBxiOctSTpOIepeA06u`
+Snapshot ID: `ZqwhvAAAAAD05ch/Ctndz/yhe7P5Pf3e`

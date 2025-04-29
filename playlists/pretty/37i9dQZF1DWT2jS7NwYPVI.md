@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,629 likes - 98 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,647 likes - 98 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 97 | [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 |
 | 98 | [Nina](https://open.spotify.com/track/7b69iiHJHiZG3xebISnGlt) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [Nina](https://open.spotify.com/album/0penmfV4ouDqWZSJh7I16x) | 3:27 |
 
-Snapshot ID: `aAsI8QAAAAD7/1UqfuZldvv4O4Cp4CMy`
+Snapshot ID: `aAsI8QAAAACK0ZuCrbW8gVRib0IHVqRO`

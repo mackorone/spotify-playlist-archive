@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-739 songs - 1 day 7 hr 39 min
+740 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 | 2022-09-15 |
 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 | 2021-12-07 | 2022-02-16 |
 | [Nježno](https://open.spotify.com/track/5SJY135DzmU9PIgYKKkSAh) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Nježno](https://open.spotify.com/album/2FoyXABr5XeiYpQIkQCF3z) | 2:02 | 2022-02-01 | 2023-05-20 |
+| [Noapte](https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Noapte](https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4) | 3:19 | 2025-04-28 |  |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2021-12-07 | 2022-07-16 |
 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 | 2024-05-01 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 | 2024-04-04 |

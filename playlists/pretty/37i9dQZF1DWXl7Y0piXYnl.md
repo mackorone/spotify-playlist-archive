@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,294 likes - 40 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,300 likes - 40 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 39 | [Morning \(Piano Version\)](https://open.spotify.com/track/2M41g6dV9LeRQ9G9paQiBB) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Shards](https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm) | 4:22 |
 | 40 | [Climbing \- Solomun Club Edit](https://open.spotify.com/track/4CWlF6CWaIWXrfjVTxV7ik) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Climbing \(Solomun Remix\)](https://open.spotify.com/album/103SJkBOWhraOiuMCFPiSZ) | 8:27 |
 
-Snapshot ID: `Z97ROgAAAADo4PE+y83/MuijSK7klCSs`
+Snapshot ID: `Z97ROgAAAAA7ccxPuLOi3an/PTjWR4P1`

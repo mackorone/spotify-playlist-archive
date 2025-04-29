@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,395 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,394 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 29 | [In Love](https://open.spotify.com/track/682PWCwK6IO21suzfmdZxP) | [Melody Fields](https://open.spotify.com/artist/0nZvmigTPvyX1LKwGHWleC) | [1901](https://open.spotify.com/album/5DqcapYyPr2cN79fsFjjlB) | 3:34 |
 | 30 | [Politesse](https://open.spotify.com/track/1XSU8ULwTkJk38Yu8ySirk) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:07 |
 
-Snapshot ID: `ZmD+4AAAAACeK3XJEsn1Qr+I2Gkac1wt`
+Snapshot ID: `ZmD+4AAAAAAVw3pb4Dom4XxQa6k8Awws`

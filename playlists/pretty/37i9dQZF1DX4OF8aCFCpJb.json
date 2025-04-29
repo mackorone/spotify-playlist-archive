@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70449,
+  "num_followers": 70454,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnlWJQAAAAChswDBsEQZtI8693V0zDEm",
+  "snapshot_id": "ZnlWJQAAAAAadGNmR0XQA+afIKjoeJO8",
   "tracks": [
     {
       "added_at": "2024-06-24 11:19:01",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "H\u00e5ll i dig",
-        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
-      },
-      "artists": [
-        {
-          "name": "Wagwan",
-          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "H\u00e5ll i dig",
-      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Weh Dem A Gwaan",
         "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "H\u00e5ll i dig",
+        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
+      },
+      "artists": [
+        {
+          "name": "Wagwan",
+          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "H\u00e5ll i dig",
+      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2024-06-24 11:19:01",

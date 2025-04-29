@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > Opted out of strife
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,726 likes - 84 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,769 likes - 84 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 83 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 84 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 |
 
-Snapshot ID: `aAGWWQAAAACd0FEO6SqtxdbaZjpHl2mm`
+Snapshot ID: `aAGWWQAAAADz6uCjlj3c/T2G5gJpic4i`

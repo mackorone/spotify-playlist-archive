@@ -1617,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Before Every Load",
+        "url": "https://open.spotify.com/album/4VSQoSP3b8v5juQZb6cTCG"
+      },
+      "artists": [
+        {
+          "name": "Mike Klubnika",
+          "url": "https://open.spotify.com/artist/3Zpo4f5i86D3PTtOAwz7HK"
+        },
+        {
+          "name": "RuditheRaven",
+          "url": "https://open.spotify.com/artist/1Ax2VrKypeYyV5sn89l6m4"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Before Every Load - RuditheRaven Remix",
+      "url": "https://open.spotify.com/track/4Q9UzG9BPheVFGAZWtxgtJ"
+    },
+    {
+      "album": {
         "name": "Before The Party's Over",
         "url": "https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq"
       },
@@ -2262,6 +2284,24 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "album": {
+        "name": "Bossyak",
+        "url": "https://open.spotify.com/album/4U5nRNFv3yFRemozQdIM2C"
+      },
+      "artists": [
+        {
+          "name": "Massima",
+          "url": "https://open.spotify.com/artist/0xnWE8gCHGSR7opIi6ftYr"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Bossyak",
+      "url": "https://open.spotify.com/track/6dFigeMC11oX6J6GlnJGKA"
     },
     {
       "album": {
@@ -3656,7 +3696,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 182560,
       "name": "Diskovery",
       "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
@@ -10062,7 +10102,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
@@ -10488,7 +10528,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 133714,
       "name": "Montagem Solar Atmosfera",
       "url": "https://open.spotify.com/track/1tBsFgHlgn9oCUXxlXlTaw"
@@ -11638,7 +11678,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 240985,
       "name": "Now That You're Gone",
       "url": "https://open.spotify.com/track/7AYEHXXUs2i4JoDp3mgP8I"
@@ -12282,7 +12322,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 161601,
       "name": "PDD",
       "url": "https://open.spotify.com/track/78XuTjTi7tkjcQnbwH1NMH"
@@ -14944,7 +14984,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
@@ -16558,7 +16598,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 108923,
       "name": "VOLKSWAGEN FUNK - super slowed",
       "url": "https://open.spotify.com/track/4WFgUkgd1gCHBFwgZ1Dj8K"
@@ -18396,7 +18436,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "\u0411\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0430",
       "url": "https://open.spotify.com/track/45TKI2XRzKzwBZDoGXBblB"
@@ -18990,6 +19030,10 @@
         {
           "name": "nowxd",
           "url": "https://open.spotify.com/artist/4RwimSSgNj77ftxlQp1EiS"
+        },
+        {
+          "name": "lucixd",
+          "url": "https://open.spotify.com/artist/21pyT5HW4LoD9rm6eyHy9w"
         }
       ],
       "date_added": "2025-04-27",
@@ -24969,6 +25013,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0430\u0445\u043d\u0435\u0448\u044c \u043a\u0430\u043a",
+        "url": "https://open.spotify.com/album/2QzFRxw3zFPWL4y1iWM8x2"
+      },
+      "artists": [
+        {
+          "name": "SOLIDNAYA",
+          "url": "https://open.spotify.com/artist/4tNOoN8ygqwRV657VyhBRp"
+        },
+        {
+          "name": "SAKXRA",
+          "url": "https://open.spotify.com/artist/34pyKkFlWVfbb1wyjZVzoj"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100800,
+      "name": "\u041f\u0430\u0445\u043d\u0435\u0448\u044c \u043a\u0430\u043a",
+      "url": "https://open.spotify.com/track/6TXc5dHntDkkaOYYy2maj4"
+    },
+    {
+      "album": {
         "name": "\u0421\u043c\u0438\u0440\u0438\u0441\u044c \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u044c\u0441\u044f",
         "url": "https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF"
       },
@@ -28388,7 +28454,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 184581,
       "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0442\u0435\u0431\u044f \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/20wwWa61FqDNbNg5CkjaOW"

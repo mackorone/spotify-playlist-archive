@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,296 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,270 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 |
 | 50 | [Whistleblower](https://open.spotify.com/track/6zP2dszeLZp3qEGKhN3lcn) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Whistleblower](https://open.spotify.com/album/4ADaekmlb5h52pLsYbzYLF) | 2:42 |
 
-Snapshot ID: `aAsI5gAAAACZLId7opC/31I6lsdjJpI2`
+Snapshot ID: `aAsI5gAAAADN19tSWp4Bmqr8V9SQap0+`

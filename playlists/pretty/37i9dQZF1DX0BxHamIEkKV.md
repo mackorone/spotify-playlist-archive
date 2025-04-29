@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 | 3 | [The Long Awaited Brexit Deal Is Finally Here](https://open.spotify.com/episode/3p0RTlOIDoFKYL7FXahnbA) | [Consider This from NPR](https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH) | [Consider This from NPR](https://open.spotify.com/album/3Z6JdCS2d0eFEpXHKI6WqH) | 12:26 |
 | 4 | [Trump and the economy: The administration’s biggest victories also exacerbated our divides](https://open.spotify.com/episode/27cbthZCG4dLzdj0aKydMo) | [Sidebar](https://open.spotify.com/show/7d3VDv4ekyUrfTaIB4hbqW) | [Sidebar](https://open.spotify.com/album/7d3VDv4ekyUrfTaIB4hbqW) | 27:30 |
 
-Snapshot ID: `ZIsOkgAAAACxeXJkouE4ifEvEON/aBut`
+Snapshot ID: `ZIsOkgAAAABHF/M0diKxJQMrZIzVrRKe`

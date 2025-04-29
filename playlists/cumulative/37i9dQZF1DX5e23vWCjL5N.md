@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Mostro
 
-241 songs - 12 hr 31 min
+242 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Nuove regole \(feat\. Izi\)](https://open.spotify.com/track/6EYwC9HDXUj73q537Mb4HB) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [PRIMETIME](https://open.spotify.com/album/5usaPElVU5jkioS6cK1XBd) | 3:12 | 2025-04-10 |  |
 | [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-20 | 2024-08-30 |
 | [odio, quindi sono.](https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [odio, quindi sono.](https://open.spotify.com/album/6IDuJVEt2aKMUfLodfTuB0) | 2:07 | 2024-12-05 | 2025-01-31 |
+| [ON FIRE](https://open.spotify.com/track/7fH0LbrfyMtQOHBH3Ctf5V) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [ON FIRE](https://open.spotify.com/album/6hDfU5wl4i0G2I4QNfcckp) | 3:21 | 2025-04-28 |  |
 | [Outro Purgatorio](https://open.spotify.com/track/4FN1moouQXRI7k6Gs3rDZl) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 4:44 | 2023-06-01 | 2025-01-10 |
 | [OUV3RTURE](https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OUV3RTURE](https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM) | 2:52 | 2022-04-15 |  |
 | [OuverFOURe](https://open.spotify.com/track/60uVxVUQkMccRuTNkcAP0D) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 2:59 | 2024-11-26 | 2025-04-11 |

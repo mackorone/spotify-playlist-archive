@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,653 likes - 215 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,706 likes - 215 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 214 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 |
 | 215 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 |
 
-Snapshot ID: `Z/fZQwAAAABtQAROy6iJUaYBI++feJJv`
+Snapshot ID: `Z/fZQwAAAADgAo6L6i3wbiXOU4aRA5w8`

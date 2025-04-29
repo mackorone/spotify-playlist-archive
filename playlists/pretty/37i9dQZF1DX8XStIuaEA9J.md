@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,354 likes - 89 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,344 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 88 | [ナハト](https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [MOLTING AND DANCING](https://open.spotify.com/album/5iiTVjvlqwtOGpTSl59Ure) | 3:05 |
 | 89 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 |
 
-Snapshot ID: `aAeu/gAAAADv2oHBc9b1pnAUVwHm+1GC`
+Snapshot ID: `aAeu/gAAAAC4hPqYRxKk5y/CXvCUxLVl`

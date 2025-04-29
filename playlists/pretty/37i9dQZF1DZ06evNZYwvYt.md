@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,564 likes - 44 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,572 likes - 44 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 2 | [Te Mueres](https://open.spotify.com/track/7JH0xroK9IZUWIhb0Fvwom) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 5:15 |
 | 3 | [Rescatame](https://open.spotify.com/track/2JJiretT2Zo7gYgA732WHy) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Grandes Éxitos](https://open.spotify.com/album/4OcB9Tf64ZusiT2DbbWUwS) | 4:11 |
 | 4 | [Me Vuelves a Herir](https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:39 |
-| 5 | [Te](https://open.spotify.com/track/1mjUuavkhO7WkQU9P5RUhC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 4:10 |
+| 5 | [Besos de Mentira](https://open.spotify.com/track/5nR7pNSWUwJHnyHBGtG0kt) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/7vcpdsOGKEjtleFfx37CYB) | 4:18 |
 | 6 | [Para Ti](https://open.spotify.com/track/3ekHpSx3U1X63YX7lC7fl0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 3:51 |
-| 7 | [Besos de Mentira](https://open.spotify.com/track/5nR7pNSWUwJHnyHBGtG0kt) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/7vcpdsOGKEjtleFfx37CYB) | 4:18 |
+| 7 | [Té](https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:12 |
 | 8 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:56 |
 | 9 | [Quiero hacerte feliz](https://open.spotify.com/track/7KVwAWkgU01pXozdfEQjE9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:51 |
 | 10 | [Déjalo](https://open.spotify.com/track/1WLo5jBtnCE9xinKT0LRQ1) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 3:41 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 43 | [Brigida](https://open.spotify.com/track/520Ms8HqOpj5oP0e0vDLOK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 3:33 |
 | 44 | [Miel](https://open.spotify.com/track/7uTNhWFSsMJFxWk2vQiB2H) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 4:55 |
 
-Snapshot ID: `aAwiAAAAAABnUsnuVfuwAaqH+6Gpg/bF`
+Snapshot ID: `aA1zgAAAAADgpFyotYcBtgg1yn+l0deT`

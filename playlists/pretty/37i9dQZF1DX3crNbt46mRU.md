@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Nemo, Lorde,  Benson Boone and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,980 likes - 120 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,984 likes - 120 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 15 | [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 |
 | 16 | [GERMANY](https://open.spotify.com/track/50LgSBOTX8nkAKmbWF1Wxt) | [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [GERMANY](https://open.spotify.com/album/5wqNOKtDT8wY3NyiwaXb0l) | 2:10 |
 | 17 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 |
-| 18 | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
+| 18 | [Boîte noire](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
 | 19 | [Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN) | 1:58 |
 | 20 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
 | 21 | [Tut es noch weh](https://open.spotify.com/track/56j9kV2a2O8xXyMfpeySKe) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [Ich liebe dich für immer](https://open.spotify.com/album/2CncrH725HIGt6h665DTQi) | 2:47 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 119 | [Du Brennst](https://open.spotify.com/track/1GIYA7tyAFP7nK1N1OKK5f) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f), [youareslowlykillingme](https://open.spotify.com/artist/1OO6NNsMdnnZqjFPKaIiZp) | [Du Brennst](https://open.spotify.com/album/0RHwPf93JqciiezEwmoOab) | 3:28 |
 | 120 | [Is This What You've Been Waiting For?](https://open.spotify.com/track/5GQcyVcnALfm9IU2uGmm0p) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Is This What You've Been Waiting For?](https://open.spotify.com/album/7D76N6Tx5MdC6h5itARNT0) | 3:34 |
 
-Snapshot ID: `aAsf7gAAAADnXY27Z5GlM5e30471jAuQ`
+Snapshot ID: `aAsf7gAAAADkOEML+B6rXmj2N3HQAuf8`

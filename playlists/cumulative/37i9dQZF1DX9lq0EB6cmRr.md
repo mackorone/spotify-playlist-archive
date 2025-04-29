@@ -4,7 +4,7 @@
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: John Noh \(존 노\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-162 songs - 13 hr 14 min
+163 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [When We Meet Again](https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Dear Forest](https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3) | 3:15 | 2024-10-27 |  |
 | [While You Live](https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Hera Hyesang Park](https://open.spotify.com/artist/5BEdNxvruChpR6M2ZSzk4H), [Giovanni Battista Fabris](https://open.spotify.com/artist/0HmmACDgxK6xEYtw2zOWWH), [Orchestra del Teatro Carlo Felice](https://open.spotify.com/artist/0IyzdQmUIF7OW35Lj5MkTi), [Jochen Rieder](https://open.spotify.com/artist/60gjz5QfP3kW8Nsw5GJOuk) | [Breathe](https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl) | 4:06 | 2024-02-16 |  |
 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 | 2024-08-14 |  |
-| [À la manière de Chabrier, M\. 63/2](https://open.spotify.com/track/3kiYrqoZpu02ei4HYdrZrk) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: À la manière de Chabrier, M\. 63/2](https://open.spotify.com/album/0LB66QjUY3ibGQcQqQI5fQ) | 1:59 | 2025-01-03 |  |
+| [À la manière de Chabrier, M\. 63/2](https://open.spotify.com/track/0PVWsdWXzvm2vqgefuwBSd) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: The Complete Solo Piano Works](https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj) | 1:59 | 2025-04-08 |  |
+| [À la manière de Chabrier, M\. 63/2](https://open.spotify.com/track/3kiYrqoZpu02ei4HYdrZrk) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: À la manière de Chabrier, M\. 63/2](https://open.spotify.com/album/0LB66QjUY3ibGQcQqQI5fQ) | 1:59 | 2025-01-03 | 2025-04-29 |
 | [너의 자유야](https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV) | [정현묵](https://open.spotify.com/artist/19AapPEBgno4ABfOB0Nw3d), [최용호](https://open.spotify.com/artist/06eCHq3n96anYE1GJo7IzU) | [너의 자유야](https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz) | 4:42 | 2023-09-13 | 2024-10-10 |
 
 \*This playlist was first scraped on 2023-10-12. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,431,641 likes - 148 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,432,836 likes - 148 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 147 | [Pluotos](https://open.spotify.com/track/1qiSMzz9eNSMyQzIRpP3z2) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Pluotos](https://open.spotify.com/album/5g3ByKiMfjLvV0GTiewGqF) | 2:52 |
 | 148 | [Sanctuary](https://open.spotify.com/track/1gLUs9sgZSXMB5HgoZqT83) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sanctuary](https://open.spotify.com/album/12aOUJQ83vBLB9QriV8tVH) | 1:57 |
 
-Snapshot ID: `Z/4rNwAAAAB8mzQW6SdHUuDy3YhhIP7c`
+Snapshot ID: `Z/4rNwAAAAC39YMJ40bC53ZMmrrega8w`

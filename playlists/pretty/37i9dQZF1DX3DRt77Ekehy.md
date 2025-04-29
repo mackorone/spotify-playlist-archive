@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,814 likes - 190 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,947 likes - 190 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 189 | [Comforting 432hz](https://open.spotify.com/track/6pecbIcNuLhePHZxxfdDuS) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [Comforting 432hz](https://open.spotify.com/album/4oE5FUPog7P1krcayn9opN) | 2:33 |
 | 190 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 |
 
-Snapshot ID: `Z6neOQAAAAAjN9zw0eFkd5oyvEbZhFGM`
+Snapshot ID: `Z6neOQAAAACKsBGAPBebo5eMLpuf746Z`

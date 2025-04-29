@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,573 likes - 90 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,608 likes - 90 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Timbo Indian Flute](https://open.spotify.com/track/0jm8UJ1C4twgOLOMcc2PbB) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [The Future Of Party People](https://open.spotify.com/album/0jERAlUJkTvscYCpsRZfqA) | 3:21 |
 | 90 | [Stronger](https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 5:11 |
 
-Snapshot ID: `ZxwkogAAAAC6xO0HxCMHP05Mk/YB11Pu`
+Snapshot ID: `ZxwkogAAAABpUXV75leX3BESFOhKsnvu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from K.O, Young Stunna, Priddy Prince, Riky Rick, Quavo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,701 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,702 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 59 | [YOUNG KUPA](https://open.spotify.com/track/6IewC22nvipNsUwGP9gfya) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Teen Revolution](https://open.spotify.com/album/2GMA0txzGTDB2MZiKTPx6H) | 2:47 |
 | 60 | [str8 to hell](https://open.spotify.com/track/5iRGJi0Nd7uIbSfLXlMKzs) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 2:28 |
 
-Snapshot ID: `aAq0jQAAAADETl+MDO/KZKkgP7wrRWd2`
+Snapshot ID: `aAq0jQAAAACEKWonlTAc4K7Oh0Sj4TxB`

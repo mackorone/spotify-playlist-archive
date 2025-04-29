@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,967 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,032 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 |
 | 50 | [Proibido Terminar \- Ao Vivo](https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Proibido Terminar \(Ao Vivo\)](https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8) | 2:45 |
 
-Snapshot ID: `L6Gf+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L6LxeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

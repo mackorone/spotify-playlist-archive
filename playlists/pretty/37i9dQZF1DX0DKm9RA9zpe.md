@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,261 likes - 91 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,259 likes - 91 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 | 90 | [idc](https://open.spotify.com/track/36AZDSTxco9AVnKk4PPHZA) | [Moné 모네](https://open.spotify.com/artist/5zav84wOhhcJpvYEOi5tWS) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 5:52 |
 | 91 | [Old And Wise](https://open.spotify.com/track/0Hm0XdBJQRf1TwtF2rBVfm) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 7:51 |
 
-Snapshot ID: `ZIsP/wAAAAAvqCJ+I6C3ELuUpRECUvEj`
+Snapshot ID: `ZIsP/wAAAADAyYtmwYBsYmb+BnNbMNRZ`

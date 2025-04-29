@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,319 likes - 462 songs - 1 day 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,483 likes - 462 songs - 1 day 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 461 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 |
 | 462 | [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 |
 
-Snapshot ID: `aAjnHwAAAAABR6XYFggTu+UJqX0SBam1`
+Snapshot ID: `aAjnHwAAAABix1XPHo+uC8rW6uF2igLq`

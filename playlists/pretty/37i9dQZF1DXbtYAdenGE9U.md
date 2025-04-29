@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,420 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,676 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [Liberation \(Fly Like An Angel\) \- Ferry Corsten Remix](https://open.spotify.com/track/4PzBpZbQLEWHwBhh6oFILN) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Retrospective \(25 Years\)](https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4) | 3:06 |
 | 50 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
 
-Snapshot ID: `Zp9+KwAAAACSFpSmio02Yc2Yc349Jd+S`
+Snapshot ID: `Zp9+KwAAAAC3ASkKepCE6dvI+/4IuoXY`

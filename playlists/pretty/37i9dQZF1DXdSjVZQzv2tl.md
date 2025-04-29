@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Henrique & Juliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,918,035 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,918,540 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
 | 50 | [Desculpa \- Ao Vivo](https://open.spotify.com/track/1e65vFwyqTM7FJeJ49T5ch) | [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Cristinas \(Ao Vivo / Vol.01\)](https://open.spotify.com/album/4z1bRlKJwvx4hduTSxs7Pz) | 3:06 |
 
-Snapshot ID: `aAxYzAAAAAAaasrplZZeY5b5jXsJpDby`
+Snapshot ID: `aAxYzAAAAAAc1ddWXeKUCIt6qbDS/79B`

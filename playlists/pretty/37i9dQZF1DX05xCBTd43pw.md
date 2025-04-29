@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Entdecke die Songauswahl von Lo & Leduc\. <br/>Discover Lo & Leduc's song selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,261 likes - 44 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,289 likes - 44 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 43 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 |
 | 44 | [Minus das wo passiert](https://open.spotify.com/track/7zgYGu1Ny1cM4HlpKNO7BT) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Minus das wo passiert](https://open.spotify.com/album/1KDawvzQeeyzJGnHU3fHOV) | 2:16 |
 
-Snapshot ID: `aAq0fgAAAAARx3RVasu6tzSjATXEhZLF`
+Snapshot ID: `aAq0fgAAAAClbTjfpYFk0CtlVmrU2HYX`

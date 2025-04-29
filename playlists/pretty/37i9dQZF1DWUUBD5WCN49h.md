@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Sam Opuku
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,748 likes - 89 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,751 likes - 89 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 88 | [Feels](https://open.spotify.com/track/63Tx2xhEHLoYottJbe3Fpi) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/6lNQ9EibZ0syaBgtJmsqs5) | 3:37 |
 | 89 | [Circles](https://open.spotify.com/track/45DhgrDIO97RiRPeAsSl4Q) | [Anderson Amos](https://open.spotify.com/artist/6VmjmxSIPiBjFhCxchpRj9), [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [Circles](https://open.spotify.com/album/3xcpnGHaC4O85teBcUDxM8) | 3:06 |
 
-Snapshot ID: `aArscgAAAABEUxBrjpExKiEZflo5SKXZ`
+Snapshot ID: `aArscgAAAADW1dTLN+qAjJn0YTVApWAy`

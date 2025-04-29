@@ -1,12 +1,12 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553378,
+  "num_followers": 553383,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ekPgAAAABZP2cj6AO2i0uD8T8Xy/zs",
+  "snapshot_id": "Z5ekPgAAAADcTQqLxMG35mbXw6jdFtGR",
   "tracks": [
     {
       "added_at": "2024-11-26 17:39:01",
@@ -619,8 +619,8 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 323933,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -763,8 +763,8 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+      "duration_ms": 323933,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Necessary Evil",
         "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 176040,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "system_failure",
-      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Clawfinger",
         "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 231720,
       "name": "Biggest & the Best",
       "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "system_failure",
+      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
-      },
-      "artists": [
-        {
-          "name": "Betraying The Martyrs",
-          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
-        }
-      ],
-      "duration_ms": 231762,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "The End of All We Know",
         "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 251512,
       "name": "The End of All We Know",
       "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
+      },
+      "artists": [
+        {
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
+        }
+      ],
+      "duration_ms": 231762,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
     },
     {
       "added_at": "2024-11-26 17:39:01",

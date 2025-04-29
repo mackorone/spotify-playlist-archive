@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Maria Kim \(마리아 킴\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,762 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,772 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 |
 | 50 | [love nwantiti](https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV) | [SMOOTH LOUNGE](https://open.spotify.com/artist/4RWr6GHcHIUFnG9eZ1EOXn) | [love nwantiti](https://open.spotify.com/album/1uWWEYIJdIencEhnfQiEXt) | 2:16 |
 
-Snapshot ID: `Z/Xo2gAAAACW0ksCKmhJpaWvj9DDjCQ/`
+Snapshot ID: `Z/Xo2gAAAAAR3+GSkQDkoYPov7LkEE9L`

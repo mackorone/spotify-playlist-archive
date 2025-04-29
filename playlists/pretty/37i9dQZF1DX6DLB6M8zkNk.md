@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,661 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,979 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 51 | [Atonement](https://open.spotify.com/track/4c0g65FyaEeKRX6C0hfjhr) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 5:18 |
 | 52 | [La fille aux cheveux de lin](https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [La fille aux cheveux de lin](https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy) | 2:39 |
 | 53 | [Piano Sonata in C Major, WoO 51: II\. Adagio](https://open.spotify.com/track/7EmiVtjY6KsnDgroaePON5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Beethoven Trilogy 2: Childhood](https://open.spotify.com/album/4XiKDj6xqe9fxq7BSPxaE7) | 2:30 |
-| 54 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
+| 54 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Jonathan Snowdon](https://open.spotify.com/artist/752896mc0Y5RDJwZAETv13), [Robert Hill](https://open.spotify.com/artist/5TFInGNkbqsyFW0BdpB0RM), [Richard Morgan](https://open.spotify.com/artist/3IbUU6yqnGpK2p24ZJMjIO) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
 | 55 | [The Prince and the Emperor](https://open.spotify.com/track/0T387GumMkV4CKNUb2yAwf) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Prince and the Emperor](https://open.spotify.com/album/661xdHFeMHZg9biKHudInm) | 3:48 |
 | 56 | [Tewkesbury's Trail](https://open.spotify.com/track/7i6aVrjKTpxz0I2G3IubY9) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Enola Holmes \(Music from the Netflix Film\)](https://open.spotify.com/album/6sFS4WAvywzoeormyV0tA5) | 1:41 |
 | 57 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 75 | [Pluto's Crossing: Id\. The Journey](https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P) | [Andrew Sparrow](https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N), [The Czech Film Orchestra](https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b), [Marek Valášek](https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1) | [Sparrow: Pluto's Crossing](https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8) | 2:04 |
 | 76 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 
-Snapshot ID: `aAMfxQAAAADiqgLO5IUlO4+Z9mGERcSq`
+Snapshot ID: `aAMfxQAAAAB8o+PlPqWzU2GxTP8nyThu`

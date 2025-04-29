@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u30d2\u30b0\u30c1\u30a2\u30a4",
-  "num_followers": 124255,
+  "num_followers": 124257,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAfVFQAAAAA7DSXnu5jI8t/UTithS/Sn",
+  "snapshot_id": "aAfVFQAAAAChx7LHZ0pFdtXV8f+gEuzu",
   "tracks": [
     {
       "added_at": "2025-04-22 17:42:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 185896,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "\u76f8\u601d\u76f8\u611b",
         "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260903,
       "name": "\u76f8\u601d\u76f8\u611b",
       "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 185896,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "Orbital Period",
-        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
+        "name": "mimosa",
+        "url": "https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj"
       },
       "artists": [
         {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+          "name": "Ayumi Hamasaki",
+          "url": "https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn"
         }
       ],
-      "duration_ms": 251833,
-      "name": "Orbital Period",
-      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
+      "duration_ms": 309633,
+      "name": "mimosa",
+      "url": "https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "mimosa",
-        "url": "https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj"
+        "name": "Orbital Period",
+        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
       },
       "artists": [
         {
-          "name": "Ayumi Hamasaki",
-          "url": "https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn"
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
         }
       ],
-      "duration_ms": 309633,
-      "name": "mimosa",
-      "url": "https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e"
+      "duration_ms": 251833,
+      "name": "Orbital Period",
+      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "\u6625 \uff5eDestiny\uff5e",
-        "url": "https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "\u6625 \uff5eDestiny\uff5e",
-      "url": "https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
         "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 180233,
       "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
       "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u6625 \uff5eDestiny\uff5e",
+        "url": "https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "\u6625 \uff5eDestiny\uff5e",
+      "url": "https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 229222,
-      "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
-      "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "\u516d\u7b49\u661f",
         "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 254280,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 229222,
+      "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
+      "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "\u50d5\u3089\u3057\u3055",
-        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "\u50d5\u3089\u3057\u3055",
-      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "20 +",
         "url": "https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 298875,
       "name": "HERE",
       "url": "https://open.spotify.com/track/60KQDUR0c1YQJ0KFphbQG4"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u50d5\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u50d5\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "\u30b5\u30de\u30e9\u30d6",
-        "url": "https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "SPARK!!",
-      "url": "https://open.spotify.com/track/307iThLshjnMdUev0bqlr8"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
         "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
+        "name": "\u30b5\u30de\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "SPARK!!",
+      "url": "https://open.spotify.com/track/307iThLshjnMdUev0bqlr8"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
         "name": "I still / Nobody Knows",
         "url": "https://open.spotify.com/album/4OeZlhYN40oXF6bUfJTl1A"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 216429,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/3jpWkQQUpwHe8m741B7bIO"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
-        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1499,6 +1483,22 @@
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2025-04-22 17:42:45",
@@ -1551,38 +1551,6 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "\u3042\u305f\u3057\u3092\u9078\u3070\u306a\u304b\u3063\u305f\u541b\u3078 / SPARK!! / \u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067 / \u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078 / \u541b\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u3042\u305f\u3057\u304c\u304a\u3070\u3042\u3061\u3083\u3093 / \u306b\u3083\u3093\u306b\u3083\u3093\u306b\u3083\u3093 / \u2661\u4eba\u751f\u2661",
-        "url": "https://open.spotify.com/album/2ORm6imuZ2hlQRfCVZS7du"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "\u3042\u305f\u3057\u3092\u9078\u3070\u306a\u304b\u3063\u305f\u541b\u3078",
-      "url": "https://open.spotify.com/track/0xPxNWKQZTYud7Ubr9RkQ7"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
-        "name": "\u82b1\u7121\u53cc",
-        "url": "https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "\u82b1\u7121\u53cc",
-      "url": "https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d"
-    },
-    {
-      "added_at": "2025-04-22 17:42:45",
-      "album": {
         "name": "Blues in the Closet",
         "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
       },
@@ -1615,18 +1583,50 @@
     {
       "added_at": "2025-04-22 17:42:45",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/4JRwoJggRt23Xl2Jj7IeCr"
+        "name": "\u3042\u305f\u3057\u3092\u9078\u3070\u306a\u304b\u3063\u305f\u541b\u3078 / SPARK!! / \u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067 / \u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078 / \u541b\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u3042\u305f\u3057\u304c\u304a\u3070\u3042\u3061\u3083\u3093 / \u306b\u3083\u3093\u306b\u3083\u3093\u306b\u3083\u3093 / \u2661\u4eba\u751f\u2661",
+        "url": "https://open.spotify.com/album/2ORm6imuZ2hlQRfCVZS7du"
       },
       "artists": [
         {
-          "name": "Myuk",
-          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/1TmEGOLV7bvCvdDaEpLPuT"
+      "duration_ms": 245400,
+      "name": "\u3042\u305f\u3057\u3092\u9078\u3070\u306a\u304b\u3063\u305f\u541b\u3078",
+      "url": "https://open.spotify.com/track/0xPxNWKQZTYud7Ubr9RkQ7"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u82b1\u7121\u53cc",
+        "url": "https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "\u82b1\u7121\u53cc",
+      "url": "https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d"
+    },
+    {
+      "added_at": "2025-04-22 17:42:45",
+      "album": {
+        "name": "\u3056\u3089\u3081",
+        "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 282464,
+      "name": "\u3056\u3089\u3081",
+      "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
     }
   ],
   "unique_name": "Women's Voice",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,385 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,356 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 98 | [what3ver](https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [what3ver](https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv) | 2:55 |
 | 99 | [B.P.E](https://open.spotify.com/track/4aqmsHWp7Amz87Z1IZFA6J) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [B.P.E](https://open.spotify.com/album/7jRX1w3mgt42IQMLCHCC48) | 3:40 |
 
-Snapshot ID: `aARxVAAAAAB+5TDkTJNc0FEvg9BWNzG2`
+Snapshot ID: `aARxVAAAAAAY95lPzmzNXiyoUUgH4GIz`

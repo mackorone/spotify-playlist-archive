@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,115 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,152 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 44 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
 | 45 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
 | 46 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
-| 47 | [World 2014 \- Original Mix](https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A) | [DJ Giovanni Rios](https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx) | [Tribal Evolution](https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b) | 2:38 |
-| 48 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
+| 47 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
+| 48 | [World 2014 \- Original Mix](https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A) | [DJ Giovanni Rios](https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx) | [Tribal Evolution](https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b) | 2:38 |
 | 49 | [Préndelo](https://open.spotify.com/track/54ztKHl4Hv6jSmTeaqJdEU) | [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS), [Erick Rincón](https://open.spotify.com/artist/2JqCXO2jqKZvw1SeX393LY), [Miss Sound](https://open.spotify.com/artist/4xhusodSTta5v3WZRt4RuS) | [Nalga Bass](https://open.spotify.com/album/2Gn3gyqQqTUfsMITUljv6e) | 3:14 |
 | 50 | [Violentao \(Feat\. Sheeqo Beat\)](https://open.spotify.com/track/1pFruucew24311dJNbcjMZ) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 4:58 |
 
-Snapshot ID: `Zoh2tQAAAABgAWX/krFu1x1qjGM4Fa0i`
+Snapshot ID: `Zoh2tQAAAADCa9ERTd/zlK6Z3DkKOmUC`

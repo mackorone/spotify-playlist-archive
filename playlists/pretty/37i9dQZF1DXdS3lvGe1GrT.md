@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,489 likes - 127 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,519 likes - 127 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 126 | [Screens](https://open.spotify.com/track/6ZXBp6plZ2WvUg0ACmfQVJ) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Screens](https://open.spotify.com/album/3Ja2pRgTTF0YvhR1YPzdcd) | 3:26 |
 | 127 | [Risky Business](https://open.spotify.com/track/5PVclwbAo6ZhYvO8XldM2M) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Risky Business](https://open.spotify.com/album/2sxX3b80kdaQB0eS7IvZ4r) | 3:29 |
 
-Snapshot ID: `aAp3qQAAAADV/5WT3swNk/3foRdfWqMF`
+Snapshot ID: `aAp3qQAAAADS6MtS1S8ZvvGlpmcHNIi6`

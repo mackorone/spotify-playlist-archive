@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,481 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,493 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Son](https://open.spotify.com/track/2PnAWb7UNj8VVsrbUOh1fw) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Son](https://open.spotify.com/album/62qYvlhkcEJe6h7FDkSBre) | 2:29 |
 | 80 | [Akorfa](https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Lighter Tod](https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk) | [Akorfa](https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk) | 3:04 |
 
-Snapshot ID: `aAGWVwAAAADfL/kbE5mK7XbxHEs7gDMt`
+Snapshot ID: `aAGWVwAAAAAd1ckdXTFNEcXUhCVyoEUI`

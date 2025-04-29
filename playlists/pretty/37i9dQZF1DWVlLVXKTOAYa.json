@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1090015,
+  "num_followers": 1089840,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0iQAAAACVkoC3C046cW2Lhsh2VjzA",
+  "snapshot_id": "aAq0iQAAAADhiWgvMtjo8D7Fj+SUthc8",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:41",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
+        "name": "I Ain't Comin' Back",
+        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "I Ain't Comin' Back (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
-        "name": "I Ain't Comin' Back",
-        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "I Ain't Comin' Back (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 184155,
-      "name": "FXCK UP THE WORLD (feat. Future)",
-      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 214800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 184155,
+      "name": "FXCK UP THE WORLD (feat. Future)",
+      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "All The Love",
         "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 188127,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Little Bit Closer",
-      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "i guess u never really cared about me",
         "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 191150,
       "name": "i guess u never really cared about me",
       "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "You You You",
         "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 162113,
       "name": "You You You",
       "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
       "added_at": "2025-04-24 22:00:41",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "20 Years From Now",
-        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Love Worth Saving",
-      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
-    },
-    {
-      "added_at": "2025-04-24 22:00:41",
-      "album": {
         "name": "PISCES",
         "url": "https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2025-04-24 22:00:41",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
+        "name": "20 Years From Now",
+        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 144424,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
+      "duration_ms": 174735,
+      "name": "Love Worth Saving",
+      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
+    },
+    {
+      "added_at": "2025-04-24 22:00:41",
+      "album": {
+        "name": "death wish",
+        "url": "https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 170519,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/0syhM7efawK9yseurhzPmN"
     }
   ],
   "unique_name": "Pop Right Now",

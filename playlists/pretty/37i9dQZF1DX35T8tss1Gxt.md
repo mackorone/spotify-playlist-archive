@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: V\. Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,250 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,287 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [Five Fingers, Four Corners](https://open.spotify.com/track/1BYD4Yq7aZQbHlrqDhqzn6) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Five Fingers, Four Corners](https://open.spotify.com/album/3EzUBzgpIoTfVWdM5VK2Wx) | 4:27 |
 | 80 | [Don't Look Back](https://open.spotify.com/track/4hmnJthluGArwABUPB3y0h) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [Healing Era](https://open.spotify.com/album/22ZxohN6gpVLLbSmLgnrLf) | 1:58 |
 
-Snapshot ID: `aAIcsQAAAACaRedIJ2h7aDLhvzvrqU5j`
+Snapshot ID: `aAIcsQAAAACtdCLYHdpNlMI66t1omAPm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Torey D'Shaun & Ty Brasel
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,143 likes - 166 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,168 likes - 166 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 165 | [Amen](https://open.spotify.com/track/0wMYjUmXR2psuSRvPjvMfe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Amen](https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY) | 3:08 |
 | 166 | [WHY???](https://open.spotify.com/track/01KrMqJGTf1e2ey7OwWnsS) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [WHY???](https://open.spotify.com/album/6MOywNg7CONipjpAza8ePY) | 3:33 |
 
-Snapshot ID: `Z+9ZXAAAAAA/Lh5tAaAnJl95PnVzMe+I`
+Snapshot ID: `Z+9ZXAAAAAAOkLBWM8SIYDpkaM6DKXYF`

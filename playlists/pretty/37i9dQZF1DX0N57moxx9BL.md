@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Peyton Parrish
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,451 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,530 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [WILL YOU SEE GOD?](https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [TOWARDS THE LIGHT](https://open.spotify.com/album/74PmqmD3b2Eo3rlHEihPz9) | 2:01 |
 | 80 | [They See \- Live In Pomona](https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ) | [HolyName](https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ), [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [They See \(Live in Pomona\)](https://open.spotify.com/album/0ZUNh3WGZfdLe4UUgO4c48) | 4:00 |
 
-Snapshot ID: `Z/jdywAAAAAONysUibCTKyaH938I1Mev`
+Snapshot ID: `Z/jdywAAAAD0ZZSgxBAzdxc623xEBbmy`

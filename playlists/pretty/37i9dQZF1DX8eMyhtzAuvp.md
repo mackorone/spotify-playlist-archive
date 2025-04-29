@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > The ☀️ is beginning to put his hat on
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,460 likes - 43 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,481 likes - 43 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 42 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 43 | [American Love Song](https://open.spotify.com/track/6WsRA3jPlF1d5TKqzNWp0P) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [American Love Song](https://open.spotify.com/album/40Ei1ez25PaNJRGFBoXSXu) | 3:21 |
 
-Snapshot ID: `Z+1fVgAAAABde6QKNNw84jIr8Hf1LDzj`
+Snapshot ID: `Z+1fVgAAAAC/V6xP0stis7OWlmgKWxPa`

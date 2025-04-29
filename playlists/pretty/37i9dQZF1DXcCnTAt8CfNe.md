@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,495 likes - 186 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,513 likes - 186 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 185 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 |
 | 186 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 |
 
-Snapshot ID: `Z/fbFQAAAABS+4Kgcvd6OYeely7uCXtn`
+Snapshot ID: `Z/fbFQAAAAAtAkmCOW0hrOmoB1LlSGs6`

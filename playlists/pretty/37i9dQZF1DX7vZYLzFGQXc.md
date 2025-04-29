@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,406 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,414 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Enough](https://open.spotify.com/track/1sFMTojas7jlOM7idhAdSn) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Enough](https://open.spotify.com/album/3vD2JcQ4hee4g7if0CQjLR) | 2:36 |
 | 50 | [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 |
 
-Snapshot ID: `aA7S7gAAAADtzR+q5fLUQqKy6M7YOMhJ`
+Snapshot ID: `aA7S7gAAAAC4H91a58I6RLa+TFBiWj6s`

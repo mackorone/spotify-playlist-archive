@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats for feel\-good vibes and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,330 likes - 218 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,422 likes - 218 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 217 | [Rush Hour](https://open.spotify.com/track/4lv69NLbpOU0A2EACI4bEg) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:38 |
 | 218 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `aAuDMAAAAAA/B+WQHhv12AFSzB2XtGLw`
+Snapshot ID: `aAuDMAAAAABovGv7q2AWzl4MULPSqzmQ`

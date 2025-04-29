@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI?si=QqRLoJ0\_R26rB0\_98u1hJg">Jazzy June</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,727 likes - 61 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,754 likes - 61 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 60 | [Lost in You](https://open.spotify.com/track/3QpO4jfMeOBVPbZdnoV1xl) | [Lixine Vela](https://open.spotify.com/artist/1RdD1lvTBf7jrGQgGZ2tEV) | [Lost in You](https://open.spotify.com/album/74F7R3AQ0bTq0hVxLvhXKf) | 3:15 |
 | 61 | [SANTI'S APARTMENT](https://open.spotify.com/track/51aFMn0QVwiLKR0WOKWZo0) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [SANTI'S APARTMENT](https://open.spotify.com/album/7BIrpmQHhceuOXy4p3qgYN) | 2:36 |
 
-Snapshot ID: `aAiFRQAAAABLPc09vs+hRoTHsN/YvFnH`
+Snapshot ID: `aAiFRQAAAACfbot07nE2kY9Mrz7kV9jX`

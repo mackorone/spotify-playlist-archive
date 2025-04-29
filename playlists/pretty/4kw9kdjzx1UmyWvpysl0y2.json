@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125377,
+  "num_followers": 125367,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUA/H3EenovycH3ZlBUzOPFU52AFJ6",
+  "snapshot_id": "AAAUBKx5bO55mgpRhT2nkedYJfI4iIjg",
   "tracks": [
+    {
+      "added_at": "2025-04-28 15:45:26",
+      "album": {
+        "name": "NEW HEIGHTS",
+        "url": "https://open.spotify.com/album/1Zz4OoaOCNZbfQV7ZJxays"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NEW HEIGHTS",
+      "url": "https://open.spotify.com/track/4foDugtrBpG8suDqXiXY5n"
+    },
     {
       "added_at": "2025-04-25 17:09:45",
       "album": {

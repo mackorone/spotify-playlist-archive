@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,588 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,593 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Social Window](https://open.spotify.com/track/2IbWFunZ6KkoC4PprYJ11j) | [Piaman](https://open.spotify.com/artist/6xUKf9YItijwqomUQceMhe), [ピアノ男](https://open.spotify.com/artist/5HJozRZWPzvhJLFXobNAf5) | [Friends](https://open.spotify.com/album/542jJJXsnQspnhrbQYpuAd) | 3:52 |
 | 70 | [WING IT!!! \- isagen & in the blue shirt Remix](https://open.spotify.com/track/3dkGcOEAXJwu2uaFKXBYgY) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [KBSNK](https://open.spotify.com/artist/4BnAvxhZ0QKTALIGv828R2), [二錠](https://open.spotify.com/artist/4rCdJgEFyA5vXOYdNrN0oX), [知声](https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av), [Isagen](https://open.spotify.com/artist/0ibLC9VfGqZkhehokX2v1v), [in the blue shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE) | [WING IT!!! \(isagen & in the blue shirt Remix\)](https://open.spotify.com/album/0xBLphWpSpWwTR7sAxd7oH) | 4:50 |
 
-Snapshot ID: `aA7aAAAAAACDi+RqcjYN55NigQXfb3xn`
+Snapshot ID: `aA7aAAAAAAAIyKgG1B0DGqq8ua/bSeY5`

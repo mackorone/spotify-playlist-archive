@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lorde, Shaboozey, Benson Boone, CYRIL, d4vd, Alison Wonderland and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,497 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,515 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Silencer](https://open.spotify.com/track/6tNMGD64RQuEXbIqtVFKWM) | [heartholder](https://open.spotify.com/artist/0pCgCsaxp6OAhzHvBjsjBc) | [Jazzclub](https://open.spotify.com/album/51s2rVB6WIYPqhvIpJnqre) | 4:07 |
 | 99 | [Write It Down](https://open.spotify.com/track/4iwP9xM02ZIn3PNelWold0) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Pink Silence](https://open.spotify.com/album/1ZMMwALkjtxNijOjBdPNir) | 3:36 |
 
-Snapshot ID: `aAsI7QAAAABPDq/ULO/MDKq8Jg1wepYE`
+Snapshot ID: `aAsI7QAAAABky2lvKajZiTKGEgNBX4oq`

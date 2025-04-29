@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,052 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,013 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
 | 80 | [AMERICAN SCUMBAG](https://open.spotify.com/track/5Ccd3PCgN0Qv3g5v92NoCI) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [AMERICAN SCUMBAG](https://open.spotify.com/album/3Y943OXrJcUwOnjd0tLygn) | 3:05 |
 
-Snapshot ID: `Z9q7NQAAAAB5gBUU/ToNmDgyPUbRjWh4`
+Snapshot ID: `Z9q7NQAAAACX94BONdrcVSzqn/QP7MIs`

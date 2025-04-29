@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Knosis
 
-253 songs - 14 hr 39 min
+256 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cliffhanger](https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/5KQsHKT1HWEWKND1eEmDj1) | 2:36 | 2023-06-20 | 2024-04-19 |
 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 | 2023-01-06 | 2024-07-16 |
 | [Coalescence](https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 3:13 | 2022-08-19 | 2023-03-25 |
+| [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-04-28 |  |
 | [Counterfeit](https://open.spotify.com/track/5o04G6JWxQAQGW572GHTNP) | [Light the Fire](https://open.spotify.com/artist/6owzEX6EkLOvsZ66rcDk89) | [Counterfeit](https://open.spotify.com/album/5dkKMssRd8njxBgTQZkYRp) | 3:03 | 2022-07-29 | 2022-08-27 |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-05-18 | 2024-07-16 |
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-07-15 |  |
@@ -64,6 +65,7 @@
 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-07-22 | 2024-12-11 |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 | 2024-07-16 |
 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 | 2023-02-09 | 2024-07-16 |
+| [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 | 2025-04-28 |  |
 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 | 2022-09-02 | 2023-01-06 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-07-29 | 2022-08-20 |
 | [Divination](https://open.spotify.com/track/6GTe0kb9Q1e2FtLk7orlBS) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Divination](https://open.spotify.com/album/20ZWGstNwsVm92ZKenLcPa) | 3:45 | 2024-07-15 | 2024-12-11 |
@@ -120,6 +122,7 @@
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-07-29 | 2022-08-20 |
 | [Koaitra](https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n) | 2:51 | 2023-03-02 | 2023-05-19 |
 | [Leave](https://open.spotify.com/track/6tG4RFIbberUOM7Eos8cza) | [Backbiter](https://open.spotify.com/artist/6Roo57sI7GFnLxH3JEg9xb) | [Demonstration of Decimation](https://open.spotify.com/album/3E8dxp9zP5rVcEJLAmDV5v) | 1:53 | 2024-07-15 |  |
+| [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-04-28 |  |
 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 | 2023-01-13 | 2023-05-19 |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 | 2024-07-16 |
 | [Live Not Fantasize](https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Live Not Fantasize](https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd) | 2:59 | 2024-12-10 |  |

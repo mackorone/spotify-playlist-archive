@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,053 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 | 59 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 |
 | 60 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 |
 
-Snapshot ID: `aAccnAAAAAAJ9zYBgZyEVpmn0WsP+p6y`
+Snapshot ID: `aAccnAAAAAD84ihkMk7SE8E/N/+OGpQe`

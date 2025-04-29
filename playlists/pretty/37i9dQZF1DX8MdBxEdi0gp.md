@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,315 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,358 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 73 | [Lo Que Te Queda](https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ) | [Los Pulpos](https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:01 |
 | 74 | [Te Quiero Tanto](https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4) | [Ivan](https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq) | [Lo Mejor de Ivan](https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga) | 3:53 |
 | 75 | [El Corazon Es Un Gitano](https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [15 Exitos En Espanol](https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q) | 3:17 |
-| 76 | [Callados](https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [2 en 1 \(Amigo Mio, Cuenta Conmigo\)](https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih) | 5:31 |
-| 77 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 76 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 77 | [Callados](https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [2 en 1 \(Amigo Mio, Cuenta Conmigo\)](https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih) | 5:31 |
 | 78 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 79 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/4LY4j1ziOoVQm8beWBRYVN) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 3:43 |
 | 80 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 105 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 |
 | 106 | [Fresa Salvaje](https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Solo un Hombre](https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1) | 2:38 |
 | 107 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
-| 108 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
-| 109 | [El Reencuentro](https://open.spotify.com/track/53Af346CFsAjqvluCJud6T) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K), [YOSHIO](https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q) | [Tesoros De Coleccion \- Sonia Rivas](https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0) | 3:38 |
+| 108 | [El Reencuentro](https://open.spotify.com/track/53Af346CFsAjqvluCJud6T) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K), [YOSHIO](https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q) | [Tesoros De Coleccion \- Sonia Rivas](https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0) | 3:38 |
+| 109 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
 | 110 | [Estoy Soñando \- Spanish Version](https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 4:38 |
 | 111 | [Mi Arbol Y Yo](https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Mi Arbol Y Yo](https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o) | 3:33 |
 | 112 | [Me Muero por Estar Contigo](https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K) | [Silvana Di Lorenzo](https://open.spotify.com/artist/0jmWbTDAKk9k593xUr6Exe) | [Souvenirs](https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k) | 3:52 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 149 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 |
 | 150 | [Mary Es Mi Amor](https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 3:12 |
 
-Snapshot ID: `Zo84nQAAAABlvKBpko4omO+WXRNeRQIM`
+Snapshot ID: `Zo84nQAAAABZ6kZYgOBW0s2yGzEZ4bbP`

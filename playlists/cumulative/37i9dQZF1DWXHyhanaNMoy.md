@@ -4,7 +4,7 @@
 
 > Motion & party vibes ✨  Cover: ILLIE & Jinho 9
 
-1,335 songs - 2 day 11 hr 39 min
+1,336 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Criminal](https://open.spotify.com/track/4VQrJat2MItnL0LFV4nPLh) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT) | [Criminal](https://open.spotify.com/album/1bVBtbblyGjF4FbJWqDU3d) | 2:37 | 2022-07-21 | 2022-10-14 |
 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 | 2022-07-14 | 2022-07-29 |
 | [Cryptowallet](https://open.spotify.com/track/4123XDtMCC2I9oQJuhrTBr) | [JayMoreLife](https://open.spotify.com/artist/6hvXZu4rNdT54j1UmE0Fpw), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Cryptowallet](https://open.spotify.com/album/2qNTiLD0sPd95IeJ1rPGLP) | 2:32 | 2023-10-05 | 2023-10-13 |
+| [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 | 2025-04-28 |  |
 | [Cuerpo](https://open.spotify.com/track/2j4r92KRDW0rPxdsg8Eu09) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Cuerpo](https://open.spotify.com/album/4hvRj9Z7ysrQK5EjGZrmvF) | 2:55 | 2023-05-18 | 2023-06-24 |
 | [Cuff It](https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cuff It](https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD) | 3:31 | 2023-09-07 | 2023-12-15 |
 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 | 2022-07-28 | 2022-08-26 |

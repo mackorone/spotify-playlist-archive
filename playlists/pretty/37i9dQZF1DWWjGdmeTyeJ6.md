@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Snuggle, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,356 likes - 214 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,352 likes - 214 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 213 | [SOMEDAY](https://open.spotify.com/track/2MPXB5Fomsb2Hivh47sII3) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [GHOST OF THE WEST: THE ALBUM](https://open.spotify.com/album/3Ojgs60HT4hRcMkHkK7Pg0) | 3:28 |
 | 214 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 
-Snapshot ID: `aArhIgAAAACLMvoCedZDAJ4K1ZSsbfub`
+Snapshot ID: `aArhIgAAAAABKtX64npGKcPOZoniVQmn`

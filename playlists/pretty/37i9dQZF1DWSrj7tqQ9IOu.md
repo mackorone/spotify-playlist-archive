@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Cocoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,468 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,446 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Make It Work](https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Make It Work](https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB) | 4:15 |
 | 50 | [Principessa](https://open.spotify.com/track/60BFnfQs9T8xhpUeTI7759) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [Principessa](https://open.spotify.com/album/2XCoUwXyJWzAH0JcIu2SHs) | 4:01 |
 
-Snapshot ID: `aAq0jAAAAABRy7uog1PVFgHjfMAQCD5f`
+Snapshot ID: `aAq0jAAAAAC3fNlNaQQGgj6xeq03dBs6`

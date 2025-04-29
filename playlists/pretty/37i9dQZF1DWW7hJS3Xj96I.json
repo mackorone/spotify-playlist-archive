@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1238490,
+  "num_followers": 1239112,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl9pUAAAAADfu1Um2In5Naox0NBKgcuo",
+  "snapshot_id": "Zl9pUAAAAAD4OP/9NRbg3W2jLJDgUGJF",
   "tracks": [
     {
       "added_at": "2024-06-04 19:21:52",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-04 19:21:52",
       "album": {
-        "name": "Chicas Chic",
-        "url": "https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S"
-      },
-      "artists": [
-        {
-          "name": "Mercurio",
-          "url": "https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Explota Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI"
-    },
-    {
-      "added_at": "2024-06-04 19:21:52",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 246266,
       "name": "Como Un Trueno",
       "url": "https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR"
+    },
+    {
+      "added_at": "2024-06-04 19:21:52",
+      "album": {
+        "name": "Chicas Chic",
+        "url": "https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S"
+      },
+      "artists": [
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Explota Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI"
     }
   ],
   "unique_name": "Fiesta 90era",

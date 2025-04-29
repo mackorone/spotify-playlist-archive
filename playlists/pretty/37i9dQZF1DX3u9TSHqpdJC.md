@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Jake Marsh\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,414 likes - 118 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,418 likes - 118 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 117 | [Baboom](https://open.spotify.com/track/7BSfh75cbw1HVoLrA1hKIj) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Baboom](https://open.spotify.com/album/36HM1JItHUPboC7NnEOg0E) | 2:47 |
 | 118 | [BEEEP](https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BEEEP](https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg) | 2:36 |
 
-Snapshot ID: `Z/814AAAAAA2B0bvFFfIKYB5t6Raz9tl`
+Snapshot ID: `Z/814AAAAAA3cianDP92nOd7J0lhNwfS`

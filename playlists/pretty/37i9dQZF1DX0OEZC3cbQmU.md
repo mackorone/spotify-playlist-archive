@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253,497 likes - 75 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253,875 likes - 75 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Voz de Trovão](https://open.spotify.com/track/4SMEXnxi5NDimU0j3f3MRl) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Rahamim](https://open.spotify.com/album/745zGvWaNnhUMCaretCmvx) | 6:15 |
 | 75 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
 
-Snapshot ID: `aAvgbwAAAADpwPpVb+tqJS0sPPrdj0uU`
+Snapshot ID: `aAvgbwAAAAAICbw0+CiimrkhaqBYCbSZ`

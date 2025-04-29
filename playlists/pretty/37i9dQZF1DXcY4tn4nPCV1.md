@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,645 likes - 175 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,677 likes - 175 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,34 +13,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 3 | [Lost & Found](https://open.spotify.com/track/1uiwqLV4FAeKyqhkgTowHo) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Lost & Found](https://open.spotify.com/album/3S8Dj7KdbgrmImW3lvKqVW) | 2:41 |
 | 4 | [Homeward](https://open.spotify.com/track/24qT9haJsd0I0Og3xlISgy) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Homeward](https://open.spotify.com/album/3HhEgwWNTLJ70Q6xTJVazv) | 2:30 |
 | 5 | [Vestige](https://open.spotify.com/track/0tf6qHXJXKv0c8xxw4hbZg) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Vestige](https://open.spotify.com/album/0oqY7pg4ghKdcLtAjAAurJ) | 2:53 |
-| 6 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
-| 7 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 |
+| 6 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 |
+| 7 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
 | 8 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
 | 9 | [Winds of Distance](https://open.spotify.com/track/2l2vDxXCwLAt9KKjtWO3lH) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Winds of Distance](https://open.spotify.com/album/0LGZJLAwysvGKC4VbEnFxy) | 2:37 |
 | 10 | [Snow\-Bound](https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Snow\-Bound](https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V) | 2:36 |
 | 11 | [Quiet Sky](https://open.spotify.com/track/1LIybLsVVg5oRJgVsMAWlD) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Quiet Sky](https://open.spotify.com/album/7F3GAMnlnyehjRASL9zm5v) | 2:01 |
 | 12 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 |
-| 13 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
-| 14 | [Bygone times](https://open.spotify.com/track/6oyU04b8W2SHwL72QsDtKy) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Bygone times](https://open.spotify.com/album/4oiA2h89zEUicBtWIyUhLL) | 2:17 |
-| 15 | [Willow in the woods](https://open.spotify.com/track/1tFcwSBMSHsY3SUtdLSE58) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Willow in the woods](https://open.spotify.com/album/2tkPXD2fiHatzQ2EYFY75T) | 2:10 |
+| 13 | [Willow in the woods](https://open.spotify.com/track/1tFcwSBMSHsY3SUtdLSE58) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Willow in the woods](https://open.spotify.com/album/2tkPXD2fiHatzQ2EYFY75T) | 2:10 |
+| 14 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
+| 15 | [Dranei](https://open.spotify.com/track/4wZU7ZzKd5IU752nYYIRB3) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [Dranei](https://open.spotify.com/album/7zIeBBmDSOVBVfX9Wng0hv) | 2:24 |
 | 16 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
-| 17 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 |
-| 18 | [Dranei](https://open.spotify.com/track/4wZU7ZzKd5IU752nYYIRB3) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [Dranei](https://open.spotify.com/album/7zIeBBmDSOVBVfX9Wng0hv) | 2:24 |
+| 17 | [Ciclos de Tiempo](https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [Ciclos de Tiempo](https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU) | 2:45 |
+| 18 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 |
 | 19 | [El gran día](https://open.spotify.com/track/4rXPoBRArkNhJCwvVClS5G) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [El gran día](https://open.spotify.com/album/5hNqLZYrCxLazU9wYpKrcS) | 2:26 |
-| 20 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 |
-| 21 | [The Secrets of Mystery Room](https://open.spotify.com/track/2wcpj4bLieMw83D7pKOgr5) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [The Secrets of Mystery Room](https://open.spotify.com/album/1hEJVDs3qZ8afd8xjEjFft) | 2:37 |
-| 22 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 |
-| 23 | [Autumn Mornings](https://open.spotify.com/track/0tK3OHJkuzvyRqVTSfkSMK) | [Sonny Klimp](https://open.spotify.com/artist/3RWIABJqEYYJJ8mDqjFhv4) | [Autumn Mornings](https://open.spotify.com/album/7sBxMuNsLMooUdhVd8qJw1) | 2:22 |
-| 24 | [Ciclos de Tiempo](https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [Ciclos de Tiempo](https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU) | 2:45 |
-| 25 | [Redeemed](https://open.spotify.com/track/7fdMJJcxFzXLheBdIP0IR3) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Redeemed](https://open.spotify.com/album/1KdV18QxC3aL8KTsAK0WnF) | 2:17 |
-| 26 | [Scordare](https://open.spotify.com/track/77vE4wYi6jMVVYJ95HTrWK) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Scordare](https://open.spotify.com/album/3GGZXHDVHpJYpiOgNFw4KS) | 2:19 |
-| 27 | [Still Glow](https://open.spotify.com/track/7qvooDSzNVJoTbAPEqL9Xe) | [Heiko Kolt](https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB) | [Still Glow](https://open.spotify.com/album/3RZdO52IUjgcOxmZE1gsG3) | 2:23 |
-| 28 | [Lighthouse](https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [Lighthouse](https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf) | 2:25 |
-| 29 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
-| 30 | [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 |
-| 31 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 |
-| 32 | [Before](https://open.spotify.com/track/2QEAwvG61BZ0w3ivNFrhq3) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Before](https://open.spotify.com/album/4dIMtBWCADKOaD1F4uD3Eg) | 2:32 |
-| 33 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 |
+| 20 | [Autumn Mornings](https://open.spotify.com/track/0tK3OHJkuzvyRqVTSfkSMK) | [Sonny Klimp](https://open.spotify.com/artist/3RWIABJqEYYJJ8mDqjFhv4) | [Autumn Mornings](https://open.spotify.com/album/7sBxMuNsLMooUdhVd8qJw1) | 2:22 |
+| 21 | [Redeemed](https://open.spotify.com/track/7fdMJJcxFzXLheBdIP0IR3) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Redeemed](https://open.spotify.com/album/1KdV18QxC3aL8KTsAK0WnF) | 2:17 |
+| 22 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
+| 23 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 |
+| 24 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 |
+| 25 | [The Secrets of Mystery Room](https://open.spotify.com/track/2wcpj4bLieMw83D7pKOgr5) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [The Secrets of Mystery Room](https://open.spotify.com/album/1hEJVDs3qZ8afd8xjEjFft) | 2:37 |
+| 26 | [Still Glow](https://open.spotify.com/track/7qvooDSzNVJoTbAPEqL9Xe) | [Heiko Kolt](https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB) | [Still Glow](https://open.spotify.com/album/3RZdO52IUjgcOxmZE1gsG3) | 2:23 |
+| 27 | [Lighthouse](https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [Lighthouse](https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf) | 2:25 |
+| 28 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
+| 29 | [Scordare](https://open.spotify.com/track/77vE4wYi6jMVVYJ95HTrWK) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Scordare](https://open.spotify.com/album/3GGZXHDVHpJYpiOgNFw4KS) | 2:19 |
+| 30 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 |
+| 31 | [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 |
+| 32 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 |
+| 33 | [Before](https://open.spotify.com/track/2QEAwvG61BZ0w3ivNFrhq3) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Before](https://open.spotify.com/album/4dIMtBWCADKOaD1F4uD3Eg) | 2:32 |
 | 34 | [Dancing Light](https://open.spotify.com/track/2rfxsIrZkWXDPtRVb738B7) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Dancing Light](https://open.spotify.com/album/69tuCuRBv2FQ5I9k2dfzAO) | 2:20 |
 | 35 | [Andiamo](https://open.spotify.com/track/2d8TANAiuSm99uVmymr6Fb) | [Eloisa Duarte](https://open.spotify.com/artist/5y1jHMp7lrJ35DEPQi9XSu) | [Andiamo](https://open.spotify.com/album/4WBfWZqSs9iAnGkgTordyy) | 3:04 |
 | 36 | [Remember](https://open.spotify.com/track/26k4YsPsJyAGh2nzGC5JcR) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Remember](https://open.spotify.com/album/64ws1m4oMSkrVhaedDgzNV) | 2:13 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 174 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 |
 | 175 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 |
 
-Snapshot ID: `aAj6vAAAAACT2a9A/P16TsHXUqNpb2hI`
+Snapshot ID: `aA+e6gAAAACw5+xonob9Lf6sbE4HOvHk`

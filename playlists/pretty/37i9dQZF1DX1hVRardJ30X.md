@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko,  Feid, Cazzu and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,017 likes - 56 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,070 likes - 56 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 10 | [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 |
 | 11 | [GPS](https://open.spotify.com/track/4ayXvu5SyyKs16XyExkEjA) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [GPS](https://open.spotify.com/album/4aHWmt1p9RlzHvaAonA4gx) | 3:51 |
 | 12 | [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 |
-| 13 | [RMPR T](https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Romper T](https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242) | 3:39 |
+| 13 | [RMPR T](https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [RMPR T](https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242) | 3:39 |
 | 14 | [5'3](https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [5'3](https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll) | 3:00 |
 | 15 | [SINGLE](https://open.spotify.com/track/4UVREm3By424k44PT1x7Of) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [SINGLE](https://open.spotify.com/album/42EuLDrBlpkjSCTuS7TfME) | 3:03 |
 | 16 | [Kittypon](https://open.spotify.com/track/5JnEPTKpz6cAT6yelf9NaV) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Kittypon](https://open.spotify.com/album/12s96GiZBd2Zj4AcunguRm) | 3:18 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [SIN AIRE](https://open.spotify.com/track/0zFeDV1p5V9td9V3pFy4uM) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [SIN AIRE](https://open.spotify.com/album/0ikcc9bggZIKkGpH16bajv) | 2:49 |
 | 56 | [Perfume Dior](https://open.spotify.com/track/79puczoWNwwnOSTX4uPhqB) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Perfume Dior](https://open.spotify.com/album/1iv5lEV8vkGY2hObOrRPHK) | 2:02 |
 
-Snapshot ID: `aAueaQAAAABYXamhnlid8ixxws8iQ/hQ`
+Snapshot ID: `aAueaQAAAAC7XGONA89yc6JTg1cjagC7`

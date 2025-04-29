@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,226 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,333 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 98 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 |
 | 99 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 |
 
-Snapshot ID: `aAHM1wAAAABA3GNSPsrEAWzo9ujTC7f3`
+Snapshot ID: `aAHM1wAAAADJtxgN9H7u+p+9ByAgfuMP`

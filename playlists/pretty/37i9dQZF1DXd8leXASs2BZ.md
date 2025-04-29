@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MEZZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,397 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,404 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Do It For Ya \(feat\. INMAN\)](https://open.spotify.com/track/1L1N2tmWJ3hsWeKjuan7zv) | [SUMMER SNOWMAN](https://open.spotify.com/artist/2mKYPpaCdwd90HrdFllTQH), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [Summer Snowman Life](https://open.spotify.com/album/00faJfvgvZiN0ySjYx0lBi) | 2:32 |
 | 100 | [Devil \(feat\. X 1ark & Pxrge Trxxxper\)](https://open.spotify.com/track/2VtLntbUTqSwMg0RJXJd6R) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [X 1ark](https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [Devil \(feat\. X 1ark & Pxrge Trxxxper\)](https://open.spotify.com/album/7veTtc0hj9bsJio7qLRp6D) | 3:50 |
 
-Snapshot ID: `aAeu/AAAAAD5Phumicf5oWHl5VqSVlyH`
+Snapshot ID: `aAeu/AAAAAAiIbVjjFNDLGTogLDUaq2U`

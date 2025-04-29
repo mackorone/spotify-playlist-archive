@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain]
 | 3 | [S2E10: Amazing Asian Women \(Part 4\) with Michele Josue](https://open.spotify.com/episode/0ecXiscD1T5Zn4g0rnEarM) | [Kiss My Mike](https://open.spotify.com/show/4XD5gPK3JEBtdUSeLrpeIi) | [Kiss My Mike](https://open.spotify.com/album/4XD5gPK3JEBtdUSeLrpeIi) | 35:26 |
 | 4 | [\#HoldTheLine: Maria Ressa interviews 'A Thousand Cuts' director Ramona Diaz](https://open.spotify.com/episode/6wP0mr1Evud0fjrCPe4B4U) | [Hold The Line with Maria Ressa](https://open.spotify.com/show/4zgcK3ubsf9rB3I7xtArhM) | [Hold The Line with Maria Ressa](https://open.spotify.com/album/4zgcK3ubsf9rB3I7xtArhM) | 29:54 |
 
-Snapshot ID: `ZIsRSgAAAAAyhjLb0Rq5Cq72KOGgV5lq`
+Snapshot ID: `ZIsRSgAAAAADlplcnq4zk+GodA9RC1cQ`

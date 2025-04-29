@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,538 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,608 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/59TfIBHvlkefLsrMUy2wvz) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル　15th Anniversary Edition](https://open.spotify.com/album/3e54EqkG6yNxDS4D9tfL0X) | 4:35 |
 
-Snapshot ID: `Z3KRdAAAAACiuN26P0DLx1K/LnoLZmf7`
+Snapshot ID: `Z3KRdAAAAAA4Fm5zMFn7/YjdZnTvyE8t`

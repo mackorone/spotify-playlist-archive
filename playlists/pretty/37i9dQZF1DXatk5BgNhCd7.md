@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  ELENA ROSE, Camilo & Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,216 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,231 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 77 | [Tu Re Amor](https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT) | [Tu Re Amor](https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR) | 2:02 |
 | 78 | [Unos Mates Y..](https://open.spotify.com/track/7dloEVp1PTwk27NRdhN0qO) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Unos Mates Y..](https://open.spotify.com/album/5WizAbudG2kNgUcywan0rg) | 2:18 |
 | 79 | [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/track/4xqcRw63fmHQ1X6azpmMj4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/album/4X0Xunac6Ph3kx2ZfTquZG) | 3:43 |
-| 80 | [Robando Sueños \- Clásicos 1.0](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Budapest Scoring Orchestra](https://open.spotify.com/artist/4MSu80qHPVtwgyirGpua81) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 |
+| 80 | [Robando Sueños \- Clásicos 1.0](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 |
 | 81 | [Te invito a bailar](https://open.spotify.com/track/17vFIehhv8hKSXYn5Ce4Pk) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Te invito a bailar](https://open.spotify.com/album/1iV0l1bqtzcGDWkHDYHrDA) | 2:25 |
 | 82 | [Nunca Más](https://open.spotify.com/track/2qptvjuxNuv9wmB1mbW7An) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Nunca Más](https://open.spotify.com/album/0wJUq6gSd1C3EtnzxBuzf0) | 2:45 |
 | 83 | [No Cambié](https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Cambié](https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux) | 3:04 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 98 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 99 | [Nuestra Canción](https://open.spotify.com/track/6lK0niJHknZWdogHBGQDSR) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Nuestra Canción](https://open.spotify.com/album/4RCkuee3gtodGWyP8vc9pG) | 3:31 |
 
-Snapshot ID: `aAvHmAAAAADo9RhSP/+f/oqGvqnykLX6`
+Snapshot ID: `aAvHmAAAAADRnAqRBTqc9FJsKSFTTw8Y`

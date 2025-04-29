@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537027,
+  "num_followers": 537012,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqSeBAAAAAAnZQinKiqvfcETc9jFYBmM",
+  "snapshot_id": "ZqSeBAAAAAA+nBVUpBA3AEaOJ9XxL3HP",
   "tracks": [
     {
       "added_at": "2024-07-25 13:22:22",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+        "name": "L'Aigle Noir",
+        "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
         }
       ],
-      "duration_ms": 180200,
-      "name": "Du c\u00f4te de chez Swann",
-      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
+      "duration_ms": 297426,
+      "name": "L'aigle noir",
+      "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "L'Aigle Noir",
-        "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
       "artists": [
         {
-          "name": "Barbara",
-          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
         }
       ],
-      "duration_ms": 297426,
-      "name": "L'aigle noir",
-      "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
+      "duration_ms": 180200,
+      "name": "Du c\u00f4te de chez Swann",
+      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -936,9 +920,25 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "In\u00e9dits 68-97",
+        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -955,6 +955,22 @@
       "duration_ms": 186693,
       "name": "Fais comme l'oiseau",
       "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Plus Grands Tubes 70's",
         "url": "https://open.spotify.com/album/5p9k85pZ6CRxssmNuNZm6c"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 175280,
       "name": "Lady Lay",
       "url": "https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "In\u00e9dits 68-97",
-        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
     },
     {
       "added_at": "2024-07-25 13:22:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,832 likes - 137 songs - 21 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,833 likes - 137 songs - 21 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 136 | [Voice Drama "KARMA" Part1](https://open.spotify.com/track/0MzRxM0tctOJcjiLqPYQ6l) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \-Battle of Unity\- Round2 “KARMA”](https://open.spotify.com/album/2N4UgRrRYkHqTrSiy82tCz) | 20:09 |
 | 137 | [Voice Drama "KARMA" Part2](https://open.spotify.com/track/4sQ3cVOOCJtPLYsd2ta36D) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \-Battle of Unity\- Round2 “KARMA”](https://open.spotify.com/album/2N4UgRrRYkHqTrSiy82tCz) | 22:59 |
 
-Snapshot ID: `Z+Qw8wAAAAA/mClQeNrcyU/C3uXCRmVI`
+Snapshot ID: `Z+Qw8wAAAAB2c7laE+T5blmKJc6VTPTB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H?si=73788076240f4162">El Grupito de Atrás</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,991 likes - 6 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,990 likes - 6 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,4 +15,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 5 | [HÉCATE: CÓMO INICIAR SU CULTO, RITUALES E HISTORIA \| ‪Pláticas Ocultas](https://open.spotify.com/episode/6ByeGwxyZy6UsCcs5kfQZG) | [Pláticas Ocultas](https://open.spotify.com/show/2cZsUU0aSXsRNNLybIR3px) | [Pláticas Ocultas](https://open.spotify.com/album/2cZsUU0aSXsRNNLybIR3px) | 3:15:49 |
 | 6 | [EP.22 I LA CAGAMOS, Y QUÉ??](https://open.spotify.com/episode/4Du29567ytlwzidHGSaVbU) | [VILLA GODÍN PODCAST](https://open.spotify.com/show/7FG4EizzJGEyvAu5ymwh9J) | [VILLA GODÍN PODCAST](https://open.spotify.com/album/7FG4EizzJGEyvAu5ymwh9J) | 1:05:27 |
 
-Snapshot ID: `Z8+H9AAAAADzUqAmKZZ8LR925+vi2U3+`
+Snapshot ID: `Z8+H9AAAAABxUK9BpuWBPrFHURhoa/IF`

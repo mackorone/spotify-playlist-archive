@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Hey Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,273 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,188 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 50 | [Se Suponía](https://open.spotify.com/track/4RFldgMjUKsJW2xGRyu0w4) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Se Suponía](https://open.spotify.com/album/4h0FM2SbH2h4yxh0ifiGvP) | 2:41 |
 
-Snapshot ID: `aAdEBwAAAADPhAmT8oPYONwcBji/yhOZ`
+Snapshot ID: `aAdEBwAAAADBwx3N/E8Qz+qukFBA65z+`

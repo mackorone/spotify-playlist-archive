@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: DUKES\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 105 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 105 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 104 | [Burn It Down](https://open.spotify.com/track/3M6yGXJs2leGaVKTW4DMBf) | [戴毅聖](https://open.spotify.com/artist/513nQTjNL0CaGDv5Xr63Bv) | [Burn It Down](https://open.spotify.com/album/0kravwjsPpfrxylBixPLGs) | 2:56 |
 | 105 | [Sayang Semua](https://open.spotify.com/track/4DWx74DRqPuvx41LpXnyVr) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Sayang Semua](https://open.spotify.com/album/7K56psaHavStUXHIoDeIYH) | 2:49 |
 
-Snapshot ID: `aAr4uQAAAAD+S+l6d7eqKY2bZBjnKJAY`
+Snapshot ID: `aAr4uQAAAACd8AGOKWs50rWYNaHRrsjL`

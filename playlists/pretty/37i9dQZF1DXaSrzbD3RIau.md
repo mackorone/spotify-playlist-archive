@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain]
 | 21 | [Vivien Westwood](https://open.spotify.com/track/4nZ9a8T5mbh260T7sNJWnK) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 3:05 |
 | 22 | [Mask on](https://open.spotify.com/track/6taiSlVSCGtZp71I09QnFL) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:40 |
 
-Snapshot ID: `Z1lbhAAAAABmhHApel9sraaJkHG8cGBR`
+Snapshot ID: `Z1lbhAAAAAC1YgoBCCnV6yIaTavJNfpK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: AiScReam
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,311 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,347 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 |
 | 60 | [イイじゃん](https://open.spotify.com/track/0jj4mLjwYcos3PPzjQwVzh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [M!Ⅹ](https://open.spotify.com/album/53EabvOlVDeKXH1A5uBX0o) | 3:18 |
 
-Snapshot ID: `aAujlAAAAABzODQ3Xe+odkibF+sUTIyd`
+Snapshot ID: `aAujlAAAAADgXzPLSlvST5rvuHfMRCUp`

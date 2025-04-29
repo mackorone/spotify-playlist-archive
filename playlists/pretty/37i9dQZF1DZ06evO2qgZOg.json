@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 298351,
+  "num_followers": 298428,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADgVTsdg+097MT/4J+ieIL2",
+  "snapshot_id": "aA1zgAAAAACVJFBZ/IDZFI8SDG6TewyP",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Standing in the Storm",
-      "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 192307,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Standing in the Storm",
+      "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 185579,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/0CLfwyQXIF4e9dZAzCHsol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
     },
     {
       "added_at": null,

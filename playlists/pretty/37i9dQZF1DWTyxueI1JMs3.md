@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,908 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,915 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 39 | [初恋X](https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN) | [碓氷真澄\(CV:白井悠介\)](https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf) | [A3! SUNNY SPRING EP](https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e) | 4:21 |
 | 40 | [UNMASK](https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY) | [クリス\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5), [ファントム\[ガイ\(CV:日野聡\)\]](https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 5:02 |
 | 41 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 |
-| 42 | [はじまりはカルテット](https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx) | [西園寺エニス\[シトロン\(CV:五十嵐雅\)\]](https://open.spotify.com/artist/5vTwSfY85PsdBXfG1Q1C5h), [向井庸太\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/7KbPsLxrEvnOvnkQfsUwdH) | [A3! BRIGHT SPRING EP](https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm) | 3:54 |
-| 43 | [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 |
+| 42 | [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 |
+| 43 | [はじまりはカルテット](https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx) | [西園寺エニス\[シトロン\(CV:五十嵐雅\)\]](https://open.spotify.com/artist/5vTwSfY85PsdBXfG1Q1C5h), [向井庸太\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/7KbPsLxrEvnOvnkQfsUwdH) | [A3! BRIGHT SPRING EP](https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm) | 3:54 |
 | 44 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 |
 | 45 | [餓鬼扱い](https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm) | [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:17 |
 | 46 | [僕らの絆](https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU) | [ロミオ\[佐久間咲也\(CV:酒井広大\)\]](https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ), [ジュリアス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX) | [A3! First SPRING EP](https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 49 | [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 |
 | 50 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |
 
-Snapshot ID: `aAfoOwAAAACJJCOz8jP++PeqtMyuo8lJ`
+Snapshot ID: `aAfoOwAAAADoqr/w7WEDasMqr/f8RWG6`

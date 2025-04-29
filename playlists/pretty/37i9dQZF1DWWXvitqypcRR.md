@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,507 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 49 | [Nomads \- Matthias Tanzmann Remix](https://open.spotify.com/track/5M3lkHXxY7bDhaUyJKrjRS) | [Cle](https://open.spotify.com/artist/0ZaCneGKjg7Wu3FiJ5W9sj), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [Nomads](https://open.spotify.com/album/5Y28SdD0tAJ3psEekwyOF3) | 8:07 |
 | 50 | [3 Tage Wach](https://open.spotify.com/track/72cfj9t5LxEkicluIvNmQc) | [Lützenkirchen](https://open.spotify.com/artist/22kkH3Nik327a1kc4OXz8d) | [Pandora Electronica](https://open.spotify.com/album/7DykKOPzXFb27tOyyxsAMy) | 5:22 |
 
-Snapshot ID: `Z++aOQAAAADtaQEFV0FQpCnqRAqU0JMy`
+Snapshot ID: `Z++aOQAAAAAQXrbm/NCAkQV7FI6Rztx7`

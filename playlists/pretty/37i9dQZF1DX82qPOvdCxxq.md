@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Holy Gather \| Artwork: Dana Shine
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,257 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,270 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 89 | [Clues](https://open.spotify.com/track/07VK6LDYFq9eyfiPPnUEof) | [Josh Bissell](https://open.spotify.com/artist/3ONpzdlUSJTTVG3HZhOSwY), [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Clues](https://open.spotify.com/album/14eDXqEaHogSftCDyPufM2) | 3:51 |
 | 90 | [RISE UP](https://open.spotify.com/track/79KYnTIQ8uelLIfEGc41Ci) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX) | [RISE UP](https://open.spotify.com/album/7uE8g1JB5phOuagzWFnwph) | 2:59 |
 
-Snapshot ID: `aAIm/QAAAADgjGxZGJUYxiWwYXJi6lG/`
+Snapshot ID: `aAIm/QAAAADYITwSBVQR0rJRIX80nCp9`

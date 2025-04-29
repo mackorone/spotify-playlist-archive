@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2025 official playlist\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,839 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,841 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 27 | [Waterfalls](https://open.spotify.com/track/4wJ8ohShAABTiQoEukLeKO) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [CrazySexyCool \(30th Anniversary Edition\)](https://open.spotify.com/album/1ohF0hXuHF9v1jlvSGZ7zx) | 4:40 |
 | 28 | [Freaks](https://open.spotify.com/track/4OSKEMkdZkjaHtW5FEbCE6) | [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip), [Vicious](https://open.spotify.com/artist/2N6miqLGY0TbLGcG42naDC) | [Play](https://open.spotify.com/album/5vZXqBKsrio0mdQvQHMHmE) | 3:09 |
 
-Snapshot ID: `Z2WrkQAAAADYZ3y6hQQKXvoIQJSOIxxn`
+Snapshot ID: `Z2WrkQAAAABzSRPvovZ4/TXu1VXm/P75`

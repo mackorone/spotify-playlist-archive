@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie & Alternative\. Cover: SONS
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,016 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,010 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 69 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 |
 | 70 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 
-Snapshot ID: `aAs3wgAAAAB6QBHJk/HYkO4RiuCpmt5Q`
+Snapshot ID: `aAs3wgAAAAAFYY4eak5U/1uDKc+sEcYw`

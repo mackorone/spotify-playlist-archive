@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Welcome to the BTS's universe\. A.R.M.Y's World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,803,780 likes - 272 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,803,745 likes - 272 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 271 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 272 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `Z8p9egAAAACymj1F9FgNay6xtoJBHig6`
+Snapshot ID: `Z8p9egAAAAAug5dO7EsktCjUPOxjN1FG`

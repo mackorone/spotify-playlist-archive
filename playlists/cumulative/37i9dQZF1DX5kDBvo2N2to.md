@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-290 songs - 16 hr 4 min
+292 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [99 fel](https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [KALLAX CARGO](https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD) | 3:43 | 2024-11-08 | 2025-04-27 |
 | [A Love Song](https://open.spotify.com/track/6pgN5BnqxYHHB9MDUc3Nij) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [A Love Song](https://open.spotify.com/album/6kqIcSCJZntogK5Wtc1rvp) | 2:19 | 2024-10-10 | 2024-11-09 |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-28 | 2024-10-30 |
-| [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 |  |
+| [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-04-29 |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 | 2025-04-11 |  |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 |  |
@@ -108,6 +108,7 @@
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 | 2025-03-14 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 | 2025-04-02 |  |
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
+| [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 | 2025-04-24 |  |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
 | [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-13 |  |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-28 | 2024-08-30 |
@@ -162,6 +163,7 @@
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-06-28 | 2024-08-09 |
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-06-28 | 2024-08-23 |
 | [Jobba](https://open.spotify.com/track/4vrPc2YtsWzhB8K2t9S9WP) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Jobba](https://open.spotify.com/album/3XAs2lplnR6bzHWrxHIwwa) | 2:41 | 2025-03-27 | 2025-04-04 |
+| [Josephine](https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Josephine](https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx) | 2:15 | 2025-04-24 |  |
 | [Karma](https://open.spotify.com/track/0MinwE2P21fPkMPzVSP8jM) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Karma](https://open.spotify.com/album/2LereCO7XrmyUn5e2WP1q4) | 3:31 | 2024-10-24 | 2024-11-10 |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-28 | 2025-03-08 |
 | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/track/77PM2HhareeItj0VnzTeEr) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/album/61U8pP2GeqCEJihnyiau83) | 2:51 | 2025-04-10 |  |
@@ -239,7 +241,7 @@
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 |  |
 | [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 |  |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 |  |
-| [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 |  |
+| [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 | 2025-04-29 |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 | 2025-02-28 |
 | [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 | 2024-10-05 |

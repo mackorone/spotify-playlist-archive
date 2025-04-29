@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,316 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,322 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 4:23 |
 | 75 | [O Destino Não Quis \- Acústica](https://open.spotify.com/track/7cn3KL7hU1vzMiCJwUMwQY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva: Acústicas](https://open.spotify.com/album/42stLnqYZmfD7QL82nEzEW) | 3:30 |
 
-Snapshot ID: `Zof52QAAAAB3qNynA4IOsVd6VG9o9Hh9`
+Snapshot ID: `Zof52QAAAABulLH65LqIMvBaKpFj5ON9`

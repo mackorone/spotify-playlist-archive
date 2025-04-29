@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Avolia
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,809 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,817 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Hari Itu](https://open.spotify.com/track/5RCiora7HPlQQPRRJk2JMW) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 4:08 |
 | 50 | [Memulai Kembali](https://open.spotify.com/track/1kWgz7UZzRvfnXZekAxQzn) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Memulai Kembali](https://open.spotify.com/album/3gUKTlTmycujBPo7iWOcuN) | 4:16 |
 
-Snapshot ID: `Z+wbogAAAAD3OvRpcYjt9GuW6MdzdHui`
+Snapshot ID: `Z+wbogAAAACuItl7TEVcpEQbaZ46n+yw`

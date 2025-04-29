@@ -3373,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL"
+      },
+      "artists": [
+        {
+          "name": "Prospective",
+          "url": "https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169552,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0"
+    },
+    {
+      "album": {
         "name": "Broken Bloodlines",
         "url": "https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM"
       },
@@ -7820,7 +7838,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 234241,
       "name": "Fed by Violence",
       "url": "https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO"

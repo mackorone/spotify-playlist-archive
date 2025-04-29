@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,037 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,070 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Dead or Love](https://open.spotify.com/track/0TcE0pSt40HlHGpqS3UkBw) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Dead or Love](https://open.spotify.com/album/4ck8tWsebkqNWfDO9F2rDr) | 2:55 |
 | 85 | [シャボン・テンション！](https://open.spotify.com/track/4P6eX4ACXzaDc00stg7dRX) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [シャボン・テンション！](https://open.spotify.com/album/2NPOxXkOOCS0REasJBqV7e) | 3:32 |
 
-Snapshot ID: `aApSAgAAAAB5WYwYA36AKiGV6TdT8DKd`
+Snapshot ID: `aApSAgAAAACudNg8Qf4lNiE3h76tVoJm`

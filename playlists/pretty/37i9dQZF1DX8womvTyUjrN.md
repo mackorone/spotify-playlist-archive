@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,081 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,075 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [NIÑO BUENO](https://open.spotify.com/track/5MgiVCBrzpYAtjArJbOD8R) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado B](https://open.spotify.com/album/5hG0O2DM6NZtHoUUEUSREM) | 3:43 |
 | 50 | [sorry por esta canción \(Londres\)](https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [sorry por esta canción \(Londres\)](https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB) | 3:34 |
 
-Snapshot ID: `aAsI/wAAAABF9UkDRBony7kRGJ6MiMXm`
+Snapshot ID: `aAsI/wAAAACZmY9n7xuDf5wR2wPqeKvl`

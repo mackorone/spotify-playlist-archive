@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 263224,
+  "num_followers": 263515,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAt54wAAAADnItnW9uBjEnTwD0cdA/qP",
+  "snapshot_id": "aAt54wAAAAByVL8Skg47i70HiOJmcBYp",
   "tracks": [
     {
       "added_at": "2025-04-25 12:02:43",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
+      "duration_ms": 330546,
+      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -407,22 +423,6 @@
       "duration_ms": 224335,
       "name": "As Irrational As Love",
       "url": "https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 330546,
-      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Sunny Days",
-        "url": "https://open.spotify.com/album/5hf4XdvIIGdEncCv8VTRC6"
-      },
-      "artists": [
-        {
-          "name": "Nordic Quartet",
-          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/1Y3KYcdgspQnyHqCPQWbcF"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/5hf4XdvIIGdEncCv8VTRC6"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/1Y3KYcdgspQnyHqCPQWbcF"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 271584,
-      "name": "Everything I Love",
-      "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Blue Night Bossa",
         "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 231377,
       "name": "Standing Tall",
       "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 271584,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 255251,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 250266,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 255251,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
       "artists": [
         {
-          "name": "Stockholm Whereabouts",
-          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
         }
       ],
-      "duration_ms": 233625,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
         "name": "Smile For Me",
         "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 210965,
       "name": "A Bossa for Love",
       "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "Green Grapes",
-        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "Woodblock Print",
-      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Sunset Martini",
         "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222599,
       "name": "Enjoy Your Cigar",
       "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Florian\u00f3polis",
-        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Vivendo",
         "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Every Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+        "name": "Florian\u00f3polis",
+        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
       },
       "artists": [
         {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
         }
       ],
-      "duration_ms": 213931,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
+      "duration_ms": 190500,
+      "name": "Florian\u00f3polis",
+      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -1343,6 +1327,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -1607,54 +1607,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "I Mean To Say",
-        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "I Mean To Say",
-      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "Once Forgotten",
-        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
-      },
-      "artists": [
-        {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
-        }
-      ],
-      "duration_ms": 247711,
-      "name": "Once Forgotten",
-      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1695,6 +1647,22 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
+        "name": "I Mean To Say",
+        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "I Mean To Say",
+      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
       },
@@ -1707,6 +1675,54 @@
       "duration_ms": 300360,
       "name": "Baubles, Bangles and Beads",
       "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Once Forgotten",
+        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 247711,
+      "name": "Once Forgotten",
+      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -1727,22 +1743,6 @@
       "duration_ms": 293280,
       "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
-      },
-      "artists": [
-        {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
@@ -2119,6 +2103,38 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "We Could Be Lovers",
+        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Quoi, Quoi, Quoi",
+      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
         "name": "Tanto Tempo",
         "url": "https://open.spotify.com/album/4HVc4yoKzUdtHvZ8zGGHe4"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 186477,
       "name": "Seu Sorriso",
       "url": "https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
-        "name": "We Could Be Lovers",
-        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Quoi, Quoi, Quoi",
-      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
     },
     {
       "added_at": "2025-04-25 12:02:43",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-04-25 12:02:43",
       "album": {
-        "name": "Telecoteco",
-        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
-      },
-      "artists": [
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Teleco-Teco",
-      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2025-04-25 12:02:43",
-      "album": {
         "name": "Black Orpheus",
         "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 254533,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
+    },
+    {
+      "added_at": "2025-04-25 12:02:43",
+      "album": {
+        "name": "Telecoteco",
+        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
+      },
+      "artists": [
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Teleco-Teco",
+      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
     },
     {
       "added_at": "2025-04-25 12:02:43",

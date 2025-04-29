@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🍌🐥 chicken banana 🐥🍌
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,254 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,226 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 101 | [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 |
 | 102 | [Vem är jag utan dig](https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:17 |
 
-Snapshot ID: `aAot6wAAAABlut+benuG7PxC5NBY6pz8`
+Snapshot ID: `aAot6wAAAADY15ASR4grrpyHQ4yGHJSl`

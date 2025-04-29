@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Zinoleesky, Fireboy DML and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,416 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,587 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 53 | [2 coups d'avance](https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 2:43 |
 | 54 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
 
-Snapshot ID: `aAtTdgAAAAAP4+/uHrSXBmZlhIASVTB9`
+Snapshot ID: `aAtTdgAAAAD+tWKkBuE3lN1FVMm57bJZ`

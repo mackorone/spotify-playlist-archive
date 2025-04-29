@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,733 likes - 91 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,802 likes - 91 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 90 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 |
 | 91 | [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 |
 
-Snapshot ID: `Z8GQ/AAAAAAagCklLD5GZrYMxs9bGiDm`
+Snapshot ID: `Z8GQ/AAAAAACPbg8T1zgkiTalJAIOZsg`

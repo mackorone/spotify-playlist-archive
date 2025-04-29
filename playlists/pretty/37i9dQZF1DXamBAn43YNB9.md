@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,505 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,553 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 99 | [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 |
 | 100 | [Heights](https://open.spotify.com/track/7ywfbPWKYt9rO2J4D7ZLP1) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Heartline](https://open.spotify.com/album/17WUzrpoONxTwLrx9BGktP) | 4:13 |
 
-Snapshot ID: `Z+qSEQAAAADQgO1ivM4nzn+yKPXGeRky`
+Snapshot ID: `Z+qSEQAAAADxrovqvUtVIBZajwe67gcg`

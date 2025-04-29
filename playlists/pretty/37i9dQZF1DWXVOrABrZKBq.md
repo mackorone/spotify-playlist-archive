@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: High Klassified
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,278 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,292 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 |
 | 50 | [Something About Us](https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Something About Us](https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH) | 3:12 |
 
-Snapshot ID: `Z/iT3wAAAADPNMirV7l5Yc65jLGCx/OA`
+Snapshot ID: `Z/iT3wAAAABpWHOObVQWY/MH4gFvAMqo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,937 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,893 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [PLEASE](https://open.spotify.com/track/7oIy5tbk0oUTnuZ2jeJ7Xo) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [PLEASE](https://open.spotify.com/album/7rEQ82f79p2pl05LQ0WQ3K) | 3:27 |
 | 80 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
 
-Snapshot ID: `aA6eBAAAAAAUfh1lttX3WNWbzrYX00Ro`
+Snapshot ID: `aA6eBAAAAABdKSR3ydE2R/T6Rg3xLiYK`

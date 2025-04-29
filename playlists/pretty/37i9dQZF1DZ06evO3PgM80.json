@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20591,
+  "num_followers": 20592,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAB66jsuF9uqJA9h0DgRip2x",
+  "snapshot_id": "aA1zgAAAAACIQzGmz99Ksh+exfLE1540",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00e9s Bom",
-        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tu \u00e9s Bom",
-      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00e9s Bom",
+        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tu \u00e9s Bom",
+      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo O Que Sou",
         "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 270053,
       "name": "Tudo O Que Sou",
       "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mystery Of Christ",
+        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hambre Y Sed",
         "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mystery Of Christ",
-        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
     },
     {
       "added_at": null,

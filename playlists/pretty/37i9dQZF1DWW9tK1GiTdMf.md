@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ chiello in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,278 likes - 101 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,281 likes - 101 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 100 | [Servirà La Pioggia](https://open.spotify.com/track/0xwZ2U4ANjCiwbHdrCMq0Y) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Servirà La Pioggia](https://open.spotify.com/album/3HS2Yx5Jd2AYaNOz5b5JOW) | 2:38 |
 | 101 | [VITAMINE](https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [VITAMINE](https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9) | 2:17 |
 
-Snapshot ID: `aAq0uAAAAACRVi/cPODW7OPHLVpxaxIK`
+Snapshot ID: `aAq0uAAAAABGgD8pUWiwvJMc72HS617i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,661,505 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,662,801 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Departure Lane](https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 2:46 |
 | 50 | [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/1bfWK1SIBYXzWA0Ypt4KlD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Munjya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ePim81cUsLymwQDqPsO6M) | 3:08 |
 
-Snapshot ID: `aAtmwwAAAACRPnka6R5fi1qXahrW7QHe`
+Snapshot ID: `aAtmwwAAAABOk2qzvk7V+E1e6euCJOJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,733 likes - 117 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,951 likes - 117 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 116 | [With the Flow](https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [With the Flow](https://open.spotify.com/album/1yKVBgjfkVmAPPsRhGEBmi) | 3:02 |
 | 117 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 |
 
-Snapshot ID: `Z/kkwQAAAAC8+5hXxToygqjZ/JDmHiVk`
+Snapshot ID: `Z/kkwQAAAAAUAANC2t5IqycBY7Owy3wF`

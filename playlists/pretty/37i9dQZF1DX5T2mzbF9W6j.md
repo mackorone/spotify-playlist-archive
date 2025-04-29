@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,285 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,316 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [nie mam dla ciebie nic](https://open.spotify.com/track/0CrP2iqI8dOZG75eLtr2LX) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [nie mam dla ciebie nic](https://open.spotify.com/album/2SOM72XykpsANO0wWmOoU0) | 2:41 |
 | 60 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
 
-Snapshot ID: `Z+aMfwAAAAADBGWQNGAXBluXD+FYMuOq`
+Snapshot ID: `Z+aMfwAAAACBIvk3ohRUAckzA1swPZqf`

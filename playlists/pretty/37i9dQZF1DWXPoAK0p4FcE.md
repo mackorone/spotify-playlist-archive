@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: loserpop
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,607 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,600 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ไม่เคยรู้](https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ไม่เคยรู้](https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io) | 5:02 |
 | 50 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 |
 
-Snapshot ID: `aAHk7gAAAAB18DQiVJ8M9IP4XVHyODjg`
+Snapshot ID: `aAHk7gAAAACI+bmVo4moLj6/T8NFnhrR`

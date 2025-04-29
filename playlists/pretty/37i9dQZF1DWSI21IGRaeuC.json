@@ -1,29 +1,13 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 54529,
+  "num_followers": 54588,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAvxhwAAAACNw5mJKiLN0LgvurEO6BxH",
+  "snapshot_id": "aBAbLAAAAAB+fsmNKqOwGYtJ5IrArOAi",
   "tracks": [
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/0Qt32OnZmF7z5iRQ9Bytnm"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 171390,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/46UzMU4yX1D4ARkMhEiPe2"
-    },
     {
       "added_at": "2025-04-18 20:13:27",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 387540,
       "name": "Rock Ya Soul",
       "url": "https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR"
-    },
-    {
-      "added_at": "2025-04-25 20:33:11",
-      "album": {
-        "name": "Yalla Habibi",
-        "url": "https://open.spotify.com/album/2Ug29UHBsikpysJlpSZS2s"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Yalla Habibi",
-      "url": "https://open.spotify.com/track/7gghABdext1rWaAr6U508t"
     },
     {
       "added_at": "2025-04-04 04:00:27",
@@ -73,6 +41,22 @@
       "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
     },
     {
+      "added_at": "2025-04-25 20:33:11",
+      "album": {
+        "name": "spontaneous combustion!",
+        "url": "https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B"
+      },
+      "artists": [
+        {
+          "name": "Jay Crusoe",
+          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
+        }
+      ],
+      "duration_ms": 342790,
+      "name": "spontaneous combustion!",
+      "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
+    },
+    {
       "added_at": "2025-04-25 04:00:56",
       "album": {
         "name": "What You Say EP",
@@ -89,20 +73,20 @@
       "url": "https://open.spotify.com/track/2aOlGcKkcYYLABhtLDAvqn"
     },
     {
-      "added_at": "2025-04-18 20:13:27",
+      "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "LET'S GO B$NG!/FICOU BRABA",
-        "url": "https://open.spotify.com/album/6e6rrZ7NwsW2ApiEYpVMqR"
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/0Qt32OnZmF7z5iRQ9Bytnm"
       },
       "artists": [
         {
-          "name": "Milion",
-          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 213011,
-      "name": "LET'S GO B$NG!",
-      "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
+      "duration_ms": 171390,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/46UzMU4yX1D4ARkMhEiPe2"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -119,6 +103,38 @@
       "duration_ms": 233306,
       "name": "Won't Stop (Don't)",
       "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+    },
+    {
+      "added_at": "2025-04-25 20:33:11",
+      "album": {
+        "name": "Yalla Habibi",
+        "url": "https://open.spotify.com/album/2Ug29UHBsikpysJlpSZS2s"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Yalla Habibi",
+      "url": "https://open.spotify.com/track/7gghABdext1rWaAr6U508t"
+    },
+    {
+      "added_at": "2025-04-18 20:13:27",
+      "album": {
+        "name": "LET'S GO B$NG!/FICOU BRABA",
+        "url": "https://open.spotify.com/album/6e6rrZ7NwsW2ApiEYpVMqR"
+      },
+      "artists": [
+        {
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        }
+      ],
+      "duration_ms": 213011,
+      "name": "LET'S GO B$NG!",
+      "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
     },
     {
       "added_at": "2025-04-11 04:00:29",
@@ -237,22 +253,6 @@
       "url": "https://open.spotify.com/track/2zOUPzHq4kCR3QkYTpYDTH"
     },
     {
-      "added_at": "2025-04-25 20:33:11",
-      "album": {
-        "name": "spontaneous combustion!",
-        "url": "https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B"
-      },
-      "artists": [
-        {
-          "name": "Jay Crusoe",
-          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "spontaneous combustion!",
-      "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
-    },
-    {
       "added_at": "2025-03-19 18:08:52",
       "album": {
         "name": "I Remember (Tommy Phillips Remix)",
@@ -277,6 +277,42 @@
       "url": "https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51"
     },
     {
+      "added_at": "2025-04-29 00:19:56",
+      "album": {
+        "name": "Dub House",
+        "url": "https://open.spotify.com/album/4pyS6MwwF0jH6II1MPd8J0"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        },
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        }
+      ],
+      "duration_ms": 387692,
+      "name": "Dub House - Kepler Remix",
+      "url": "https://open.spotify.com/track/56mv7LWUHlutICLUknXnLr"
+    },
+    {
+      "added_at": "2025-04-25 20:33:11",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0co3Pmn6g8CSCydynqPi7f"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5kR8mAWFPLsQsUQlLCNKZt"
+    },
+    {
       "added_at": "2025-03-07 05:00:40",
       "album": {
         "name": "Gimme The Cheese",
@@ -291,6 +327,26 @@
       "duration_ms": 177230,
       "name": "Gimme The Cheese",
       "url": "https://open.spotify.com/track/24Zma7ZOAwuz7TFhjiLlM0"
+    },
+    {
+      "added_at": "2025-02-28 05:00:37",
+      "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "K.E.T. - Amine Mix",
+      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
       "added_at": "2025-04-18 04:00:53",
@@ -347,42 +403,6 @@
       "duration_ms": 223269,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/474Ch3lurYss2Ci8tX9zJy"
-    },
-    {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "K.E.T. - Amine Mix",
-      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
-    },
-    {
-      "added_at": "2025-04-25 20:33:11",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0co3Pmn6g8CSCydynqPi7f"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5kR8mAWFPLsQsUQlLCNKZt"
     },
     {
       "added_at": "2025-03-05 18:48:25",
@@ -2007,22 +2027,6 @@
       "duration_ms": 144383,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 372923,
-      "name": "Fascinator",
-      "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
     },
     {
       "added_at": "2024-11-06 22:50:08",

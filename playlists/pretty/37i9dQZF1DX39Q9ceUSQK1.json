@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe alternative & rock releases. Cover: TAPE TOY",
-  "num_followers": 56929,
+  "num_followers": 56934,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAs9pgAAAAB96Pnev03dsJhDUNFpQ19n",
+  "snapshot_id": "aA81kQAAAACFQaU2ukTou4quB9S7xiKZ",
   "tracks": [
     {
       "added_at": "2025-04-25 07:45:42",
@@ -27,6 +27,38 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
+        "name": "Tyrants",
+        "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Tyrants",
+      "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
+        "name": "Canvas Horizon",
+        "url": "https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC"
+      },
+      "artists": [
+        {
+          "name": "JB Meijers",
+          "url": "https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Canvas Horizon",
+      "url": "https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
         "name": "viagr aboys",
         "url": "https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB"
       },
@@ -43,18 +75,18 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+        "name": "I Remember You A Dancer",
+        "url": "https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
         }
       ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+      "duration_ms": 240960,
+      "name": "I Remember You A Dancer",
+      "url": "https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H"
     },
     {
       "added_at": "2025-04-25 07:45:42",
@@ -107,6 +139,38 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
         "name": "SHOUT SONG",
         "url": "https://open.spotify.com/album/4dL8hbklNH8Kne7DnMW2BE"
       },
@@ -127,54 +191,6 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
-        "name": "Last Girls At The Party",
-        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "Last Girls At The Party",
-      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "Tyrants",
-        "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Tyrants",
-      "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "Canvas Horizon",
-        "url": "https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC"
-      },
-      "artists": [
-        {
-          "name": "JB Meijers",
-          "url": "https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Canvas Horizon",
-      "url": "https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -191,6 +207,70 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/6lZE2y3A9UxhWIrlNd0pkX"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 194387,
+      "name": "Lights Fall",
+      "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
+        "name": "How To Be Cool At Parties/Circe",
+        "url": "https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "Circe",
+      "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
+        "name": "Back of the Bus",
+        "url": "https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m"
+      },
+      "artists": [
+        {
+          "name": "Waltzburg",
+          "url": "https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Back of the Bus",
+      "url": "https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
+        "name": "Spike Island",
+        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 282459,
+      "name": "Spike Island",
+      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
+    },
+    {
+      "added_at": "2025-04-25 07:45:42",
+      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -203,22 +283,6 @@
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "I Remember You A Dancer",
-        "url": "https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "I Remember You A Dancer",
-      "url": "https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H"
     },
     {
       "added_at": "2025-04-25 07:45:42",
@@ -259,22 +323,6 @@
     {
       "added_at": "2025-04-25 07:45:42",
       "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/6lZE2y3A9UxhWIrlNd0pkX"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 194387,
-      "name": "Lights Fall",
-      "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
         "name": "Higher Places",
         "url": "https://open.spotify.com/album/2OysUuV8Y20yUjyAaXLD0O"
       },
@@ -287,22 +335,6 @@
       "duration_ms": 199466,
       "name": "Partees2die4",
       "url": "https://open.spotify.com/track/1SXcLdcu7e52xvst9NL0NX"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "How To Be Cool At Parties/Circe",
-        "url": "https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe"
-      },
-      "artists": [
-        {
-          "name": "Sex Mask",
-          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "Circe",
-      "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
     },
     {
       "added_at": "2025-04-25 07:45:42",
@@ -351,22 +383,6 @@
       "duration_ms": 310266,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "Back of the Bus",
-        "url": "https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m"
-      },
-      "artists": [
-        {
-          "name": "Waltzburg",
-          "url": "https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Back of the Bus",
-      "url": "https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o"
     },
     {
       "added_at": "2025-04-25 07:45:42",
@@ -479,22 +495,6 @@
       "duration_ms": 140108,
       "name": "IMAGINE",
       "url": "https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey"
-    },
-    {
-      "added_at": "2025-04-25 07:45:42",
-      "album": {
-        "name": "Spike Island",
-        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 282459,
-      "name": "Spike Island",
-      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
     },
     {
       "added_at": "2025-04-25 07:45:42",

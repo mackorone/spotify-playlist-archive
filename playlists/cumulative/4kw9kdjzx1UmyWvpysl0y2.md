@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-969 songs - 2 day 6 hr 42 min
+970 songs - 2 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Never Fall](https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Never Fall](https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab) | 3:41 | 2024-11-14 | 2025-02-21 |
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-12 | 2023-07-09 |
 | [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 | 2022-05-05 |
+| [NEW HEIGHTS](https://open.spotify.com/track/4foDugtrBpG8suDqXiXY5n) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [NEW HEIGHTS](https://open.spotify.com/album/1Zz4OoaOCNZbfQV7ZJxays) | 3:12 | 2025-04-28 |  |
 | [New Worlds](https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [New Worlds](https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw) | 3:12 | 2023-03-22 | 2023-06-15 |
 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 | 2024-03-08 | 2024-06-01 |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |

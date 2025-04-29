@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Flowerphagia",
+        "url": "https://open.spotify.com/album/0foScpAXLbKDO82farKNyL"
+      },
+      "artists": [
+        {
+          "name": "Rakuen Shigai",
+          "url": "https://open.spotify.com/artist/53wF30ZI8e4E9GHFLKCkNh"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Flowerphagia",
+      "url": "https://open.spotify.com/track/5xXCEamnhAvk9MJ7ICTNVT"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },

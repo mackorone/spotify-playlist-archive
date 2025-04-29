@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,796 likes - 78 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 78 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 77 | [ACTIN UP](https://open.spotify.com/track/1Nk1kQx3HmUaobcAu9S26f) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ACTIN UP](https://open.spotify.com/album/5qzqgeNDDbRmfiw1umMIM3) | 2:13 |
 | 78 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |
 
-Snapshot ID: `aApSAwAAAACS47lVw+PNxUU7uSr+GBB8`
+Snapshot ID: `aApSAwAAAABSX3Ezkhgud/W6o9Oe9fhH`

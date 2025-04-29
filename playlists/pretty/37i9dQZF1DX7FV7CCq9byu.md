@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,465 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,490 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 7 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 |
 | 8 | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 |
 | 9 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
-| 10 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 |
-| 11 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 12 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
-| 13 | [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 |
-| 14 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 |
-| 15 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
-| 16 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
-| 17 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 |
-| 18 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 10 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 |
+| 11 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 |
+| 12 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 13 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
+| 14 | [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 |
+| 15 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 16 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 |
+| 17 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
+| 18 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 19 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 |
 | 20 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 | 21 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 109 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 | 110 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 
-Snapshot ID: `aAq0iwAAAABY4uJwi6/fiWuMAnVJfUvw`
+Snapshot ID: `aA8qpAAAAADup5XDRIiRpWq2LFyOvDby`

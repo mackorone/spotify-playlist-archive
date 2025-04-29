@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KRU, Lorde, d4vd, Elizabeth Tan, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,759 likes - 119 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,763 likes - 119 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 118 | [those summer nights](https://open.spotify.com/track/7o0KEXaaVCSXM9QrYNen6j) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [those summer nights](https://open.spotify.com/album/1710WKdJ5DVt0ZYAhyQsKf) | 3:25 |
 | 119 | [together](https://open.spotify.com/track/0B6bAjWKR7trUwZXxmsLdX) | [leon geldard](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [together](https://open.spotify.com/album/2BiguYLSZ0YHk7Na8jp6aI) | 3:40 |
 
-Snapshot ID: `aAsmTAAAAAB5QUGFZuE0d5JfpxRbEjuS`
+Snapshot ID: `aAsmTAAAAADiba8O0wDasRDz6fjPUf1U`

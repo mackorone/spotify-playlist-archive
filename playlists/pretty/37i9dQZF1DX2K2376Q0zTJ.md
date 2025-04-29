@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,949 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,952 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [True Feelings](https://open.spotify.com/track/24nL2PxXk3NGcuHi8EH5Nd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 2:46 |
 | 50 | [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 |
 
-Snapshot ID: `aAfmWwAAAADpBu+idLnuFKDVtVETf4Wn`
+Snapshot ID: `aAfmWwAAAAAmH22ca6pQE8RbkZAgf//M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,148 likes - 82 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,214 likes - 82 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 81 | [La Solución](https://open.spotify.com/track/7bP9j03GToxQBxQCqxk2Od) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro](https://open.spotify.com/album/5Qj50rqzTCvfmoXoUhi7HN) | 2:30 |
 | 82 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
 
-Snapshot ID: `Z+bqLQAAAAAB4Q+5lbUv3GYXWfxNPEuj`
+Snapshot ID: `Z+bqLQAAAACkFPeYvJoIp8V56xvFA+Kb`

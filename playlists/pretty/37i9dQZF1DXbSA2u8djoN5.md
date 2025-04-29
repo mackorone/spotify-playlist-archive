@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: B.U.G\. Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,684 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,692 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Triton](https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Rheda](https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct) | [Triton](https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0) | 2:08 |
 | 50 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 
-Snapshot ID: `aAqmbgAAAADVgK+yDN+EH8i9Y//Ga0Zv`
+Snapshot ID: `aAqmbgAAAAAqcUmzefGuwYF4DybTADcw`

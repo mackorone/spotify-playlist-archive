@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,883 likes - 209 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,963 likes - 209 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 208 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 |
 | 209 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 |
 
-Snapshot ID: `aAkLLwAAAABN8Idc6AFf70CQN8/Wcr9I`
+Snapshot ID: `aAkLLwAAAACH0GxcqS4i+G/9/Djf5aU5`

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 794065,
+  "num_followers": 794121,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FDAwAAAACxEg8E0+bpXtTko/y3MTeo",
+  "snapshot_id": "Z8FDAwAAAACuJhpcTMfdy8jvewEDxaA5",
   "tracks": [
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "What Does It Matter Now?",
-        "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
-      },
-      "artists": [
-        {
-          "name": "Micah P. Hinson",
-          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
-        }
-      ],
-      "duration_ms": 275720,
-      "name": "What Does It Matter Now?",
-      "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Stumbler's Business",
         "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 243533,
       "name": "The River's Will",
       "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "What Does It Matter Now?",
+        "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
+      },
+      "artists": [
+        {
+          "name": "Micah P. Hinson",
+          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+        }
+      ],
+      "duration_ms": 275720,
+      "name": "What Does It Matter Now?",
+      "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A"
+        "name": "Singing Ax",
+        "url": "https://open.spotify.com/album/08rhF6Mv1QmubVxQTUHHEk"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
         }
       ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I"
+      "duration_ms": 395525,
+      "name": "Three Sisters",
+      "url": "https://open.spotify.com/track/6Yz0WhXdqzH1jWVViV8MdU"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1451,6 +1451,22 @@
       "duration_ms": 166493,
       "name": "Far From Any Road",
       "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1615,22 +1631,6 @@
       "duration_ms": 159101,
       "name": "I Am The Man Thomas",
       "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "When The Roses Come Again",
-        "url": "https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Summer's Fingers Sweetly Linger (Everywhere On Every Side)",
-      "url": "https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr"
     }
   ],
   "unique_name": "Southern Gothic",

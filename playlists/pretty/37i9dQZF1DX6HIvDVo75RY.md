@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > They say teamwork makes the dream work 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,039 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,036 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 89 | [Milwaukee](https://open.spotify.com/track/5x1KVuScXh34bgvaywZOdO) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 2:59 |
 | 90 | [Love You Back](https://open.spotify.com/track/2SsNmuDCsWWJINRnUhVf1W) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [A Love Song](https://open.spotify.com/album/21LuSaEIdqrPGRmagxDPrx) | 3:22 |
 
-Snapshot ID: `Z48Q9wAAAABU5KDBeYWYWRYFb+Sq+GHV`
+Snapshot ID: `Z48Q9wAAAAC7lfcOljB1uojOG+B7DHaF`

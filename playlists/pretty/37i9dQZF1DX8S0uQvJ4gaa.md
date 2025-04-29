@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,669 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,747 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 |
 | 100 | [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 |
 
-Snapshot ID: `aAsI8wAAAABPScXZrGCsSiAUHNH5lJ8L`
+Snapshot ID: `aAsI8wAAAAAmLPFuhZBYuOw8aO1VpDOG`

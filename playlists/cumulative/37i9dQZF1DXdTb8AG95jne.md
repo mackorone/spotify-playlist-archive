@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Glen Check\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 잔나비\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-939 songs - 2 day 9 hr 20 min
+940 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2024-05-01 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
-| [Calling You](https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Calling You](https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW) | 6:03 | 2025-03-28 |  |
+| [Calling You](https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Calling You](https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW) | 6:03 | 2025-03-28 | 2025-04-29 |
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
 | [Casa Rosa](https://open.spotify.com/track/76oUoDKvvleVKKF2vlyNfH) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Casa Rosa](https://open.spotify.com/album/0kBeimZ6up4vSX9G6U1i4S) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
@@ -497,6 +497,7 @@
 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2024-04-30 | 2024-05-10 |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2022-03-31 | 2022-04-16 |
 | [May](https://open.spotify.com/track/5UEpIKEVFExPkB7CiRKvAo) | [WINee](https://open.spotify.com/artist/64a5GQVxMxmTZkTynKykHE) | [May](https://open.spotify.com/album/2onzUozBjKro4XIAwVYMOm) | 3:06 | 2022-04-12 | 2022-04-17 |
+| [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-04-28 |  |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-03-31 |  |
 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-14 | 2023-04-22 |
 | [Medicine \(feat\. 10CM\)](https://open.spotify.com/track/4nBguHEdWhaWYhw5bOpXLh) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Medicine \(feat\. 10CM\)](https://open.spotify.com/album/2WoDp3yDQZOoCH9qVQlKFn) | 2:57 | 2024-07-22 | 2024-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Rocco Hunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,086 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,092 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 119 | [E POI SEI ARRIVATA TU](https://open.spotify.com/track/0fsMDfsrI4AsvBDLUGoUPh) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [E POI SEI ARRIVATA TU](https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6) | 3:08 |
 | 120 | [Petrolio](https://open.spotify.com/track/5FWe1oExQtR9v9FvhqXWr8) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/65Wv5uZO75nHQM7dMAadZW) | 3:06 |
 
-Snapshot ID: `aAq0uAAAAABgDS97TaYCw9+zMEJKO+q3`
+Snapshot ID: `aAq0uAAAAAD/fg7MY6FXIZhgpcBHuEkH`

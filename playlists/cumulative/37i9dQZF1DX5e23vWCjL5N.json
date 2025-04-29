@@ -3783,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "ON FIRE",
+        "url": "https://open.spotify.com/album/6hDfU5wl4i0G2I4QNfcckp"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201016,
+      "name": "ON FIRE",
+      "url": "https://open.spotify.com/track/7fH0LbrfyMtQOHBH3Ctf5V"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },

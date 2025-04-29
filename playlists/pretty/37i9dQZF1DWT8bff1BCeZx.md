@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,567 likes - 115 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,574 likes - 115 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 114 | [SARE](https://open.spotify.com/track/4jo7dgqrP2skyOPOEnZl4v) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T) | [SARE](https://open.spotify.com/album/3Px1xKNNwWf5AqukC3zwwI) | 4:27 |
 | 115 | [I Give You My Heart](https://open.spotify.com/track/1ri603uIAZccad7u7zqvJw) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [I Give You My Heart](https://open.spotify.com/album/3LrA9IKU7bdU6xVfZ79NzG) | 2:04 |
 
-Snapshot ID: `aArQ0gAAAAAGwePXJDkVXFz2IUF6NzJW`
+Snapshot ID: `aArQ0gAAAAA5RUpe/x5Y9bmRR7SrxOxB`

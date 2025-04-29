@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,768 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,788 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Hand of God](https://open.spotify.com/track/3lI8PleSazRFGIKkKazytf) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Hand of God](https://open.spotify.com/album/2NTPKieDVQSq4yXdq6CDme) | 3:43 |
 | 75 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |
 
-Snapshot ID: `aApD6gAAAABB42Vo8N6eW/hk7C53rzpv`
+Snapshot ID: `aApD6gAAAAC1cFg23X8PcUy8FBnbSIxR`

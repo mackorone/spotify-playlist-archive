@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,357 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,467 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 59 | [963 Hz El Futuro](https://open.spotify.com/track/1gZLAuULPzhxNgbNXSAqfG) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:50 |
 | 60 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 |
 
-Snapshot ID: `Z9RFJgAAAADUu68jz0DKKxcqyuKmV9JV`
+Snapshot ID: `Z9RFJgAAAAD9l75EIGcg0zTlXpZ4FHft`

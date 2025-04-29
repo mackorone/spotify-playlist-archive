@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring KI/KI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,264 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,745 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 |
 | 100 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 |
 
-Snapshot ID: `aAv8CAAAAAAE29L68p2QGOq8ScmT5CsJ`
+Snapshot ID: `aAv8CAAAAAA6xK32v9U5uCRnOXUplljq`

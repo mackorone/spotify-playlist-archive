@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Lorde✨
 
-1,820 songs - 4 day 2 hr 18 min
+1,821 songs - 4 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-05 | 2024-10-25 |
 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-19 | 2025-02-07 |
 | [All of Your Love](https://open.spotify.com/track/5Uu64WdkSnJeQPatMwDEZy) | [Rikke Darling](https://open.spotify.com/artist/3eHCkAyD6HfMa8mxDKuTjc) | [All of Your Love](https://open.spotify.com/album/04zUsOErvGEzUSmIT75bMg) | 3:29 | 2022-12-01 | 2022-12-24 |
+| [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-04-24 |  |
 | [All That She Wants \- Axel Boman X Off The Meds Remix](https://open.spotify.com/track/4tmkNreV0nlayzaEOBwLJf) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [All That She Wants \(Axel Boman X Off The Meds Remix\)](https://open.spotify.com/album/3Au6S3ZAxiIZX9SpFhK8sX) | 3:24 | 2023-06-22 | 2023-08-04 |
 | [All the time \(pure bliss\)](https://open.spotify.com/track/6ptGJj0q09OVqDzsQDsxv6) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [All the time \(pure bliss\)](https://open.spotify.com/album/6pjkr9Fc15k3MWgBOvMqQM) | 2:57 | 2023-05-05 | 2023-07-21 |
 | [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 | 2024-02-01 | 2024-02-09 |

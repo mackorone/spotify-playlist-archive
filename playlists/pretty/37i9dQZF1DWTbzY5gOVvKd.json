@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1276974,
+  "num_followers": 1277014,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAt4yQAAAACs3wCxAsqXTpyFH0ruBWOq",
+  "snapshot_id": "aAt4yQAAAACH1iVYmvrria8MlLDNuZIf",
   "tracks": [
     {
       "added_at": "2025-04-25 11:58:01",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-04-25 11:58:01",
       "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        },
+        {
+          "name": "Paul Buchanan",
+          "url": "https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
+      "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
+    },
+    {
+      "added_at": "2025-04-25 11:58:01",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 284133,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
-    },
-    {
-      "added_at": "2025-04-25 11:58:01",
-      "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        },
-        {
-          "name": "Paul Buchanan",
-          "url": "https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
-      "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
     },
     {
       "added_at": "2025-04-25 11:58:01",
@@ -679,6 +679,26 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2025-04-25 11:58:01",
+      "album": {
+        "name": "Still Blooming",
+        "url": "https://open.spotify.com/album/2TA9I5hYhwBJQ9JcDqCjbg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "I Don't Know Why (I Just Do)",
+      "url": "https://open.spotify.com/track/1YeERdiy4oQr3A58e66OTP"
     },
     {
       "added_at": "2025-04-25 11:58:01",
@@ -851,26 +871,6 @@
     {
       "added_at": "2025-04-25 11:58:01",
       "album": {
-        "name": "Still Blooming",
-        "url": "https://open.spotify.com/album/2TA9I5hYhwBJQ9JcDqCjbg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "I Don't Know Why (I Just Do)",
-      "url": "https://open.spotify.com/track/1YeERdiy4oQr3A58e66OTP"
-    },
-    {
-      "added_at": "2025-04-25 11:58:01",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
+    },
+    {
+      "added_at": "2025-04-25 11:58:01",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2025-04-25 11:58:01",
@@ -939,22 +955,6 @@
       "duration_ms": 187509,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
-    },
-    {
-      "added_at": "2025-04-25 11:58:01",
-      "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2025-04-25 11:58:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-04-25 11:58:01",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
-    },
-    {
-      "added_at": "2025-04-25 11:58:01",
-      "album": {
         "name": "On Holiday",
         "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 285866,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+    },
+    {
+      "added_at": "2025-04-25 11:58:01",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2025-04-25 11:58:01",

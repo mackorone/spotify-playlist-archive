@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ian Lucas & Q\u00b4 Lokura.",
-  "num_followers": 753684,
+  "num_followers": 753672,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAr60AAAAAC0E3Z/ORm5bVI6Tk0rkIWv",
+  "snapshot_id": "aAr60AAAAADVaEnyzMu2GsJr/yqBrdlN",
   "tracks": [
     {
       "added_at": "2025-04-25 03:00:32",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "La Muela - LBC",
-        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Como Lo Hizo? - En Vivo",
-      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 516080,
       "name": "C\u00f3mo Lo Hizo - No Podr\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "La Muela - LBC",
+        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Como Lo Hizo? - En Vivo",
+      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
-      },
-      "artists": [
-        {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
-        }
-      ],
-      "duration_ms": 174140,
-      "name": "Respetemos el duelo",
-      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 143544,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1659,22 +1627,34 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "Potra Salvaje (En Vivo)",
-        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 234754,
-      "name": "Potra Salvaje - En Vivo",
-      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
+      "duration_ms": 143544,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "duration_ms": 174140,
+      "name": "Respetemos el duelo",
+      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1695,6 +1675,26 @@
       "duration_ms": 178431,
       "name": "Ya No Llora - En Vivo",
       "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 263986,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1755,6 +1751,26 @@
       "duration_ms": 192103,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "Potra Salvaje (En Vivo)",
+        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 234754,
+      "name": "Potra Salvaje - En Vivo",
+      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1815,6 +1831,26 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
+        "name": "No Se Vivir Si No Es Contigo",
+        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 202149,
+      "name": "No Se Vivir Si No Es Contigo",
+      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
         "name": "Adelantos (Live)",
         "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
       },
@@ -1827,38 +1863,6 @@
       "duration_ms": 239726,
       "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
       "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
-        "name": "Luis",
-        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Luis",
-      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
-        "name": "N\u00famero uno",
-        "url": "https://open.spotify.com/album/1Q9jbi1NJwuHv5i8dJJc6J"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 145934,
-      "name": "N\u00famero uno",
-      "url": "https://open.spotify.com/track/31yZgYCSyiVNTgtG4JLRXp"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1879,22 +1883,18 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "No Se Vivir Si No Es Contigo",
-        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+        "name": "N\u00famero uno",
+        "url": "https://open.spotify.com/album/1Q9jbi1NJwuHv5i8dJJc6J"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 202149,
-      "name": "No Se Vivir Si No Es Contigo",
-      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
+      "duration_ms": 145934,
+      "name": "N\u00famero uno",
+      "url": "https://open.spotify.com/track/31yZgYCSyiVNTgtG4JLRXp"
     }
   ],
   "unique_name": "100% Cuarteto",

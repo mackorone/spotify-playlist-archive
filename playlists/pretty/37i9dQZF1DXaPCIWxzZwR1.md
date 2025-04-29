@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,543 likes - 104 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,492 likes - 104 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 103 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 104 | [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 |
 
-Snapshot ID: `aAHOeAAAAAA52sVMg/gteQiCtQI6aHad`
+Snapshot ID: `aAHOeAAAAAAe0GkncVbFWXPpcsPQ5ptN`

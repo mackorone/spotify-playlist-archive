@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,385 likes - 55 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,366 likes - 55 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 54 | [Who Am I](https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Who Am I](https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R) | 3:27 |
 | 55 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `Z/jevQAAAABcslKyZbZsgh5wyEfjBopm`
+Snapshot ID: `Z/jevQAAAACo8tVbPFFdmSmGDnSjkgsC`

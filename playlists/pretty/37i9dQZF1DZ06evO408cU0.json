@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 60541,
+  "num_followers": 60549,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAD2WXvk9Ztqi1jEL0IqE7Vs",
+  "snapshot_id": "aA1zgAAAAAB+mZ88F+sTVt1UUql5tERV",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+        "name": "La Historia De Mis Manos (En Vivo)",
+        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+      "duration_ms": 232597,
+      "name": "La Historia De Mis Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
     },
     {
       "added_at": null,
@@ -207,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia De Mis Manos (En Vivo)",
-        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 232597,
-      "name": "La Historia De Mis Manos (En Vivo)",
-      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Consentidos De Don Chuy",
-        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 224801,
-      "name": "Los Consentidos De Don Chuy",
-      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+      "duration_ms": 161493,
+      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
+      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
     },
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
-        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+        "name": "Los Consentidos De Don Chuy",
+        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 161493,
-      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
-      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
+      "duration_ms": 224801,
+      "name": "Los Consentidos De Don Chuy",
+      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
     },
     {
       "added_at": null,

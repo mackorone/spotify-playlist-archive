@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Mind Metro",
+        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
+      },
+      "artists": [
+        {
+          "name": "The Cheap Thrills",
+          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232197,
+      "name": "Calypso Blue",
+      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
+    },
+    {
+      "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 212355,
       "name": "Dead Plants",
       "url": "https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC"

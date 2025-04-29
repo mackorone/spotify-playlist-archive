@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > C'è Carl Brave in cover di Indie Italia ed è subito amarcord  🌃
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,528 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,611 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 64 | [Contento](https://open.spotify.com/track/4GPk80xV2M1co2hzY5XUhZ) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Contento](https://open.spotify.com/album/1dCU5gFInlqqcNG0riDPIH) | 3:06 |
 | 65 | [Chi Vince Che Vince?](https://open.spotify.com/track/4wur6ap0kNAOGd1PKupeNg) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Chi Vince Che Vince?](https://open.spotify.com/album/69oCajyWAMrsB7EuywcdWL) | 3:07 |
 
-Snapshot ID: `aAq0ugAAAACth/3PvOIcYzjOoW77mghb`
+Snapshot ID: `aAq0ugAAAAArGFu2sDppcC1YSwXip2Rr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Miteennn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,113 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,112 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 50 | [รักแบบไหน](https://open.spotify.com/track/51t8T98NvNbFoTU7N3BUbo) | [PREMMANUCH](https://open.spotify.com/artist/36aNHEt5zPybnPOdKOQoqd) | [รักแบบไหน](https://open.spotify.com/album/2VWH1QLTtD6YmXr6F1tgOB) | 4:50 |
 
-Snapshot ID: `Z+wKiQAAAABCOaFHcHe7U3mszvNmzEIP`
+Snapshot ID: `Z+wKiQAAAADKJ9maktfJMqnxkahofQ+L`

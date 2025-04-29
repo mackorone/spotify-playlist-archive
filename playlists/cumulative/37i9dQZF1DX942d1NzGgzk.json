@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "TWENTY TWENTY TYDE",
+        "url": "https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114310,
+      "name": "sauna",
+      "url": "https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD"
+    },
+    {
+      "album": {
         "name": "Saving All My Love",
         "url": "https://open.spotify.com/album/6yLqRQrxvAfVqiwC0ltBrq"
       },
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 183264,
       "name": "Where Have You Been All My Life?",
       "url": "https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r"

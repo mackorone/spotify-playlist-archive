@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakira Jasmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,335 likes - 95 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,339 likes - 95 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 94 | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3) | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/album/67rFsdqNvxkLSMPd7tuzVZ) | 4:05 |
 | 95 | [Berjauhan Tanpa Kata](https://open.spotify.com/track/1VKEzUHIPbpgo1JgghPyFb) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Berjauhan Tanpa Kata](https://open.spotify.com/album/4hQPIIYb6FSjh6z7QjuWY8) | 3:19 |
 
-Snapshot ID: `aArILgAAAAD7aJG3kmUTYRDYCeOw0sQu`
+Snapshot ID: `aArILgAAAADX2y0LRtG/tXC3KHjvatEC`

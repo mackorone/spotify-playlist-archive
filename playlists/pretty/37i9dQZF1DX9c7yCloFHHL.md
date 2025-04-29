@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Kara\-Lis Coverdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,345 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,453 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Sonhar](https://open.spotify.com/track/19PpurkVR6rp1eKQHKUL91) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [CLOUDS](https://open.spotify.com/album/5pCLg77KnRu9BplaSEB7sb) | 4:52 |
 | 100 | [Redwood Resonance](https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr) | [Dianna Lopez](https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T) | [Redwood Resonance](https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX) | 5:32 |
 
-Snapshot ID: `aAs8jgAAAACeBmb+55+3G7zxauHTfg3C`
+Snapshot ID: `aAs8jgAAAADuYLz2tC39kPOB/rco1MJ3`

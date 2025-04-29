@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya casi se termina Abril, pero no sin antes dejarnos unas rolitas frescas con Vivir Quintana en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,313 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,329 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 64 | [Fake Nice \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/5KcdtJsVc2X36iBOV8S3Zt) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Fake Nice \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/324GNFC8aQ3DpoVQVnrp82) | 3:28 |
 | 65 | [In This Mess](https://open.spotify.com/track/5OjGj4GGm0RssCpjUQpcNA) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [In This Mess](https://open.spotify.com/album/76owP5O3q8RV2MrFm43iFg) | 6:35 |
 
-Snapshot ID: `aAsyiwAAAABVJtE6Rxi66azudGcsM92o`
+Snapshot ID: `aAsyiwAAAABjLJ9BX2AqazemrE9r93hW`

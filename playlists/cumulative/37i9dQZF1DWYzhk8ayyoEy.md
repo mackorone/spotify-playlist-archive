@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-168 songs - 9 hr 24 min
+169 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 | 2023-04-07 |  |
 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 | 2025-03-21 |  |
 | [ME YOU](https://open.spotify.com/track/2u1gdTcWQjyCTCWYBWkoEj) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt), [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT) | [ME YOU](https://open.spotify.com/album/1Ug4L0tW4LHyQobHV2B6Pw) | 2:56 | 2023-01-04 | 2023-01-29 |
-| [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 |  |
+| [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 | 2025-04-29 |
 | [More Than Enough](https://open.spotify.com/track/1YozunxkoDX1OJno9DG9W1) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More Than Enough](https://open.spotify.com/album/0gc82qsBXTGXq7UshX8qSq) | 3:07 | 2024-05-24 |  |
 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 | 2023-05-12 | 2024-04-19 |
 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 | 2023-02-24 |  |
@@ -176,5 +176,6 @@
 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 | 2024-07-26 |  |
 | [You Got My Best](https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [You Got My Best](https://open.spotify.com/album/2esdWQ8nAK82DvziUNsssV) | 2:37 | 2024-01-26 | 2024-03-09 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2023-01-04 |  |
+| [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 | 2025-04-28 |  |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

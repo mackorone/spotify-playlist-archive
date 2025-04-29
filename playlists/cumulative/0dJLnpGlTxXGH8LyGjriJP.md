@@ -4,7 +4,7 @@
 
 > 
 
-849 songs - 1 day 19 hr 25 min
+851 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Elevate](https://open.spotify.com/track/3szf2z1Cy1QMrtHrbn8rz9) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:04 | 2023-06-02 |  |
 | [Emergency \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/4ZkQ2t966y0fmTW6TWNwR2) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 2:57 | 2023-01-13 |  |
 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 | 2022-10-18 |  |
+| [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 | 2025-04-28 |  |
 | [Eshay](https://open.spotify.com/track/3mDL5BWuaVwXFAhZMWp88E) | [Gucci Dassy](https://open.spotify.com/artist/4xhGRFsiALp1uDKt0FMaGf) | [Eshay](https://open.spotify.com/album/0QfGGytvuz1ORWR5kZRiZJ) | 3:09 | 2022-08-14 |  |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2023-12-23 |  |
 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 | 2024-05-16 |  |
@@ -615,6 +616,7 @@
 | [PROMOTION](https://open.spotify.com/track/5fvOIwB9AWT2iplRw6jYqm) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [PROMOTION](https://open.spotify.com/album/16DGISpTEIIFfBMBXMMswn) | 2:38 | 2024-08-06 |  |
 | [Proud Of Me Now](https://open.spotify.com/track/0DNOrkMQjmB0W99PU2LlDe) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Me Now](https://open.spotify.com/album/48xbdZgpEOSbBVJRoM1GBG) | 2:03 | 2022-10-06 |  |
 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 | 2022-05-25 |  |
+| [PTSD](https://open.spotify.com/track/0a66FPlQojQPT28qLEI952) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [DO NOT DISTURB \(DELUXE\)](https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P) | 2:09 | 2025-04-28 |  |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 | 2022-08-24 |  |
 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 | 2023-06-02 |  |
 | [PURE \(feat\. G Herbo\)](https://open.spotify.com/track/1E7hzYCfzYCUYNKKohzxwI) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PURE \(feat\. G Herbo\)](https://open.spotify.com/album/3wI0YezzGGQS5MGVSEdzX6) | 3:14 | 2023-01-23 |  |

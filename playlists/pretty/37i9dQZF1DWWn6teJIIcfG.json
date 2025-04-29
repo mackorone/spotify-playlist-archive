@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 212449,
+  "num_followers": 212483,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2qZEgAAAABLJm9+Ht2MY2mrM7HD1Dc7",
+  "snapshot_id": "Z2qZEgAAAAAsCTP0TAvogNMvTBGi+fCa",
   "tracks": [
     {
       "added_at": "2024-12-24 11:20:50",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
         "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Sinfonie Napolitane",
         "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 147120,
       "name": "Lo frate 'nnamorato: II. Andante",
       "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Clementi: Piano Sonatas",
-        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Donatella Failoni",
-          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
-      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
         "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 47760,
       "name": "Water Drops, JS 216",
       "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Clementi: Piano Sonatas",
+        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Donatella Failoni",
+          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
+      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Corrette, M.: Symphonies des noels / Concertos comiques",
+        "url": "https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f"
+      },
+      "artists": [
+        {
+          "name": "Michel Corrette",
+          "url": "https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F"
+        },
+        {
+          "name": "Arion Trio",
+          "url": "https://open.spotify.com/artist/5efT7ju4pfxstXoocgEwuv"
+        }
+      ],
+      "duration_ms": 102826,
+      "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
+      "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
         "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 188000,
       "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
       "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Corrette, M.: Symphonies des noels / Concertos comiques",
-        "url": "https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f"
-      },
-      "artists": [
-        {
-          "name": "Michel Corrette",
-          "url": "https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F"
-        },
-        {
-          "name": "Arion Trio",
-          "url": "https://open.spotify.com/artist/5efT7ju4pfxstXoocgEwuv"
-        }
-      ],
-      "duration_ms": 102826,
-      "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
-      "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 138040,
       "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -2351,30 +2351,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
-        "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Jaemin Han",
-          "url": "https://open.spotify.com/artist/1WxvErlQgQm4rDwyhXazOa"
-        },
-        {
-          "name": "Jonathan Ware",
-          "url": "https://open.spotify.com/artist/2sj7S6UENm2rTef5FGtH7X"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
-      "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "I. Thema",
         "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
       },
@@ -2395,6 +2371,30 @@
       "duration_ms": 65560,
       "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
       "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
+        "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Jaemin Han",
+          "url": "https://open.spotify.com/artist/1WxvErlQgQm4rDwyhXazOa"
+        },
+        {
+          "name": "Jonathan Ware",
+          "url": "https://open.spotify.com/artist/2sj7S6UENm2rTef5FGtH7X"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
+      "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
     },
     {
       "added_at": "2024-12-24 11:20:50",

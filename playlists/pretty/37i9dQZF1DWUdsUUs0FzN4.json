@@ -1,12 +1,12 @@
 {
   "description": "C\u00e1mara mi amor si ya se la sabe que es recio melecio, es peg\u00e1ndonos como chetos a la muela \ud83e\udd75",
-  "num_followers": 19151,
+  "num_followers": 19155,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHqggAAAADmLoGa0tyt45u9YqW5PuyG",
+  "snapshot_id": "aAHqggAAAAAx7yXO2Uqp1++GjW4d48Fx",
   "tracks": [
     {
       "added_at": "2025-04-18 06:00:34",
@@ -367,6 +367,26 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
         "name": "Linea Del Perreo",
         "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
-        "name": "Hermanas de leche",
-        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        },
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "Hermanas de leche",
-      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -499,8 +499,8 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+        "name": "Espantan (Remix)",
+        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
       "artists": [
         {
@@ -512,13 +512,21 @@
           "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
           "name": "Dani Flow",
           "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+      "duration_ms": 218019,
+      "name": "Espantan - Remix",
+      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -687,8 +695,8 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Espantan (Remix)",
-        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
       "artists": [
         {
@@ -700,21 +708,13 @@
           "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
           "name": "Dani Flow",
           "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 218019,
-      "name": "Espantan - Remix",
-      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
+        "name": "Super Bendikeo",
+        "url": "https://open.spotify.com/album/7taDRYGKJMpp9Qfyj3UNyW"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "Super Bendikeo",
+      "url": "https://open.spotify.com/track/2wbJ42gupYMo1QQxMAvnhL"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
         "name": "Nena Goga (Remix)",
         "url": "https://open.spotify.com/album/1thjrXBrEf4TtnC0EYnuIR"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 266964,
       "name": "Nena Goga - Remix",
       "url": "https://open.spotify.com/track/0LuvfHu9iZqtgzJG3fgGs9"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
-        "name": "Super Bendikeo",
-        "url": "https://open.spotify.com/album/7taDRYGKJMpp9Qfyj3UNyW"
-      },
-      "artists": [
-        {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "Super Bendikeo",
-      "url": "https://open.spotify.com/track/2wbJ42gupYMo1QQxMAvnhL"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Gato \u00d1ero",
-        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Gato \u00d1ero",
-      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
         "name": "EL Diablo",
         "url": "https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 164781,
       "name": "EL Diablo",
       "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Puercote",
-        "url": "https://open.spotify.com/album/3VjBoy9eYOlAh6NL3szdoY"
-      },
-      "artists": [
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        }
-      ],
-      "duration_ms": 142959,
-      "name": "Puercote",
-      "url": "https://open.spotify.com/track/1Tdm1Kbmy0uTf8ExPL0ReZ"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
         "name": "Mata (Remix)",
         "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
       },
@@ -1635,6 +1611,26 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
+        "name": "Somos Panas",
+        "url": "https://open.spotify.com/album/3N8SyEAoZePlB2uQmVS9J6"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Somos Panas",
+      "url": "https://open.spotify.com/track/0KTyOklBhZUNKIIAhAhADl"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
         "name": "ADANXITO",
         "url": "https://open.spotify.com/album/21eWhKw46cGMA9DToSAnLN"
       },
@@ -1655,22 +1651,26 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Somos Panas",
-        "url": "https://open.spotify.com/album/3N8SyEAoZePlB2uQmVS9J6"
+        "name": "Puercote",
+        "url": "https://open.spotify.com/album/3VjBoy9eYOlAh6NL3szdoY"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         },
         {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
         }
       ],
-      "duration_ms": 165306,
-      "name": "Somos Panas",
-      "url": "https://open.spotify.com/track/0KTyOklBhZUNKIIAhAhADl"
+      "duration_ms": 142959,
+      "name": "Puercote",
+      "url": "https://open.spotify.com/track/1Tdm1Kbmy0uTf8ExPL0ReZ"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -1767,30 +1767,6 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Caba\u00f1a",
-        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Los Patos Feos Inc",
-          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
-        }
-      ],
-      "duration_ms": 178836,
-      "name": "Caba\u00f1a",
-      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
         "name": "Jordan Flight",
         "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 159923,
       "name": "Jordan Flight",
       "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
+        "name": "Caba\u00f1a",
+        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Los Patos Feos Inc",
+          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "duration_ms": 178836,
+      "name": "Caba\u00f1a",
+      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -1979,6 +1979,30 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
+        "name": "Nobajoniconpasta",
+        "url": "https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 151370,
+      "name": "Nobajoniconpasta",
+      "url": "https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
         "name": "Rkt Rmx (Remix)",
         "url": "https://open.spotify.com/album/3MsjfOvBMfvjhvItOCOicd"
       },
@@ -2003,30 +2027,6 @@
       "duration_ms": 172800,
       "name": "Rkt Rmx - Remix",
       "url": "https://open.spotify.com/track/2DhVtVuoTPaDJu2c3Jn1fW"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
-        "name": "Nobajoniconpasta",
-        "url": "https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3"
-      },
-      "artists": [
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 151370,
-      "name": "Nobajoniconpasta",
-      "url": "https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Combiaton",
-        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
-      },
-      "artists": [
-        {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
-        },
-        {
-          "name": "Casper Mx",
-          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
-        }
-      ],
-      "duration_ms": 139218,
-      "name": "Combiaton",
-      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
-    },
-    {
-      "added_at": "2025-04-18 06:00:34",
-      "album": {
         "name": "Perreo Sayayin",
         "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 174971,
       "name": "Bellatonika",
       "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
+    },
+    {
+      "added_at": "2025-04-18 06:00:34",
+      "album": {
+        "name": "Combiaton",
+        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Casper Mx",
+          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+        }
+      ],
+      "duration_ms": 139218,
+      "name": "Combiaton",
+      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
     },
     {
       "added_at": "2025-04-18 06:00:34",
@@ -2271,26 +2271,26 @@
     {
       "added_at": "2025-04-18 06:00:34",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
+        "name": "O Quee",
+        "url": "https://open.spotify.com/album/0TDmWD22ZyIF7blte5qlC0"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Angel Kuri",
+          "url": "https://open.spotify.com/artist/0mvB8gffQB83SK0JaB7Ew3"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Isai el Profeta",
+          "url": "https://open.spotify.com/artist/6cakG3aRnZNWGwcTodfeGh"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
+      "duration_ms": 152450,
+      "name": "O Quee",
+      "url": "https://open.spotify.com/track/78SI3V5HxEqffMTU5OaeQq"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

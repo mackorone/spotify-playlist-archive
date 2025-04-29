@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ud06c\ub77c\uc789\ub11b (CRYING NUT)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -9567,6 +9567,24 @@
     },
     {
       "album": {
+        "name": "Le Alien Petit Prince : WE ARE THE NIGHT",
+        "url": "https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209773,
+      "name": "Night at Noon",
+      "url": "https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX"
+    },
+    {
+      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -10353,6 +10371,24 @@
     },
     {
       "album": {
+        "name": "Our old bar",
+        "url": "https://open.spotify.com/album/7ndJBy3tYbYaX13xK3p1XN"
+      },
+      "artists": [
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226653,
+      "name": "Our old bar",
+      "url": "https://open.spotify.com/track/1Bz4dIHlGcdffwQeanGYiC"
+    },
+    {
+      "album": {
         "name": "HAPPY 25th JAURIM",
         "url": "https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk"
       },
@@ -10764,7 +10800,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 239805,
       "name": "Pigs",
       "url": "https://open.spotify.com/track/4DHSb9Rj0oZiW4K81WDduz"
@@ -16844,7 +16880,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"

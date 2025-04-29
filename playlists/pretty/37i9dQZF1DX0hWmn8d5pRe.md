@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,858 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,938 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Eye of the Tiger](https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Ultimate Survivor](https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0) | 4:05 |
 | 70 | [What Do You Want From Me?](https://open.spotify.com/track/3H097K41pskob32JipdXzK) | [Monaco](https://open.spotify.com/artist/0N3oP3Si8ihzFUrU6kITZ8) | [Music For Pleasure](https://open.spotify.com/album/7gScKKGyOuQioKGEyEJtMR) | 4:08 |
 
-Snapshot ID: `Z5fqfgAAAAC+tpJNd/4l23VxStiQEp/L`
+Snapshot ID: `Z5fqfgAAAAB141PDUwmMe6cCz30xLbCV`

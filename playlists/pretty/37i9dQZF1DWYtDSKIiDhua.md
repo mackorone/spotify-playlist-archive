@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SOPHY
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,699 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,707 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 89 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 |
 | 90 | [Happy Ending](https://open.spotify.com/track/3jlENhhEfTrOkKC204YXg5) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [YUM](https://open.spotify.com/album/4rCwoAHh3to9CHlM1T5d0y) | 3:06 |
 
-Snapshot ID: `aApgIAAAAAA3/iPNbCUGnxe9IUgGf58C`
+Snapshot ID: `aApgIAAAAAAJSYjIohKUPrTnyU5zd6vB`

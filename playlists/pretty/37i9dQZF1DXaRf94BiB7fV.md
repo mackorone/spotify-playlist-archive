@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Sparsh Shrivastava, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,809 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,815 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Ye Waadiyan](https://open.spotify.com/track/04vlWhJFQtQ5mVrAm7T4zp) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Ye Waadiyan](https://open.spotify.com/album/08g7QDxP7NRPpmExqCDvDJ) | 2:50 |
 | 100 | [Toote Khwab](https://open.spotify.com/track/12tJj18hOGnwOLN537E6Ie) | [Manya Narang](https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY) | [Toote Khwab](https://open.spotify.com/album/2tyhPuSoelbWqlBGip3k6F) | 4:10 |
 
-Snapshot ID: `aAiEewAAAABN/qQ+C/W6n+hvoIN8lv1Q`
+Snapshot ID: `aAiEewAAAACsJuGplZxCJMOXFYdvo5UT`

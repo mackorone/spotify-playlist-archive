@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Arches
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,163 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,172 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [if you're alone just let me know](https://open.spotify.com/track/5DGXfsIsoleOVD4zWEMJlB) | [si crisi](https://open.spotify.com/artist/44e3B4kDrg0Jl8lT04uRF1) | [endless conversation](https://open.spotify.com/album/5fw6jKofKEAz3X5ZmffKtt) | 2:28 |
 | 100 | [Running on Empty](https://open.spotify.com/track/1XJddwWxCyDLfddell0G06) | [The Tullamarines](https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5) | [Running on Empty](https://open.spotify.com/album/1vdvOdcKCbTu05GqRi75c2) | 3:06 |
 
-Snapshot ID: `aAguRwAAAAApFkwluvHVuxDb0fcEolDP`
+Snapshot ID: `aAguRwAAAADUHPa7QjMX0CZ7NfXsQchL`

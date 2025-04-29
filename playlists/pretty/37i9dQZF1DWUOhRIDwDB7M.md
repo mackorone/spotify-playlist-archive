@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,501 likes - 205 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,497 likes - 205 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 204 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 |
 | 205 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 |
 
-Snapshot ID: `Z8HEmAAAAACzmu60MGhESoHIIU51Y2/J`
+Snapshot ID: `Z8HEmAAAAACl7Nz5xVMPFdOKUrFYyGgD`

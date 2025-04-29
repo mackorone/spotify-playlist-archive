@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Qwellers, Mellow & Sleazy, K.O, Dlala Thukzin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,170 likes - 63 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,217 likes - 63 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [Amathuba](https://open.spotify.com/track/4xnOnnpq1rTGq7sQTpH8mO) | [August Muzika](https://open.spotify.com/artist/75tdTYTic95hUJQ14jxh1A), [NYL](https://open.spotify.com/artist/2RRv2BiQwSXS4Suoj4AzGX) | [Amathuba](https://open.spotify.com/album/15LAFIGAWypWPlqhVl4MrY) | 5:39 |
 | 63 | [I Gave You My Heart](https://open.spotify.com/track/2Ik70eP7KkCPrmv7dxY3nr) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [I Gave You My Heart](https://open.spotify.com/album/24OcWdFGBR0d5RouREqFPR) | 3:31 |
 
-Snapshot ID: `aAtVdgAAAAAMs2DWxTYG5guflCCiV31L`
+Snapshot ID: `aAtVdgAAAAD6uiLk7Ucq01oME/teBDZI`

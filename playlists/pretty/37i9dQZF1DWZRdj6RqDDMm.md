@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Moses Bliss & Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,272 likes - 105 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,301 likes - 105 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 104 | [I Love Him](https://open.spotify.com/track/7ao9ApYAffXNd5FvMZ5DiC) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [I Love Him](https://open.spotify.com/album/7spVcuAVAdqPQLTYNmcWmj) | 3:15 |
 | 105 | [Sweet To Me](https://open.spotify.com/track/6ozgeplqAyC6kxNGHMWAnb) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Exploit Music](https://open.spotify.com/artist/3AZbgSiJKTULHcQAFZex4B) | [Sweet To Me](https://open.spotify.com/album/1ggCdgKIMCutzZ9mc9omhm) | 2:40 |
 
-Snapshot ID: `aArQ0gAAAADIPnwOcd52Fr7n0o4s8LGd`
+Snapshot ID: `aArQ0gAAAACuD0i+bxVvxWObW9GHQ1CB`

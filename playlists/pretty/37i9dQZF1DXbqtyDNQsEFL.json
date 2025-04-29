@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=nsy7DqQhTJmoqB6H2VtyMA>Joe Mettle</a>",
-  "num_followers": 91508,
+  "num_followers": 91549,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAtNXwAAAAAy/9N8OVT7+SJZ5ChH1FaD",
+  "snapshot_id": "aAtNXwAAAAAe0FoNPua8koQMim7n4/8y",
   "tracks": [
     {
       "added_at": "2025-04-25 00:01:21",
@@ -331,6 +331,30 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Kumama",
+        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
         "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Kumama",
-        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
-      },
-      "artists": [
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
       "added_at": "2025-04-11 00:01:28",
@@ -569,38 +569,6 @@
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
-    },
-    {
-      "added_at": "2025-04-25 00:01:21",
-      "album": {
-        "name": "Shammah",
-        "url": "https://open.spotify.com/album/3Wi8dsqFQoDzkGyB1qxlsG"
-      },
-      "artists": [
-        {
-          "name": "Princewill Agbazue",
-          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Shammah",
-      "url": "https://open.spotify.com/track/1hW8cVgHXcKo9BqSm8mcHM"
-    },
-    {
       "added_at": "2024-06-10 13:52:15",
       "album": {
         "name": "Give Me Chance",
@@ -619,6 +587,38 @@
       "duration_ms": 255735,
       "name": "Give Me Chance",
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
+    {
+      "added_at": "2025-04-25 00:01:21",
+      "album": {
+        "name": "Shammah",
+        "url": "https://open.spotify.com/album/3Wi8dsqFQoDzkGyB1qxlsG"
+      },
+      "artists": [
+        {
+          "name": "Princewill Agbazue",
+          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Shammah",
+      "url": "https://open.spotify.com/track/1hW8cVgHXcKo9BqSm8mcHM"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -721,38 +721,6 @@
       "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2025-04-25 00:01:21",
-      "album": {
-        "name": "Only You Jesus",
-        "url": "https://open.spotify.com/album/3eoylkKdNJlpVBpWuq4iHH"
-      },
-      "artists": [
-        {
-          "name": "Salt & Grace",
-          "url": "https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy"
-        }
-      ],
-      "duration_ms": 236320,
-      "name": "Only You Jesus",
-      "url": "https://open.spotify.com/track/4fZrdDQUCJGA2GoyYUgcPf"
-    },
-    {
       "added_at": "2024-05-10 00:01:00",
       "album": {
         "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
@@ -773,6 +741,22 @@
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
+      "added_at": "2025-04-25 00:01:21",
+      "album": {
+        "name": "Only You Jesus",
+        "url": "https://open.spotify.com/album/3eoylkKdNJlpVBpWuq4iHH"
+      },
+      "artists": [
+        {
+          "name": "Salt & Grace",
+          "url": "https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Only You Jesus",
+      "url": "https://open.spotify.com/track/4fZrdDQUCJGA2GoyYUgcPf"
+    },
+    {
       "added_at": "2024-08-30 00:01:00",
       "album": {
         "name": "Isi Gini",
@@ -787,6 +771,22 @@
       "duration_ms": 269538,
       "name": "Isi Gini",
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2025-04-18 00:01:29",
@@ -1005,6 +1005,38 @@
       "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
       "added_at": "2025-01-07 00:01:28",
       "album": {
         "name": "This Year (Remix)",
@@ -1027,38 +1059,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1115,6 +1095,26 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1333,26 +1333,6 @@
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "B'ola (Live)",
-        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Sola Allyson",
-          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
-        }
-      ],
-      "duration_ms": 650499,
-      "name": "B'ola (Live)",
-      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -1373,6 +1353,26 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "B'ola (Live)",
+        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Sola Allyson",
+          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
+        }
+      ],
+      "duration_ms": 650499,
+      "name": "B'ola (Live)",
+      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
+    },
+    {
       "added_at": "2025-03-07 00:01:32",
       "album": {
         "name": "According To Brother Nwachukwu",
@@ -1387,6 +1387,26 @@
       "duration_ms": 165524,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3"
+    },
+    {
+      "added_at": "2025-04-18 00:01:29",
+      "album": {
+        "name": "Testify (Live at 012 Central, Pretoria 2024)",
+        "url": "https://open.spotify.com/album/5ZOKJWzsqwjYYq3IAseHFF"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "duration_ms": 492120,
+      "name": "Psalms 23 (uMusa Wakho) (feat. Oncemore Six)",
+      "url": "https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1407,22 +1427,6 @@
       "duration_ms": 372736,
       "name": "Overflow - Live",
       "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1469,24 +1473,20 @@
       "url": "https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87"
     },
     {
-      "added_at": "2025-04-18 00:01:29",
+      "added_at": "2024-10-25 00:01:00",
       "album": {
-        "name": "Testify (Live at 012 Central, Pretoria 2024)",
-        "url": "https://open.spotify.com/album/5ZOKJWzsqwjYYq3IAseHFF"
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
       },
       "artists": [
         {
-          "name": "Mmuso Worship",
-          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
-        },
-        {
-          "name": "Oncemore Six",
-          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
         }
       ],
-      "duration_ms": 492120,
-      "name": "Psalms 23 (uMusa Wakho) (feat. Oncemore Six)",
-      "url": "https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2"
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
       "added_at": "2025-03-07 00:01:32",
@@ -1533,20 +1533,20 @@
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
+      "added_at": "2025-04-04 00:01:18",
       "album": {
-        "name": "According To Brother Nwachukwu",
-        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
+        "name": "God First",
+        "url": "https://open.spotify.com/album/4dIXGvZO6953EzOAyaYeH4"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 237513,
-      "name": "Agaracha",
-      "url": "https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY"
+      "duration_ms": 165500,
+      "name": "God First",
+      "url": "https://open.spotify.com/track/2etcvSTrodoQLDfzLF2Jjk"
     }
   ],
   "unique_name": "Be Lifted ",

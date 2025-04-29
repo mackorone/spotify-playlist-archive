@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lorde, PinkPantheress, Myles Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,561 likes - 128 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,578 likes - 128 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 127 | [Will you read my mind?](https://open.spotify.com/track/5OAsL40eMUld36G5c6ankC) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will you read my mind?](https://open.spotify.com/album/107YlaWLAAp5qqvKy8F2BN) | 4:05 |
 | 128 | [Don't Give Up](https://open.spotify.com/track/3VLC9OBGZr4aRSJFbZpPHg) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/7EyCL21T1fqLhWNxMzSzXD) | 2:58 |
 
-Snapshot ID: `aAtNGAAAAABxdbC7+O7Dr29TmvyZMTR2`
+Snapshot ID: `aAtNGAAAAACduZcQM7BJ1QbBo+fWpjTO`

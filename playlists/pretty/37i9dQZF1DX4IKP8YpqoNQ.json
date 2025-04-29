@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30999,
+  "num_followers": 31006,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7g98gAAAADJgB0x63OVuCrP18FI6aiz",
+  "snapshot_id": "Z7g98gAAAADrtoUtu27YMakzR+FWy6CU",
   "tracks": [
     {
       "added_at": "2024-10-25 07:48:43",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Feng Suave (Live from Studio Helmbreker)",
+        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Tomb For Rockets - Live from Studio Helmbreker",
+      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 366960,
       "name": "Street Life - Live",
       "url": "https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Feng Suave (Live from Studio Helmbreker)",
-        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Tomb For Rockets - Live from Studio Helmbreker",
-      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "St. James Infirmary - Live/Remastered",
+      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live At The London Palladium",
         "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 356493,
       "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
       "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "St. James Infirmary - Live/Remastered",
-      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live in Montreux 1980",
-        "url": "https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 368400,
-      "name": "I Heard It Through the Grapevine - Live",
-      "url": "https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 269040,
       "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
       "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live in Montreux 1980",
+        "url": "https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 368400,
+      "name": "I Heard It Through the Grapevine - Live",
+      "url": "https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
         "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live In Stockholm",
         "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Fela With Ginger Baker Live!",
-        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 465280,
-      "name": "Let's Start",
-      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 192600,
       "name": "At Last - Live",
       "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Fela With Ginger Baker Live!",
+        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 465280,
+      "name": "Let's Start",
+      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live: 1989 Memphis Music & Heritage Festival",
-        "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
-      },
-      "artists": [
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 696666,
-      "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
-      "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Tokyo... Live",
         "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF"
+        "name": "Live: 1989 Memphis Music & Heritage Festival",
+        "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
       "artists": [
         {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
         }
       ],
-      "duration_ms": 548378,
-      "name": "Unconditional Love",
-      "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
+      "duration_ms": 696666,
+      "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
+      "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live In NYC",
+        "url": "https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU"
+      },
+      "artists": [
+        {
+          "name": "Nicole Bus",
+          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Look Up To The Sky - Live",
+      "url": "https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In NYC",
-        "url": "https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU"
+        "name": "The Stax/Volt Revue: Live In London, Vol. 1",
+        "url": "https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66"
       },
       "artists": [
         {
-          "name": "Nicole Bus",
-          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Look Up To The Sky - Live",
-      "url": "https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv"
+      "duration_ms": 235786,
+      "name": "Hold On, I'm Comin' - Live in London",
+      "url": "https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS"
     }
   ],
   "unique_name": "Soul Live",

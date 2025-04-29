@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,061 songs - 3 day 4 hr 27 min
+1,062 songs - 3 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Notes](https://open.spotify.com/track/57OI55Fhe4dq7EtjZgOCAE) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Young Alaska](https://open.spotify.com/album/2DstkNuTgbUk6hcHHMaVed) | 7:05 | 2019-06-21 | 2020-10-21 |
 | [Noth](https://open.spotify.com/track/4bBaxQtS3RMjMJRRaREdAZ) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Noth](https://open.spotify.com/album/4fibHtbzCFMygF53N33Njl) | 3:12 | 2019-06-19\* | 2022-04-20 |
 | [Notte senza fine \- Kiasmos Remix](https://open.spotify.com/track/6HUnAzGo1zYfdX4ZW1yiZh) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Endless \(Remixes\)](https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7) | 6:28 | 2023-03-24 | 2023-06-22 |
-| [NOVEMBRE13\_](https://open.spotify.com/track/1iMvxadzH2UWvBwRwq0ikq) | [JoyCut](https://open.spotify.com/artist/7vaj5cQvg06YNTvaQP2Kla) | [NOVEMBRE13\_](https://open.spotify.com/album/1LXPjFdpUES0qK3Z0tCsz4) | 5:35 | 2022-05-27 |  |
+| [NOVEMBRE13\_](https://open.spotify.com/track/1iMvxadzH2UWvBwRwq0ikq) | [JoyCut](https://open.spotify.com/artist/7vaj5cQvg06YNTvaQP2Kla) | [NOVEMBRE13\_](https://open.spotify.com/album/1LXPjFdpUES0qK3Z0tCsz4) | 5:35 | 2022-05-27 | 2025-04-29 |
 | [nubeKevlar](https://open.spotify.com/track/4Mf53dK7FrEdYD2cJJMxfM) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [NUBEKEVLAR](https://open.spotify.com/album/6TypKrH6PYmaVDsMXZpFnB) | 3:37 | 2024-02-23 | 2024-03-22 |
 | [NUNGWI](https://open.spotify.com/track/4hMdVt2j6y43bS7rC2dEBr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [NUNGWI](https://open.spotify.com/album/6jH3DK4MzS6X9o66eYXiJS) | 3:01 | 2019-05-26\* | 2019-06-19 |
 | [Nuova Atlantide](https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:18 | 2023-10-13 | 2024-06-28 |
@@ -984,6 +984,7 @@
 | [twelve](https://open.spotify.com/track/6rRRueTvqqNuhjxe8Zw4D5) | [Louis Carnell](https://open.spotify.com/artist/4qCmhUVU5FypJEFPWYxpvJ), [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [twelve](https://open.spotify.com/album/5nbB9U8PPRI2rzEfYT3371) | 6:09 | 2024-05-10 | 2025-01-19 |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2019-06-21 | 2020-08-26 |
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2019-05-26\* | 2022-04-21 |
+| [Uforia2](https://open.spotify.com/track/1naY9jtsdeOExa34heIlRg) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Uforia2](https://open.spotify.com/album/1znqfNbpTiwZ201yA6lrrc) | 6:32 | 2025-04-25 |  |
 | [Ultra Marine](https://open.spotify.com/track/2LJvEAXalgDaUvIKELmP8x) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ultra Marine](https://open.spotify.com/album/16gfRtrbf4rErMfnQj6wRW) | 3:58 | 2021-01-16 | 2022-07-27 |
 | [Una Mattina](https://open.spotify.com/track/13AAovcay1SAw6EQuy9APc) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Una Mattina](https://open.spotify.com/album/2m4Kq6K36jpVNtSn2wQ7nn) | 1:48 | 2022-09-09 | 2022-11-14 |
 | [Una Mattina](https://open.spotify.com/track/61It0RwIboh4FD70zzTUoS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:48 | 2022-07-01 | 2023-02-14 |

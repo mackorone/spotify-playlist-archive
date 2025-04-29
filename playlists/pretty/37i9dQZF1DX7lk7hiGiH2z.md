@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,744 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,751 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 47 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
 | 48 | [Immer wieder kommt ein neuer Frühling](https://open.spotify.com/track/5uzcODmXFN4RjfdaXEVyKa) | [Charlie Glass Kinder Lieder](https://open.spotify.com/artist/2UN1knsjZgMRmNvlmP8Cvx) | [Die schönsten Lieder: Durch das Jahr](https://open.spotify.com/album/0QxB4qqWZuGue8DMlaHoov) | 2:59 |
 | 49 | [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 |
-| 50 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 |
+| 50 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 
-Snapshot ID: `aAj+VgAAAABxUd+3etPlNNhI4Sx8+Qg0`
+Snapshot ID: `aAj+VgAAAAD+ggwh2cjyLUiGzgkyLzu2`

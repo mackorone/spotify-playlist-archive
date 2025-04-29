@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0i9f82nIFjrLnnsf2YX3vY">Jeannie Seely</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,388 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,399 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Willie Nelson](https://open.spotify.com/track/5bKbu9VB1wXyTz01XWbq3h) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43), [Steve Moakler](https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd) | [Willie Nelson](https://open.spotify.com/album/2GCcJJMR5K5GNztIPT4hcg) | 3:00 |
 | 40 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 
-Snapshot ID: `Z+9ZVwAAAAAAJrb4FNSnNW8LqAOMeinw`
+Snapshot ID: `Z+9ZVwAAAADYJSJ/CAA/FOQcVJx1eNWy`

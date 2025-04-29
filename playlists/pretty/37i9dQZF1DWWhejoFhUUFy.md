@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,856 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,940 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 13 | [Soch Na Sake](https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Airlift](https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju) | 4:41 |
 | 14 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 15 | [Zara Sa](https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jannat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8) | 5:03 |
-| 16 | [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 |
-| 17 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
+| 16 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
+| 17 | [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 |
 | 18 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 |
 | 19 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Mudassar Aziz](https://open.spotify.com/artist/7h2iyGbQUPE8V8tATDSOAM) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
 | 20 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Kitni Haseen Zindagi](https://open.spotify.com/track/7x5gwdWM7oc6aJ7ZXy9Vnw) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:15 |
 | 75 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 
-Snapshot ID: `aAeDZgAAAAAeVS1kV5h88pWzzsIu/LV9`
+Snapshot ID: `aAeDZgAAAAC2gts72qd9Y04zTPI6gv3M`

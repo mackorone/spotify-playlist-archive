@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-320 songs - 17 hr 57 min
+321 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [DALE DALE](https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [DALE DALE](https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9) | 3:03 | 2023-05-26 | 2024-03-06 |
 | [Dale Zorrita](https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:21 | 2023-05-26 | 2024-03-06 |
 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 | 2023-05-26 | 2024-04-19 |
-| [Dejenlá Que Llore](https://open.spotify.com/track/0zlkl9ewks8yTGovGtar8N) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 4:07 | 2024-04-19 |  |
+| [Dejenlá Que Llore](https://open.spotify.com/track/0zlkl9ewks8yTGovGtar8N) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 4:07 | 2024-04-19 | 2025-04-29 |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-05-26 |  |
 | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-01 |  |
 | [DISCULPE OFICIAL](https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju) | [DISCULPE OFICIAL](https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg) | 2:02 | 2023-08-15 |  |
@@ -166,6 +166,7 @@
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 | 2025-03-06 |
 | [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 | 2023-08-16 |
+| [Libre y Soltero](https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Libre y Soltero](https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe) | 3:35 | 2025-04-18 |  |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 |  |
 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 | 2023-10-26 |  |
 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 | 2023-06-09 | 2024-08-22 |

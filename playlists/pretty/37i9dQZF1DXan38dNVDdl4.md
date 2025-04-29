@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,278 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,315 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 69 | [Feeling](https://open.spotify.com/track/4ug7xCyLvU0If1nFQwb2ES) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Birchill](https://open.spotify.com/artist/4MuPg5R8uv5DbxKUrlNHwM) | [Feeling](https://open.spotify.com/album/4nGJjw9xrPQ4MJcoUBMj8K) | 2:34 |
 | 70 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |
 
-Snapshot ID: `aArCjwAAAADbI/bUk1Offe42AE0Mkt3Y`
+Snapshot ID: `aArCjwAAAADfGERjMc5WVGGrs5UYwYdh`

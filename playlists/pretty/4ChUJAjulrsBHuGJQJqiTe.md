@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 
 > In memory of \[removed for privacy\]
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 19 songs - 1 hr 10 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,6 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 | 17 | [Korean Bird Paintings](https://open.spotify.com/track/1ZPiuKIHn9ECc147svdvuR) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:31 |
 | 18 | [Store](https://open.spotify.com/track/4mlPWNXldFV7EgH2heTuM5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 2:20 |
 | 19 | [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 |
+| 20 | [Fresh Tattoo](https://open.spotify.com/track/6mjZGEbwJuT0ACECrF8HFF) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:42 |
 
-Snapshot ID: `AAAAIVHRD5Xuv2JUrmtumu7SHfUymwHZ`
+Snapshot ID: `AAAAIpS0TEimahT4teuEHgoBk4/nKaCa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Samuel Messias
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,067 likes - 49 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,074 likes - 49 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Rock Gospel](https://open.spotify.com/track/3C69yi9OqM6OVvm70w5TMD) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Kira Garcêz](https://open.spotify.com/artist/32HA2QgcYOna1M5QwI6LYU) | [Rock Gospel](https://open.spotify.com/album/45lYLJJY9jZ8Q2WJ6k12tS) | 2:13 |
 | 49 | [A Cruz está vazia](https://open.spotify.com/track/126ZSA7OfsRrj9G5TdImHQ) | [Soul Livre](https://open.spotify.com/artist/2iMtNQJP1W1HktGKifeenE) | [A Cruz está vazia](https://open.spotify.com/album/4KPmTS0yzA5l89JOXHqpNN) | 4:35 |
 
-Snapshot ID: `aAr68QAAAABZaSZ3V/d6eqQZqhF64sjp`
+Snapshot ID: `aAr68QAAAABsTlw9fT82bj17CWsvxOwf`

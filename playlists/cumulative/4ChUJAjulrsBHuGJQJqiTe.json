@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282800,
+      "name": "Fresh Tattoo",
+      "url": "https://open.spotify.com/track/6mjZGEbwJuT0ACECrF8HFF"
+    },
+    {
+      "album": {
         "name": "In League with Dragons",
         "url": "https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6"
       },

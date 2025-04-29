@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Julia Wieniawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,956 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,983 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [Nie mam już miejsca na "chyba"](https://open.spotify.com/track/0WO9GFE5OP7Qjx0pKdNFtG) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tak jak tutaj stoję](https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y) | 2:59 |
 | 65 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 |
 
-Snapshot ID: `aAq0iAAAAAA4tecEG/zffcu3QalcJOuc`
+Snapshot ID: `aAq0iAAAAAB0Xo+VJ1xlM5y9+CRQICgl`

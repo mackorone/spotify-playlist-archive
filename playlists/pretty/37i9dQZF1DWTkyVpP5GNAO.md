@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Marco Witt & Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,872 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,066 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 74 | [Gracias, Señor](https://open.spotify.com/track/1cY9JMcp8IYAvdBWrDC4PI) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Gracias, Señor](https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5) | 5:05 |
 | 75 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 |
 
-Snapshot ID: `Z/jj9wAAAAB7iB+Is7UtPNzv4NwNWci8`
+Snapshot ID: `Z/jj9wAAAAAcrfPuibtmmuTt4uSbaD7e`

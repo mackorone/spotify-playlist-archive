@@ -1,12 +1,12 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3700857,
+  "num_followers": 3701424,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8B1rQAAAABn1IWbxFb09xmTccT3wPGe",
+  "snapshot_id": "Z8B1rQAAAACE1vSPnVQOVvTktwm3uS1U",
   "tracks": [
     {
       "added_at": "2025-02-27 14:24:45",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
         "name": "Ella Se Contradice (feat. Plan B)",
         "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 256756,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -887,22 +887,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Big Yamo o Nada",
-        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
+        "name": "Perreolog\u00eda",
+        "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
       },
       "artists": [
         {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
         },
         {
-          "name": "Vato 18k",
-          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Entre la Playa Ella y Yo",
-      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
+      "duration_ms": 257880,
+      "name": "Mala Conducta (feat. Franco El Gorila)",
+      "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -927,22 +927,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Perreolog\u00eda",
-        "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
+        "name": "Big Yamo o Nada",
+        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
       },
       "artists": [
         {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
         },
         {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+          "name": "Vato 18k",
+          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
         }
       ],
-      "duration_ms": 257880,
-      "name": "Mala Conducta (feat. Franco El Gorila)",
-      "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
+      "duration_ms": 185077,
+      "name": "Entre la Playa Ella y Yo",
+      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 226640,
       "name": "Hoy Lo Siento (feat. Tony Dize)",
       "url": "https://open.spotify.com/track/0zOTCXeKyojEa4kNkUqrQK"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 205976,
-      "name": "Donde Hubo Fuego",
-      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 205976,
+      "name": "Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 188320,
       "name": "Sol, Playa Y Arena",
       "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1655,26 +1655,6 @@
       "duration_ms": 213653,
       "name": "Al Natural",
       "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Amor Genuino",
-      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -1699,6 +1679,26 @@
       "duration_ms": 227853,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Amor Genuino",
+      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "Yo Voy A Llegar",
-      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 174626,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/1Mej30kFOYBVtr5fkaLdHx"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
+        "name": "Flow La Discoteca Special Edition",
+        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "Yo Voy A Llegar",
+      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -2747,22 +2747,18 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Flow la Discoteka 2",
-        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 264212,
-      "name": "Chica Virtual (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -2783,18 +2779,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Flow la Discoteka 2",
+        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+      "duration_ms": 264212,
+      "name": "Chica Virtual (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -3051,22 +3067,6 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
       },
@@ -3083,22 +3083,6 @@
       "duration_ms": 216760,
       "name": "Punto y Coma",
       "url": "https://open.spotify.com/track/6vCBn43dpEaVCHR3UbDl85"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -3147,6 +3131,22 @@
       "duration_ms": 221074,
       "name": "Cantinero",
       "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "2K20, Pt. 1 (Live)",
-        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mayor Que Yo - Live",
-      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
-    },
-    {
-      "added_at": "2025-02-27 14:24:45",
-      "album": {
         "name": "J Balvin Mix Tape",
         "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
       },
@@ -3323,22 +3307,34 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Pum Pum",
-        "url": "https://open.spotify.com/album/37kbw1rxp0aM1vq9eRnp5r"
+        "name": "2K20, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
       },
       "artists": [
         {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 225055,
-      "name": "Pum Pum",
-      "url": "https://open.spotify.com/track/27cJ2fmLUPntkn86UVe1BR"
+      "duration_ms": 128259,
+      "name": "Mayor Que Yo - Live",
+      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
+    },
+    {
+      "added_at": "2025-02-27 14:24:45",
+      "album": {
+        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "La Perfecta Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
     },
     {
       "added_at": "2025-02-27 14:24:45",
@@ -3363,18 +3359,22 @@
     {
       "added_at": "2025-02-27 14:24:45",
       "album": {
-        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
+        "name": "Pum Pum",
+        "url": "https://open.spotify.com/album/37kbw1rxp0aM1vq9eRnp5r"
       },
       "artists": [
         {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 195093,
-      "name": "La Perfecta Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
+      "duration_ms": 225055,
+      "name": "Pum Pum",
+      "url": "https://open.spotify.com/track/27cJ2fmLUPntkn86UVe1BR"
     },
     {
       "added_at": "2025-02-27 14:24:45",

@@ -4,13 +4,14 @@
 
 > In memory of \[removed for privacy\]
 
-21 songs - 1 hr 15 min
+22 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 /04 / 16 \(Jack’s Song\)](https://open.spotify.com/track/2a3TuWJcF21zXHgPHNSdn9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [16 / 04 / 16](https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m) | 4:18 | 2023-03-05 |  |
 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/3cjLFY0mLXqBXsnqNhvKH9) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:27 | 2023-03-03 |  |
 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 | 2024-10-03 |  |
+| [Fresh Tattoo](https://open.spotify.com/track/6mjZGEbwJuT0ACECrF8HFF) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:42 | 2025-04-28 |  |
 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 | 2023-03-21 |  |
 | [Grenade Jumper](https://open.spotify.com/track/3jsNPTt6LUyB2srOcZaq47) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:58 | 2024-10-31 |  |
 | [Hug All Ur Friends](https://open.spotify.com/track/7gbFUfnFWyhSRwkdy4fFrS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Jackson](https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1) | 5:35 | 2023-03-08 |  |

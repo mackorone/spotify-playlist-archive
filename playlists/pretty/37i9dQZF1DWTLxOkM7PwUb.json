@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9116,
+  "num_followers": 9136,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+diNQAAAAC8sJwVG0f7F8uXrbtUKLno",
+  "snapshot_id": "Z+diNQAAAAAhErT3ZjxYdyffZoxACXR6",
   "tracks": [
     {
       "added_at": "2024-07-26 04:59:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 181554,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 181554,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CON OTRA",
-        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
       },
       "artists": [
         {
@@ -1308,9 +1308,37 @@
           "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 181500,
-      "name": "CON OTRA",
-      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "BAXIAN",
+          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
+        }
+      ],
+      "duration_ms": 162869,
+      "name": "Yin Yang",
+      "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1347,34 +1375,6 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
-        },
-        {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
-        },
-        {
-          "name": "BAXIAN",
-          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
-        }
-      ],
-      "duration_ms": 162869,
-      "name": "Yin Yang",
-      "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+        "name": "CON OTRA",
+        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+      "duration_ms": 181500,
+      "name": "CON OTRA",
+      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
     },
     {
       "added_at": "2024-07-26 04:59:00",

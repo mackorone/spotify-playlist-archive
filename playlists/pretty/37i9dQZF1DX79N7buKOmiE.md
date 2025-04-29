@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 64 | [Levitálj!](https://open.spotify.com/track/7ymXDTSfIVIAbAQMgcj5le) | [Káltes Ekwa](https://open.spotify.com/artist/0Vb9ILgdK9cDXmne6B4kd1) | [Levitálj!](https://open.spotify.com/album/7LeayUeuH8RTlW7ArXeEG1) | 3:19 |
 | 65 | [Komfortmagány](https://open.spotify.com/track/2ynXAEv8K9YBBPcxAobLUL) | [fannisza](https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD), [Fehér Holló](https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1) | [Komfortmagány](https://open.spotify.com/album/1S9gz9ySLpDbgJrhhtZp0q) | 3:02 |
 
-Snapshot ID: `Z+0l/QAAAADEgVMYi08pN6XcihSMxW6x`
+Snapshot ID: `Z+0l/QAAAAA2ie1ajZICf0pB3l+Ua+Cb`

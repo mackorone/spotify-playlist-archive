@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19202,
+  "num_followers": 19205,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADvkvlDh3K5Qghyi3ELTouv",
+  "snapshot_id": "aA1zgAAAAABJdqLsItLy4q01FZFuM30v",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys: Ride Or Die Soundtrack",
-        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
+        "name": "B.T.W",
+        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 131700,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
+      "duration_ms": 124808,
+      "name": "B.T.W",
+      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.T.W",
-        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
+        "name": "Bad Boys: Ride Or Die Soundtrack",
+        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 124808,
-      "name": "B.T.W",
-      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
+      "duration_ms": 131700,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
       "added_at": null,

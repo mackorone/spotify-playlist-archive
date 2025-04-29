@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>, <a href="spotify:artist:163tK9Wjr9P9DmM0AVK7lm">Lorde</a>,  <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,522 likes - 112 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,530 likes - 112 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 111 | [My Man](https://open.spotify.com/track/1k53iW1Cx42kNDmX8w5DdB) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [My Man](https://open.spotify.com/album/1TuT7qz1sy1ywGf7LFjT1g) | 3:12 |
 | 112 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
 
-Snapshot ID: `aAtpJQAAAACH6q6OER/2KbqA5vsAuKT/`
+Snapshot ID: `aAtpJQAAAABoZRWLXmuv7Pn+pqMCsdtK`

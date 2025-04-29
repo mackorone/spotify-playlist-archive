@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Juan Campodónico & Zeballos
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,909 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,904 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 104 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 |
 | 105 | [Never Know](https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never Know](https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC) | 2:55 |
 
-Snapshot ID: `aAr60QAAAAD1216uodOpOv3yQqB4K1vC`
+Snapshot ID: `aAr60QAAAAAeo3/+PQP14B3o1QVKYC7q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,416 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,437 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 60 | [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/track/3kk0MeILiUA17MvF0Fz1At) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/album/2GvgkXso7I5OuOJbU79py5) | 2:45 |
 
-Snapshot ID: `Z++ojQAAAAB+tb643nXo7d9JYhigpkyp`
+Snapshot ID: `Z++ojQAAAAAI6wJQ1gQssbjFzedqfi/g`

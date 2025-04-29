@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! \(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,574 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,619 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 | 59 | [Sorrowful Stone](https://open.spotify.com/track/0eOl2uwpktFMs90MCXNnjd) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 2:38 |
 | 60 | [Main Theme ～The Alchemist～](https://open.spotify.com/track/3vrqHeabohTaCnlemvSXUR) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 2:01 |
 
-Snapshot ID: `Z5PCWwAAAADm0o2H/R/0ToEMXM3SzY2/`
+Snapshot ID: `Z5PCWwAAAAB8kLYgDOzUUbOrnSrmzkue`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: LISABETH, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,498 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,501 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [scotty](https://open.spotify.com/track/2vu49yQzAnfPSz4jYkdQbE) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [scotty](https://open.spotify.com/album/7sxsbGt7sXSQt75Zg3pnNP) | 2:09 |
 | 80 | [Und ich lauf](https://open.spotify.com/track/02580fheyYmwita65q7p4f) | [Diemarcha](https://open.spotify.com/artist/4G46pAcigEr3mgoCxagjhl), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Und ich lauf](https://open.spotify.com/album/6gWGVl93aFJUX98g4vMPg5) | 3:04 |
 
-Snapshot ID: `aAjGuwAAAAAXLqyRHuT9F9DQvR4GNayc`
+Snapshot ID: `aAjGuwAAAADsn2vMdwCbUqna3VfkHoFQ`

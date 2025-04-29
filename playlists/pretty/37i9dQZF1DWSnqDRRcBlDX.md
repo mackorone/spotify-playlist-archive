@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,905 likes - 57 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,948 likes - 57 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 56 | [Club Riot](https://open.spotify.com/track/4qNeGdcVP05QuoMEwzJLrI) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [Rove Ranger](https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss), [SESH](https://open.spotify.com/artist/5PJunO0egNrIx5RY2z7J8a) | [Club Riot](https://open.spotify.com/album/1phWVWb7LxEBcnoV5pqCOa) | 3:57 |
 | 57 | [I Got](https://open.spotify.com/track/7xNAm4FxhS86iXFzqOJWl1) | [IOSIO](https://open.spotify.com/artist/4s0Dk4aWriQ5rOhh3yzsGu) | [I Got](https://open.spotify.com/album/3CNgPf4M3xnhJyt3Jxc6Di) | 4:58 |
 
-Snapshot ID: `Z+an1wAAAADDJee4YciWLUO4DkTfq8Ls`
+Snapshot ID: `Z+an1wAAAAAuSdf3ILcvqLO3SbkK04MI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,680 likes - 192 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,637 likes - 192 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 191 | [Mellowing](https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Mellowing](https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM) | 2:52 |
 | 192 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 |
 
-Snapshot ID: `Z/aOUAAAAAAwVDLT7d3K3qB++jIv89rX`
+Snapshot ID: `Z/aOUAAAAABG496Q2qPQXRPbKzYXsIy2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Terra & Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,949 likes - 122 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,013 likes - 122 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 121 | [Working On The Next Life](https://open.spotify.com/track/6b7NmTonbQ9Nne9dGbqAD6) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Working On The Next Life](https://open.spotify.com/album/24fO4qutbKtvGEA3NMKc7h) | 2:18 |
 | 122 | [Brideshead](https://open.spotify.com/track/1B5AjxO07mIGx6ujhXo6BC) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Brideshead](https://open.spotify.com/album/6nydNcOoj2lRxAIMaQUxQe) | 4:00 |
 
-Snapshot ID: `aAq0fgAAAABgPXVi4vTQQmD4+AGNln8S`
+Snapshot ID: `aAq0fgAAAADDVbpZPKGShlxE6Sgdfa7P`

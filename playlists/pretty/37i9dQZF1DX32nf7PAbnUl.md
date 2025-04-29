@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,964 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,055 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Me Gusta](https://open.spotify.com/track/6P3FBaZfUjeWYExU2ShaPZ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [On ira où ?](https://open.spotify.com/album/3fUfQjOcEGe7vvnPA29GBh) | 2:55 |
 | 40 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 |
 
-Snapshot ID: `Z/jn1AAAAABhFQG5YfKdZw/xdaCqZG7d`
+Snapshot ID: `Z/jn1AAAAABEumf68GG/HoL1kqxxBQyj`

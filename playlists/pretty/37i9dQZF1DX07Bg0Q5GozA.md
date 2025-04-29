@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Moullinex, GPU Panic
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,993 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,986 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Post Romance](https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Post Romance](https://open.spotify.com/album/58PgUMhfc95w6sXHxLLIUc) | 3:55 |
 | 75 | [PARAMOUNT](https://open.spotify.com/track/1moNN6nYfTaO8Inwz8yTX0) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PARAMOUNT](https://open.spotify.com/album/2otoS3TfBiNHBvd9ljkS2R) | 2:58 |
 
-Snapshot ID: `aAq0gwAAAAANv8+FVEfn5H3h+DAIDJdb`
+Snapshot ID: `aAq0gwAAAAB2skbmukD1TxvAvHAc3ldw`

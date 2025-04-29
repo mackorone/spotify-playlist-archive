@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Dere
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,194 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,218 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 100 | [Pejuang Berkah](https://open.spotify.com/track/0OfUGSYr6BC15I09FhAMVX) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Pejuang Berkah](https://open.spotify.com/album/3DLowrzcEdKzYnBR2CAhJM) | 4:23 |
 | 101 | [Ingin Bermesra](https://open.spotify.com/track/38qE0X83vhdDpUHwoy7SnK) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Ingin Bermesra](https://open.spotify.com/album/1FNOaQjQmXkUhavMa8gTD7) | 3:48 |
 
-Snapshot ID: `aArHwAAAAABbCL6c01JWR1zcCB9FJ5Em`
+Snapshot ID: `aArHwAAAAABVV3w6+jB9d73FPx4rWe1F`

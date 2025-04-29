@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 😎 with Zerb
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,974 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,955 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
 | 100 | [Libero](https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Libero](https://open.spotify.com/album/2BL9H5Ij4EkVkkPBp2BuEc) | 3:38 |
 
-Snapshot ID: `aAukGgAAAACqONi+5JoyqUAiRuBRVLB8`
+Snapshot ID: `aAukGgAAAAB86X/CsGTTebpS4PCqebZg`

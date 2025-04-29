@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=puY3KbZrT7\-ZMexy\_sjrKQ"> Ringo Madlingozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,579 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,684 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 74 | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/track/0tbKTeDj5aW7s1Psoi27A9) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/album/1QqOGET6v1XvLEazXsxfaa) | 5:06 |
 | 75 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
 
-Snapshot ID: `aAq0jwAAAABB/kpZTMLYxdQid5sjk6XE`
+Snapshot ID: `aAq0jwAAAACLJgMtrGlgA9GMLHvNh6XR`

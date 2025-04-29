@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Omar Moreno & Anakin Larios
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,979 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,997 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 59 | [Trompón](https://open.spotify.com/track/6iAs1ADtY6zSkFb0neKge3) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh) | [Shakas Tumbados](https://open.spotify.com/album/3BVPazxmGQwXe1LIb0w28m) | 2:38 |
 | 60 | [Mes Doce](https://open.spotify.com/track/0vO8vUtgIW3eZnalAzzDjI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Mes Doce](https://open.spotify.com/album/4AFiyO0hxJx17fyt8UfrHi) | 2:50 |
 
-Snapshot ID: `Z+9ZYgAAAAD0TxIlX1sroXKOD4HeuIiz`
+Snapshot ID: `Z+9ZYgAAAADIioHP2EqEUj1HN95U4M61`

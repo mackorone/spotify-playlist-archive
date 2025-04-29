@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-696 songs - 1 day 11 hr 17 min
+697 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Innocent](https://open.spotify.com/track/0R1IWHDG0pHI7Zyx0k5Fpz) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Michaella](https://open.spotify.com/artist/0gWwBifnNhOq7IisbNp2mj) | [Innocent](https://open.spotify.com/album/7oTVJrxC7dlTsNVjY4HplV) | 2:52 | 2022-05-19 | 2023-04-28 |
 | [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 | 2023-04-28 |
 | [Insides](https://open.spotify.com/track/6ahPq19N2CB1YcHKrs4890) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg), [JESSY KVGE](https://open.spotify.com/artist/7mhkgK8BCWTwGdsKPGwPgm) | [Insides](https://open.spotify.com/album/3IOlEaEF7q1mnrnrgufyF0) | 2:48 | 2023-02-08 | 2023-08-10 |
+| [Intranet Crush](https://open.spotify.com/track/7yn8mQvVGJbu6Mew82flMD) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [Intranet Crush](https://open.spotify.com/album/5k6GILbTEXPSS10F3ELTnM) | 2:16 | 2025-04-28 |  |
 | [Invincible](https://open.spotify.com/track/5KcKUpTEHMfcoAps9d5BvY) | [Deaf Kev](https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR) | [Invincible](https://open.spotify.com/album/0WSAj1lqowe437M8Zs6ZV9) | 4:39 | 2023-08-08 | 2024-02-01 |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 | 2024-01-27 |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 | 2023-08-10 |

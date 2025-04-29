@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADD06jmxwh+MEOlEQIRTQcE",
+  "snapshot_id": "aA1zgAAAAAAbZ4snCDKBvv88rriMC6Tf",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Mambo Maria",
-      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Pachanga",
         "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 149493,
       "name": "El Loco Bailar\u00edn",
       "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Mambo Maria",
+      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180493,
       "name": "La Crisis",
       "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
     },
     {
       "added_at": null,

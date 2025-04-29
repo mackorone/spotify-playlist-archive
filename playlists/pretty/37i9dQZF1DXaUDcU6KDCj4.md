@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,307 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,331 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Circle Protector](https://open.spotify.com/track/5sG4HkbutSdbA4sRXQDuO8) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | [Circle Protector / Evil Everywhere](https://open.spotify.com/album/0dXOKXEYLOb3x3rYzgzjS6) | 4:02 |
 | 150 | [Train of Thought](https://open.spotify.com/track/2BdoJ4qQzlR4xFEhppK9xV) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Train of Thought](https://open.spotify.com/album/0Z1gaTrl3I6U4wGBrKNWUk) | 2:46 |
 
-Snapshot ID: `aAsI9QAAAACJntVZkrHZYFwK852WqAMw`
+Snapshot ID: `aAsI9QAAAAB798yUe1iuDD/07eoRiysg`

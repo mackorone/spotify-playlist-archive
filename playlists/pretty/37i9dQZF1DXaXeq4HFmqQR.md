@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Mamma Soul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,430 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,433 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 30 | [Volver a los 17](https://open.spotify.com/track/22BcmMzT3mY5CmstuCXSBD) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las Últimas Composiciones](https://open.spotify.com/album/6hCWXZNwVtLk8vcEFiCmfE) | 4:09 |
 | 31 | [Huaynito de Amor](https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 2:28 |
 | 32 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
-| 33 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
-| 34 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
+| 33 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
+| 34 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
 | 35 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
 
-Snapshot ID: `Z+yoTQAAAACSYHnLcO5LrDFC7JTe9xa9`
+Snapshot ID: `Z+yoTQAAAACfyk6lV+f8b39FpjU5R/dg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,130 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,139 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 40 | [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 |
 
-Snapshot ID: `aAq0kAAAAAAZEns07cIlRB6OmaLS6Bmm`
+Snapshot ID: `aAq0kAAAAABSNYqwtBprMpTjsK3vqeh8`

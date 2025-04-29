@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10850,
+  "num_followers": 10864,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/X+6gAAAADZTeN6EQro41Am+I/oLjqp",
+  "snapshot_id": "Z/X+6gAAAABVkP55h1st+X6sUpRmraGT",
   "tracks": [
     {
       "added_at": "2025-04-09 05:00:26",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -987,26 +967,46 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

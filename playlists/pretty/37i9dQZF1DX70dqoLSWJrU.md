@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,953 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,982 likes - 90 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,22 +60,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 50 | [I See Your Face Before Me \- Remastered](https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 5:29 |
 | 51 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 |
 | 52 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
-| 53 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
-| 54 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
+| 53 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
+| 54 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 55 | [In A Sentimental Mood](https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:57 |
 | 56 | [I Think Of You \- Remastered](https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:04 |
 | 57 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
 | 58 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 |
-| 59 | [Losing You](https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF) | 3:24 |
-| 60 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
+| 59 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
+| 60 | [Losing You](https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF) | 3:24 |
 | 61 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
 | 62 | [Fine And Mellow](https://open.spotify.com/track/73ttODihEiZ6hsgYm7SjA1) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Yesterday I Had The Blues \- The Music Of Billie Holiday](https://open.spotify.com/album/0r82TjEvcuvJI5gT0lWjQ9) | 5:11 |
 | 63 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
 | 64 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 65 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
 | 66 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
-| 67 | [I'm a Fool to Want You](https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:06 |
-| 68 | [I Won't Cry Anymore](https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Jimmy Carroll Orchestra](https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0) | [Music For Late Hours](https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF) | 3:25 |
+| 67 | [I Won't Cry Anymore](https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Jimmy Carroll Orchestra](https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0) | [Music For Late Hours](https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF) | 3:25 |
+| 68 | [I'm a Fool to Want You](https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:06 |
 | 69 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
 | 70 | [Blame It On My Youth](https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:10 |
 | 71 | [Baby Won't You Please Come Home](https://open.spotify.com/track/0W5Szvf48ubKfPvgsZIEZ6) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 8:25 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 87 | [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 |
 | 88 | [There's No Such Thing As Love](https://open.spotify.com/track/2YsnPlou8g7xdKDCguDOYc) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:03 |
 | 89 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
-| 90 | [How Could You](https://open.spotify.com/track/5bXjwGL7zwsokVQHN8hhLh) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [How Could You](https://open.spotify.com/album/0qY5Zfzo9OyXobt1JJgSKH) | 4:53 |
+| 90 | [I'm Gonna Laugh You Out of My Life](https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:40 |
 
-Snapshot ID: `Z4ULyQAAAAAK6a4sm8L4ZQdtAd5mVFOw`
+Snapshot ID: `Z4ULyQAAAAAsZRYmLukZpQ9zFH07BSb/`

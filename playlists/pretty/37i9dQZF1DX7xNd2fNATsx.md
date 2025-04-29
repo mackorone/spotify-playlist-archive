@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,346 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,349 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 49 | [I Wont Tell You](https://open.spotify.com/track/6SVNJBqKbqVFt9uoIgXUNg) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [I Wont Tell You](https://open.spotify.com/album/2DVtyd8VsQHY6AwjLYUo96) | 3:33 |
 | 50 | [Close \- The Dare Remix](https://open.spotify.com/track/272WAMT7l0kMJLqlcNBPlA) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Close \(The Dare Remix\)](https://open.spotify.com/album/7qG3vzHHOy07lVTG4VJjgc) | 4:30 |
 
-Snapshot ID: `Z/g/aAAAAADqtN3IQeIAOxR6rFnBSYPq`
+Snapshot ID: `Z/g/aAAAAAC1sm9sx5NVYCuiNWkTyfik`

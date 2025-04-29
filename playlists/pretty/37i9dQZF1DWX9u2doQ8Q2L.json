@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 391533,
+  "num_followers": 391562,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAhm8gAAAACDnSxvJyImXZgSLNwfqbPz",
+  "snapshot_id": "aAhm8gAAAAAz1O1WleDrIQZJ6cJu+L33",
   "tracks": [
     {
       "added_at": "2025-04-23 04:05:06",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
         "name": "TWILIGHT!!!",
         "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 217160,
       "name": "TWILIGHT!!!",
       "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
-        "name": "\u82b1\u7121\u53cc",
-        "url": "https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "\u82b1\u7121\u53cc",
-      "url": "https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
         "name": "City Love City Love City Love",
         "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 211333,
       "name": "Eureka",
       "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
+        "name": "\u82b1\u7121\u53cc",
+        "url": "https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "\u82b1\u7121\u53cc",
+      "url": "https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
         "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
         "name": "SCIENCE FICTION",
         "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
       },
@@ -1263,26 +1263,6 @@
       "duration_ms": 308695,
       "name": "traveling - Re-Recording",
       "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
-        "name": "Stay With Me (feat. Hikaru Utada)",
-        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 172085,
-      "name": "Stay With Me (feat. Hikaru Utada)",
-      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -1319,6 +1299,26 @@
       "duration_ms": 180461,
       "name": "A24",
       "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
+        "name": "Stay With Me (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 172085,
+      "name": "Stay With Me (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-04-23 04:05:06",
       "album": {
+        "name": "PROVOKE",
+        "url": "https://open.spotify.com/album/16e51QIO4jxTpRvbsHJdah"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "JULIUS",
+      "url": "https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
         "name": "Pick you up",
         "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
       },
@@ -1639,6 +1655,26 @@
       "duration_ms": 218839,
       "name": "Pick you up",
       "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
+    },
+    {
+      "added_at": "2025-04-23 04:05:06",
+      "album": {
+        "name": "LIVE IT UP! (feat. Furui Riho)",
+        "url": "https://open.spotify.com/album/7EhenG8cXC6o2jHnAUHemC"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        },
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "duration_ms": 225541,
+      "name": "LIVE IT UP! (feat. Furui Riho)",
+      "url": "https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P"
     },
     {
       "added_at": "2025-04-23 04:05:06",
@@ -1687,42 +1723,6 @@
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
-        "name": "Laundry",
-        "url": "https://open.spotify.com/album/3VJOqQ5dsuWXKx9YOWfYNq"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Taxi to the Moon",
-      "url": "https://open.spotify.com/track/6wcRXWJwk0LRS5Pp2UZssb"
-    },
-    {
-      "added_at": "2025-04-23 04:05:06",
-      "album": {
-        "name": "Nightglow Dreamer",
-        "url": "https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky"
-      },
-      "artists": [
-        {
-          "name": "Wendy Wander",
-          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
-        },
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 269516,
-      "name": "Nightglow Dreamer",
-      "url": "https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT"
     }
   ],
   "unique_name": "Tokyo Rising",

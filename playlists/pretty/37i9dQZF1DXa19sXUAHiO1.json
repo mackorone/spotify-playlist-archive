@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1258067,
+  "num_followers": 1258078,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZownSAAAAABBO0bV7BeBAUeuIgdX1kb7",
+  "snapshot_id": "ZownSAAAAAA9SfV0ssCdHZ7kcogh4T+8",
   "tracks": [
     {
       "added_at": "2023-04-07 17:37:33",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
       "added_at": "2021-12-14 20:07:58",
       "album": {
         "name": "Rocky Mountain High",
@@ -443,6 +427,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Tap Root Manuscript",
+        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Cracklin' Rosie - Single Version",
+      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
       "added_at": "2021-12-14 20:17:09",
       "album": {
         "name": "This Old Heart Of Mine",
@@ -539,22 +555,6 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
-    },
-    {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "Tap Root Manuscript",
-        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Cracklin' Rosie - Single Version",
-      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
     },
     {
       "added_at": "2021-01-06 18:39:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,107 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,168 likes - 70 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 56 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
 | 57 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F) | 4:41 |
 | 58 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
-| 59 | [Maior do Que a Vida](https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1) | [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Maior do Que a Vida](https://open.spotify.com/album/61Asls8mBChyPHD5lPzvdu) | 4:20 |
-| 60 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
+| 59 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
+| 60 | [Maior do Que a Vida](https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1) | [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Maior do Que a Vida](https://open.spotify.com/album/61Asls8mBChyPHD5lPzvdu) | 4:20 |
 | 61 | [Seja Forte e Corajoso \- Ao Vivo](https://open.spotify.com/track/04i8glpUdpgqOa9PWDo4uM) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN) | [Seja Forte e Corajoso \(Ao Vivo\)](https://open.spotify.com/album/6QCjDE6PNN5yREjR7fk7HV) | 8:18 |
 | 62 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 | 63 | [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 67 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
 | 68 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 |
 | 69 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
-| 70 | [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 |
+| 70 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
 
-Snapshot ID: `Z/1DOgAAAABIl6JU6CWYLfpqjao77g8s`
+Snapshot ID: `aA+/iwAAAAB0TU7ISXo0cM99BLwQTbZn`

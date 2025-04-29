@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. 📸 Frozouda
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,728 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,731 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [A o B](https://open.spotify.com/track/4oVZbGkrMJbgbyNGKLe2Kg) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [A o B](https://open.spotify.com/album/0BJk0oxddt0DNpFMqfciYM) | 3:05 |
 | 100 | [Morir Cantando](https://open.spotify.com/track/3Kzu9mFIJs6otijZY6lzOz) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [La Capitana](https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd) | 1:52 |
 
-Snapshot ID: `aAr6zwAAAABcgfff1DzlLxQHSM3mTtl4`
+Snapshot ID: `aAr6zwAAAADYQ62pC/u0dO2CD+unwt0w`

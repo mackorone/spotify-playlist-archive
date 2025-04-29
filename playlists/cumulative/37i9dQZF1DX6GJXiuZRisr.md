@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-582 songs - 1 day 16 hr 30 min
+583 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
 | [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 | 2025-04-28 |
 | [Desire \(with Sam Smith\) \- Cedric Gervais Festival Mix](https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Desire \(with Sam Smith\) \[Cedric Gervais Remixes\]](https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx) | 4:19 | 2023-09-22 | 2023-11-28 |
+| [Destiny](https://open.spotify.com/track/4Y4873G9rIrmAAYBqJPqWG) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Destiny](https://open.spotify.com/album/0ZurJfSYiXVQI1Y6bHwzRa) | 3:05 | 2025-04-25 |  |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-12-01 | 2025-04-07 |
 | [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 | 2023-09-23 |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2022-07-06 |
@@ -497,7 +498,7 @@
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 | 2023-11-21 |
-| [The Little Mushroom That Got Away](https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Little Mushroom That Got Away](https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU) | 5:35 | 2023-10-06 |  |
+| [The Little Mushroom That Got Away](https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Little Mushroom That Got Away](https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU) | 5:35 | 2023-10-06 | 2025-04-29 |
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2024-06-02 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 | 2024-04-19 |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |

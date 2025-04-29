@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: DJ HAYDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,367 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,377 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 100 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 |
 | 101 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 
-Snapshot ID: `aAq0NgAAAAD4dvMbop3eI7ZHgoMvbKqf`
+Snapshot ID: `aAq0NgAAAAD2X7k3YTmIQA17g5r4BFmW`

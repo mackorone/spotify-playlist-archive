@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,210 likes - 205 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,473 likes - 205 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 204 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 |
 | 205 | [Euphorbia](https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK) | [Spatial Dreams](https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu) | [Euphorbia](https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ) | 2:34 |
 
-Snapshot ID: `aAj64wAAAAAx1x3hlaetSxsXNTXcG/U9`
+Snapshot ID: `aAj64wAAAAA9dBRyEBJl0xwrGKuhiuIk`

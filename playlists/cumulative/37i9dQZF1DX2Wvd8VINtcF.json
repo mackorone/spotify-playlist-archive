@@ -1599,6 +1599,32 @@
     },
     {
       "album": {
+        "name": "All that Glitters is not Gold",
+        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "All that Glitters is not Gold",
+      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
+    },
+    {
+      "album": {
         "name": "All That She Wants (Axel Boman X Off The Meds Remix)",
         "url": "https://open.spotify.com/album/3Au6S3ZAxiIZX9SpFhK8sX"
       },

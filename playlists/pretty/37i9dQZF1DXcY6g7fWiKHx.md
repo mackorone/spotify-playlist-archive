@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,630 likes - 299 songs - 1 day 0 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,644 likes - 299 songs - 1 day 0 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 298 | [SAMURAI \(Yukihiro Fukutomi remix\)](https://open.spotify.com/track/1vOfp2opkub4MGGBTMiH6p) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [福富幸宏](https://open.spotify.com/artist/7CcucY3NfXsVTRrifyahOs) | [the REMIXES PART:Ⅰ](https://open.spotify.com/album/4wCHvtc75fZiUwYOjTEWQV) | 11:09 |
 | 299 | [Chains Of Doubt](https://open.spotify.com/track/3t0JIMuYwxAJ4Wf4x6WuDt) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Love Can Go The Distance](https://open.spotify.com/album/7JeGLkLEZbMss1QvqGj1e6) | 4:50 |
 
-Snapshot ID: `Z9vnFAAAAADH86sxiLLULhLtrCs+1jcy`
+Snapshot ID: `Z9vnFAAAAADt7ETqvhX83n6cqkNElFUB`

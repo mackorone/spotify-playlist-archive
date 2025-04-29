@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIhLRyftYTy.md) - [plain]
 
 > Listen to the soundtracks of the drama Dr\. Romantic 3\. \(드라마 낭만닥터 김사부3의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,094 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,100 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIhLRyftYTy.md) - [plain]
 | 33 | [Good Bye](https://open.spotify.com/track/5Ku4CHHk8Va8T25ZVfiTZg) | [Jeon Chang Yeop](https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe), [Park Suk Won](https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O), [Ju Ji Hoon](https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:40 |
 | 34 | [Romantic Doctor Ending Title](https://open.spotify.com/track/28fPeutVAsojn8ja2msoCu) | [Jeon Chang Yeop](https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe), [Park Suk Won](https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O), [Ju Ji Hoon](https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:41 |
 
-Snapshot ID: `ZJJfGAAAAAC/xmR2QvdA/4D+G3lFmMik`
+Snapshot ID: `ZJJfGAAAAABMCdG8myoMDNKTHXA3MDr7`

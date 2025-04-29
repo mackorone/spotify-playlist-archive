@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,584 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,648 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/track/2BVmswbLRnULCTiAkpTdwO) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/album/1Dr2rDsA0rsiTOaDahpuX2) | 4:43 |
 | 80 | [It's Your Boy](https://open.spotify.com/track/6ukYEennm4qhPWKjm1YM9d) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [It's Your Boy](https://open.spotify.com/album/4DyQXOsMsTcEJRBUKeycRR) | 3:55 |
 
-Snapshot ID: `aArQYwAAAAC+8VJkMAfEaxrEaNMrZYj6`
+Snapshot ID: `aArQYwAAAACFd2nX4qav4MHlnqtSxNcj`

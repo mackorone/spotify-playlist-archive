@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Turnstile along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,943 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,950 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Not In Surrender](https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Not In Surrender](https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO) | 3:19 |
 | 75 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 |
 
-Snapshot ID: `aAsI8gAAAAAyawsSbTCc0UaxnzedIRgN`
+Snapshot ID: `aAsI8gAAAADBwdO7BhxmgSH+vehUf2kb`

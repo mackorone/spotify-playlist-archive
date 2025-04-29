@@ -7235,6 +7235,32 @@
     },
     {
       "album": {
+        "name": "Hypnotic (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249461,
+      "name": "Hypnotic (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
+    },
+    {
+      "album": {
         "name": "I AM A GOD",
         "url": "https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk"
       },
@@ -7868,7 +7894,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"

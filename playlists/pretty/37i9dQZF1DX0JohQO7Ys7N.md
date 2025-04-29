@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,682 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,699 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [I'LL BE YOUR FRIEND \(original Motion Picture Soundtrack\)](https://open.spotify.com/track/7e0umUGn7RmoZ3WW0ChD6Z) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU), [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [I'LL BE YOUR FRIEND \(original Motion Picture Soundtrack\)](https://open.spotify.com/album/18hl9ma5j29D3FjMCrtP9U) | 3:58 |
 | 60 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 |
 
-Snapshot ID: `aAs91wAAAAANBkpIpQXsY8jptFRMRsDD`
+Snapshot ID: `aAs91wAAAAC6a2hXs4KJ29vFI0DACeB2`

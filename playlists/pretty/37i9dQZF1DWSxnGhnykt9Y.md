@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,333 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,368 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 12 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
 | 13 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
 | 14 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 15 | [Yaba Left](https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Something In A Name, Vol.1](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 2:48 |
+| 15 | [](https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 0:00 |
 | 16 | [Feel Your Soul](https://open.spotify.com/track/6l70v6PAM2O99OBmcakjH1) | [Princess Ade](https://open.spotify.com/artist/0o3q4sHZujIMTR1Vjmt3YF) | [Feel Your Soul](https://open.spotify.com/album/2VKHky6WRk9DqIrJTVD3gm) | 2:32 |
 | 17 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 18 | [Recovery](https://open.spotify.com/track/30ExC7bZ2Kfn6Vq3uuigaU) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Recovery](https://open.spotify.com/album/4x4RDCyzsUAIktzrYftG8D) | 2:36 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 49 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
 | 50 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 |
 | 51 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 |
-| 52 | [Away](https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Something In A Name, Vol.1](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 2:51 |
+| 52 | [](https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 0:00 |
 | 53 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 54 | [No Touching](https://open.spotify.com/track/44z2DxLiXMXUz8MVNM5V8u) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [No Touching](https://open.spotify.com/album/2FQ31NoLa34SCId9LpYTso) | 2:41 |
 | 55 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 84 | [Happiness Matter](https://open.spotify.com/track/6Wm40GepUVKhTjEBI07xtz) | [Krys M](https://open.spotify.com/artist/6B6DGmfpucF3zITrGDzbCi) | [EMPREINTE](https://open.spotify.com/album/5J9E0Zdg4QCZfyttFZsl50) | 3:53 |
 | 85 | [No Love](https://open.spotify.com/track/1vGvRiSzARAfvfVVcQ4JhX) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Juste un Vendredi](https://open.spotify.com/album/4PEmo8y2wO77HbJniDoAk0) | 3:13 |
 
-Snapshot ID: `aAGWVQAAAAAuVOHbiQZcBOazcrBNOq7E`
+Snapshot ID: `aAGWVQAAAABKRHmZ+TFpcPCP98cK5tLq`

@@ -3105,6 +3105,32 @@
     },
     {
       "album": {
+        "name": "All that Glitters is not Gold",
+        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "All that Glitters is not Gold",
+      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
+    },
+    {
+      "album": {
         "name": "All That She Wants",
         "url": "https://open.spotify.com/album/41Hc7Hc8xXVNGl31FjuxgZ"
       },
@@ -4531,7 +4557,7 @@
         },
         {
           "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+          "url": "https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd"
         },
         {
           "name": "MEDUZA",
@@ -27124,6 +27150,10 @@
         {
           "name": "Tiscore",
           "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
         }
       ],
       "date_added": "2025-04-24",

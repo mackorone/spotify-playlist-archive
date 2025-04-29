@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-206 songs - 16 hr 38 min
+207 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/6V1fPktqvMrVvXdhp24MbV) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/1FxuTPS6u0RLW6wP7xCFCA) | 3:31 | 2023-12-22 | 2024-07-13 |
 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 | 2023-12-22 |  |
 | [Canção de amor fraterno](https://open.spotify.com/track/36FpzYhMHTFwdXBwC5CoAj) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Cantores De Deus](https://open.spotify.com/artist/75SoqaD8unhvQJX4S8TXv1), [Ir ao Povo](https://open.spotify.com/artist/7mNkF70NgCUFZOutMpGiRO), [Ricardo Moreno](https://open.spotify.com/artist/4NrfyzVmR9raVSo2rS7Szw), [Giba](https://open.spotify.com/artist/7iW8mgV6amEc5IGdRpyCwQ) | [Canção de amor fraterno](https://open.spotify.com/album/6TI8JrepJxlaxxFIZgQjCu) | 4:32 | 2023-03-24 | 2023-06-03 |
-| [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 | 2022-09-02 |  |
+| [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 | 2022-09-02 | 2025-04-29 |
 | [Casa](https://open.spotify.com/track/7F04vyYX9Tsx9pDU8toRN2) | [Alpha](https://open.spotify.com/artist/7rA4lTXAy2Ov1ATHnEAtCJ), [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb), [Mayara Marques](https://open.spotify.com/artist/4Hkfsfi0vIGddWIPO1hQ0S) | [Alpha: Lado B](https://open.spotify.com/album/1uqXemJQzR73XCMvTgVUGA) | 7:31 | 2022-09-02 | 2022-11-26 |
 | [Casa](https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Casa](https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk) | 4:59 | 2022-09-02 | 2024-11-08 |
 | [Chagas De Amor](https://open.spotify.com/track/6GsTFCk0ZRVu5JZcz4lTTW) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Chagas De Amor](https://open.spotify.com/album/1ZFpI0Tk4cIdqBnEPfcMq1) | 4:25 | 2022-09-02 | 2022-10-15 |
@@ -200,6 +200,7 @@
 | [Teu Amor Não Sabe](https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Thiago Tomé](https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP) | [Studio Canção Nova \(Acústico\)](https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO) | 3:49 | 2025-01-24 |  |
 | [To Indo Embora \- Família É Tudo Igual, Só Muda de Endereço, Ao Vivo](https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S) | [Padre Alessandro Campos](https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS) | [To Indo Embora \(Família É Tudo Igual\)](https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat) | 3:11 | 2024-10-04 | 2024-11-16 |
 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 | 2022-09-02 | 2023-05-13 |
+| [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 | 2025-04-28 |  |
 | [Todo Tempo do Mundo](https://open.spotify.com/track/5enLDl3yrtx3L3aMIiXKFC) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Fogo](https://open.spotify.com/album/2PJRaGGWNHcfjb8cPQall9) | 3:52 | 2024-08-09 | 2024-10-18 |
 | [Tua Morada](https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Tua Morada](https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt) | 5:24 | 2022-09-02 | 2023-02-11 |
 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 | 2022-09-02 |  |

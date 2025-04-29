@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1H4RtXeHusPL9XHlsiQHuf">Muriel</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,122 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,121 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [orrido](https://open.spotify.com/track/6IGTR2RVFKm44mxjHmOAt8) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [ORRIDO](https://open.spotify.com/album/66wClrF2Fl6pGFQijvR7Hz) | 5:06 |
 | 55 | [IO VOLEVO](https://open.spotify.com/track/5YWf3XfMbWdcd3eQqwjcTW) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [IO VOLEVO](https://open.spotify.com/album/7gXxccDicstPL11QGub92e) | 2:53 |
 
-Snapshot ID: `aAgRtwAAAABTyUVN9KdWz7XrlOTxP1AI`
+Snapshot ID: `aAgRtwAAAACpHxfQv0xUbMvsv5iNOg6H`

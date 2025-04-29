@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Neffa",
-  "num_followers": 45901,
+  "num_followers": 45912,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAF6PQAAAACpZKQ1b2S4aq8dU+se2ULs",
+  "snapshot_id": "aAF6PQAAAAAKeq2AoqS533JLMGNMv28m",
   "tracks": [
     {
       "added_at": "2025-04-17 22:01:33",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "duration_ms": 169473,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
         "name": "Kenny Wells",
         "url": "https://open.spotify.com/album/0I6mOIKh7HwXTqpKMSjmzH"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY"
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
       },
       "artists": [
         {
-          "name": "Tredici Pietro",
-          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 169473,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC"
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4Pn1ZirXzWEOI578Ncj0Q9"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -675,22 +691,6 @@
       "duration_ms": 211244,
       "name": "Antenne",
       "url": "https://open.spotify.com/track/77lmy87A8r7n6GIvsfXP97"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4Pn1ZirXzWEOI578Ncj0Q9"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Due lettere dopo",
-        "url": "https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S"
-      },
-      "artists": [
-        {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Ai tossici (prima lettera)",
-      "url": "https://open.spotify.com/track/7AG8oF1zdpiBKkt2Yyu5R0"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "Numero zero ep",
         "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
       },
@@ -1083,26 +1067,18 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Struggle Music",
-        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+        "name": "Due lettere dopo",
+        "url": "https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
         }
       ],
-      "duration_ms": 216086,
-      "name": "Con i soldi in testa",
-      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
+      "duration_ms": 179999,
+      "name": "Ai tossici (prima lettera)",
+      "url": "https://open.spotify.com/track/7AG8oF1zdpiBKkt2Yyu5R0"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1131,6 +1107,30 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
+        "name": "Due lettere dopo",
+        "url": "https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S"
+      },
+      "artists": [
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        }
+      ],
+      "duration_ms": 157362,
+      "name": "No escort",
+      "url": "https://open.spotify.com/track/39HtNhC2ug7fAdTZbDMFaD"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Due lettere dopo",
-        "url": "https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S"
-      },
-      "artists": [
-        {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
-        },
-        {
-          "name": "Speranza",
-          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
-        }
-      ],
-      "duration_ms": 157362,
-      "name": "No escort",
-      "url": "https://open.spotify.com/track/39HtNhC2ug7fAdTZbDMFaD"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "D.O.G.O. (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1279,22 +1299,18 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 224526,
-      "name": "D.O.G.O. (feat. Marracash)",
-      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1315,22 +1331,6 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Nuova Forma",
-        "url": "https://open.spotify.com/album/5jk4fzc1c30kmNxixYaD9u"
-      },
-      "artists": [
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Daniele Silvestri",
-          "url": "https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Bla Bla Bla (feat. Daniele Silvestri)",
-      "url": "https://open.spotify.com/track/2grhA3ctx7EfcNCxaMczkl"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -1423,22 +1403,22 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+        "name": "Nuova Forma",
+        "url": "https://open.spotify.com/album/5jk4fzc1c30kmNxixYaD9u"
       },
       "artists": [
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
         },
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Daniele Silvestri",
+          "url": "https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF"
         }
       ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+      "duration_ms": 216146,
+      "name": "Bla Bla Bla (feat. Daniele Silvestri)",
+      "url": "https://open.spotify.com/track/2grhA3ctx7EfcNCxaMczkl"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1459,38 +1439,22 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Il Mio Paese Se Ne Frega 2025",
-        "url": "https://open.spotify.com/album/5iwvr2befXYvnXKnWwAHaK"
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Il Mio Paese Se Ne Frega 2025",
-      "url": "https://open.spotify.com/track/0xf8uvBuvU4DbbOwdvcOIW"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1519,6 +1483,42 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Il Mio Paese Se Ne Frega 2025",
+        "url": "https://open.spotify.com/album/5iwvr2befXYvnXKnWwAHaK"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Il Mio Paese Se Ne Frega 2025",
+      "url": "https://open.spotify.com/track/0xf8uvBuvU4DbbOwdvcOIW"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 290128,
       "name": "Never",
       "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 264689,
+      "name": "Note killer",
+      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
+        "name": "La realt\u00e0, la lealt\u00e0 e lo scontro",
+        "url": "https://open.spotify.com/album/77F6IMqIvxFouMNQcbT2A1"
+      },
+      "artists": [
+        {
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+        }
+      ],
+      "duration_ms": 287240,
+      "name": "E la sagra continua",
+      "url": "https://open.spotify.com/track/4goADPUvaTxCHH1MuozXt7"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
         "name": "Rock On",
         "url": "https://open.spotify.com/album/3ED3F1GWHUBZnaYdMtBKIa"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 185714,
       "name": "Gravit\u00e0",
       "url": "https://open.spotify.com/track/1zHZxgTZ0knIS6rm1XlLU7"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
-        "name": "La realt\u00e0, la lealt\u00e0 e lo scontro",
-        "url": "https://open.spotify.com/album/77F6IMqIvxFouMNQcbT2A1"
-      },
-      "artists": [
-        {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
-        }
-      ],
-      "duration_ms": 287240,
-      "name": "E la sagra continua",
-      "url": "https://open.spotify.com/track/4goADPUvaTxCHH1MuozXt7"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -2387,30 +2387,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Beat Coin",
-        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
-      },
-      "artists": [
-        {
-          "name": "DJ Gengis",
-          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Sembra un film",
-      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -2435,6 +2411,30 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Beat Coin",
+        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
+      },
+      "artists": [
+        {
+          "name": "DJ Gengis",
+          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Sembra un film",
+      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -2703,18 +2703,22 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 221806,
-      "name": "Cronache di resistenza - Hard to do",
-      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -2739,26 +2743,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "WOP",
         "url": "https://open.spotify.com/album/6kgk6VVGn3QjhqiZQsFRBk"
       },
@@ -2779,6 +2763,22 @@
       "duration_ms": 185553,
       "name": "Outfit Giancana",
       "url": "https://open.spotify.com/track/4GpAB6OC3odOR6lOldeqb8"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 221806,
+      "name": "Cronache di resistenza - Hard to do",
+      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
     },
     {
       "added_at": "2025-04-17 22:01:33",
@@ -3039,26 +3039,6 @@
     {
       "added_at": "2025-04-17 22:01:33",
       "album": {
-        "name": "Amore puro",
-        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "Amore puro",
-      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
-    },
-    {
-      "added_at": "2025-04-17 22:01:33",
-      "album": {
         "name": "A Fuoco Lento",
         "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
       },
@@ -3103,6 +3083,26 @@
       "duration_ms": 262338,
       "name": "Ora Che La Musica Non C'\u00e8",
       "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
+    },
+    {
+      "added_at": "2025-04-17 22:01:33",
+      "album": {
+        "name": "Amore puro",
+        "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "Amore puro",
+      "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
     }
   ],
   "unique_name": "Radici Hip-Hop",

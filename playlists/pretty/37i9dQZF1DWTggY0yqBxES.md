@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kee Nola
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,370 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,373 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Double The Fun](https://open.spotify.com/track/3qTvr3GcWm7iVIojVEbFBo) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Double The Fun](https://open.spotify.com/album/3kTrG8X7CMET7p6I5h3JcB) | 3:06 |
 | 100 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 
-Snapshot ID: `aAsI/wAAAABLvb/M1gUeEG4vGCBv+KLr`
+Snapshot ID: `aAsI/wAAAAAhGTGhuiskllhWKuN8mhVK`

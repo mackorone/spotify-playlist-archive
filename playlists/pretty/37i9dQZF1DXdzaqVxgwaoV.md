@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,268 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,262 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 22 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 23 | [La Colegiala](https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 | 24 | [Mentirosa](https://open.spotify.com/track/3IVYIU7UrZzRM7CTHtKpcZ) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor Lopez \(Vol\. 4\)](https://open.spotify.com/album/2DNCFCkioFamNb5SGZlJNv) | 4:00 |
-| 25 | [Loquito por Ti](https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:47 |
-| 26 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
+| 25 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
+| 26 | [Loquito por Ti](https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:47 |
 | 27 | [Confundido](https://open.spotify.com/track/01wGxhYOijxtDG5WH2NfN0) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Inimitable](https://open.spotify.com/album/4zuvg55OoPV5Azz9Wmy3JA) | 4:52 |
 | 28 | [Mil Horas](https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 7\)](https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m) | 3:46 |
 | 29 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 74 | [Me Tocó Perderte](https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:11 |
 | 75 | [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/2Px53AqxDfgxdNcq8t6Y09) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 |
 | 76 | [Las Caleñas Son Como las Flores \- Remix](https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:54 |
-| 77 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |
-| 78 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
+| 77 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
+| 78 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |
 | 79 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 80 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 |
 | 81 | [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 99 | [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 |
 | 100 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |
 
-Snapshot ID: `ZyRBqAAAAAAs0O/ojh4UnlFlMFr906xS`
+Snapshot ID: `ZyRBqAAAAADeNyXtg/g4awTTWhtAC6ek`

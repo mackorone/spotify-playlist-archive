@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,595 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,706 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 50 | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc) | 3:14 |
 | 51 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
 | 52 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 |
-| 53 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 |
-| 54 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
+| 53 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
+| 54 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 |
 | 55 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
 | 56 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 |
 | 57 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 60 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
 | 61 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 62 | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV) | 3:02 |
-| 63 | [Dejame Amarte](https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 1:54 |
-| 64 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 |
+| 63 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 |
+| 64 | [Dejame Amarte](https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 1:54 |
 
-Snapshot ID: `aAr60AAAAABpwYUlakLG5d2EAt8rgusH`
+Snapshot ID: `aAr60AAAAAB8jXQ4UOw464hwfi1LCnl0`

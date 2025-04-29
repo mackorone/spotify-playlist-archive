@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Flaco G in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,660 likes - 66 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,704 likes - 66 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 65 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |
 | 66 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
 
-Snapshot ID: `aAq0ugAAAAABEuhRrL44+tuGCHsRi+FP`
+Snapshot ID: `aAq0ugAAAACSUADfEsS0M+3dzTdtWorJ`

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 20543,
+  "num_followers": 20556,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq0U5QAAAADhctgTtR03Xm5HKRVsC6Ac",
+  "snapshot_id": "Zq0U5QAAAAAxZok3HxV1I3NI3g7R1zCw",
   "tracks": [
     {
       "added_at": "2024-08-02 17:18:29",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Yuyo Verde",
-      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 148293,
       "name": "Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Yuyo Verde",
+      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
-        }
-      ],
-      "duration_ms": 113213,
-      "name": "Pipistrela",
-      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+        }
+      ],
+      "duration_ms": 113213,
+      "name": "Pipistrela",
+      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Amor Ese Loco Berretin",
-        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
-      },
-      "artists": [
-        {
-          "name": "Rita Cortese",
-          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Nunca Tuvo Novio",
-      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "The Roots Of Tango - Milonga Sentimental",
         "url": "https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 158842,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
+      },
+      "artists": [
+        {
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+        "name": "Susy Leiva - Grandes Exitos -",
+        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
       },
       "artists": [
         {
-          "name": "Las Del Abasto",
-          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
+          "name": "Susy Leiva",
+          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
+      "duration_ms": 178386,
+      "name": "Che bandoneon",
+      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
     }
   ],
   "unique_name": "Mujeres del Tango",

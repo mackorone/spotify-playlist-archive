@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,599,631 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,599,905 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Rigid \- Kobosil 44 Rush Mix](https://open.spotify.com/track/6Uv0QLfMnAteF6KT0Fltbn) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm), [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Rr4](https://open.spotify.com/album/7Cpue8LqnmJi8wml74GLeA) | 6:52 |
 | 100 | [Crazy People \- Victor Ruiz Remix](https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Crazy People \(Victor Ruiz Remix\)](https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac) | 7:14 |
 
-Snapshot ID: `aAq0igAAAAD3ZwSmf4NaLocFF2HZgHYv`
+Snapshot ID: `aAq0igAAAAAA37q4bfrcWXdrXRXLKHWc`

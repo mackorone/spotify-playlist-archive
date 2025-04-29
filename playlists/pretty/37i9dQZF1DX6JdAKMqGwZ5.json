@@ -1,12 +1,12 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Rufus T. Firefly.",
-  "num_followers": 199218,
+  "num_followers": 199210,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0hAAAAAAvfL9b5tWWwRmUOKeYjKMQ",
+  "snapshot_id": "aAq0hAAAAAC/HTHUF5fA8dfSqGVVWsRm",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:36",
@@ -507,18 +507,22 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "La Plaza",
-        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
+        "name": "Tutta La Notte (feat. Calcutta)",
+        "url": "https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ"
       },
       "artists": [
         {
-          "name": "Rufus T. Firefly",
-          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 204559,
-      "name": "La Plaza",
-      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
+      "duration_ms": 156000,
+      "name": "Tutta La Notte (feat. Calcutta)",
+      "url": "https://open.spotify.com/track/7rHhea17z3C7nxBeT3RP3Z"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "Tutta La Notte (feat. Calcutta)",
-        "url": "https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ"
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
       },
       "artists": [
         {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        },
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Tutta La Notte (feat. Calcutta)",
-      "url": "https://open.spotify.com/track/7rHhea17z3C7nxBeT3RP3Z"
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
         "name": "Que brille todo",
         "url": "https://open.spotify.com/album/0g9y2eXyxRhv9VBgjERZv7"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 203294,
       "name": "Que brille todo",
       "url": "https://open.spotify.com/track/6lJ81bYExa20qfLccVfa31"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
+        "name": "hibernarse",
+        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 163576,
+      "name": "hibernarse",
+      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 146065,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
-        "name": "hibernarse",
-        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 163576,
-      "name": "hibernarse",
-      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "quebrantarse",
-        "url": "https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 160905,
-      "name": "quebrantarse",
-      "url": "https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
         "name": "Vespa Verde Agua",
         "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 236138,
       "name": "El lago de mi pena",
       "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
+        "name": "quebrantarse",
+        "url": "https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 160905,
+      "name": "quebrantarse",
+      "url": "https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "Hibernarse",
-        "url": "https://open.spotify.com/album/5mBYiJmNgmFwGEXy0vftSR"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 58421,
-      "name": "feito a man",
-      "url": "https://open.spotify.com/track/7eU1pF95wQAZLYprQmTzkk"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
         "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
         "url": "https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 195389,
       "name": "No Me Digas La Verdad",
       "url": "https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
+        "name": "Hibernarse",
+        "url": "https://open.spotify.com/album/5mBYiJmNgmFwGEXy0vftSR"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 58421,
+      "name": "feito a man",
+      "url": "https://open.spotify.com/track/7eU1pF95wQAZLYprQmTzkk"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "Ni bien ni mal",
-        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Ni bien ni mal",
-      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
         "name": "SORA",
         "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "El ef\u00edmero arte de perdonar",
-        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+        "name": "Ni bien ni mal",
+        "url": "https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
         }
       ],
-      "duration_ms": 160000,
-      "name": "El ef\u00edmero arte de perdonar",
-      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
+      "duration_ms": 203076,
+      "name": "Ni bien ni mal",
+      "url": "https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "Lo mejor",
-        "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 117750,
-      "name": "Lo mejor",
-      "url": "https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr"
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1371,6 +1355,22 @@
       "duration_ms": 221901,
       "name": "Nunca mas",
       "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
+        "name": "Lo mejor",
+        "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "Lo mejor",
+      "url": "https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "CIELO1",
-        "url": "https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB"
-      },
-      "artists": [
-        {
-          "name": "Confeti de Odio",
-          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "PROFEC\u00cdA",
-      "url": "https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
         "name": "Abraxas!",
         "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 249124,
       "name": "Abraxas!",
       "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
+        "name": "CIELO1",
+        "url": "https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB"
+      },
+      "artists": [
+        {
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "PROFEC\u00cdA",
+      "url": "https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby"
     },
     {
       "added_at": "2025-04-24 22:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-04-24 22:00:36",
       "album": {
-        "name": "A\u00fan",
-        "url": "https://open.spotify.com/album/2116AaYap6XAKcmH9SX8mb"
-      },
-      "artists": [
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 130880,
-      "name": "A\u00fan",
-      "url": "https://open.spotify.com/track/7egiBAL2l8qemO4AtpFOvj"
-    },
-    {
-      "added_at": "2025-04-24 22:00:36",
-      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 165280,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+    },
+    {
+      "added_at": "2025-04-24 22:00:36",
+      "album": {
+        "name": "A\u00fan",
+        "url": "https://open.spotify.com/album/2116AaYap6XAKcmH9SX8mb"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 130880,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/7egiBAL2l8qemO4AtpFOvj"
     },
     {
       "added_at": "2025-04-24 22:00:36",

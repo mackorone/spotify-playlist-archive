@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Vale LP, Lil Jolie e IRBIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,895 likes - 110 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,898 likes - 110 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 109 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
 | 110 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
 
-Snapshot ID: `aAq0uAAAAADQNzKOnGAYrJ4o7ZgYRBmM`
+Snapshot ID: `aAq0uAAAAABFtvVWg5tHCYZWRr/dHlB4`

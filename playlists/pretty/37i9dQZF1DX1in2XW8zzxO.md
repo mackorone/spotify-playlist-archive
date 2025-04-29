@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,642 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,676 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/album/7eTzelrwkx02RTznHbQJCJ) | 5:24 |
 | 50 | [Guitar Man \(feat\. Amukelani M\)](https://open.spotify.com/track/6FRLrkIn0LYUX7whLWVyoA) | [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef 28](https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F), [Amukelani M](https://open.spotify.com/artist/6acpaT0NzgAvsLOB4dmaZV) | [Numbers Didn't Lie](https://open.spotify.com/album/02041eZmy9EtIJAyc0wcFf) | 6:39 |
 
-Snapshot ID: `aAG/LwAAAAAa15/b8ZV65ERUtoM04qe7`
+Snapshot ID: `aAG/LwAAAAB1cljGHTy02BLe8FRw4xYn`

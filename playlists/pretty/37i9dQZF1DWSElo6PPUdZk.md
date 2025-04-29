@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,781 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,792 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 |
 | 50 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 |
 
-Snapshot ID: `aASptgAAAAAE3fH2y0xQZAFRiKiQfIX0`
+Snapshot ID: `aASptgAAAADBSv7bft9jfcFcBSAK2haI`

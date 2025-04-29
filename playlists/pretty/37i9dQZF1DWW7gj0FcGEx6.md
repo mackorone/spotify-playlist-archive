@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,383 likes - 194 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,413 likes - 194 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 193 | [Lady in the Lake \(Main Theme\)](https://open.spotify.com/track/4j6M40d4evK7TI1P5D8f3z) | [Marcus Norris](https://open.spotify.com/artist/2WYtmKz8Cy3BZMXpaPC0hT), [South Side Symphony](https://open.spotify.com/artist/5xRYlo5SJ6HfQsRYE83W4n) | [Lady in the Lake \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/78l8QEEzXxTkO3o012ssQ7) | 1:17 |
 | 194 | [The Power of Many / End Title](https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \(Original Soundtrack\)](https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW) | 3:16 |
 
-Snapshot ID: `aAsI7wAAAADaVR8jdskmNzvXLDV5im+2`
+Snapshot ID: `aAsI7wAAAACNnYkE6+dHQ4MkHk/JRzyv`

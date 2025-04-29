@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [夏夜晚風](https://open.spotify.com/track/4aQXWu7kALDYTWQ2EyLZZE) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [當我不敢說 Weak Messages Create Bad Situations](https://open.spotify.com/album/24u8isVPiNJslYePcm5ozW) | 3:13 |
 | 36 | [雙重人格](https://open.spotify.com/track/6bkxoNG2cg4hjtrniCGVwB) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [雙重人格](https://open.spotify.com/album/3IwiGXP29ZHPHoP4v3ZE4E) | 3:32 |
 
-Snapshot ID: `aApgHQAAAADysybmbCGgxLgrmZkpiMTP`
+Snapshot ID: `aApgHQAAAABQmUuV1QnT4/H7kg3IISae`

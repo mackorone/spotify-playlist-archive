@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MAR, Sleepytheprince
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,168 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,170 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 52 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 53 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 |
-| 54 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
-| 55 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 54 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 55 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 | 56 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
 | 57 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 58 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 65 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 66 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
 | 67 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 |
-| 68 | [Say Something](https://open.spotify.com/track/58XjOiqlTBkjphq9LvQZjb) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Say Something](https://open.spotify.com/album/5SsymrDivUY3SJhNdbFpyp) | 2:54 |
-| 69 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
+| 68 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
+| 69 | [Say Something](https://open.spotify.com/track/58XjOiqlTBkjphq9LvQZjb) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Say Something](https://open.spotify.com/album/5SsymrDivUY3SJhNdbFpyp) | 2:54 |
 | 70 | [Só Pra Mim](https://open.spotify.com/track/086BFApQhJolDewBka9jit) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Só Pra Mim](https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4) | 3:06 |
 | 71 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 |
 | 72 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 73 | [culpada](https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [SOZINHA E MAL ACOMPANHADA](https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi) | 3:10 |
 | 74 | [Quem És Tu?](https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Quem És Tu?](https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI) | 2:40 |
-| 75 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 |
+| 75 | [Dimas](https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk) | [Ne Jah](https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Dimas](https://open.spotify.com/album/01Wyo9AKgokjUqMISROMEj) | 3:29 |
 
-Snapshot ID: `aArCkAAAAADruFyYKXcpiFawtFAmySAD`
+Snapshot ID: `aArCkAAAAADpfVFRK00y4hQB50M2jGRq`

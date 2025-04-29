@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar! Cover: Flier
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,598 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,595 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 59 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 |
 | 60 | [Kilimanjaro](https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Diamond in the Trenches](https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47) | 5:08 |
 
-Snapshot ID: `Z5wSUAAAAADXXeWPeRlrn6/qhZ5Qq43T`
+Snapshot ID: `Z5wSUAAAAAADgl76YzjkkZQQDGiw079p`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,432 likes - 139 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,734 likes - 139 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 138 | [Eternal](https://open.spotify.com/track/19pvQd80cLdx4bWe0S4Inu) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Eternal](https://open.spotify.com/album/1crikuFAWGE9kyqkA6WzpF) | 2:58 |
 | 139 | [Secret Places](https://open.spotify.com/track/5ci0VGsEMY27EKeo93Mqx4) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Secret Places](https://open.spotify.com/album/6nmzValo80CJwC6CTxu8F1) | 2:32 |
 
-Snapshot ID: `Z/5MVQAAAAA5YnCIvEqXG3/MQpxt5EsB`
+Snapshot ID: `Z/5MVQAAAADSnH6PI2g7ISfsEDVht6nZ`

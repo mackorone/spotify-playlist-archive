@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sleep Token
 
-1,559 songs - 3 day 17 hr 47 min
+1,560 songs - 3 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1347,7 +1347,7 @@
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-04 | 2024-01-12 |
 | [The Narcissist](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:05 | 2023-10-12 | 2023-10-27 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 | 2023-09-15 |
-| [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 |  |
+| [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-04-29 |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-06 | 2024-07-19 |
 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 | 2023-07-27 | 2023-08-04 |
 | [The Rabbi](https://open.spotify.com/track/6YokS9sLLeB1bLBq1Szcc9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren \(Deluxe\)](https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg) | 2:43 | 2023-07-27 | 2023-08-04 |
@@ -1412,6 +1412,7 @@
 | [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-10 | 2023-08-18 |
 | [Typical Me](https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 2:39 | 2024-02-29 | 2024-05-03 |
 | [Typical Ways](https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Typical Ways](https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX) | 2:38 | 2025-04-03 |  |
+| [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-04-25 |  |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-07 | 2023-12-15 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-23 | 2024-07-18 |
 | [umakemenotwannadie](https://open.spotify.com/track/5RlJOw0OQ3papYLfMeJFF0) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [umakemenotwannadie](https://open.spotify.com/album/1xV8htCjUIU8SeVD3mtd63) | 2:47 | 2024-01-11 | 2024-01-19 |

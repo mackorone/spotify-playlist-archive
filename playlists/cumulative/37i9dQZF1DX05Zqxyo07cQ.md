@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-723 songs - 1 day 11 hr 17 min
+725 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2023-03-23 | 2024-02-09 |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2023-03-23 | 2023-05-06 |
 | [Glitter And Gold](https://open.spotify.com/track/03D5DcMAtt1Sza9JkGZtg0) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Glitter And Gold](https://open.spotify.com/album/7mR0JYDfnhSacPqE4g3yBJ) | 2:56 | 2024-05-04 | 2024-06-21 |
+| [Gloaming](https://open.spotify.com/track/6IpA6AJYxYi2rViFWWidXw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Gloaming](https://open.spotify.com/album/3fVy6rwQWdrbOcUCKOkZit) | 2:24 | 2025-04-23 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2023-03-23 | 2024-03-21 |
 | [Golden](https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Golden](https://open.spotify.com/album/1VUevKuiOMjUNPtZZFfDNg) | 3:01 | 2025-01-08 |  |
 | [Gracious](https://open.spotify.com/track/7eKlaWsEYpNPZXLPAXClqf) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Gracious](https://open.spotify.com/album/2gP4SaNbEnEx2GYrQj4neT) | 2:32 | 2024-07-09 | 2025-03-09 |
@@ -351,7 +352,7 @@
 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 | 2025-02-17 |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-03-23 | 2024-05-05 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-03-23 | 2023-09-01 |
-| [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 |  |
+| [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 | 2025-04-29 |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2023-03-23 | 2024-03-21 |
 | [Kalon Senses](https://open.spotify.com/track/4IpQ5t4mDLJ4U4RleDMrs0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Kalon Senses](https://open.spotify.com/album/0Lz8iiwECM6TBOCdStDQDY) | 2:49 | 2023-03-23 | 2024-02-09 |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2023-03-23 | 2024-03-21 |
@@ -506,6 +507,7 @@
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-03-23 | 2024-01-18 |
 | [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 | 2025-03-13 |
 | [Quand la neige tombe](https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Quand la neige tombe](https://open.spotify.com/album/0WS3vyLeMR9nNvvRf9c0fO) | 2:52 | 2023-03-23 | 2024-02-09 |
+| [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 | 2025-04-23 |  |
 | [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-23 | 2024-02-09 |
 | [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 |  |
@@ -679,7 +681,7 @@
 | [Tranquility](https://open.spotify.com/track/5ZVmS3L1zuMHJ6SsAsZe2X) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Tranquility](https://open.spotify.com/album/1EbCXvbGVR1ZhK3viDyNdh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2024-03-06 | 2024-06-21 |
 | [Transformation](https://open.spotify.com/track/3Fqsx9n9qysSodg3UnEdPX) | [Stepan Korolev](https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn) | [Transformation](https://open.spotify.com/album/4PJEn9Hx7L9RwY1FpNuqQR) | 3:14 | 2023-03-23 | 2024-03-21 |
-| [Translucent night](https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Translucent night](https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd) | 2:42 | 2024-07-15 |  |
+| [Translucent night](https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Translucent night](https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd) | 2:42 | 2024-07-15 | 2025-04-29 |
 | [Translucide](https://open.spotify.com/track/4oiNgs95r4lBrC3la1D6XF) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Translucide](https://open.spotify.com/album/2qpO9vQKsdwGP8fcdmxzS1) | 2:33 | 2024-12-03 | 2025-01-26 |
 | [Transmute](https://open.spotify.com/track/6aUqIwsjJuIfgkltHN23lJ) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Transmute](https://open.spotify.com/album/6DlNcY8tGlAycwR6dayZTK) | 2:48 | 2024-01-17 | 2024-08-06 |
 | [Traumlandschaft](https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Traumlandschaft](https://open.spotify.com/album/1iT68T2iKzYilM8pEhy0uP) | 3:19 | 2023-03-23 | 2024-02-09 |

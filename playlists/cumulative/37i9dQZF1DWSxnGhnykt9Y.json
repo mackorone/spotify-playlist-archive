@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
@@ -82,24 +118,6 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
-    },
-    {
-      "album": {
-        "name": "Something In A Name, Vol.1",
-        "url": "https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm"
-      },
-      "artists": [
-        {
-          "name": "Melodi",
-          "url": "https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J"
-        }
-      ],
-      "date_added": "2024-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171789,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e"
     },
     {
       "album": {
@@ -2168,24 +2186,6 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "album": {
-        "name": "Something In A Name, Vol.1",
-        "url": "https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm"
-      },
-      "artists": [
-        {
-          "name": "Melodi",
-          "url": "https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J"
-        }
-      ],
-      "date_added": "2024-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168000,
-      "name": "Yaba Left",
-      "url": "https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo"
     },
     {
       "album": {

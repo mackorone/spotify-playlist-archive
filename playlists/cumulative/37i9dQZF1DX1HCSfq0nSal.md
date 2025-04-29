@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Omar Courtz, Bad Gyal
 
-762 songs - 1 day 18 hr 8 min
+763 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 | 2025-02-07 | 2025-03-29 |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-03-31 | 2023-10-04 |
 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/0kX6vjW7YrhHxrpZS7jcxa) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:44 | 2024-06-17 | 2025-02-11 |
-| [Cobro](https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Cobro](https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq) | 2:44 | 2025-01-07 |  |
+| [Cobro](https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Cobro](https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq) | 2:44 | 2025-01-07 | 2025-04-29 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-26 | 2022-08-26 |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-03-17 | 2023-09-08 |
 | [Colalé](https://open.spotify.com/track/3Kd881GBz3fqGSlEXDJPML) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Colalé](https://open.spotify.com/album/4OkdaDs8dFKYrZzBCXcH2C) | 2:42 | 2024-02-12 | 2024-04-23 |
@@ -215,6 +215,7 @@
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-22 | 2024-07-31 |
 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 | 2022-08-08 | 2022-08-23 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-06-13 | 2022-11-15 |
+| [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2025-04-28 |  |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-07 | 2023-12-02 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-06 | 2025-01-06 |
 | [El Conjuntito](https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [El Conjuntito](https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ) | 2:38 | 2024-04-05 | 2024-07-02 |

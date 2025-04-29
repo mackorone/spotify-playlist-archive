@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,520 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,619 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 6 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
 | 7 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 | 8 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 9 | [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 3:24 |
+| 9 | [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 0:47 |
 | 10 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
 | 11 | [ห้องสี่มุมซ้าย](https://open.spotify.com/track/6iKeFZjXrC4Up3z460iARH) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ห้องสี่มุมซ้าย](https://open.spotify.com/album/4iaw84IODSsCDRCYDMjKDn) | 3:49 |
 | 12 | [ดวงใจ](https://open.spotify.com/track/6dltZJ9ZFOnyCPgNikpCiW) | [ปราง ปรางทิพย์](https://open.spotify.com/artist/2uLHnWXJesP4riw8ripPWN) | [ดวงใจ](https://open.spotify.com/album/4vQCIsiPWhDaWZpT6qR2wW) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 100 | [เพลงที่เธอไม่ฟัง](https://open.spotify.com/track/6KRj0vz2JEk8Ykt1Q0KKZX) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:58 |
 
-Snapshot ID: `aAqUpQAAAADVh5EagubAoadNq5Qof06E`
+Snapshot ID: `aAqUpQAAAADvTMxexeXGnkUGAwUjqgHk`

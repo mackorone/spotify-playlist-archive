@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-288 songs - 16 hr 25 min
+289 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [FAILURE GIRL \- MARETU Remix](https://open.spotify.com/track/1ggbMRzwjDZQC0kvdjD97A) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:04 | 2024-09-12 |  |
 | [Flashback](https://open.spotify.com/track/3xgWtkf7PUlIS7e2B7823x) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Ken Ken](https://open.spotify.com/artist/37q3VtYOmP8b94tbw8HiPI) | [SAMURAI SESSIONS vol.2](https://open.spotify.com/album/25q33Q6yrlWEeUd3FYfAXg) | 3:00 | 2024-03-30 | 2025-04-09 |
 | [Flicker](https://open.spotify.com/track/2xkfXjYKy3IIh2jy42SHMC) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [Flicker](https://open.spotify.com/album/0zbiEqttHyOelGd2SkUUAA) | 3:14 | 2024-04-08 |  |
+| [Flowerphagia](https://open.spotify.com/track/5xXCEamnhAvk9MJ7ICTNVT) | [Rakuen Shigai](https://open.spotify.com/artist/53wF30ZI8e4E9GHFLKCkNh) | [Flowerphagia](https://open.spotify.com/album/0foScpAXLbKDO82farKNyL) | 2:57 | 2025-04-28 |  |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2024-02-04 |  |
 | [Full Moon Full Life](https://open.spotify.com/track/3Jl2LQmRwbXEF2lO1RTvxn) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:53 | 2024-05-08 |  |
 | [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 | 2025-01-02 |  |

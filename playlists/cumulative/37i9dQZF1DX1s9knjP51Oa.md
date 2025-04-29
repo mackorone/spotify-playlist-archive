@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-843 songs - 1 day 12 hr 12 min
+844 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 | 2023-05-09 |  |
 | [a wild place](https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [a wild place](https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr) | 2:06 | 2023-04-03 | 2023-06-27 |
 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-23 |  |
+| [Abide](https://open.spotify.com/track/1X65tg35Snmo1r5iZMvOVf) | [Sven Derler](https://open.spotify.com/artist/036A3W6TFwg70pEuEQsgNb) | [Abide](https://open.spotify.com/album/4f8C1sTS6a29b6YBdiuB8b) | 2:01 | 2025-04-28 |  |
 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-09-23 | 2024-01-03 |
 | [Ache](https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Ache](https://open.spotify.com/album/32HmaNE93uxhghyiJFIZmP) | 2:24 | 2021-12-13 | 2022-10-14 |
 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 | 2024-11-25 |  |
@@ -533,14 +534,14 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2021-12-13 | 2022-07-22 |
 | [Page](https://open.spotify.com/track/02kN88Xc8ks3JiKkGrMNpm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Page](https://open.spotify.com/album/7tzcbTuaT2q5xltVSk22ZK) | 2:08 | 2021-12-13 | 2023-01-10 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-12-13 | 2022-08-10 |
-| [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 | 2024-08-07 |  |
+| [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 | 2024-08-07 | 2025-04-29 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-12-13 | 2023-03-28 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-01-04 | 2023-11-29 |
 | [Passagio](https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Passagio](https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO) | 2:46 | 2023-09-11 |  |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2021-12-13 | 2022-05-27 |
 | [Past and Present](https://open.spotify.com/track/0wGsqpAJcNNe7y8rF8Np2e) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Past and Present](https://open.spotify.com/album/5yWWDZmbpkp0pEfogVEMp7) | 2:55 | 2021-12-13 | 2022-03-03 |
 | [Past Reflections](https://open.spotify.com/track/4qcYE0RRcpEB8ISLnQdYoP) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Past Reflections](https://open.spotify.com/album/5PzTmgks8DrudDYqcXDy8y) | 2:19 | 2022-08-09 | 2024-01-03 |
-| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-09 |  |
+| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-09 | 2025-04-29 |
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-12-13 | 2022-10-25 |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-02 | 2024-03-19 |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2021-12-13 | 2022-08-10 |
@@ -762,7 +763,7 @@
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2021-12-13 | 2022-07-22 |
 | [Tresillo](https://open.spotify.com/track/0jen5uU56ghIk8EEDAnllp) | [Nova Olsen](https://open.spotify.com/artist/5DcRrjwhi3ujuxsTTZoF3f) | [Tresillo](https://open.spotify.com/album/7s3khjxdZY85Oxc2NlM0FL) | 2:11 | 2022-10-13 | 2024-05-02 |
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2021-12-13 | 2022-09-13 |
-| [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 | 2025-03-26 |  |
+| [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 | 2025-03-26 | 2025-04-29 |
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-12-13 | 2022-05-27 |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-12-13 | 2023-11-29 |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2021-12-13 | 2023-01-21 |

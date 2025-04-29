@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 |
 | 50 | [Cântă Dorul](https://open.spotify.com/track/5P1lYdEicgJho9ylII3VZZ) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Cântă Dorul](https://open.spotify.com/album/6Eeh67N2hQINeWdlOAKP0M) | 2:15 |
 
-Snapshot ID: `Z+xT1AAAAABTO6ix/UfSBYGf12GrLnxA`
+Snapshot ID: `Z+xT1AAAAAAN6p6hv8V9hbwsFFS1/g3Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,189 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,271 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
 | 90 | [Sube, Sube, Sube](https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Escondido En Mi País](https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj) | 4:08 |
 
-Snapshot ID: `aAr6zwAAAAB+9BkcapI7SUfL3WNJ7j+4`
+Snapshot ID: `aAr6zwAAAACYeUxC851SA2TMf2rR+yeL`

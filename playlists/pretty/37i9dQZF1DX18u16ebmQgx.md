@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Mike Bahía
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,246 likes - 65 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,287 likes - 65 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 |
 | 2 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
 | 3 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 |
-| 4 | [Robando Sueños \- Clásicos 1.0](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Budapest Scoring Orchestra](https://open.spotify.com/artist/4MSu80qHPVtwgyirGpua81) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 |
+| 4 | [Robando Sueños \- Clásicos 1.0](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 |
 | 5 | [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 |
 | 6 | [Buenaventura y Caney](https://open.spotify.com/track/6xCVfs64pDBYoa6vl4aUrO) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Homenaje a Niche, Las Canciones de Jairo Varela](https://open.spotify.com/album/1iR5KPaS55MuQzHulDaPq6) | 6:11 |
 | 7 | [Ese Día \- Versión Sinfónica](https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 6:16 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/78ntwzvjylG0NiEaoe6cKl) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Intimamente, Lo Mejor De...](https://open.spotify.com/album/7yddc8i6I8nFoDs8lDCHnk) | 4:20 |
 
-Snapshot ID: `Z+YAngAAAAA+D363T4MGDngp98ghuzpv`
+Snapshot ID: `Z+YAngAAAAByUAyMh6GACM4sKyY7Qyqu`

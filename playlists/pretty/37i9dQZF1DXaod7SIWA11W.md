@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Ryan Ofei
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,210 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,231 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 68 | [Be With You](https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Like Flowers In The Sun](https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff) | 3:58 |
 | 69 | [Your Hand](https://open.spotify.com/track/3BCRsqflSL5BsiGsdT6HiA) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Your Hand](https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj) | 3:15 |
 
-Snapshot ID: `Z++a2wAAAAB+0uHZWuQ4/Ok7CPQZKQo/`
+Snapshot ID: `Z++a2wAAAABDkrevu5KjIfRDIqoz1T2P`

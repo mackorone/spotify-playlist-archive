@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Esther Abrami
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,978 likes - 76 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,011 likes - 76 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 75 | [My Love Dodging Rizla \(Arr\. for Solo Cello by Louise McMonagle\)](https://open.spotify.com/track/0Llhh7E2NavbTIOzCb4FoG) | [Corrina Hewat](https://open.spotify.com/artist/4mQbavPnR0cVAoammz2frW), [Louise McMonagle](https://open.spotify.com/artist/72Z9TSkNvXXuowEWyL7eVj) | [Ancient Modernity](https://open.spotify.com/album/4mYIWqAJAYTqU4ayjzJnsI) | 6:32 |
 | 76 | [Arnold: Quintet for Brass Quintet \- I\. Allegro vivace III](https://open.spotify.com/track/41lXgsLhMmkWOfpFDx2p0c) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [The Swedish Brass Quintet](https://open.spotify.com/artist/3NMc4cWsdOp25ZN8I7QMsg) | [Malcolm Arnold: Brass Quintet](https://open.spotify.com/album/6uQnLzGpJqJDBSccBRTK1n) | 1:45 |
 
-Snapshot ID: `aAtICAAAAABpD71F4pL2dHNxuv4i8YDC`
+Snapshot ID: `aAtICAAAAACbFVqzziZNOIgkWu1GOMc3`

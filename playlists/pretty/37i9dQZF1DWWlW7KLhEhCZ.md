@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: LAI$ROSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,829 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,811 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [EU MESMO & EU](https://open.spotify.com/track/7gAlaiJQnZTNaR5pdPptVQ) | [Tsunami Santo](https://open.spotify.com/artist/22AL835hyYpFoRJSLTLwqh), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [EU MESMO & EU](https://open.spotify.com/album/1cpgFskTnh1UsuaGkry1QS) | 2:09 |
 | 75 | [ALCATRAZ](https://open.spotify.com/track/5kdXGAW9DuWcNp7Sfw72e7) | [CHIMOTO](https://open.spotify.com/artist/4gAHD78EU5OSEYhSsRKpJd), [Jota L](https://open.spotify.com/artist/4zJqDWKDVqDFTKajckzHjV), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [ALCATRAZ](https://open.spotify.com/album/2uWHcGLE3qAQJEQsrz0nGF) | 4:00 |
 
-Snapshot ID: `aAgWwgAAAACN3tjsPGxbl10RpEWUvzUe`
+Snapshot ID: `aA/CGwAAAACcwDFZgPgBaEjO5/s5yxCo`

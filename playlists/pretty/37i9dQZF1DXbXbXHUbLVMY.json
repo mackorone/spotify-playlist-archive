@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 28369,
+  "num_followers": 28370,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0igAAAAC+ypXyscPf0udZc4YyWnT9",
+  "snapshot_id": "aAq0igAAAACDw1ZN7IEbv2B1KpMvKZ4i",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:42",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "BLANCO",
-        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 135004,
-      "name": "BLANCO",
-      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
+        "name": "BLANCO",
+        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 135004,
+      "name": "BLANCO",
+      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -691,26 +691,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Hva Vil Du",
-        "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
+        "name": "Wine",
+        "url": "https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         }
       ],
-      "duration_ms": 121629,
-      "name": "Hva Vil Du",
-      "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
+      "duration_ms": 163589,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -731,18 +723,26 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Wine",
-        "url": "https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n"
+        "name": "Hva Vil Du",
+        "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
         }
       ],
-      "duration_ms": 163589,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
+      "duration_ms": 121629,
+      "name": "Hva Vil Du",
+      "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -815,6 +815,26 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -839,42 +859,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+        "name": "Stikk I Brystet",
+        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         },
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Mariachi",
-      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+      "duration_ms": 154320,
+      "name": "King Of The Hill (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -899,22 +899,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Stikk I Brystet",
-        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
         },
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 154320,
-      "name": "King Of The Hill (feat. Roc Boyz)",
-      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Fem p\u00e5",
-        "url": "https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe"
-      },
-      "artists": [
-        {
-          "name": "Nossan",
-          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
-        }
-      ],
-      "duration_ms": 127578,
-      "name": "Fem p\u00e5",
-      "url": "https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
         "name": "TIL DEG",
         "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "Fem p\u00e5",
+        "url": "https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe"
+      },
+      "artists": [
+        {
+          "name": "Nossan",
+          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
+        }
+      ],
+      "duration_ms": 127578,
+      "name": "Fem p\u00e5",
+      "url": "https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Varig m\u00e9n",
-        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
       },
       "artists": [
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 151121,
-      "name": "Varig m\u00e9n",
-      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 188785,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
+    },
+    {
+      "added_at": "2025-04-24 22:00:42",
+      "album": {
         "name": "Boys I D Bl\u00e5",
         "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2025-04-24 22:00:42",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 188785,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "MEST ELSKET & Hatet - Deluxe",
-        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
       },
       "artists": [
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 111214,
-      "name": "Hel/Halv",
-      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1479,30 +1479,26 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Telepati (feat. Tyr)",
-        "url": "https://open.spotify.com/album/0sqAJ5XO13rhW0ygq8y7Nw"
+        "name": "Forn\u00f8yelser og h\u00e5nelser",
+        "url": "https://open.spotify.com/album/3zq8UYhhJKcwKvllnSqGn8"
       },
       "artists": [
         {
-          "name": "Benocchio",
-          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
+          "name": "KingSkurkOne",
+          "url": "https://open.spotify.com/artist/0GJpcPq3tHjeDUB8I05Wxc"
         },
         {
-          "name": "Ys1",
-          "url": "https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B"
+          "name": "chingo",
+          "url": "https://open.spotify.com/artist/6uB2C3tOVQdG7igI7cDQ1w"
         },
         {
-          "name": "Moe3",
-          "url": "https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq"
-        },
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
         }
       ],
-      "duration_ms": 174557,
-      "name": "Telepati (feat. Tyr)",
-      "url": "https://open.spotify.com/track/1jKPDNzscz5gkVlSGMkHxX"
+      "duration_ms": 181000,
+      "name": "Vet hva du vet feat. Lars Vaular",
+      "url": "https://open.spotify.com/track/6EYFs6imqcD1K5UJ4mLw2D"
     },
     {
       "added_at": "2025-04-24 22:00:42",
@@ -1527,22 +1523,18 @@
     {
       "added_at": "2025-04-24 22:00:42",
       "album": {
-        "name": "Skulle Bare Visst",
-        "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
+        "name": "Stikk I Brystet (Deluxe)",
+        "url": "https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 163702,
-      "name": "Over mitt lik (feat. Molly Hammar)",
-      "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
+      "duration_ms": 231666,
+      "name": "Stikk i Brystet",
+      "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
     }
   ],
   "unique_name": "100 (2)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,989 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,984 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [In My Heart](https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [In My Heart](https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3) | 3:50 |
 | 100 | [Ziggy's Mine](https://open.spotify.com/track/2olzDgSTDDI7KKKTHGefMi) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Ziggy's Mine](https://open.spotify.com/album/6U8ROzydO2u1rSnyOdTV2O) | 2:05 |
 
-Snapshot ID: `aApD6wAAAABaiAFzl0lUnTmyydHH3xZH`
+Snapshot ID: `aApD6wAAAAAc8pYlKoxNxTNd3XM/teAk`

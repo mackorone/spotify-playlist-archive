@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,669 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,765 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 64 | [Binaural Beta Sinus 150 Hz \- L 158 Hz \- R](https://open.spotify.com/track/6O41DAhpUb1SfLZli2DzXv) | [Isochrone](https://open.spotify.com/artist/2AeECKGelGkRXNte7JEHBG) | [Gamma \- Beta Focus & Attention](https://open.spotify.com/album/4ZIZZQixuRthfufbemnwrS) | 3:18 |
 | 65 | [Cognitive Thinking \(Beta 15 Hz\)](https://open.spotify.com/track/0LG2f3X2SiFZxr1cK2POJC) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 |
 
-Snapshot ID: `Z9L/lQAAAACP0RQRPnme6OsLk46J7y8V`
+Snapshot ID: `Z9L/lQAAAAA77IF+WIIDvO/d328a8GoR`

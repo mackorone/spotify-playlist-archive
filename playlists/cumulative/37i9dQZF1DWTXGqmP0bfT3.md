@@ -4,12 +4,12 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-337 songs - 22 hr 57 min
+338 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(This Is Our\) House](https://open.spotify.com/track/3NmUwOku3fXG9hKoZr29eb) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, the Mask](https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7) | 4:18 | 2021-12-17 | 2022-07-29 |
-| [1000 Friends](https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [1000 Friends](https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC) | 3:21 | 2025-03-14 |  |
+| [1000 Friends](https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [1000 Friends](https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC) | 3:21 | 2025-03-14 | 2025-04-29 |
 | [365](https://open.spotify.com/track/6NgdiN6wiPU7a3bgU85tKV) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [365](https://open.spotify.com/album/5OIeDqGRB3hbUOf7bbubEJ) | 3:28 | 2021-12-17 | 2022-07-27 |
 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 | 2021-12-17 |  |
 | [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 | 2024-05-31 | 2024-11-16 |
@@ -213,6 +213,7 @@
 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 | 2021-12-17 |  |
 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 | 2023-09-12 |  |
 | [nights](https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [nights](https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY) | 2:02 | 2024-05-31 | 2025-03-15 |
+| [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 | 2025-04-28 |  |
 | [No Way Out](https://open.spotify.com/track/6yHx2dNnWb1fEChGoulEVc) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 3:53 | 2021-12-17 | 2023-05-16 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 |  |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-11-15 |  |

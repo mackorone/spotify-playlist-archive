@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,311 likes - 202 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,440 likes - 202 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 201 | [528 Hz The Miracle Tone of Transformation](https://open.spotify.com/track/0JYLCTgNiR38awowQJSG0k) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [528 Hz The Miracle Tone of Transformation](https://open.spotify.com/album/1wGPPgiyj9cxL4aWlC97jZ) | 2:42 |
 | 202 | [Serenity Repose 528 Hz](https://open.spotify.com/track/2WGlubsM3MmePFpgUmgNzi) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Serenity Repose 528 Hz](https://open.spotify.com/album/2k4UbXKZJ4AKoB2qvYwowo) | 2:56 |
 
-Snapshot ID: `Z+QjQAAAAACIJvFzi4w8Zez6/alCERA4`
+Snapshot ID: `Z+QjQAAAAAD3oZu2ZXJZzEXmWe0S+Uys`

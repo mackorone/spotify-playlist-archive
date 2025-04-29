@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Chase Wagner
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,875 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,895 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 |
 | 75 | [You Are My Sweater](https://open.spotify.com/track/75fkHyheSV8EvhTF1dfT0q) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Pixelated Haze](https://open.spotify.com/album/2SNbcpxpnvfbg7KuxsrB9w) | 2:42 |
 
-Snapshot ID: `Z90w0AAAAAA0f3CadXcXbH8mQKeaDbO7`
+Snapshot ID: `Z90w0AAAAADDyIbepm5Y9ylEzyzV0/bD`

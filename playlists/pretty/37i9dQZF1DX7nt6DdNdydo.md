@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,198 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,224 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 49 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 | 50 | [Cadillac Boogie](https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P) | [Jimmy Liggins](https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF) | [Cadillac Songs](https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms) | 2:37 |
 
-Snapshot ID: `ZgG6BQAAAADgoXZlCYWS8iTSAS9PR3fs`
+Snapshot ID: `ZgG6BQAAAAB1SvXB8EJDqNDYedjCHLce`

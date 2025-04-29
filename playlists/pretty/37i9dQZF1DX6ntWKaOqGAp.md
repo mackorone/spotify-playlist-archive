@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,561 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,581 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 98 | [ワイワイワールド](https://open.spotify.com/track/1Lhlt9bSNfDC2EdNkSWcBD) | [Tsuru](https://open.spotify.com/artist/2xIDcsETrIHk7z47yash8a) | [スリーピース](https://open.spotify.com/album/0biQ7UNJ0oJ7xeJfE4NwJi) | 4:41 |
 | 99 | [Saturday Night Survival Flag](https://open.spotify.com/track/40tAPkuXOr9cTYo53SpX7Y) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Saturday Night Survival Flag](https://open.spotify.com/album/2g9TTfuJX8QFuFj1FQjyf4) | 3:58 |
 
-Snapshot ID: `aApSAgAAAAAj0lLfZaoEUxACuiqOVSPF`
+Snapshot ID: `aApSAgAAAACPST5um1DIrf7GzquvG5de`

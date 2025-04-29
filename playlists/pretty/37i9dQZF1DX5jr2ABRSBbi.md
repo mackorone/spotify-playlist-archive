@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Playlist byl sestaven ve spolupráci se Sarou Rikas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,087 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,088 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 59 | [TO JE MOJE HOLKA](https://open.spotify.com/track/79wWh4zRV8ZdyJZILxDho5) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [TO JE MOJE HOLKA](https://open.spotify.com/album/4V74kQIME2zLedpYmVT2t0) | 3:05 |
 | 60 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
 
-Snapshot ID: `Z+xh5gAAAABZSvKD8TyuhrsOWGhPmdJr`
+Snapshot ID: `Z+xh5gAAAAAG0ylTLzhWi3Raq5k6BjFA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,249 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,241 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Areia](https://open.spotify.com/track/2RXzCKMvVCYsu5F8JBmxbn) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/04KjZ79sAK9pCTsRXeY12q) | 2:08 |
 | 60 | [Noite Quente de Verão](https://open.spotify.com/track/4sWr6A95sQkWBDe3Y3DdLl) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Selfie](https://open.spotify.com/album/5jFvIxCNBTGhrh4AkObWI5) | 2:03 |
 
-Snapshot ID: `ZJUKsAAAAAB5NOzBG73y8/KhB6AMlSi2`
+Snapshot ID: `ZJUKsAAAAACUuOo1MdUFFosXoMjWgT3p`

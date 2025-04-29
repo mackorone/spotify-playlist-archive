@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Ikkimel
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,636 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,965 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
 | 100 | [No Rizz No Fun](https://open.spotify.com/track/1klBkncxtt1vgK8plieTHL) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [No Rizz No Fun](https://open.spotify.com/album/7pXZgyqyUUsb6GzsE0gNU1) | 2:29 |
 
-Snapshot ID: `aAq0hgAAAADVDJ0wYsOihend+7oqJa3G`
+Snapshot ID: `aAq0hgAAAAAjvfyzWfZ3BTKo/QI4tQFw`

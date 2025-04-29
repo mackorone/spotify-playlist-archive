@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo : Marie\-Flore
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,192 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,299 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Ma gueule](https://open.spotify.com/track/1GJTfocbEMpOzQvYbiKr8m) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma gueule](https://open.spotify.com/album/21muzhTaUnwTekAIe3ETWG) | 3:10 |
 | 50 | [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 |
 
-Snapshot ID: `aAq0fAAAAAB5LksFu2wAWW/z+6ClTclF`
+Snapshot ID: `aAq0fAAAAABdwJ+SbCmBUppawgYj4BAK`

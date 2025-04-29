@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ELLIMEI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,972 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,967 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 86 | [Rikki mutta riittävä](https://open.spotify.com/track/3QT7f1k2dDjmSbOC3kc8CA) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Rikki mutta riittävä](https://open.spotify.com/album/1bK8gzhKWIfhVHXzUHAR8e) | 3:01 |
 | 87 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 
-Snapshot ID: `aA4BOgAAAAAwuVZr0Le/9M/iiQHFItpw`
+Snapshot ID: `aA4BOgAAAAB7Vt9vDFMiaVnQqp2IOduy`

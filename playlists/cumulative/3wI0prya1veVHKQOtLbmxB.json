@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1XgsaJuk3XGwZdOv83Kdoc"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148043,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6XqmcXPzvILbJ4CmeyQE4A"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },

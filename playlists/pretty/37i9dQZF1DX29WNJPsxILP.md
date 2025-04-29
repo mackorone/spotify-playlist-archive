@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,249 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,280 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Speed 206](https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:47 |
 | 75 | [SuppaMario](https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [SuppaMario](https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB) | 3:03 |
 
-Snapshot ID: `aAtBSAAAAACWNcuuUKJvvHeRxICWTkGI`
+Snapshot ID: `aAtBSAAAAABpR7GljfGySb8v34y8iy14`

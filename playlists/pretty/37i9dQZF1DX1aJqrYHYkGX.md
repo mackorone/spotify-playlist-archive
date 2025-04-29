@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,951 likes - 96 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,992 likes - 96 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 95 | [Mesmeric Quietude](https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4) | [Wes Gold](https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH) | [Mesmeric Quietude](https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9) | 2:29 |
 | 96 | [Lluvia de Encanto](https://open.spotify.com/track/7vXsY08n2RnBL2PaFnZh7a) | [Renzo Zong](https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn) | [Meseta de Encanto](https://open.spotify.com/album/2Hh6EEccjOfzxvuHnTQsZI) | 3:08 |
 
-Snapshot ID: `Z78svwAAAADdzSqg4yE/hLJ+4lBRay+A`
+Snapshot ID: `Z78svwAAAABXnsxKmrhuKgXGC8ECS2OC`

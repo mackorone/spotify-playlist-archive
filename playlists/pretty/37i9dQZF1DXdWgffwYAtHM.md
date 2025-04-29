@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 12 | [MENTIRAS \- POGRAMA \#42](https://open.spotify.com/episode/0mQqyqmHfXLnVXqIDb5STm) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 43:00 |
 | 13 | [Ele achava que era o Coringa, entrou armado no cinema](https://open.spotify.com/episode/6RxsbAk1f7ndhqKjYo78Xj) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 18:55 |
 
-Snapshot ID: `Z+sslwAAAADTillvL3b8WvnBEBw+Vd49`
+Snapshot ID: `Z+sslwAAAACGESZk2CQi5jhfehXTLBOB`

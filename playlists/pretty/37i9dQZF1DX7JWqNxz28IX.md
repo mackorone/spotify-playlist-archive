@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,224 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,230 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
 | 100 | [Non Mi Passa](https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Non Mi Passa](https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh) | 2:16 |
 
-Snapshot ID: `Z+3PxAAAAABQQK3+ri5bbeXAzBVe48uj`
+Snapshot ID: `Z+3PxAAAAAC5jOkVJYrW6Hl6NwvGflWt`

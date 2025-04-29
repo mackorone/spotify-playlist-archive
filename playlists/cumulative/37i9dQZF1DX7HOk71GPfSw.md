@@ -2,9 +2,9 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> featuring new 🔥 fire 🔥 from Jane Remover
+> we want that pop life 😮‍💨😮‍💨 ft\. umru &  underscores
 
-2,300 songs - 4 day 8 hr 46 min
+2,301 songs - 4 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [DOPPELGÄNGER](https://open.spotify.com/track/7jVNSRCBRFzrsNSExaWomq) | [Andrea Mir](https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf), [Ariana Abecasis](https://open.spotify.com/artist/6GSV2sAji3jnWYqhL7GrKo) | [DOPPELGÄNGER](https://open.spotify.com/album/7zLhKR5GnDdZmDCUWMFOAf) | 3:06 | 2024-05-03 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-12 | 2022-07-09 |
 | [doubts](https://open.spotify.com/track/1Ur4CR2gD4Foa5i7WVutK8) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [doubts](https://open.spotify.com/album/3kEnFT44CdWVwOoDYsUj5J) | 4:04 | 2022-10-21 | 2022-11-26 |
+| [down](https://open.spotify.com/track/4TsTsXukyNBJ5EfYFOw8LG) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 2:14 | 2025-04-29 |  |
 | [Down 4 Life](https://open.spotify.com/track/6Sq23euL5zeZUXeWWnifHw) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Nokia Talk 2002](https://open.spotify.com/album/72dBYNXFF0PI7VVdSyn9VF) | 3:30 | 2020-12-11 | 2021-01-08 |
 | [downhill](https://open.spotify.com/track/2Q8qXAOdHLe1qSrKI3c1Bg) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [the loved ones](https://open.spotify.com/album/5JuZ3OALUJBW1fzylz2K5Z) | 2:16 | 2022-05-06 | 2022-10-15 |
 | [DOZO](https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [DOZO](https://open.spotify.com/album/6zp4m8mXT5m6a0SH7vhhQS) | 2:23 | 2022-04-08 | 2022-07-16 |
@@ -1604,7 +1605,7 @@
 | [Pretty Girl Party](https://open.spotify.com/track/1ymK7hZ3biElFYTXhGwONM) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Pretty Girl Party](https://open.spotify.com/album/1OYly7NLk78fIHZw29vsM7) | 2:41 | 2024-08-23 |  |
 | [pretty things](https://open.spotify.com/track/6zcRgqSdi9PwQjmYd9jnj8) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [pretty things](https://open.spotify.com/album/4mVVnr5HcxmfoTnwYxG4Q9) | 3:30 | 2022-01-28 | 2022-04-29 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-03-17 |
-| [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petey Plastic](https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 | 2024-03-29 |  |
+| [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petey Plastic](https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 | 2024-03-29 | 2025-04-29 |
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-04 | 2023-09-23 |
 | [Profane](https://open.spotify.com/track/3IHuUvemXT2QIiO5JW1rMW) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:00 | 2021-08-07 | 2022-01-13 |
 | [Profane \- extended](https://open.spotify.com/track/0kBRBtaDHKsK6y2sm7cr6c) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:29 | 2021-08-12 | 2021-09-14 |

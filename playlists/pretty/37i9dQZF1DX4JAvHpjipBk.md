@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lorde, Benson Boone, d4vd, Young Thug & Future, Kali Uchis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,357,895 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,357,851 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [How To Get Her](https://open.spotify.com/track/2gyS1NY8ThGPxgQE08U6ea) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Carolina Blue](https://open.spotify.com/album/6OQZ0yXFowBMQj4SaLiHyz) | 4:59 |
 | 100 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 
-Snapshot ID: `aAsI/wAAAAAEqqX3cqCMtKI+kyvZHjvm`
+Snapshot ID: `aAsI/wAAAADypS3q1h7oVFF3wZSdPJPn`

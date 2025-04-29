@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-475 songs - 1 day 0 hr 27 min
+476 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Iluminado$: Luz e Sal](https://open.spotify.com/track/4os8XnbX6uB4TMao2LCtIn) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Diego Ddl](https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5) | [Iluminado$: Luz e Sal](https://open.spotify.com/album/4Ei5Vefy8Lm2iH2TZB6mXc) | 2:56 | 2023-02-25 | 2023-03-18 |
 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 | 2022-03-22 | 2023-09-02 |
 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 | 2022-03-22 | 2022-08-20 |
+| [Inabalável](https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Inabalável](https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT) | 2:42 | 2025-04-28 |  |
 | [início](https://open.spotify.com/track/78sirKcVH9aChZCPOfdpLE) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Nova Chance](https://open.spotify.com/artist/1J3n5oPPjjpFfG7LeCwDA8) | [o fim é o início](https://open.spotify.com/album/3mey5oqcpDDUCrj8dKQpfr) | 2:22 | 2022-03-22 | 2022-04-16 |
 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 | 2022-03-22 | 2023-02-25 |
 | [Jesus](https://open.spotify.com/track/4azlwGeA9FkbPjXGaMDGQn) | [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG) | [Jesus](https://open.spotify.com/album/4eMANLN3chqHNdhilVWxzR) | 3:47 | 2023-09-08 | 2023-10-07 |
@@ -295,7 +296,7 @@
 | [O Amanhã Vai Ser Melhor](https://open.spotify.com/track/1a99T6Ge6TFC29fLssTHbR) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Wesley Cruz](https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN) | [Acústico, Vol.2](https://open.spotify.com/album/5tR2asqSqYCWuUOrUx2iJ6) | 3:49 | 2024-12-27 | 2025-02-22 |
 | [O Apocalipse É Real](https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Apocalipse É Real](https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq) | 2:35 | 2025-02-28 |  |
 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 | 2022-03-22 | 2023-04-16 |
-| [O Deus Que Te Vê](https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB) | [Luna Garcez](https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [O Deus Que Te Vê](https://open.spotify.com/album/4Ln5JzC809CJzMXv3zGmyF) | 3:07 | 2025-01-10 |  |
+| [O Deus Que Te Vê](https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB) | [Luna Garcez](https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [O Deus Que Te Vê](https://open.spotify.com/album/4Ln5JzC809CJzMXv3zGmyF) | 3:07 | 2025-01-10 | 2025-04-29 |
 | [O Dia Mal](https://open.spotify.com/track/3ezT7uDJtg42lI5lNitsYz) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [A Guerra É Espiritual](https://open.spotify.com/album/78cpp9W0ivUi3GAcTiTR0T) | 3:20 | 2022-11-25 | 2023-01-14 |
 | [O Medo](https://open.spotify.com/track/5I063otbLol4Vs5vrxBdrv) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [O Medo](https://open.spotify.com/album/0lEDZ8LWytCPcEPMbixR2B) | 3:35 | 2024-04-12 | 2024-04-26 |
 | [O Mesmo Deus](https://open.spotify.com/track/2iiTw2HUFAig6U5QhihQo8) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Mesmo Deus](https://open.spotify.com/album/1aHIcMetRa3z0i8YUd0uAo) | 3:28 | 2024-05-03 | 2024-05-11 |

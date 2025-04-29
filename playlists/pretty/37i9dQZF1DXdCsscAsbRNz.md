@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,929 likes - 200 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,864 likes - 200 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 199 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 |
 | 200 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 |
 
-Snapshot ID: `Z8G/dgAAAAB5U3h5wKv5SYWlZjj7eJ9+`
+Snapshot ID: `Z8G/dgAAAAA+6zmvtjlfrqQFJULivwWG`

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : NORDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,746 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,753 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Matrix \(Intro\)](https://open.spotify.com/track/6NrwbWPAKQF7jEwkk1N3Gf) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 3:39 |
+| 1 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 |
 | 2 | [Wasa3](https://open.spotify.com/track/6hUElQZZP5c72sjFh8RTov) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Wasa3](https://open.spotify.com/album/6nLtoMLANm2WU0puGbgKKk) | 3:46 |
 | 3 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 |
 | 4 | [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 |
 | 5 | [N3awed fel 3am](https://open.spotify.com/track/707GkvPkCHMVdPIXzWlv3g) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [L'vibe](https://open.spotify.com/artist/2nhBiQjksWJvRoNf9H2fZa) | [Side Effects](https://open.spotify.com/album/0BNTa2AYTosb561nNUWG4S) | 2:46 |
-| 6 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 |
-| 7 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 |
-| 8 | [Klit Klat](https://open.spotify.com/track/3AqP7SNyNxeEI0sPWqO0uO) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Klit Klat](https://open.spotify.com/album/3GcV5oJU8K0QJJvRuFO9dg) | 2:42 |
+| 6 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 |
+| 7 | [Klit Klat](https://open.spotify.com/track/3AqP7SNyNxeEI0sPWqO0uO) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Klit Klat](https://open.spotify.com/album/3GcV5oJU8K0QJJvRuFO9dg) | 2:42 |
+| 8 | [Matrix \(Intro\)](https://open.spotify.com/track/6NrwbWPAKQF7jEwkk1N3Gf) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 3:39 |
 | 9 | [Tfadhel](https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Tfadhel](https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu) | 3:12 |
 | 10 | [Zhar](https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Zhar](https://open.spotify.com/album/7DjgxzLWhW5tuL0TqneH1c) | 2:37 |
 | 11 | [DENYA](https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [DENYA](https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV) | 6:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [SNE NMES SME](https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NOTE](https://open.spotify.com/album/3t4d4XbkJ02ohP8efP1g4L) | 3:17 |
 | 50 | [Bin Narin \- بين نارين](https://open.spotify.com/track/65tKzxjFZsjObi7OFuJFIy) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Bin Narin \(بين نارين\)](https://open.spotify.com/album/1HMzHpHSipGYpujRyL453I) | 3:37 |
 
-Snapshot ID: `aAFPowAAAACjOnfYXd7UUlkhAgMwre7w`
+Snapshot ID: `aA9B7AAAAADkCzBXeXNaE+zNFDZAkZqb`

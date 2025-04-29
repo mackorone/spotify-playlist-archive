@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32569,
+  "num_followers": 32570,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAs0wwAAAAAs5dmSguqd103fLjvAr+7B",
+  "snapshot_id": "aAs0wwAAAADc4Ayu+16Jrb8ippQkpCtm",
   "tracks": [
     {
       "added_at": "2025-04-25 07:07:47",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-04-25 07:07:47",
       "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2025-04-25 07:07:47",
+      "album": {
         "name": "Hold Your Fire",
         "url": "https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 196384,
       "name": "Hold Your Fire",
       "url": "https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK"
-    },
-    {
-      "added_at": "2025-04-25 07:07:47",
-      "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     }
   ],
   "unique_name": "Country & Americana",

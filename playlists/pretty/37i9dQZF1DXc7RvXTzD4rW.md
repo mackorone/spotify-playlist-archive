@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover:Shiina Natsukawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,208 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,214 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [サヨナラにはならない\(TV Size\)](https://open.spotify.com/track/50oVp71oaSkf0I8GeMfbLR) | [七瀬彩夏](https://open.spotify.com/artist/5KigtrFAnqMlB7GpooOuXm) | [TVアニメ『遊☆戯☆王ゴーラッシュ！！』3年目後期エンディングテーマサヨナラにはならない\(TV Size\)](https://open.spotify.com/album/2Ef08hWckkRJRpBzDqzWCG) | 1:31 |
 | 50 | [私、C君が好き](https://open.spotify.com/track/1uZFlIQ5iXGFcha41qHfbV) | [mona（CV：夏川椎菜）](https://open.spotify.com/artist/0EE5w10plFiTUBnTcidwcU), [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [超絶あざといお前らの姫](https://open.spotify.com/album/3HWJGYw7nfZ8DcwDKo9dXA) | 3:10 |
 
-Snapshot ID: `Z/kf1wAAAAAP/gXu6M+qoskzN2ea2EGO`
+Snapshot ID: `Z/kf1wAAAABOOejXA3X5p0zGIHDxbEmF`

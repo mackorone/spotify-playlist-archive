@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 106 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,180 likes - 106 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 105 | [High On You](https://open.spotify.com/track/4lPbWfuz7suz1wXRqG4f9I) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Ammar Khaled](https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et) | [High On You](https://open.spotify.com/album/1bjoz2yfDA18e8lcJVsRO7) | 2:26 |
 | 106 | [TUP TUP](https://open.spotify.com/track/6ZzPyO0nS0naOFKMtyZXLH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [TUP TUP](https://open.spotify.com/album/5fJxGn4Gw0581qxNYs4Ufy) | 2:02 |
 
-Snapshot ID: `Z/jOSQAAAADEZzbd2dkJed7a9tWVKqJ2`
+Snapshot ID: `Z/jOSQAAAABp+mYgSFzUBsE/XPTjFPYE`

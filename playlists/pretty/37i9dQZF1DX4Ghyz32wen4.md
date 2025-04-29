@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Alemán y A.CHAL en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,180 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,169 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Creo](https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [SANDRO](https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP) | 3:12 |
 | 100 | [Se Terminó](https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Terminó](https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9) | 3:33 |
 
-Snapshot ID: `aAslAAAAAACsjCw+km1Goxq/bl6tr24b`
+Snapshot ID: `aAslAAAAAAB6q0EYgozkd1vMGzT7I5a6`

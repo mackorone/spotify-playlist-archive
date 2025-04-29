@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Youssoupha
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,314 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,336 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [INSECURE](https://open.spotify.com/track/1m5FSfWOOFRq6dM3llpZOe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 4:07 |
 | 40 | [MARIA](https://open.spotify.com/track/7IjrUpqsBHUq3nKlZAefGo) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu), [Guydelafonsdal](https://open.spotify.com/artist/7iYcFblFcWGHJ3WRZppuLD) | [TISMADELAFONSDAL \(EP\)](https://open.spotify.com/album/0RLOMiAp1pSufEew2vDdYu) | 2:55 |
 
-Snapshot ID: `aAq0fgAAAABcXNbxI5QUdx7l+ggxeYmy`
+Snapshot ID: `aAq0fgAAAAC0YHZQxkybVou9hcKPXftY`

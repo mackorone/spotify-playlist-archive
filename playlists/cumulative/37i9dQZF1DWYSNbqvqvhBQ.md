@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
+> De mooiste liedjes van het moment\. Cover: MICHA
 
 627 songs - 1 day 12 hr 34 min
 

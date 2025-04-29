@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,969 likes - 100 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,973 likes - 100 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 99 | [GO!!!](https://open.spotify.com/track/40suTBrdbbuEu71Np773Pj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GO!!!](https://open.spotify.com/album/15RCTLrrEyac48yfZm94lC) | 3:59 |
 | 100 | [GOLD](https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GOLD](https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4) | 3:35 |
 
-Snapshot ID: `aACMpQAAAAAvdri4JB3ryo0+PIkw/zjj`
+Snapshot ID: `aACMpQAAAAAzN9ytNuHwT75C0ZLhsRwX`

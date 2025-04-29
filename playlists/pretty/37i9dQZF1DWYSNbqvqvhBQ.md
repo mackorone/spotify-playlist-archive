@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
+> De mooiste liedjes van het moment\. Cover: MICHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,767 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,738 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Funny](https://open.spotify.com/track/1uMp3JaBE03wrdyaES8Fqf) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Funny](https://open.spotify.com/album/47otQ4atJ7mxXJJcN9mBxJ) | 2:27 |
-| 2 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
-| 3 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 |
-| 4 | [Ma Meilleure Ennemie ft\. Coldplay \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5) | 3:21 |
-| 5 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 |
-| 6 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 1 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 2 | [Funny](https://open.spotify.com/track/1uMp3JaBE03wrdyaES8Fqf) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Funny](https://open.spotify.com/album/47otQ4atJ7mxXJJcN9mBxJ) | 2:27 |
+| 3 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
+| 4 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 |
+| 5 | [Ma Meilleure Ennemie ft\. Coldplay \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5) | 3:21 |
+| 6 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 |
 | 7 | [First In Line](https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [First In Line](https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6) | 3:06 |
 | 8 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 | 9 | [Are You Sorry Now](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 64 | [Where Do You Go](https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Where Do You Go](https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm) | 3:09 |
 | 65 | [Gorgeous](https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Gorgeous](https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE) | 3:34 |
 
-Snapshot ID: `aAtAKwAAAACngbkRt0Z9gNQdfKqVT7JU`
+Snapshot ID: `aA93/QAAAADQoOfYayC/9XX5bZWfEe4M`

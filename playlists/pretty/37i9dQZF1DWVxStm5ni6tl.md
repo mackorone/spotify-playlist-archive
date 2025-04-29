@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: DoFlame, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,056 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,060 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Old Familiar Feelin](https://open.spotify.com/track/6Eq90OFv1tT02LH6P7ecH7) | [Sargeant X Comrade](https://open.spotify.com/artist/3fvetbwKOGvPQsY5ArCOEb) | [Old Familiar Feelin](https://open.spotify.com/album/62HQYY92f7aIhA6tB5anSw) | 2:55 |
 | 50 | [Ari](https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [Ari](https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI) | 2:26 |
 
-Snapshot ID: `aAjzVgAAAACs2FZZCcU6SMRYgYp+0bDz`
+Snapshot ID: `aAjzVgAAAABhUgV81IAc6k+MVIXBL0k4`

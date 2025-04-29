@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MAR, Sleepytheprince",
-  "num_followers": 50168,
+  "num_followers": 50170,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArCkAAAAADruFyYKXcpiFawtFAmySAD",
+  "snapshot_id": "aArCkAAAAADpfVFRK00y4hQB50M2jGRq",
   "tracks": [
     {
       "added_at": "2025-04-24 23:00:32",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-04-24 23:00:32",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        },
-        {
-          "name": "Morais",
-          "url": "https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S"
-    },
-    {
-      "added_at": "2025-04-24 23:00:32",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2025-04-24 23:00:32",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Morais",
+          "url": "https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S"
     },
     {
       "added_at": "2025-04-24 23:00:32",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-04-24 23:00:32",
       "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2025-04-24 23:00:32",
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/5SsymrDivUY3SJhNdbFpyp"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 174285,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/58XjOiqlTBkjphq9LvQZjb"
-    },
-    {
-      "added_at": "2025-04-24 23:00:32",
-      "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
     },
     {
       "added_at": "2025-04-24 23:00:32",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2025-04-24 23:00:32",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+        "name": "Dimas",
+        "url": "https://open.spotify.com/album/01Wyo9AKgokjUqMISROMEj"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Ne Jah",
+          "url": "https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL"
+        },
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
         }
       ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+      "duration_ms": 209677,
+      "name": "Dimas",
+      "url": "https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk"
     }
   ],
   "unique_name": "Seda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Popkillery 2025 rozdane! Posłuchaj największych zwycięzców na specjalnej edycji RAP GENERACJI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,456 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,507 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 59 | [NIEBO](https://open.spotify.com/track/57tnaMa8gBqarDiZyFIn8Q) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN) | [NIEBO](https://open.spotify.com/album/0QR8CfEBBv0jvtXvSXRxLI) | 2:22 |
 | 60 | [CZEMU NIE ŚPISZ?](https://open.spotify.com/track/4lJ88RKrUiW4UP1IAu3Dhj) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [CZEMU NIE ŚPISZ?](https://open.spotify.com/album/7FEwLv1ACk5cyoETwtXIdG) | 2:52 |
 
-Snapshot ID: `aAq4BAAAAACrtHaz9NaGXBVQQp+fw5iJ`
+Snapshot ID: `aAq4BAAAAAAzjrKY64Xnn7RwAyVRP6ge`

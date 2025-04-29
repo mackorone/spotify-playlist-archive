@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,778 likes - 84 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,840 likes - 84 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 83 | [pink misty wave](https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [pink misty wave](https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg) | 3:12 |
 | 84 | [Days](https://open.spotify.com/track/6NEC5Xg5SSw8TUmLYuqvkQ) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc), [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Days](https://open.spotify.com/album/3i0UgSzLXyZqor5CYJ8FR9) | 1:30 |
 
-Snapshot ID: `aAsI7gAAAABTQfT8mxfE0JhfCNLh+voz`
+Snapshot ID: `aAsI7gAAAACcDtvyIM7D7Lelb8olzreC`

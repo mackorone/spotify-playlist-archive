@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX455rqxvhRwQ.md) - [plain]
 
 > Learn something new as Joe talks with academics, experts, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,505 likes - 12 songs - 1 day 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,504 likes - 12 songs - 1 day 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX455rqxvhRwQ.md) - [plain]
 | 11 | [\#1383 \- Malcolm Gladwell](https://open.spotify.com/episode/2YXIDPs07hoBtyJjYwm6pN) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 2:38:30 |
 | 12 | [\#1003 \- Sean Carroll](https://open.spotify.com/episode/3CUzPLZC4OEj9aROCEiEAe) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 2:41:34 |
 
-Snapshot ID: `ZfNejAAAAAD5WL4/LKWaGF+8poWfJ5Nv`
+Snapshot ID: `ZfNejAAAAAA7C3WJ9vE7Qtra/HdaI4S+`

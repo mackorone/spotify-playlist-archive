@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,718 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,721 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 59 | [angel](https://open.spotify.com/track/2Cd03XHLPiODG5h0I85k3Q) | [tindra](https://open.spotify.com/artist/1725qONdsi9Vajd66ATXaz) | [angel](https://open.spotify.com/album/3LzAxscKIy7MSY3X8ETUVO) | 2:13 |
 | 60 | [technicolor](https://open.spotify.com/track/2eIcqPWZ8EsKCzReZiocb6) | [forest Gabriel](https://open.spotify.com/artist/6dr3jHCHIztF4VEjm7cQa4) | [technicolor](https://open.spotify.com/album/2IB6JgmAcuRJc7rPVn7YXR) | 2:17 |
 
-Snapshot ID: `aAujlAAAAADmAdt3GE5RrslIhUZ1mbKj`
+Snapshot ID: `aAujlAAAAACj3eZF3dH6SyjYVOE1eS6e`

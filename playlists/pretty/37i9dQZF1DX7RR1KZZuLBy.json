@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 60629,
+  "num_followers": 60633,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQ0wAAAADCZF1EliAvJFNadTgvZJef",
+  "snapshot_id": "aArQ0wAAAAB83nSE+WNEiii5tXXibRRr",
   "tracks": [
     {
       "added_at": "2025-04-25 00:01:23",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+    },
+    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "Moments: Wait (Live)",
@@ -619,18 +635,18 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
         }
       ],
-      "duration_ms": 307973,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -653,22 +669,6 @@
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Calling My Name (I'm A Soldier) [Live]",
@@ -683,22 +683,6 @@
       "duration_ms": 638798,
       "name": "Calling My Name (I'm A Soldier) - Live",
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "He Sees You",
-      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -719,6 +703,22 @@
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "He Sees You",
+      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
       "added_at": "2023-12-15 00:01:00",

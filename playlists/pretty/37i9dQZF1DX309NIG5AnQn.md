@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 reybruja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,673 likes - 106 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,675 likes - 106 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 105 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 |
 | 106 | [Última fuerza](https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Última fuerza](https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR) | 4:04 |
 
-Snapshot ID: `aAr60QAAAABx1cRfCSQUz/o9cqlkr/pV`
+Snapshot ID: `aAr60QAAAAAICF5XrDSECmVxI/A7njGl`

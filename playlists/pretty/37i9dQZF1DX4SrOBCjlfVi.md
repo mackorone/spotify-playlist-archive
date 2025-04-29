@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Young Thug, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,567 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,667 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Chunky Jays](https://open.spotify.com/track/6073Y4xp8gOX1mgFOLopwK) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Chunky Jays](https://open.spotify.com/album/2ST0ZbKhAvDlTn88lkTG2Q) | 2:10 |
 | 50 | [Demon Time \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4P0Qozx3vtmZjkXu8T4T1r) | [Neisha Neshae](https://open.spotify.com/artist/7IAHqUnycA5bsMGTVxmqJg), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Demon Time \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/7tvEaLQIHiVm2PyRdGI3a6) | 3:23 |
 
-Snapshot ID: `aAsI9gAAAACa44b3Dt04v99lrRC60DdI`
+Snapshot ID: `aAsI9gAAAADOBPzckpDd/xY8VZ+9puX/`

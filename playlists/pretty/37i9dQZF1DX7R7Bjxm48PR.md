@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,122 likes - 94 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,160 likes - 94 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 93 | [Et øyeblikk](https://open.spotify.com/track/4wwtlq6dqi0ztt989n4yiQ) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Et øyeblikk](https://open.spotify.com/album/3Th1olVBm5YAxu68k1q4Qn) | 2:41 |
 | 94 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `Z/5nfgAAAAA37mt7/pwg3LX2+KqBcKfY`
+Snapshot ID: `Z/5nfgAAAABZ3otzT5eQcZGIag3wt0DN`

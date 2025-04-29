@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,373 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,384 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 30 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
 | 31 | [Juguetona](https://open.spotify.com/track/26oMIjeGkEonsecfDLW5b0) | [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Nova "La Amenaza"](https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Juguetona](https://open.spotify.com/album/3zOc6LvKoVlbeTJ1MslyuG) | 2:30 |
 | 32 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
-| 33 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
-| 34 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
+| 33 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
+| 34 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
 | 35 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 36 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 |
 | 37 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
 | 50 | [Volvería a nacer](https://open.spotify.com/track/2wc8uKkMUx1e1baLBW5QKZ) | [Rodrigo Leal](https://open.spotify.com/artist/5MZEy9yfn2zZhzw5IHsFHq) | [Volver A Nacer](https://open.spotify.com/album/0woqDWMY3VFdxbG68m6zh7) | 3:13 |
 
-Snapshot ID: `aAgxMAAAAADNeXgvVFpTynaOKgTzvlcN`
+Snapshot ID: `aAgxMAAAAADF6IrYyI6OR4NW4w7GpR1z`

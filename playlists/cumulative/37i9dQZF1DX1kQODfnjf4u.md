@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
-114 songs - 5 hr 36 min
+115 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [No Sleep Gang](https://open.spotify.com/track/4mVwqx2xCrkDP2vYgh38jG) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 2:44 | 2024-07-15 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-17 | 2025-04-01 |
 | [Ohnivej kruh](https://open.spotify.com/track/63t5KcNc6sOvyo0leRzueh) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:10 | 2024-11-11 | 2025-04-08 |
-| [omluva](https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [omluva](https://open.spotify.com/album/512WYq3D0ghh9iAbkWUuKf) | 3:10 | 2024-12-30 |  |
+| [omluva](https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [omluva](https://open.spotify.com/album/512WYq3D0ghh9iAbkWUuKf) | 3:10 | 2024-12-30 | 2025-04-29 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-17 |  |
 | [Ostrava](https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Ostrava](https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5) | 3:35 | 2024-09-23 | 2025-01-14 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 | 2024-11-12 |
@@ -100,6 +100,7 @@
 | [Směj se teď](https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Směj se teď](https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC) | 3:10 | 2024-07-01 |  |
 | [space](https://open.spotify.com/track/5YwRYw9u0Abs5R3sDiPAXJ) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/0MwH6PaO0rV86yqyF1R0hL) | 2:52 | 2024-07-01 | 2025-03-18 |
 | [STFU \(feat\. Calin & SIMILIVINLIFE\)](https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:32 | 2024-07-01 | 2024-12-17 |
+| [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 | 2025-04-28 |  |
 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 | 2024-07-01 |  |
 | [Sunset](https://open.spotify.com/track/4URDQWhb7ylkhuTY2W6hfG) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Sunset](https://open.spotify.com/album/3UhqPWwNPWA6uAB6eVUYOd) | 2:35 | 2024-07-01 | 2025-04-15 |
 | [Swagsucks](https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 2:42 | 2025-04-07 |  |

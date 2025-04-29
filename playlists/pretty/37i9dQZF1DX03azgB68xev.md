@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,835 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,899 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [SPEED DIAL](https://open.spotify.com/track/0olodLskiHNM1J9iEOV2vf) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [SPEED DIAL](https://open.spotify.com/album/1P761vQQBLqIvJp5SWhMy6) | 3:05 |
 | 80 | [Put Down The Phone](https://open.spotify.com/track/69aKC13SkogDmOz6NWjNYH) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Put Down The Phone](https://open.spotify.com/album/6c9qmGGQRj6flrcNRiR005) | 3:35 |
 
-Snapshot ID: `aAIvwQAAAACd6Wbe4G7yuaS1cEpqaZ76`
+Snapshot ID: `aAIvwQAAAABy2sg34jme8uRFOKDc/RIf`

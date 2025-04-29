@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 크라잉넛 \(CRYING NUT\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-935 songs - 2 day 9 hr 7 min
+937 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-01 | 2022-08-13 |
 | [New World](https://open.spotify.com/track/04fxCWCGiHuz4qgABacWlI) | [Cho seong min](https://open.spotify.com/artist/2IdF9YcOnVdN9pMxaIvyM6), [Kim bada](https://open.spotify.com/artist/3yWAjA0zH4BXTK3v0TjBWH) | [Friends Vol.9](https://open.spotify.com/album/4ZB72JIjAXgnYuld5CdZPn) | 3:16 | 2022-05-11 | 2022-05-25 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2022-05-03 | 2022-07-24 |
+| [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-04-28 |  |
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 | 2024-12-14 |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
 | [Night Sea](https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2) | [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [In Summer](https://open.spotify.com/album/3YPZ2UqculUNYPl07DZYh9) | 4:38 | 2022-06-09 | 2022-06-16 |
@@ -566,6 +567,7 @@
 | [Orchid](https://open.spotify.com/track/6PX9XFzdYQcQxikyGzQJah) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Odyssey](https://open.spotify.com/album/56eyAyu9JO0vSKijY3cKPh) | 6:59 | 2025-02-26 | 2025-03-18 |
 | [Ordinary Days](https://open.spotify.com/track/6nZqsYlVsAAN4Q0MHVnLis) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 3:06 | 2024-06-05 | 2024-11-07 |
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2022-05-11 | 2022-06-05 |
+| [Our old bar](https://open.spotify.com/track/1Bz4dIHlGcdffwQeanGYiC) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Our old bar](https://open.spotify.com/album/7ndJBy3tYbYaX13xK3p1XN) | 3:46 | 2025-04-28 |  |
 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2022-07-01 | 2022-07-09 |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-06-09 | 2022-07-26 |
 | [OVERMAN](https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 1](https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S) | 3:44 | 2025-01-30 | 2025-03-18 |
@@ -588,7 +590,7 @@
 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 | 2023-01-03 |
 | [Piece of a Dream](https://open.spotify.com/track/5mqAFblRDtBTgq0gBzspHg) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [Piece of a Dream](https://open.spotify.com/album/4wCYtzWwke8SjAyaIf8jxl) | 2:52 | 2024-11-06 | 2024-11-13 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
-| [Pigs](https://open.spotify.com/track/4DHSb9Rj0oZiW4K81WDduz) | [Bye Bye Badman](https://open.spotify.com/artist/14stFRB2PwF6QdKNHDdMnh) | [Bad Timing](https://open.spotify.com/album/4F7WGZsU36SFzRyXShFuXA) | 3:59 | 2025-04-15 |  |
+| [Pigs](https://open.spotify.com/track/4DHSb9Rj0oZiW4K81WDduz) | [Bye Bye Badman](https://open.spotify.com/artist/14stFRB2PwF6QdKNHDdMnh) | [Bad Timing](https://open.spotify.com/album/4F7WGZsU36SFzRyXShFuXA) | 3:59 | 2025-04-15 | 2025-04-29 |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 | 2023-08-01 |
 | [PIRI](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:26 | 2023-09-08 | 2023-11-07 |
 | [Pisces](https://open.spotify.com/track/7ix35I3PNAN63JeV7feOG9) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:47 | 2022-05-24 | 2022-07-29 |
@@ -918,7 +920,7 @@
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 | 2024-11-07 |
-| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 |  |
+| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 | 2025-04-29 |
 | [그녀가 날 깨웠다](https://open.spotify.com/track/0ZiqukZrA8LLP4CTA7VSsS) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/38HdDPMgvczUFfSddkW9R3) | 3:02 | 2025-02-18 | 2025-03-18 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |

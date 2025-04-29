@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,316 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,318 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 19 | [Compress / Repress](https://open.spotify.com/track/40k8Fcfap0ZOiMClwz9VlP) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 3:49 |
 | 20 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 |
 | 21 | [Like a Rolling Stone](https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Music From The Motion Picture\)](https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4) | 3:22 |
-| 22 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
-| 23 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
-| 24 | [Overture of Conclave](https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:27 |
+| 22 | [Overture of Conclave](https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:27 |
+| 23 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
+| 24 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
 | 25 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
 | 26 | [Hum](https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 3:27 |
 | 27 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 39 | [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 |
 | 40 | [Las Damas que Pasan](https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj) | [Adriana Paz](https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz), [The Mexican Choir](https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 4:07 |
 
-Snapshot ID: `Z33DYgAAAAC5x5sq9Pln0/9XNOeQ/1M1`
+Snapshot ID: `Z33DYgAAAACf0h1UjdzpMG6oWII+/6mg`

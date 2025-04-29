@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: CJota
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,186 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,167 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Futuro Milionário](https://open.spotify.com/track/2INHnDnQgMFTufioJAgIN7) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Futuro Milionário](https://open.spotify.com/album/1l13qgTVyJ5JFsB7nHQjTN) | 2:27 |
 | 75 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
 
-Snapshot ID: `aAr68QAAAAB0w0b/7wzTsCpKN3qwSfFT`
+Snapshot ID: `aAr68QAAAAARCPpg9rY5+74rvntGBf2/`

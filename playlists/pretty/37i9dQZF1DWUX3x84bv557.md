@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,580 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,572 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alles Wordt Beter](https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alles Wordt Beter](https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB) | 3:11 |
 | 2 | [Status Ingewikkeld](https://open.spotify.com/track/4XWYJokfPXcvribLZuD31Q) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Status Ingewikkeld](https://open.spotify.com/album/15Ip2WAPxDBqydFkhf6xtU) | 2:16 |
-| 3 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
-| 4 | [Allerlaatste Keer](https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Allerlaatste Keer](https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl) | 2:20 |
-| 5 | [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 |
-| 6 | [Laten We Vergeten](https://open.spotify.com/track/5pd7JVQ2eeSk8FtW74TU7s) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Laten We Vergeten](https://open.spotify.com/album/41h0H4TF0rBSlZv7hMoU0F) | 3:01 |
-| 7 | [Carrousel](https://open.spotify.com/track/37ol7vhRstiq8txUKXDkNP) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Carrousel](https://open.spotify.com/album/4MVvf0xyqyN8o0QN1GqZM6) | 2:19 |
-| 8 | [Brandend Verlangen](https://open.spotify.com/track/3v0LCEsBDzmDoJ4IZeRgNd) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Brandend Verlangen](https://open.spotify.com/album/2io5WyR9WMB4yy3RA3l8sF) | 2:34 |
-| 9 | [100%](https://open.spotify.com/track/2pVNHH7yJwuf0joE9IfRIP) | [DAAN.](https://open.spotify.com/artist/0BhCoO6LMneAnZV5p3O233) | [100%](https://open.spotify.com/album/1okcifTWbuyRQ3FgdKkyi8) | 2:14 |
-| 10 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 |
-| 11 | [Ik begin vandaag](https://open.spotify.com/track/1WIS9zIiH7dVxvTudGdp6g) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Ik begin vandaag](https://open.spotify.com/album/5Wn5sUN2fMgQTqOq7ebh9D) | 3:10 |
-| 12 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 |
+| 3 | [Laten We Vergeten](https://open.spotify.com/track/5pd7JVQ2eeSk8FtW74TU7s) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Laten We Vergeten](https://open.spotify.com/album/41h0H4TF0rBSlZv7hMoU0F) | 3:01 |
+| 4 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
+| 5 | [Allerlaatste Keer](https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Allerlaatste Keer](https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl) | 2:20 |
+| 6 | [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 |
+| 7 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 |
+| 8 | [Carrousel](https://open.spotify.com/track/37ol7vhRstiq8txUKXDkNP) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Carrousel](https://open.spotify.com/album/4MVvf0xyqyN8o0QN1GqZM6) | 2:19 |
+| 9 | [Brandend Verlangen](https://open.spotify.com/track/3v0LCEsBDzmDoJ4IZeRgNd) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Brandend Verlangen](https://open.spotify.com/album/2io5WyR9WMB4yy3RA3l8sF) | 2:34 |
+| 10 | [100%](https://open.spotify.com/track/2pVNHH7yJwuf0joE9IfRIP) | [DAAN.](https://open.spotify.com/artist/0BhCoO6LMneAnZV5p3O233) | [100%](https://open.spotify.com/album/1okcifTWbuyRQ3FgdKkyi8) | 2:14 |
+| 11 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 |
+| 12 | [Ik begin vandaag](https://open.spotify.com/track/1WIS9zIiH7dVxvTudGdp6g) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Ik begin vandaag](https://open.spotify.com/album/5Wn5sUN2fMgQTqOq7ebh9D) | 3:10 |
 | 13 | [Tegenwoordige Tijd](https://open.spotify.com/track/3LJGcwFLKV4tjG27LdUcjq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Tegenwoordige Tijd](https://open.spotify.com/album/6d79uOXZQzXHdWGf1koPHH) | 4:03 |
 | 14 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 |
 | 15 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Idioot](https://open.spotify.com/track/7EtZ5dueTkf7KwTOeexNkO) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Idioot](https://open.spotify.com/album/5IpWpAW3wTtKquyZtQowCX) | 2:19 |
 | 80 | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/track/1ATxOdW5SrpzDuI6iZFyJr) | [Dominique de Bont](https://open.spotify.com/artist/2fYxLnbFdDBpgVs5Vaa4RO), [Lucas Nicholas](https://open.spotify.com/artist/60df08YRf2Oh7A2PUK24Vi) | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/album/11iUfkqlm2hPxToQ5b7u2r) | 3:03 |
 
-Snapshot ID: `aAq0jgAAAABgV0xe/J7W3MG2OUE7jzDp`
+Snapshot ID: `aA9s9gAAAAASzfKVUt+Qp2DffaWpzWk3`

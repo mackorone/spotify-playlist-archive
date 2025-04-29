@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Mica Sotera\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,099 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,105 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Sabias Palabras](https://open.spotify.com/track/2FejLYSy4vtLAEkmw0gVtk) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Sabias Palabras](https://open.spotify.com/album/5wde6HXV4RkeebjSBc8mqR) | 3:54 |
 | 50 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 
-Snapshot ID: `aAEQqwAAAAAW/JPzHRzlu+U4MN/mH5oq`
+Snapshot ID: `aAEQqwAAAAAA/A3N5zevZJRs5rdmcrxy`

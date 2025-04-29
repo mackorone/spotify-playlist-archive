@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Yoona Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,220 likes - 58 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,219 likes - 58 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 57 | [Hứa Vội Rồi Quên](https://open.spotify.com/track/3BawYBmDSfrI1a4valFHgI) | [Linh Lor](https://open.spotify.com/artist/2z9C9qgku8ZmBd5FXlSmJu), [Huỳnh Lê](https://open.spotify.com/artist/7eI90ijWxdoIoUfo1Gug8M) | [Hứa Vội Rồi Quên](https://open.spotify.com/album/72T5ukNj4J3RjIBVDW7tUq) | 3:40 |
 | 58 | [Rạn Nứt](https://open.spotify.com/track/5cKNhiUUBY3YCh1DVuyyVU) | [Lilchuong](https://open.spotify.com/artist/4CDeaSGdiGv3BEDMnfjWfY), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Rạn Nứt](https://open.spotify.com/album/2hakVo7rjyU4Ps4GP0Cy9u) | 3:18 |
 
-Snapshot ID: `aApuEAAAAACOZgK6/Mthp8SKigWVna4a`
+Snapshot ID: `aApuEAAAAABuJjR6Z22vvCxgwDCjn8sJ`

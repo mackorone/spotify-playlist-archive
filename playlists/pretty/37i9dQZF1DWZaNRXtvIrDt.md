@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,921 likes - 97 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,928 likes - 97 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 96 | [Drink The Juice](https://open.spotify.com/track/15WsTnGyz7el3V21y5t5Eu) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Drink The Juice](https://open.spotify.com/album/5j4bE0u89Vn4XrePpOac7J) | 3:01 |
 | 97 | [Burn It](https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Burn It](https://open.spotify.com/album/7s4Uf9U1OCqCyTB2jJY5dB) | 4:32 |
 
-Snapshot ID: `Z/fPKQAAAACwcfBoxKfwj/fafuAWd7Mz`
+Snapshot ID: `Z/fPKQAAAAB4fT5XGBUEw8i40zK5cBf1`

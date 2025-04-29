@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,356 likes - 226 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,974 likes - 226 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 225 | [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 |
 | 226 | [Argenteus](https://open.spotify.com/track/3DIHHlerF1iuu5oJDcXG5h) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Argenteus](https://open.spotify.com/album/0l3huQuLBA6cM1L6Ak74lT) | 2:58 |
 
-Snapshot ID: `aAjx+AAAAAAGRzlz0Tfy6CAS0tMc/A7t`
+Snapshot ID: `aAjx+AAAAAAAwdCCY10BZ1hYeIsLmHyw`

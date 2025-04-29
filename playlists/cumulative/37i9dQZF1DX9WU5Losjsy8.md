@@ -4,14 +4,14 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-172 songs - 8 hr 42 min
+173 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 | 2023-08-11 |
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 | 2025-04-24 |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
-| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 |  |
+| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-04-29 |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-03-18 |  |
 | [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
@@ -54,6 +54,7 @@
 | [Disco Pogo](https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:24 | 2023-07-14 |  |
 | [Dorflove](https://open.spotify.com/track/4DvWYFv3kYm9U8pJ5gQwn1) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Party Nationalmannschaft](https://open.spotify.com/artist/0Zbu8uOsq9HRDFeAIWzJTO) | [Dorflove](https://open.spotify.com/album/0QGAN0UYuGQL6TFfJVKcH1) | 2:41 | 2023-12-19 | 2024-04-19 |
 | [Dorflove](https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Thekensportlerz](https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4) | [Dorflove](https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR) | 2:41 | 2023-07-14 | 2024-01-18 |
+| [Drinking Wine Feeling Fine](https://open.spotify.com/track/4gUFxJ0FH76iMgsePtYdYr) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy), [Olaf der Flipper](https://open.spotify.com/artist/7Apu3Zjo7um4OkL7B7SONQ) | [Drinking Wine Feeling Fine](https://open.spotify.com/album/6UlbT43b89S6bMfx40D10L) | 3:12 | 2025-04-17 |  |
 | [Du bist mein Glück](https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Du Bist Mein Glück](https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp) | 3:36 | 2024-03-27 |  |
 | [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2024-12-20 |  |
 | [Easy Peasy](https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI) | [Fliesentisch Romantik 2](https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM) | 2:30 | 2023-07-14 |  |

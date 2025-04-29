@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: Pink Sweat$
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,778 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,803 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 124 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 |
 | 125 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 
-Snapshot ID: `aAHOeAAAAAApi6I/OY1GggMGCQoLbp1J`
+Snapshot ID: `aAHOeAAAAAB9WsjyCpD63kT2CEF6jiux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: DJ Sugarush
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,126 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,120 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
 | 100 | [4Runner](https://open.spotify.com/track/43Q2O4tW2u55EyEZ9criZn) | [JÄMO](https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr), [jimmyallnite](https://open.spotify.com/artist/02XL9u0jm3DXQ2cStkjV4M), [REINIER](https://open.spotify.com/artist/4acncdScRKPPQk3tf9h2IK) | [4Runner](https://open.spotify.com/album/6TskdtG4NigNfM5ohw5P1q) | 4:37 |
 
-Snapshot ID: `aApD6QAAAACIdLzWS7+rjAvxD+JpC4L+`
+Snapshot ID: `aApD6QAAAAAIGY+qS9Mw4ec8oVsq1KeJ`

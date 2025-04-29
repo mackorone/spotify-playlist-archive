@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-277 songs - 14 hr 11 min
+278 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Sós](https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh) | [A Sós](https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ) | 2:44 | 2023-07-14 | 2024-02-24 |
 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 | 2023-07-21 | 2024-09-14 |
 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 | 2024-09-06 |  |
+| [Amor à Luz do Dia](https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor à Luz do Dia](https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX) | 3:45 | 2025-04-28 |  |
 | [AMSTERDÃ](https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce) | [Nay](https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl) | [AMSTERDÃ](https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN) | 2:28 | 2023-11-10 | 2023-12-10 |
 | [Aos Céus](https://open.spotify.com/track/5dVGO5yaLhJbkEsnMJkvqL) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [miguelisaneko](https://open.spotify.com/artist/5jTQuRW0DsoMIvTFzR4Mzs) | [Aos Céus](https://open.spotify.com/album/1acdSqlcfpIeOGUiLHefiy) | 2:17 | 2023-01-13 | 2023-01-21 |
 | [Aperta Start](https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aperta Start](https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs) | 2:57 | 2022-11-18 | 2023-04-09 |
@@ -104,7 +105,7 @@
 | [Golpe](https://open.spotify.com/track/08ZMOYMV4PK54Vb4XuiVYN) | [Emovy](https://open.spotify.com/artist/5Fhn5tGcRvKPO6XmDw1wHA) | [Golpe](https://open.spotify.com/album/5zEnp2Q439CV7RhDYe8oqW) | 2:23 | 2025-04-05 |  |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 | 2023-10-21 |
 | [GUAPA](https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [GUAPA](https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO) | 2:19 | 2023-10-27 | 2024-04-13 |
-| [Hey Girl](https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [O BGLH É BLACK](https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt) | 2:57 | 2024-04-12 |  |
+| [Hey Girl](https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [O BGLH É BLACK](https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt) | 2:57 | 2024-04-12 | 2025-04-29 |
 | [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 | 2024-09-13 | 2025-03-22 |
 | [Imaturos](https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Imaturos](https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr) | 3:32 | 2023-08-04 |  |
 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 | 2023-08-05 |

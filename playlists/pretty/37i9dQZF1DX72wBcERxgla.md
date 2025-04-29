@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,112 likes - 295 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,175 likes - 295 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 294 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0) | [Enzo Green](https://open.spotify.com/artist/5gP1SO0cGYBFIJZy7VG88p) | [I Fall in Love Too Easily](https://open.spotify.com/album/0RbnjRxCrpynyhiBsjf7Kj) | 4:08 |
 | 295 | [Walking into Love](https://open.spotify.com/track/7E1zXzH13tIvcGar4QfxjV) | [Margareta Ebbing](https://open.spotify.com/artist/6wDEFbqx3IS26bu5oZWKCO) | [Walking into Love](https://open.spotify.com/album/2FApZSmXMJKxMC2fUjHxUk) | 2:27 |
 
-Snapshot ID: `aAjqYwAAAACYhEWdlc1qcXy6+gR6caue`
+Snapshot ID: `aAjqYwAAAAA7TLQVhXGw9WanOYZt82Gr`

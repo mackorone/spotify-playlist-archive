@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,672 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,729 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 98 | [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 |
 | 99 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
 
-Snapshot ID: `Z782fgAAAADKQKJ7BTMEqKD4NXQwTnsi`
+Snapshot ID: `Z782fgAAAAAlStB3BEeWBtPqgCtuzRB4`

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: ENHYPEN\)
+> Future K\-Pop hits! \(Cover: UNIS\)
 
-1,271 songs - 2 day 20 hr 57 min
+1,272 songs - 2 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-05-04 | 2024-05-29 |
 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 | 2024-05-14 | 2024-06-24 |
 | [HANA](https://open.spotify.com/track/1b2p57Q3RtuSYkmLIHs3jl) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [DIMENSION](https://open.spotify.com/album/2C4tl17a4f1oXbUPl2fymv) | 3:18 | 2022-03-21 | 2022-04-18 |
+| [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-04-28 |  |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-06-09 | 2021-09-07 |
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2020-11-16 | 2021-02-15 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-10 | 2022-02-18 |
@@ -573,7 +574,7 @@
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-06-22 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2021-08-27 | 2021-09-18 |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2021-10-06 | 2021-11-24 |
-| [It’s Okay \(Feat\. ZICO\)](https://open.spotify.com/track/1rIxqNylFsRslfo8lRcWJ6) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Voice Memo](https://open.spotify.com/album/7Bj13tpSdTLIlFYLABtloT) | 3:19 | 2025-03-14 |  |
+| [It’s Okay \(Feat\. ZICO\)](https://open.spotify.com/track/1rIxqNylFsRslfo8lRcWJ6) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Voice Memo](https://open.spotify.com/album/7Bj13tpSdTLIlFYLABtloT) | 3:19 | 2025-03-14 | 2025-04-29 |
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-11-10 | 2023-01-18 |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2021-03-31 | 2021-06-09 |
 | [IZNA](https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:36 | 2024-12-05 | 2025-04-10 |

@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Teseghella
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,387 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,393 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [+G](https://open.spotify.com/track/3vJj2OQR5tfipyOboYt2VN) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [+G](https://open.spotify.com/album/3csTJOx4fJDsNjyCyus6q0) | 3:10 |
 | 2 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [Basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
 | 3 | [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 |
-| 4 | [Solo Noi](https://open.spotify.com/track/4ais99KyS67rJrsKs74r0f) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Solo Noi](https://open.spotify.com/album/5psQYGUHPXfeoo658qd8Fg) | 3:06 |
-| 5 | [CALMA 22](https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [CALMA 22](https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS) | 3:29 |
-| 6 | [COLPO DI PISTOLA](https://open.spotify.com/track/7tZ5a5T9NToUr220mNjOld) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [ROCK & ROLL](https://open.spotify.com/album/2ykZYAOl8q2Yn1mBT4qnLw) | 4:44 |
-| 7 | [ALIENO](https://open.spotify.com/track/21PmiS3t9YgXJUzAwXxoFL) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [ALIENO](https://open.spotify.com/album/6cVy7pgexh1oLBhDadHnmT) | 2:36 |
-| 8 | [Dormire in macchina](https://open.spotify.com/track/3fTRovjAPslcHFDeaHeNj2) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Dormire in macchina](https://open.spotify.com/album/45KdlOqYANym79L4OAKULF) | 2:29 |
-| 9 | [Americani](https://open.spotify.com/track/0UGg1AAopZUbek7JEfK4QP) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Americani](https://open.spotify.com/album/3KAalzDhlPCaKSknPlmBa5) | 2:30 |
-| 10 | [Incidere](https://open.spotify.com/track/6FfhmmhKjIXyYRkQxvNH0C) | [D'Egidio](https://open.spotify.com/artist/5XLcPj7ABZ2jIVnDypkPsq), [ENSEMBLE](https://open.spotify.com/artist/5vA0iaehdPnFfmVZg476wY) | [Parentalia](https://open.spotify.com/album/18RNzJ3fkuwDOMCQegg2No) | 2:58 |
-| 11 | [VITTORIA](https://open.spotify.com/track/5czaGqct4FgzX2nIct2ytV) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [VITTORIA](https://open.spotify.com/album/2Uj3ZHiO2t7mrHrnDHLZwQ) | 2:24 |
-| 12 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
-| 13 | [Lontano da qui](https://open.spotify.com/track/0GF055XwCDyHJ7NevXpCZR) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Lontano da qui](https://open.spotify.com/album/7sBtTwXcBXcLCMULB5rP0p) | 2:58 |
-| 14 | [Blues del Silenzio](https://open.spotify.com/track/0seYXhHsIrmNoQYNAXpFrm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Blues del Silenzio](https://open.spotify.com/album/72BpMYbKEiaS6GtLCO0fMm) | 2:34 |
-| 15 | [Balli Carezze](https://open.spotify.com/track/1710C73gQsSFuJL3BDD83C) | [Delvento](https://open.spotify.com/artist/5BNIR5z3P1pnEseyyhrLEc) | [Balli Carezze](https://open.spotify.com/album/0ffDbpgkfKw8va1qMrX4W8) | 2:38 |
-| 16 | [PRIMA DI DORMIRE \(feat\. Mazzariello\)](https://open.spotify.com/track/2KWhHAGoABlD0gDhOCRAxs) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:44 |
-| 17 | [Chi Vince Che Vince?](https://open.spotify.com/track/4wur6ap0kNAOGd1PKupeNg) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Chi Vince Che Vince?](https://open.spotify.com/album/69oCajyWAMrsB7EuywcdWL) | 3:07 |
-| 18 | [Gigi](https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [Gigi](https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP) | 3:03 |
-| 19 | [Salomé/Hommage](https://open.spotify.com/track/2skBQIEIV2YZ3ZOzNZaaKn) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV2](https://open.spotify.com/album/04qAPJCC0gcJkO2sGHsnyW) | 4:35 |
-| 20 | [Latte e biscotti](https://open.spotify.com/track/6lJKkAzxQvKr8DHWUVLbst) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Latte e biscotti](https://open.spotify.com/album/0oHaJJUojVH4JgPSTkU0Li) | 3:07 |
+| 4 | [Latte e biscotti](https://open.spotify.com/track/6lJKkAzxQvKr8DHWUVLbst) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Latte e biscotti](https://open.spotify.com/album/0oHaJJUojVH4JgPSTkU0Li) | 3:07 |
+| 5 | [Solo Noi](https://open.spotify.com/track/4ais99KyS67rJrsKs74r0f) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Solo Noi](https://open.spotify.com/album/5psQYGUHPXfeoo658qd8Fg) | 3:06 |
+| 6 | [CALMA 22](https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [CALMA 22](https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS) | 3:29 |
+| 7 | [COLPO DI PISTOLA](https://open.spotify.com/track/7tZ5a5T9NToUr220mNjOld) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [ROCK & ROLL](https://open.spotify.com/album/2ykZYAOl8q2Yn1mBT4qnLw) | 4:44 |
+| 8 | [ALIENO](https://open.spotify.com/track/21PmiS3t9YgXJUzAwXxoFL) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [ALIENO](https://open.spotify.com/album/6cVy7pgexh1oLBhDadHnmT) | 2:36 |
+| 9 | [Dormire in macchina](https://open.spotify.com/track/3fTRovjAPslcHFDeaHeNj2) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Dormire in macchina](https://open.spotify.com/album/45KdlOqYANym79L4OAKULF) | 2:29 |
+| 10 | [Americani](https://open.spotify.com/track/0UGg1AAopZUbek7JEfK4QP) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Americani](https://open.spotify.com/album/3KAalzDhlPCaKSknPlmBa5) | 2:30 |
+| 11 | [Incidere](https://open.spotify.com/track/6FfhmmhKjIXyYRkQxvNH0C) | [D'Egidio](https://open.spotify.com/artist/5XLcPj7ABZ2jIVnDypkPsq), [ENSEMBLE](https://open.spotify.com/artist/5vA0iaehdPnFfmVZg476wY) | [Parentalia](https://open.spotify.com/album/18RNzJ3fkuwDOMCQegg2No) | 2:58 |
+| 12 | [VITTORIA](https://open.spotify.com/track/5czaGqct4FgzX2nIct2ytV) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [VITTORIA](https://open.spotify.com/album/2Uj3ZHiO2t7mrHrnDHLZwQ) | 2:24 |
+| 13 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
+| 14 | [Lontano da qui](https://open.spotify.com/track/0GF055XwCDyHJ7NevXpCZR) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Lontano da qui](https://open.spotify.com/album/7sBtTwXcBXcLCMULB5rP0p) | 2:58 |
+| 15 | [Blues del Silenzio](https://open.spotify.com/track/0seYXhHsIrmNoQYNAXpFrm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Blues del Silenzio](https://open.spotify.com/album/72BpMYbKEiaS6GtLCO0fMm) | 2:34 |
+| 16 | [Balli Carezze](https://open.spotify.com/track/1710C73gQsSFuJL3BDD83C) | [Delvento](https://open.spotify.com/artist/5BNIR5z3P1pnEseyyhrLEc) | [Balli Carezze](https://open.spotify.com/album/0ffDbpgkfKw8va1qMrX4W8) | 2:38 |
+| 17 | [PRIMA DI DORMIRE \(feat\. Mazzariello\)](https://open.spotify.com/track/2KWhHAGoABlD0gDhOCRAxs) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:44 |
+| 18 | [Chi Vince Che Vince?](https://open.spotify.com/track/4wur6ap0kNAOGd1PKupeNg) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Chi Vince Che Vince?](https://open.spotify.com/album/69oCajyWAMrsB7EuywcdWL) | 3:07 |
+| 19 | [Gigi](https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [Gigi](https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP) | 3:03 |
+| 20 | [Salomé/Hommage](https://open.spotify.com/track/2skBQIEIV2YZ3ZOzNZaaKn) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV2](https://open.spotify.com/album/04qAPJCC0gcJkO2sGHsnyW) | 4:35 |
 | 21 | [costole rotte](https://open.spotify.com/track/5ZzAXUZ6wWmIVRMgXH8SE0) | [moha111](https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW) | [Bedaya](https://open.spotify.com/album/5j9vwKRepPaYkkXZKhjZ07) | 3:15 |
 | 22 | [SOMBRAS](https://open.spotify.com/track/6DALNGK0SneZHSbp9Wj3r5) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [SOMBRAS](https://open.spotify.com/album/7lXHaDj9dBxaFFSyRZIIth) | 2:07 |
 | 23 | [E poi](https://open.spotify.com/track/2uPkHeF2T4V6LK3d0JVZhV) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [RADICAL POP](https://open.spotify.com/album/0fL9TA0WevAHVH33i2ql3N) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 |
 | 100 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 
-Snapshot ID: `aAq0ugAAAACJwrPEkG7lWKi8bt8rVznr`
+Snapshot ID: `aA+pigAAAACOlDU7JwVQW+WoWqwQxw67`

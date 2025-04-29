@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,075 likes - 79 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,106 likes - 79 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 78 | [Sexual Healing](https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Sexual Healing](https://open.spotify.com/album/0B3HUlpNETv0FAF7grb0Sd) | 2:55 |
 | 79 | [Fake Love](https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU) | [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Fake Love](https://open.spotify.com/album/01KJ2GfbTmEQlZtbv8a7y2) | 3:40 |
 
-Snapshot ID: `aAGWVgAAAAAmiOTR6SILHJFvaalIxCcx`
+Snapshot ID: `aAGWVgAAAABHxcdqDXrC4FMN9FRyFfZS`

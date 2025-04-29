@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Trina
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,140 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,190 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 50 | [Hater's Anthem](https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6) | [The Bootleg of the Bootleg \(Deluxe Version\)](https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh) | 5:13 |
 
-Snapshot ID: `Z9gzbgAAAABVQBKhFw50jEfKdO34GB9t`
+Snapshot ID: `Z9gzbgAAAADY9zdcrfOZEl5URaRYg3+v`

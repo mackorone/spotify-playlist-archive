@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Kenneth Mugabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,941 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,958 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 64 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 |
 | 65 | [Melo](https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 2:54 |
 
-Snapshot ID: `aArQYwAAAABByBWfX6/bOc0sPIbaFoMU`
+Snapshot ID: `aArQYwAAAACri6Pl7+t6FQj+iwnDJQdz`

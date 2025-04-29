@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,033 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,247 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 104 | [Aesthetic](https://open.spotify.com/track/7IEIHZwwsNKRFyPwCeLSFN) | [Tollan Kim](https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC) | [Aesthetic](https://open.spotify.com/album/0FglmMdmBaPgLtuVcEfzPE) | 2:13 |
 | 105 | [Birds of a Feather \- Vibey](https://open.spotify.com/track/1nhyEpLzRM7FshFSzPIPe4) | [Sunset Party](https://open.spotify.com/artist/0iZJq4OfXSTsfrC7OdUjQh) | [Birds of a Feather \(Vibey\)](https://open.spotify.com/album/7Kys4LZudmEHG0FZl30djo) | 2:50 |
 
-Snapshot ID: `aAozngAAAAAJtV7hEBreivQMmPwLcJ8y`
+Snapshot ID: `aAozngAAAABsbAl6EArUgk5JqHVyNPGp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,817 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,826 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [真夏のダイヤ](https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG) | [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw), [萩原雪歩 \(CV.浅倉杏美\)](https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh), [Kotoha Tanaka \(CV: Risa Taneda\)](https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr), [双海真美 \(CV.下田麻美\)](https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN) | 3:51 |
 | 75 | [ダイヤモンド・クラリティ](https://open.spotify.com/track/2yDyu8sUI1gZ5RJFMR64KD) | [BRIGHT DIAMOND](https://open.spotify.com/artist/0XXNitSY4VJOAkaHxR1M36) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN) | 3:42 |
 
-Snapshot ID: `Z+QwIQAAAADZSAR+pxHD2DVS6JHKwBCc`
+Snapshot ID: `Z+QwIQAAAACWf1IirQlvKuwBY37QrXiU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,888 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,099 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 |
 | 50 | [Off Limits](https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Off Limits](https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57) | 2:02 |
 
-Snapshot ID: `aAsbpgAAAABslcNzudodgiUmGHAaGls/`
+Snapshot ID: `aA+gFgAAAAA8jWzjT1Mpr7X9sWla6R72`

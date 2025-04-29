@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Ano Ba Talaga Tayo?",
+        "url": "https://open.spotify.com/album/3ZglfO9QkXmNlZGgcjtEbX"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Ano Ba Talaga Tayo?",
+      "url": "https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0"
+    },
+    {
+      "album": {
         "name": "ano ba talaga?",
         "url": "https://open.spotify.com/album/3qnEoTZUorPccoiVv3KGdZ"
       },
@@ -1294,6 +1312,24 @@
       "duration_ms": 212941,
       "name": "Dulo",
       "url": "https://open.spotify.com/track/5bLhybTqcGXyZezDi5sIB9"
+    },
+    {
+      "album": {
+        "name": "Simula at Wakas",
+        "url": "https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215497,
+      "name": "DUNGKA!",
+      "url": "https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy"
     },
     {
       "album": {
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 237894,
       "name": "Pagsisisi",
       "url": "https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE"

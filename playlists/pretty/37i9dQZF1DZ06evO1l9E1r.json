@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAACYT40jpS/oD02xVa5k00Cd",
+  "snapshot_id": "aA1zgAAAAAA7IoiWiobIvINAnBZnFr5X",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 139680,
-      "name": "Torrek",
-      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
+      "duration_ms": 137146,
+      "name": "Til baka",
+      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 137146,
-      "name": "Til baka",
-      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
+      "duration_ms": 139680,
+      "name": "Torrek",
+      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 163460,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 91293,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/6dIBeXOKUrxEA5ppvjKsh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 163460,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+        "name": "Battlefield 2042 (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Sam Slater",
+          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
         }
       ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+      "duration_ms": 152413,
+      "name": "Battlefield 2042",
+      "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
     },
     {
       "added_at": null,
@@ -1043,26 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battlefield 2042 (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Sam Slater",
-          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "Battlefield 2042",
-      "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -1079,6 +1063,38 @@
       "duration_ms": 298106,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 74153,
+      "name": "Old Neighborhood",
+      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
     },
     {
       "added_at": null,
@@ -1103,22 +1119,6 @@
       "duration_ms": 95520,
       "name": "He Died for All of Us",
       "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 74153,
-      "name": "Old Neighborhood",
-      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

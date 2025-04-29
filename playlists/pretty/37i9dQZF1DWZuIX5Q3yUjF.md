@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Kuban e Livio Cori in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,505 likes - 95 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,507 likes - 95 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 94 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 |
 | 95 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 |
 
-Snapshot ID: `aAq0uAAAAAC6SYaN2p2liZbBuh/v9Z3O`
+Snapshot ID: `aAq0uAAAAAAYfUn2hi3SdbDQLJQb3mcf`

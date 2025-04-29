@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,939 likes - 150 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,978 likes - 150 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
 | 2 | [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 |
 | 3 | [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 |
-| 4 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/5OzZ1EneWUCgVKh0V3x93i) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
+| 4 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/3mDFJuPmEsbNhzkR7yyJkZ) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
 | 5 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
 | 6 | [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 |
 | 7 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 150 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 
-Snapshot ID: `aAsI6QAAAABKNwwRop16Ce1B0h9Ob4yW`
+Snapshot ID: `aAsI6QAAAABCfsT2hjU7vxj4Qhw0di9g`

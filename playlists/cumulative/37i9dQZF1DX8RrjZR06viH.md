@@ -4,7 +4,7 @@
 
 > Våren er her!☀️
 
-199 songs - 10 hr 24 min
+200 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
 | [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-02-26 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-27 |  |
+| [eu te amo bebê](https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [eu te amo bebê](https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH) | 1:46 | 2025-04-24 |  |
 | [Every Part of Me](https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Silver Bead Eyes](https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA) | 3:34 | 2025-02-27 | 2025-04-05 |
 | [evig og alltid \(med Emma Steinbakken\)](https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [tanker blir ting](https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX) | 3:04 | 2024-06-27 | 2024-07-10 |
 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 | 2024-06-27 | 2025-03-14 |
@@ -204,7 +205,7 @@
 | [vinner](https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [TORRES TIVOLI](https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj) | 2:31 | 2024-09-26 | 2025-03-28 |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 |  |
 | [Vårsøg](https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Henning Sommerro](https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu) | [Vårsøg](https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV) | 3:08 | 2025-04-10 |  |
-| [Vær så snill](https://open.spotify.com/track/1E1pF8K5l8K4gRWR7w3OFc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hei på deg](https://open.spotify.com/album/78sIK6QQYQ3wVnAngrG5dy) | 2:12 | 2025-04-10 |  |
+| [Vær så snill](https://open.spotify.com/track/1E1pF8K5l8K4gRWR7w3OFc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hei på deg](https://open.spotify.com/album/78sIK6QQYQ3wVnAngrG5dy) | 2:12 | 2025-04-10 | 2025-04-29 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 |  |
 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 | 2024-09-26 | 2025-02-19 |
 

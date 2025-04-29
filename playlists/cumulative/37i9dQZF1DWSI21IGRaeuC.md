@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-596 songs - 1 day 21 hr 42 min
+597 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 | 2025-02-22 |
 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 | 2023-08-25 | 2025-03-01 |
 | [Drip Like Me](https://open.spotify.com/track/6MiIo8O7WDBhrUNAo56oc9) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu), [Liam Palmer](https://open.spotify.com/artist/0X08iR3Fp37Hoa9b1pjHnR), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Drip Like Me](https://open.spotify.com/album/1x9HerHDoUzF9LuNugu6Us) | 3:07 | 2025-04-18 |  |
+| [Dub House \- Kepler Remix](https://open.spotify.com/track/56mv7LWUHlutICLUknXnLr) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI), [Kepler.](https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV) | [Dub House](https://open.spotify.com/album/4pyS6MwwF0jH6II1MPd8J0) | 6:27 | 2025-04-29 |  |
 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-04 | 2024-08-24 |
 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 | 2023-11-24 | 2025-02-01 |
 | [Easy Game](https://open.spotify.com/track/1slAlbLh6W6sw1yzSGFAhk) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ), [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Easy Game](https://open.spotify.com/album/2lMMMiEW7NSwTnTrw2baaa) | 3:12 | 2025-04-04 |  |
@@ -161,7 +162,7 @@
 | [Expressions](https://open.spotify.com/track/3I85rOzMDeQqVSJnO3zIqK) | [Dyl Poole](https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw) | [Expressions](https://open.spotify.com/album/4ZR8EYXTeeZFtlNZALBkEK) | 4:07 | 2025-04-11 |  |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-22 | 2025-03-22 |
 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 | 2024-12-06 |  |
-| [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 | 2024-11-04 |  |
+| [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 | 2024-11-04 | 2025-04-29 |
 | [FEEL IT](https://open.spotify.com/track/4vjtS6TjP2Ygi2giSzpvuk) | [LASSE TOP](https://open.spotify.com/artist/07jLchrERslg1737jGgr0G) | [FEEL IT](https://open.spotify.com/album/0EVGyXZTww8bbN2jB0RWk0) | 5:56 | 2025-02-07 | 2025-04-22 |
 | [Feel The Bass](https://open.spotify.com/track/5oHvb2k4wbH2BnaI7GeUEn) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Feel The Bass EP](https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ) | 6:17 | 2024-11-13 | 2024-12-24 |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |

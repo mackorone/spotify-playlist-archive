@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,043 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,217 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 98 | [With You](https://open.spotify.com/track/4taZntAqRIdQN8qVjGWwhL) | [African Tribal Drums](https://open.spotify.com/artist/3cSnpfpHB2vhGNOL72D9BK) | [African Drums of Passion: Tribal Chants, Drumming and Celebration Music](https://open.spotify.com/album/37V6pH05tvsHXwJRlpue8P) | 5:33 |
 | 99 | [Ethnic Spirit](https://open.spotify.com/track/5F2sIZrGyOOdu1pnLRMcHb) | [Natural Healing Music Zone](https://open.spotify.com/artist/7yrrBoat3imi8RJTlmYXfz) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:22 |
 
-Snapshot ID: `Z/koBwAAAABM+cmTkxKTM69Xope6Y3ul`
+Snapshot ID: `Z/koBwAAAADZfNpxiQlOu3hnVdrvc4wP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,740 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,746 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 |
 | 50 | [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 |
 
-Snapshot ID: `aAJUSgAAAADcNdRv15AHKElZHK5FXNwT`
+Snapshot ID: `aAJUSgAAAADpgvitMfgI3Bal4oVXV2w4`

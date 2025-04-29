@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Cloud雲浩影\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,963 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,965 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 |
 | 50 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 |
 
-Snapshot ID: `Z8cjhgAAAABtg4J4OC2AI+nHezTmadY2`
+Snapshot ID: `Z8cjhgAAAACQ9iP8MvrqLV5v/iVndUN4`

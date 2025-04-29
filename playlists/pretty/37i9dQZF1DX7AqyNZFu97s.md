@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Nii
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,821 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,832 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 |
 | 100 | [Sad Chord](https://open.spotify.com/track/0pIPBlh8Si6Xe3nL2Uto92) | [Ellen Beth Abdi](https://open.spotify.com/artist/5tQtbJuYbPMwjdQufG9CbH) | [Sad Chord](https://open.spotify.com/album/69aSWDp59pXvirYuqNgfHT) | 2:42 |
 
-Snapshot ID: `aAgfggAAAADWFI7tcppqrpnZV9pzGOZH`
+Snapshot ID: `aAgfggAAAADzUp+kDbe3g6iTRwI1fvyy`

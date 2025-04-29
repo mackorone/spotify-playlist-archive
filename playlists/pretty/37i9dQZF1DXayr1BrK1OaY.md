@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,615 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,656 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 99 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 |
 | 100 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
 | 101 | [Peace In Silence](https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Peace In Silence](https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx) | 2:10 |
-| 102 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
-| 103 | [bring your love \(to the light\)](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq) | [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [bring your love \(to the light\)](https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6) | 3:45 |
+| 102 | [bring your love \(to the light\)](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq) | [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [bring your love \(to the light\)](https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6) | 3:45 |
+| 103 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
 | 104 | [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 |
 | 105 | [Calling On](https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:35 |
 | 106 | [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 117 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
 | 118 | [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 |
 | 119 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 |
-| 120 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
+| 120 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 121 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
-| 122 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
+| 122 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
 | 123 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 |
 | 124 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
 | 125 | [Modern Tragedy](https://open.spotify.com/track/2Jzlk2D053PRFg8pMYAhyV) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Modern Tragedy](https://open.spotify.com/album/7B4aT17IgD8dMcyEQWxQqk) | 2:59 |
 
-Snapshot ID: `aAsTbQAAAACFF/UBxaBybV0eUY9hZsad`
+Snapshot ID: `aAsTbQAAAABY1G2Rr5dj620ef/JHMf8m`

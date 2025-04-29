@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,913 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,953 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Bloqué](https://open.spotify.com/track/6QMzlVLJfuCcE8LvPEOpuL) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Bloqué](https://open.spotify.com/album/0mCCSNFjdewZs2aYmY48CX) | 2:52 |
 | 40 | [MA REINE](https://open.spotify.com/track/50aWT4yC0Lx3fmo3lBWPhl) | [Tatase](https://open.spotify.com/artist/1pXHYfRlxciyVOoD7tQNgy) | [MA REINE](https://open.spotify.com/album/2DlQdjp1tTIoIA1yj6oKO0) | 2:50 |
 
-Snapshot ID: `aAq0gAAAAAAj8zX1YAGYFBe9uHblT7nc`
+Snapshot ID: `aAq0gAAAAADsoaE3iwFD3rQb5PRGhUWz`

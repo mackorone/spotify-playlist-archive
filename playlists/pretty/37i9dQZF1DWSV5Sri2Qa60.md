@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,590 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,589 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 62 | [whisky](https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh) | [DBA!](https://open.spotify.com/artist/63sv2157LiQM4j3aTSkayw) | [whisky](https://open.spotify.com/album/5GDenBH8gcUqvSB36i4Bpj) | 1:50 |
 | 63 | [Leeches](https://open.spotify.com/track/1quJhosjIGze4W4bT3b5D3) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [Leeches](https://open.spotify.com/album/0OerUibglMu1gZ1jrN0q45) | 3:03 |
 
-Snapshot ID: `aArCjgAAAABC++k78f7sWMCGhXnO1PaY`
+Snapshot ID: `aArCjgAAAADWCfIiPXv6gA9jxT+4ki41`

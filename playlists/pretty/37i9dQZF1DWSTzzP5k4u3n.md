@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,115 likes - 84 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,111 likes - 84 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 83 | [Tuli palaa siltojen alla](https://open.spotify.com/track/1TNO0iMLRJsdqLh0I8PJjX) | [Pyhät Nuket](https://open.spotify.com/artist/6pIwg2AXb0G7jrSsp25Fp3) | [Tuli palaa siltojen alla](https://open.spotify.com/album/2yZYW7aF8hj5RiHz9XjkUs) | 3:41 |
 | 84 | [Hellä sydän](https://open.spotify.com/track/4wzutrjgyi3Np245Bp38sc) | [MJ Kangasniemi](https://open.spotify.com/artist/6ZpIilfEvBMePnyOTFwdkj) | [Hellä sydän](https://open.spotify.com/album/7a2gHeWVoJdDPwkoxn5KxO) | 3:33 |
 
-Snapshot ID: `aAqmlAAAAABJ6kNPJHbbk7tKZujVIVIw`
+Snapshot ID: `aAqmlAAAAACamYhXzJO6SMvhNLYxwdBb`

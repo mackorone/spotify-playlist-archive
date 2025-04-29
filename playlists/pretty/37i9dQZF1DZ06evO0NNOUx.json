@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 86052,
+  "num_followers": 86426,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAArHdzcrhBApNyYFCzm5reU",
+  "snapshot_id": "aA1zgAAAAADBjOeqhRRkM+83VjRnpvLe",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+        "name": "Heaven On My Mind (with Forrest Frank)",
+        "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+      "duration_ms": 181590,
+      "name": "Heaven On My Mind (with Forrest Frank)",
+      "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
     },
     {
       "added_at": null,
@@ -351,22 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven On My Mind (with Forrest Frank)",
-        "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 181590,
-      "name": "Heaven On My Mind (with Forrest Frank)",
-      "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/1716cky8w4roZox3AyO1zh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -495,26 +511,6 @@
       "duration_ms": 152750,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "slow down",
-        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
     },
     {
       "added_at": null,
@@ -539,34 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
       "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 161544,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/1716cky8w4roZox3AyO1zh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+      "duration_ms": 170521,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 151905,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 146992,
       "name": "DIGGIN U",
       "url": "https://open.spotify.com/track/2oNudz3r9oFMt0FfREhFoM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène francophone branchée sur courant alternatif\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,858 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,866 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Americanism](https://open.spotify.com/track/7Jz2D9uzzfzI21BRkLpxws) | [Biche](https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41), [En Attendant Ana](https://open.spotify.com/artist/7mKMQWOBVDivOhswm33WDL) | [B.I.C.H.E.](https://open.spotify.com/album/6KuOeiMw8kO3X2xogDkVRE) | 3:08 |
 | 50 | [silence](https://open.spotify.com/track/5yVrLyZgKW1n3EBnDA6HIx) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 |
 
-Snapshot ID: `aAq0fQAAAAC0/LgQT/WRvkJ3ZLSFqAS/`
+Snapshot ID: `aAq0fQAAAAB8DE29jrO5PMIhNeJL9+ix`

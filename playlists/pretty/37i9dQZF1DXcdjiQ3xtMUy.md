@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Marina Satti
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,032 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,144 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [10'](https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [GET LOVED OR DIE TRYIN'](https://open.spotify.com/album/6IstDixCQr93dLlc1Ql76H) | 2:48 |
 | 50 | [An Apopse Figo \- Night Rider Edit](https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm) | [An Apopse Figo \(Night Rider Edit\)](https://open.spotify.com/album/7rIkPoaqArCsOWmPqv3z0w) | 1:07 |
 
-Snapshot ID: `aAqmbwAAAACFAo6lPzp/il1UnNn621gp`
+Snapshot ID: `aAqmbwAAAACUr0p3NHjpHXiYKbqPPiUr`

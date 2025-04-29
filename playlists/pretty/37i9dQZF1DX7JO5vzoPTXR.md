@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:artist:6tljZS5Y8cTsYagpA2pBpJ">Lupita Infante</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,500 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,523 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Serena](https://open.spotify.com/track/4Ha8spr1v3kNvfTUdR5so7) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:11 |
 | 50 | [Intro](https://open.spotify.com/track/0dzsRspqfdVfYZ21vi9AKr) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Intro](https://open.spotify.com/album/2NQBgfGnjWW70hdYDQ2v11) | 2:04 |
 
-Snapshot ID: `Z6Y9iQAAAADT1m1OYHM7c+wmZekRA8qt`
+Snapshot ID: `Z6Y9iQAAAAC9BEbiIxLPcjEzZ5A1dzpd`

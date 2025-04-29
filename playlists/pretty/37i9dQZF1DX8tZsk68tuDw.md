@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Riordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,948,338 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,948,193 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 |
 | 75 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
 
-Snapshot ID: `aAsI7gAAAACOPdpSmAyDrSzcURErFKHc`
+Snapshot ID: `aAsI7gAAAABhKtW7QjzfoYh6P/fLVvx5`

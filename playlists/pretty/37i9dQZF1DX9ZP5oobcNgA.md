@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,923 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,940 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Keyboard Suite No\. 3 \(Set I\) in D Minor, HWV 428: VI\. Presto](https://open.spotify.com/track/146RNShLmmRzeyizGCD7bk) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/7KWXZfDQtpcDqOQdv96fzJ) | 4:07 |
 | 61 | [Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato](https://open.spotify.com/track/7cTmdaL6cGWzHk1GVy7L4Y) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Marijana Mijanovic](https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7), [Il Complesso Barocco](https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87), [Alan Curtis](https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR) | [Handel: Rodelinda](https://open.spotify.com/album/4XMKStre7PB6P9EvrzVJLI) | 5:24 |
 
-Snapshot ID: `ZIxXQgAAAADeBOm4jSa4NzSqqLqI6H6L`
+Snapshot ID: `ZIxXQgAAAAAPXOMDkWJ++7E5znJMsQtP`

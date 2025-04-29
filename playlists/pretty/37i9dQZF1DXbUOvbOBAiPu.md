@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lorde, Aaron Blommaert, Benson Boone and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,856 likes - 88 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,855 likes - 88 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 58 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
 | 59 | [These Nights](https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [These Nights](https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN) | 2:57 |
 | 60 | [Ah Min Hala](https://open.spotify.com/track/2AfIs1TZDz9zyTOEbwP33i) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ah Min Hala](https://open.spotify.com/album/3hOtTZjlcdlJw7eOdxPoLW) | 2:12 |
-| 61 | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
+| 61 | [Boîte noire](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
 | 62 | [You and Me](https://open.spotify.com/track/2NzgoMKRFZmTVnupKg6CO9) | [SALVIA](https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8) | [You and Me](https://open.spotify.com/album/0IYaEZ0sprFNXwbmTX1hgz) | 2:47 |
 | 63 | [Are You Sorry Now](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 |
 | 64 | [Lonely](https://open.spotify.com/track/0qgzdC8O1gn29skJdSz26T) | [plush baby](https://open.spotify.com/artist/7ijabwu3dmyMBI9bYxUzWW) | [Lonely](https://open.spotify.com/album/4hDAldEn1q39Ye5Yny8Kta) | 2:50 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 87 | [Boloko](https://open.spotify.com/track/3HCPeuWbzSiUqSYnK2rknX) | [Tengaïshy](https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq) | [Boloko](https://open.spotify.com/album/2q9L3mUF7DPLLOZYOMrCiN) | 2:17 |
 | 88 | [Délicatesse](https://open.spotify.com/track/12ApKcu5f7xB7JatAjqZEX) | [Chico Montana](https://open.spotify.com/artist/4EVmWndovXibJ7c0oNNx3I) | [Délicatesse](https://open.spotify.com/album/6wkBQtP5vzKZvYvMwiV6Yq) | 1:57 |
 
-Snapshot ID: `aAsg6gAAAAB+EICNwMBeNktJodM6FH/D`
+Snapshot ID: `aAsg6gAAAAC0poguJp/0Tf6JJ3PlhQdf`

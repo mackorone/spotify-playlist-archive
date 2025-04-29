@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 愛本來就係自由嘅事！想愛就愛吧！Cover: Leslie Cheung
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,990 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 48 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 |
 | 49 | [紅屋頂](https://open.spotify.com/track/6BSlsvHQiJw9XuqAAHqUrS) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [What Really Matters \(加強版\)](https://open.spotify.com/album/3Dg9TeDh6zX0604z9T2AIh) | 4:00 |
 
-Snapshot ID: `Z+wNiwAAAACtu0LOqG1ZWWbpQS734zEN`
+Snapshot ID: `Z+wNiwAAAABQbc7Wo28VrAM7YciMHfrc`

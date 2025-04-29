@@ -1,12 +1,12 @@
 {
   "description": "the home of pop's evolutionary spirit \u00b1 cover: zara larsson",
-  "num_followers": 211869,
+  "num_followers": 211845,
   "original_name": "Evolver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArCjgAAAACmgLwdBbpcADp7QA++U9DF",
+  "snapshot_id": "aA9u7AAAAACXbJD6nP0CgcQ5C00XKC1e",
   "tracks": [
     {
       "added_at": "2025-04-24 23:00:30",
@@ -39,6 +39,22 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Stateside",
+        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -79,22 +95,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Stateside",
-        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Stateside",
-      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Achilles",
         "url": "https://open.spotify.com/album/6329QiNs6hOyLdlq3sbo7i"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 164972,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/4ywqXOyyvgDoT0dhD93sTi"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Goddess of Orange County",
+        "url": "https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx"
+      },
+      "artists": [
+        {
+          "name": "Stella Smyth",
+          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
+        }
+      ],
+      "duration_ms": 174209,
+      "name": "Goddess of Orange County",
+      "url": "https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -143,6 +159,22 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "I Am Digital, I Am Divine",
+        "url": "https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 187829,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "STARBOUNCE",
         "url": "https://open.spotify.com/album/0ZxBwa6hlV7ZdjO8vFAken"
       },
@@ -159,6 +191,22 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "u+me",
+        "url": "https://open.spotify.com/album/3mnASupEG1eVQyVQRF3EY4"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "duration_ms": 135465,
+      "name": "u+me",
+      "url": "https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4DRfqbqFprKOoDr1WtfEkS"
       },
@@ -171,22 +219,6 @@
       "duration_ms": 210493,
       "name": "Free",
       "url": "https://open.spotify.com/track/1DJvx1qVu9Qw0RgrDYlgkU"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
-        "name": "Goddess of Orange County",
-        "url": "https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx"
-      },
-      "artists": [
-        {
-          "name": "Stella Smyth",
-          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
-        }
-      ],
-      "duration_ms": 174209,
-      "name": "Goddess of Orange County",
-      "url": "https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -319,22 +351,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "u+me",
-        "url": "https://open.spotify.com/album/3mnASupEG1eVQyVQRF3EY4"
-      },
-      "artists": [
-        {
-          "name": "Disco Shrine",
-          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
-        }
-      ],
-      "duration_ms": 135465,
-      "name": "u+me",
-      "url": "https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "MANZANA",
         "url": "https://open.spotify.com/album/6A3D49y6i0GnIGShUm5oUC"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 180899,
       "name": "Juicy Juice (feat. Marie Davidson)",
       "url": "https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
-        "name": "I Am Digital, I Am Divine",
-        "url": "https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 187829,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "The Kicks",
+        "url": "https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "duration_ms": 143445,
+      "name": "The Kicks",
+      "url": "https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "grit",
         "url": "https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "The Kicks",
-        "url": "https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF"
-      },
-      "artists": [
-        {
-          "name": "gianna",
-          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
-        }
-      ],
-      "duration_ms": 143445,
-      "name": "The Kicks",
-      "url": "https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Vincent's Wife (p.33)",
         "url": "https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 139169,
       "name": "stick",
       "url": "https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "move with me",
+        "url": "https://open.spotify.com/album/0yKLmen6aR66f7qgr9sBhw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "move with me",
+      "url": "https://open.spotify.com/track/5LPFNOEkjcFSXBN5nZqdfB"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -639,22 +655,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "ICE TEA",
-        "url": "https://open.spotify.com/album/2RtiDGDxOEKDmdrr1n0Udv"
-      },
-      "artists": [
-        {
-          "name": "Alice Sno",
-          "url": "https://open.spotify.com/artist/6jxNHSJHWqknXpljcz6bWK"
-        }
-      ],
-      "duration_ms": 122390,
-      "name": "ICE TEA",
-      "url": "https://open.spotify.com/track/0Ai1Rnz8XeA0AY9eZiIMJG"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 181889,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/3YO1aRuMjwPaciSSDi8uSV"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "ICE TEA",
+        "url": "https://open.spotify.com/album/2RtiDGDxOEKDmdrr1n0Udv"
+      },
+      "artists": [
+        {
+          "name": "Alice Sno",
+          "url": "https://open.spotify.com/artist/6jxNHSJHWqknXpljcz6bWK"
+        }
+      ],
+      "duration_ms": 122390,
+      "name": "ICE TEA",
+      "url": "https://open.spotify.com/track/0Ai1Rnz8XeA0AY9eZiIMJG"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -815,38 +831,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "POP GIRL",
-        "url": "https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d"
-      },
-      "artists": [
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 154790,
-      "name": "POP GIRL",
-      "url": "https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
-        "name": "move with me",
-        "url": "https://open.spotify.com/album/0yKLmen6aR66f7qgr9sBhw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "move with me",
-      "url": "https://open.spotify.com/track/5LPFNOEkjcFSXBN5nZqdfB"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Aftertaste (MUNA Remix)",
         "url": "https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 232360,
       "name": "Aftertaste - MUNA Remix",
       "url": "https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "POP GIRL",
+        "url": "https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 154790,
+      "name": "POP GIRL",
+      "url": "https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Fumble",
-        "url": "https://open.spotify.com/album/4SGTzbskjkHVrFLJBziM2v"
-      },
-      "artists": [
-        {
-          "name": "Pat's Soundhouse",
-          "url": "https://open.spotify.com/artist/11ZPsPERyCMMa4p6qaCFyI"
-        }
-      ],
-      "duration_ms": 124078,
-      "name": "Fumble",
-      "url": "https://open.spotify.com/track/6PUO4ptMcqSZbBDGR2xY9J"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Like No One's Watching",
         "url": "https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "Fumble",
+        "url": "https://open.spotify.com/album/4SGTzbskjkHVrFLJBziM2v"
+      },
+      "artists": [
+        {
+          "name": "Pat's Soundhouse",
+          "url": "https://open.spotify.com/artist/11ZPsPERyCMMa4p6qaCFyI"
+        }
+      ],
+      "duration_ms": 124078,
+      "name": "Fumble",
+      "url": "https://open.spotify.com/track/6PUO4ptMcqSZbBDGR2xY9J"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "DONT MAKE THIS WEIRD",
         "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 182624,
       "name": "CRY",
       "url": "https://open.spotify.com/track/6bkZIevD6t3Wl9w10HEk3I"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
-        "name": "Hang the DJ",
-        "url": "https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf"
-      },
-      "artists": [
-        {
-          "name": "LILLI",
-          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
-        }
-      ],
-      "duration_ms": 174509,
-      "name": "Erase My Mind",
-      "url": "https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -1203,6 +1187,22 @@
       "duration_ms": 194800,
       "name": "Air (English Ver.)",
       "url": "https://open.spotify.com/track/21qmetchnjt5a0o50F0q4s"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Hang the DJ",
+        "url": "https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf"
+      },
+      "artists": [
+        {
+          "name": "LILLI",
+          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
+        }
+      ],
+      "duration_ms": 174509,
+      "name": "Erase My Mind",
+      "url": "https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6"
     }
   ],
   "unique_name": "Evolver",

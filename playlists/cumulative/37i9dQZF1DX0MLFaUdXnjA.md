@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Laufey
 
-2,204 songs - 4 day 22 hr 36 min
+2,206 songs - 4 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-05-17 | 2024-08-03 |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-05-22 | 2021-06-05 |
 | [BACK TO BLONDE](https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BACK TO BLONDE](https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl) | 2:44 | 2024-11-15 | 2025-02-15 |
-| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
+| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-04-29 |
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-11-22 | 2024-12-21 |
 | [Backseat Rider](https://open.spotify.com/track/0nWhWuaLLCcJS0D19np9Cb) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Backseat Rider](https://open.spotify.com/album/4IHYugfRUshTMuomhElH14) | 3:28 | 2021-04-24 | 2021-07-04 |
 | [BackToYou](https://open.spotify.com/track/6iU8OHfNUYh5cMXW9yTluE) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [BackToYou](https://open.spotify.com/album/6NAuIPEzXzHlqgQ9vEUXUv) | 2:19 | 2024-08-30 | 2024-09-21 |
@@ -1245,6 +1245,7 @@
 | [Mine](https://open.spotify.com/track/1Atmh050uaev57YjLZvaCh) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Mine](https://open.spotify.com/album/39E6vbGyfoUQ6EmsfXJhC6) | 2:11 | 2024-04-05 | 2024-07-13 |
 | [mini fridge](https://open.spotify.com/track/7ruLGK8sA4RS5x1Moayj66) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [mini fridge](https://open.spotify.com/album/0edkRml3yUMWIMQC9mNfQM) | 3:13 | 2021-08-14 | 2021-09-11 |
 | [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 | 2024-10-12 |
+| [Miss America](https://open.spotify.com/track/5EUFD92nWoRTlNVj7zkwUY) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Miss America](https://open.spotify.com/album/6h6s1KGJDUlApKW75qlArL) | 2:53 | 2025-04-28 |  |
 | [miss america \(brand new era\)](https://open.spotify.com/track/4nrAsLeazv2H0s3DIULGQb) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/2sv9rlahRXvR0JNnSm2CJn) | 3:52 | 2020-11-06 | 2021-02-19 |
 | [Miss Missing You](https://open.spotify.com/track/3fQuAqrGTT2FDXOLmMEcc6) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Miss Missing You](https://open.spotify.com/album/1QQBLFMTYNUF3iWIm8elk5) | 3:28 | 2023-02-17 | 2023-02-25 |
 | [Miss You 2](https://open.spotify.com/track/0j5QKkgh58UmjjONmDxYhE) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Miss You 2](https://open.spotify.com/album/13LBDvOZQHzlVxwddnWGar) | 3:16 | 2020-04-26\* | 2020-07-31 |
@@ -1346,6 +1347,7 @@
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2020-06-29 | 2020-11-13 |
 | [No Way Out](https://open.spotify.com/track/2gW1u78VXiPGslHHGkfiK4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [No Way Out](https://open.spotify.com/album/2mQscLZvBRSMSs7VXWpy2u) | 3:14 | 2020-04-26\* | 2020-07-18 |
 | [Nobody Loves Me \(feat\. ELIO\)](https://open.spotify.com/track/40CyjWHnex920T67TMP5zO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Nobody Loves Me \(feat\. ELIO\)](https://open.spotify.com/album/65uQzQ8mRTTSEYhawsn1ZY) | 2:30 | 2021-03-06 | 2021-04-30 |
+| [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 | 2025-04-28 |  |
 | [Nobody's Funeral](https://open.spotify.com/track/5DtOGEhJwz1IJ8th2hkPnZ) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Nobody's Funeral](https://open.spotify.com/album/6qXfmch002yzB7EcZ0dyEY) | 3:47 | 2024-07-05 | 2024-07-27 |
 | [Nobody's You](https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Nobody's You](https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1) | 2:36 | 2023-06-30 | 2023-08-19 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-28 | 2024-07-19 |
@@ -1661,7 +1663,7 @@
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-12-01 | 2024-04-19 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-26 | 2021-04-03 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2020-04-26\* | 2020-05-01 |
-| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-04 |  |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-04 | 2025-04-29 |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-17 | 2021-10-02 |
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-28 | 2023-06-17 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-28 | 2025-04-05 |

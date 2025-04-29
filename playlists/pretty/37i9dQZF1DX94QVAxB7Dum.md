@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,068 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,160 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 60 | [Freddie's Dead](https://open.spotify.com/track/7jmqTPoxOQsC2w9Cb6z78q) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Beautiful Brother \- The Essential](https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b) | 5:24 |
 | 61 | [Didn't I Blow Your Mind This Time](https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Jackie Brown \- Music From The Mirmax Motion Picture](https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf) | 3:20 |
 | 62 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
-| 63 | [Your Precious Love \- Stereo Version](https://open.spotify.com/track/62CNdmc3n7hdddhqVXilEz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Marvin Gaye '50' \(International Version\)](https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa) | 3:02 |
-| 64 | [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 |
+| 63 | [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 |
+| 64 | [Your Precious Love \- Stereo Version](https://open.spotify.com/track/62CNdmc3n7hdddhqVXilEz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Marvin Gaye '50' \(International Version\)](https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa) | 3:02 |
 | 65 | [Tell It Like It Is](https://open.spotify.com/track/6xDVsf5wUYfA70Us2pFWu5) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Rock The Boat](https://open.spotify.com/album/3ZKYRKHbC6kLXh6xc8sABA) | 3:06 |
 | 66 | [Oh, No Not My Baby](https://open.spotify.com/track/0UaDKKReLUGqJVNUIemaPk) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The Very Best Of Maxine Brown](https://open.spotify.com/album/64qNZpi71sBTDe2F23IlOn) | 2:37 |
 | 67 | [Boogie Down \- Single Version](https://open.spotify.com/track/1g6IiMTz9cPHLOIn7aAkCd) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:43 |
 | 68 | [Rockin' Robin](https://open.spotify.com/track/0XFRGKNOzBElJCR3lz1NX0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number 1’s: The Jacksons Story](https://open.spotify.com/album/42oS02bWIcliOvLFHsDawf) | 2:32 |
 | 69 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
 
-Snapshot ID: `ZoSDkwAAAADH/x1UESFlfA3OoYC7lRzM`
+Snapshot ID: `ZoSDkwAAAAB7Uq+/BblJdNVF/KPVZkpP`

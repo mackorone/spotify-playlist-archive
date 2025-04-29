@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: LUSILLON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,223 likes - 32 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,226 likes - 32 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 |
 | 19 | [Paloma Blanca](https://open.spotify.com/track/1oi48eToAddcIsSL5m8CVh) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Paloma Blanca](https://open.spotify.com/album/7IHiXQms4DlksORY5sMnYu) | 3:21 |
 | 20 | [A la Orilla](https://open.spotify.com/track/3DC9tSYslFMhq15lmEpP9J) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:34 |
-| 21 | [Kit Kat](https://open.spotify.com/track/1IsBZNOBe54SDamBcDluJk) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Kit Kat](https://open.spotify.com/album/6vQKU94OvjcIw6L9BOkIcE) | 3:09 |
-| 22 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
+| 21 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
+| 22 | [Kit Kat](https://open.spotify.com/track/1IsBZNOBe54SDamBcDluJk) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Kit Kat](https://open.spotify.com/album/6vQKU94OvjcIw6L9BOkIcE) | 3:09 |
 | 23 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 |
 | 24 | [En mi coche](https://open.spotify.com/track/6uoHyBdpRD1VLQ4tZCqQ21) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.I : CARI](https://open.spotify.com/album/6PCPA1Y2prtnQ4v3sZ4NOp) | 2:04 |
 | 25 | [T'enxules](https://open.spotify.com/track/4nvcsK1OktR14NLO1LxJPC) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.II : EUGA DE NIT](https://open.spotify.com/album/1cTRqFtdSOrfhAl5VygR5E) | 2:44 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 31 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 | 32 | [Enamorada de tu](https://open.spotify.com/track/6YKh9DusNfJJcLgfEv72b9) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.III : COM AQUELL AGOST](https://open.spotify.com/album/4GBj3aiTw8fXmShzPoe5CI) | 3:09 |
 
-Snapshot ID: `aAq0fAAAAABC9M3rZUe4tL96J2bLVEE1`
+Snapshot ID: `aAq0fAAAAAC6pbakIZvIMDzCeW2sWTFW`

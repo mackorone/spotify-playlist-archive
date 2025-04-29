@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,976 songs - 18 day 3 hr 47 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,993 songs - 18 day 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3100,8 +3100,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3090 | [제자리 걸음](https://open.spotify.com/track/6Pt7YQuTWwSo07fgWEWSh5) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 3:38 |
 | 3091 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 |
 | 3092 | [In my life](https://open.spotify.com/track/1pUi13QNa1k919IMumUDNe) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [In my life](https://open.spotify.com/album/6t12wExU0kuJm52ZRCCIHd) | 3:55 |
-| 3093 | [겨울비](https://open.spotify.com/track/1VGxmkvRpIg6lMbQ7kH8zO) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 6:13 |
-| 3094 | [지금은 알 수 없어](https://open.spotify.com/track/0o9dOUF5Tzt6oe6x5qG7Hf) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 5:29 |
+| 3093 | [겨울비 \- Live](https://open.spotify.com/track/1VGxmkvRpIg6lMbQ7kH8zO) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 6:13 |
+| 3094 | [My Love \- Live](https://open.spotify.com/track/0o9dOUF5Tzt6oe6x5qG7Hf) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 5:29 |
 | 3095 | [아름다운 구속](https://open.spotify.com/track/5CE7Q33bONpzjgKAjRkDxv) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Ⅴ](https://open.spotify.com/album/4eKFy8EDH3HrAU6G0AOEp3) | 4:12 |
 | 3096 | [Winter Rain](https://open.spotify.com/track/0lr1eBnGwY5rIXcNSq6iai) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Ultimate Collection of Super Hits Vol\. 4](https://open.spotify.com/album/7aNziGpVUL5cKKm0Zt1uLB) | 5:17 |
 | 3097 | [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 |
@@ -3306,7 +3306,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3296 | [화려하지 않은 고백 Confession Is Not Flashy](https://open.spotify.com/track/2p5DfmIUTLH79elmaSCCR5) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [My Story](https://open.spotify.com/album/3rXoEB69otZtclVhm9r7J2) | 3:50 |
 | 3297 | [휠릴리](https://open.spotify.com/track/1rSqvbbNYU0X7vkdJbnwQb) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [The Colors Of My Life](https://open.spotify.com/album/4PfevSw9Ww4svGvkHLzHLs) | 4:20 |
 | 3298 | [I Believe](https://open.spotify.com/track/1qE5hjiaLRqX1393Lbkx58) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [I Believe](https://open.spotify.com/album/6IuqdF7bmwACETiy1VMjmK) | 4:51 |
-| 3299 | [그리고 사랑해](https://open.spotify.com/track/4bkkx5gsultfLjrGHyWANs) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Made In Winter](https://open.spotify.com/album/48ju2I8Vy3ls1kS0PLvEaH) | 4:18 |
+| 3299 | [그리고 사랑해](https://open.spotify.com/track/4bkkx5gsultfLjrGHyWANs) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Made In Winter \(Repackage Ver.\)](https://open.spotify.com/album/48ju2I8Vy3ls1kS0PLvEaH) | 4:18 |
 | 3300 | [Lalala](https://open.spotify.com/track/6Cpw0x7Ngn8p6sXCFG3rx0) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [My Stay In Sendai](https://open.spotify.com/album/62ZAzqJ6KDuwNym3NNsVk3) | 4:33 |
 | 3301 | [덩그러니](https://open.spotify.com/track/0hkeyG6KDtjsVvtk52yhlG) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [This Time](https://open.spotify.com/album/1hYVk7KYL3oiEZXwEbrSFz) | 4:20 |
 | 3302 | [Fox rain](https://open.spotify.com/track/7f7f7tSvi6W9O9tFCKKjjt) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [My Girlfriend is Gumiho OST Part 1](https://open.spotify.com/album/1zRTgPkQm75gBzHWm99y8s) | 4:12 |
@@ -6984,5 +6984,22 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6974 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 6975 | [A Dream With a Baseball Player](https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:41 |
 | 6976 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
+| 6977 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
+| 6978 | [Meet Me in Amsterdam](https://open.spotify.com/track/0tAdX9n0DuQC5XHmwn5ufT) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Meet Me in Amsterdam](https://open.spotify.com/album/6rpH4eVlYD1cdp7lu93ZzM) | 5:01 |
+| 6979 | [Wait On You](https://open.spotify.com/track/1S7O1gj876LSrgGqvuYhv3) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Na\-Kel Smith](https://open.spotify.com/artist/500rBZDH42x0aBmajZARos) | [Two4Two](https://open.spotify.com/album/2qajMllT2l4DcgZoakGPXU) | 1:52 |
+| 6980 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
+| 6981 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 |
+| 6982 | [Love Lies](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 |
+| 6983 | [The Mission](https://open.spotify.com/track/1pdhJJhfXx8vgwqsr8lC49) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/2uk0qRQyJKmqF1NJL2Cjrw) | 3:11 |
+| 6984 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
+| 6985 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 6986 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 |
+| 6987 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 6988 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 |
+| 6989 | [Right Now](https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 2:40 |
+| 6990 | [Wooden Door With A Smile](https://open.spotify.com/track/7irjfKCMUuFTxMi2Hs9W2d) | [Macabre Plaza](https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t) | [An Old Smile](https://open.spotify.com/album/1WBRxFQiWLnyU2HdGMGwZT) | 1:44 |
+| 6991 | [on](https://open.spotify.com/track/7HXs149WscOjEmnnfk0NSY) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [Unrest](https://open.spotify.com/album/1peYKUNIuPZk2yeuoYQcNt) | 5:05 |
+| 6992 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
+| 6993 | [Honey Caturra](https://open.spotify.com/track/6ec8TnXTEndhh2PI45dfkj) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [Honey Caturra](https://open.spotify.com/album/1dZUSyBy8hUd2LRd5Zp2Us) | 2:46 |
 
-Snapshot ID: `AAAFkDD6iaeXX65JYD7xJeZuJbfeAsix`
+Snapshot ID: `AAAFoZxPx7qVPb5i0+9SaxRMimY+abEQ`

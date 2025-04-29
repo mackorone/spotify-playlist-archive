@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 243206,
+  "num_followers": 243275,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABEkW3v1p1SlSGgIzInNM+A",
+  "snapshot_id": "aA1zgAAAAAAsKYaqyDvtAgKO0AaWN2Ml",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gustas M\u00e1s Que Salir a Fumar",
         "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #7",
         "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 169642,
       "name": "LQRA Session #7",
       "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Vienes",
-        "url": "https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188950,
-      "name": "Cuando Vienes",
-      "url": "https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como T\u00fa Ninguna",
         "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 236756,
       "name": "Como T\u00fa Ninguna",
       "url": "https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Vienes",
+        "url": "https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188950,
+      "name": "Cuando Vienes",
+      "url": "https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc"
     },
     {
       "added_at": null,

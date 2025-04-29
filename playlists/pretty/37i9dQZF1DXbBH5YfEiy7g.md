@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=CH3UNWvPRCGeIi\_BPbNN3A">Mmuso Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,272 likes - 100 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,329 likes - 100 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
 | 100 | [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 |
 
-Snapshot ID: `aArQ0gAAAABpSvjqBR+YyozcwVIg9w5b`
+Snapshot ID: `aArQ0gAAAAAEZIGA4al6ajr72rfOy7ax`

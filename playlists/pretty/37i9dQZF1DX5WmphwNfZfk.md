@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Maz B
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,088 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,090 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [Wings](https://open.spotify.com/track/1g3Uy9N3iCKyAdpWvzoW7V) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Wings](https://open.spotify.com/album/7Ged8C1Ox1YfGu3X0gf9zM) | 2:52 |
 | 40 | [Fiou](https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Fiou \- Chronique d'une vie de merde](https://open.spotify.com/album/37hElmGl09vwW226nnA97R) | 2:49 |
 
-Snapshot ID: `Z+9ZUwAAAAB49SZtcXMJVRiQLG+es0Mj`
+Snapshot ID: `Z+9ZUwAAAABq7jHP4BabeZF7oKqFD5CF`

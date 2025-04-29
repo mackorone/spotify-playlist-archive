@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Posłuchaj niezależnych artystów, którzy wystąpią na <a href="spotify:playlist:37i9dQZF1DX1k6A2wTsXkD">Next Fest</a> w Poznaniu oraz innych wschodzących artystów! Cover: <a href="spotify:artist:57IyKKJVTloFrwrTBnnqGA">Klaudia Daliva</a>, <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>, <a href="spotify:artist:5lCEddkyXfytjFWsUlviEo">Mlecze</a>, <a href="spotify:artist:6bXkQoRLIyuiEdKa1PUyt6">Fida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,053 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,054 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 149 | [Buntownicy](https://open.spotify.com/track/4GLzJmq0cA3FsSeG7YGq3F) | [Mayday](https://open.spotify.com/artist/0M6xVx7NOB9t5Mn5wshjp8) | [Buntownicy](https://open.spotify.com/album/5WNTSfrV3pTM32w7Mq6YAK) | 3:30 |
 | 150 | [It Never Happened](https://open.spotify.com/track/5JV7nvxDmeOMYn1caMDsyD) | [Feral Atom](https://open.spotify.com/artist/6j27FQA4GZO0IoI7PTtubj) | [It Never Happened](https://open.spotify.com/album/43vJaCB8p87ZXM2dF4xyRI) | 3:52 |
 
-Snapshot ID: `aApj0QAAAACmijeNVqGPY5ftA+R8Msvu`
+Snapshot ID: `aApj0QAAAACFzwLfTtaVjJ6UmBGSzota`

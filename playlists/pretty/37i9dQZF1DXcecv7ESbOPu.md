@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Zara Larsson, Y4ska, Lorde och Veronica Maggio med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,810 likes - 114 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,809 likes - 114 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [Dollars And Dimes \(feat\. Bebe Rexha\)](https://open.spotify.com/track/2yioxPsU0aiU4dGtZPoK8I) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Dollars And Dimes \(feat\. Bebe Rexha\)](https://open.spotify.com/album/3rvMMAjXnf20lJx8sBc5G3) | 2:48 |
 | 114 | [Ease My Mind](https://open.spotify.com/track/56UtjR6j9ZgOyXQfJnItwa) | [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW), [Wlady](https://open.spotify.com/artist/3SJ6Py11YrgMsyPu1NmIoA), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Ease My Mind](https://open.spotify.com/album/4pKQ0ZiC3KcOuACcHMnbOC) | 2:19 |
 
-Snapshot ID: `aAssFgAAAAAT/CGTGGz9IAMk/2IeHUsN`
+Snapshot ID: `aAssFgAAAABq8yvNaR0HKKv9DFIH0UV0`

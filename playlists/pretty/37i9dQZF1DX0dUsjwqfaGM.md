@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
-Snapshot ID: `Z+4QzwAAAAD+OFiOi7Vl75mLhWCTg0uo`
+Snapshot ID: `Z+4QzwAAAAAV1UeoC2QdRlRX9e1fKctF`

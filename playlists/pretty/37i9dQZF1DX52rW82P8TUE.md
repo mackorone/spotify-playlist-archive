@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,642 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,664 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Filipenses \- Ao Vivo](https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN) | [ImaginAline \- Uma Viagem no Tempo \(Ao Vivo\)](https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y) | 4:06 |
 | 50 | [Por Dentro, Fora, Alto, Embaixo](https://open.spotify.com/track/28TJi7S4890dx20i7q5WIL) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [3 Palavrinhas Vol\. 3](https://open.spotify.com/album/60EtnK9eXaiDSckq6svb9T) | 1:57 |
 
-Snapshot ID: `Z6OARwAAAAC9hJ9aIAiXVzsQjnp9/nPN`
+Snapshot ID: `Z6OARwAAAACbQhUZt1ES4WXaELF964xy`

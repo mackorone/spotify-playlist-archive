@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,113 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,109 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
 | 50 | [BOSS](https://open.spotify.com/track/1kaxixqEIs3Z5KEWw6AA0a) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [DJ Milane](https://open.spotify.com/artist/51VUv5NmNQEO5TMGEaUXAJ) | [BOSS](https://open.spotify.com/album/6bnHdFXwKSykY0MczbRrWL) | 3:15 |
 
-Snapshot ID: `aAkNpgAAAADMxnFqFr+WyLY/RVwNDLMa`
+Snapshot ID: `aAkNpgAAAABb7hvDLb/z4BSjZii88TKQ`

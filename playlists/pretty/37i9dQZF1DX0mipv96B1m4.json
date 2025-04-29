@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1490,
+  "num_followers": 1491,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeHJ1AAAAADPiNEGGxTCfs0vtAAzN9N9",
+  "snapshot_id": "ZeHJ1AAAAAALqFxfI1W1s491dir+ptbB",
   "tracks": [
     {
       "added_at": "2024-03-01 12:07:08",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Cyaa Sidung",
+        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 167524,
+      "name": "Cyaa Sidung",
+      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Marijuana",
         "url": "https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 219718,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Cyaa Sidung",
-        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 167524,
-      "name": "Cyaa Sidung",
-      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
     }
   ],
   "unique_name": "Kidandali Parte",

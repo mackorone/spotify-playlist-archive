@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,485 likes - 107 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,655 likes - 107 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 106 | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 |
 | 107 | [Keep Going High](https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [God is Iconic](https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp) | 2:13 |
 
-Snapshot ID: `Z+9ZXAAAAADgGZWdEiLyslPXIXUEFqbd`
+Snapshot ID: `Z+9ZXAAAAADFxbTB4/d4jBLqEZJwnFh5`

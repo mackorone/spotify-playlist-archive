@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,585 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,637 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 100 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 |
 | 101 | [痛み](https://open.spotify.com/track/4MCM5UJS4nVBCPPGjRKS0W) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:46 |
 
-Snapshot ID: `Z5O9oQAAAABvzWIQmX8bsumgIB/ZSjnF`
+Snapshot ID: `Z5O9oQAAAABMZXwxCiYmDWpZ5ElgBwXe`

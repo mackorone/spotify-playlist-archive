@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Ana Bacalhau e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,896 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,895 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [culpada](https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [SOZINHA E MAL ACOMPANHADA](https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi) | 3:10 |
 | 50 | [saudades tuas.](https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [saudades tuas.](https://open.spotify.com/album/0MK4K1a0naVxAeUgMIAL5E) | 3:10 |
 
-Snapshot ID: `Z+xv/AAAAAAZ1Th25zH12MXSwxuV3vkI`
+Snapshot ID: `Z+xv/AAAAADcb+1uvhBJ13T1V9e4DFcH`

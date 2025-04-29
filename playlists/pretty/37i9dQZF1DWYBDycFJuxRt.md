@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Tele\*👉 <a href="https://spice.eplus.jp/articles/337284">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,406 likes - 84 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,408 likes - 84 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [哀とアイスブルー](https://open.spotify.com/track/0a8vmL2xFJEjcoq17ZI0G5) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [哀とアイスブルー](https://open.spotify.com/album/5TqomAfCe9N2KAOzU8Btx2) | 3:25 |
 | 84 | [Doki Doki](https://open.spotify.com/track/0e0v9iH7tWIheGYFHYIY8P) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Bokuranomama](https://open.spotify.com/album/2zW5fQpjZyq7WvHsq47cL0) | 4:12 |
 
-Snapshot ID: `aAhkjAAAAAAB9MTj9MKO1Z6rlc+F7uQ+`
+Snapshot ID: `aAhkjAAAAADBFv3VWhPeYuFmSot/rrty`

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 153363,
+  "num_followers": 153392,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADtrGB5+XQYUZp1T9R4/yYf",
+  "snapshot_id": "aA1zgAAAAABwp44B0JAuJ2SN0FA42XyY",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "nssmnsb",
-      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "nssmnsb",
+      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
     },
     {
       "added_at": null,
@@ -971,34 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Moda",
-        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Dinheiro e Putaria",
-      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUITA ONDA",
         "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
       },
@@ -1023,6 +995,34 @@
       "duration_ms": 150508,
       "name": "NA ONDA",
       "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Dinheiro e Putaria",
+      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
     },
     {
       "added_at": null,
@@ -1311,34 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MODE$TIA",
-          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
-        },
-        {
-          "name": "Yoka",
-          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
-        }
-      ],
-      "duration_ms": 247701,
-      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
-      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
       },
@@ -1363,6 +1335,34 @@
       "duration_ms": 210000,
       "name": "Filho do Dono",
       "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MODE$TIA",
+          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
+        },
+        {
+          "name": "Yoka",
+          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
+        }
+      ],
+      "duration_ms": 247701,
+      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
+      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
     },
     {
       "added_at": null,

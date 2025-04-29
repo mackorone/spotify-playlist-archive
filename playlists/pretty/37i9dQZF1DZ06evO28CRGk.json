@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAAMV4HtmgrNeoYMA41xeBmo",
+  "snapshot_id": "aA1zgAAAAACoEqDX2gFYZJzUOlKOeEsB",
   "tracks": [
     {
       "added_at": null,
@@ -640,17 +640,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Stricklin",
-          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
-        },
-        {
-          "name": "Speech",
-          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 184178,
-      "name": "Life Music",
-      "url": "https://open.spotify.com/track/45U7W3MZ3xjT6XHdBJ9igC"
+      "duration_ms": 168364,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
     },
     {
       "added_at": null,
@@ -672,13 +668,13 @@
           "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Pearl Gates",
+          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
         }
       ],
-      "duration_ms": 227624,
-      "name": "The Fight Song (feat. Pharoahe Monch)",
-      "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
+      "duration_ms": 275902,
+      "name": "Still Love Her (feat. Pearl Gates)",
+      "url": "https://open.spotify.com/track/1vqDKx8kMxbicnFPso4ICi"
     },
     {
       "added_at": null,
@@ -727,22 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
       "artists": [
         {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         }
       ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
+      "duration_ms": 188710,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
     },
     {
       "added_at": null,
@@ -764,37 +764,33 @@
           "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
-          "name": "Pearl Gates",
-          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         }
       ],
-      "duration_ms": 275902,
-      "name": "Still Love Her (feat. Pearl Gates)",
-      "url": "https://open.spotify.com/track/1vqDKx8kMxbicnFPso4ICi"
+      "duration_ms": 227624,
+      "name": "The Fight Song (feat. Pharoahe Monch)",
+      "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         }
       ],
-      "duration_ms": 188710,
-      "name": "Kings",
-      "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -823,22 +819,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
       "artists": [
         {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 238538,
-      "name": "Przyjaciel Diab\u0142a",
-      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
+      "duration_ms": 229230,
+      "name": "Count Em Up",
+      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
     },
     {
       "added_at": null,
@@ -867,30 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Lil Fame",
-          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 229230,
-      "name": "Count Em Up",
-      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
+      "duration_ms": 238538,
+      "name": "Przyjaciel Diab\u0142a",
+      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
     },
     {
       "added_at": null,
@@ -947,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MP On The MP: The Beat Tape Vol. 1",
+        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Don't Touch That Phone",
+      "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Newport Authority 2",
         "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
@@ -963,22 +975,6 @@
       "duration_ms": 198418,
       "name": "BK 2 NJ",
       "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MP On The MP: The Beat Tape Vol. 1",
-        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Don't Touch That Phone",
-      "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
     },
     {
       "added_at": null,
@@ -1039,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seize The Day",
-        "url": "https://open.spotify.com/album/1H5MdSZhAZPWRma6qP0VLG"
-      },
-      "artists": [
-        {
-          "name": "Hannibal Stax & Marco Polo",
-          "url": "https://open.spotify.com/artist/126VEVzLKMdZPAosfHf28Z"
-        },
-        {
-          "name": "Hannibal Stax",
-          "url": "https://open.spotify.com/artist/4ynhwfEvClBaKNkRpWLiIc"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 228575,
-      "name": "Gunz & Butter",
-      "url": "https://open.spotify.com/track/0KtAetGQ1wMH3NoOIVWoO3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/2d559tVeYdwUOvA6rk91TT"
       },
@@ -1107,26 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 239393,
-      "name": "\u017bywy lub Martwy",
-      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -1143,6 +1095,50 @@
       "duration_ms": 236626,
       "name": "War",
       "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seize The Day",
+        "url": "https://open.spotify.com/album/1H5MdSZhAZPWRma6qP0VLG"
+      },
+      "artists": [
+        {
+          "name": "Hannibal Stax & Marco Polo",
+          "url": "https://open.spotify.com/artist/126VEVzLKMdZPAosfHf28Z"
+        },
+        {
+          "name": "Hannibal Stax",
+          "url": "https://open.spotify.com/artist/4ynhwfEvClBaKNkRpWLiIc"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 228575,
+      "name": "Gunz & Butter",
+      "url": "https://open.spotify.com/track/0KtAetGQ1wMH3NoOIVWoO3"
     },
     {
       "added_at": null,
@@ -1196,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 150786,
-      "name": "What Is The Question",
-      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
+      "duration_ms": 239393,
+      "name": "\u017bywy lub Martwy",
+      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
     }
   ],
   "unique_name": "This Is Marco Polo",

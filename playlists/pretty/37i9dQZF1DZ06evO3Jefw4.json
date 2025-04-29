@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1204049,
+  "num_followers": 1204307,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADORHxyOKNC+LpM+Uu3HLKU",
+  "snapshot_id": "aA1zgAAAAABL4FqemvjAvsYW0IS7f/9X",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "This Is How We Do",
-      "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195692,
       "name": "ALL THE LOVE",
       "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "This Is How We Do",
+      "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 193543,
-      "name": "Electric - Pokemon 25 Version",
-      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 177637,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Electric - Pokemon 25 Version",
+      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1432",
         "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 163821,
       "name": "ARTIFICIAL (feat. JID)",
       "url": "https://open.spotify.com/track/3F7nQ5YqYYYHKvRnIRtKYh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High On Your Supply",
-        "url": "https://open.spotify.com/album/23pP2rH6PSynSE5qJuDg0n"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "High On Your Supply",
-      "url": "https://open.spotify.com/track/76yp4jNv7IIftlEAxfeuEW"
     },
     {
       "added_at": null,
@@ -895,6 +879,22 @@
       "duration_ms": 204339,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High On Your Supply",
+        "url": "https://open.spotify.com/album/23pP2rH6PSynSE5qJuDg0n"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "High On Your Supply",
+      "url": "https://open.spotify.com/track/76yp4jNv7IIftlEAxfeuEW"
     }
   ],
   "unique_name": "This Is Katy Perry",

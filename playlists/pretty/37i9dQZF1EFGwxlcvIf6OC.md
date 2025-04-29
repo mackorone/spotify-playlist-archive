@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 16 | [Village](https://open.spotify.com/track/7t48bfH8F6cYnt6A5d4zha) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:55 |
 | 17 | [Forgetting You](https://open.spotify.com/track/56DsYXpdqkl3t2G3xM8MtA) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:04 |
 | 18 | [Redwood Tree](https://open.spotify.com/track/0oUX526nJDq484nPdQG1vm) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:18 |
-| 19 | [Runaway Train](https://open.spotify.com/track/10RGtdWD7tQEx5VIPtT7Yx) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 2:57 |
-| 20 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
+| 19 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
+| 20 | [Runaway Train](https://open.spotify.com/track/10RGtdWD7tQEx5VIPtT7Yx) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 2:57 |
 | 21 | [Road To Happiness](https://open.spotify.com/track/43leIkqjRU95aAi5Dokdge) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Road To Happiness](https://open.spotify.com/album/7zQr3UUmrNlX7xtirOJlij) | 3:18 |
 | 22 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 |
 | 23 | [Untamed](https://open.spotify.com/track/1mWqNSFxHkugEscjRzy7c0) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:30 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 30 | [What Goodbye Means](https://open.spotify.com/track/1SyF4WeytWOnd3J5GxcXxl) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:21 |
 | 31 | [Never Let Us Fade ft\. Cam](https://open.spotify.com/track/11PE2uYRZJLvJFnRETVKT5) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 3:43 |
 
-Snapshot ID: `Abv7iAAAAACeuRP5JqfcrWp5xavJhPQr`
+Snapshot ID: `AbwBKAAAAADcT3NOVTU5Jvs8Y+g0SSC0`

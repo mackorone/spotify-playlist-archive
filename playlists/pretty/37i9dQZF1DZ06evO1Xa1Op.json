@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21368,
+  "num_followers": 21370,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADrnOF9Ei5JY/Sk1xaluV7Z",
+  "snapshot_id": "aA1zgAAAAACiB6HZKfbzhEFh8gw7OucV",
   "tracks": [
     {
       "added_at": null,
@@ -626,11 +626,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
     },
     {
       "added_at": null,
@@ -658,15 +662,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 295200,
-      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
     },
     {
       "added_at": null,

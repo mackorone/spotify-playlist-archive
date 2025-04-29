@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-176 songs - 7 hr 18 min
+177 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 | 2024-04-19 |
 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 | 2024-10-07 |  |
 | [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 | 2024-09-02 |  |
+| [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 | 2025-04-28 |  |
 | [Lullaby in Ab](https://open.spotify.com/track/3aYsCuKTpXYZiWKhignTD2) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Lullaby in Ab](https://open.spotify.com/album/1Q9FZghRGWyJIlRtBy5Zn2) | 1:54 | 2023-05-09 | 2025-04-09 |
 | [Láska nás rozdělí](https://open.spotify.com/track/3VEugG0JjifOVAc9HW8GWb) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Láska nás rozdělí](https://open.spotify.com/album/1SkusXfUiDOAA80XWU0kmE) | 1:56 | 2023-05-09 | 2024-10-08 |
 | [Lättnad](https://open.spotify.com/track/4V5yTOr0Xit6Cc0zvAs0H3) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Lättnad](https://open.spotify.com/album/3D1oqoEKiohXiC9ZSXWufI) | 1:50 | 2023-05-09 | 2025-04-09 |
@@ -181,7 +182,7 @@
 | [When She Smiles](https://open.spotify.com/track/6MvHCW8J9cOp5Ojjz74yyT) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [When She Smiles](https://open.spotify.com/album/6WnYc9OyWVxu9Dli61RhWe) | 2:41 | 2023-05-09 | 2025-01-07 |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-05-09 |  |
 | [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-05-09 |  |
-| [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 | 2025-02-25 |  |
+| [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 | 2025-02-25 | 2025-04-29 |
 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 | 2023-08-15 |  |
 | [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 |  |
 

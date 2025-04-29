@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,799 likes - 107 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,926 likes - 107 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 106 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 |
 | 107 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 |
 
-Snapshot ID: `aAugXwAAAACaYhdl/t75nkp5cD5Z/ZMR`
+Snapshot ID: `aAugXwAAAADWvcsnTrFFlw3TQVFbqHud`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-821 songs - 2 day 6 hr 51 min
+824 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Bio18](https://open.spotify.com/track/4P0ne8HWGFCV8gac5zcEh4) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 4:01 | 2024-01-17 | 2024-02-08 |
 | [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |
-| [Biscuits Intro](https://open.spotify.com/track/7vsPqZLxTXdrDsymHYo9nM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 0:15 | 2025-04-27 |  |
+| [Biscuits Intro](https://open.spotify.com/track/7vsPqZLxTXdrDsymHYo9nM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 0:15 | 2025-04-27 | 2025-04-29 |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2024-09-25 | 2024-09-30 |
 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 | 2024-06-28 |  |
 | [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-09 |  |
@@ -144,7 +144,7 @@
 | [Caterpillar](https://open.spotify.com/track/6ePUtuTprNgkWzN6G5JQ5p) | [The Colorist Orchestra](https://open.spotify.com/artist/1AQqTYQoz0RHAEUz75nE2D), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Colorist & Emiliana Torrini](https://open.spotify.com/album/308EQ717rquoukYqREg2uC) | 4:41 | 2024-01-18 | 2024-01-30 |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2024-01-08 |  |
 | [Chandler](https://open.spotify.com/track/3PzVrpdkB6Ql5Az5spffJm) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 3:04 | 2024-04-07 |  |
-| [chapter 1\*](https://open.spotify.com/track/7aDDTr7TDL7KkshecYpDY1) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [LaKeith Stanfield](https://open.spotify.com/artist/4JRQyvuk8ZTlnJmYPn1fA2) | [All American F⭐ckBoy](https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r) | 1:18 | 2025-04-24 |  |
+| [chapter 1\*](https://open.spotify.com/track/7aDDTr7TDL7KkshecYpDY1) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [LaKeith Stanfield](https://open.spotify.com/artist/4JRQyvuk8ZTlnJmYPn1fA2) | [All American F⭐ckBoy](https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r) | 1:18 | 2025-04-24 | 2025-04-29 |
 | [Cherry In Tacoma](https://open.spotify.com/track/4ePlZMnWntH6rq9xUpalnr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:42 | 2022-08-02 | 2024-03-16 |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-08-14 |  |
 | [Chinatown](https://open.spotify.com/track/3i729CqF9sBCCyhYxIWUZZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 3:49 | 2022-06-13 | 2023-07-11 |
@@ -634,6 +634,7 @@
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sillycone Valley](https://open.spotify.com/track/23R59LUKKvATvII3orFxCS) | [Lene Alexandra](https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex) | [Welcome to Sillycone Valley](https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv) | 3:01 | 2024-02-06 | 2024-02-17 |
 | [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 | 2024-11-22 |  |
+| [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 | 2025-04-28 |  |
 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-02-15 |  |
@@ -717,6 +718,7 @@
 | [The Homeless and the Jet Boots Boy](https://open.spotify.com/track/7zpucEpqQ4uqUR2L3lPu9m) | [Jupiter Apple](https://open.spotify.com/artist/305wP8s5kY4kW1HqkFSjDi) | [Hisscivilization](https://open.spotify.com/album/33qTAyCo4Xdjdbft2MFv9T) | 11:34 | 2025-03-29 |  |
 | [The Infanta](https://open.spotify.com/track/0irk3bHSVDK12T2eGeWBuz) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 5:07 | 2023-11-04 |  |
 | [The Journey](https://open.spotify.com/track/50yW6FIY9isI5GmK1MNWfj) | [BE](https://open.spotify.com/artist/06kHjoBIuDUNyFBNBMoAC2) | [One](https://open.spotify.com/album/6I7J5zPGIdOGKl5jtCGzdh) | 18:52 | 2024-01-18 |  |
+| [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 | 2025-04-28 |  |
 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 | 2023-10-30 | 2024-05-20 |
 | [The Last Bell I Will Ever Hear](https://open.spotify.com/track/3aDSyIHLLV8b0ep3MdmBvS) | [The Arrogant Sons Of Bitches](https://open.spotify.com/artist/0vXfn66xIZTKbp0GfOorD2) | [Three Cheers for Disappointment](https://open.spotify.com/album/3eMv6EefEfBTpjv9OJCJDs) | 1:07 | 2024-01-17 |  |
 | [THE LION'S DEEN](https://open.spotify.com/track/5tpfvp5m0XLMn3UHznHihI) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:35 | 2022-07-04 |  |
@@ -725,6 +727,7 @@
 | [The Nights of Wine and Roses](https://open.spotify.com/track/3uS4xj4hCZfEKYJxZyw0r7) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:02 | 2023-11-04 |  |
 | [The Only Picture](https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Garbology](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz) | 0:45 | 2024-01-03 | 2025-01-19 |
 | [The Overwhelming Event](https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:17 | 2022-01-22 | 2023-08-20 |
+| [The Place In The Sky](https://open.spotify.com/track/1aIhJYjuC8U65NyLt84eV2) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Florilegium](https://open.spotify.com/album/5FlWrzLZNGA1KQm8BGydFX) | 3:14 | 2025-04-28 |  |
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |
 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-15 | 2025-04-25 |

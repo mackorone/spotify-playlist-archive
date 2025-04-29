@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,307 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,385 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 69 | [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 |
 | 70 | [It's Alright](https://open.spotify.com/track/4xcljUwIz4plmVI0q5dyb9) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [It's Alright](https://open.spotify.com/album/2Z0bubZCNHf5RBhAK0sUwb) | 3:56 |
 
-Snapshot ID: `Z/TPsAAAAADeKeJgxqzHPEGf+KO7rPML`
+Snapshot ID: `Z/TPsAAAAABhpiSAH0C71YOdqM3vNW6N`

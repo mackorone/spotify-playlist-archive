@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Sugababes 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,976 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,975 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [The Supermarket](https://open.spotify.com/track/0EUwww7QliLHNnyIPhxCms) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [The Supermarket](https://open.spotify.com/album/4Hmn5gWDNBbRpoi18MQlSC) | 4:13 |
 | 50 | [XO](https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [XO](https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI) | 2:14 |
 
-Snapshot ID: `Z+0PYQAAAAC6mZzd7lJpKLtK45dOWeTv`
+Snapshot ID: `Z+0PYQAAAABqcFHY/T4IlxR9rQuy8CWy`

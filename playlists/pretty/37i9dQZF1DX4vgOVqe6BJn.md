@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,093 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,106 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Times Change \(Feat\. Novelist and D Double E\)](https://open.spotify.com/track/1Th7Q0JOG8cea1u6JrHptk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Times Change](https://open.spotify.com/album/7ywHN1M5ILQJflRE4X1qnn) | 3:04 |
 | 104 | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl) | 3:01 |
 
-Snapshot ID: `ZIxcPAAAAAC5OD38bcnW4uYmW+lwQCE8`
+Snapshot ID: `ZIxcPAAAAABB0lkjx8xnh79pAxNyR7yT`

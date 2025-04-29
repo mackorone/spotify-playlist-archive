@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jul, David Guetta, Benson Boone et Charles Doré au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,313 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,362 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 4 | [Je pars mais je reste](https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Je pars mais je reste](https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu) | 3:20 |
 | 5 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 6 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
-| 7 | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire \(feat\. Ninho\)](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
+| 7 | [Boîte noire](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
 | 8 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 9 | [Promis juré](https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim) | 3:11 |
 | 10 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 102 | [2x4](https://open.spotify.com/track/1GwvxEQSee3MC4tDOEh3Ef) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [2x4](https://open.spotify.com/album/21DzYfzrUkVxQfGDm6qXWe) | 2:57 |
 | 103 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 
-Snapshot ID: `aAtifAAAAADfUyZeMX4I4eKgX2iHSuVC`
+Snapshot ID: `aAtifAAAAABmyxyrZnHT7PXwV2Sy+IRt`

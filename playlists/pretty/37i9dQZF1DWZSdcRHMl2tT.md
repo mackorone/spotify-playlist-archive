@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,741 likes - 282 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,790 likes - 282 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 281 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 |
 | 282 | [Summer flower](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Summer flower](https://open.spotify.com/album/5N07HHsi9ZhvquiBgwtQLa) | 3:08 |
 
-Snapshot ID: `aAud/gAAAADO/yR5m9ZgUJDmIAA1oEg4`
+Snapshot ID: `aAud/gAAAAD0zWyaY8y5irtz9fGY1Fnf`

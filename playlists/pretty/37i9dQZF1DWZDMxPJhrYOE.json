@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0hQAAAAC3pxcpSI+HpVu/nfY6W2LU",
+  "snapshot_id": "aAq0hQAAAADHVDqVkFoMKAJxIQNTFJ/8",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:37",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 133885,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
         "name": "High Fashion",
         "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 198172,
       "name": "High Fashion",
       "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 133885,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
-        "name": "Still Bad",
-        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 208585,
-      "name": "Still Bad",
-      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
         "name": "Invincible (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
+        "name": "Still Bad",
+        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 208585,
+      "name": "Still Bad",
+      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -1107,18 +1123,22 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
-        "name": "Et sted hvor vi de f\u00f8rste",
-        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
+      "duration_ms": 213480,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/39SiqHAtZp7H5yDlRVkM4U"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1139,26 +1159,6 @@
       "duration_ms": 156033,
       "name": "Let It Talk To Me",
       "url": "https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
-        "name": "Sinners (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/39SiqHAtZp7H5yDlRVkM4U"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 126508,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
         "name": "YA BABA",
         "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 126508,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
         "name": "Love in Real Life",
         "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
       },
@@ -1239,26 +1239,6 @@
       "duration_ms": 154297,
       "name": "Love in Real Life",
       "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
         }
       ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
+      "duration_ms": 191359,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1331,6 +1311,26 @@
       "duration_ms": 170394,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-04-24 22:00:37",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2025-04-24 22:00:37",
       "album": {
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+    },
+    {
+      "added_at": "2025-04-24 22:00:37",
+      "album": {
         "name": "Backflips in a Restaurant",
         "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 188869,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/5GzKwlyP8skeSpVM4fsSMp"
-    },
-    {
-      "added_at": "2025-04-24 22:00:37",
-      "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 150938,
-      "name": "drikker med mig selv",
-      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
     }
   ],
   "unique_name": "De nye",

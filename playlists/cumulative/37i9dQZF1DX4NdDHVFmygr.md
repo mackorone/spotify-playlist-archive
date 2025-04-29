@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-454 songs - 1 day 0 hr 15 min
+455 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-18 | 2024-08-29 |
 | [Allo Doctor](https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Allo Doctor](https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk) | 2:41 | 2025-04-18 |  |
 | [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-02 | 2023-08-11 |
+| [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-28 |  |
 | [Amora](https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [AUBE](https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC) | 2:38 | 2023-01-11 | 2023-02-22 |
 | [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-19 | 2023-01-29 |
 | [Ana Wiyak](https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Ana Wiyak](https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6) | 2:58 | 2021-12-25 | 2022-01-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=\_\-xB6ep\_Syuvr8Ip1dJfIg>Limoblaze.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,718 likes - 103 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,731 likes - 103 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 102 | [Grace](https://open.spotify.com/track/34bTBnbJSq5PBf7RXOHrVq) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Grace](https://open.spotify.com/album/5Dr2B5LbN2GyjSBiJ6lG5O) | 3:50 |
 | 103 | [I Am What I Am](https://open.spotify.com/track/5YbIn1NGH7vyaljxoEetIe) | [Deacon Efosa](https://open.spotify.com/artist/62Ar3jUvtxmiyrtsxxIBpw) | [I Am What I Am](https://open.spotify.com/album/5vWlKyRBixPw79LcNzI8Xg) | 2:34 |
 
-Snapshot ID: `aAtNWgAAAABAQoQfiW+a8u9CaIaRT6l9`
+Snapshot ID: `aAtNWgAAAACm5uZIjhl7yibXlE0aLHep`

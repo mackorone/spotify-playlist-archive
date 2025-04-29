@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Fib
 
-3,169 songs - 7 day 7 hr 9 min
+3,170 songs - 7 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2251,6 +2251,7 @@
 | [Ripe For Filth](https://open.spotify.com/track/2KjeVr9Wb68loyrPCQNnQw) | [Collarbones](https://open.spotify.com/artist/6y9lvZaKtNLru9bQyLajy9) | [Ripe For Filth](https://open.spotify.com/album/019t5VDdtLOCu5d1z5IsW5) | 4:08 | 2023-05-03 | 2023-06-08 |
 | [Ripe For Filth](https://open.spotify.com/track/5I991khF6F2H5n9Vxeo4EM) | [Collarbones](https://open.spotify.com/artist/6y9lvZaKtNLru9bQyLajy9) | [Filth](https://open.spotify.com/album/2OoPSwutdW62NIhE9W53Hc) | 4:08 | 2023-06-27 | 2023-07-26 |
 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 | 2023-02-15 | 2023-03-23 |
+| [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-28 |  |
 | [Road trip](https://open.spotify.com/track/6HDKKxAsZt6z1rrEbKz0ML) | [JUL!ET](https://open.spotify.com/artist/5dq65M0SllqH9mnK9Ak7Mi) | [Hopeless Romantic](https://open.spotify.com/album/5DYdVLZerclG3zTF6g1Pk9) | 4:00 | 2022-03-02 | 2022-03-17 |
 | [roadkill](https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [roadkill](https://open.spotify.com/album/0yt0yQH4XcdyihCE4qCxPm) | 2:56 | 2024-05-22 | 2024-06-20 |
 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-01-18 | 2023-03-02 |

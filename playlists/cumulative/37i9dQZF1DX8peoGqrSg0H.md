@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PiXXiE
 
-686 songs - 1 day 16 hr 32 min
+686 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
-| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 3:24 | 2025-04-23 |  |
+| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 0:47 | 2025-04-23 |  |
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 | 2024-09-13 |
 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-10-31 | 2025-02-07 |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 | 2024-11-26 |

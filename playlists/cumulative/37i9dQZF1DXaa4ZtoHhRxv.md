@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-215 songs - 11 hr 32 min
+216 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 | 2021-12-10 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2021-12-10 |  |
 | [Boys 'Round Here \- Stadium Dance Mix](https://open.spotify.com/track/5LwovomzSD5v7S6iRsgYOS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Boys 'Round Here \(Stadium Dance Mix\)](https://open.spotify.com/album/3bt48gkdg8kAtEYREhaecD) | 5:39 | 2021-12-10 |  |
+| [Bullet](https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Bullet](https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ) | 2:35 | 2025-04-28 |  |
 | [Call It Fate](https://open.spotify.com/track/7bbOBTzOTKmBlq73jaKR0R) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Tanner Olsen Band](https://open.spotify.com/artist/3m96FTKdWG3Qe3AtniTgcy) | [Call It Fate](https://open.spotify.com/album/7LsnPAL7caJqqbU9LQFitH) | 3:34 | 2024-01-19 |  |
 | [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/track/4IyrCFU0VeashNaFySWyQm) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/album/3MCSqRSRpH36UeP6PmeHvt) | 2:18 | 2023-02-03 |  |
 | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/track/0CTLLbwxLjQghLELl6pI2P) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/album/6FoGSb71NHjSYugHNGcppQ) | 4:02 | 2021-12-10 |  |

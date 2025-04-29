@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Sunflower Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,545,076 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,544,765 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 |
 | 75 | [bored\. tired\. torn.](https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [bored\. tired\. torn.](https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM) | 2:43 |
 
-Snapshot ID: `aAsI8gAAAADY0QKl+sqS7OP6d4sXRXWE`
+Snapshot ID: `aAsI8gAAAADZhocpOWxpDT+YQuz6nfFx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,371 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 35 | [Che Cosa c'è](https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 2:38 |
 | 36 | [Angelo](https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Angelo](https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg) | 3:25 |
 
-Snapshot ID: `Z8V2oQAAAADIt1qDMPwE1/gsUCFR/f+5`
+Snapshot ID: `Z8V2oQAAAACg9Z9bgUJpYnOxsOrASaKX`

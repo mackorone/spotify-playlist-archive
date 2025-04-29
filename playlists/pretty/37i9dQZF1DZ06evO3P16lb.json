@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADC8CKysHLelNPuUdl6Z4Ub",
+  "snapshot_id": "aA1zgAAAAADrepCIVIt8Qq6ZbSPt7wy/",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+        "name": "Podemos (No Volver a la Ciudad)",
+        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 144033,
-      "name": "Hazme Tuya",
-      "url": "https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4"
+      "duration_ms": 187765,
+      "name": "Podemos (No Volver a la Ciudad)",
+      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
       "duration_ms": 214088,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Podemos (No Volver a la Ciudad)",
-        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 187765,
-      "name": "Podemos (No Volver a la Ciudad)",
-      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
     },
     {
       "added_at": null,
@@ -272,25 +256,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 151846,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237029,
-      "name": "Dejar\u00e9",
-      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
+      "duration_ms": 144033,
+      "name": "Hazme Tuya",
+      "url": "https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4"
     },
     {
       "added_at": null,
@@ -315,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Me Ha Pasado",
-        "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
       "artists": [
-        {
-          "name": "Beatriz Solis",
-          "url": "https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J"
-        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 191770,
-      "name": "A Mi Me Ha Pasado",
-      "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
+      "duration_ms": 237029,
+      "name": "Dejar\u00e9",
+      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
     },
     {
       "added_at": null,
@@ -359,6 +323,42 @@
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 151846,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mi Me Ha Pasado",
+        "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Solis",
+          "url": "https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 191770,
+      "name": "A Mi Me Ha Pasado",
+      "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
       },
@@ -447,6 +431,38 @@
       "duration_ms": 186117,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Facilito",
+        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Que Facilito",
+      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
     },
     {
       "added_at": null,
@@ -467,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano y Mujer II",
+        "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Como en las Pel\u00edculas de Antes",
         "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },
@@ -483,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Facilito",
-        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
       "artists": [
         {
@@ -492,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 156329,
-      "name": "Que Facilito",
-      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,
@@ -556,29 +592,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano y Mujer II",
-        "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"
+      "duration_ms": 345911,
+      "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
+      "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
     },
     {
       "added_at": null,
@@ -595,6 +611,22 @@
       "duration_ms": 188341,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 431032,
+      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
     },
     {
       "added_at": null,
@@ -627,22 +659,6 @@
       "duration_ms": 202259,
       "name": "Siempre, Siempre - En Vivo",
       "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 431032,
-      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 69452,
       "name": "We Are Going to Make It Tonight - Outro Jam",
       "url": "https://open.spotify.com/track/08NnAtq5pJsbuU7UsxZNjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 345911,
-      "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
-      "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,407 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,413 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [El Sueño De La Gitana](https://open.spotify.com/track/0N19GlFqpOgdi6M72KBaaq) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca](https://open.spotify.com/album/1V5yKGUPy4bStivYYTsGrK) | 7:12 |
 | 50 | [Empire State](https://open.spotify.com/track/6z6kzUXX7kw93lDf84ofIX) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Fabiana Cantilo y Los Perros Calientes \(Remastered\)](https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt) | 2:52 |
 
-Snapshot ID: `Zmox6QAAAAD8UgCHUhC+cnn4uDbzvweD`
+Snapshot ID: `Zmox6QAAAABie0qn2KiK97DMET/EmzOI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,389 likes - 106 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,419 likes - 106 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 105 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
 | 106 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 |
 
-Snapshot ID: `aAkNngAAAACqIpuTV7jFMH94PLmx+o0Q`
+Snapshot ID: `aAkNngAAAACoXtNm7HpIjBP8QaqjfgcM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15uWd7qvAtf.md) - [plain]
 
 > 💔 den triste versjonen \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15uWd7qvAtf.md) - [plain]
 | 48 | [ikke gå](https://open.spotify.com/track/7fs8FZfYIZZOhnq4QR13Dq) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [ingenting varer evig](https://open.spotify.com/album/4HFklOVFMC0Qrnr7MuJuAl) | 3:21 |
 | 49 | [Pretty Please](https://open.spotify.com/track/3S7byBA3f93p4ofoE8gl6u) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [The Quiet](https://open.spotify.com/album/6PdnGGE1i1WEERSZuwn8gY) | 3:32 |
 
-Snapshot ID: `ZWcrvAAAAAAOzbYlYsqDTYq+oVa/bc6/`
+Snapshot ID: `ZWcrvAAAAABUJVzK6ZIg1oEwMGEMXmxh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 24의 참여 아티스트의 추천곡과 대표곡을 즐겨보세요! \(Enjoy recommended and representative songs from participating artists of Sync Next 24, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,238 likes - 22 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,240 likes - 22 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 21 | [Running On Empty](https://open.spotify.com/track/01A87ZuKGoMX2n47jwTFvF) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 3:48 |
 | 22 | [Oblivion Past](https://open.spotify.com/track/1wiQ3VKpCXO09fHTPE1MwE) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Most Important Value \- EP](https://open.spotify.com/album/4ssFkgw1CUdF0w3vhSPukE) | 2:30 |
 
-Snapshot ID: `ZnU0YAAAAAD5nIr2UObcZdWtqSlEkzrl`
+Snapshot ID: `ZnU0YAAAAAD1WRYpH8/NT+udP/s7N5aI`

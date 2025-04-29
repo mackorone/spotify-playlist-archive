@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink, Einmusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,499 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,606 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Dr\. Deutschland](https://open.spotify.com/track/4qxx69oF3UMxi8mqmmAIgO) | [Meese X Hell](https://open.spotify.com/artist/6bgC0hzjlWH47Sw1Wd89iW), [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Jonathan Meese](https://open.spotify.com/artist/6gyyxYX54Rqeqxu7tgdket) | [Gesamtklärwerk Deutschland](https://open.spotify.com/album/20whhfirsIkXcaXJ7YJ1UD) | 4:18 |
 | 90 | [ClickClickClick](https://open.spotify.com/track/5CocjEm7jUGnKP86loY2CR) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82), [DJ Sotofett](https://open.spotify.com/artist/6XKpS1uSV0qmFmeyZO6mzp) | [ClickClickClick](https://open.spotify.com/album/6ds5UPrl3bqWmAdATyH93T) | 5:35 |
 
-Snapshot ID: `aAq0ggAAAADTSoQgX5BIbkfpPay3Kj76`
+Snapshot ID: `aAq0ggAAAAD25a+rVDze1m35N9OPj9Eu`

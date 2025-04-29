@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,564 likes - 215 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,647 likes - 215 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 214 | [Truce](https://open.spotify.com/track/6Mqj4plQzZgzFGcPAbs1fJ) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Truce](https://open.spotify.com/album/23VkkgYexSpusIaAMEyS3p) | 2:36 |
 | 215 | [Call Me When You Get There Pt\. 2](https://open.spotify.com/track/1RkFjYs3gPyTkCvDbzeOR5) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call Me When You Get There Pt\. 2](https://open.spotify.com/album/7nYy4a0aOWNsLfDgCBYwLZ) | 3:21 |
 
-Snapshot ID: `aAsyZgAAAADgR4pFaRE846Jku9DM6RGo`
+Snapshot ID: `aAsyZgAAAACZ7nDzsYA8Ht2RiaLhtmtx`

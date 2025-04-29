@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: KiDi & Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,630 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,666 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Sapiosexual](https://open.spotify.com/track/1U87fNBrQuYJgoolhh0WQt) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Sapiosexual](https://open.spotify.com/album/5SyGcOymdbcswIkKi1sQwR) | 2:23 |
 | 80 | [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 |
 
-Snapshot ID: `aADQ7QAAAABZZk2KC5mnUSjVHnpzJB3s`
+Snapshot ID: `aADQ7QAAAADHExaAayYqv1rGH9jpvUoC`

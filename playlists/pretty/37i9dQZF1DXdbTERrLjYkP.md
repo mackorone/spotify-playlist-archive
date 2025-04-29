@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: ALINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,011 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,010 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 59 | [Feel Something](https://open.spotify.com/track/4Vz0i5HbKRXJPArNWupocT) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ), [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Feel Something](https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq) | 3:30 |
 | 60 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 |
 
-Snapshot ID: `aAsI5gAAAADWo+EVSORbdsaTl5+Ez6Bb`
+Snapshot ID: `aAsI5gAAAACNsuPudJYArOm+UfOACdTQ`

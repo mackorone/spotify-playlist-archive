@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,685 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,732 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 52 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
 | 53 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
 | 54 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
-| 55 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
-| 56 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
+| 55 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
+| 56 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
 | 57 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 58 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 59 | [Perla Negra](https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA) | [Trio Los Soberanos](https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn) | [20 Éxitos de los Mejores Tríos de América](https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE) | 2:34 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 88 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 |
 | 89 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 90 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
-| 91 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
-| 92 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
+| 91 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
+| 92 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
 | 93 | [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 |
 | 94 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 | 95 | [Desesperadamente](https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [En Nosotros](https://open.spotify.com/track/3v6tJYI8YRNmA0j8HLixAE) | [Los Indianos](https://open.spotify.com/artist/3U6c3u6spc6mNHcykQM0vI) | [A La Orilla De Un Palmar](https://open.spotify.com/album/4tGCXobAsI1du2f02NafgP) | 2:38 |
 | 100 | [Mil Violines](https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q) | [Trío Divina Ilusión](https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:16 |
 
-Snapshot ID: `Z70l6gAAAAAows6ax70OPAeh5K0UqcmX`
+Snapshot ID: `Z70l6gAAAABi6+EnJaYDVoz6eEL7gHec`

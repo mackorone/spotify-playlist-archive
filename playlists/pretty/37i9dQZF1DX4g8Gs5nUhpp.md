@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,829 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,852 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Ôm Em Thật Lâu](https://open.spotify.com/track/0oLdpAqSgmSyqzXJo4XHig) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Ôm Em Thật Lâu](https://open.spotify.com/album/3CTTcXuoGRc5jX3pOyFsST) | 4:10 |
 | 53 | [Nước Mắt Cá Sấu](https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nước Mắt Cá Sấu](https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i) | 3:26 |
 
-Snapshot ID: `aArpJgAAAAAHBfbnaRosuKi9lUz3azpT`
+Snapshot ID: `aArpJgAAAAAmoa1Tg75O5hx4mdHP70Wk`

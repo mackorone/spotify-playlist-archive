@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 19993,
+  "num_followers": 20033,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9LoUAAAAABznRzY0jD/L9Q3+0K+cXeV",
+  "snapshot_id": "Z9LoUAAAAABNlwlHyiAgV8dZIzc5O17D",
   "tracks": [
     {
       "added_at": "2025-03-13 14:14:40",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Mrs. Cold",
         "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 183766,
       "name": "Mrs. Cold",
       "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -531,38 +531,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 203813,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 190345,
-      "name": "Just A Little Lovin'",
-      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 277866,
       "name": "Something 'bout the Rain",
       "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Just A Little Lovin'",
+      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
         }
       ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -991,42 +1011,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "Where Do You Start",
+        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 526613,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 191332,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Where Do You Start",
-        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 526613,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
     },
     {
       "added_at": "2025-03-13 14:14:40",

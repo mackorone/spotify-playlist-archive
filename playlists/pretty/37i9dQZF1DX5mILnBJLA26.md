@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=yI71LwptR\-GaO2JM8iPaow">Mellow & Sleazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,546 likes - 55 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,123 likes - 55 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 54 | [Hamba No Choppa \(feat\. Djy Biza\)](https://open.spotify.com/track/0Q3L5M1D7gthDXFTzxRyP7) | [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Hamba No Choppa \(feat\. Djy Biza\)](https://open.spotify.com/album/099oJmmYc7IwIavV0UNhw1) | 3:57 |
 | 55 | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8) | [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L), [DJ Exit](https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u) | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl) | 5:39 |
 
-Snapshot ID: `aAq0jwAAAADuW9p7uWa2hxpWKet5slVQ`
+Snapshot ID: `aAq0jwAAAADHlQNp2Kx2620qowJUMk5P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Trueno y Young Miko en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,222 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,221 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 59 | [BARS 01](https://open.spotify.com/track/3ZK1EIRQ7zJFOCmB2xTNmn) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [BARS 01](https://open.spotify.com/album/0MCwtV8RWlOSHQlwLC11DJ) | 2:10 |
 | 60 | [Metal Jacket](https://open.spotify.com/track/6wBtMxNLxbEtduUSrRzkwi) | [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf) | [Joyas del Underground](https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ) | 3:23 |
 
-Snapshot ID: `aAslAQAAAACLNQ3WAiFF5VzF51zs17qi`
+Snapshot ID: `aAslAQAAAADPZSCYESrjlxvcfE+Kw8i9`

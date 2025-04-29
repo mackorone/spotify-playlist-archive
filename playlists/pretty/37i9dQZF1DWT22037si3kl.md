@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,560 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,587 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Outro Clima](https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:59 |
 | 50 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
 
-Snapshot ID: `aAPGVgAAAADaaaa4KFP4nb+qPqO6SV5E`
+Snapshot ID: `aAPGVgAAAADhO01Wl1OVCXN9QROQ0fK0`

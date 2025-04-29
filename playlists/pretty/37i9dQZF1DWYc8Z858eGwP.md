@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,549 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,662 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc) | 3:23 |
 | 50 | [100 mill](https://open.spotify.com/track/3xNZvhskS5f3NuVC8ldi0x) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 2:50 |
 
-Snapshot ID: `aAC3vwAAAACYZNY+eJXwhDZhwoSFF9EP`
+Snapshot ID: `aAC3vwAAAABKmYSIeJrMm5NNzTmG9tkj`

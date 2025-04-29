@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Luke Bower
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,328 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,370 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Table Of The Lord \- Live](https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [In The Mighty Name \(Live\)](https://open.spotify.com/album/60AC9VfX5Lm555MjtmVKXo) | 5:43 |
 | 100 | [What A Love](https://open.spotify.com/track/6t4TuFrkOppS2epOHPjxbN) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [What A Love](https://open.spotify.com/album/4Ca9luh8aDzYUDuGRYVWqb) | 4:09 |
 
-Snapshot ID: `aAuyeQAAAABzzBpesgo2aQ0uPzIM1ISK`
+Snapshot ID: `aAuyeQAAAABNeTCC2v1OyLyg+Gmn9HHE`

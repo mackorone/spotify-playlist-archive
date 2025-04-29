@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-291 songs - 17 hr 48 min
+293 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fahrenheit](https://open.spotify.com/track/29J0OTJNBsJlbLGjVagx6I) | [Neon Nox](https://open.spotify.com/artist/4hePFF9hQhzhZ1ZHELHYa5) | [Syndicate Shadow](https://open.spotify.com/album/016dMPf9Jjpu8unSQMl4by) | 5:23 | 2020-12-21 | 2023-09-01 |
 | [Failures](https://open.spotify.com/track/4C6213duKDGTzoFmpkqtLR) | [DECEITS](https://open.spotify.com/artist/7DwVOsVpXsANbs3cHOs6zh) | [Failures](https://open.spotify.com/album/1dTQ4GJyRvNrkAjRjnoeh7) | 3:00 | 2023-08-31 | 2024-03-06 |
 | [Falling](https://open.spotify.com/track/6m5HzSkwkSbYkFdrNNKMDw) | [The New Division](https://open.spotify.com/artist/1Cb9Edoxp02mgY0VWVlwQo) | [Falling](https://open.spotify.com/album/1JIFVultBIK991qa7vHeYL) | 4:30 | 2024-01-11 | 2024-03-06 |
+| [False Deities](https://open.spotify.com/track/0sydSTKZx7HfAIjMOXaJwG) | [Kill Instinct](https://open.spotify.com/artist/14xJ3VCRr3tJM3mTrpCLVD), [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU), [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [False Deities](https://open.spotify.com/album/7ss9DSGZohHr9zpcCXtEOB) | 5:13 | 2025-04-28 |  |
 | [Fangs](https://open.spotify.com/track/5qSIJ2Lg8Pi8ZukHIk8HdW) | [Dionnysuss](https://open.spotify.com/artist/0XfguwtX2k7wn8cJvkdjT9) | [Fangs](https://open.spotify.com/album/0gPfImCSCdXyMPRGjWw9oQ) | 2:44 | 2024-03-05 |  |
 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 | 2023-01-06 |  |
 | [Fate](https://open.spotify.com/track/0TeybZKbODYrRTYMTNkTHb) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:17 | 2024-01-11 | 2024-04-19 |
@@ -115,6 +116,7 @@
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2023-02-09 |  |
 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-07-21 | 2024-03-20 |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-03-23 | 2023-08-13 |
+| [Hass Und Liebe](https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Kunstprodukt](https://open.spotify.com/album/603jWfAFPn4s2TDaeyAXL1) | 5:11 | 2025-04-28 |  |
 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 | 2023-11-30 |  |
 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 | 2020-12-21 | 2024-01-12 |
 | [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 | 2024-09-13 |  |

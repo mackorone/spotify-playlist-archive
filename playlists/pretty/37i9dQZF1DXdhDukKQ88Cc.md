@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,235 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,231 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 49 | [Ik Tænk](https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Ik Tænk](https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr) | 2:33 |
 | 50 | [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 |
 
-Snapshot ID: `aAt2SQAAAACVtxa5pFrjBekpGpsiqvfQ`
+Snapshot ID: `aAt2SQAAAADszIXqBO+XmLJ/4nywRS/C`

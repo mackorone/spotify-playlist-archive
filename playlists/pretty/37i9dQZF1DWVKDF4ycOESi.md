@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Lorde, Rkomi, Rocco Hunt, Luchè, Tony Boy, Carl Brave con Sarah Toscano e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,912 likes - 94 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,924 likes - 94 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 48 | [CALMA 22](https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [CALMA 22](https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS) | 3:29 |
 | 49 | [Solo Noi](https://open.spotify.com/track/4ais99KyS67rJrsKs74r0f) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Solo Noi](https://open.spotify.com/album/5psQYGUHPXfeoo658qd8Fg) | 3:06 |
 | 50 | [DOPPIA FACCIA](https://open.spotify.com/track/0dj2v76pY0PrBbci00hxpg) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [ASCEND](https://open.spotify.com/album/7kacWmFwCyZcLlk0g9eyBA) | 3:00 |
-| 51 | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/track/3qtOJSry0Ufgare0uytXHP) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ill Rave](https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ) | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/album/3N04MZoALnYHVmmEW2JZkV) | 3:06 |
+| 51 | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/track/3qtOJSry0Ufgare0uytXHP) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ill Rave](https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ) | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/album/3N04MZoALnYHVmmEW2JZkV) | 3:06 |
 | 52 | [Le Mie Ultime Parole \(feat\. Doll Kill\)](https://open.spotify.com/track/1fzk4BKM1OsZdyoQH7NK7X) | [Luvi!](https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi), [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [Le Mie Ultime Parole \(feat\. Doll Kill\)](https://open.spotify.com/album/1nkT4GRHmNY2PpgzK9h9D5) | 2:36 |
 | 53 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 54 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 93 | [Gigi](https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [Gigi](https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP) | 3:03 |
 | 94 | [Salomé/Hommage](https://open.spotify.com/track/2skBQIEIV2YZ3ZOzNZaaKn) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV2](https://open.spotify.com/album/04qAPJCC0gcJkO2sGHsnyW) | 4:35 |
 
-Snapshot ID: `aAq0ugAAAAArbtDKoZv53QnONBcFYNWL`
+Snapshot ID: `aAq0ugAAAAC3dKsP3rf1PTAq/MfL3gSO`

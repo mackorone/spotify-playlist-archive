@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,977 likes - 81 songs - 5 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,981 likes - 84 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 79 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
 | 80 | [No usa](https://open.spotify.com/track/4WAWDgOppVnkZmlPMZ4CXO) | [ROSSER ELECTRONICS](https://open.spotify.com/artist/6AkTcHrBBdPSDqrC5ZUl7O) | [This time it'll work](https://open.spotify.com/album/1rageEi7EsiawKmzmySfhV) | 3:14 |
 | 81 | [I Never Want To Be Without You](https://open.spotify.com/track/0j5XRIuOKp6Nsx6FRan8Z9) | [AIR](https://open.spotify.com/artist/5I8xhwELTKXC9ZRCq2zzgr) | [In Need of You featuring Googie](https://open.spotify.com/album/2Jn1DbxmIirP7RvA5U1fVW) | 3:22 |
+| 82 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 |
+| 83 | [Caught In A Whirlwind](https://open.spotify.com/track/4NBCr2x879HC9pTJ8K1TcS) | [Richard Stepp](https://open.spotify.com/artist/2uEXs9genwyhKptQdbF8ew) | [Holiday In Hollywood](https://open.spotify.com/album/0JEEMfVta8HnNM1Ornuvb8) | 5:08 |
+| 84 | [Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO) | [Iain Matthews](https://open.spotify.com/artist/30yVqa41V5oNH00p6CBWB9) | [Stealin' Home](https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn) | 3:01 |
 
-Snapshot ID: `AAAMUXdF+MBC2xPmMFK7rCsSN8lb+453`
+Snapshot ID: `AAAMVCCrrPNRCJgTH4gAw9Wy0idWWTAn`

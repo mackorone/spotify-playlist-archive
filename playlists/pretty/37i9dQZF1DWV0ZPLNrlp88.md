@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,524 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,531 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [PAPER MOON](https://open.spotify.com/track/3JVJLcfAzx1q4XcDRUCp0E) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [PAPER MOON](https://open.spotify.com/album/5sXDnd3QYEkFGYRJIlV9DI) | 3:39 |
 | 40 | [INSOMNIA](https://open.spotify.com/track/0L0nrPEHffucQqfWusbmrb) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [INSOMNIA](https://open.spotify.com/album/6HcP5DlLCM8vEagkSE1Uhu) | 4:03 |
 
-Snapshot ID: `aAujlAAAAAAvgNiWFo5m8DwDqfb0DKTw`
+Snapshot ID: `aAujlAAAAADd3buwLfj0NwCSJC3uKpFH`

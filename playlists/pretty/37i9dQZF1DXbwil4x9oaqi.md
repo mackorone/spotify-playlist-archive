@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,354 likes - 20 songs - 57 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,554 likes - 20 songs - 57 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain]
 | 19 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 |
 | 20 | [We got so much](https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:45 |
 
-Snapshot ID: `Z/iFswAAAABibk/n/FxyDSRuMRwnVNgu`
+Snapshot ID: `Z/iFswAAAADBSg+I5BzZEMzNnsfCk7GG`

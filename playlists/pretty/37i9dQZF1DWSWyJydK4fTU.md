@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,055 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,033 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 64 | [Fly](https://open.spotify.com/track/36BeMqxR7q254G08CemQ8L) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Fly](https://open.spotify.com/album/2rTDXdAyl0MkYaF0XpUHz4) | 2:44 |
 | 65 | [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 |
 
-Snapshot ID: `aAt9DwAAAAAvIrL6bowLjc/lPF43lNf5`
+Snapshot ID: `aAt9DwAAAAAXO4R6AOZpYP4N0NFlXt0Z`

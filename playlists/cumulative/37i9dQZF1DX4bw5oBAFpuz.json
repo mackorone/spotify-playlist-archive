@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 193839,
       "name": "Back In My World",
       "url": "https://open.spotify.com/track/4VjeyqdF8Mx7BohtWmrPle"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 223792,
       "name": "Beach House - Acoustic",
       "url": "https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 184390,
       "name": "Ghost Of Me",
       "url": "https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 216320,
       "name": "In The Water",
       "url": "https://open.spotify.com/track/3nC1Jx1lyGzmZ5uVwd20st"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 253520,
       "name": "Love Me Like You Do",
       "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
@@ -5950,7 +5950,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 196346,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
@@ -6177,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "What We Leave Behind",
+        "url": "https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162699,
+      "name": "Parallel Lines",
+      "url": "https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO"
+    },
+    {
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/2xCQBiWwjJldOwA3o0AojN"
       },
@@ -6322,7 +6340,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 186195,
       "name": "Pool Party Pictures",
       "url": "https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn"
@@ -6896,7 +6914,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 221960,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/5fmf2sDbU6cbodUM6On6wg"
@@ -7340,7 +7358,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 199401,
       "name": "so i let you (15th of june - evening)",
       "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
@@ -8044,7 +8062,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 185682,
       "name": "Take Mine",
       "url": "https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd"
@@ -8376,7 +8394,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 217944,
       "name": "The Light",
       "url": "https://open.spotify.com/track/78jGnProVitl3u2hf3UTVu"
@@ -8510,6 +8528,28 @@
       "duration_ms": 178080,
       "name": "Theatre of Life",
       "url": "https://open.spotify.com/track/0TELVigVXQUi3BvEMUSA4v"
+    },
+    {
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177405,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ"
     },
     {
       "album": {
@@ -9770,7 +9810,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

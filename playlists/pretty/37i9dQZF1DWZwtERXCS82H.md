@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,750 likes - 194 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,154 likes - 194 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 193 | [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 |
 | 194 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 |
 
-Snapshot ID: `aAkIfwAAAADYiw5rUoW5QfeupqVSSJW3`
+Snapshot ID: `aAkIfwAAAABZyhFOfUjVD5ShtqsvS4cz`

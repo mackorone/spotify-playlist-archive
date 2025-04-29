@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,064 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,059 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 20 | [Hawâna](https://open.spotify.com/track/3vZMUscHIQW7gVDKyOyrd6) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:20 |
 | 21 | [Why](https://open.spotify.com/track/6vGSyzb1zzqIh2ESfB6t9h) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Sound of Istanbul, Vol\. 1](https://open.spotify.com/album/2uePgfeIfc4lRFuoK21RoA) | 5:25 |
 | 22 | [The Persian Nightingale](https://open.spotify.com/track/4Qllk9fsTYK9qJpWrC6uVq) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Persian Nightingale](https://open.spotify.com/album/1FUgOS4nYegLdaFAu3wmZH) | 3:13 |
-| 23 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
-| 24 | [Monagah \(Prayer\)](https://open.spotify.com/track/3XlalwVyxZNa6otxJyUj3n) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:31 |
+| 23 | [Monagah \(Prayer\)](https://open.spotify.com/track/3XlalwVyxZNa6otxJyUj3n) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:31 |
+| 24 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 25 | [Houzam](https://open.spotify.com/track/4KNQ4FKu452FMENduv7WzE) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:08 |
 | 26 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 27 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Saraab](https://open.spotify.com/track/3h8o05iiD3UPk1XnVZEGAw) | [Simon Shaheen & Qantara](https://open.spotify.com/artist/5icxoRHqg9mlYQcplv43zX) | [Blue Flame](https://open.spotify.com/album/01cMpGepKd4bWFzJse5mIb) | 4:37 |
 | 40 | [Hilal As Sabá](https://open.spotify.com/track/7GqdEUaekycg98zQWpBONf) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ) | [Maquamat Zíryáb \- Desde El Eúfrates Al Guadalquivir](https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq) | 8:11 |
 
-Snapshot ID: `Z7RO2wAAAABC3nZz27zVcVwcs1XR1lhd`
+Snapshot ID: `Z7RO2wAAAAB1jakJAw5fNuHI1xaooP9P`

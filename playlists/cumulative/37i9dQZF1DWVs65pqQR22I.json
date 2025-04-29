@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 150500,
       "name": "Black Momentum",
       "url": "https://open.spotify.com/track/1fFwJVPH6fBqUGlL8qlKDf"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 161853,
       "name": "Black Noise Echoes",
       "url": "https://open.spotify.com/track/7ns9LIhwLORwcqlp1CmkrF"
@@ -938,6 +938,24 @@
       "duration_ms": 150836,
       "name": "Black Noise Serenade",
       "url": "https://open.spotify.com/track/1fc4SHlUOYSEVDKgZDACnR"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleep Mask",
+        "url": "https://open.spotify.com/album/5lDB1Z7IHoWT0rJ37TMohW"
+      },
+      "artists": [
+        {
+          "name": "Dreamlux",
+          "url": "https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318392,
+      "name": "Black Noise Sleep Mask",
+      "url": "https://open.spotify.com/track/0wivDTfoaWQ51FwMmv6SFr"
     },
     {
       "album": {
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 128000,
       "name": "Relaxing Black Noise",
       "url": "https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md"

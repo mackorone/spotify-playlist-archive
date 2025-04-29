@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Tigirlily Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,283 likes - 136 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,340 likes - 136 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 135 | [Strong Stuff](https://open.spotify.com/track/23s3bRv964KvfEvaH3AxmF) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Strong Stuff](https://open.spotify.com/album/4JQepaQFm9y7VpYzfgID8j) | 2:57 |
 | 136 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
 
-Snapshot ID: `Z9zkcwAAAADAsEZq11E38ARGqwc9YQhP`
+Snapshot ID: `Z9zkcwAAAAC82Bh5E9K597AVbpH+fLzF`

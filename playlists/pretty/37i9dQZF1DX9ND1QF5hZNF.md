@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,228 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,341 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Plein air](https://open.spotify.com/track/41dazLpdMmO7Kr0yQCotfn) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49), [Hannah Young](https://open.spotify.com/artist/02Vjcy8yd6eHu8QMYNMIAf) | [Plein air](https://open.spotify.com/album/5Z2vbeJm4nv74ZctGS0HyS) | 2:45 |
 | 60 | [One More Night](https://open.spotify.com/track/0Qv7jr5gtq5M6NAhg9JvYd) | [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Vendredi](https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0) | [One More Night](https://open.spotify.com/album/4jdElywFwzza2oid6HotlN) | 2:24 |
 
-Snapshot ID: `aAuQJAAAAACyyquc1OaPoawAa3GQdmgu`
+Snapshot ID: `aAuQJAAAAABLyvXWMJI5bT0QPuQDQVIj`

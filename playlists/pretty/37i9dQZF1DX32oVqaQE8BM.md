@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,967 likes - 167 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,023 likes - 167 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 166 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 |
 | 167 | [Cloud Surfing](https://open.spotify.com/track/7tmGkFdKu5fz3At54oKLsS) | [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571), [Kalmee](https://open.spotify.com/artist/63LlW1DfbQOpVqLKwDBCHn) | [Cloud Surfing](https://open.spotify.com/album/6Pnw2mMOlp8PUb4HKoqFcA) | 3:08 |
 
-Snapshot ID: `Z/kJTQAAAADF57li3MNWwPCfCiYhZHsP`
+Snapshot ID: `Z/kJTQAAAAAVb/FE5iYrf7i10bg8aqdw`

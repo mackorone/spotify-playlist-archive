@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Dayseeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,180 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,245 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 74 | [World? What World?](https://open.spotify.com/track/6zFS3IxIA0f08SzOBdb7Gs) | [Changeling](https://open.spotify.com/artist/4MbRUvwQcEBzryOhWMHkvV) | [Changeling](https://open.spotify.com/album/1G7ugrmJf3GqqgsCbSFGv9) | 6:42 |
 | 75 | [6 Cup Beatup](https://open.spotify.com/track/3RQjKywyIDGGAIJVx5qmFk) | [Everlit](https://open.spotify.com/artist/0tjeNzkunJyi3lNlUooatd), [Fidelity](https://open.spotify.com/artist/6vHf3uQHEgKI1YW97xHIMh) | [6 Cup Beat\-Up](https://open.spotify.com/album/2ap1Hh9D6xJmK8scS9JBQE) | 3:41 |
 
-Snapshot ID: `aAsI9AAAAAAj/Lkhv2hllZXsFPPO+7+3`
+Snapshot ID: `aAsI9AAAAADJPd0PZ79ZhM+OHRyazztb`

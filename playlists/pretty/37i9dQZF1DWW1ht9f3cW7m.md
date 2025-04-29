@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring Djo 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,730 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,731 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 28 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 |
 | 29 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
 | 30 | [Boys](https://open.spotify.com/track/7CWA14UlnWudaqC3KxX8WU) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Boys](https://open.spotify.com/album/5S7ckddyRxZPKcFwOMlKLS) | 4:03 |
-| 31 | [Evelyn](https://open.spotify.com/track/1HJCTQYwWc1tALglWHt7im) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 3:07 |
-| 32 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
+| 31 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
+| 32 | [Evelyn](https://open.spotify.com/track/1HJCTQYwWc1tALglWHt7im) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 3:07 |
 | 33 | [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 |
 | 34 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 |
 | 35 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |
 | 36 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 37 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 |
-| 38 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 37 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 38 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 |
 | 39 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 |
 | 40 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
 | 41 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 57 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
 | 58 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 |
 | 59 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 |
-| 60 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 |
-| 61 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
-| 62 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
+| 60 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
+| 61 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 |
+| 62 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
 | 63 | [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 |
 | 64 | [Genevieve](https://open.spotify.com/track/7fFGr8y59vJ0gsfb8M3PjR) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/0zllmTob4r60F5Fb6KfTZb) | 3:39 |
 | 65 | [Feral](https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Feral](https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en) | 3:04 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 72 | [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 |
 | 73 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
 | 74 | [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 |
-| 75 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
-| 76 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
-| 77 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
-| 78 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
+| 75 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
+| 76 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
+| 77 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
+| 78 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
 | 79 | [All I Ever Dream About](https://open.spotify.com/track/4Qwp34CisVMC3T8EXBxccl) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 3:05 |
 | 80 | [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 |
 
-Snapshot ID: `Z/qxWQAAAAC3PfoTWzTJhdXL5ZnMBYKI`
+Snapshot ID: `Z/qxWQAAAAB3NtT6JLKUQKKPGfKG2+FB`

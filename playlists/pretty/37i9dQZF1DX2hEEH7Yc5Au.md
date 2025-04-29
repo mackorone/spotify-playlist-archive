@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳嫺靜 \(Hsien Ching\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,587 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,590 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [控制](https://open.spotify.com/track/09B5KqX0tg6kYufbpDcC2F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [控制](https://open.spotify.com/album/1q5bxn0z81TFLdPi4hl29c) | 2:45 |
 | 50 | [我不是你想像那麼勇敢](https://open.spotify.com/track/04wqY6mo2nbw7EhoTWpwmx) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [愛的詩篇](https://open.spotify.com/album/3BOtv3QqsEJpwjHvWMGZ0w) | 4:07 |
 
-Snapshot ID: `Z+wNiwAAAAD/NY/+qKaDtm2yytaX9Udd`
+Snapshot ID: `Z+wNiwAAAADVzQH2S3amm+fOJDkqTLPb`

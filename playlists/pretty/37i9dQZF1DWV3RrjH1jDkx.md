@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Alessandra, Synne Vo, Zara Larsson, Lorde og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,235 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,231 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 107 | [log truck down!](https://open.spotify.com/track/7wjgoGN04Lm3TksHL3LX4H) | [Henry Boots](https://open.spotify.com/artist/1DiPACEqG7MkVB8ja8W0qR) | [log truck down!](https://open.spotify.com/album/3LgixZquxqk8RgQUxjvwG2) | 2:44 |
 | 108 | [Like the Movies](https://open.spotify.com/track/77J3DIfFSiPaJVJ6KnDyKk) | [gaaren](https://open.spotify.com/artist/358TWTG9gTrxj3ojbiXZFU) | [When's it gonna fall apart?](https://open.spotify.com/album/3Ko5vBvp6BvBHBSAyKtHbe) | 2:44 |
 
-Snapshot ID: `aAtJRgAAAABeVQMPUTTlTedKjjxn9+I6`
+Snapshot ID: `aAtJRgAAAAAvrz3mdeuMUHEYKVA0slL8`

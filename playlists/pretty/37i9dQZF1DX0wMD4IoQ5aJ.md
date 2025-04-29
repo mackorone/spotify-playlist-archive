@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,300 likes - 214 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,375 likes - 214 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 213 | [Cygni](https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Cygni](https://open.spotify.com/album/1bisz6k9iWqxXgFhI40NDk) | 3:38 |
 | 214 | [Meia](https://open.spotify.com/track/1G6EfETRr0lUPuTcJPlBiY) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Meia](https://open.spotify.com/album/2IfD8qk6bCxCuQmtraOZRs) | 2:29 |
 
-Snapshot ID: `Z/kK7AAAAAAQ1xqkPenDDmp7MCcTR32X`
+Snapshot ID: `Z/kK7AAAAAA0+/g8juLx+IV8OTG0I7+4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484527,
+  "num_followers": 484505,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAD44Ban05OXiXpnkPmHsEpp",
+  "snapshot_id": "aA1zgAAAAADJMi0XPBlq7iAI5zD02/UJ",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
-        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 229918,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 468590,
       "name": "Stairway To Heaven",
       "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
+        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 229918,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sophia Eris",
+          "url": "https://open.spotify.com/artist/0p6NrdHl8dQQALGIqVcrjt"
+        }
+      ],
+      "duration_ms": 203422,
+      "name": "Batches & Cookies",
+      "url": "https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M"
     }
   ],
   "unique_name": "This Is Lizzo",

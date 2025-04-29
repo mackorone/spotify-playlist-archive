@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Tony Mills en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,397 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,394 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Me Hipnotizas](https://open.spotify.com/track/4nCTEteEhAkAGtk9rMSUUe) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Hipnotizas](https://open.spotify.com/album/3kf3Kvtes1T7ywPIn2oW30) | 2:35 |
 | 50 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 
-Snapshot ID: `aAslAwAAAABxuoUXtl8nF6KhIYLR+Jr9`
+Snapshot ID: `aAslAwAAAACgqPB7sl4dDn/Nr4+5p+vo`

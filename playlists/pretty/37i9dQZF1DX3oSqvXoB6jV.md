@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother\. \(JTBC 드라마 나쁜엄마의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,094 likes - 31 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,097 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 30 | [Talk About Love \- Instrumental](https://open.spotify.com/track/4v8z7ug9egio7OMFhbxAog) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
 | 31 | [Tell Me \- Instrumental](https://open.spotify.com/track/2IhjQ4UqQOvrX3nfBYT0ni) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e) | 3:46 |
 
-Snapshot ID: `ZJPHWgAAAABcK/6FBV9x2bxukMhBRtql`
+Snapshot ID: `ZJPHWgAAAACaA+o6S+Rwl2SA6GJ8P58X`

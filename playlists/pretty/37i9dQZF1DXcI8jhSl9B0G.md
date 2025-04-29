@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 55 | [Laundromat](https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Hit or Miss](https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6) | 3:55 |
 | 56 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |
 | 57 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
-| 58 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
+| 58 | [Fairy Floss Sky](https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj) | [Jack Willis](https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY) | [Fairy Floss Sky](https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4) | 3:29 |
 | 59 | [Green Valleys](https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 4:26 |
-| 60 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 |
+| 60 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
 
-Snapshot ID: `ZWiHUAAAAAByQUDO6JtmyzoMqnnI1Ls0`
+Snapshot ID: `ZWiHUAAAAAC2MHDv5DLSI7L3g/XZPcb+`

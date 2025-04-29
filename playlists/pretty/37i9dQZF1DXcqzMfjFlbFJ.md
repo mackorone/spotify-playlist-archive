@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,955 likes - 101 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,956 likes - 101 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 100 | [渋谷で5時\(Romantic Single Version\)](https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [違う、そうじゃない/渋谷で5時　〜Romantic Single Version〜](https://open.spotify.com/album/1BjKUZnYBDOR3aPwAzxjQE) | 4:23 |
 | 101 | [ファイト！](https://open.spotify.com/track/2xblwpz5LEmOaS3jdKScpH) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト！](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 6:56 |
 
-Snapshot ID: `Zsu7RgAAAAAx/Ymsnom0Pw3T4JH/6sDU`
+Snapshot ID: `Zsu7RgAAAAAbwREDfpy7LcmXtLPJ+L1h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,388 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,391 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 |
 | 60 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
 
-Snapshot ID: `aAq0jAAAAAAMpbM6obqY+Nmux3MrNlIB`
+Snapshot ID: `aAq0jAAAAAAFMwS0Z5UKx+/bwsjxAByz`

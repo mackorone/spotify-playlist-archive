@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,102 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,100 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 50 | [Airborne Ashes \- Eartheater & Aleksandir Remix](https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Airborne Ashes \(Eartheater & Aleksandir Remix\)](https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E) | 4:29 |
 | 51 | [Atmosféra](https://open.spotify.com/track/3sPjpqGIsdKJv3It9OHl27) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Atmosféra](https://open.spotify.com/album/4mjNdqhKn35mF7XzOlDgwl) | 6:04 |
 
-Snapshot ID: `Z240egAAAADbchBY7lxe6RysNU40rBzI`
+Snapshot ID: `Z240egAAAAD3/FgoEYRPkC66v/gMPgJX`

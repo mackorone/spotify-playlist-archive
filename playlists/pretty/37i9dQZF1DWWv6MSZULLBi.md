@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Foxwarren
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,713 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,710 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Season of Charade](https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [All Means, No End](https://open.spotify.com/album/0EMbsSxadV2BHa8h5A0OMp) | 4:29 |
 | 100 | [Clementine](https://open.spotify.com/track/0zk0ZlEu4ByhYUnlRZOcF3) | [Nate Daviau](https://open.spotify.com/artist/01DTIYwgHCJnApYjXJUSFU) | [Clementine](https://open.spotify.com/album/7vX8fPQqfUKAb0SB9h8cem) | 2:33 |
 
-Snapshot ID: `aAsI6AAAAABczJB6b1j+l+RKQYyCUBA1`
+Snapshot ID: `aAsI6AAAAAB+Mwd0B82lWXKbVTDV0Bv4`

@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 268965,
+  "num_followers": 269001,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z70kLAAAAABRYZOMMc+Buw122Sp4lneh",
+  "snapshot_id": "Z70kLAAAAAAPdcjVv1H1HiRrAuYlE710",
   "tracks": [
     {
       "added_at": "2024-10-07 17:41:09",
@@ -319,22 +319,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "This is Not America (feat. Ibeyi)",
-        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
+        "name": "Cuba Classics 1: Silvio Rodriguez",
+        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
       },
       "artists": [
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 231332,
-      "name": "This is Not America (feat. Ibeyi)",
-      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
+      "duration_ms": 351400,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -355,18 +351,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cuba Classics 1: Silvio Rodriguez",
-        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
+        "name": "This is Not America (feat. Ibeyi)",
+        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
       "artists": [
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 351400,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
+      "duration_ms": 231332,
+      "name": "This is Not America (feat. Ibeyi)",
+      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
     },
     {
       "added_at": "2025-01-09 02:38:52",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "S\u00edganme los Buenos",
         "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
-      },
-      "artists": [
-        {
-          "name": "De Nalgas",
-          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Promesas y Perdones",
-      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 430853,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
+      },
+      "artists": [
+        {
+          "name": "De Nalgas",
+          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Promesas y Perdones",
+      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
     },
     {
       "added_at": "2024-05-10 03:00:00",

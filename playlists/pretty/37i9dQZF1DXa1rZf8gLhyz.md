@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,323 likes - 387 songs - 18 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,559 likes - 387 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -396,4 +396,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 386 | [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 |
 | 387 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 |
 
-Snapshot ID: `aAj2ugAAAADkZLJymnMREjaWGfzAyFQD`
+Snapshot ID: `aAj2ugAAAABQinsbQ/Qju1Z6j7WVWtDI`

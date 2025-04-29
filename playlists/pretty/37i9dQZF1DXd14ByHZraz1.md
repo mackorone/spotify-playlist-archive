@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,178 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,164 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Hope](https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz) | [Hope](https://open.spotify.com/album/6vVVqLmvPbXQHXwesjFbjb) | 5:15 |
 | 50 | [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 3:27 |
 
-Snapshot ID: `aAO8RQAAAADk4W7N/a+lMfCzdUmyDPKr`
+Snapshot ID: `aAO8RQAAAAB7Y7DlQW4dAnvGy/rkSgIn`

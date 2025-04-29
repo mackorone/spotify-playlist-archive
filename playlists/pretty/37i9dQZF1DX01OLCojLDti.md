@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,956 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,968 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 49 | [いつものピースサイン](https://open.spotify.com/track/0wPdHuWWJM1MD5hpfhcoXw) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第2話盤】](https://open.spotify.com/album/4QBufEwABzma54oHu0TEzX) | 3:35 |
 | 50 | [Special Color](https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 3:47 |
 
-Snapshot ID: `Z4aGkgAAAAASNNGypTq3OIE2vU5DKSht`
+Snapshot ID: `Z4aGkgAAAABEmCASrnnpoPkJ1CPiXsUI`

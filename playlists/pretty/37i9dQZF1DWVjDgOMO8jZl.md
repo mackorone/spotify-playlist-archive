@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Gli e le emergenti dell'anno in Italia per Spotify\. Cover: Coca Puma
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,633 likes - 42 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,639 likes - 42 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 41 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 42 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 
-Snapshot ID: `Z8DuygAAAADcoXi/+Xf6UrdU0QX19H6Q`
+Snapshot ID: `Z8DuygAAAAA1vb7aqlpEQJnNCoWKZttH`

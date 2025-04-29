@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,512 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,576 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 49 | [Love Me Forever](https://open.spotify.com/track/7btY1s2T1ITVqQ9g9HrTTp) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Backline Volume 63](https://open.spotify.com/album/6aHbkUj1zttZbx6cPki27R) | 2:54 |
 | 50 | [Too Young](https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:25 |
 
-Snapshot ID: `ZpO0vgAAAACWHTDe6KdYDmc8uW0NeeaZ`
+Snapshot ID: `ZpO0vgAAAABRq+u773LtrRTnISZ8euUT`

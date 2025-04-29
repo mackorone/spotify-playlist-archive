@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,467 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,471 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 100 | [Divorce](https://open.spotify.com/track/2m0M2WKieMv9w4RP7R4P8v) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Divorce](https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL) | 3:31 |
 | 101 | [Drawing Dead](https://open.spotify.com/track/2jhX2hLf9VMEHRjpo1xY6L) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Drawing Dead](https://open.spotify.com/album/13kzW0wli33sRJfxOEt68U) | 4:00 |
 
-Snapshot ID: `aAsI5wAAAABvG0wsgfhVK7MBpaDGhi7r`
+Snapshot ID: `aAsI5wAAAADNyYPWFSmLeGqZ3AvxGt2f`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,541 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,587 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [Wholeheartedly](https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [Wholeheartedly](https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD) | 4:00 |
 | 75 | [The World's Better 'Cause You're In It](https://open.spotify.com/track/3je4rbNm3C1zRkmEO7kgim) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [The World's Better 'Cause You're In It](https://open.spotify.com/album/5ZoawZizrsSua9rUyE23Pn) | 4:32 |
 
-Snapshot ID: `aAItIAAAAAAsgUS9Nrma39zjbF/AEejd`
+Snapshot ID: `aAItIAAAAAD+7GiOIIF3ALloM7rNSuSi`

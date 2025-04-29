@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Sonny Fodera, Clementine Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,033 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,998 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 59 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
 | 60 | [I need to know](https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I need to know](https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd) | 2:18 |
 
-Snapshot ID: `aAoTXgAAAADVHsgRlKlNGlnVgA34u6nz`
+Snapshot ID: `aAoTXgAAAACL8k/IX58gLnI+uWm6aayW`

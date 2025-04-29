@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Skyline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,613 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,612 likes - 97 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 96 | [Unfinished](https://open.spotify.com/track/7jjiNv6lqv9l7GNnqrjtFL) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Unfinished](https://open.spotify.com/album/0Fw8otiXWyj2kBGymjqywY) | 3:38 |
 | 97 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 |
 
-Snapshot ID: `aArA+wAAAADgU2iwWUD3Tj4S7HUvX6s8`
+Snapshot ID: `aArA+wAAAAD8Mn6OdiD66S3Cb3de4Fvm`

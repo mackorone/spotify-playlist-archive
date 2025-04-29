@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,910 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,476 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Nain Matakka \- From "Baby John"](https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Nain Matakka \(From "Baby John"\)](https://open.spotify.com/album/2xFg2ollu0FPiwvDBAVDT5) | 3:42 |
 | 75 | [Jai Jai Shivshankar](https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [War](https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku) | 3:50 |
 
-Snapshot ID: `aAipBAAAAACnzH55SQmxaBlEk/CMy0GG`
+Snapshot ID: `aAipBAAAAAB8FkyYS45QAvWYdGs7V/cO`

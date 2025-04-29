@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929,293 likes - 672 songs - 1 day 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929,775 likes - 672 songs - 1 day 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -681,4 +681,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 671 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 |
 | 672 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 |
 
-Snapshot ID: `aAjapwAAAABp25gDf1TAhBTloStedlTv`
+Snapshot ID: `aAjapwAAAACvotpFgkiKd29XGLWFt5Vg`

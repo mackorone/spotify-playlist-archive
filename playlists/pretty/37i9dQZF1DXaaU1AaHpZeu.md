@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,022 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,013 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Polar](https://open.spotify.com/track/6Gw7odcoIQmngeIwIs3xTw) | [Javier Lekker](https://open.spotify.com/artist/20MAeVYreHEOIOWiHM99ct) | [Polar](https://open.spotify.com/album/7lWMq6DfDQyWunB0IKfXdS) | 3:15 |
 | 50 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 
-Snapshot ID: `aAsI9wAAAACmHulvEdxx2JL3e3sJKDVj`
+Snapshot ID: `aAsI9wAAAAD1COPekv+J9xaOHRwbmXxX`

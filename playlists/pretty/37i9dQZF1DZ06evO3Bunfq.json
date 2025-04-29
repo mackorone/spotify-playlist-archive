@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 121624,
+  "num_followers": 121677,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABBCse6GgJyoT2n/7HfB7Ob",
+  "snapshot_id": "aA1zgAAAAADKvWgcV/YEVTokUvv3pzcb",
   "tracks": [
     {
       "added_at": null,
@@ -551,30 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troca Mamalona (feat. Eme Malafe)",
-        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
       "artists": [
         {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
-        },
-        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 223565,
-      "name": "Troca Mamalona (feat. Eme Malafe)",
-      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -635,18 +623,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+        "name": "Troca Mamalona (feat. Eme Malafe)",
+        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
       },
       "artists": [
         {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+      "duration_ms": 223565,
+      "name": "Troca Mamalona (feat. Eme Malafe)",
+      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
     },
     {
       "added_at": null,

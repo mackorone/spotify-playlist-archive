@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 157653,
       "name": "Baby Supreme",
       "url": "https://open.spotify.com/track/1YmiIGgmqWApEBLS1KT5ek"
@@ -11820,7 +11820,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 139351,
       "name": "Etel",
       "url": "https://open.spotify.com/track/7eu7zC7BQd6kOq3qgOTmf4"
@@ -19643,6 +19643,24 @@
     },
     {
       "album": {
+        "name": "MA BUENA",
+        "url": "https://open.spotify.com/album/3kWsnBKwW8Q0LNelCRnFYb"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117735,
+      "name": "MA BUENA",
+      "url": "https://open.spotify.com/track/2RkIDJ1ud7kFj34kXJvFH1"
+    },
+    {
+      "album": {
         "name": "El Brujo",
         "url": "https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G"
       },
@@ -24026,7 +24044,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -32398,7 +32416,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"

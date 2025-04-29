@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-591 songs - 1 day 5 hr 5 min
+592 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-21 | 2025-04-16 |
 | [Close Your Eyes](https://open.spotify.com/track/3WpZaVBGjVgR7lxekzkXTY) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Close Your Eyes](https://open.spotify.com/album/07kLcqgd4EzFgsXkgFo2lR) | 4:44 | 2022-01-21 | 2022-03-11 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2022-01-07 | 2022-05-17 |
-| [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 |  |
+| [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 | 2025-04-29 |
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2022-01-07 | 2022-04-16 |
 | [Come Around Again](https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Come Around Again](https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC) | 2:49 | 2022-04-15 | 2022-11-19 |
 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 | 2022-02-18 | 2022-04-16 |
@@ -467,6 +467,7 @@
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2022-01-07 | 2022-03-12 |
 | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/track/1cfY8NzqmmZgo9aLqAyY4c) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Soar](https://open.spotify.com/artist/3HCdCKVvXJakGRbVRO5OTa), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/album/3c17SBEmVqOJdo0uzEiu6A) | 4:49 | 2022-01-07 | 2022-04-16 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-27 | 2022-09-10 |
+| [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 | 2025-04-25 |  |
 | [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 | 2022-10-14 | 2022-11-12 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 | 2023-04-22 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-05-13 | 2022-09-13 |

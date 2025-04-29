@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,707 likes - 170 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,734 likes - 170 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 169 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 |
 | 170 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 |
 
-Snapshot ID: `Z8HBwgAAAADLIhYcfi6fbn0S1wGo5RqX`
+Snapshot ID: `Z8HBwgAAAABpiPfSV3crgEOIFp4RzG2t`

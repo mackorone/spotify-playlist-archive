@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,341 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,347 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 69 | [Inténtalo](https://open.spotify.com/track/3REPIZP4aq5oIysbkEyJVV) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo](https://open.spotify.com/album/0gI8p1f6Y6n0EpUcj0gAFo) | 3:14 |
 | 70 | [Celebrate](https://open.spotify.com/track/4Il9SInQxqpu3EVGL5z54T) | [Mexican Dubweiser](https://open.spotify.com/artist/12yHJOqkoLAJ1zE3VTlSa8), [Rocky Dawuni](https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC) | [Electric City](https://open.spotify.com/album/199M8a384GDDU13cXUob3j) | 3:28 |
 
-Snapshot ID: `ZjVBLwAAAAA+QiP7TW4jSkqgywL3z1UO`
+Snapshot ID: `ZjVBLwAAAADfEz8pMBm4GvUMWXkP3IjN`

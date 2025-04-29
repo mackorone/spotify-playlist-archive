@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,718 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,719 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Nar](https://open.spotify.com/track/7gs9WRNPeTdpcXb9j3zp0V) | [Bint il Sham](https://open.spotify.com/artist/5hLgy51EKPgpdGfySINkNa) | [Nar](https://open.spotify.com/album/6BcqHihuVsFSs4m0YCqNzE) | 2:51 |
 | 50 | [monalisa](https://open.spotify.com/track/3dHnxCXvMbFr5gR6EXs50r) | [Kabier](https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21) | [monalisa](https://open.spotify.com/album/6qc67ri7adVICrCLPlCg6S) | 2:43 |
 
-Snapshot ID: `aADsmAAAAAAMtHjzeOB6BMDGUWifUGRA`
+Snapshot ID: `aADsmAAAAACQ6FUUX1jsynDElXIPD9Hv`

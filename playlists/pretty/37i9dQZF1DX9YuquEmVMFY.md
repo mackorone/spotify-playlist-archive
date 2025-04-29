@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 COLDPLAY : MUSIC OF THE SPHERES  4월 16, 18, 19, 22, 24, 25일 @ 고양종합운동장 주경기장
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,764 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,893 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 48 | [Always in My Head](https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:36 |
 | 49 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
 
-Snapshot ID: `Z/XjewAAAACG15W0xI13/HUeTn6rnHjj`
+Snapshot ID: `Z/XjewAAAAAGApDl9OLuiseMcFmMbtPP`

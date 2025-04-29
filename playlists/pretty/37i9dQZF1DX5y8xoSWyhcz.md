@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,128 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,130 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 119 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 120 | [Dog](https://open.spotify.com/track/3wfaRiR52nrk5G3cJ66KM1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 3:52 |
 
-Snapshot ID: `aAvk9gAAAADeseHWMkNQkAugAUZv34a7`
+Snapshot ID: `aAvk9gAAAAA9kllWqZXv4qQ7Lhlul7MY`

@@ -1,12 +1,12 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Caro van Ee",
-  "num_followers": 334636,
+  "num_followers": 334707,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0hwAAAABLGLl1PSzXKTfMdvA/DvIg",
+  "snapshot_id": "aAq0hwAAAACSuuFL6Kq+TSvq+apeZVDM",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:39",
@@ -537,7 +537,7 @@
         },
         {
           "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+          "url": "https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd"
         },
         {
           "name": "MEDUZA",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2025-04-24 22:00:39",
       "album": {
+        "name": "All that Glitters is not Gold",
+        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "All that Glitters is not Gold",
+      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
+    },
+    {
+      "added_at": "2025-04-24 22:00:39",
+      "album": {
         "name": "All This Time",
         "url": "https://open.spotify.com/album/6lTW8di6tudYyMKKh8iJ1x"
       },
@@ -1518,6 +1542,10 @@
         {
           "name": "Tiscore",
           "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
         }
       ],
       "duration_ms": 128994,

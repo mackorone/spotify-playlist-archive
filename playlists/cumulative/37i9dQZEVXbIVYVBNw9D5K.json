@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "AL\u00c6CARTE-X",
+        "url": "https://open.spotify.com/album/68XuzZK2emJBTMqdGvB8CD"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92834,
+      "name": "AL\u00c6CARTE-X",
+      "url": "https://open.spotify.com/track/0eThhRe5r2ZZdKIU8yAngk"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
       },
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 155748,
       "name": "Ayr\u0131 Gitme",
       "url": "https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz"
@@ -6678,7 +6696,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 221842,
       "name": "Durma Y\u00fcr\u00fcsene",
       "url": "https://open.spotify.com/track/2up5kUpA2yQb5DtXE8B2WJ"
@@ -12144,7 +12162,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 177733,
       "name": "Kafa",
       "url": "https://open.spotify.com/track/5tM5kDTxYKCFJzlfyXiTpF"
@@ -17344,7 +17362,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
@@ -18140,7 +18158,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -20740,7 +20758,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 167370,
       "name": "UYUZ",
       "url": "https://open.spotify.com/track/1O3utGlqPaNnTX1ZeRXLQY"
@@ -22476,7 +22494,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"

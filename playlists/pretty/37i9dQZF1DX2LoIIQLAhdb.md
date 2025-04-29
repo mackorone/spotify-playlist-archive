@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,448 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,478 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Danger](https://open.spotify.com/track/6IZpLClwwfBwe1OJhTlUTZ) | [T2R](https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ) | [Danger](https://open.spotify.com/album/2n6p53MoLL1s9TEOVUxxrS) | 3:20 |
 | 40 | [Fausse couche](https://open.spotify.com/track/1hiwAIvy5S9Ed7NBGUUC0M) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Fausse couche](https://open.spotify.com/album/2JMlGyZaC14bdu4ucEwSsi) | 4:54 |
 
-Snapshot ID: `aAq0fQAAAADdUFdKcV21YImyRPmZ9WMH`
+Snapshot ID: `aAq0fQAAAACKpIkU2kFdKoY/VxRSJAzH`

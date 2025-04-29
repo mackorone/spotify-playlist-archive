@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 284 songs - 16 hr 8 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 285 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,5 +292,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 282 | [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 |
 | 283 | [迷い子山中神隠し奇譚](https://open.spotify.com/track/4WuEpuvGm2MNXu9QQ5sZD5) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [迷い子山中神隠し奇譚](https://open.spotify.com/album/1m5KWs7oRBKjiW0fScvQ3D) | 3:10 |
 | 284 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 |
+| 285 | [Flowerphagia](https://open.spotify.com/track/5xXCEamnhAvk9MJ7ICTNVT) | [Rakuen Shigai](https://open.spotify.com/artist/53wF30ZI8e4E9GHFLKCkNh) | [Flowerphagia](https://open.spotify.com/album/0foScpAXLbKDO82farKNyL) | 2:57 |
 
-Snapshot ID: `AAAI/pQKIJO+1qIw8s5eyJgkBvQ/lOIo`
+Snapshot ID: `AAAI/6tHdEwfkmrdbeY4x9Qj/Bc+o0ly`

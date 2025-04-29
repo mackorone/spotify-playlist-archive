@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Vaundy, Linkin Park, imase, d4vd,  Kali Uchis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,467 likes - 92 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,482 likes - 92 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 65 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
 | 66 | [Dollars And Dimes \(feat\. Bebe Rexha\)](https://open.spotify.com/track/2yioxPsU0aiU4dGtZPoK8I) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Dollars And Dimes \(feat\. Bebe Rexha\)](https://open.spotify.com/album/3rvMMAjXnf20lJx8sBc5G3) | 2:48 |
 | 67 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
-| 68 | [They Don't Know You](https://open.spotify.com/track/3vwXhF5LmmvW2oKROMk2YQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [BLUE ROOM](https://open.spotify.com/album/31r8TX8yZcw3HqsMoTmrAc) | 2:54 |
+| 68 | [They Don't Know You](https://open.spotify.com/track/3vwXhF5LmmvW2oKROMk2YQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Common](https://open.spotify.com/artist/5OqN0bRkOvuIXONXTWW0z5), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [BLUE ROOM](https://open.spotify.com/album/31r8TX8yZcw3HqsMoTmrAc) | 2:54 |
 | 69 | [Maintaining My Peace](https://open.spotify.com/track/1kxmpA4XOaSRo56y1E75rg) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Stephanie Cooke](https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2) | [Maintaining My Peace](https://open.spotify.com/album/34CYKQJRdmqfHZSVD99Rz0) | 2:58 |
 | 70 | [遠慮のかたまり](https://open.spotify.com/track/1ERBa1lztPWTvWVk2PXVw8) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [遠慮のかたまり](https://open.spotify.com/album/6YYKfd75y5vKL1pK0EtHCE) | 2:37 |
 | 71 | [HOME PARTY](https://open.spotify.com/track/1foT2gOd69aW9w8hrq51J8) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [HOME PARTY](https://open.spotify.com/album/0i1KdIBE6ONAKhd45nUkqX) | 2:02 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 91 | [Under the soil](https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn) | [Garden Studies](https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId) | 4:04 |
 | 92 | [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 |
 
-Snapshot ID: `aApSAgAAAAAaiGiYNiHu5/El0XL0Glsj`
+Snapshot ID: `aApSAgAAAACMZYYC18nNVxUQFyri/yvV`

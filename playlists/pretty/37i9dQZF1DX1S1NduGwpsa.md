@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Georgia Cécile
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,151 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,160 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [I Fall In Love Too Easily](https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [I Fall In Love Too Easily](https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt) | 3:16 |
 | 50 | [Into My World](https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Into My World](https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU) | 2:52 |
 
-Snapshot ID: `aAq0fAAAAACNUFtu0QvPqAokIdvGkLcg`
+Snapshot ID: `aAq0fAAAAAC79O8BMn2PZ4+zVX+mY0CR`

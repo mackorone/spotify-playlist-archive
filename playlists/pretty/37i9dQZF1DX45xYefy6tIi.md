@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Samara Cyn & ESPN's Top Plays gets you hyped for hoops final four to the NBA Playoffs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,845 likes - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,872 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 29 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 |
 | 30 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
 
-Snapshot ID: `Z/BivAAAAAC60aD0BKY/YyCEcxA3Yi1A`
+Snapshot ID: `Z/BivAAAAABsDeRIw13Kf46UqYAvxclL`

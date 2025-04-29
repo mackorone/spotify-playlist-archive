@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,030 likes - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,047 likes - 72 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 71 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 |
 | 72 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `aAez1wAAAAC89JJx3eF6wirD1dtyY2XR`
+Snapshot ID: `aAez1wAAAABvAL5vwJAiq60huQL/xpvf`

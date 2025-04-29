@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,070 likes - 118 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,136 likes - 118 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 117 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 | 118 | [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 |
 
-Snapshot ID: `Z/kvfQAAAAA5MgPzBPznLTLxqdvYARr5`
+Snapshot ID: `Z/kvfQAAAABAl16mewFaFRxJEfz1dPZL`

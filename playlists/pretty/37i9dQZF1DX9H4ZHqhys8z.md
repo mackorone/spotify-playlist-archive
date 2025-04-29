@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,552 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,558 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [To Trauma](https://open.spotify.com/track/71HdGobhRhylNzHytN6Nil) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [To Trauma](https://open.spotify.com/album/5dCVFETBkjrWDb0mxzS8uu) | 3:45 |
 | 50 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 |
 
-Snapshot ID: `Z/U4iAAAAAB/mPOdEuaay6T2d+/uJB5E`
+Snapshot ID: `Z/U4iAAAAACsZTH4f4F4JhggI0VBsEYb`

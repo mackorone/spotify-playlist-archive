@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 108559,
+  "num_followers": 108595,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NVYQAAAADdFAMCtO6haDYEgb6j5pTs",
+  "snapshot_id": "Z9NVYQAAAADWr4erMiW7CO7XjS4YcFma",
   "tracks": [
     {
       "added_at": "2024-03-18 13:26:28",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 262521,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The End Of Comedy",
         "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 197040,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 262521,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2wLujLyrTLBSeU1UrtDd9e"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1623,22 +1639,6 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
     }
   ],
   "unique_name": "Best of Indie 2016",

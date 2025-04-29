@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 
 > Tracks crediting NATURE support its conservation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 61 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,219 likes - 61 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 | 60 | [Segara Gunung \(feat NATURE\)](https://open.spotify.com/track/1BynFwt2h5L68zbeEPzyTx) | [Navicula](https://open.spotify.com/artist/1iyCgLwjC23mOjuDxY9sLu), [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Segara Gunung \(feat NATURE\)](https://open.spotify.com/album/1y794lnaecXFxpaiG2UFfh) | 4:13 |
 | 61 | [Shelter Me \(feat\. NATURE\)](https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU) | [Jenny Sturgeon](https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Shelter Me \(feat\. NATURE\)](https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6) | 4:14 |
 
-Snapshot ID: `aAcxHgAAAAB0mLlnKMxKNMgt8FNpef+g`
+Snapshot ID: `aAcxHgAAAAB0ZPY2pDJ7rOlAEcurNZ4k`

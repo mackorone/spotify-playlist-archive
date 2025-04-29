@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17692,
+  "num_followers": 17689,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/I7AQAAAABuiS8hm0H8LfXhWw0VVgaI",
+  "snapshot_id": "Z/I7AQAAAAChvqewWqSph2HfduYgEA2k",
   "tracks": [
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Brim On",
-        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
-      },
-      "artists": [
-        {
-          "name": "Leszek Mo\u017cd\u017cer",
-          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Zohar Fresco",
-          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Brim On",
-      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Brim On",
+        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
+      },
+      "artists": [
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Zohar Fresco",
+          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Brim On",
+      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
     },
     {
       "added_at": "2025-04-06 08:27:45",

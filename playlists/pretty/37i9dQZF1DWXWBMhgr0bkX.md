@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Brand new music from homegrown talent ft\. PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,067 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,072 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 59 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 |
 | 60 | [sunny side up](https://open.spotify.com/track/6vAdFjljMSaMIO7IO6FY2V) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [sunny side up](https://open.spotify.com/album/4rHc20KVLV00z8i0xVDCpp) | 3:19 |
 
-Snapshot ID: `aArCjwAAAABNsqDOlqQLbpPl17KxiCsY`
+Snapshot ID: `aArCjwAAAACLs/r/dDRHx/bVlSiSnTAn`

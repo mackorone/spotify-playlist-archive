@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=lPNtuHahTGGEVb2ltMKlcg">Tiwa Savage</a>
 
-495 songs - 1 day 2 hr 32 min
+496 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 | 2024-02-22 | 2024-04-26 |
 | [Perfect Match](https://open.spotify.com/track/0FEvJtLKPwwaMUqkQ2MVbv) | [Lucille Slade](https://open.spotify.com/artist/3Y0PBoYsqmB3fkdbu2WfoT) | [Perfect Match](https://open.spotify.com/album/1cJ9iQNvaVNzxCKD0xdr4a) | 2:13 | 2024-02-14 | 2024-02-23 |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2024-09-03 |
-| [Phresha](https://open.spotify.com/track/0n9V9D4ccfbV805OYksma0) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Phresha](https://open.spotify.com/album/2o7oABR23cTjZWqet4zEpC) | 2:21 | 2025-04-03 |  |
+| [Phresha](https://open.spotify.com/track/0n9V9D4ccfbV805OYksma0) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Phresha](https://open.spotify.com/album/2o7oABR23cTjZWqet4zEpC) | 2:21 | 2025-04-03 | 2025-04-29 |
 | [Pillow Talk](https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 3:36 | 2023-10-12 | 2023-10-20 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-09-26 | 2025-04-25 |
 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 | 2024-05-09 | 2024-09-03 |
@@ -401,6 +401,7 @@
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-11 | 2025-04-25 |
 | [Southern Stuff](https://open.spotify.com/track/6kISVB31mLA3SX1a1sRk2N) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Ain't Nobody Worryin'](https://open.spotify.com/album/7AnGF7p32IpTeDpbkc8uKJ) | 3:59 | 2025-02-13 | 2025-03-01 |
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-26 | 2024-11-29 |
+| [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 | 2025-04-28 |  |
 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-05-03 | 2024-09-03 |
 | [SPEEDING](https://open.spotify.com/track/54F5bovArC81dBT3YikEmt) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [ALT\-BOY](https://open.spotify.com/album/2NykPpomaq15Nbj5R0U4Os) | 3:57 | 2024-10-03 | 2025-04-25 |
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |

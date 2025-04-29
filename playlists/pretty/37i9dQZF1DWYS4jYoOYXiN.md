@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,292 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,326 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Mambo Rock](https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR) | [Alfredito Linares](https://open.spotify.com/artist/6nk62hgvBZTiWHfJDqQnFi) | [Mi Nuevo Ritmo](https://open.spotify.com/album/7EL9BpPDY9eX3ITD9JfJAd) | 3:35 |
 | 50 | [Boogaloo Blues](https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h) | 5:31 |
 
-Snapshot ID: `ZpmB1gAAAAAQiok5kf+85O36lWzfnf3z`
+Snapshot ID: `ZpmB1gAAAACX3UFHTbIEh8D37+LnzYXB`

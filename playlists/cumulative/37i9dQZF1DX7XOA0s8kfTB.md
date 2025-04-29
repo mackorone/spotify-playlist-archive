@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-46 songs - 2 hr 2 min
+47 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 | 2024-06-28 |  |
 | [闇に溶けてく](https://open.spotify.com/track/7MulwnmYzazj40HaMgI9aP) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 2:41 | 2024-08-27 |  |
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-04-12 |  |
+| [飛べない蝶は夢を見る](https://open.spotify.com/track/3Vz7Vs00QyiTBnNp70uHUc) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [飛べない蝶は夢を見る](https://open.spotify.com/album/3CCbAthgkhaUr9iBn4KGvC) | 2:38 | 2025-04-24 |  |
 | [黎明を穿つ](https://open.spotify.com/track/7A6Ase9m9II2njZuHLOFq5) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [黎明を穿つ](https://open.spotify.com/album/7Ds0BL9lcPgWVqfZJloAIo) | 3:09 | 2024-04-12 |  |
 
 \*This playlist was first scraped on 2024-04-05. Prior content cannot be recovered.

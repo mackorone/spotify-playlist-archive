@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Cecchy in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,594 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,646 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [SUD MOST WANTED \(feat\. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami\)](https://open.spotify.com/track/6dl9FpOjDyzBrqfYzkzp47) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUD MOST WANTED \(feat\. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami\)](https://open.spotify.com/album/69zf4cHClHc9wgw4AjM3Gx) | 4:00 |
 | 55 | [Peso](https://open.spotify.com/track/3Ampylw6l8IouMtpdV3vc4) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg) | [Peso](https://open.spotify.com/album/49dgPH6ZCQ4zeJocRPVi7b) | 3:06 |
 
-Snapshot ID: `aAq0ugAAAACFOz8UePcRjQy8Ti39agFP`
+Snapshot ID: `aAq0ugAAAABZHxzexx81L3AbjCvmudqi`

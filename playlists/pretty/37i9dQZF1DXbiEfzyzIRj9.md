@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,139 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,136 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [SUN SHOWER \- tofubeats DJ EDIT](https://open.spotify.com/track/1IkWmwoGfjHeotMYaqgmUI) | [島田奈美](https://open.spotify.com/artist/2vSBQ6i7aaVwqL4pwAZT81), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [SUN SHOWER Remixes](https://open.spotify.com/album/275U8h0dAtCFyw66co88Jq) | 6:09 |
 | 100 | [ENTROPIA](https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [ENTROPIA](https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg) | 6:38 |
 
-Snapshot ID: `aA7qywAAAADRU0AwYBGMwe69wrBkUen2`
+Snapshot ID: `aA7qywAAAAAfH6pTI1dfJ5I5+LFkbpNB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > If you've been sleeping on these Australian pop divas, it's time to wake up! ⏰ Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,462 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,474 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Faded](https://open.spotify.com/track/7d73fiTD3XUmg7GGm6bNV8) | [Kate DeAraugo](https://open.spotify.com/artist/7Irt8Qpa5LLDNlkO2TPQyZ) | [A Place I've Never Been](https://open.spotify.com/album/1nhhmd5877bj2LfKxZEMkK) | 3:30 |
 | 50 | [Party](https://open.spotify.com/track/6LZOgBvntXL1egqIHHPnhn) | [Christine Anu](https://open.spotify.com/artist/0VyhYyWWF5yYomHQR4hCMl) | [Stylin' Up](https://open.spotify.com/album/5aAUULuBofq0pQXbvQt6g4) | 3:14 |
 
-Snapshot ID: `aAjyiAAAAAATPo7f3giFQR7wrLAPhsQf`
+Snapshot ID: `aAjyiAAAAACAWwnpsRfFdJ5t89C9zKEm`

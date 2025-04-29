@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-783 songs - 2 day 7 hr 41 min
+784 songs - 2 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [All News Is Good News](https://open.spotify.com/track/5gvukkql7sLQI7nDjBOCXA) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [All News Is Good News](https://open.spotify.com/album/4Jo9cS6CzpGl7mWYH7LptH) | 4:21 | 2021-10-06 | 2022-07-29 |
 | [All News Is Good News](https://open.spotify.com/track/6xNouwojGWhHlweVGfAI9H) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [All News Is Good News](https://open.spotify.com/album/2keTegvdCIABoSTHXBArbI) | 4:21 | 2021-10-06 | 2023-08-08 |
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-03-30 |  |
+| [Alma's Cove](https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Alma’s Cove](https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre) | 3:54 | 2025-04-25 |  |
 | [Amaqatha Amancane](https://open.spotify.com/track/5bofupjpn4LaZBJV39Zohk) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [The Joy](https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc) | 1:37 | 2024-07-05 | 2024-08-12 |
 | [Amazone](https://open.spotify.com/track/3b41lO2hVuWUPuXUU48JxS) | [Djosa](https://open.spotify.com/artist/6fbLoqbGYp98LrFDp4GMeC) | [Super\-Sonic Family](https://open.spotify.com/album/1iuCyYELL21E3Tc9TeszT3) | 3:59 | 2021-10-06 | 2023-11-03 |
 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [BANK](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 | 2024-07-05 | 2025-03-22 |
@@ -749,7 +750,7 @@
 | [Watch me Dance](https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl) | [The Architect](https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv) | [Watch me Dance](https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ) | 3:22 | 2021-10-06 | 2022-04-21 |
 | [Water of Life](https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO), [Waina](https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i) | [Water of Life](https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ) | 5:04 | 2024-01-05 | 2025-02-15 |
 | [Water Tanks](https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Water Tanks](https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh) | 2:32 | 2024-03-21 | 2024-12-20 |
-| [Wave It](https://open.spotify.com/track/2BRuJJKdlV3YBH6o5yPB8M) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW), [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Wave It](https://open.spotify.com/album/2SJIeajpOusEz5B2kM59pG) | 2:31 | 2024-08-23 |  |
+| [Wave It](https://open.spotify.com/track/2BRuJJKdlV3YBH6o5yPB8M) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW), [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Wave It](https://open.spotify.com/album/2SJIeajpOusEz5B2kM59pG) | 2:31 | 2024-08-23 | 2025-04-29 |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-04-07 | 2022-07-29 |
 | [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-08-08 | 2022-08-10 |
 | [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-08 | 2022-09-01 |

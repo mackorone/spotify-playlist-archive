@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 124021,
+  "num_followers": 124038,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAC7SDLYNrxroQy9LCVeBA5X",
+  "snapshot_id": "aA1zgAAAAACyakqhwQ02kL5qrqtsJHlP",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
-      "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
+      "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
       "duration_ms": 186466,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Hit The Road To Dreamland",
+      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Hit The Road To Dreamland",
-      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 159000,
       "name": "Things",
       "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The Movies",
         "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 188626,
       "name": "I've Grown Accustomed to Her Face (feat. Dean Martin)",
       "url": "https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Promise Her Anything - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Promise Her Anything - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dean Martin TV Show",
         "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 188640,
-      "name": "Non Dimenticar",
-      "url": "https://open.spotify.com/track/4d4Z8IilRC921QjOpKaWsw"
+      "duration_ms": 176866,
+      "name": "The Naughty Lady Of Shady Lane",
+      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
     }
   ],
   "unique_name": "This Is Dean Martin",

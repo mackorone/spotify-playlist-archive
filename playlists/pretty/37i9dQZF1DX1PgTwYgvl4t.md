@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,053 likes - 105 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,177 likes - 105 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 104 | [Where You Lead](https://open.spotify.com/track/3SO1sXMxPbAGrveHakukVZ) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [Where You Lead](https://open.spotify.com/album/5PsZNaxGFZRI3RACssLofH) | 4:09 |
 | 105 | [Father](https://open.spotify.com/track/6txXSWsP37j8PL9WTWyAqE) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Father](https://open.spotify.com/album/6KQH6nWIstyImbA3qkAyYu) | 4:03 |
 
-Snapshot ID: `aArQ0QAAAACXS+uj2mmLEwNU7y+rRlSD`
+Snapshot ID: `aArQ0QAAAAD5AXHuCFO4p3S7yMdKAKNp`

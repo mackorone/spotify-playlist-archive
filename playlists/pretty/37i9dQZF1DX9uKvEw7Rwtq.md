@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,459 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,492 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 26 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 |
 | 27 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
 | 28 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
-| 29 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
-| 30 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
+| 29 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
+| 30 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
 | 31 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 32 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
 | 33 | [The Sun In The Trees](https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Into The Mountains](https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15) | 3:23 |
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 58 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 59 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 |
 | 60 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
-| 61 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
-| 62 | [Les Amourettes](https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Pearldiving](https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6) | 2:32 |
+| 61 | [Les Amourettes](https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Pearldiving](https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6) | 2:32 |
+| 62 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
 | 63 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
-| 64 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
-| 65 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
+| 64 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
+| 65 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
 | 66 | [Astronomer](https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Home](https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig) | 3:50 |
 | 67 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 |
-| 68 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 |
-| 69 | [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 |
-| 70 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Rain No Rain](https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 |
-| 71 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
+| 68 | [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 |
+| 69 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 |
+| 70 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
+| 71 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Rain No Rain](https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 |
 | 72 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 |
 | 73 | [Back To Dangerous](https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Pajama Avenue](https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E) | 3:52 |
 | 74 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 83 | [I Wonder As I Wander](https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [I Wonder As I Wander](https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg) | 2:16 |
 | 84 | [Out of It](https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 6:45 |
 | 85 | [You Have My Whole Heart](https://open.spotify.com/track/3XSMK307R9qBIK1HUgau2x) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [you are now listening to a tender spring](https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X) | 2:51 |
-| 86 | [Massive](https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Massive](https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB) | 4:00 |
-| 87 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
+| 86 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
+| 87 | [Massive](https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Massive](https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB) | 4:00 |
 | 88 | [Barren](https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Barren](https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN) | 10:16 |
 | 89 | [Watching Feathers Float](https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g) | [The Choir](https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu) | [Translucent](https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB) | 6:06 |
 | 90 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 100 | [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 |
 
-Snapshot ID: `aAoEdAAAAADTWmicjh1YrG/LpEMTY9P9`
+Snapshot ID: `aAoEdAAAAADPzSMcQqO6mJStLRedJW0M`

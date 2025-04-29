@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "A\u011fla",
+        "url": "https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184968,
+      "name": "A\u011fla",
+      "url": "https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM"
+    },
+    {
+      "album": {
         "name": "G\u00fcliz Ayla",
         "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
       },
@@ -382,7 +400,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 273558,
       "name": "Bir Bela",
       "url": "https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 206053,
       "name": "G\u00f6zlerime Bak (Live)",
       "url": "https://open.spotify.com/track/6Dv9DRWgjv8CDoosS4l3Ex"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 129804,
       "name": "\u0130mdad\u0131m",
       "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
@@ -1616,6 +1634,32 @@
       "duration_ms": 142973,
       "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
       "url": "https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk"
+    },
+    {
+      "album": {
+        "name": "K\u00fc\u00e7\u00fck Sevgilim (SAYGI1, Remix)",
+        "url": "https://open.spotify.com/album/71xsPyusr0Bm6qY0owtR5I"
+      },
+      "artists": [
+        {
+          "name": "mor ve \u00f6tesi",
+          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+        },
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179305,
+      "name": "K\u00fc\u00e7\u00fck Sevgilim - SAYGI1, Remix",
+      "url": "https://open.spotify.com/track/4Y5WDvbBG3g1R34CfKwUSP"
     },
     {
       "album": {
@@ -2360,6 +2404,28 @@
       "duration_ms": 215172,
       "name": "T\u0131rna\u011f\u0131n K\u0131r\u0131lmas\u0131n",
       "url": "https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU"
+    },
+    {
+      "album": {
+        "name": "UZAK",
+        "url": "https://open.spotify.com/album/3ORtfpBO2BBgOBRGYhx5Gf"
+      },
+      "artists": [
+        {
+          "name": "BGR",
+          "url": "https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi"
+        },
+        {
+          "name": "LAARA",
+          "url": "https://open.spotify.com/artist/4BJp4ZBfFyBR4mOLHMHxR4"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "UZAK",
+      "url": "https://open.spotify.com/track/40SkcRpe9ch2iunfhnytM8"
     },
     {
       "album": {

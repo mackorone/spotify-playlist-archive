@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,899 likes - 130 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,927 likes - 130 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 129 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 |
 | 130 | [Melbourne](https://open.spotify.com/track/5iNYTaFkFuzZhlEA0UASUl) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Melbourne EP](https://open.spotify.com/album/3mpU7DcVm1K42iyDM8rwcj) | 3:06 |
 
-Snapshot ID: `aAGIEgAAAACQSOJPFafqX7ygsQXEtvZO`
+Snapshot ID: `aAGIEgAAAAC7/UktEFdZT7HuCLespH7j`

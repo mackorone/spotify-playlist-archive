@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,029 likes - 128 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,034 likes - 128 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 127 | [Cage <NTv>](https://open.spotify.com/track/4aHRYUcSDr58mGep14Y6MI) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:39 |
 | 128 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `aAfpOQAAAABY7vfowFSdCsOPl+p6IvVQ`
+Snapshot ID: `aAfpOQAAAACu9pypP4+TqBmYp8bQMajS`

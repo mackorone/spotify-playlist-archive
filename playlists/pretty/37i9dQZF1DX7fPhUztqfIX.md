@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,740 likes - 90 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,780 likes - 90 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 89 | [What You Want To](https://open.spotify.com/track/2z4dVTiWYe6SefHT7EnBSc) | [Jake Fretz](https://open.spotify.com/artist/0lfaWY2ruoCgSKDT3uflMD), [PAC Worship Collective](https://open.spotify.com/artist/5CGd1MaN2h9THuBjrgb9xF) | [What You Want To](https://open.spotify.com/album/65ZcFnC5m40mXwc2azfFZZ) | 3:35 |
 | 90 | [All My Hope](https://open.spotify.com/track/1qRi3izUu1fs4uJSF9QBhs) | [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Jonathan Lee McElhenny](https://open.spotify.com/album/4yBWpV3WfeTT70zQlidoga) | 3:24 |
 
-Snapshot ID: `aAIqFwAAAAAg01+m/zoCLI2YsWLOVjG5`
+Snapshot ID: `aAIqFwAAAADJb6m8Kd9lA184flRRV2i/`

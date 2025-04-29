@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,670 likes - 49 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,699 likes - 48 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 45 | [Lak Saqeni Al Rab](https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Lak Saqeni Al Rab](https://open.spotify.com/album/4Nh1qUEn7dP8s6Q5FMBfP3) | 4:30 |
 | 46 | [Kethr El Ghala](https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Kethr El Ghala](https://open.spotify.com/album/2fKsdzB75Aq0wWj8anqplX) | 4:09 |
 | 47 | [Akher Ensanah](https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Akher Ensanah](https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V) | 2:58 |
-| 48 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
-| 49 | [Estihala](https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 6:04 |
+| 48 | [Estihala](https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 6:04 |
 
-Snapshot ID: `aA03OQAAAACCwMgZbSC02NL/bDRq673W`
+Snapshot ID: `aA8yfQAAAACMdQ1RLCHn0OBTxZbPI3XX`

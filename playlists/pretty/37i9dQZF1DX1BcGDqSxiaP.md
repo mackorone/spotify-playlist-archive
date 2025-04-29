@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,016 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,042 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 35 | [Born In Chicago \- Live](https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Live From Chicago \- Mr\. Superharp Himself!](https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv) | 3:06 |
 | 36 | [It's You, Baby](https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Elvin Bishop's Big Fun Trio](https://open.spotify.com/album/1JeZBxuDWHDFcF4ZsrIu1J) | 2:11 |
 | 37 | [Boogie Woogie Country Girl](https://open.spotify.com/track/3W776OrIMoHnOyeujcILdt) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [The Alligator Records Years](https://open.spotify.com/album/3FochREiG9hH1jXXa6pSK7) | 3:19 |
-| 38 | [Common Ground](https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:14 |
-| 39 | [Cotton Picking Blues](https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:39 |
+| 38 | [Cotton Picking Blues](https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:39 |
+| 39 | [Common Ground](https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:14 |
 | 40 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
 | 41 | [Never Trust A Man](https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 3:21 |
 | 42 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [It's My Life, Baby](https://open.spotify.com/track/2FYMDZQN3ExwEkcJx7gnKL) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c) | 4:10 |
 | 52 | [Don't Take Advantage Of Me](https://open.spotify.com/track/1vY0DlMigFsTeaF8J7DdLD) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c) | 5:24 |
 
-Snapshot ID: `ZIsXfgAAAACNMDUwd+iDb6+bYbV6dlnG`
+Snapshot ID: `ZIsXfgAAAAD0rCywHzTO86oiS8Poux3x`

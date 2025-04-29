@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Anwar Carrots
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,219 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,236 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [XOXO](https://open.spotify.com/track/1DNAIKJQTTOxAIgFl2dcls) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [XOXO](https://open.spotify.com/album/4pZTdwIXeXMGBnzHH6Jgb6) | 2:20 |
 | 50 | [Resume](https://open.spotify.com/track/6W54GsPLaZyYef4NWEfYn0) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [LA Gangster: Gangsta Grillz](https://open.spotify.com/album/1VSStN46LlSz2tBtVc0zva) | 3:15 |
 
-Snapshot ID: `aAsNHgAAAACqhF7+MK/audLCdY0rE9Fd`
+Snapshot ID: `aAsNHgAAAAA0dyI5x2BnzOZQUogOtDUc`

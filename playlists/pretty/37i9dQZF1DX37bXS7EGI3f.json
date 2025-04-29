@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 797966,
+  "num_followers": 798013,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvsh7QAAAADwv80WIY1HEDe4mXsPz5L3",
+  "snapshot_id": "Zvsh7QAAAACSIzFDeOytveLZIdRB/Eub",
   "tracks": [
     {
       "added_at": "2024-09-20 04:24:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 261480,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Fairy of the Bog",
         "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 261480,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Endless Shore",
         "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -963,6 +947,22 @@
       "duration_ms": 397026,
       "name": "Secrets Of The American Gods - Single Edit",
       "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Retrospectator",
+      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Winter Is Coming",
         "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 277493,
       "name": "Winter Is Coming",
       "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-09-20 04:24:16",

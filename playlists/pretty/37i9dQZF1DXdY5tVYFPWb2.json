@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 172476,
+  "num_followers": 172515,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/50hwAAAABJLKb3Wm1I1hhtmLlqwozB",
+  "snapshot_id": "Z/50hwAAAAAE0ZrgzDsQptS+oAc92fsz",
   "tracks": [
     {
       "added_at": "2025-04-15 15:00:23",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Groove it",
         "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 214026,
       "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
       "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 325898,
-      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
-      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
         "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 225746,
       "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
       "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
+        "name": "Call me back",
+        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 225529,
+      "name": "Call me back",
+      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1559,26 +1579,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Call me back",
-        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 225529,
-      "name": "Call me back",
-      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "\u8003\u3048\u4e2d",
         "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Grow apart",
-        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "HOME TOWN \uff5eCover Songs\uff5e",
         "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 304266,
       "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "Grow apart",
+        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/1pjnSakXyIUkTBacbXguWq"
+        "name": "\u30ec\u30ad\u30b7\u30c1",
+        "url": "https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4"
       },
       "artists": [
         {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+          "name": "Rekishi",
+          "url": "https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ"
         }
       ],
-      "duration_ms": 266453,
-      "name": "\u884c\u3051\u305f\u3089\u3001\u884c\u304f\u308f",
-      "url": "https://open.spotify.com/track/6MlZpIrMtTrb2E64bXnpUK"
+      "duration_ms": 231826,
+      "name": "Let's FUJIWARA",
+      "url": "https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

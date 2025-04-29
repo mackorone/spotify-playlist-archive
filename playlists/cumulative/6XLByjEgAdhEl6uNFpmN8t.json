@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "EDM TRIP",
+        "url": "https://open.spotify.com/album/6pxnEvaTp3Ok0YJRe1a4ma"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        },
+        {
+          "name": "Rim\u00f3czi D\u00f3ri",
+          "url": "https://open.spotify.com/artist/73Gk6HXJP0u2ffrJ6K2m2S"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "rizz",
+      "url": "https://open.spotify.com/track/333LqMnXvcMXagCHz9YDO9"
+    },
+    {
+      "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },

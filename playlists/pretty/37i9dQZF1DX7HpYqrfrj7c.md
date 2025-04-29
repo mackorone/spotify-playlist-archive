@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,364 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,429 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 86 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 |
 | 87 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 |
 
-Snapshot ID: `aAvMxgAAAADa6hdv7i3anrxY6jlPQt/i`
+Snapshot ID: `aAvMxgAAAAB3beP2z7sDeOpaYYB6dPaK`

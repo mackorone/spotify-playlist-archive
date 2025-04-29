@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lady Donli
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,154 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,173 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Foya](https://open.spotify.com/track/2zAaSEZzHHEVqvD18wgoXN) | [Yaans](https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k), [Wisdom](https://open.spotify.com/artist/7pyynkEL0G0TzqIvVWEEWE) | [Foya](https://open.spotify.com/album/2dzONdn4K6iqxZy8rVfyjS) | 4:08 |
 | 50 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 |
 
-Snapshot ID: `Z/iDpAAAAADVcoHWshuoIKm2oiJeBC1C`
+Snapshot ID: `Z/iDpAAAAABK2FewOb+ZP7NSozPhPsf0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 544 songs - 1 day 12 hr 6 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 545 songs - 1 day 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -550,7 +550,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 540 | [I Want It All](https://open.spotify.com/track/1cbSU1yDPQJbUUzlPQC6Ir) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 2:46 |
 | 541 | [Disease](https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 |
 | 542 | [Dark blue](https://open.spotify.com/track/0IFOpfmpnZUnvVe0PcTYfg) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 6:36 |
-| 543 | [chapter 1\*](https://open.spotify.com/track/7aDDTr7TDL7KkshecYpDY1) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [LaKeith Stanfield](https://open.spotify.com/artist/4JRQyvuk8ZTlnJmYPn1fA2) | [All American F⭐ckBoy](https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r) | 1:18 |
-| 544 | [Biscuits Intro](https://open.spotify.com/track/7vsPqZLxTXdrDsymHYo9nM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 0:15 |
+| 543 | [The Place In The Sky](https://open.spotify.com/track/1aIhJYjuC8U65NyLt84eV2) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Florilegium](https://open.spotify.com/album/5FlWrzLZNGA1KQm8BGydFX) | 3:14 |
+| 544 | [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 |
+| 545 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 |
 
-Snapshot ID: `AAAHIRbF5vuu2wfpH9CmyJKWX713nJLf`
+Snapshot ID: `AAAHJt3IH+zfen2CsRz56Uf0iYFu9QHM`

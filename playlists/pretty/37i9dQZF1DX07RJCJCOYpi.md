@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Sofía Reyes, Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,815 likes - 92 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,639 likes - 92 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 91 | [ALVRGZO](https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [ALVRGZO](https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5) | 2:42 |
 | 92 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 
-Snapshot ID: `Z/iT4wAAAADbs2hzdFWxmJ1+vSE9kpWS`
+Snapshot ID: `Z/iT4wAAAACx1yU2LJK9UbZsZTEN7y5h`

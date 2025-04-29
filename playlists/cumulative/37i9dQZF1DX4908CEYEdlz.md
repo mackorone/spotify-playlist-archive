@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: A Day To Remember
 
-365 songs - 22 hr 26 min
+366 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:41 | 2022-11-11 | 2024-04-19 |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-09-03 |
 | [The Unholy Spell \- Live](https://open.spotify.com/track/3sZDcrMHGykb5AzGlYQb6P) | [Torture Squad](https://open.spotify.com/artist/6E3iq1WfZbw2YEeTKVZYJR) | [The Unholy Spell Celebration 20 Years \(Live at Showlivre\)](https://open.spotify.com/album/7AwNCNZUlLxFmfgtmbCPYz) | 3:48 | 2022-04-01 | 2022-04-23 |
-| [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-25 |  |
+| [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-25 | 2025-04-29 |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-04-21 | 2023-09-16 |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 | 2022-07-02 |
 | [THIRST4VIOLENCE \(feat\. Freddie Dredd & Silverstein\)](https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [THIRST4VIOLENCE \(feat\. Freddie Dredd & Silverstein\)](https://open.spotify.com/album/2GNIxRwMShUPGVw5eWl3OC) | 2:19 | 2023-02-03 | 2023-02-11 |
@@ -339,6 +339,7 @@
 | [Um Grito de Paz](https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo) | [Oitão](https://open.spotify.com/artist/6DcGHTqziCAg4pkFJbJVx3) | [Um Grito de Paz](https://open.spotify.com/album/5uxY7jzlviLy7LYKIO0aeE) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Unbreakable](https://open.spotify.com/track/3RLQmZog1TaS6r1j186j7k) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Unbreakable](https://open.spotify.com/album/1EDn1YJji6cO0jaxqeI89Y) | 3:41 | 2022-12-02 | 2022-12-31 |
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-19 | 2023-06-24 |
+| [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-28 |  |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 | 2022-11-12 |
 | [Unstoppable](https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Unstoppable](https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc) | 3:03 | 2023-07-21 |  |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruno Caliman, Luan Santana
 
-190 songs - 11 hr 20 min
+191 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2023-07-21 | 2023-11-11 |
 | [Longe Daqui](https://open.spotify.com/track/6ORUiT6jhNRVPH3jUCGZnL) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Longe Daqui](https://open.spotify.com/album/5tBucvS2pdQTKKGEQikSkK) | 2:30 | 2024-08-30 | 2024-09-14 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2023-07-21 | 2024-04-27 |
+| [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-28 |  |
 | [Lá Fora](https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ) | [Rafa Valle](https://open.spotify.com/artist/0OcnZHMbddFEVbOxNPG5l2) | [Lá Fora](https://open.spotify.com/album/6sSnpqf9EEo1Nz0yBwvzjx) | 3:22 | 2023-07-21 | 2023-08-26 |
 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 | 2024-09-27 |  |
 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 | 2023-07-21 | 2025-04-06 |
@@ -132,7 +133,7 @@
 | [Por Que Você Me Trata Assim?](https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr) | [Thelfos](https://open.spotify.com/artist/6wm3X6FY2usjwXhCdUCWk7) | [Inferno Particular](https://open.spotify.com/album/6ZktaztaNfDKU6VIRYbtne) | 3:25 | 2023-07-21 | 2024-01-13 |
 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/1RxAzmAuN6KldKrMeVKkf2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 3:42 | 2023-07-21 | 2025-02-15 |
 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 | 2023-07-21 |  |
-| [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 |  |
+| [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 | 2025-04-29 |
 | [Proposta](https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO) | [Davi Leão](https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7) | [Proposta](https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle) | 2:46 | 2024-10-18 |  |
 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 | 2023-07-21 |  |
 | [Pólen](https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Pólen](https://open.spotify.com/album/5tAqPQ72NUjJRdO0yyhsDZ) | 4:10 | 2023-10-20 | 2024-02-24 |

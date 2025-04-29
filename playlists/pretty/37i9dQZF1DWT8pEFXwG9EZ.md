@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,088 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,127 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 30 | [A Reluctant Hero / Betsy / End Credits](https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [James P\. Nichols](https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 4:42 |
 | 31 | [Nuit sur les Champs\-Élysées \- Take 1 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:25 |
 | 32 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 |
-| 33 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
-| 34 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
+| 33 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
+| 34 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
 | 35 | [Charade](https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA) | [Si Zentner](https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6) | [The Big Kahuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf) | 2:38 |
 | 36 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
 | 37 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [Meet the Pets](https://open.spotify.com/track/1rCoAyOBQxtnsJccqnrx33) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Secret Life of Pets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kmitKoCAjnrdmFxmepZcH) | 2:37 |
 | 100 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 
-Snapshot ID: `Z4URIAAAAABL5r/M3jDy/WzCXOHbia4i`
+Snapshot ID: `Z4URIAAAAADf2AslyjSZCVm1RYWampaz`

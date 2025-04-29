@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Klaudia Daliva
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,524 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,525 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,28 +50,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 40 | [Warszawa](https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Warszawa](https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo) | 3:54 |
 | 41 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 |
 | 42 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 |
-| 43 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 |
-| 44 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 |
+| 43 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 |
+| 44 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 |
 | 45 | [MAZZY STAR](https://open.spotify.com/track/6opbogQthtVP3KyPlMJXJK) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [MAZZY STAR](https://open.spotify.com/album/0alyr4UdNAcPFa0IPHfQ0k) | 2:34 |
-| 46 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 |
-| 47 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
+| 46 | [mała, daj sobie na luz](https://open.spotify.com/track/11Kim6INx9R8HnpMXQQFpG) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [mała, daj sobie na luz](https://open.spotify.com/album/5jiJ70OENZN67N012ADkPM) | 2:31 |
+| 47 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 |
 | 48 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 |
 | 49 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 |
-| 50 | [mała, daj sobie na luz](https://open.spotify.com/track/11Kim6INx9R8HnpMXQQFpG) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [mała, daj sobie na luz](https://open.spotify.com/album/5jiJ70OENZN67N012ADkPM) | 2:31 |
+| 50 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 | 51 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 |
 | 52 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 |
 | 53 | [oddaj mnie](https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [oddaj mnie](https://open.spotify.com/album/75qFi0fN0V3cucVz3qAMwY) | 2:31 |
-| 54 | [Koszta](https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Koszta](https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4) | 2:51 |
-| 55 | [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 |
-| 56 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 |
-| 57 | [5 słów](https://open.spotify.com/track/7BB6IZYUviTF04aZjkwuKo) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [5 słów](https://open.spotify.com/album/1zHmrrqXUQoXKvg1PNRNbw) | 2:20 |
-| 58 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
-| 59 | [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 |
-| 60 | [Nic ci nie powiem](https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Nic ci nie powiem](https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu) | 3:08 |
-| 61 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
+| 54 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
+| 55 | [Koszta](https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Koszta](https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4) | 2:51 |
+| 56 | [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 |
+| 57 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 |
+| 58 | [5 słów](https://open.spotify.com/track/7BB6IZYUviTF04aZjkwuKo) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [5 słów](https://open.spotify.com/album/1zHmrrqXUQoXKvg1PNRNbw) | 2:20 |
+| 59 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
+| 60 | [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 |
+| 61 | [Nic ci nie powiem](https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Nic ci nie powiem](https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu) | 3:08 |
 | 62 | [mirabelkowy asfalt](https://open.spotify.com/track/7EeJGX9o9uVsYQ3jVyTEGg) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [mirabelkowy asfalt](https://open.spotify.com/album/4poh2MHhgQthdH6byXneK2) | 2:18 |
 | 63 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
-| 64 | [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 |
-| 65 | [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 |
+| 64 | [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 |
+| 65 | [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 |
 
-Snapshot ID: `aAq0jgAAAADqVgdeH8hs6WNJNNElFFby`
+Snapshot ID: `aAq0jgAAAAAiip/4ZGrWZJ4Q84eZtzwn`

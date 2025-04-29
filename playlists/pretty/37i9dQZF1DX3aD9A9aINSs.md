@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Fatma Turgut
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,963 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,958 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 50 | [şimdilik her şey yolunda](https://open.spotify.com/track/4heyFNrgnankITYbOLb9ir) | [sıla argun](https://open.spotify.com/artist/6mIlg9lvCkLijvjN1Gu4eL) | [şimdilik her şey yolunda](https://open.spotify.com/album/2brZBpoF0nPqWBCYDyEsuj) | 2:45 |
 | 51 | [Bir Gece](https://open.spotify.com/track/1Rv2KmNjg1BwtxW0IvgGLw) | [Elif Onay](https://open.spotify.com/artist/64efwiBVqutEfTZDVBO9TE) | [Bir Gece](https://open.spotify.com/album/5n2ALGZ6o0txGlr19ivGCC) | 3:44 |
 
-Snapshot ID: `Z+xT1AAAAAB+IFGPRd+pPCKuev+KUE8Y`
+Snapshot ID: `Z+xT1AAAAADMmK/y2EGYrYFNEVH0Aq35`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,755 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,738 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 50 | [oxygen](https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [oxygen](https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1) | 2:53 |
 | 51 | [Happy Ever After You](https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v) | 3:17 |
 
-Snapshot ID: `aAsI6QAAAAAtAX+mui8rf1FDGqZYisqx`
+Snapshot ID: `aAsI6QAAAAByQ2XUENr4yBxlAvyL6AD0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: terraplana
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,127 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,073 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Quase Sertão](https://open.spotify.com/track/71QiMGqg27teVr2rMeQhHm) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW), [Haroldo Bontempo](https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9) | [Quase Sertão](https://open.spotify.com/album/0XpCXg4ulPypQKTt4DCHFb) | 3:23 |
 | 80 | [Imprevisível](https://open.spotify.com/track/5cRpK6nKXBM5xbHU048Z6h) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [João Paulo Lopes](https://open.spotify.com/artist/6BZZsvcWRDSP53dvlh5u3D) | [Imprevisível](https://open.spotify.com/album/1uuuKNQyBMwkxiFL5CpTi9) | 2:42 |
 
-Snapshot ID: `Z/FyaQAAAABttenwoXG3h7ImPjpU0Gdm`
+Snapshot ID: `Z/FyaQAAAADjzVn8P9rEXDttjFIXJPnl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,094 likes - 233 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,098 likes - 233 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 117 | [So Good](https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:45 |
 | 118 | [Paris On a Sunny Day](https://open.spotify.com/track/2iWF723SL2T6qAW9RBls1c) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 5:07 |
 | 119 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 |
-| 120 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
-| 121 | [I Want To Be Loved Like That](https://open.spotify.com/track/4OEL67Y63R90nw4r5AKsGy) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Reloaded](https://open.spotify.com/album/4fI2YNPTAp7tSMjAvptJQt) | 4:02 |
+| 120 | [I Want To Be Loved Like That](https://open.spotify.com/track/4OEL67Y63R90nw4r5AKsGy) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Reloaded](https://open.spotify.com/album/4fI2YNPTAp7tSMjAvptJQt) | 4:02 |
+| 121 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
 | 122 | [Deserve](https://open.spotify.com/track/4RuI0ItCK4wjtLJi9hhJEU) | [Teairra Marí](https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N) | [Deserve \- Single](https://open.spotify.com/album/5bvgBtWKI8bTsekfaFGeyM) | 3:17 |
 | 123 | [Lie to Me](https://open.spotify.com/track/5i0OHpGf0sBnQhxdpxHjwC) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [Flip](https://open.spotify.com/artist/0AvGQF1hbRypYmo5TJDwgY) | [Coke Boys Tour](https://open.spotify.com/album/5OAG6xARCduo9svbhzuF0s) | 4:11 |
 | 124 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 232 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 233 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `Abv7fgAAAAB2ZCOSGosOjZOxaBi9OzYT`
+Snapshot ID: `AbwBKAAAAACVXgkuAT0WBN+b541gJVvI`

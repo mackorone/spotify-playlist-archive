@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Towa Bird.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,609 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,608 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 44 | [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 |
 | 45 | [I'm Not Afraid](https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd) | 3:41 |
 
-Snapshot ID: `ZpCqQAAAAACvycyZOjQSxThQQ4mxL8Qn`
+Snapshot ID: `ZpCqQAAAAABfDQe9lfKy0+XMcs6gygIT`

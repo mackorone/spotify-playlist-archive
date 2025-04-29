@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Kedjevara
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,169 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,230 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 |
 | 40 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
 
-Snapshot ID: `aAq0jAAAAAAkH16hgnBVKoNCHvNA4OdY`
+Snapshot ID: `aAq0jAAAAAAt8OQx4kIupInj+O4o3mRE`

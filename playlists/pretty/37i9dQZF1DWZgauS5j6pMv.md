@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,037 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,074 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 |
 | 100 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 
-Snapshot ID: `Z/iT0QAAAABLZkafLhRmcsuQGPIGxFhh`
+Snapshot ID: `Z/iT0QAAAACbmeXOCs6U+r6eviU99+Pa`

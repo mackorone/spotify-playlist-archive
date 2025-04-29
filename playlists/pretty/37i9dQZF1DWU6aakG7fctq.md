@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: rusowsky & Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,389 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,374 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Necesito Que Me Arranques De Ti](https://open.spotify.com/track/3Vf0KIbzv9tky7AUO9iPX1) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Necesito Que Me Arranques De Ti](https://open.spotify.com/album/5UfNLgBVSNX3x8ddeQz8ph) | 2:45 |
 | 50 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 |
 
-Snapshot ID: `aAsI/wAAAABoEhf0Ar/UW3mzulDnCSic`
+Snapshot ID: `aAsI/wAAAAAoJj0Vpxj/EnKZZEayUQZs`

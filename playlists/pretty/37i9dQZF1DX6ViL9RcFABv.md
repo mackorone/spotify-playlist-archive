@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mariana Pereira
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,698 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,694 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/track/0H9nEqO1DybOjbFUE5Oay2) | [Beatriz Caixinha](https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n), [Rita Onofre](https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z) | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/album/1GcjJY1RDYWsSJXnifdXrQ) | 2:34 |
 | 70 | [Foste Tu](https://open.spotify.com/track/2aQUqkcVAQgCPmsXOQ9Zkj) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Foste Tu](https://open.spotify.com/album/5EcFzVIvBhlgBmYuwX7lWR) | 3:14 |
 
-Snapshot ID: `aArCkAAAAACX4W0eW9refsAYiarrlORz`
+Snapshot ID: `aArCkAAAAADMHS1ftoOqKh8szA0F/WJ4`

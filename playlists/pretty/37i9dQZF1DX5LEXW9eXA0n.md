@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 권진아\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,279 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,280 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Escape to You](https://open.spotify.com/track/5mkEaDKd5Hh9pM3MjJEgKC) | [HANEUM](https://open.spotify.com/artist/1Wr9Ekj4sSByeidL8C7pZ2) | [Escape to You](https://open.spotify.com/album/6NAP2s5loLn77uD7S60lyc) | 4:07 |
 | 100 | [Words of Us](https://open.spotify.com/track/1N9fLIjmXzeTje6amS62ol) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [746 \- The 1st Album](https://open.spotify.com/album/1CjtCdzlNuBj9wxIJJEeAZ) | 4:01 |
 
-Snapshot ID: `aAtQTQAAAAC5X9N/GX13VG3tdE12dmJR`
+Snapshot ID: `aAtQTQAAAABqX+7kbjsyy83qbBmbT0lM`

@@ -4,7 +4,7 @@
 
 > Rock e punk dall'Italia 🎸 Giallorenzo in cover con il nuovo album INNI E CANTI
 
-1,440 songs - 3 day 8 hr 3 min
+1,442 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 | 2022-10-13 | 2023-01-20 |
 | [Dio Perdona Riganò](https://open.spotify.com/track/32PGvTgE2XnnOEA7q5iBSH) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2), [Federico Russo](https://open.spotify.com/artist/59X6Bdr9ODM1JhhPUTAV5r) | [Dio Perdona Riganò](https://open.spotify.com/album/4vugHFUCH2zYj6jXplOJHr) | 3:06 | 2024-03-21 | 2024-09-27 |
 | [Diritto Di Obbedire](https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh) | [Golpe](https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33) | [Diritto Di Obbedire](https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ) | 1:14 | 2023-10-05 | 2023-10-27 |
+| [Disco Nucleare](https://open.spotify.com/track/2pJM062PdQlSgZ3zG9JokD) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Disco Nucleare](https://open.spotify.com/album/2QX3mLVD2YclbIr8kUSHvX) | 2:57 | 2025-04-29 |  |
 | [Disordine](https://open.spotify.com/track/6Tz00bbQVqby0tQXoUEq4s) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Analisi portafoglio danni](https://open.spotify.com/album/5p55aqWycjUQBxEO6JIFdK) | 4:10 | 2024-03-14 | 2024-05-24 |
 | [Disordine](https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Disordine](https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N) | 2:58 | 2024-07-18 | 2024-10-11 |
 | [Distance](https://open.spotify.com/track/2blYo3R16FSCsGQQePt16B) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Distance](https://open.spotify.com/album/65J99vAYR0FUUZhuRJDkr1) | 2:38 | 2024-07-04 | 2024-10-11 |
@@ -988,6 +989,7 @@
 | [Per non pensarci più](https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Per non pensarci più](https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi) | 3:04 | 2023-09-28 | 2024-01-19 |
 | [PER QUALCOSA O QUALCUNO](https://open.spotify.com/track/0uSK1uXv9TiTODNfzkypXO) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PER QUALCOSA O QUALCUNO](https://open.spotify.com/album/2p0gWxx57QZD0wf8b7RWOW) | 3:48 | 2025-02-13 | 2025-03-21 |
 | [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:23 | 2023-03-09 | 2023-06-02 |
+| [Per te, che non ci sarai più](https://open.spotify.com/track/409DmlqsE3ofDL9y7DLPwA) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Per te, che non ci sarai più](https://open.spotify.com/album/4EwwoPl29gGnszqhrpmDp0) | 4:52 | 2025-04-29 |  |
 | [PER UN'ALTRA](https://open.spotify.com/track/6WWbjxjJNKT1cdFvt38rDr) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PER UN'ALTRA](https://open.spotify.com/album/1ulPhRvTCduVztfISMo9Rg) | 2:20 | 2025-04-03 |  |
 | [Perché mi guardi?](https://open.spotify.com/track/7uUtgLyVinzi1pcnAbvtqF) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Perché mi guardi?](https://open.spotify.com/album/4nyzn61o9wyg0p8sNIAfhU) | 2:37 | 2023-11-30 | 2023-12-15 |
 | [Perché non mi vuoi?](https://open.spotify.com/track/2Mf8exv99Ep3n7ly5PNZ4s) | [I Melt](https://open.spotify.com/artist/68YsEdffZtrs58PasAPAdi) | [Perché non mi vuoi?](https://open.spotify.com/album/5ZM1gwVUJkaWy9zcA1LQDX) | 5:05 | 2024-12-19 | 2025-03-07 |

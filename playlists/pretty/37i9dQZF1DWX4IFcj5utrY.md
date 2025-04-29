@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa?si=d6TsqJb3TYKKH67MXzzxmg">DESIREE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,229 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,253 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 74 | [Teka](https://open.spotify.com/track/0LWuf8FourkvpHgdlEv3fy) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Mpho.Wav](https://open.spotify.com/artist/5R03BvS4NIjVqXTQz9nf2O) | [Teka](https://open.spotify.com/album/3A8PQrckIYzOvciSds7Ewa) | 6:32 |
 | 75 | [Sohlala Sisonke](https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Finally Famous Too](https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9) | 5:27 |
 
-Snapshot ID: `aAG8BAAAAAAMPhAbO5rfWAxRVw17edMC`
+Snapshot ID: `aAG8BAAAAADSk9xCZycCXDswaDvDGrUL`

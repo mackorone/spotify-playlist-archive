@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Юля Юріна
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,746 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,747 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Шукай](https://open.spotify.com/track/3B6aeTxEoPhnRrlcDSs9Yd) | [Nasù](https://open.spotify.com/artist/4nTaBp6sSDtN96YuVxsGFV) | [Шукай](https://open.spotify.com/album/3fXrYxNmSpsfRl1BlvzSSt) | 2:53 |
 | 50 | [VDYKH VYDYKH](https://open.spotify.com/track/16u8COh80xXV2tIyJbt5UX) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [VDYKH VYDYKH](https://open.spotify.com/album/6OflVezFNiVro54iu7O5MV) | 4:44 |
 
-Snapshot ID: `Z+xT1AAAAAAJbeMQYmN8j5/nxdkEph9S`
+Snapshot ID: `Z+xT1AAAAABmDB0INoMvIyxNn7zDJlpx`

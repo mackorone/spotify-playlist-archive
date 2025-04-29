@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,273 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,272 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 43 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 |
 | 44 | [Talk To Me \- Instrumental](https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
 
-Snapshot ID: `ZIsWiwAAAABm7yVVVhYOSgNgHvyxpPiO`
+Snapshot ID: `ZIsWiwAAAAAMlDtRPndGCP9Q0I//UmaS`

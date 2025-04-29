@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,838 songs - 3 day 23 hr 24 min
+1,840 songs - 3 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Dimman](https://open.spotify.com/track/6c14bUlL2R9l4UKPWrxMUY) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Dimman](https://open.spotify.com/album/0QBceTky96ytILAsRJBDFU) | 2:15 | 2024-05-09 | 2024-06-07 |
 | [Dimman \(feat\. Lokal\)](https://open.spotify.com/track/2MYj0zSua8Oz430UyXZc0K) | [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob), [Lokal](https://open.spotify.com/artist/1Gtx7uxcwFWqBHt9OeESgj) | [Dimman \(feat\. Lokal\)](https://open.spotify.com/album/22vTRvUZdtlE61AqsvkOkZ) | 3:22 | 2022-01-27 | 2022-02-06 |
 | [Din blomstertid nu kommer](https://open.spotify.com/track/7kFd9RMRnobIXL3CNtS968) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Din blomstertid nu kommer](https://open.spotify.com/album/6kxkTvgmJu4phBuW10rdUZ) | 3:15 | 2022-09-15 | 2022-09-30 |
+| [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 |  |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Din Sång](https://open.spotify.com/track/07V09KDvkEzG77VHbfaCNg) | [Kevin Jansson](https://open.spotify.com/artist/2MMvUIvS0qebMm75cT8I4y) | [Din Sång](https://open.spotify.com/album/0HStWEVo5p03Jc5MeXMNDF) | 2:41 | 2024-04-25 | 2024-05-24 |
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-05-23 | 2024-06-21 |
@@ -575,6 +576,7 @@
 | [FÖRSTÄRKARE](https://open.spotify.com/track/1q3g6ZgG0vIIZGQduiPQIz) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at) | [DRAKE](https://open.spotify.com/album/6zl7q48ci6eb1igIK7k0hG) | 3:49 | 2024-03-14 | 2024-04-21 |
 | [FÖRSTÅ MIG](https://open.spotify.com/track/0m1zaz7s5g5BWNL5senAKL) | [Chelsea](https://open.spotify.com/artist/7cpD0IpxFzM58WpbR6VZU6), [D\-MONEY BEATZ](https://open.spotify.com/artist/6DFNFYbFnoaORc90hIYhPT) | [FÖRSTÅ MIG](https://open.spotify.com/album/5uvn0ISDAwlY4Q2IdigdaQ) | 2:30 | 2024-05-02 | 2024-06-01 |
 | [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-12-29 |
+| [Förstöraren](https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Förstöraren](https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD) | 2:26 | 2025-04-24 |  |
 | [FÖRSÖKER LE](https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [FÖRSÖKER LE](https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre) | 3:49 | 2023-09-14 | 2024-01-19 |
 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [GASA & FÖRSVINNA](https://open.spotify.com/track/1gqpC4fhRcrzFU78N2VPyY) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [GASA & FÖRSVINNA](https://open.spotify.com/album/37830R470z3Zc89fK1QRl1) | 3:05 | 2024-05-30 | 2024-06-28 |
@@ -897,7 +899,7 @@
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
-| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 |  |
+| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-04-29 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
@@ -1584,7 +1586,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
-| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 |  |
+| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 | 2025-04-29 |
 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-11-17 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The only thing](https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4) | [Jarn](https://open.spotify.com/artist/4J2RKCwmEVYJlkbZvKJgW9) | [The only thing](https://open.spotify.com/album/5QdGTPzyfzPaDcUUhWga78) | 3:17 | 2024-01-25 | 2024-02-23 |

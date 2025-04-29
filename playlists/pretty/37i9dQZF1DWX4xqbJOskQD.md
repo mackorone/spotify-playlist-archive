@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 12 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 13 | [Marie](https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Bachelors \- The Decca Years](https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab) | 2:19 |
 | 14 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
-| 15 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
-| 16 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
+| 15 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
+| 16 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
 | 17 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
 | 18 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
 | 19 | [The Object Of My Affection \(with Jimmie Grier\) \- 78 rpm Version](https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [That's How Rhythm Was Born](https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj) | 3:21 |
 | 20 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
-| 21 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
-| 22 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
+| 21 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
+| 22 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
 | 23 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 24 | [I'm Forever Blowing Bubbles](https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:36 |
 | 25 | [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 2:37 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1mhOW7fYuOTEv1oJxqgXJG) | [Jon Hendricks](https://open.spotify.com/artist/2Kn5swSfLmUU2WEJVlQvJY), [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy), [Lambert, Hendricks & Ross](https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg) | [Sing A Song Of Basie](https://open.spotify.com/album/2TmARLhB8VuTpm7y1nhrY7) | 2:27 |
 | 45 | [\(Up A\) Lazy River](https://open.spotify.com/track/5g2h9vP1ZU1eGVhVZa0kms) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Board Of Directors](https://open.spotify.com/album/2F2pS1PP3ZPhhxhsL6aRfU) | 3:28 |
 
-Snapshot ID: `ZIsRswAAAAAljPeNryXN6j9T5U4Y1wgS`
+Snapshot ID: `ZIsRswAAAABBMHpZGZ26LSou4mOqKvr/`

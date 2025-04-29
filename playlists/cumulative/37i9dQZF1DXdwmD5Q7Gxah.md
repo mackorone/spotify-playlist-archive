@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: 2hollis
 
-3,318 songs - 7 day 12 hr 46 min
+3,319 songs - 7 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2353,6 +2353,7 @@
 | [RIP](https://open.spotify.com/track/2qeRnFb42RVzv2NP6s8vG9) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [RIP](https://open.spotify.com/album/49IpmVlrsOt5Pw0whYZKhI) | 3:45 | 2025-02-22 |  |
 | [ripped jeans](https://open.spotify.com/track/1hkrrzCHWx3SwwrBp3i9h7) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/5O7x0cAksWA4GPvOCgsu0P) | 2:02 | 2020-05-06 | 2020-08-20 |
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-02-10 |
+| [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-28 |  |
 | [roadkill](https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [roadkill](https://open.spotify.com/album/0yt0yQH4XcdyihCE4qCxPm) | 2:56 | 2024-05-31 | 2024-06-22 |
 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2024-05-03 | 2024-06-29 |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-11-28 | 2022-12-15 |

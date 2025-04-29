@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 56297,
+  "num_followers": 56302,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/IScQAAAAA2nYo4Kr6QS2qva0YYaFl0",
+  "snapshot_id": "Z/IScQAAAAC1vG3MeO73kv2hbNY9kvDI",
   "tracks": [
     {
       "added_at": "2025-04-06 05:34:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "I Shall Know Him",
         "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 314373,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Bishop Paul Morton - Let It Rain",
-        "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
       "artists": [
         {
-          "name": "Bishop Paul S. Morton, Sr.",
-          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 509466,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
+      "duration_ms": 307733,
+      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1659,6 +1659,22 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Bishop Paul Morton - Let It Rain",
+        "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        }
+      ],
+      "duration_ms": 509466,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1687,22 +1703,6 @@
       "duration_ms": 603749,
       "name": "The Blood Is Still The Blood",
       "url": "https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 307733,
-      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
     },
     {
       "added_at": "2025-04-06 05:34:41",

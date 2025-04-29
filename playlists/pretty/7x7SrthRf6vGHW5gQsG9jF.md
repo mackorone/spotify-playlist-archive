@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 859 songs - 2 day 7 hr 4 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 873 songs - 2 day 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -867,5 +867,19 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 857 | [Death Metal Cheese Cake](https://open.spotify.com/track/1MQtK8wmVdStnfiKg7plaZ) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 4:12 |
 | 858 | [向こう髪](https://open.spotify.com/track/02XUiOvk37zmDi8SpI2ogu) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [向こう髪](https://open.spotify.com/album/0LVCjL4xOpumA9EczzKg4N) | 4:51 |
 | 859 | [flood warning](https://open.spotify.com/track/3ANkAAXO6v1dKhokGxYBD2) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Bitter Sweet Idealism](https://open.spotify.com/album/4siQNQ1MtkupIf7RHxq4gG) | 2:54 |
+| 860 | [glimmer](https://open.spotify.com/track/2oiW5hme6rnJXR64i1oVhU) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [あめにながす](https://open.spotify.com/album/3GcmNN6Vh6LG0hzEWsRZnn) | 3:14 |
+| 861 | [lightning strikes](https://open.spotify.com/track/38zJkQa8Xku43j4ZGdFGUb) | [Winnie](https://open.spotify.com/artist/597CBjNeUwp1UEv5nKj1PJ) | [Nostalgic Evolution](https://open.spotify.com/album/2t5MPNuGJP2vTYZ4Aq8CUt) | 3:18 |
+| 862 | [夜紛い](https://open.spotify.com/track/0oP2Xuft7MjxRZrSCTwyr6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 3:43 |
+| 863 | [イントロは終わり](https://open.spotify.com/track/4ipbJYm3U1qnkCTmVmQrHc) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夜天邂逅](https://open.spotify.com/album/6m70zkoxFXufdB4plRY327) | 2:59 |
+| 864 | [POLYHEDRON \- instrumental](https://open.spotify.com/track/2JDr3VMYsKfKs6i9B2a5AS) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [POLYHEDRON](https://open.spotify.com/album/2hkLGjl02N4Uji3i3eIx04) | 2:45 |
+| 865 | [スイマー](https://open.spotify.com/track/5JZ6UlNTjBbK7zk2a4nnjQ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [寓話](https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb) | 3:23 |
+| 866 | [Mabutano Ura](https://open.spotify.com/track/2ztDPaGLwfI5Gx9j5jQeKf) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [memosepia / gray](https://open.spotify.com/album/090bgQZzZVsYNCj9FnwG17) | 3:19 |
+| 867 | [\(please\) replay](https://open.spotify.com/track/7eh7CcDWE2Jf1Fnbq4QXhX) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Evergreen](https://open.spotify.com/album/2wwFM33IPElnC9xA657HTT) | 3:08 |
+| 868 | [lilac slumber](https://open.spotify.com/track/60ggaBC67SKml2WPw1kqUj) | [Annabel](https://open.spotify.com/artist/5W0JUdTpRRurSqR61yJNNc) | [fall into a lilac slumber](https://open.spotify.com/album/1kQkjnFBBeWrZabULPNzc6) | 4:11 |
+| 869 | [レプリカント](https://open.spotify.com/track/4QJndoYmN9io3P7l3dAGyt) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:37 |
+| 870 | [Parallel World \- Cover](https://open.spotify.com/track/1q2iUd6akP5pdbEqZkeb0C) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Parallel Waves](https://open.spotify.com/album/5cOLyYDyxDJ1e2if51y5kS) | 4:35 |
+| 871 | [perfect blue](https://open.spotify.com/track/58CzkZkRHmP2sf5H5jRklc) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 3:31 |
+| 872 | [nonsense song](https://open.spotify.com/track/6l4p35w3y6YAKD7slM9LK6) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 4:02 |
+| 873 | [A Little Happiness \- yuigot Remix](https://open.spotify.com/track/7zKcCqjaJMW2H5Qf37kRs7) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 2:38 |
 
-Snapshot ID: `AAAE/eVxnXTRfUipblDfP862Mwo5k75i`
+Snapshot ID: `AAAFC3+zypMRJ6vvcK/KkMxmPDkybMZV`

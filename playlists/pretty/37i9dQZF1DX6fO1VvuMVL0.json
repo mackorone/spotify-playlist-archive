@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 101445,
+  "num_followers": 101513,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZouOvQAAAADCA747XsRrovdDQacH4key",
+  "snapshot_id": "ZouOvQAAAAAPLNquBBsYTGQss7Rzy9/7",
   "tracks": [
     {
       "added_at": "2024-07-08 07:01:17",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 338732,
       "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
       "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell",
-          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Angle Eyes",
-      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Very Cool + Tranquillity",
         "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 486040,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
+      },
+      "artists": [
+        {
+          "name": "Dave Pell",
+          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "Angle Eyes",
+      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Subconscious-Lee",
+        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Fishin' Around",
+      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Tangents In Jazz",
         "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Mellow Sound Of Stan Getz",
-        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Coolin'",
         "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Mellow Sound Of Stan Getz",
+        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1191,22 +1207,6 @@
       "duration_ms": 306200,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/4KGcpnAbGlvVgd2HFQvexI"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Subconscious-Lee",
-        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Fishin' Around",
-      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
     },
     {
       "added_at": "2024-07-08 07:01:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,391 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,754 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [The Movies](https://open.spotify.com/track/0Li9CsdenHUFinfe4S63Sl) | [Maria Ellis](https://open.spotify.com/artist/76NLTi5WmCsLWxTJ9qnJWV), [Riott](https://open.spotify.com/artist/5aXzVB0iHC8Tqmfb64DQk8) | [The Movies](https://open.spotify.com/album/5PR6MaGhNu6MqhHJRt5H14) | 2:32 |
 | 99 | [Run!](https://open.spotify.com/track/4cLcM6BBry72LwHZEvw6hn) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Run!](https://open.spotify.com/album/43zaOPgE3J5RmI4SUVuxjM) | 3:06 |
 
-Snapshot ID: `aAu3MQAAAACVgic+CtXx0s7cZwdvzIkT`
+Snapshot ID: `aAu3MQAAAAB8RTCVHHQT3d1BJWON8ws7`

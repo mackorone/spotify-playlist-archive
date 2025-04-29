@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633487,
+  "num_followers": 633511,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADLPsF/wfiqaT9idJRu0+4t",
+  "snapshot_id": "aA1zgAAAAACDFduhSp8RuySLnxwbJxYM",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigbang 03",
-        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 218618,
-      "name": "Forever With U (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+      "duration_ms": 235666,
+      "name": "Always - Japanese Version",
+      "url": "https://open.spotify.com/track/06NMu4JoNGm61R4y2k53hR"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF BIGBANG 2006-2014",
-        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Always - Japanese Version",
-      "url": "https://open.spotify.com/track/06NMu4JoNGm61R4y2k53hR"
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
     },
     {
       "added_at": null,

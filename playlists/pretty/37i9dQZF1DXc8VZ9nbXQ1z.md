@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,018 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,120 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 99 | [Each & Every Day \(Life Goes On\) \(Thakzin Remix\)](https://open.spotify.com/track/75zr37IwufXHy8ZgjJgYGh) | [Jerk House Connection](https://open.spotify.com/artist/0FEoVAvN3q5VWY4emxpFNK), [Akram Sedkaoui](https://open.spotify.com/artist/5c6TLBxjtCdRluAm4bAqUr), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Each & Every Day \(Life Goes On\) \(Thakzin Remix\)](https://open.spotify.com/album/0ZTNyxcdhWKBqmFbYyJpbm) | 7:32 |
 | 100 | [Waves \- Enoo Napa Remix](https://open.spotify.com/track/0VaHtlHiUEWPAHqrRIHkYt) | [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac), [Jacko](https://open.spotify.com/artist/2eGQ2U7oSfLP26Bl9nBCKA), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Waves \(Enoo Napa Remix\)](https://open.spotify.com/album/5ZQuvOnCp38opDe5Et1EK6) | 6:53 |
 
-Snapshot ID: `aAn8CAAAAACPjIk2i/JYCNzjZ1LQN6xN`
+Snapshot ID: `aAn8CAAAAACQTTJi4BrUN+Lpa1IiCNXK`

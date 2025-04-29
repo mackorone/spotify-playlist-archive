@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,639 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,640 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [It’s The Little Things](https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [It's The Little Things](https://open.spotify.com/album/12ZwQQvd4FX3DgZODo3lSN) | 3:50 |
 | 50 | [Bigger Things](https://open.spotify.com/track/6kOEXPHnlOd93UrDfBgceB) | [Nathan Lamont](https://open.spotify.com/artist/6eEOnmBkhTlN4G8Ch16tU8) | [Bigger Things](https://open.spotify.com/album/4rKpOUilnHP75kEGWLfjE2) | 2:55 |
 
-Snapshot ID: `aApD7AAAAAA0LLkbSwFjbkGeZHvLW+C4`
+Snapshot ID: `aApD7AAAAABRIg27fq5E+NtNdWbQlVqT`

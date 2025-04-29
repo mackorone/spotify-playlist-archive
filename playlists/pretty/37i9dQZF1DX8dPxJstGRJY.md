@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,753 likes - 72 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,861 likes - 72 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 71 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 72 | [These Are Special Times](https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/2PG4FagRQNckeShV5upT71) | 4:08 |
 
-Snapshot ID: `aApXwQAAAAC0edRaJen6wlhbWVRXkROU`
+Snapshot ID: `aApXwQAAAACN3775XAiHgkzxrsNi8F9u`

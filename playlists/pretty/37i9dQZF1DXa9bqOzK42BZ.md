@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,572 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,611 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Nitendee Muujiza](https://open.spotify.com/track/2LaBKtwYXJUcezbtsTm6mv) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nitendee Muujiza](https://open.spotify.com/album/6JTwPg2DEXufA77WVTbpZv) | 7:39 |
 | 100 | [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 |
 
-Snapshot ID: `aArQ0gAAAABfEMfqsBhdKAGf/E3qcz0U`
+Snapshot ID: `aArQ0gAAAABqNVh6wQndYcAt9RRsUSTJ`

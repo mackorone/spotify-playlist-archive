@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,720 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,735 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Parikymppisii](https://open.spotify.com/track/1W4G6W0krHTQTxOvt6MeIe) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ), [Will\-Jam](https://open.spotify.com/artist/5EFzpM1UFYM1uJqH6bEnq8) | [Parikymppisii](https://open.spotify.com/album/2C3PEDHQokDewe6opJU8wT) | 2:56 |
 | 50 | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 |
 
-Snapshot ID: `aA4ApwAAAAA15PrHI0czLhTqlDzWvMcK`
+Snapshot ID: `aA4ApwAAAACo1rXW/y2rEU2vHVKd3Y4N`

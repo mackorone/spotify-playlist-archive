@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,380 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,430 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
 | 60 | [Happier \- Tiësto’s AFTR:HRS Remix](https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Happier \(Tiësto’s AFTR:HRS Remix\)](https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23) | 3:36 |
 
-Snapshot ID: `ZqEINAAAAACk7btWHo2464fhKulG4Xt0`
+Snapshot ID: `ZqEINAAAAABU88oeIT7p3YSs5qClFicz`

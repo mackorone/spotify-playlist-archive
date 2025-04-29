@@ -4,7 +4,7 @@
 
 > smooth, healing, soulful 🌱 the best of Jazz House, featuring dublon
 
-102 songs - 7 hr 5 min
+103 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 |  |
 | [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 |  |
+| [Havana Jazz](https://open.spotify.com/track/1dfsalIhl3q8TN7h2JnTtO) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu), [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Havana Jazz](https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl) | 3:50 | 2025-04-29 |  |
 | [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2025-02-21 |  |
 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 | 2025-03-21 |  |
@@ -67,7 +68,7 @@
 | [Mari Ye Phepha \- Kedi Cruise Remix](https://open.spotify.com/track/3oFujGX5ogNeYA7Efr3AYs) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Jazz Cruise Series Vol\. 1](https://open.spotify.com/album/05PU51SCYUrmmFgV6Qvmvs) | 9:58 | 2025-02-21 |  |
 | [Metropolis](https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI) | [AJ Hamilton](https://open.spotify.com/artist/6JvOEBar34Q5TQulmpLj3V) | [Metropolis](https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9) | 3:54 | 2025-02-21 |  |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/1oaW8KNT8qcEb4PsnFjFXm) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 |  |
-| [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 |  |
+| [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 | 2025-04-29 |
 | [Nectar](https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Nectar](https://open.spotify.com/album/2e7fjwbhErSDkxjs2WQP4p) | 2:15 | 2025-03-07 |  |
 | [Newness](https://open.spotify.com/track/2lcakwd3OkGq63LW9lfZMv) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Newness](https://open.spotify.com/album/0klrfwgPj1Yxed3OuOYmRE) | 6:02 | 2025-02-21 |  |
 | [nice to meet u](https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [untitled](https://open.spotify.com/album/3zuMVGJKBDFOehhzatUuV7) | 3:50 | 2025-02-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Arcy Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,670 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,637 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Skylight](https://open.spotify.com/track/4cK3rXOwUNJAVcbrpe85pc) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Skylight](https://open.spotify.com/album/4r4q428IwjBvFixAz62e4K) | 3:04 |
 | 100 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 |
 
-Snapshot ID: `aAsI9AAAAABHNB/IxRsJYnpan90TvdYk`
+Snapshot ID: `aAsI9AAAAABDJi6QbDeztdd2OGdNpe1Q`

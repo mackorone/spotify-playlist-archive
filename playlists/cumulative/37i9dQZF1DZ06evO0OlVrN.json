@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113606,
+      "name": "Mi Talisman",
+      "url": "https://open.spotify.com/track/4CylqFdOW39IKdxZ0zO3Oc"
+    },
+    {
+      "album": {
         "name": "30 Exitos Inmortales",
         "url": "https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA"
       },

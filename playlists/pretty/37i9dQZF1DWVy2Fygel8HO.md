@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,520 likes - 81 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,555 likes - 81 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,25 +19,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 9 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
 | 10 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
 | 11 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
-| 12 | [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 |
-| 13 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 |
-| 14 | [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 |
-| 15 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
-| 16 | [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 |
-| 17 | [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 |
-| 18 | [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 |
-| 19 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
-| 20 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
-| 21 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 |
-| 22 | [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 |
-| 23 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 |
-| 24 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 |
-| 25 | [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 |
-| 26 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 |
-| 27 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
-| 28 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 |
-| 29 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
-| 30 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
+| 12 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 |
+| 13 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
+| 14 | [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 |
+| 15 | [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 |
+| 16 | [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 |
+| 17 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 18 | [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 |
+| 19 | [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 |
+| 20 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 |
+| 21 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
+| 22 | [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 |
+| 23 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 |
+| 24 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 25 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 |
+| 26 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
+| 27 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 |
+| 28 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
+| 29 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 |
+| 30 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 |
 | 31 | [Until We Meet Again](https://open.spotify.com/track/3FnodjeI8yW2WgbasYVgnP) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Until We Meet Again](https://open.spotify.com/album/6H5ndDLpcwgYXnEegDh9ye) | 2:35 |
 | 32 | [Overseas](https://open.spotify.com/track/6ytsH0ChHAoR4Se9vgACwZ) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Overseas](https://open.spotify.com/album/0hflEhJMAriEiH7ycnM8kn) | 2:29 |
 | 33 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 80 | [7Am\. Mattina](https://open.spotify.com/track/4XCllplNqVdOZQXn28Xe83) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [7Am\. Mattina \(Dreaming of Chopin\)](https://open.spotify.com/album/1Hxzv6PAmHIa1Inn9mWVhM) | 3:58 |
 | 81 | [Renewal](https://open.spotify.com/track/2STf9iJMbxyXZQeea5lrdG) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Renewal](https://open.spotify.com/album/3zfRRxr2fMQNGUatRbhpNL) | 2:19 |
 
-Snapshot ID: `aAumswAAAABbQnvsx/Oq+7vHgxuk3bna`
+Snapshot ID: `aA+SjwAAAACPQfwl+6hhes3V66hu0WMd`

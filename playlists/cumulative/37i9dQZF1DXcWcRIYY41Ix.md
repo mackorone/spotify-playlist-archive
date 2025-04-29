@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: GUADA.
 
-809 songs - 2 day 0 hr 9 min
+810 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-06 | 2023-02-18 |
 | [hay algo en esa luz](https://open.spotify.com/track/0tAW9w9cW7Xw1a3GB29V3c) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [hay algo en esa luz](https://open.spotify.com/album/4kCBNsvAskcnY6IOwCxnrA) | 3:20 | 2025-01-10 | 2025-02-28 |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |
-| [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 |  |
+| [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 | 2025-04-29 |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-09-29 | 2023-12-14 |
 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 | 2022-11-25 | 2022-12-20 |
 | [Hoy no tengo nada que hacer](https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [La Pena](https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM) | [Hoy no tengo nada que hacer](https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ) | 4:11 | 2024-03-01 |  |
@@ -366,6 +366,7 @@
 | [La Profecía](https://open.spotify.com/track/4SalVML4kHX3Kjlbq24EgZ) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La Profecía](https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [La Quimerita](https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [La Quimerita](https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9) | 3:10 | 2021-12-24 | 2022-01-13 |
 | [la raíz](https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la raíz](https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh) | 3:44 | 2022-10-15 |  |
+| [La reacción sexual](https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP) | [Pablo Und Destruktion](https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd) | [Te quiere todo el mundo](https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI) | 3:20 | 2025-04-24 |  |
 | [La recena](https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq) | [Ángela González](https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X) | [La recena](https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u) | 2:54 | 2025-02-13 | 2025-03-03 |
 | [La Serrana](https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [La Serrana](https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS) | 4:25 | 2024-01-26 | 2024-06-01 |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |

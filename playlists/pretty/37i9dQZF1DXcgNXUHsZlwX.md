@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,232 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,248 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 46 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 |
 | 47 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 |
 | 48 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 |
-| 49 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 |
+| 49 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
 | 50 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 |
-| 51 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
+| 51 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 |
 | 52 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
 | 53 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 |
 | 54 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 82 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
 | 83 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
 | 84 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 |
-| 85 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
-| 86 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 |
-| 87 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
+| 85 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 |
+| 86 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
+| 87 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
 | 88 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 |
-| 89 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
-| 90 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
-| 91 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
-| 92 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 |
-| 93 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 |
+| 89 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
+| 90 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
+| 91 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
+| 92 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 |
+| 93 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 |
 | 94 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
 | 95 | [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 |
 | 96 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 |
 | 100 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 |
 
-Snapshot ID: `aAu5ZQAAAACK667fdlUJtXC3i1bTgeXq`
+Snapshot ID: `aAu5ZQAAAAD4Ce+ug0If8l8el4uNGTcn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 緩緩 \(Huan Huan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,117 likes - 79 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,119 likes - 79 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 78 | [早安](https://open.spotify.com/track/6RG2TmuPNynYrecZbBGKTh) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [早安](https://open.spotify.com/album/6yqp5T9naNRKg8ubVy5Wjo) | 3:31 |
 | 79 | [拖延症\*](https://open.spotify.com/track/0EqqcZfTYGR2EZwFHfjMvj) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [Little Battle](https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia) | 3:00 |
 
-Snapshot ID: `aApgHgAAAAAZ2M8rv0U+0N0AYGd4yucD`
+Snapshot ID: `aApgHgAAAABBGKA8zRavXCrk3oDAziYY`

@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-235 songs - 9 hr 54 min
+236 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bebe](https://open.spotify.com/track/3EZUSLfczqLsAs3Uxitand) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Bebe](https://open.spotify.com/album/2XqyLXSNdseCNG4JfB1EEy) | 2:24 | 2024-06-28 | 2024-10-25 |
 | [BeBe](https://open.spotify.com/track/4euJMz01a54OGEBZUOTKmf) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [BeBe](https://open.spotify.com/album/2sEnBcFjdLBOCgSF1urxeW) | 1:26 | 2024-11-25 | 2025-02-25 |
 | [Bedroom](https://open.spotify.com/track/4ynOzZ1rvjeqTSZ7ztEbBa) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Bedroom](https://open.spotify.com/album/63PBeFVYtPh7UBvD9zH2ES) | 2:36 | 2024-12-16 | 2025-02-25 |
-| [BEI MIR](https://open.spotify.com/track/03P56FVMC0MYjFCHq4iEyW) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [BEI MIR](https://open.spotify.com/album/4FxJz86FZTSdffBq8q8xsi) | 2:56 | 2024-06-28 |  |
+| [BEI MIR](https://open.spotify.com/track/03P56FVMC0MYjFCHq4iEyW) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [BEI MIR](https://open.spotify.com/album/4FxJz86FZTSdffBq8q8xsi) | 2:56 | 2024-06-28 | 2025-04-29 |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 | 2025-04-18 |
 | [Benz Series Black](https://open.spotify.com/track/4QuzAPUjXp7Er4gCUUkhUr) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX) | [Amo aller Amos](https://open.spotify.com/album/65hxxHs6vhOoQnzQe2eefr) | 2:17 | 2024-11-11 | 2024-12-10 |
 | [Best Life](https://open.spotify.com/track/5I4SsIgLyQzduQsxrs09l7) | [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [Best Life](https://open.spotify.com/album/2rx2bUiHugP0iBBtqkInuZ) | 2:33 | 2024-08-12 | 2024-08-27 |
@@ -131,6 +131,7 @@
 | [Lass es zu](https://open.spotify.com/track/2OcddgkDq1HKmtyRy41iYw) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Lass es zu](https://open.spotify.com/album/39927gRpsBJCzUrlGJiFP6) | 2:34 | 2024-08-01 | 2024-08-13 |
 | [Late Night Call](https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Late Night Call](https://open.spotify.com/album/6PAVsTMJ6JxwvKt3v9YfRs) | 2:18 | 2025-03-24 |  |
 | [Leben lang](https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Leben lang](https://open.spotify.com/album/1q0bHzvyiDY0cEH6ymaWs5) | 2:12 | 2024-06-28 | 2024-09-10 |
+| [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-28 |  |
 | [Limousine](https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Limousine](https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12) | 2:50 | 2024-10-10 |  |
 | [Loro Piana](https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Finessim](https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs) | [Loro Piana](https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU) | 2:31 | 2025-02-24 | 2025-02-28 |
 | [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/2mnkgopUgJq09Na8JXgMIh) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:37 | 2024-06-28 | 2024-07-27 |

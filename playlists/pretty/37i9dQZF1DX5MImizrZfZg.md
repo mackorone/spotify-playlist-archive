@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,510 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,540 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Stone Groove](https://open.spotify.com/track/6hJ2hxampO4cZQN5bTO4p1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/5WBT4baeyxgu2TltzMiMZr) | 4:45 |
 | 50 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/5aldZnsN6RAMd5YOn4bdXW) | 5:07 |
 
-Snapshot ID: `ZowuWAAAAACb5jEOOhO2jO0DldZZsJfR`
+Snapshot ID: `ZowuWAAAAABz91IfysIcRGx4k/0ZH6Gj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Tigapagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,195 likes - 119 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,194 likes - 119 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 118 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 119 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 
-Snapshot ID: `Zv8uQgAAAABa50NuEOLOU3gZJOHEY58N`
+Snapshot ID: `Zv8uQgAAAAD5KjAVyLdjFAXozfR18sIv`

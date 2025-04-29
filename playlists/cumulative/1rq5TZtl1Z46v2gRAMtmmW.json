@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225726,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+    },
+    {
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe"
       },

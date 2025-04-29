@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,108 likes - 207 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,216 likes - 207 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 206 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 |
 | 207 | [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 |
 
-Snapshot ID: `Z+08/QAAAADxL44l1iZefgw09uDOgHqg`
+Snapshot ID: `Z+08/QAAAABlcHx8W3NzPkSa5MPz8J+4`

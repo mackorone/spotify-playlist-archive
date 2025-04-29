@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,754 likes - 50 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,769 likes - 50 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 39 | [Rag Hemant](https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:51 |
 | 40 | [Raga Purvi](https://open.spotify.com/track/3MggyCyjiU4wxbKtrgV6kn) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 9:46 |
 | 41 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 |
-| 42 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
+| 42 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
 | 43 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |
-| 44 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
+| 44 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
 | 45 | [Raga Ahir Bhairi](https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8) | [Paritosh Seal](https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:20 |
 | 46 | [Composition in Vilambit Jhaptaal](https://open.spotify.com/track/4XV2bfxSunV3kZuy476Rhw) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Samwad](https://open.spotify.com/album/6A9DrDLZ91CaWxpW55YvKV) | 19:53 |
 | 47 | [Alaap Jor Jhala \- Raga Basant Mukhari](https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Golden Raaga Collection II \- Pandit Shiv Kumar Sharma](https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV) | 17:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 49 | [Rag Marwa, Part 1](https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:25 |
 | 50 | [Tilak Kamod](https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 20:36 |
 
-Snapshot ID: `Z9Eq7QAAAACpiKTHfZyOPWZVynN/A4+9`
+Snapshot ID: `Z9Eq7QAAAAA5OdVK3zTbxhToQoSIQXlB`

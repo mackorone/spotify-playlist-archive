@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lorde, Benson Boone, ENNIO und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,389 likes - 103 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,401 likes - 103 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 102 | [Is This What You've Been Waiting For?](https://open.spotify.com/track/5GQcyVcnALfm9IU2uGmm0p) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Is This What You've Been Waiting For?](https://open.spotify.com/album/7D76N6Tx5MdC6h5itARNT0) | 3:34 |
 | 103 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 
-Snapshot ID: `aAtaogAAAADfzVvwfwV3pRGZbiQ5JN3d`
+Snapshot ID: `aAtaogAAAAA5HlbmbyfJ+mWn5mMEz5IS`

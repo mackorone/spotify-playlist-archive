@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Froukje & S10, Lorde, Noano & Jonna Fraser, MEROL & Elmer en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,996 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,007 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 |
 | 90 | [Midnight Oil](https://open.spotify.com/track/4sTNEvndN8GJONJmbCRpuo) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Midnight Oil](https://open.spotify.com/album/1MnuQFfuMKUMHIphojuo9J) | 3:34 |
 
-Snapshot ID: `aAsgsQAAAADmcHJWHFqdMPiN2zJag81g`
+Snapshot ID: `aAsgsQAAAABz2KIBIbSg3qzzmrvcdgzI`

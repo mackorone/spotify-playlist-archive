@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,472 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,428 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [charlie](https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [maybe i already am](https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz) | 3:10 |
 | 100 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 |
 
-Snapshot ID: `aAsI9wAAAAAAKltuIqvxwQVleyJTacbu`
+Snapshot ID: `aAsI9wAAAAAwf7RhoI6EvsQwBOPlTJvR`

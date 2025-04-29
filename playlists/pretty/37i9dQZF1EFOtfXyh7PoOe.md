@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 115 | [Dear Future Lover](https://open.spotify.com/track/4jxRhpP155IQej01WSLBfa) | [William Chan](https://open.spotify.com/artist/0lTHF5hgNUeMetVJEBWwvx) | [Dear Future Lover](https://open.spotify.com/album/6OGO9961SlvI3k0uVdwEL2) | 2:46 |
 | 116 | [Alright For Now](https://open.spotify.com/track/1mtP0j7jW7ItT0ZgJz1313) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:49 |
 | 117 | [Flame Princess](https://open.spotify.com/track/4hMh7NnIllO5HxkTJtbIjG) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Flame Princess](https://open.spotify.com/album/6VqvodNkoL0C6DNu0wENXh) | 2:33 |
-| 118 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 |
-| 119 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
+| 118 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
+| 119 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 |
 | 120 | [Good Luck](https://open.spotify.com/track/3zkCJ7q1xabET6Q2GMi3ND) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Good Luck](https://open.spotify.com/album/1bzhRkHXfFic3ZXK2W7h7n) | 2:45 |
 | 121 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 |
 | 122 | [Happy](https://open.spotify.com/track/4o0gKIu444E0FvzORvAyDL) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Happy](https://open.spotify.com/album/6h1ja8BFO1R6qn6Sn8JE6B) | 2:11 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 125 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 126 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Abv7iAAAAAD7JxpQWWU3CF13Mm3zyRjR`
+Snapshot ID: `AbwBCgAAAAC0MxYJJEIu2aTPrXHBs4zI`

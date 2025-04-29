@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWxkwAAAACLl6nYxf2nTHciZ6R21tSD",
+  "snapshot_id": "aAWxkwAAAAAY4NzaLTGukzKCpGztZRVp",
   "tracks": [
     {
       "added_at": "2025-04-21 02:46:43",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "Scared Of Loving You",
         "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/5fhJHv91Y71lXFzrRMw9ku"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 277299,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/4joCdZ76bt2OQTqYMbizJI"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/5fhJHv91Y71lXFzrRMw9ku"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 277299,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/4joCdZ76bt2OQTqYMbizJI"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "Highlights",
         "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
-      },
-      "artists": [
-        {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
       "artists": [
         {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 186334,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+      "duration_ms": 186334,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Give Me Everything",
-        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 192542,
-      "name": "Give Me Everything",
-      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "The Phosphorescent Blues",
         "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Give Me Everything",
+        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 192542,
+      "name": "Give Me Everything",
+      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Sitting Room",
+      "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "You Belong To Somebody Else",
         "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
-      },
-      "artists": [
-        {
-          "name": "Taylor Manns",
-          "url": "https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9"
-        }
-      ],
-      "duration_ms": 193779,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,326 likes - 26 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,325 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 25 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 |
 | 26 | [White Day \(IDOL: The Coup\)](https://open.spotify.com/track/0TRHKlHox8YVaBCJ6cUlGJ) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [White Day \(IDOL: The Coup\)](https://open.spotify.com/album/4Dm7MfVTVTr7toMxqZ9r9a) | 3:30 |
 
-Snapshot ID: `ZIxV8QAAAAAc5TzZcq6BsLDWOHe6yHAi`
+Snapshot ID: `ZIxV8QAAAADlRpAd8Byhujx8mpzBbou3`

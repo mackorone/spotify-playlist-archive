@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: GAI 荄 \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,865 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 | 75 | [Teeth To Sky](https://open.spotify.com/track/2sDd2N5vVDrz4QxvgsmOQn) | [Guiltless](https://open.spotify.com/artist/6LbnbvP0S13LSl8JsBJ9EP) | [Teeth To Sky](https://open.spotify.com/album/5i8eJRnoHlhEqsYKJKeM1S) | 4:51 |
 
-Snapshot ID: `aAhl5QAAAAAM30V9oBH90nvlIds1BYQo`
+Snapshot ID: `aAhl5QAAAACLDoVMXLQD6bmml/ZcEnxC`

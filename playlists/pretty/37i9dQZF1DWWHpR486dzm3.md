@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa paluun tehnyt Tiisu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,609 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 81 | [Mitä Jos](https://open.spotify.com/track/3Zz8k4CBzApCU2Smo8DcuY) | [Alia Selene](https://open.spotify.com/artist/5tfPE6p57No6EgjzfV5Tyc) | [Mitä Jos](https://open.spotify.com/album/6N4FzCnyV961lRkn9tArNu) | 4:19 |
 | 82 | [Oma napa](https://open.spotify.com/track/5W6jrVSwtkVoPbXayfJWJD) | [Joku puhuu](https://open.spotify.com/artist/0KFVMp09QQYB1SOuCwpRQA) | [Oma napa](https://open.spotify.com/album/1cKHl9DDLHCwy47QA81bze) | 3:19 |
 
-Snapshot ID: `aA4BswAAAACkFm9lr77ahJQbP+unO7xz`
+Snapshot ID: `aA4BswAAAACYncyOo+nQXT6k9YY8SO0E`

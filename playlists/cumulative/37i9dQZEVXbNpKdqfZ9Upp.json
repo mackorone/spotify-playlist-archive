@@ -15168,7 +15168,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -30924,7 +30924,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 175066,
       "name": "Me Vas a Echar de Menos",
       "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
@@ -45318,7 +45318,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -52653,6 +52653,24 @@
     },
     {
       "album": {
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121392,
+      "name": "TUTA",
+      "url": "https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y"
+    },
+    {
+      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -57228,7 +57246,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
@@ -58446,7 +58464,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 236482,
       "name": "\u00bfPor Qu\u00e9 Lloras? (Mar\u00eda Magdalena)",
       "url": "https://open.spotify.com/track/7xgNaNd0nhNYXzL51XkpEn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Fool Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,359 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,364 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 |
 | 80 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 |
 
-Snapshot ID: `aApD6gAAAAAjizBAhFc8nOLG5xOC70hW`
+Snapshot ID: `aApD6gAAAACJJYfSmStnJ/O1QmXMuNX8`

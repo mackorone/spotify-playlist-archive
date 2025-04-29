@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiago Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,231 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,290 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Meu Jeito Moleque de Ser / O Amor Não Tem Culpa / Meu Amor \- Ao Vivo](https://open.spotify.com/track/0DbzBXn0ez4P6NhFWWFpuA) | [Grupo Buteco](https://open.spotify.com/artist/1PHslMIRDsQloXt6ZyIb7E), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [O Melhor Buteco do Mundo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1fC9IoCdiIFuIfIjWnI096) | 6:09 |
 | 75 | [Só Pro Meu Prazer / E Agora \- Ao Vivo](https://open.spotify.com/track/7vk8j6aE01zh4CN1lZ8qQE) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1), [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Coleção de Pagodes \#1: Thais Macedo](https://open.spotify.com/album/6tZlc3KvCbU2ah3xNkNXCN) | 3:56 |
 
-Snapshot ID: `aAHAigAAAAAkzyfiGnCG2E0ale6rsJNF`
+Snapshot ID: `aAHAigAAAAC0Yse/Mb8yXcd4hR9ilySF`

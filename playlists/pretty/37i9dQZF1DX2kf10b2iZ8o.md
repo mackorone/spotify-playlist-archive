@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,811 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,817 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 |
 | 75 | [GO AHEAD SMILE!](https://open.spotify.com/track/5QXLhbfvw1bVcYmvNjxl6l) | [信玄誠司 \(CV.増元拓也\)](https://open.spotify.com/artist/3IiD34ikp0g9XnQkHyjrAf) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:35 |
 
-Snapshot ID: `Z4aJSQAAAABgij+zl7omJDssBOxvqjG6`
+Snapshot ID: `Z4aJSQAAAABFSGpjzAu8gKS/5C1mId8J`

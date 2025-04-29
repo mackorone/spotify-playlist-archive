@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 긍정적이고 밝은 기운 가득한 음악들과 함께 행복한 새해를 맞이하세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 50 | [Sunshine](https://open.spotify.com/track/3m0HexxOcrMfxluUl5uxBf) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Never give up, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/4Gc0hzGUPKynsRUdbhbrZI) | 3:36 |
 | 51 | [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 |
 
-Snapshot ID: `Z5tUFwAAAAAZncicCbXbQW4/GKo/KWf4`
+Snapshot ID: `Z5tUFwAAAACxnpHzr20d64DTDGjJwv3u`

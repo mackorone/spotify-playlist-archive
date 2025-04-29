@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,532 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,540 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 | 50 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |
 
-Snapshot ID: `Z/1GvQAAAADP60wSJwj2fUJUd02sstH0`
+Snapshot ID: `Z/1GvQAAAADndsoCoVcug93fHIZCEW6M`

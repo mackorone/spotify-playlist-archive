@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,565 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,552 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 59 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
 | 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [Candy Mel](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
 
-Snapshot ID: `ZwU3wAAAAAB43IPuZTazkh1nI2+obwTy`
+Snapshot ID: `ZwU3wAAAAABc7t+e7Vymc6FVxgkiGuRG`

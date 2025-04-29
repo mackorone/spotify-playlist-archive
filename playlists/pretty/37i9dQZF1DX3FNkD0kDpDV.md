@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Celebrate 10 years of CRSSD Festival with the sounds of 40+ artists taking over San Diego this spring\. From house and techno icons to breakthrough talent, get a preview of the music that will shape this milestone anniversary weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,380 likes - 40 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,355 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 39 | [Parallel Shifting](https://open.spotify.com/track/4yteOdqkDjQSX3H0mHihUe) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Parallel Shifting](https://open.spotify.com/album/6ROOPfQa5pzE43iwtEp4Jl) | 8:42 |
 | 40 | [I Won't Go](https://open.spotify.com/track/4wihcfLFZXBu783CbgRHyZ) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Alphadog](https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG) | [I Won't Go](https://open.spotify.com/album/6SAV1sTCwzkQfFBoIQaALN) | 6:01 |
 
-Snapshot ID: `Z7YqUQAAAACzR87fda8x9qQu9gn5vpJi`
+Snapshot ID: `Z7YqUQAAAAA2Ro7GcWCCNMJjVyy1cmnB`

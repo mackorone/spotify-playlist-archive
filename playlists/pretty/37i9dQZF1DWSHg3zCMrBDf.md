@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,349 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,392 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [GoodSin](https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 2:20 |
 | 50 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8) | 3:00 |
 
-Snapshot ID: `Z/OHXQAAAAAhs8or/qT8l79dMVuZhJjF`
+Snapshot ID: `Z/OHXQAAAACU3OGAeYhiB/e18tyYu6VQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,993 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,168 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 |
 | 101 | [Bora Bora \(feat\. Ayra Starr\)](https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:35 |
 
-Snapshot ID: `aAucvgAAAAADhUm6lQi1nqCOJlYoYJSd`
+Snapshot ID: `aAucvgAAAAD3R8ZQ5ziwEOYrf2Dyiwsq`

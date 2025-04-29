@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Marilina Bertoldi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,170 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,179 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [The Drum](https://open.spotify.com/track/4k3BVdRpcuOC8FENHfZSE3) | [Mellon Collie](https://open.spotify.com/artist/5nWkSrKwhtPiS3UWWNmlPk) | [The Drum](https://open.spotify.com/album/4Zzm9KjALqkEyoWW8XYJ0o) | 4:50 |
 | 50 | [Grupdepersonestravessantelcarrer.jpg](https://open.spotify.com/track/753E4b7ZgpNQYrnuBvt8OX) | [Derbi Junior](https://open.spotify.com/artist/37K2kvVJCMgkcTSty64YtY) | [Grupdepersonestravessantelcarrer.jpg](https://open.spotify.com/album/4gA8JIegzQjvgSS6TcyMA3) | 3:16 |
 
-Snapshot ID: `aAslAQAAAAAXOlX5vP3gqNbjc8Uex1Jb`
+Snapshot ID: `aAslAQAAAAC6X27dxH5cpE41utjRkxn/`

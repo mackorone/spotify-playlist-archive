@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Surprise Chef
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,961 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,965 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
 | 100 | [Raw](https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 4:37 |
 
-Snapshot ID: `aAEJcAAAAADPQCbheN21gXC9tGSW8A43`
+Snapshot ID: `aAEJcAAAAACpBss6VEnl/MI2n3xJGdmS`

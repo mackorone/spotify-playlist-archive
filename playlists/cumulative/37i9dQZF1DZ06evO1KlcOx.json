@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
@@ -730,6 +730,24 @@
       "duration_ms": 141746,
       "name": "I'm Dragging a Dead Deer Up a Hill",
       "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/3pegwzmIu6j8rWq6G7z8Np"
     },
     {
       "album": {

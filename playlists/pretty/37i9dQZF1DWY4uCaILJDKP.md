@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,935 likes - 114 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,937 likes - 114 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 113 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 114 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `Z6I2YAAAAACjF6QnN0fxVBU8gpAN+xVU`
+Snapshot ID: `Z6I2YAAAAADMy8RZ1duK4PJ6bcfhC0NM`

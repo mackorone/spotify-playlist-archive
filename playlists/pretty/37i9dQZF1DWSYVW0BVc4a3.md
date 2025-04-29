@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Chris Lake with the ID we've been waiting for!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,160 likes - 429 songs - 1 day 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,263 likes - 429 songs - 1 day 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -438,4 +438,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 428 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 429 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `aAq0gQAAAACjZfHXOukY99T9ulhdT0yW`
+Snapshot ID: `aAq0gQAAAACsa5PK41NRy5oORtd2mgmD`

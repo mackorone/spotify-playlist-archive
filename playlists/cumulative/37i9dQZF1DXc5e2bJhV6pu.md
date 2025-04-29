@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,495 songs - 3 day 12 hr 50 min
+1,496 songs - 3 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-04-14 | 2022-07-29 |
 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 | 2020-06-12 | 2021-05-24 |
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2021-11-13 | 2022-06-25 |
+| [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-28 |  |
 | [Healing](https://open.spotify.com/track/5yhmZNucJhQV0xNceMb80P) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Healing](https://open.spotify.com/album/0whRqFULVTWdUqxDrYgt7k) | 2:46 | 2020-06-12 | 2022-04-12 |
 | [Healing Hands](https://open.spotify.com/track/6RCp9hJWSExTOzNHrN1hSZ) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Ghosts & Heartaches](https://open.spotify.com/album/1cFjFaXFFJynE23NtjTEL0) | 4:10 | 2019-08-13 | 2022-04-18 |
 | [Heard it On The Radio](https://open.spotify.com/track/3yJa4GqFIs1qyNfugXIG9T) | [Luke Million](https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz), [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Heard it On The Radio](https://open.spotify.com/album/05XB5sGgRI9yCOyzMncFEg) | 3:37 | 2022-04-05 | 2022-04-16 |
@@ -827,7 +828,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6Agiwgwq5BtflpNynGYsUv) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 3:53 | 2019-07-30 | 2022-04-18 |
 | [Marvin Gaye \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6ukMqDxnOPOgoHdak7Kyp3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:10 | 2019-07-29\* | 2022-04-08 |
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2019-07-30 | 2019-07-31 |
-| [Maybe](https://open.spotify.com/track/7FHZxXpcJywdjbDEG51ACg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Maybe](https://open.spotify.com/album/3iww94mJ0XqQcfXxIXN8FE) | 3:12 | 2025-04-14 |  |
+| [Maybe](https://open.spotify.com/track/7FHZxXpcJywdjbDEG51ACg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Maybe](https://open.spotify.com/album/3iww94mJ0XqQcfXxIXN8FE) | 3:12 | 2025-04-14 | 2025-04-29 |
 | [ME BECAUSE OF YOU](https://open.spotify.com/track/0PKjvdyNNzkmhtBR4vBsrT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [ME BECAUSE OF YOU](https://open.spotify.com/album/1ZhhGxz8conPbSTREWccwC) | 3:35 | 2020-02-22 | 2022-04-08 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-16 | 2022-07-28 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [ME!](https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy) | 3:13 | 2019-08-10 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,271 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,656 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 89 | [Morgenstille \- Alpha Sinus 86Hz \- 93Hz](https://open.spotify.com/track/2NkwIK3b3tqTcjqmWbUM5M) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 4:12 |
 | 90 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 |
 
-Snapshot ID: `Z/kgLAAAAACA57qAXXyy0K1pJG03XzDE`
+Snapshot ID: `Z/kgLAAAAAC54uI9klUfq5+2PofcnHmJ`

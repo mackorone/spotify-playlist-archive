@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-336 songs - 17 hr 47 min
+340 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fetch.](https://open.spotify.com/track/7bOUBE0BeEXUpuztG62y0X) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Fetch.](https://open.spotify.com/album/35Ap3et5kzcEUwHmd8b8sg) | 2:30 | 2024-07-22 |  |
 | [Fetish](https://open.spotify.com/track/2ld8OXTfS16XTEkv2fu3sH) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [delcarmen](https://open.spotify.com/album/3RkyZBjxQae3qOD90QTB1c) | 2:45 | 2024-08-15 |  |
 | [Fight For You](https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Fight For You](https://open.spotify.com/album/2WtVCMJcru3ZMipJjOrmWi) | 2:05 | 2025-01-18 |  |
+| [flabbergasted](https://open.spotify.com/track/17UdncO4Cwa4eJAyY8AiYL) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [flabbergasted](https://open.spotify.com/album/3vnyhozbUXQcWwkw3CUn49) | 2:32 | 2025-04-28 |  |
 | [FLOWERS](https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:55 | 2025-04-17 |  |
 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 | 2024-02-09 |  |
 | [FOOL FOR YOU](https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:05 | 2025-02-03 |  |
@@ -149,6 +150,7 @@
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |
 | [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |
+| [Imníoch](https://open.spotify.com/track/7efo4RmYcdwxLiChZHDVjt) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns) | [Imníoch](https://open.spotify.com/album/1nQSa3IHxEDhHFfXgoVfiV) | 2:36 | 2025-04-28 |  |
 | [In The Night](https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [In The Night](https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj) | 2:34 | 2024-11-18 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 | 2025-04-12 |  |
@@ -242,6 +244,7 @@
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |
 | [PUNCTURE WOUND](https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:11 | 2025-02-03 |  |
 | [PUNCTURE WOUND](https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [PUNCTURE WOUND](https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j) | 3:11 | 2025-01-18 |  |
+| [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/track/3nCve9jcwSKEtTCtuqEgIg) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT), [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx) | [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4) | 3:06 | 2025-04-28 |  |
 | [Raised by Aliens](https://open.spotify.com/track/5ezyCaoc5XiVdkpRYWeyG5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:05 | 2024-12-06 |  |
 | [Rambley Review](https://open.spotify.com/track/6l1v42VTPQJxtqcZ5uWvqR) | [RecD](https://open.spotify.com/artist/6cqXqS5Iemewz8MolkBTdY), [Jakeneutron](https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD), [OtterBoyVA](https://open.spotify.com/artist/3VbB6AbCIBTjy7tS2ha410) | [Indigo Park, Chapter 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu) | 3:19 | 2024-06-03 |  |
 | [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 | 2023-12-28 |  |
@@ -297,6 +300,7 @@
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-18 |  |
 | [Suicider](https://open.spotify.com/track/2MuM98vRKQZYd0ktRXiQ82) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Suicider](https://open.spotify.com/album/5EU2NsknWKLhEVlmrtTw8D) | 3:31 | 2023-09-02 |  |
 | [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 |  |
+| [suitetalk!](https://open.spotify.com/track/0YtthJQGl0amJb1snucEYm) | [RSKO](https://open.spotify.com/artist/7lNGd5TEYiVK5aIJQalVEv) | [garaje.v.2](https://open.spotify.com/album/4MJcxzMKLHo9TksxbwA2gj) | 3:08 | 2025-04-28 |  |
 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 | 2025-02-09 |  |
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 |  |
 | [T BOY SWAG!!](https://open.spotify.com/track/1pnXju2cvAdcXwhSaIHlhO) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:13 | 2024-07-25 |  |

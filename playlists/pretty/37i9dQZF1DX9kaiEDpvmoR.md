@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,289 likes - 89 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,291 likes - 89 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 41 | [Swan Song](https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Swan Song](https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO) | 4:02 |
 | 42 | [Jag vill tacka livet](https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Så mycket bättre 2024 \(Tolkningarna\)](https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq) | 3:57 |
 | 43 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 |
-| 44 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 |
-| 45 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 |
-| 46 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 |
-| 47 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
+| 44 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 |
+| 45 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 |
+| 46 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
+| 47 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 |
 | 48 | [En kväll i tunnelbanan](https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C) | 3:04 |
 | 49 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 |
-| 50 | [Dansa i neon](https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Dansa i neon](https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt) | 3:15 |
+| 50 | [Know You've Been Loved](https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Know You've Been Loved](https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI) | 3:36 |
 | 51 | [Hem till Dalarna](https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hem till Dalarna](https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU) | 4:41 |
-| 52 | [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 |
-| 53 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 |
-| 54 | [Know You've Been Loved](https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Know You've Been Loved](https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI) | 3:36 |
+| 52 | [Dansa i neon](https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Dansa i neon](https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt) | 3:15 |
+| 53 | [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 |
+| 54 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 |
 | 55 | [Han lever \(Himmelsfärden\)](https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa, Maria Magdalenas kärlek](https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0) | 4:11 |
 | 56 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 |
 | 57 | [Hit men inte längre](https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Psalmer från sjunde himlen](https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA) | 2:58 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 65 | [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 |
 | 66 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 |
 | 67 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 |
-| 68 | [All I See Is You](https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [All I See Is You](https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY) | 2:37 |
+| 68 | [Living La Vida](https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX) | [Andreas Lundstedt](https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc) | [Så Mycket Bättre 2024 \- Tolkningarna](https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww) | 2:59 |
 | 69 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 |
-| 70 | [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 |
-| 71 | [Living La Vida](https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX) | [Andreas Lundstedt](https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc) | [Så Mycket Bättre 2024 \- Tolkningarna](https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww) | 2:59 |
+| 70 | [All I See Is You](https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [All I See Is You](https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY) | 2:37 |
+| 71 | [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 |
 | 72 | [Hör mig!](https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [En sång till Selma](https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp) | 3:58 |
 | 73 | [It’s Time](https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG) | [Maskinisten](https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR) | [It’s Time](https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG) | 3:46 |
-| 74 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 |
-| 75 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 |
-| 76 | [Enkelhet](https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Enkelhet](https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt) | 3:55 |
+| 74 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 |
+| 75 | [Enkelhet](https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Enkelhet](https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt) | 3:55 |
+| 76 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 |
 | 77 | [Via Dolorosa](https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa](https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f) | 4:36 |
 | 78 | [Akta dig](https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Akta dig](https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo) | 2:20 |
 | 79 | [Back To The Sea](https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Back To The Sea](https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B) | 3:13 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 |
 | 89 | [A Sinner's Life](https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [A Sinner's Life](https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ) | 3:07 |
 
-Snapshot ID: `aAq0iAAAAACsyBOnr5rSGT4TVb16AnD5`
+Snapshot ID: `aAq0iAAAAAATBtx/x/TYgf3U2kHTJK+/`

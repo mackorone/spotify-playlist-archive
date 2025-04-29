@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233976,
+  "num_followers": 233995,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAC6eF+bBvu4cONBjVXMhhnn",
+  "snapshot_id": "aA1zgAAAAAB5kJOsTkgVFsV0Xy2YWbIs",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble",
-        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 198766,
-      "name": "El Doble",
-      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Know Me Too Well",
         "url": "https://open.spotify.com/album/6g86dBoCblCdA4kNcZQKdW"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 200013,
       "name": "Know Me Too Well",
       "url": "https://open.spotify.com/track/3evNCP0dfoI8lXvSF1tRnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Doble",
+        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 198766,
+      "name": "El Doble",
+      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa KIKI ja Mikael Gabriel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,920 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,924 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 74 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
 | 75 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
 
-Snapshot ID: `aA4AeAAAAADNna0q02G9OS4aHqb7Endb`
+Snapshot ID: `aA4AeAAAAABeA0z9VTRVbVcb4733WXS1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=iCGucLxRTtyhYfjJg\-q37A">Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,245 likes - 115 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,714 likes - 115 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 114 | [Paid in Blood](https://open.spotify.com/track/3CkuzDqDhaBKoo30lmh3h4) | [Jo Joey](https://open.spotify.com/artist/4RrsmmTA0RdzlSmN2fYSVN) | [Paid in Blood](https://open.spotify.com/album/7rjVOHYOZ35sLbe9Uxx7Sy) | 3:00 |
 | 115 | [No Greater Love](https://open.spotify.com/track/03RrQuBjBUuSDsYFLzv0tX) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [No Greater Love](https://open.spotify.com/album/0QOPcLOzyKusIibJ3l7KlQ) | 3:24 |
 
-Snapshot ID: `aArQ0wAAAABreJ3+bR6CMTZbcxoxaXe5`
+Snapshot ID: `aArQ0wAAAABqFpZSiHtGnCJ3G8tmEGgW`

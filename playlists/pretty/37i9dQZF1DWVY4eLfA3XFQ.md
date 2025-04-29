@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,682 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,581 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 149 | [Freak \- GREG \(BR\) Remix](https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Freak \[GREG \(BR\) Remix\]](https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN) | 2:45 |
 | 150 | [Jump n' Shout](https://open.spotify.com/track/4Axp6RBfspEXQscqc0MpUp) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Jump n' Shout](https://open.spotify.com/album/6IBHL2BUPxiDCxZi5HrTAW) | 3:54 |
 
-Snapshot ID: `aA7IjgAAAAAmMsDnc4UPKJdaM5TnWkzo`
+Snapshot ID: `aA7IjgAAAAAzDF2QNvCgtC56h5jJ8u7b`

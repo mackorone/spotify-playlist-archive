@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,505 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,528 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
 | 50 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 |
 
-Snapshot ID: `ZgGrBgAAAABqWMc9lo2zbAT1sO/88XGr`
+Snapshot ID: `ZgGrBgAAAAAWSORMJkGqfSO6JmkRQ41l`

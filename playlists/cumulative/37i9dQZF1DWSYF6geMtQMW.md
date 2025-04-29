@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
 
-130 songs - 6 hr 53 min
+131 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-07-01 |  |
 | [בגלגול הבא](https://open.spotify.com/track/1b8Zi0VlYH3M7eeXQZ7APz) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בגלגול הבא](https://open.spotify.com/album/0GZd3y2xiKoHiTtOhItUzs) | 2:41 | 2024-07-01 | 2024-08-20 |
 | [בואי נדבר](https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [בואי נדבר](https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo) | 2:52 | 2024-07-01 | 2024-08-20 |
-| [בוקר טוב חיים שלי](https://open.spotify.com/track/4WbQaxKI0R0SmWNZvgUDNz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:08 | 2025-01-13 |  |
+| [בוקר טוב חיים שלי](https://open.spotify.com/track/4WbQaxKI0R0SmWNZvgUDNz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:08 | 2025-01-13 | 2025-04-29 |
 | [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 | 2025-02-10 |  |
 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 | 2024-09-09 | 2025-04-15 |
 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 | 2024-07-01 | 2024-07-23 |
@@ -134,6 +134,7 @@
 | [שוב אני בדד](https://open.spotify.com/track/1EZj3gwDRCDVTxJAIGUtMQ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שוב אני בדד](https://open.spotify.com/album/6VooCgGF8j8NRBiOclQHUF) | 3:13 | 2024-08-19 | 2024-10-08 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-09 | 2025-01-21 |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 | 2024-11-19 |
+| [שמש שזורחת עליי](https://open.spotify.com/track/5xzBjwCJLdIKtIXQZ06RXj) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:54 | 2025-04-28 |  |
 | [תמיד אוהב אותי](https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [תמיד אוהב אותי](https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp) | 2:52 | 2024-09-23 |  |
 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 | 2024-12-16 |  |
 | [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 | 2024-09-23 |  |

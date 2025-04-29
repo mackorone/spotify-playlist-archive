@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Fiona\-Lee
 
-379 songs - 21 hr 29 min
+380 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 | 2023-01-10 | 2024-10-07 |
 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 | 2024-02-23 | 2024-04-19 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-02-24 |
+| [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 | 2025-03-12 |  |
 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 | 2025-01-17 |  |
 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-05-31 |  |
 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 | 2023-04-18 | 2024-02-29 |
@@ -87,7 +88,7 @@
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-07-12 | 2025-02-09 |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 | 2023-06-08 |
 | [days like these](https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [days like these](https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d) | 2:14 | 2023-10-20 | 2023-12-14 |
-| [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-02-23 |  |
+| [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-02-23 | 2025-04-29 |
 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-09-19 | 2023-10-20 |
 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 | 2024-05-31 | 2024-11-13 |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |

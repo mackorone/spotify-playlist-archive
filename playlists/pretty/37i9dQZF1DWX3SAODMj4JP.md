@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,696 likes - 69 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,715 likes - 69 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/3nYwEDwMaz47c1lJ5hcUgJ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp) | 4:40 |
 | 69 | [Upper Room \- Live Acoustic Session](https://open.spotify.com/track/6SWkxwTgYxTPfIkKHc04Ks) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake](https://open.spotify.com/album/0wYYGYuFQUvZqspe4WPvfm) | 3:54 |
 
-Snapshot ID: `Z8phfgAAAACuCjLDzrZO6Xtpo6onAcPp`
+Snapshot ID: `Z8phfgAAAADmhxJSFHrC7sxhbMF16tnn`

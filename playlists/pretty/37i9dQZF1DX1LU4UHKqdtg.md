@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: CHUU
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,727 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,754 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [trampoline](https://open.spotify.com/track/54DNDYJtwQqSD2vfjwZlXK) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:22 |
 | 80 | [FEAT](https://open.spotify.com/track/5BZiFiWoqTcknpZlEAy7x7) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 2:59 |
 
-Snapshot ID: `aApSAgAAAACy2V8YUjHXkiKT35qLGQ2d`
+Snapshot ID: `aApSAgAAAADMpLP5QFyw6YrGVKeGAOh3`

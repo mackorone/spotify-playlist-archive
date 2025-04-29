@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Nicky Doll
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,485 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,489 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 |
 | 40 | [Dada](https://open.spotify.com/track/6bIpArBwm2I0EpmSgqrKrf) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [Dada](https://open.spotify.com/album/2uThFwczO3iFZISZV27fld) | 3:50 |
 
-Snapshot ID: `ZxJmGQAAAACiCBMvaW84ZySJmxnJsr7g`
+Snapshot ID: `ZxJmGQAAAADcKaj0rBNdN0CnquJQvTSB`

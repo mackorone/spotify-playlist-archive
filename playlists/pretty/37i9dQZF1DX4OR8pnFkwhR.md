@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: reina
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,031 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,039 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [The Weak](https://open.spotify.com/track/33qIg8VkoqZ2NPOG9SqgVg) | [Baby Canta](https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww) | [The Weak](https://open.spotify.com/album/6d9jpPzpOrI3in3fimRGXB) | 3:25 |
 | 60 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
 
-Snapshot ID: `aAeu/AAAAADKFoRk96bOhBvnuFDyHSXF`
+Snapshot ID: `aAeu/AAAAAAdDHD9Wwv5rw8YD6aocP85`

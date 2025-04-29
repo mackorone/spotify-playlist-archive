@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Rihaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,625 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,628 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [DEATHROW](https://open.spotify.com/track/16SiFpLd4VNtl9si0FY0XO) | [Kanwar Shinh](https://open.spotify.com/artist/0N9nGethZ9grQ6ejtwUXP1), [Jot Batth](https://open.spotify.com/artist/1HndlaYASTovZjPhPdBQHF) | [DEATHROW](https://open.spotify.com/album/0CPDlE5xaAGliijhkZs9wC) | 2:09 |
 | 50 | [Shut Down](https://open.spotify.com/track/52d0h5Z6g8APHmCIVKRyxq) | [Jot Virk](https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Shut Down](https://open.spotify.com/album/2FMENTPYX1PgidsI8DgkKe) | 1:59 |
 
-Snapshot ID: `aAinWgAAAADcPIGXBZfya6WMUaocaWzy`
+Snapshot ID: `aAinWgAAAACP72j1u2Iccrgt5HzNNTn5`

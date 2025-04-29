@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 144072,
+  "num_followers": 144115,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABjWmbe5QeBLmlncUOzHIjR",
+  "snapshot_id": "aA1zgAAAAADohTJwTwyyjPF1BRYu8EcC",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
-      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songbird: The Best Of Kenny G",
         "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 259146,
       "name": "The Champion's Theme",
       "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Theme from \"Dying Young\"",
-      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 260760,
       "name": "The Joy of Life",
       "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Theme from \"Dying Young\"",
+      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
     },
     {
       "added_at": null,

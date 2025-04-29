@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Guus Meeuwis
 
-210 songs - 12 hr 50 min
+211 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 | 2023-02-10 |  |
 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 | 2023-02-10 |  |
 | [Laat Mij In Die Waan \- In De Basis](https://open.spotify.com/track/26mA2v7PUMenye7GiIZ9jo) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [In De Basis: Kant C](https://open.spotify.com/album/7i1vRdGnnv6x0wpb7UDTzf) | 3:03 | 2023-02-10 | 2023-09-15 |
+| [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/5OiG2BpIKuSxbJ53hznAXO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/7JNbi2drC5WH6HvINEqboL) | 3:31 | 2025-04-28 |  |
 | [Lente '22](https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Lente '22](https://open.spotify.com/album/2wcWvAKYo3psSLnnMy78zi) | 4:35 | 2023-04-06 | 2023-09-15 |
 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 | 2023-02-10 | 2025-04-12 |
 | [Lichaam Zoekt Geest \- Akoestische Versie](https://open.spotify.com/track/7cCG3NolytD74kEmwjs4yX) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Lichaam Zoekt Geest \(Akoestische Versie\)](https://open.spotify.com/album/7dsC15kwaV7sRdi4zqxVYR) | 3:00 | 2025-04-11 |  |

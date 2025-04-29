@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト！2日間のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,283 likes - 95 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,281 likes - 95 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 | 94 | [Glorious Break](https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 5:16 |
 | 95 | [Shangri\-La](https://open.spotify.com/track/3VZ0k11FSxi9F3oFQFqLzX) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Shangri\-La](https://open.spotify.com/album/350pChVMUzzfEDdL5aI49T) | 4:40 |
 
-Snapshot ID: `ZkCZdgAAAADOryWgh2cXyDdMF6vDmIez`
+Snapshot ID: `ZkCZdgAAAAD89ZMAbhMyePUyq8fRYNby`

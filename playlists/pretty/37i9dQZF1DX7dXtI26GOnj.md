@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Kenia Os, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,729 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,795 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 83 | [Infiel](https://open.spotify.com/track/6ykDSoUsgqLPh3k7rRZcCg) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [João Ferreira](https://open.spotify.com/artist/2Po0n9GI0YXOkurg0l2giE) | [Infiel](https://open.spotify.com/album/4xHbNLWIB8kYU7Mv4pfuq7) | 2:33 |
 | 84 | [Habla Comigo](https://open.spotify.com/track/5i9oexxDhlcB4BEP95M6qT) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Habla Comigo](https://open.spotify.com/album/6voR3t2LQriBJbopx7X6A9) | 3:03 |
 | 85 | [MALOKERA](https://open.spotify.com/track/0vfbs9Cpuj4x8VKK33ib4z) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [MALOKERA](https://open.spotify.com/album/6lgU7vdqKuZEYdQKqJalYH) | 2:28 |
-| 86 | [Até Gosto Assim](https://open.spotify.com/track/0bmrSC17awDgsduJxE9GYk) | [GOMES](https://open.spotify.com/artist/45Ui6eUZZRtSrFUC37GEHo) | [Até Gosto Assim](https://open.spotify.com/album/5I3PfqC41vRu4Nl590HBf3) | 2:17 |
-| 87 | [Gostosa](https://open.spotify.com/track/6UU160lLOxkV1qVgg3w2Mx) | [Amber Donoso](https://open.spotify.com/artist/6SHtT7iIROXUcQJFYEoeJ7), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Gostosa](https://open.spotify.com/album/5bsuWuQs9R4YKp3M8buXDr) | 2:25 |
+| 86 | [Gostosa](https://open.spotify.com/track/6UU160lLOxkV1qVgg3w2Mx) | [Amber Donoso](https://open.spotify.com/artist/6SHtT7iIROXUcQJFYEoeJ7), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Gostosa](https://open.spotify.com/album/5bsuWuQs9R4YKp3M8buXDr) | 2:25 |
+| 87 | [Até Gosto Assim](https://open.spotify.com/track/0bmrSC17awDgsduJxE9GYk) | [GOMES](https://open.spotify.com/artist/45Ui6eUZZRtSrFUC37GEHo) | [Até Gosto Assim](https://open.spotify.com/album/5I3PfqC41vRu4Nl590HBf3) | 2:17 |
 | 88 | [Bailando en la Lluvia](https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando en la Lluvia](https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk) | 2:53 |
 | 89 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 |
 | 90 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 
-Snapshot ID: `aAr6zgAAAACS6DqBuf42tLG0F62JSN1k`
+Snapshot ID: `aAr6zgAAAADXi3nBVnitbLR9WD7WVKTN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT this week is all about late 2000s pop\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,191 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320,180 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Wait for You](https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Elliott Yamin](https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu) | 4:21 |
 | 50 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 
-Snapshot ID: `aAm3XwAAAADGNI64o4BSodvt6Mu24KR/`
+Snapshot ID: `aAm3XwAAAADFWRTsYUDnv899ordACxDX`

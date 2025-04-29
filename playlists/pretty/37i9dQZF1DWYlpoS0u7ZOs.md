@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: UNIVERSITY
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,109 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,108 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 |
 | 80 | [Get it Over With](https://open.spotify.com/track/5T4HwUbx28TSprcA3L4nsE) | [Fred Roberts](https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v) | [Get it Over With](https://open.spotify.com/album/3UOxjGmftwewh7nt1rYwHV) | 3:01 |
 
-Snapshot ID: `Z/0oSgAAAABi6KTwfBcctuYkEF88rFjg`
+Snapshot ID: `Z/0oSgAAAAAyeDUWabgcoR7y+WBQskEp`

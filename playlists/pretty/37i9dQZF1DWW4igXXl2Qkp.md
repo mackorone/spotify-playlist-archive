@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6w1PsA3Lux2vlfaymj66w8">Tony Shhnow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,839 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,932 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/22YySOeu9uwkYPEwabYoi7) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Merci, Non Merci](https://open.spotify.com/album/5VTOqmPJrJw9M3Ykvwyf7q) | 2:16 |
 | 100 | [No More Parties](https://open.spotify.com/track/4CU2nBXL9B96UbxkssszNj) | [Reese Youngn](https://open.spotify.com/artist/1du7HpeUTbkyNt0N6DfpXM) | [Pain or Problems](https://open.spotify.com/album/0X8GwwH60Ifgm9q9IXOIks) | 2:30 |
 
-Snapshot ID: `aAkKmgAAAAB2AMDUj7ntJuxedXw+CwIs`
+Snapshot ID: `aAkKmgAAAACvZTRJ0cqognSD1cEtxSNW`

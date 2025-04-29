@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,949 likes - 159 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,019 likes - 159 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 158 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 |
 | 159 | [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 |
 
-Snapshot ID: `aAe46QAAAADr75TxGUi6mM4bmLKGRZT/`
+Snapshot ID: `aAe46QAAAABJfUQq1IR3Traci6+CHoFn`

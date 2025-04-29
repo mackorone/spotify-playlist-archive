@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,251 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,811 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 74 | [Hysteric Humanoid](https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 4:09 |
 | 75 | [Awakening Myth](https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.6\)](https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ) | 3:54 |
 
-Snapshot ID: `aA7vTAAAAAAATzgfZgiSt1xL067Vd0OJ`
+Snapshot ID: `aA7vTAAAAAABXDddYctOvLAXrYP1rEWU`

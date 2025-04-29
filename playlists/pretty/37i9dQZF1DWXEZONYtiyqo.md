@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Raluka
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,204 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,210 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Locul tău](https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Locul tău](https://open.spotify.com/album/1dTJ2Hd1fjWEioROhCJV0M) | 2:49 |
 | 50 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 |
 
-Snapshot ID: `aAqmagAAAAClcSvxuKcVAm680f3Q0IUU`
+Snapshot ID: `aAqmagAAAAAzBMtasp4seU0DKdNeIw6j`

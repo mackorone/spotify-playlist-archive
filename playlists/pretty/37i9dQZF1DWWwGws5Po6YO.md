@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,056 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,102 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 28 | [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 |
 | 29 | [OUT I](https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK) | [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ) | [OUT I](https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE) | 4:41 |
 | 30 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
-| 31 | [Endocrine Disruptor](https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc) | [Uboa](https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl) | [Impossible Light](https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3) | 5:50 |
+| 31 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 32 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 33 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 33 | [Endocrine Disruptor](https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc) | [Uboa](https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl) | [Impossible Light](https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3) | 5:50 |
 | 34 | [Continuum 1](https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Continuum 1](https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4) | 7:13 |
 | 35 | [Only Wish](https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2) | 5:44 |
 | 36 | [Strawberry Hill Ascent](https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Big Majestic](https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb) | 2:42 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 38 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 39 | [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 |
 | 40 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
-| 41 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
-| 42 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 |
+| 41 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 |
+| 42 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 43 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 44 | [New Dawn](https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:44 |
-| 45 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
-| 46 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
-| 47 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
-| 48 | [Amma](https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G) | [Chiara Dubey](https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH) | [CHANDANI](https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh) | 3:09 |
+| 45 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
+| 46 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
+| 47 | [Amma](https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G) | [Chiara Dubey](https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH) | [CHANDANI](https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh) | 3:09 |
+| 48 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
 | 49 | [L'Inno delle Oceanine alla Bellezza e alla Fortuna](https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:06 |
 | 50 | [Air / Fire](https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:32 |
 | 51 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 82 | [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 |
 | 83 | [A Woman Escapes Cue 4](https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works II](https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB) | 5:35 |
 | 84 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
-| 85 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
+| 85 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 86 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
-| 87 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
+| 87 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 88 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
 | 89 | [Gesticulate Elastically](https://open.spotify.com/track/6JirbVsrWomaYjcK7DWp2f) | [Noémi Büchi](https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6) | [Gesticulate Elastically](https://open.spotify.com/album/2FhkF2JLkIQ0e8qaa5kKBn) | 2:45 |
 | 90 | [Car Alarm, Turn Signal](https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Car Alarm, Turn Signal](https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
 | 100 | [Composition Of Flowers \(Excerpt\)](https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works Preview](https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ) | 6:21 |
 
-Snapshot ID: `aAsI7AAAAABRcVQ/G6WsolhEn18/lxrR`
+Snapshot ID: `aAsI7AAAAABXLPLZDYKnC2BuLlJoOSS9`

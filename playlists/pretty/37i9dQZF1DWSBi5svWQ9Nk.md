@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van nu\. Cover: Zoë Livay & Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,679 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,768 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c) | 3:07 |
 | 50 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 
-Snapshot ID: `aArFUwAAAADPjkrBdj/tk3DWxmyFKzmG`
+Snapshot ID: `aArFUwAAAADvzrvUKI8IyzJS9ucxnGeG`

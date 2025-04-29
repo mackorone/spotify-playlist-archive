@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  LÉA THE LEOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,930 likes - 185 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,939 likes - 185 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 184 | [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 |
 | 185 | [Pick Me Up](https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pick Me Up](https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4) | 2:50 |
 
-Snapshot ID: `aAst+gAAAAAfL54QEXqT78k5jff2iWLL`
+Snapshot ID: `aAst+gAAAABKI07Xca011QmbEtneIJJr`

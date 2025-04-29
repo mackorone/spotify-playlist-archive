@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. RIP Young Scooter\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 99 | [The Vibes Is Right](https://open.spotify.com/track/6LWP6mzo3kJSZAQ3iUJij1) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/4ZPHD6NhBlLyqhYcqf9OhK) | 4:16 |
 | 100 | [RESURRECT](https://open.spotify.com/track/3GwQckO6X8Hixea9Z8PBhr) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 2:54 |
 
-Snapshot ID: `Z+su9AAAAACTH5VIroOG/iL+1B4FbPwV`
+Snapshot ID: `Z+su9AAAAABnfCvnKkesYMqH4otNp9Ia`

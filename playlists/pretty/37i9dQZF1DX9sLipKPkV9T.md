@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:  לירן דנינו
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,310 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,309 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 69 | [ארץ \(Eretz\)](https://open.spotify.com/track/3vJ47XJTcrTMu8kLFZX0eE) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [ארץ \(Eretz\)](https://open.spotify.com/album/7unNPEjYQIEJWZWMAMSC5P) | 3:25 |
 | 70 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 |
 
-Snapshot ID: `aAqmbAAAAAC1LkX7lfo2PaqEuuFsJi4t`
+Snapshot ID: `aAqmbAAAAAAebRNSKnui21pZWb7kusD9`

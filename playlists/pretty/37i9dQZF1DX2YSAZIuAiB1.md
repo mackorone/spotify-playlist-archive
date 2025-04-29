@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,507 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,484 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 80 | [Feel It](https://open.spotify.com/track/3LBT5tJs2dVm9RVRhFwrA2) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg) | [Feel It](https://open.spotify.com/album/3qXfLuFyCTeFXhxyT54MIj) | 2:29 |
 
-Snapshot ID: `aAtyrwAAAABtaILQjnDFwJ3vFAF2S065`
+Snapshot ID: `aAtyrwAAAAC1zN+XcB/iyqBYNxuonPft`

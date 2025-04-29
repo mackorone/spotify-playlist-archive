@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Viror Kley, Matheus & Kauan, Lorde e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,106 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065,051 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 19 | [AIRBNB](https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [AIRBNB](https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x) | 2:26 |
 | 20 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 21 | [MAAT](https://open.spotify.com/track/7IKiC1BaSvThBivwwa0fkC) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [MAAT](https://open.spotify.com/album/5x6yxTaMj9qb9x5u90wyds) | 4:06 |
-| 22 | [Volta às Aulas](https://open.spotify.com/track/1LJZmHVSY4O0o9egOUhQKU) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Volta às Aulas](https://open.spotify.com/album/62oXKqT0PH8m7qbVNXrDmI) | 3:01 |
+| 22 | [Volta às Aulas](https://open.spotify.com/track/1LJZmHVSY4O0o9egOUhQKU) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Volta às Aulas](https://open.spotify.com/album/62oXKqT0PH8m7qbVNXrDmI) | 3:01 |
 | 23 | [Deus Me Livre](https://open.spotify.com/track/6z1o7NpdXGyR0aPdbt6gdm) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Maori](https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [Deus Me Livre](https://open.spotify.com/album/4TjJURBc7gX6r6QHMbAFFp) | 2:03 |
 | 24 | [Só pelo Beijo](https://open.spotify.com/track/40Cjp6pYH4Tf9YMavuqTVp) | [KOC](https://open.spotify.com/artist/0DJpGYLwnwr6CPnMvQvlBN), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Só pelo Beijo](https://open.spotify.com/album/6CyC5HpBefSgFXostcP9Fw) | 1:57 |
 | 25 | [Pega e Te Maceta](https://open.spotify.com/track/5LxdzIspY2hDVnMb92mje5) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Rhuivo](https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ), [ZANETTI](https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf), [MB Music Studio](https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD), [Caio Viny](https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt) | [Pega e Te Maceta](https://open.spotify.com/album/6bdY9QPwvaISnuY0OUL9dt) | 3:33 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 73 | [Ta Acontecendo](https://open.spotify.com/track/7k2dRKFsbMz9Var4C69I3p) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [Glaxdow](https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Ta Acontecendo](https://open.spotify.com/album/7h4lQCsXHXDlDX5kS98IAi) | 3:59 |
 | 74 | [Postura \- Ao Vivo](https://open.spotify.com/track/7BDWwd88bvCi6gY0Xl4hsG) | [Wesley & Conrado](https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ) | [Postura \(Ao Vivo\)](https://open.spotify.com/album/3S8afOIK1WYA7G1wXUw9oC) | 2:10 |
 
-Snapshot ID: `aAvI0AAAAAAYqfRKmKUNCB0/HEh6iq9J`
+Snapshot ID: `aAvI0AAAAAB7l7UOuPDInp/TNTOq7qZC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: LA NIÑA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,861 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,863 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 74 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 |
 | 75 | [Vega](https://open.spotify.com/track/0vaIO9erGs9FjppymtXmMj) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Vega](https://open.spotify.com/album/14dQjBnlX9UwcQoxJAoQnX) | 2:38 |
 
-Snapshot ID: `Z+1L/QAAAABcCAibtHYl1SAlg5sGVEqk`
+Snapshot ID: `Z+1L/QAAAAAknXVAjpLXPhzeMkgZKPdE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,982 likes - 96 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,980 likes - 96 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 95 | [Cyber Sunshine \- Angel D'lite & Eoin DJ Remix](https://open.spotify.com/track/30mCeDo8Gr6MVJ24N1r5JD) | [Match Box](https://open.spotify.com/artist/4d8xBGF8IuHVSHRSpB0dTn), [Angel D'lite](https://open.spotify.com/artist/3hTukG4F04etkdZSQBsPOf), [Eoin DJ](https://open.spotify.com/artist/61lnAG9y0PG9hYkqpTWsLz) | [Cyber Sunshine \(Deluxe Remix Pack\)](https://open.spotify.com/album/4gnlErpA5VWMzrpXF982ys) | 5:46 |
 | 96 | [Bravo Taïg Khris](https://open.spotify.com/track/2WNoxefipEvpyZswO1VFSf) | [De Grandi](https://open.spotify.com/artist/2qho5GsfGFbqUbcyNfxHOp) | [Bravo Taïg Khris](https://open.spotify.com/album/1blbiJ2ivCQyQu8pKyv0E3) | 5:08 |
 
-Snapshot ID: `Z79OjgAAAACU1sz0oYNY8eJp7wxNoggq`
+Snapshot ID: `Z79OjgAAAAC7NlzTa8RSohGfNiSKmeg6`

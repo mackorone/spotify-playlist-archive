@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Alma\u2019s Cove",
+        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234248,
+      "name": "Alma's Cove",
+      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
+    },
+    {
+      "album": {
         "name": "The Joy",
         "url": "https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc"
       },
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 151456,
       "name": "Wave It",
       "url": "https://open.spotify.com/track/2BRuJJKdlV3YBH6o5yPB8M"

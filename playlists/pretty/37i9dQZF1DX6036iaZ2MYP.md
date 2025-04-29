@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Tiwa Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,963 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,077 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Felonie \- Remix](https://open.spotify.com/track/1dCTL1OPCijWyB1QLQZg2R) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8), [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [Felonie \(Remix\)](https://open.spotify.com/album/2A0lwFQu3kyPTm8arbiosc) | 2:46 |
 | 50 | [Liberté](https://open.spotify.com/track/41MzmggjPNkHXHQDHB2PwA) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Liberté](https://open.spotify.com/album/2dBQuoaDd6OoSamZlFxTB3) | 2:14 |
 
-Snapshot ID: `aAq0fwAAAAA3pfnJuUTm9QWYXDFteWH5`
+Snapshot ID: `aAq0fwAAAADWS5SSsiajwlhphpakz4Js`

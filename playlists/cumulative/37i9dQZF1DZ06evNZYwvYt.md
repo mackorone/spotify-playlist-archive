@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 52 min
+98 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,14 @@
 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 | 2022-09-16 | 2023-02-22 |
 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 | 2022-09-16 | 2025-04-14 |
 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/5Dt4R2sq0e9BeZCmumeues) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/5bw2AIGO8YcpsfjFPpDdkP) | 4:04 | 2025-04-14 |  |
-| [Te](https://open.spotify.com/track/1mjUuavkhO7WkQU9P5RUhC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 4:10 | 2025-04-14 |  |
+| [Te](https://open.spotify.com/track/1mjUuavkhO7WkQU9P5RUhC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 4:10 | 2025-04-14 | 2025-04-29 |
 | [Te](https://open.spotify.com/track/6vSekblfCHVVJHF9IQkPs3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:10 | 2022-09-16 | 2025-04-14 |
 | [Te Mueres](https://open.spotify.com/track/5fbpZGY5TZ3bRhkQqTOSj0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 5:15 | 2022-09-16 | 2025-04-13 |
 | [Te Mueres](https://open.spotify.com/track/7JH0xroK9IZUWIhb0Fvwom) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 5:15 | 2025-04-13 |  |
 | [Tu fortaleza](https://open.spotify.com/track/13LkDt8sE3yOAvmKHYwDdr) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:49 | 2022-10-04 | 2022-10-09 |
 | [Tu recuerdo](https://open.spotify.com/track/3jGucwAKbRfg0zUVHsoEKb) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 4:24 | 2025-04-13 |  |
 | [Tu recuerdo](https://open.spotify.com/track/5JrG0DZMWeb9BLuSTihPd2) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:24 | 2022-09-16 | 2025-04-13 |
+| [Té](https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:12 | 2025-04-29 |  |
 | [Verdad](https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 4:46 | 2022-09-16 | 2025-04-12 |
 | [Verdad](https://open.spotify.com/track/5D0IBrpung6JsB5qEgJ67k) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 4:46 | 2025-04-12 |  |
 | [Vibraciones](https://open.spotify.com/track/4Tas7vDWX3Pxeyha9DLXNC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:11 | 2022-10-05 | 2022-10-13 |

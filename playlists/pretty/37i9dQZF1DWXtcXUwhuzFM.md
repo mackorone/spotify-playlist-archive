@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia costeelta, KIKIltä & Mikael Gabrielilta, Lordelta, Portion Boysilta ja Jami Faltinilta & ibeltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,284 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,295 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 112 | [Consequences](https://open.spotify.com/track/6zBTIcRl9HDwCPeE0zgpt2) | [Audrum](https://open.spotify.com/artist/00o92d5a9vQIIz9nrNiGk4) | [Consequences](https://open.spotify.com/album/4UDBXJP5fLZVqdAWYnC1Lh) | 3:52 |
 | 113 | [Graveyard Party Blues \- Live](https://open.spotify.com/track/23tDt3gEqjJXdVl7f4pdyP) | [Hearthill](https://open.spotify.com/artist/3plzd66b9mMmQYHGReDuKx) | [Graveyard Party Blues](https://open.spotify.com/album/6hH9qCI6lTDwTxoHmuPpep) | 3:08 |
 
-Snapshot ID: `aAsv/QAAAABnKeqpP6Zf5XFoaLE8GdVO`
+Snapshot ID: `aAsv/QAAAABp7iLEOYGwWLL11bsESAi9`

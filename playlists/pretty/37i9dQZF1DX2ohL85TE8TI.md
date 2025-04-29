@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Resident Playbook\(언젠가는 슬기로울 전공의생활\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,475 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,432 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Only For You](https://open.spotify.com/track/7h2iFoe2WNPIPJQDQmOur5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [No Gain No Love, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/31OFrN0a9IRvMomKL3oan0) | 3:29 |
 | 100 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 |
 
-Snapshot ID: `aA7bHgAAAAD1YSnk6EBDt/5yVJ/v7YnG`
+Snapshot ID: `aA7bHgAAAADp77WTjBz8l+r0dTfhYZTD`

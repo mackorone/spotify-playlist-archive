@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,780 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,781 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 |
 | 80 | [ナハト](https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [MOLTING AND DANCING](https://open.spotify.com/album/5iiTVjvlqwtOGpTSl59Ure) | 3:05 |
 
-Snapshot ID: `aApSAwAAAACEfeSuw7u8khKdqmaksBPJ`
+Snapshot ID: `aApSAwAAAADWhTuk+khugQCpHWpVPzcG`

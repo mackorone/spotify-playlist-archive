@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Shaboozey with Jelly Roll, Tucker Wetmore, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,128 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,270 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [Where Rainbows Never Die](https://open.spotify.com/track/6pfscJ0SJoArafuKfspe4c) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [American Spirit: The Last Drag](https://open.spotify.com/album/5hSvIpAkDp9nH2ER2vUoXP) | 3:50 |
 | 73 | [No Problem](https://open.spotify.com/track/18GxWRwxIvyrXiQnTj8B8u) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [No Problem](https://open.spotify.com/album/7oY9v1tbZR8J5Z3K8oPu4n) | 2:24 |
 
-Snapshot ID: `aAz5wQAAAAAT6jtsl86eBxW/Pz5Jwrvg`
+Snapshot ID: `aAz5wQAAAACDN3fNHMTUtPLK36ekEU2d`

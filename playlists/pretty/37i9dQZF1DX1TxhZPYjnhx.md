@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,581 likes - 158 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 158 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 157 | [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 |
 | 158 | [LEAN ON MY BODY](https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LEAN ON MY BODY](https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p) | 3:25 |
 
-Snapshot ID: `aApuEAAAAABXHK6BxteUwd+xAM2wDLeC`
+Snapshot ID: `aApuEAAAAAC8NbVehWjZK7Lsj+TS9VBx`

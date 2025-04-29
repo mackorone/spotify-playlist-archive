@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOBXdhaClhb.md) - [plain]
 | 13 | [Butterfly](https://open.spotify.com/track/3DTzQL4D6jE4BcwRCiKPCf) | [Loveholics](https://open.spotify.com/artist/68GXqr2rC0yIbkTA8uc7HV) | [Butterfly](https://open.spotify.com/album/4yvdJKrzYltedq1oZ9DWp0) | 3:50 |
 | 14 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 
-Snapshot ID: `ZuPGfgAAAABs70n7y6Dn3Gi0iZd1rtKJ`
+Snapshot ID: `ZuPGfgAAAAC8SvUv+d1BYOFh7NXCz18o`

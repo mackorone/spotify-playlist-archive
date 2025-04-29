@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 121748,
+  "num_followers": 121753,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAAPiZM7+RuP6JTkF6ijDwqQ",
+  "snapshot_id": "aA1zgAAAAABXTNN72fijXH4vpEbm/A6a",
   "tracks": [
     {
       "added_at": null,
@@ -726,11 +726,19 @@
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Evan Felker",
+          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 169604,
-      "name": "All You Fonies",
-      "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
+      "duration_ms": 213357,
+      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
+      "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
     },
     {
       "added_at": null,
@@ -790,19 +798,11 @@
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Evan Felker",
-          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
-        },
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 213357,
-      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
-      "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
     },
     {
       "added_at": null,

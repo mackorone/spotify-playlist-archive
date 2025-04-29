@@ -1,12 +1,12 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356937,
+  "num_followers": 356920,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAAC0W+3uPwkhO8q7jm7fUCu4",
+  "snapshot_id": "Zmtr4AAAAABzC6murlo9poPa5939itGk",
   "tracks": [
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "STUDENTEN (Hardstyle)",
+        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Skurk3n",
+          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "STUDENTEN (Hardstyle)",
+      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "FULLT \u00d6S ARBETSL\u00d6S",
         "url": "https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 150384,
       "name": "FULLT \u00d6S ARBETSL\u00d6S",
       "url": "https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "STUDENTEN (Hardstyle)",
-        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Skurk3n",
-          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "STUDENTEN (Hardstyle)",
-      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
     },
     {
       "added_at": "2024-06-13 22:00:00",

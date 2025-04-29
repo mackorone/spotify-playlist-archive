@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,690 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,652 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Half a Lifetime](https://open.spotify.com/track/2OuqjwB4Tt0wPaJhQDVQP8) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Half a Lifetime](https://open.spotify.com/album/18Wgc6z1DZL3QHsF3SRDWY) | 3:20 |
 | 125 | [Choose the latter](https://open.spotify.com/track/5GUYuoFZhKSPjEUfo4IKRu) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Choose the latter](https://open.spotify.com/album/1kqAKcx3JMzvDBPSAmg1YQ) | 2:42 |
 
-Snapshot ID: `aAsI8wAAAADL/1LxoQFDkeIrka7SyInu`
+Snapshot ID: `aAsI8wAAAACVL4eKfCMST2vH/kw2lVyS`

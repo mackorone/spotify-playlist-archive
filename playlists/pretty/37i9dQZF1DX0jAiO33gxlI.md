@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: NOG, Pedro Qually
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,543 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,546 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Ouro e Prata](https://open.spotify.com/track/07JV4bHIFAFWCTNupmsLpp) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [Nathan Murari](https://open.spotify.com/artist/7dnSemJzqIgV9LoeKfHvpw) | [Ouro e Prata](https://open.spotify.com/album/7eb8sswxDP93x61kM1yDx4) | 3:28 |
 | 74 | [Malandros do RJ](https://open.spotify.com/track/6TOC7c3j9Pe1fXSwr4DwKd) | [Bardek](https://open.spotify.com/artist/4bmba6yW4zV7BAu0jZmD6g), [astavodois](https://open.spotify.com/artist/7LEiQWfkJjHNbwaIAoqjAf), [Lokin](https://open.spotify.com/artist/0b0ykSTBnoG3FJXV69AbWI) | [Malandros do RJ](https://open.spotify.com/album/1xsxPCRHilrriH6DTnR5a9) | 1:42 |
 
-Snapshot ID: `aAr68gAAAABPK872VB+d/MqKLgGa7HDo`
+Snapshot ID: `aAr68gAAAACRyEbaQRgbtRBi0gTotsU+`

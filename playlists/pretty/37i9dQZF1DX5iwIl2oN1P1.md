@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,003 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,052 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Thank You](https://open.spotify.com/track/6OfeDrvHn3BQhwct4dhKb6) | [Andrae Paris](https://open.spotify.com/artist/1BdCkQGRzmwybx0AJ0sRat) | [Thank You](https://open.spotify.com/album/29w2aLCnEgtlrC1jcfFyPr) | 5:21 |
 | 60 | [Never](https://open.spotify.com/track/3IQdVOoiyUFhW00lDwJn8g) | [Chad Prins](https://open.spotify.com/artist/0Pw2kX5DUyKzek3ClK1Dvg), [Seve MusicKid](https://open.spotify.com/artist/7rc5DX7anRXeXWjgDEAdbn) | [Never](https://open.spotify.com/album/3H0raKStqrLreTil7aNlDM) | 3:38 |
 
-Snapshot ID: `aAIrmwAAAACaUrWI1YLZSA952F5c5BWE`
+Snapshot ID: `aAIrmwAAAABcfeHV7wP4sns9OywULTbQ`

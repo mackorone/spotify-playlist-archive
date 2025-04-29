@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,309 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,359 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
 | 100 | ['ever do you want](https://open.spotify.com/track/0dYg8io1fham8xmfuoizt4) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | ['ever do you want](https://open.spotify.com/album/2QNw9JDC66ZzuGgkfb4mCp) | 3:50 |
 
-Snapshot ID: `aAvicgAAAACRDKmHzdiPpXJEEb1fpt5/`
+Snapshot ID: `aAvicgAAAAAKxbI0RZzTV/PW20QnHthu`

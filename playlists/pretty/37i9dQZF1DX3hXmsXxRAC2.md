@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,741 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,789 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [Te Lo Pido Por Favor](https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Antologia De Juan Gabriel](https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc) | 3:03 |
 | 100 | [Si Quieres Verme Llorar](https://open.spotify.com/track/1wBTZeS7UH0uq7V1PtJqoa) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tributo a Juan Gabriel](https://open.spotify.com/album/4rYXic5FvIAtP6DnWP0yya) | 2:33 |
 
-Snapshot ID: `ZoSRRwAAAAAw+gFWJUj+1tsqqJ2hUEro`
+Snapshot ID: `ZoSRRwAAAABEbAFivaMT757vHh4Obvui`

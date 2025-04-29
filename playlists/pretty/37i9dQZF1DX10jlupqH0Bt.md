@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,925 likes - 63 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,319 likes - 63 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 62 | [852 Hertz \- Third Eye Chakra](https://open.spotify.com/track/4olyMwkfgdQNvUX2lEKdSs) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Solfeggio \#3](https://open.spotify.com/album/3yVMC8ZekgTBKpw42mksnk) | 3:12 |
 | 63 | [inner strength 852 Hz](https://open.spotify.com/track/4qBvDbNnTPZyeTTDkJDmzP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 |
 
-Snapshot ID: `Z9REiQAAAAAmwKGV5KebaaQNsuWhUwR7`
+Snapshot ID: `Z9REiQAAAACLixhKacbZadItj/gQfsiu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,900 likes - 143 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,195 likes - 143 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 142 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
 | 143 | [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 |
 
-Snapshot ID: `Z/kfaAAAAAAGSgVqWjhjwBtrJNnf9IU7`
+Snapshot ID: `Z/kfaAAAAAAb4bcVcPPLeqit/ANO5QkN`

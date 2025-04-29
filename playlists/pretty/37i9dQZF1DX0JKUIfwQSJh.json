@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 924924,
+  "num_followers": 925006,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsijHwAAAAD+OQalmseCo9Z1B/3He//W",
+  "snapshot_id": "ZsijHwAAAAAx/9BREUuzF76icxl+JJHN",
   "tracks": [
     {
       "added_at": "2024-08-23 14:56:31",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
+        "name": "McCartney (Special Edition)",
+        "url": "https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 123333,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
-        "name": "Acoustic Classics",
-        "url": "https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Personal Jesus",
-        "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
+        "name": "Acoustic Classics",
+        "url": "https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Personal Jesus - Acoustic",
-      "url": "https://open.spotify.com/track/7JbHx1w8yllNESuyp9SYv3"
+      "duration_ms": 309760,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

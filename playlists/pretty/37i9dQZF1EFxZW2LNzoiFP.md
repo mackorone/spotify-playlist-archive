@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 39 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
 | 40 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
 | 41 | [Baby](https://open.spotify.com/track/2TSl9k48kkiAWYosgEMb3s) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:19 |
-| 42 | [About You](https://open.spotify.com/track/1eYgb5jt3qBEICuwHDyjW9) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Symmetry](https://open.spotify.com/album/7wUP1iUObau6jXYCX0KGOo) | 3:08 |
-| 43 | [Everybody's Safe Until…](https://open.spotify.com/track/1bH7cCjye8VYaujXBsvFEs) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 3:39 |
+| 42 | [Everybody's Safe Until…](https://open.spotify.com/track/1bH7cCjye8VYaujXBsvFEs) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 3:39 |
+| 43 | [About You](https://open.spotify.com/track/1eYgb5jt3qBEICuwHDyjW9) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Symmetry](https://open.spotify.com/album/7wUP1iUObau6jXYCX0KGOo) | 3:08 |
 | 44 | [Smithereens](https://open.spotify.com/track/1ERLTEddhtvU39NlYvleXM) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:42 |
 | 45 | [Best On](https://open.spotify.com/track/4T7ZVAG9W9nnfpnDwI5yXo) | [Luca](https://open.spotify.com/artist/5rTI6KTONgKmOaeLqb8IgN), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best On](https://open.spotify.com/album/6xZZuco86maqI98MzYrGVD) | 2:45 |
 | 46 | [Handmade Ego](https://open.spotify.com/track/1YPQXxoK7BfRjcEA06rPBm) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 5:09 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 144 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
 | 145 | [For You](https://open.spotify.com/track/1cSUTpCUfxCfC8edMtGfPw) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:38 |
 | 146 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
-| 147 | [Joni](https://open.spotify.com/track/6sSRt2THpkn3DdwsmStmd9) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 2:32 |
-| 148 | [Black Shoes](https://open.spotify.com/track/6NvRkWPAoLVTh6peBC7fod) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:14 |
+| 147 | [Black Shoes](https://open.spotify.com/track/6NvRkWPAoLVTh6peBC7fod) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:14 |
+| 148 | [Joni](https://open.spotify.com/track/6sSRt2THpkn3DdwsmStmd9) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 2:32 |
 | 149 | [Hayley](https://open.spotify.com/track/1orYYQ1EhYMfCGVr6p5cGZ) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:40 |
 | 150 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
 | 151 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 |
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 238 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
 | 239 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Abv7iAAAAAADP7T+MJ54u/2yk3dl6P6S`
+Snapshot ID: `AbwBCgAAAAD+AJ4mCqhbGzYbfqcfhMe4`

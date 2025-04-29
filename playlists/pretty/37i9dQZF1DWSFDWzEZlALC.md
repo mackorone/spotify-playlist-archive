@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Blumengarten, Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,902 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,995 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Keine Zeit/Selbstmitleid](https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Keine Zeit/Selbstmitleid](https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp) | 2:51 |
 | 75 | [Filosofo](https://open.spotify.com/track/6CMnsBSNLdrlYVB2IJGYWx) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Filosofo](https://open.spotify.com/album/0GTqfosoU1B2h516J5L3Un) | 3:23 |
 
-Snapshot ID: `aAq0ggAAAADG3vU9sZaD0Lcu4Baon5JJ`
+Snapshot ID: `aAq0ggAAAAC7z/LDO2Xur6ufPm55E202`

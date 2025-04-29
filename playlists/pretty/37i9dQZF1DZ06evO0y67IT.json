@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8699,
+  "num_followers": 8703,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABsAiBsDxithvzDXHcilf2P",
+  "snapshot_id": "aA1zgAAAAADXdzdQ0TydlHlSeRic0yHi",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Frequencies",
         "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 177412,
       "name": "Hard to Breathe",
       "url": "https://open.spotify.com/track/0z7vP1cqwrlwvbSw5d0pzc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 201414,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+      "duration_ms": 201414,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
       "duration_ms": 172560,
       "name": "Constant Dread",
       "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 163605,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandpaper and Silk",
-        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 208518,
-      "name": "Gold Econoline",
-      "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     }
   ],
   "unique_name": "This Is Hawthorne Heights",

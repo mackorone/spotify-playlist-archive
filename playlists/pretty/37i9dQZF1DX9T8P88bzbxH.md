@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > The nostalgia is real – Boyce Avenue is back in Singapore! Cover: Boyce Avenue
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,164 likes - 24 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,149 likes - 24 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 23 | [Fix You](https://open.spotify.com/track/2OcZ7956nCJ1OJ6oyNDLtf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:54 |
 | 24 | [Iris](https://open.spotify.com/track/3w1F2W305dz4CAyYrHuhCT) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 4:10 |
 
-Snapshot ID: `Z/qOFAAAAAD3ke4Or8QjFKgSYKe9p+Zp`
+Snapshot ID: `Z/qOFAAAAAC/sqvAjFW/V1S6qlKBURBh`

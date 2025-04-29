@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Rony Parulian,  NIKI serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395,455 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395,640 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 47 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
 | 48 | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad) | 4:41 |
 
-Snapshot ID: `aArKCwAAAACwJ48hOaxuXY1x2nLIs5In`
+Snapshot ID: `aArKCwAAAACBE5agivdG9XBYO8MFrvq0`

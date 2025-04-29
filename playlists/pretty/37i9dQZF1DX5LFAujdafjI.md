@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > The final countdown to Portola Festival 2024\. For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the Portola Festival Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,041 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,059 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 37 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 38 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
 
-Snapshot ID: `ZvVr5gAAAAByr04gjdbG7uq1y2VlpbpP`
+Snapshot ID: `ZvVr5gAAAAAIfrazRkJwyPhgB5zx5qeT`

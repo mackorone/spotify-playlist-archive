@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Boots on the Ground",
+        "url": "https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii"
+      },
+      "artists": [
+        {
+          "name": "803Fresh",
+          "url": "https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203209,
+      "name": "Boots on the Ground",
+      "url": "https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6"
+    },
+    {
+      "album": {
         "name": "BUCKLE BUNNY",
         "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
       },
@@ -966,6 +984,24 @@
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+    },
+    {
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,702 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,741 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 32 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
 | 33 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
 | 34 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
-| 35 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
-| 36 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |
+| 35 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |
+| 36 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
 | 37 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 |
 | 38 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 39 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
 | 60 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
 
-Snapshot ID: `Z/iP0AAAAAAfG3InzKt2NHpaL7vrikQh`
+Snapshot ID: `Z/iP0AAAAACtBd1M9J8a6HkmBDoUwXV6`

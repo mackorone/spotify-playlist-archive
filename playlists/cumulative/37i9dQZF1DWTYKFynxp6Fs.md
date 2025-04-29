@@ -4,7 +4,7 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
 
-65 songs - 3 hr 43 min
+66 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Ithale Nee](https://open.spotify.com/track/6XRzFosRlKVzYU9UD1kkZN) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Hi Nanna](https://open.spotify.com/album/0VQiq7x7I0e3EVlFr0NrKf) | 3:30 | 2024-02-26 | 2025-03-25 |
 | [Jaada \- From "Aavesham"](https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Jaada \(From "Aavesham"\)](https://open.spotify.com/album/2i0rwB9IgecxcaRYeeGAas) | 2:42 | 2024-03-19 |  |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2023-09-26 | 2025-01-07 |
-| [K For Krishna](https://open.spotify.com/track/5t827RiIkACZPzMFxB26Hr) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Aju Varghese](https://open.spotify.com/artist/42d9KSmYSpFPoeIcEaQYpz) | [Guruvayoorambala Nadayil](https://open.spotify.com/album/19RRSzy72cqWRoAa74qsK3) | 3:03 | 2024-06-03 |  |
+| [K For Krishna](https://open.spotify.com/track/5t827RiIkACZPzMFxB26Hr) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Aju Varghese](https://open.spotify.com/artist/42d9KSmYSpFPoeIcEaQYpz) | [Guruvayoorambala Nadayil](https://open.spotify.com/album/19RRSzy72cqWRoAa74qsK3) | 3:03 | 2024-06-03 | 2025-04-29 |
 | [Kalapakkaara \(From "King of Kotha"\)](https://open.spotify.com/track/554RItg5afQv3ODGQMT29x) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Kalapakkaara \(From "King of Kotha"\)](https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf) | 4:11 | 2023-08-03 |  |
+| [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 | 2025-04-28 |  |
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 |  |
 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 | 2023-10-25 |  |
 | [Kiliye \- From "ARM"](https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Kiliye \(From "ARM"\)](https://open.spotify.com/album/30tPbatfXYe4Em74JzAzSg) | 4:31 | 2024-10-15 |  |

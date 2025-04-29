@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Dariell Cano, Yng Naz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,908 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,135 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 75 | [chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 |
 | 76 | [100 Botellas](https://open.spotify.com/track/2yPQZiZQzblKK6GE8GrhE1) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs), [Fernando Saldivar](https://open.spotify.com/artist/5bRkzZyF2rbxjeH3SHn1eE) | [100 Botellas](https://open.spotify.com/album/308A9mps64SbuVVNXvmY8k) | 3:03 |
 
-Snapshot ID: `aAJv/wAAAACneVtsNDPQwirucvJyYGFK`
+Snapshot ID: `aAJv/wAAAABwxgO9slXzLmEVQg59iwbP`

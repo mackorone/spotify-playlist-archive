@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: LE SSERAFIM\(르세라핌\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,026 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,025 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [To Be Honest](https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [To Be Honest \(This is a Campus Romance Series X YERIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk) | 2:50 |
 | 50 | [4U](https://open.spotify.com/track/1j3G8FWwszuSM20bqkxiFF) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Rewrite](https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid) | 3:22 |
 
-Snapshot ID: `Z9O0JgAAAACAJmmyV24aiJtS21xqtg9Z`
+Snapshot ID: `Z9O0JgAAAABzHjdyzRPBE4aPTvaimtzv`

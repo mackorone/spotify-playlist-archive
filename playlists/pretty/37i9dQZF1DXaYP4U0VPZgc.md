@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,244 likes - 74 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,252 likes - 74 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 73 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 74 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [ＮＯＩＲ　ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `Z/fdAAAAAAD7K3ygLTRPVT9a9jEZZzSt`
+Snapshot ID: `Z/fdAAAAAACOu3+4GMkhfTtTe2+82tjo`

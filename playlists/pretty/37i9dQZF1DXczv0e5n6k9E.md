@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Wang
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,163 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,162 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [BLAH BLAH](https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK) | [BLAH BLAH](https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA) | 2:06 |
 | 60 | [GANGO](https://open.spotify.com/track/2nUvhT3ycJOZq5N45a4N0i) | [Krid](https://open.spotify.com/artist/0sFV0X93fS6wz5Szca2B0a), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Alats](https://open.spotify.com/artist/4b309uw9yByY7XNUdurhcW) | [GANGO](https://open.spotify.com/album/30vrDvMaFubXB4jYxd5xvY) | 2:40 |
 
-Snapshot ID: `aAqmbAAAAAA8FB8TfOUOHjan+o53VkHT`
+Snapshot ID: `aAqmbAAAAABcpzRskAlym0vrxVaD/O9z`

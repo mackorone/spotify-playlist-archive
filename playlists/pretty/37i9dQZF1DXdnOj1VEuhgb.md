@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ezhel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,221 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,956 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 | 50 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
 
-Snapshot ID: `aAqmbAAAAAByl+WMmuwWG4MSNTiK5ADD`
+Snapshot ID: `aAqmbAAAAAAnTJZz1AAXACfuDhmoZi3M`

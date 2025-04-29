@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,903 likes - 59 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,966 likes - 59 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 58 | [Solfeggio Frequencies 741 Hz](https://open.spotify.com/track/6dqI2f7OmRg9WwceXAj7vR) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [741 Hz Full Body Detox](https://open.spotify.com/album/4SMlPCLiGgBN18AGs2jYaa) | 2:11 |
 | 59 | [Cleansing Heart 741 Hz](https://open.spotify.com/track/56CXESEfsaCPnzcB8kj1iO) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Cleansing Heart 741 Hz](https://open.spotify.com/album/1KltK5tuNXB2DCJH79Qy4l) | 2:30 |
 
-Snapshot ID: `Z7SHiAAAAADrEyoxV5NWcqhVEyw0L6ue`
+Snapshot ID: `Z7SHiAAAAABrSoQDhSwSQPshwDIjswN8`

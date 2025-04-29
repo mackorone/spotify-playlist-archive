@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,583 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,627 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/5cjSZ9mwRBhQlPIjgJH6NU) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Forever](https://open.spotify.com/album/22C8GuxjWnFDVD7XTYYtYe) | 3:04 |
 | 100 | [Peace Of Mind](https://open.spotify.com/track/2rupCuatTWrhnfusOS1umz) | [El Nora](https://open.spotify.com/artist/3d4mwvKwIlXRqCVK2WMdyS), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Peace Of Mind](https://open.spotify.com/album/2Zw5ShOFXt1ZbQ4wyL2Ryj) | 2:13 |
 
-Snapshot ID: `aAIhsQAAAAC7WZ/NuixkJPrbPCK7DdG7`
+Snapshot ID: `aAIhsQAAAABxX3ozoViz1vxtar/Cdp0+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto:Ciudad Nómade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,297 likes - 103 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,288 likes - 103 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 102 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 |
 | 103 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 |
 
-Snapshot ID: `aAvtEQAAAAA1hx7R5aIqLSBU7sqYds4u`
+Snapshot ID: `aAvtEQAAAAALRfqemfj43eUQFfvTMI5W`

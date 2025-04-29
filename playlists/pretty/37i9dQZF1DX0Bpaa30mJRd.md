@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,122 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,129 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 81 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 82 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `aAfnZgAAAAAw7Pzo49zx7yWt1gRW+q04`
+Snapshot ID: `aAfnZgAAAACSVDkNYz4p0Afeo2QYpn+G`

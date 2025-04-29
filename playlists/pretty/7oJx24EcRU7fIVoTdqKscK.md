@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-[nyphospital](https://open.spotify.com/user/nyphospital) - 145,107 likes - 68 songs - 4 hr 16 min
+[nyphospital](https://open.spotify.com/user/nyphospital) - 145,120 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 | 7 | [Okay](https://open.spotify.com/track/7iuHBHtxQNKRTGKkYpXmGM) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Dynamics](https://open.spotify.com/album/6sKPX6bMmWQrM2LCVjMoBY) | 4:33 |
 | 8 | [Closer](https://open.spotify.com/track/2JdzcxKSk7raYujsLYUXvi) | [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Closer](https://open.spotify.com/album/0mb6kP0WE2eoTJaU0qMLai) | 3:34 |
 | 9 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
-| 10 | [I Will Survive \- Remastered](https://open.spotify.com/track/2DX0WG5OGLQLaXb41Cq1IA) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor \(Remastered\)](https://open.spotify.com/album/0KwI95bTOayhB4kTnCZNiH) | 4:55 |
+| 10 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2DX0WG5OGLQLaXb41Cq1IA) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor: The Hits](https://open.spotify.com/album/0KwI95bTOayhB4kTnCZNiH) | 4:55 |
 | 11 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 12 | [Stayin' Alive](https://open.spotify.com/track/1IwNCQBChMOyuOQfhVQYvd) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Staying Alive \[The Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2CxBjxpgCpiTzLs98IAAog) | 1:30 |
 | 13 | [Cecilia \- Single Mix](https://open.spotify.com/track/11CeyEFt21BvAICfd4U8FA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 2:49 |

@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 96073,
+  "num_followers": 96093,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N+AAAAACieISx2i+oncDncYitTMnk",
+  "snapshot_id": "Z67N+AAAAAD5RcdC+Odj61X8RWOFh7Q6",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:40",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-02-14 05:00:40",
       "album": {
-        "name": "Estas Canciones Me Recuerdan a Ti",
-        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 240495,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
-    },
-    {
-      "added_at": "2025-02-14 05:00:40",
-      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2025-02-14 05:00:40",
+      "album": {
+        "name": "Estas Canciones Me Recuerdan a Ti",
+        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 240495,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
     },
     {
       "added_at": "2025-02-14 05:00:40",

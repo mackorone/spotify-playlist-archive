@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319615,
+  "num_followers": 319609,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuys8AAAAADH3pDWkQ90suAgsqcoEL0v",
+  "snapshot_id": "Zuys8AAAAACmuGuxWfMgkHlCzK3/e5kB",
   "tracks": [
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "A Feeling",
-        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 158809,
-      "name": "A Feeling",
-      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "A Feeling",
+        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158809,
+      "name": "A Feeling",
+      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1387,26 +1387,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
       },
       "artists": [
         {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
         }
       ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1435,22 +1431,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "She's In The Club (feat. Asal)",
-        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
         },
         {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 188011,
-      "name": "She's In The Club (feat. Asal)",
-      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
+      },
+      "artists": [
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/6K2yMO5pAWUO9MU7u68yvk"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 241750,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/6Jrrjgp9hvVCBKl3L0CF2T"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
-      },
-      "artists": [
-        {
-          "name": "Arka",
-          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
     },
     {
       "added_at": "2024-09-19 23:00:00",

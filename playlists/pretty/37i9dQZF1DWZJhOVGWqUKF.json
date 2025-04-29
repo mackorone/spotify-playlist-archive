@@ -1,12 +1,12 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: SENNA",
-  "num_followers": 345140,
+  "num_followers": 345155,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAtSkgAAAAB/5992UklgRrkNTP/1ysBH",
+  "snapshot_id": "aAtSkgAAAADO60Pu2T8SlyG+Y1Rha2VW",
   "tracks": [
     {
       "added_at": "2025-04-25 09:14:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218002,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "Rain in the River",
         "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
         }
       ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+      "duration_ms": 245767,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -903,22 +919,6 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
-        "name": "bad luck",
-        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 245767,
-      "name": "bad luck",
-      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
         "name": "I Hope That It\u2019s Fatal",
         "url": "https://open.spotify.com/album/7i9EylEFBzmhINRjhAQzso"
       },
@@ -931,38 +931,6 @@
       "duration_ms": 212501,
       "name": "I Hope That It\u2019s Fatal",
       "url": "https://open.spotify.com/track/5gaIhDH8ScpUbgiaF4rcA2"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
-        "name": "Blind Spot",
-        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Blind Spot",
-      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -983,6 +951,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "Blind Spot",
+        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Blind Spot",
+      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "Hollywood Forever",
         "url": "https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "MAD (feat. Ice Nine Kills)",
         "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 198393,
       "name": "MAD (feat. Ice Nine Kills)",
       "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "Rock N Roller",
+        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 223694,
+      "name": "Rock N Roller",
+      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
         "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 210600,
       "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
       "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
-        "name": "Rock N Roller",
-        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 223694,
-      "name": "Rock N Roller",
-      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
     },
     {
       "added_at": "2025-04-25 09:14:58",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
-        "name": "Mother Teresa",
-        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Mother Teresa",
-      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "Mother Teresa",
+        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Mother Teresa",
+      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "KILLING ME",
         "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-04-25 09:14:58",
       "album": {
+        "name": "Glass Half Empty (Part I)",
+        "url": "https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Glass Half Empty",
+      "url": "https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh"
+    },
+    {
+      "added_at": "2025-04-25 09:14:58",
+      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -1659,26 +1675,6 @@
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2025-04-25 09:14:58",
-      "album": {
-        "name": "Glass Half Empty (Part II)",
-        "url": "https://open.spotify.com/album/32YG49zOhGewbdspv1phvG"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "All Sales Are Final (with Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/6h47xouzbcSnEsWo3rfUvK"
     },
     {
       "added_at": "2025-04-25 09:14:58",

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Min Taka
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,083 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,081 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pyramid](https://open.spotify.com/track/2MBMZkwfDM1FjoiCpP3aXD) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [Pyramid](https://open.spotify.com/album/2X4Mwx605xpS6dyTdMCTJB) | 3:21 |
-| 2 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
+| 2 | [Killing Time](https://open.spotify.com/track/5faNmEw9yCofUMkLSkdB9t) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Killing Time](https://open.spotify.com/album/3gck5lYZG61SN078f9d67Z) | 2:49 |
 | 3 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
-| 4 | [Killing Time](https://open.spotify.com/track/5faNmEw9yCofUMkLSkdB9t) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Killing Time](https://open.spotify.com/album/3gck5lYZG61SN078f9d67Z) | 2:49 |
+| 4 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 5 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 6 | [Silver Linings](https://open.spotify.com/track/2OzoNFMwzEBD2oEEHGTkBT) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Silver Linings](https://open.spotify.com/album/0UP34fWv9yBgBP9jT851le) | 3:29 |
-| 7 | [Loverboy](https://open.spotify.com/track/1BGiBKtOgiAmEfofexKj5f) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody \- Side B](https://open.spotify.com/album/6M5eUawrEJdUbuNN1QtxTb) | 3:00 |
-| 8 | [Happy Sad \(It's a Party\)](https://open.spotify.com/track/62Z4Tb0smuDBQXkeThVlPU) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Happy Sad \(It's a Party\)](https://open.spotify.com/album/1jvAIOJwUlWGg2kOgNfZY0) | 3:20 |
-| 9 | [Red Eyes](https://open.spotify.com/track/2b25lG96mQscG7TGIcvCxO) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Game of Life](https://open.spotify.com/album/2TwEsshbSGfCgTKyfgjToT) | 3:15 |
-| 10 | [take my life \(back\)](https://open.spotify.com/track/5N4flJry5KjhlZ9REjMbqI) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [read me \- EP](https://open.spotify.com/album/3bxSpuh0ZJmq3llomSI75l) | 3:40 |
-| 11 | [Favorite Person](https://open.spotify.com/track/173fPfGcG00V2L3zAem3fQ) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [Favorite Person](https://open.spotify.com/album/3cev3QelnLo10qUfprhhic) | 3:09 |
-| 12 | [Running](https://open.spotify.com/track/5Akz1ec7EFluRLgqGxV2TY) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [Running](https://open.spotify.com/album/2fwlxKVcrd3noOhiCOcNHN) | 3:56 |
-| 13 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 |
-| 14 | [Reasoning](https://open.spotify.com/track/6nWfN0Rff9pl2w2T4IiaTL) | [Ashley Morgan](https://open.spotify.com/artist/3SvaZoKvmYQVIkvnVIRgHz) | [Reasoning](https://open.spotify.com/album/76y1W3YbynZzWKibNMHp66) | 3:02 |
-| 15 | [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 |
+| 7 | [Happy Sad \(It's a Party\)](https://open.spotify.com/track/62Z4Tb0smuDBQXkeThVlPU) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Happy Sad \(It's a Party\)](https://open.spotify.com/album/1jvAIOJwUlWGg2kOgNfZY0) | 3:20 |
+| 8 | [Loverboy](https://open.spotify.com/track/1BGiBKtOgiAmEfofexKj5f) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody \- Side B](https://open.spotify.com/album/6M5eUawrEJdUbuNN1QtxTb) | 3:00 |
+| 9 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 |
+| 10 | [Red Eyes](https://open.spotify.com/track/2b25lG96mQscG7TGIcvCxO) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Game of Life](https://open.spotify.com/album/2TwEsshbSGfCgTKyfgjToT) | 3:15 |
+| 11 | [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 |
+| 12 | [take my life \(back\)](https://open.spotify.com/track/5N4flJry5KjhlZ9REjMbqI) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [read me \- EP](https://open.spotify.com/album/3bxSpuh0ZJmq3llomSI75l) | 3:40 |
+| 13 | [Favorite Person](https://open.spotify.com/track/173fPfGcG00V2L3zAem3fQ) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [Favorite Person](https://open.spotify.com/album/3cev3QelnLo10qUfprhhic) | 3:09 |
+| 14 | [Running](https://open.spotify.com/track/5Akz1ec7EFluRLgqGxV2TY) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [Running](https://open.spotify.com/album/2fwlxKVcrd3noOhiCOcNHN) | 3:56 |
+| 15 | [Reasoning](https://open.spotify.com/track/6nWfN0Rff9pl2w2T4IiaTL) | [Ashley Morgan](https://open.spotify.com/artist/3SvaZoKvmYQVIkvnVIRgHz) | [Reasoning](https://open.spotify.com/album/76y1W3YbynZzWKibNMHp66) | 3:02 |
 | 16 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 17 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 |
 | 18 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
 | 100 | [Fancy Cars](https://open.spotify.com/track/4y67qOcBnfLNzySY6b1nhW) | [The Grey Pants](https://open.spotify.com/artist/6gQ7lK3KKdRqyxQyk4kcS9) | [Fancy Cars](https://open.spotify.com/album/3LaWLv7rT8pkakI7Cnlg7E) | 2:32 |
 
-Snapshot ID: `aAsxeAAAAAB56MPjiosR8a5m3+xOJr30`
+Snapshot ID: `aA9x3gAAAADgburqDweick3EPg8YYZLd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > stefanie metendo marcha e AULAS \- maat tb é porque eu rimo pt2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,866 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,760 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 48 | [Respeito no Jogo](https://open.spotify.com/track/0tCBJskPo5wOMcXMmJbHFb) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 2:43 |
 | 49 | [Não Rimo Por Grammys](https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Yangprj](https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv) | [Não Rimo Por Grammys](https://open.spotify.com/album/4htJju9wpP413iOJHuOix1) | 2:05 |
 
-Snapshot ID: `aAr68gAAAAC4MnWPnD0xZP5+Ry+EpeTv`
+Snapshot ID: `aAr68gAAAADRjTxJ3xaMaFmE6Dzez3GX`

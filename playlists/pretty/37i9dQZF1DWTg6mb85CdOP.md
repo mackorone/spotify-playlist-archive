@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Una celebración al fuego, el ritmo y la tierra 🔥 ¡Nos vemos en Tequila, Jalisco el 3 de Mayo! <a href="https://www.akamba.mx/"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,805 likes - 20 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,808 likes - 20 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 19 | [Yico Yico](https://open.spotify.com/track/0UIgu9ht8cbQ7G9GLZ2wAx) | [Paurro](https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO) | [Yico Yico](https://open.spotify.com/album/5cfbY5PFi5MQsR3ocYMl5T) | 5:50 |
 | 20 | [Galavisión](https://open.spotify.com/track/5VtgKM9afN6Hl6Q3QuXz3r) | [Paurro](https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO) | [Galavisión](https://open.spotify.com/album/49OFqE6dQfDtasbYVwdcqD) | 7:11 |
 
-Snapshot ID: `Z929BAAAAADpMQwZv4DyyBz+G1xcQNyd`
+Snapshot ID: `Z929BAAAAAD/th1dkBgQdUISZcGxROAo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: James Barker Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,711 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,710 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Dishonest](https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Dishonest](https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN) | 3:08 |
 | 50 | [Backseat](https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Backseat](https://open.spotify.com/album/3EqsLVYWfPIPVYzPAcpLa1) | 2:24 |
 
-Snapshot ID: `aAsI6wAAAACko5WDH9OSjcZOiwBszQNn`
+Snapshot ID: `aA+m5wAAAADTrzSSjxr7yN/YvnUiGUtA`

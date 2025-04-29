@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,624 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,631 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 |
 | 100 | [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 |
 
-Snapshot ID: `aAsI5wAAAABTu0laznM7IL1c8YzG1Hw0`
+Snapshot ID: `aAsI5wAAAAAT0sN/sGeTuCERJ5Uu7L1i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,157 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,234 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 98 | [Country Girl](https://open.spotify.com/track/7bmPfsGNntrLq8ZRP5g8wj) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Country Girl](https://open.spotify.com/album/0rfZDZkoQMBHJfvPSQHBM2) | 5:54 |
 | 99 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
 
-Snapshot ID: `aAsI8gAAAABzYDyVaC7Eu7z7gvXpdily`
+Snapshot ID: `aAsI8gAAAAC2lqqUQOqduIzdqDpjT9W5`

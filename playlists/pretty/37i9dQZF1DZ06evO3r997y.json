@@ -1,12 +1,12 @@
 {
   "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2275,
+  "num_followers": 2276,
   "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABqeyGvAeSXYKjh51Rk2e69",
+  "snapshot_id": "aA1zgAAAAABbHdCeCDmVwZsn1Rss1QVg",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Doze Days",
-        "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Dear Doze Days",
-      "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 274560,
       "name": "Kimi no Tonaride",
       "url": "https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Doze Days",
+        "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Dear Doze Days",
+      "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 308786,
-      "name": "Esquisse",
-      "url": "https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refrain to Sound Tomorrow (P's GROOVE Ver.)",
         "url": "https://open.spotify.com/album/1AeHWx31cAgO9lbpXU7pvc"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 259000,
       "name": "Refrain to Sound Tomorrow - P's GROOVE Ver.",
       "url": "https://open.spotify.com/track/1eGjT5Sa6zdMtQa2y9E9lY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
+      "duration_ms": 251773,
+      "name": "V!vace",
+      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 251773,
-      "name": "V!vace",
-      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 215146,
-      "name": "Dive to World",
-      "url": "https://open.spotify.com/track/7rGf9Se3KvM58PoCCOktkt"
+      "duration_ms": 204986,
+      "name": "Oxidation",
+      "url": "https://open.spotify.com/track/60rUiT9ULfiz0VnGXpnZba"
     },
     {
       "added_at": null,

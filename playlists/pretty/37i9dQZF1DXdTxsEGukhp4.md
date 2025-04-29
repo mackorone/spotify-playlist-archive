@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ME:I
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,872 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,887 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [ラブミー](https://open.spotify.com/track/0sScba9En0QRlgnf7yqeVu) | [Uscool](https://open.spotify.com/artist/24WBlW3dHJvp1CYokPgSWA), [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr), [tabehiro](https://open.spotify.com/artist/74LzKWRK1RXCRSw4O1PHeb) | [ラブミー](https://open.spotify.com/album/4pfFtML4C7bM6nbiDXYwm3) | 3:32 |
 | 50 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
 
-Snapshot ID: `aApSAQAAAADdLL34ttgrYELoK7URthCs`
+Snapshot ID: `aApSAQAAAAD7CgGnM9rRY9Ev6CcA1i4h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,754 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,757 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 21 | [Unilateral](https://open.spotify.com/track/4t05zORDqk0pMDgUqb3p0J) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Tudo é minha culpa](https://open.spotify.com/album/07c1m3BQBPWkh4ltXsXYjR) | 3:17 |
 | 22 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
-| 23 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
-| 24 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 23 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 24 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
 | 25 | [Saudosismo](https://open.spotify.com/track/6rMp4peGqo1zaT8ErytHgd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:10 |
 | 26 | [Tanto](https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Tanto](https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1) | 3:06 |
 | 27 | [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Malemolencia](https://open.spotify.com/track/4yOCbdjfT2zCSImNhTvDq9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 2:54 |
 | 33 | [Chuva](https://open.spotify.com/track/3dNPLNDR3fVmqHoV0t3LbD) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [\#1](https://open.spotify.com/album/36rOrPgkGGw3k02RtOFbEh) | 4:20 |
 | 34 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
-| 35 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
-| 36 | [Mana](https://open.spotify.com/track/7lKMqNkBECJiyJyQuw4j9X) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 4:35 |
-| 37 | [GIGANTESCA](https://open.spotify.com/track/0FYOKGb3jeFC9rtQFZAGLA) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [GIGANTESCA](https://open.spotify.com/album/75tSrVAnqly6IAHjh9asTR) | 3:33 |
+| 35 | [Mana](https://open.spotify.com/track/7lKMqNkBECJiyJyQuw4j9X) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 4:35 |
+| 36 | [GIGANTESCA](https://open.spotify.com/track/0FYOKGb3jeFC9rtQFZAGLA) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [GIGANTESCA](https://open.spotify.com/album/75tSrVAnqly6IAHjh9asTR) | 3:33 |
+| 37 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
 | 38 | [SOU FERA](https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SOU FERA](https://open.spotify.com/album/4gsuxE6hFZhwum1FG1cvvd) | 4:06 |
 | 39 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 40 | [Deságua](https://open.spotify.com/track/5WlyHAKCMb1adzdPG0e1xp) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 48 | [Margarida Perfumada](https://open.spotify.com/track/2cemRxwcxmTbFjE0H1dZid) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Margarida Perfumada](https://open.spotify.com/album/2PscMuM1kzWxvUdyqa7519) | 2:28 |
 | 49 | [Instinto](https://open.spotify.com/track/2mtTD5NiUp20xgeYOHMlwq) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Estranha Melodia](https://open.spotify.com/album/0bMgzD94sRgK98xfe74mfo) | 4:50 |
 
-Snapshot ID: `Z+18aAAAAAA8bS4diVQtfg3q1AT9RH89`
+Snapshot ID: `Z+18aAAAAAByg5EOmcr9c+BX0IJubc9I`

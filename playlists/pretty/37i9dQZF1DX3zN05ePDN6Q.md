@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,117 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,141 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Volta às Aulas](https://open.spotify.com/track/1LJZmHVSY4O0o9egOUhQKU) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Volta às Aulas](https://open.spotify.com/album/62oXKqT0PH8m7qbVNXrDmI) | 3:01 |
+| 1 | [Volta às Aulas](https://open.spotify.com/track/1LJZmHVSY4O0o9egOUhQKU) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Volta às Aulas](https://open.spotify.com/album/62oXKqT0PH8m7qbVNXrDmI) | 3:01 |
 | 2 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 | 3 | [Maldito Poema Concreto](https://open.spotify.com/track/23qwwBKI0aZ8ubJDUpAJo7) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Maldito Poema Concreto](https://open.spotify.com/album/1iiglD4rzgKVbvK0KQrtV3) | 2:22 |
 | 4 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [JÓIAS NO COFRE](https://open.spotify.com/track/05xHVCa4LsX7g5i38vFRbM) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Phat Kat](https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [CONVICTO](https://open.spotify.com/album/2nzvI4V9nJDHaLqgM6jgnC) | 4:47 |
 | 75 | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/track/5F5OBG4FrorY2IQq84JJjK) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/album/2sQRCpcBHg9oMYJy5OX336) | 2:41 |
 
-Snapshot ID: `aAr68gAAAABGNuNqOKGnI1I6CVClEJoh`
+Snapshot ID: `aAr68gAAAAAopZUSTssihjv3DPg/1BbJ`

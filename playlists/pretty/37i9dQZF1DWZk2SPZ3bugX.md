@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,455 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,489 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Citron](https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Citron](https://open.spotify.com/album/1asKuOHTA7Ps1PRLfMjS6I) | 3:25 |
 | 60 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 |
 
-Snapshot ID: `aAu0TAAAAACXkmfyzcDkvTqOpf+vYuMf`
+Snapshot ID: `aAu0TAAAAAD5p9ZVfXrKbv/z0fX3VwAZ`

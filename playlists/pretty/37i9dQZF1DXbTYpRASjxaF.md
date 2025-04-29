@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Kyan, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,938 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,935 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [BrusaDaNike e GShock](https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [SHAK](https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL), [VCR Slim](https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:06 |
 | 50 | [Bem Vinda a SP](https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Bem Vinda a SP](https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9) | 3:24 |
 
-Snapshot ID: `aAPGIQAAAADByrrjqIvFo9/9e2chvYvB`
+Snapshot ID: `aAPGIQAAAAAIXJIiV2f8Ksf7CCqx3fGc`

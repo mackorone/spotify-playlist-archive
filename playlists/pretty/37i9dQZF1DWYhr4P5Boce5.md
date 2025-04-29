@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,635 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,648 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 91 | [Only Time Will Tell](https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Only Time Will Tell](https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG) | 3:18 |
 | 92 | [Remind You](https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Hymn Logic](https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH) | [For the Soul](https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd) | 3:19 |
 | 93 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
-| 94 | [Red Mercedes](https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Red Mercedes](https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz) | 2:37 |
-| 95 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
+| 94 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
+| 95 | [Red Mercedes](https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Red Mercedes](https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz) | 2:37 |
 | 96 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 97 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 98 | [I Do](https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [I Do](https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8) | 3:34 |
 | 99 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
 | 100 | [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 |
 
-Snapshot ID: `Z68RzQAAAADQXbuhFEqEE6fFJi5GYyrs`
+Snapshot ID: `Z68RzQAAAACVoWgDoBgigxr1UJ0BJL/h`

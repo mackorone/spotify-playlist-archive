@@ -21197,6 +21197,24 @@
     },
     {
       "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/0auX6W6oLjO9cHmx4UTaNj"
+    },
+    {
+      "album": {
         "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -61374,7 +61392,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 292333,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"

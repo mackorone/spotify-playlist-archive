@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,695 likes - 100 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,735 likes - 100 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [You I Live For \- Live at Bliss Experience](https://open.spotify.com/track/2lgTUPSsNM3okBb4mZ7Nx1) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 7:22 |
 | 100 | [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 |
 
-Snapshot ID: `aArQ0gAAAABw1yFM7hriJdYKjCdR5buW`
+Snapshot ID: `aArQ0gAAAABL55JV41kNGUvQxyLHgV7E`

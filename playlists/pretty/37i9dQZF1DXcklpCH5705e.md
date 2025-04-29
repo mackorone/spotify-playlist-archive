@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: 韋禮安& 東海
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,020 likes - 58 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,023 likes - 58 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 57 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 |
 | 58 | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/track/0sk1CPmvdzL03FpdMDud57) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/album/24wLyLLvLG8L0f4tvWOwJP) | 3:34 |
 
-Snapshot ID: `aApgIAAAAACY93kR5yhjwa/SqfH6v5vU`
+Snapshot ID: `aApgIAAAAAAAqTPjeGi/PSrU98PZUKZY`

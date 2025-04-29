@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,704 likes - 76 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,475 likes - 76 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 75 | [Beiraada](https://open.spotify.com/track/5k82jcjY4iRV9SoYbNfLmY) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bhool Bhulaiyaa 3](https://open.spotify.com/album/2DNzidacofd4SvmOyj620R) | 3:19 |
 | 76 | [Pehle Bhi Main](https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 4:10 |
 
-Snapshot ID: `aAioNQAAAADs3DRIOKA995V6jcYqQ0GF`
+Snapshot ID: `aAioNQAAAAC1dHey/OcQMFZS0Tw/LUws`

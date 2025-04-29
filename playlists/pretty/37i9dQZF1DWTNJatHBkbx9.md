@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Cozypols
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,515 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,518 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 59 | [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 |
 | 60 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 |
 
-Snapshot ID: `aADQDgAAAAD9mwKKCHUHtGkXxZM/qJvP`
+Snapshot ID: `aADQDgAAAABmfHsgldR0PJ3AnQC15bRt`

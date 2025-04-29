@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,030 likes - 75 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,070 likes - 75 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Silver Lady](https://open.spotify.com/track/0khfraFGl9TsIjYrNEdIBi) | [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx) | [Silver Lady](https://open.spotify.com/album/60BQHGA9rZYLWydn6pMHnY) | 2:32 |
 | 75 | [All In My Head](https://open.spotify.com/track/4TkblE3su1N2ZLtE7WYUXQ) | [Odd Palace](https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV), [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm) | [All In My Head](https://open.spotify.com/album/0PX5KyNurWLarE2Ehm9DGI) | 4:32 |
 
-Snapshot ID: `aAsI7AAAAAD1nzkiyFtLhAw4nLLP+6XM`
+Snapshot ID: `aAsI7AAAAABQgBXuf2NiuRh+9hXki3X0`

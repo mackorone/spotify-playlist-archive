@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 100 songs - 5 hr 9 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 98 | [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 |
 | 99 | [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 |
 | 100 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
+| 101 | [rizz](https://open.spotify.com/track/333LqMnXvcMXagCHz9YDO9) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf), [Rimóczi Dóri](https://open.spotify.com/artist/73Gk6HXJP0u2ffrJ6K2m2S) | [EDM TRIP](https://open.spotify.com/album/6pxnEvaTp3Ok0YJRe1a4ma) | 2:53 |
 
-Snapshot ID: `AAAAwTfrU1B9zvfIUx/hteoUDrmTJ77I`
+Snapshot ID: `AAAAwprSDI4gHKvqOC2syNWV1DygHkw/`

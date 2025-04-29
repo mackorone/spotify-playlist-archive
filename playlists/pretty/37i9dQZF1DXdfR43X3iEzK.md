@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything \~<br/>self esteem on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,581 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,584 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 69 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 |
 | 70 | [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 |
 
-Snapshot ID: `aArCjgAAAADeIbFgCI54Crx85slsfTW4`
+Snapshot ID: `aArCjgAAAAB3AD8j4bVBJ7xWdPWlpfkI`

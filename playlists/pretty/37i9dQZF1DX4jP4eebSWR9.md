@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,607,640 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,607,665 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 49 | [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 |
 | 50 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
 
-Snapshot ID: `aAelDAAAAAB/yyIMGmM1+ncWzubLoMnd`
+Snapshot ID: `aAelDAAAAAAAagrUjrfmtKNt8l8k8UQY`

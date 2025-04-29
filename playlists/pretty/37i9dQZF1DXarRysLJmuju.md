@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,545 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,536 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 100 | [Her Magic](https://open.spotify.com/track/53lkvw7zWWRo7ihVYyPEgb) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Her Magic](https://open.spotify.com/album/3SgqMGuKlZIH592ms911Vy) | 3:41 |
 | 101 | [Feel Better](https://open.spotify.com/track/6pdWvXZj74lNGsobWGgBqn) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh), [Tafari Anthony](https://open.spotify.com/artist/5lo6XXV9M4PS0g4QP5NVfg) | [Feel Better](https://open.spotify.com/album/0albnDIarqtlyJsvAHMllU) | 2:42 |
 
-Snapshot ID: `aAsI5gAAAACscQfF1P6XaolnQpkW5u01`
+Snapshot ID: `aAsI5gAAAABlDEjLT6ZGHHkrOmRxNxVz`

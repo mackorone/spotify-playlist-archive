@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: MAYCE, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,148 likes - 165 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,187 likes - 165 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 164 | [Cold Beer Cold](https://open.spotify.com/track/6AU1ZKHmNLEYR3XNJT6wHe) | [Callum Kerr](https://open.spotify.com/artist/0RoXujGEsDM3qMJw361DWp) | [Cold Beer Cold](https://open.spotify.com/album/2ZmjBMayruqdeXXtKZeNqu) | 2:31 |
 | 165 | [Make It Last](https://open.spotify.com/track/4Bh2VjpHaCk9JekhsBFGd0) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Make It Last](https://open.spotify.com/album/3gKjSJ6DFx1WxUNWoidtSf) | 3:30 |
 
-Snapshot ID: `aAkxqgAAAAAC7st8TrMUYNK6UP+zOsdB`
+Snapshot ID: `aAkxqgAAAACX/0a+nhekvU1dA4FN/NSm`

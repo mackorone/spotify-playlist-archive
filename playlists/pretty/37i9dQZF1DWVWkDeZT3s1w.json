@@ -1,12 +1,12 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 110916,
+  "num_followers": 110955,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xm9wAAAADhEa7tDqhAfFSp9y92dY/i",
+  "snapshot_id": "Z5xm9wAAAABsXevv776fq5SLz5ujMf3N",
   "tracks": [
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Gangstas",
-        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
-      },
-      "artists": [
-        {
-          "name": "Lobo Estepario",
-          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Gangstas",
-      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Gangstas",
+        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
+      },
+      "artists": [
+        {
+          "name": "Lobo Estepario",
+          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Gangstas",
+      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Colecci\u00f3n In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "duration_ms": 220321,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "La Brujula",
         "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
       },
@@ -2047,26 +2063,6 @@
       "duration_ms": 284770,
       "name": "Mi Propio Cielo",
       "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Merced",
-      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
     }
   ],
   "unique_name": "Rap Conciencia",

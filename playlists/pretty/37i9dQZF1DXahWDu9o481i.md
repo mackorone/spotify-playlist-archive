@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,776 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,810 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 29 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 |
 | 30 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 
-Snapshot ID: `Z+3KWQAAAADhmo24GIvyr6rxHWnJL1y6`
+Snapshot ID: `Z+3KWQAAAABeMZtC9mmZiXLNORj/OiXf`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10571,
+  "num_followers": 10580,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsToQAAAACnoiaiVf0rBOqHVxsHV0ea",
+  "snapshot_id": "ZIsToQAAAACHzDddUeE38PsHSk+q+7bo",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Off the Wall",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Off the Wall",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
     {
       "added_at": "2022-10-01 16:43:03",

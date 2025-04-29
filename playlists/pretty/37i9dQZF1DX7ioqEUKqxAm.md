@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 \(Cover: 上坂あゆ美の「私より先に丁寧に暮らすな」\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 15 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 15 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 | 14 | [ブランドはなぜ値上げを続けるのか](https://open.spotify.com/episode/6vTjBLQyKQ3VNlu8iQF6V8) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 45:31 |
 | 15 | [第三十一回 坊主で花が好きな男の人](https://open.spotify.com/episode/4FKmdaZ7PcF1txpEgwbJs9) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 54:08 |
 
-Snapshot ID: `Z+udHQAAAADbEyBpY65B2LqrvUlGL+ct`
+Snapshot ID: `Z+udHQAAAACMGrxlYAOT658OAhUgMvOT`

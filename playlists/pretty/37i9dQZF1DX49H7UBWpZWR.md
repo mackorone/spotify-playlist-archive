@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49H7UBWpZWR.md) - [plain]
 
 > A podcast playlist where women of all experiences share the stories behind their music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 8 songs - 38 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 8 songs - 38 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49H7UBWpZWR.md) - [plain]
 | 7 | [With Love, Lava La Rue](https://open.spotify.com/episode/5Pr3f8xvhErWAlqtnMDDDh) | [With Love, An Artist](https://open.spotify.com/show/2nGMSPrkflbixgevlwuSDc) | [With Love, An Artist](https://open.spotify.com/album/2nGMSPrkflbixgevlwuSDc) | 5:24 |
 | 8 | [With Love, Ashley McBryde](https://open.spotify.com/episode/6DUYyGuZdOltgkkZLheMQQ) | [With Love, An Artist](https://open.spotify.com/show/2nGMSPrkflbixgevlwuSDc) | [With Love, An Artist](https://open.spotify.com/album/2nGMSPrkflbixgevlwuSDc) | 4:46 |
 
-Snapshot ID: `ZIsRrgAAAACez6y77FWsMPLnOWG9olZ+`
+Snapshot ID: `ZIsRrgAAAAABOJP+tALHJ1CTEnjDf9wo`

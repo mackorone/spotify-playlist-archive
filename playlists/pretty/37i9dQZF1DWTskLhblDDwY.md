@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,469 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,476 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 99 | [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 |
 | 100 | [おまえとふたり](https://open.spotify.com/track/76wg1Gh8EHbICKCQoHKXLW) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクションⅢ（1971\-1994）～おまえとふたり～](https://open.spotify.com/album/3kzvwLED2Dx7GW9BOCMNqs) | 3:27 |
 
-Snapshot ID: `ZsqCAwAAAAD0THtFFDgI8usx5UacRLyt`
+Snapshot ID: `ZsqCAwAAAADH8oDTAZv9vqULJioOFe9m`

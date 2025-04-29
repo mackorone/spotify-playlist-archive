@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,012 likes - 50 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,033 likes - 50 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 |
 | 50 | [Athra Ishq Ni Saon Denda](https://open.spotify.com/track/4Q9rdsluj3EWB9A41vO2K6) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Top 50 Punjabi Qawwalies](https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0) | 15:25 |
 
-Snapshot ID: `aAneVAAAAAB9rf+bnsTqrzErACSQXKI0`
+Snapshot ID: `aAneVAAAAADspFIBMKs9SCMgpiSCAsub`

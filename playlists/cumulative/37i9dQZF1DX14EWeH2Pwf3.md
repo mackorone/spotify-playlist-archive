@@ -4,7 +4,7 @@
 
 > Luchè in cover della playlist urban più grande in Italia 🔥
 
-757 songs - 1 day 13 hr 6 min
+758 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [La Notte di San Lorenzo](https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:08 | 2022-10-20 | 2022-11-04 |
 | [La Notte di San Lorenzo](https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [La Notte di San Lorenzo](https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI) | 3:08 | 2022-07-26 | 2022-10-21 |
 | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0) | 2:51 | 2022-12-15 | 2023-01-20 |
-| [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 | 2025-04-17 |  |
+| [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 | 2025-04-17 | 2025-04-29 |
 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-09 | 2022-05-25 |
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-22 | 2022-09-30 |
 | [Latitanza \(feat\. Izi\)](https://open.spotify.com/track/5Ck1c9wpvyFv03QcmJhdk9) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Latitanza \(feat\. Izi\)](https://open.spotify.com/album/1ZwH6KjOpnhP5w0NbGHY1m) | 3:06 | 2022-11-24 | 2022-12-16 |
@@ -513,6 +513,7 @@
 | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/track/3qlDeIWsa8ihI0iqiUPE52) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/album/4IqPSH11Jo214e7QycL678) | 2:45 | 2023-05-25 | 2023-06-16 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-09 | 2025-01-31 |
 | [okk@pp@](https://open.spotify.com/track/6Eut6MtJYENAxBtNG0stnT) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [okk@pp@](https://open.spotify.com/album/2Ev7vWEFWmMsWdiZZKgVR1) | 2:22 | 2022-09-22 | 2022-10-14 |
+| [ON FIRE](https://open.spotify.com/track/7fH0LbrfyMtQOHBH3Ctf5V) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [ON FIRE](https://open.spotify.com/album/6hDfU5wl4i0G2I4QNfcckp) | 3:21 | 2025-04-28 |  |
 | [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 | 2023-05-18 | 2023-10-03 |
 | [ONE KING](https://open.spotify.com/track/2khhv42zGlpSR2DVw02SxQ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 2:31 | 2024-12-12 | 2025-01-08 |
 | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM) | 2:42 | 2024-05-30 | 2024-06-14 |

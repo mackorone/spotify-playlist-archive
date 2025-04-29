@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Gateway Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,181 likes - 80 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,308 likes - 80 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 79 | [What Heaven Can't \- Live From VOUSCon](https://open.spotify.com/track/2HAAbyL9SkscxiehzOirdH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [What Heaven Can't \(Live\)](https://open.spotify.com/album/4Tquepa8ljYAviI4EPyvKS) | 5:59 |
 | 80 | [Shalom](https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Setnick Sene](https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE) | [Shalom](https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU) | 5:22 |
 
-Snapshot ID: `Z/ji5wAAAADYEuobp2qOrQKm2L5WENXr`
+Snapshot ID: `Z/ji5wAAAADqROcNroqw2n8PQZb+fq0F`

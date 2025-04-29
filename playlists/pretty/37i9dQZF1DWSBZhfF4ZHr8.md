@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Charles Doré
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,554 likes - 45 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,562 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 44 | [Vérité](https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Vérité](https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP) | 2:45 |
 | 45 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 |
 
-Snapshot ID: `aAq0fAAAAACgkT8ljkkJGFbk63uG8/GG`
+Snapshot ID: `aAq0fAAAAADjDCxsIubvrsuhiTLLGsTa`

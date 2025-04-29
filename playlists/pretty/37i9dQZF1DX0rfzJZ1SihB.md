@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 2024 年金音 15 全名單出爐！和 Spotify 一起全力支持優秀獨立歌手與作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,370 likes - 94 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,367 likes - 94 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 93 | [Island Boy](https://open.spotify.com/track/15Ax5uOrNThsIn1llEEsyi) | [舞炯恩](https://open.spotify.com/artist/21NwSAAbNe7mbnUsCLlSVR) | [Vusam](https://open.spotify.com/album/5cfj4uULnGJE5R5PUZRv2i) | 3:13 |
 | 94 | [28 \(What You Owe\)](https://open.spotify.com/track/5WPYDR0qs5xps1CxL2rehD) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [I'mdifficult](https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE) | 4:09 |
 
-Snapshot ID: `ZuvEwgAAAADs0C+L8HdWdPVQvzfqIWvi`
+Snapshot ID: `ZuvEwgAAAAA4yB/dpO1TbXZKWg5JqC/g`

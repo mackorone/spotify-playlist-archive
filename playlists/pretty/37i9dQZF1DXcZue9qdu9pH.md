@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 49 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 |
 | 50 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 
-Snapshot ID: `aAGV6gAAAAC+ZMHRm/PAzLnDYcZ62TIb`
+Snapshot ID: `aAGV6gAAAACm03hTRVQPjptEzhvI9yiK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Noga Erez
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,808 likes - 89 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,854 likes - 89 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [23's A Baby](https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [23's A Baby](https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt) | 4:13 |
 | 89 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 |
 
-Snapshot ID: `aArCjQAAAABcZLBalromAYDjWX3iqr/G`
+Snapshot ID: `aArCjQAAAAAmQLIfYVLJwMiyLz0JOQV8`

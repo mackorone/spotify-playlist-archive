@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "FENOMENAL'",
+        "url": "https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177138,
+      "name": "FENOMENAL'",
+      "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
+    },
+    {
+      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 300833,
       "name": "\u041d\u0430 \u0433\u043b\u0438\u0431\u0438\u043d\u0456",
       "url": "https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3"

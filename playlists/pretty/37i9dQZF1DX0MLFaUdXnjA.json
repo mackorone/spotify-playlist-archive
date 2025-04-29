@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Laufey",
-  "num_followers": 1842282,
+  "num_followers": 1842262,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI5gAAAAAYDxmUk3Yah77bzEg49wQq",
+  "snapshot_id": "aA+D6QAAAAA2rMWOqu0opm7rybdLbwp9",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:24",
@@ -65,22 +65,6 @@
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
     },
     {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
-    },
-    {
       "added_at": "2025-03-21 04:46:31",
       "album": {
         "name": "Spotify Singles",
@@ -95,22 +79,6 @@
       "duration_ms": 241776,
       "name": "You'll Be in My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-03-18 21:44:08",
@@ -129,6 +97,94 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Western Pleasure",
+        "url": "https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "duration_ms": 212552,
+      "name": "Dance with Somebody",
+      "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
+    },
+    {
+      "added_at": "2025-04-28 13:34:33",
+      "album": {
+        "name": "Miss America",
+        "url": "https://open.spotify.com/album/6h6s1KGJDUlApKW75qlArL"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 173404,
+      "name": "Miss America",
+      "url": "https://open.spotify.com/track/5EUFD92nWoRTlNVj7zkwUY"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-04-28 13:34:33",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
       "added_at": "2025-04-25 04:00:38",
       "album": {
         "name": "WITHERED",
@@ -143,22 +199,6 @@
       "duration_ms": 195328,
       "name": "Is This Really Love?",
       "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -211,30 +251,6 @@
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Western Pleasure",
-        "url": "https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C"
-      },
-      "artists": [
-        {
-          "name": "Chaparelle",
-          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
-        },
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        },
-        {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
-        }
-      ],
-      "duration_ms": 212552,
-      "name": "Dance with Somebody",
-      "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
     },
     {
       "added_at": "2025-04-11 04:00:21",
@@ -1599,22 +1615,6 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2025-01-10 05:00:33",

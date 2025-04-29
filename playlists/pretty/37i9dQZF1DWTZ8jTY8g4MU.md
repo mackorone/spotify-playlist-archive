@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,510 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,534 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber And Sultan Ben Mreea](https://open.spotify.com/artist/0fizJMgT4QeasTXjDWDF7g) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
 | 50 | [غلطة الشاطر](https://open.spotify.com/track/6El5OexIsYjjFVk7Y3PvGr) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [غلطة الشاطر](https://open.spotify.com/album/3BzAVIxiI5R6I3IzKgOtra) | 3:02 |
 
-Snapshot ID: `Z6y2ZQAAAAAVuocVuYcSKatTgqanv7xE`
+Snapshot ID: `Z6y2ZQAAAAB0gD44uNZ5RL2ucS4M+EC9`

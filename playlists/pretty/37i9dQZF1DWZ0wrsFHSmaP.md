@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: The Violet Summers
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,278 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,279 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Adore](https://open.spotify.com/track/5IAa74MASVbQmL5LCgcnfP) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Adore](https://open.spotify.com/album/0KczS3lI6yteMTxeZrBx4H) | 3:48 |
 | 50 | [PEACEKEEPER](https://open.spotify.com/track/3FkW4IK2pJAo88d2Dzbjg7) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [PEACEKEEPER](https://open.spotify.com/album/6RS7Kc866a8vDGngEISwYT) | 2:57 |
 
-Snapshot ID: `Z+qSEQAAAABtM3jEMavSFeq5tTy+rSdV`
+Snapshot ID: `Z+qSEQAAAABusAOJz/TsLBF2nVM148lW`

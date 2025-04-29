@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月10日\(土\)\~11日\(日\)に開催される「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,803 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,813 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 75 | [My Verse](https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Verse](https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI) | 2:55 |
 | 76 | [Lighter](https://open.spotify.com/track/495KMn84VgvD8HGx7nnxIa) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [After Dark](https://open.spotify.com/album/5OsGUY6X5Yb3pN8cKjwSnA) | 3:29 |
 
-Snapshot ID: `Z/joUgAAAAAMarUrdtw78N7n40e1OtrP`
+Snapshot ID: `Z/joUgAAAAAcZdJm8HoEfPZodzvqft8q`

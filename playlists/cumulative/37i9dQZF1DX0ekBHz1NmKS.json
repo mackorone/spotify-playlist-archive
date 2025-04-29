@@ -6159,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "Din egen sol",
+        "url": "https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231642,
+      "name": "Din egen sol",
+      "url": "https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH"
+    },
+    {
+      "album": {
         "name": "Din l\u00e5t",
         "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
       },
@@ -10620,6 +10638,24 @@
       "duration_ms": 232976,
       "name": "F\u00f6rst\u00e5r Det Nu",
       "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
+    },
+    {
+      "album": {
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "album": {
@@ -16646,7 +16682,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 147750,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9"
@@ -29488,7 +29524,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 174115,
       "name": "The Haze",
       "url": "https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN"

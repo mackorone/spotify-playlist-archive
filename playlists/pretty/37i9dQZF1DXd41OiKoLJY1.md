@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: lxni Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,563 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,574 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Pintuan](https://open.spotify.com/track/4xIK6jTK26xlvQeeFIprdw) | [Kollabz Kollektive](https://open.spotify.com/artist/27b6G6N0YJa17DmeIhtNnz), [Karolyn May Patricio](https://open.spotify.com/artist/1EMwQK9vloVxrTcCo8ixuG) | [Pintuan](https://open.spotify.com/album/2WQiqjVk3cLPe1dwUiEfzc) | 5:22 |
 | 100 | [Pale Moonlight](https://open.spotify.com/track/6wEjh3zSBV2eQoG7l5RpZO) | [n\_d\_g](https://open.spotify.com/artist/03nJFzQYJFQ7RdprHime47) | [Pale Moonlight](https://open.spotify.com/album/4PT5n4DtFOMMxOAmAMlcI1) | 3:10 |
 
-Snapshot ID: `aAsMdwAAAABcEuV7V+ei2qo9YqZW7x9i`
+Snapshot ID: `aAsMdwAAAABVK/WMJHRQGwWWV4yUPgdo`

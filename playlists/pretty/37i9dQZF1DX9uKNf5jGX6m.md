@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027,151 likes - 200 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,414 likes - 200 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 199 | [Hopeful](https://open.spotify.com/track/3FOajHFfKG99RrWco1kuCu) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [A New Day Rising](https://open.spotify.com/album/3YHlkNADUbpe7ccGzpJKNf) | 2:37 |
 | 200 | [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 |
 
-Snapshot ID: `Z/aNsgAAAAAfTvPUXCP160jG3DTvZcel`
+Snapshot ID: `Z/aNsgAAAADP2UBvf13EmPSc/DEVDToQ`

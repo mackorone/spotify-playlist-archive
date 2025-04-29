@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Shinjoko, Alahad
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,433 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,453 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 17 | [where's ur head at](https://open.spotify.com/track/114pfdEfxALEXoF4pdPloz) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [where's ur head at](https://open.spotify.com/album/5B6StpsQFedd92ENXpjcQy) | 3:16 |
 | 18 | [Peregrine](https://open.spotify.com/track/6FntfEUHdD3iSalrst6MdB) | [REDSIX](https://open.spotify.com/artist/04NxfUXFc2GAP9Woz0VWTm) | [Peregrine](https://open.spotify.com/album/4iDL7AmVshTKJM6VfCqUVj) | 4:27 |
 | 19 | [Hun Vokser](https://open.spotify.com/track/1npGqhEWSrQx6TT9HSFDcs) | [Gardenia](https://open.spotify.com/artist/0dXOVcOPuO02iBep9HwNzt) | [Hun Vokser](https://open.spotify.com/album/4g0xzOxCO65SAi7aWVgpgt) | 4:08 |
-| 20 | [Belum Bernyali \- Acoustic Version](https://open.spotify.com/track/4ZF1dv0NdVDEXBs7woK8y7) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/album/1IOd5j5yXw08SNGkbyLxGl) | 3:52 |
+| 20 | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/track/4ZF1dv0NdVDEXBs7woK8y7) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/album/1IOd5j5yXw08SNGkbyLxGl) | 3:52 |
 | 21 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:37 |
 | 22 | [Carry On](https://open.spotify.com/track/7zaQd7lAIWuQdW5CM9bFpN) | [Soul And Kith](https://open.spotify.com/artist/1jZOq09Qg4IopZVhHUMQXL) | [Carry On](https://open.spotify.com/album/0JcpxwvJAw4VZWdGc5pAXW) | 3:19 |
 | 23 | [Sunset & Ice Cream](https://open.spotify.com/track/1MRkbKx1P8ZHLxPoCfbi1G) | [HEINS.](https://open.spotify.com/artist/24kOGQYUtvEBkIc4AJddTk) | [Sunset & Ice Cream](https://open.spotify.com/album/7FBAoE3tKoiozzGViqUMrR) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Nelangsa Pasar Turi](https://open.spotify.com/track/0DhgjYNtV0bchCToeFwRpv) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Nelangsa Pasar Turi](https://open.spotify.com/album/3WDFtJW61DcXNnYzCjEjh6) | 4:45 |
 | 100 | [Dharma](https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Dharma](https://open.spotify.com/album/2cOXDoDjNw0xcKvTGajyf6) | 4:12 |
 
-Snapshot ID: `aAsYrAAAAABWKDN/RDV1/kPinDq8qnTI`
+Snapshot ID: `aAsYrAAAAADsQlyAw2shHW7nC0K6i3a1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=5E7M0TMXRR2r60CuEAlLEQ">Riaan Benadé</a> en <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=XXAWBmfvTKOXvYpAdhh9zA">Ricus Nel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,695 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,734 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 79 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
 | 80 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 |
 
-Snapshot ID: `aAq0jAAAAAAYzFjPhO9T5GQujMlPv/HY`
+Snapshot ID: `aAq0jAAAAAAipwdhwy6NkjvBGhQbj0R3`

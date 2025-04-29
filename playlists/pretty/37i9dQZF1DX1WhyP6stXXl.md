@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Nemo
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,507 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,516 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 79 | [Something Sweet](https://open.spotify.com/track/5GDoB6EtgZfv7j6hfMrGlc) | [Simone Elisa](https://open.spotify.com/artist/5frpwNUVxVl9W0n5kCbAr7) | [Something Sweet](https://open.spotify.com/album/3G1YDwU2SR16TvUfZ6FDhD) | 2:50 |
 | 80 | [heavy](https://open.spotify.com/track/2nDnRXjD0tEq9Bfmu3qNm3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [heavy](https://open.spotify.com/album/5nkbGoZXVKxCLxAezGg2sP) | 3:07 |
 
-Snapshot ID: `aAq0jQAAAAALknmzy35SU21GthZzkheH`
+Snapshot ID: `aAq0jQAAAACy3zihfI1WW7lNRqry4ltG`

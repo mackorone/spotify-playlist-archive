@@ -1,13 +1,29 @@
 {
   "description": "Music from \u201cGirls Band Cry\u201d \u00a9\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-  "num_followers": 24334,
+  "num_followers": 24381,
   "original_name": "Girls Band Cry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aApSAQAAAAAmUxbAlwG6udqybBsPQlPd",
+  "snapshot_id": "aApSAQAAAACyYJHiaMwVR+o+MlJAperD",
   "tracks": [
+    {
+      "added_at": "2025-04-24 15:00:17",
+      "album": {
+        "name": "\u98db\u3079\u306a\u3044\u8776\u306f\u5922\u3092\u898b\u308b",
+        "url": "https://open.spotify.com/album/3CCbAthgkhaUr9iBn4KGvC"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "duration_ms": 158429,
+      "name": "\u98db\u3079\u306a\u3044\u8776\u306f\u5922\u3092\u898b\u308b",
+      "url": "https://open.spotify.com/track/3Vz7Vs00QyiTBnNp70uHUc"
+    },
     {
       "added_at": "2025-04-24 15:00:17",
       "album": {

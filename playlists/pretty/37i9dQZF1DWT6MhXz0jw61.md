@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wiz Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,119 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,239 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [DENiM](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 | 100 | [Not In The Mood](https://open.spotify.com/track/6ocGxD3RWgYRvUyXcUu9LI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:15 |
 
-Snapshot ID: `aAsI9wAAAAD1og5rjEE6ZYjhNqcRiKA1`
+Snapshot ID: `aAsI9wAAAABPfeirW5ySBSZcMxb21saT`

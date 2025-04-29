@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Elaine Martins
 
-256 songs - 22 hr 9 min
+257 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [O Mínimo de Mim](https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [O Mínimo de Mim](https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe) | 4:08 | 2022-09-09 |  |
 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2022-09-09 |  |
 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 | 2023-06-23 | 2024-04-19 |
-| [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y) | 4:47 | 2024-10-25 |  |
+| [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y) | 4:47 | 2024-10-25 | 2025-04-29 |
 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 | 2023-08-18 | 2023-09-26 |
 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 | 2022-09-09 | 2023-10-14 |
 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 | 2022-10-15 | 2022-12-24 |
@@ -263,6 +263,7 @@
 | [É Adorar](https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [É Adorar](https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC) | 3:57 | 2024-04-19 |  |
 | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/4wzDrgn77tZpUKZYUTntix) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/2gKrbdR2ccF6Xi5a5zxlDH) | 3:45 | 2024-06-14 | 2024-06-29 |
 | [É Inexplicável](https://open.spotify.com/track/3ZWNYxH4GbS1OVjc9JWVrJ) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [É Inexplicável](https://open.spotify.com/album/1DUQzNxJDtC1hsgDjlu6dI) | 4:03 | 2025-02-28 | 2025-03-18 |
+| [É Pra Marchar \(Ao Vivo\)](https://open.spotify.com/track/0VNKlM12jOvwlCrU75uDTy) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU) | [É Pra Marchar \(Ao Vivo\)](https://open.spotify.com/album/7joA3r3TkJPFTM4Qyu6ufR) | 4:00 | 2025-04-28 |  |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

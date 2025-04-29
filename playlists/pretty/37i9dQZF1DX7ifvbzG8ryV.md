@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6Ja6zFB5d7XRihhfMo6KzY">Jozzy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 |
 | 50 | [what if nobody kisses me?](https://open.spotify.com/track/2zftPZ07N0ryFVbIxqZUNY) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what if nobody kisses me?](https://open.spotify.com/album/0xtwYwqIV2LJ7U5lUBWDVb) | 2:54 |
 
-Snapshot ID: `Z/ASMwAAAAACNaB1IGraBru6gWZDuiEC`
+Snapshot ID: `Z/ASMwAAAADwL7BwUYK/z3t9bvkLlmCx`

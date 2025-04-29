@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hasan Raheem, Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,179 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 59 | [Talab](https://open.spotify.com/track/7trCcRZrkFLQOdb9JO4vS3) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Talab](https://open.spotify.com/album/04qzeXBHxIyEJcTdDSK9LQ) | 3:20 |
 | 60 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 |
 
-Snapshot ID: `aAJEeQAAAAAguGLrDnvdKB62F7YE82jo`
+Snapshot ID: `aAJEeQAAAADeYynERXrveo77yHCd8Ye9`

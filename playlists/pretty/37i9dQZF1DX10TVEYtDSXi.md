@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,782 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,791 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Til hvers þá að segja satt?](https://open.spotify.com/track/2i5qrgOv3YUygaVmcDC6Jj) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t), [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Til hvers þá að segja satt?](https://open.spotify.com/album/4ucF8QKDgbd1Ln7kATTT79) | 2:57 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 
-Snapshot ID: `aArQiwAAAAAldbkfD6q2Y+OL1zjlemTo`
+Snapshot ID: `aArQiwAAAACuSwZMQ9rAwCrSxSuVNZOn`

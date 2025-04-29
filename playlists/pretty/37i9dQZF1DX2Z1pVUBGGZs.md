@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring sombr  ☁️
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,819 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,876 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 94 | [oyster](https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 3:00 |
 | 95 | [cdjs](https://open.spotify.com/track/2qgmQQJRpDIIyu0bv82Szf) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [cdjs](https://open.spotify.com/album/71jWfGnL4TQw6CstgmOVJo) | 3:08 |
 
-Snapshot ID: `aArCjwAAAAD3kh0RLS8kfiUyY+6dvUNA`
+Snapshot ID: `aArCjwAAAAClSN3HAGJlhuF0bp8a7DRQ`

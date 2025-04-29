@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 89524,
+  "num_followers": 89575,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAAAVKAuf993dvup9mnFR8ICa",
+  "snapshot_id": "aA1zgAAAAABgAhJqUHs1GHR5mTwcXxdi",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
+        "name": "Bell Bottoms Up",
+        "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
       },
       "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 202434,
-      "name": "Would If I Could (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US"
+      "duration_ms": 212386,
+      "name": "Bell Bottoms Up",
+      "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottoms Up",
-        "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
       },
       "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Bell Bottoms Up",
-      "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
+      "duration_ms": 202434,
+      "name": "Would If I Could (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "added_at": null,

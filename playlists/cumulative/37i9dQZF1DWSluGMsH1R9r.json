@@ -7765,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "Noapte",
+        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+      },
+      "artists": [
+        {
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199522,
+      "name": "Noapte",
+      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A"
       },

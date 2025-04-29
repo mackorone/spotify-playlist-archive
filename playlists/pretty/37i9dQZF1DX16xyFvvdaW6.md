@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,027 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,061 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 | 50 | [Fe](https://open.spotify.com/track/6WVrVeVXeREZp8aXRnh30E) | [Santo Remedio](https://open.spotify.com/artist/6103ay1cM9Vux1EceF8CCZ) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 3:11 |
 
-Snapshot ID: `Z+Z3agAAAACZnUxd+o5fGBp3/ZBuyQid`
+Snapshot ID: `Z+Z3agAAAADGuCeLTv0TJdW6qHoJuRRK`

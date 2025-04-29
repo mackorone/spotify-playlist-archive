@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PvGLqgtkY8.md) - [plain]
 
 > Listen to the soundtracks of the Frankly Speaking\. \(비밀은 없어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,787 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,791 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PvGLqgtkY8.md) - [plain]
 | 35 | [Your sense \- Instrumental](https://open.spotify.com/track/4fWevQQkVjxxBpkd6XTzW7) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 2:44 |
 | 36 | [Looks like the universe \- Instrumental](https://open.spotify.com/track/6sDYCpbd5La8t8fGSwotQf) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 3:27 |
 
-Snapshot ID: `ZoSdgQAAAAB1Y4muM786UXcvj2DpItih`
+Snapshot ID: `ZoSdgQAAAACAZTKlJqVhcTr5IDPFVv+i`

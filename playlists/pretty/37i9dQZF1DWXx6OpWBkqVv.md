@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,270 likes - 65 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,252 likes - 65 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 64 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 |
 | 65 | [First](https://open.spotify.com/track/0hS0m12cccQtMBe2x57tGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2brumHtFrAdAJgKKghuf4d) | 3:20 |
 
-Snapshot ID: `Z/FyqgAAAABbR9TbdqxmuJEpm2nKZ3Rr`
+Snapshot ID: `Z/FyqgAAAAAakPNQqPZmYziGLaYFlss6`

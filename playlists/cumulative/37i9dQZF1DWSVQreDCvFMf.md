@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-344 songs - 21 hr 35 min
+346 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alipin](https://open.spotify.com/track/4M58QFY0zKnt2V2IPKsoy5) | [Khel Pangilinan](https://open.spotify.com/artist/39ZvrXAretQWcY8yDoWAtP) | [Alipin](https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE) | 3:55 | 2024-11-20 | 2025-02-26 |
 | [Alitaptap](https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Alitaptap](https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F) | 3:56 | 2024-07-11 | 2024-09-25 |
 | [all i do is cry](https://open.spotify.com/track/1C3Irw3T4piq1HTSSr5SIU) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears \(and then some\)](https://open.spotify.com/album/1yvLkOMPYN1Lngb8TJZBYY) | 4:40 | 2024-11-29 | 2025-02-13 |
+| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/3ZglfO9QkXmNlZGgcjtEbX) | 3:56 | 2025-04-28 |  |
 | [ano ba talaga?](https://open.spotify.com/track/25ShFEmOxAztkDH90gDjnN) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [ano ba talaga?](https://open.spotify.com/album/3qnEoTZUorPccoiVv3KGdZ) | 3:06 | 2025-03-14 |  |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-16 | 2024-11-21 |
 | [ARAW\-ARAW](https://open.spotify.com/track/0D4R1fDFh1DRzchL31XlDt) | [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [ARAW\-ARAW](https://open.spotify.com/album/4Xde2IrigkqgoXjYlJw6CE) | 2:46 | 2024-09-06 | 2024-11-30 |
@@ -78,6 +79,7 @@
 | [Diving](https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Diving](https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr) | 3:28 | 2025-02-24 |  |
 | [Don’t Forget Me](https://open.spotify.com/track/2qfoi0U2ab4ZsdoxXRWNkZ) | [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Meet Me There](https://open.spotify.com/album/4TfJneYLsoxAiuGlAZuG2b) | 1:20 | 2025-03-21 |  |
 | [Dulo](https://open.spotify.com/track/5bLhybTqcGXyZezDi5sIB9) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Dulo](https://open.spotify.com/album/23gnt8zwEep6WVewjk5FW9) | 3:32 | 2025-03-21 |  |
+| [DUNGKA!](https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:35 | 2025-04-28 |  |
 | [edsa](https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [edsa](https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y) | 3:28 | 2024-07-02 | 2024-08-03 |
 | [Eksena \(Special Episode\)](https://open.spotify.com/track/0x6ZAgJH4Muzh9QaZEEZtA) | [HNT](https://open.spotify.com/artist/7aL6rI1bHOBUAtmLPCxfNR) | [Eksena \(Special Episode\)](https://open.spotify.com/album/0VBrOtpbZGU9H0N4FO52qD) | 4:12 | 2025-04-25 |  |
 | [EL CHAPO](https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [EL CHAPO](https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q) | 2:56 | 2024-07-19 | 2024-11-09 |
@@ -240,7 +242,7 @@
 | [Pagbilang ng Tatlo](https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Pagbilang ng Tatlo](https://open.spotify.com/album/5zDHRmcJnKJ3rwebiucYI4) | 3:15 | 2024-11-20 | 2025-02-15 |
 | [Pagitan](https://open.spotify.com/track/1T1aBtSqiINuYETuBxBibc) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pagitan](https://open.spotify.com/album/3pxM1qDsUCH2ntKilCbxwm) | 4:02 | 2025-01-31 |  |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-07-02 | 2024-07-27 |
-| [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-02-24 |  |
+| [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-02-24 | 2025-04-29 |
 | [Palagi](https://open.spotify.com/track/7uAUa6yjTZ1H6SnC9EFl3t) | [Odri](https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh) | [Palagi](https://open.spotify.com/album/5Rfx0N1vVYU3STdoOt4XJd) | 3:16 | 2025-04-09 |  |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-08-30 | 2024-11-23 |
 | [Palihim](https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3) | 3:49 | 2024-09-06 | 2024-12-17 |

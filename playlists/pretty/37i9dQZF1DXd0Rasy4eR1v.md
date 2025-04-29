@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,260 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 99 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 |
 | 100 | [Haaniya](https://open.spotify.com/track/1PqKI5x5jYzs2FqtqwKCg8) | [HESHAM KHAN](https://open.spotify.com/artist/0Dq8l1gWQfY8uR2c4Xevfx) | [Haaniya](https://open.spotify.com/album/68j8k5nIsNYDKjzRv8wETd) | 2:41 |
 
-Snapshot ID: `Z/jPJAAAAAAaXHxm2Yb1wAhwgMyv/hlz`
+Snapshot ID: `Z/jPJAAAAAAd5wd1lYUbBJ0kMtwj+JW9`

@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7316,
+  "num_followers": 7318,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33DYgAAAAC5x5sq9Pln0/9XNOeQ/1M1",
+  "snapshot_id": "Z33DYgAAAACf0h1UjdzpMG6oWII+/6mg",
   "tracks": [
     {
       "added_at": "2024-12-20 14:00:08",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 87085,
+      "name": "Overture of Conclave",
+      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Gladiator II (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 215333,
       "name": "The Talented Mr. Ripley - FIN",
       "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 87085,
-      "name": "Overture of Conclave",
-      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
     },
     {
       "added_at": "2024-12-20 14:00:08",

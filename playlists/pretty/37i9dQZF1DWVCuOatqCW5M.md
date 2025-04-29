@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Aparshakti Khurana, Afsana Khan, Shreya Jain and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,891 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,908 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Sight Wala Love](https://open.spotify.com/track/0WSO9J0fZ17EJ1DfT2rWVa) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT) | [First Sight Wala Love](https://open.spotify.com/album/29rCN9Ef5YCpaa7eYB1bAP) | 2:38 |
 | 2 | [Love & Light](https://open.spotify.com/track/5KzNPA2iuR6wXDcwIkmf8t) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Love & Light](https://open.spotify.com/album/5AZ1akg0I4hvqNGT036Kkg) | 3:30 |
-| 3 | [Golden Hours](https://open.spotify.com/track/2cMm0tsAERdYXr4Jzdr0oK) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Rajakumari](https://open.spotify.com/artist/6nHobQinpHfJYQfUx9dj4x), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Golden Hours](https://open.spotify.com/album/6haCEVvfOApScP6ojK8TMW) | 2:56 |
+| 3 | [Golden Hours](https://open.spotify.com/track/2cMm0tsAERdYXr4Jzdr0oK) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Golden Hours](https://open.spotify.com/album/6haCEVvfOApScP6ojK8TMW) | 2:56 |
 | 4 | [Mera Ranjha Beparwa](https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Mera Ranjha Beparwa](https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH) | 4:06 |
 | 5 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 6 | [Chahvan Sohneya](https://open.spotify.com/track/4qRukdESa5cDVl0IenNcPL) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Chahvan Sohneya](https://open.spotify.com/album/6p0dyZ12lPlSqLREVSvXoy) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 |
 | 50 | [Huzoor Mera](https://open.spotify.com/track/23c8foS1eMnqdfTlIiz1h2) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Huzoor Mera](https://open.spotify.com/album/0M3lL4ubd1jYI9fiAF7B3X) | 2:13 |
 
-Snapshot ID: `aAsyrAAAAAARXrtNPdJMH+E/Mm8p2r8t`
+Snapshot ID: `aAsyrAAAAADtnNrtXY5PiKQti9eW822P`

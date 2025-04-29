@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,891 likes - 81 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,911 likes - 81 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 80 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
 | 81 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 |
 
-Snapshot ID: `aAe0dgAAAACY18rDfPl2fWSGZd7Yd9d/`
+Snapshot ID: `aAe0dgAAAAAlLE0J4dtqrq8mavYsSrvY`

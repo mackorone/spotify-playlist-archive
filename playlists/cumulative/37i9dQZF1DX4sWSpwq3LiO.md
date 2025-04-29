@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,788 songs - 3 day 7 hr 23 min
+1,789 songs - 3 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,6 +1340,7 @@
 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 | 2024-11-25 |  |
 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 | 2025-03-04 |  |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2020-04-21 | 2022-02-24 |
+| [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 | 2025-04-28 |  |
 | [Silent Dusk](https://open.spotify.com/track/0IjOLaGtgjYKC5MOxEhEel) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Silent Dusk / Beside The Spring](https://open.spotify.com/album/4eNl0A3k0p9f08yE7gaeqC) | 3:29 | 2020-01-22 | 2020-09-30 |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-03-31 | 2022-07-29 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-03-02 | 2022-07-29 |

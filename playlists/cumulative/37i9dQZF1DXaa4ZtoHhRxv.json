@@ -521,6 +521,32 @@
     },
     {
       "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155135,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t"
+    },
+    {
+      "album": {
         "name": "Call It Fate",
         "url": "https://open.spotify.com/album/7LsnPAL7caJqqbU9LQFitH"
       },

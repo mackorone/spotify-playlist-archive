@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,976 likes - 416 songs - 1 day 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,076 likes - 416 songs - 1 day 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -425,4 +425,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 415 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 416 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |
 
-Snapshot ID: `aAsoAAAAAADvbSM7JIkcqUOA7nVAIODf`
+Snapshot ID: `aAsoAAAAAAAAC8SXi61z3xmEzyTQOjvt`

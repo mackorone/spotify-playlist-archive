@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Nicolás y Los Fumadores en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,221 likes - 108 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,235 likes - 108 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 107 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 |
 | 108 | [Dolor de Muelas](https://open.spotify.com/track/2FMiH6gp6BmBcJZzIHxt04) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Dolor de Muelas](https://open.spotify.com/album/2hHbGf8JJQFl2dxwzvInYO) | 2:50 |
 
-Snapshot ID: `aAslAQAAAACEnikJRduWQ/h8EJizWwkd`
+Snapshot ID: `aAslAQAAAACfbkekZAv+oqVyuZqqsZKA`

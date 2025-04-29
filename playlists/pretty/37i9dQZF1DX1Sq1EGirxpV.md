@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,786 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 67 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
 | 68 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
 
-Snapshot ID: `ZPk5NwAAAADKlEyiwd1ciThm+tg6CSOu`
+Snapshot ID: `ZPk5NwAAAABbYw2nXW5BudjK2k3MtC+a`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,973 likes - 157 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,977 likes - 157 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 156 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
 | 157 | [Connexion Astrale](https://open.spotify.com/track/1ysJ4ZIs3Jxyickg4Q3HZV) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Connexion Astrale](https://open.spotify.com/album/6jzRFCX55XJCsYLdhgfvb1) | 2:41 |
 
-Snapshot ID: `aAvN6QAAAADT2tDjElwuESklWzE/drfY`
+Snapshot ID: `aAvN6QAAAACDqoekceijtM4+9KIn/eHh`

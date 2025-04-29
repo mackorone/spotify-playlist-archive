@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 16427,
+  "num_followers": 16434,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWVwAAAABTgWPt7Vu1tvsPUvrcUGVC",
+  "snapshot_id": "aAGWVwAAAABddQf5qXJiAy9agemVpuFZ",
   "tracks": [
     {
       "added_at": "2025-04-18 00:01:27",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-04-18 00:01:27",
       "album": {
+        "name": "Aban Kaba",
+        "url": "https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Aban Kaba",
+      "url": "https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs"
+    },
+    {
+      "added_at": "2025-04-18 00:01:27",
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 164000,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
-    },
-    {
-      "added_at": "2025-04-18 00:01:27",
-      "album": {
-        "name": "Aban Kaba",
-        "url": "https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Aban Kaba",
-      "url": "https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs"
     },
     {
       "added_at": "2025-04-18 00:01:27",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2025-04-18 00:01:27",
       "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/0fWgG7vdLxWOOJZSKGKARN"
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ"
       },
       "artists": [
         {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 155555,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ"
+      "duration_ms": 178105,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK"
     },
     {
       "added_at": "2025-04-18 00:01:27",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2025-04-18 00:01:27",
       "album": {
-        "name": "Fortified",
-        "url": "https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ"
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/0fWgG7vdLxWOOJZSKGKARN"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
         }
       ],
-      "duration_ms": 178105,
-      "name": "Fortified",
-      "url": "https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK"
+      "duration_ms": 155555,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ"
     },
     {
       "added_at": "2025-04-18 00:01:27",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2025-04-18 00:01:27",
       "album": {
-        "name": "Amakor",
-        "url": "https://open.spotify.com/album/0afIcT8pjybNG9oP3PsrYk"
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Amakor",
-      "url": "https://open.spotify.com/track/2rFxaZy7VB4Fht7IQmxC6v"
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     }
   ],
   "unique_name": "Troski Rhythms",

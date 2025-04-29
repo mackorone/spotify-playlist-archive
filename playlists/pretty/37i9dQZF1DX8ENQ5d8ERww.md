@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,599 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,597 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 49 | [Extra](https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul), [Nativ](https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX) | [Link Up \(Remix\) / Extra](https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm) | 3:13 |
 | 50 | [Single](https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Odyssey](https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE) | 3:09 |
 
-Snapshot ID: `Z1bebQAAAADyDexPGzfUlDX9yskMiZdZ`
+Snapshot ID: `Z1bebQAAAADHywHaGHvtQbGTS09lqVyJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=k0R\_oCB8Sa\-mJCoQvYz2Jw"> رامي صبري </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,512 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,636 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [El 3o2d El Loli](https://open.spotify.com/track/2Thmx3L6ucjH97QzDJfXiu) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [El 3o2d El Loli](https://open.spotify.com/album/755j2XJ5r33urwvHzkGkNc) | 2:48 |
 | 50 | [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 |
 
-Snapshot ID: `Z/1vxwAAAAAdZi0suOyHFWV8fiY4mBnf`
+Snapshot ID: `Z/1vxwAAAACAmkEZIMNIs7h70JKJC7Cb`

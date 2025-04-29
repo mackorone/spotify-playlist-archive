@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Our Shame \(凹與山\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,170 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,171 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [Post Punk](https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Pilot](https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA) | 3:50 |
 | 50 | [無話不談](https://open.spotify.com/track/42hfJNdHlbWscxl5QZpiJR) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [無話不談](https://open.spotify.com/album/4BDsmdD4FsH5RDEWqnAh91) | 3:12 |
 
-Snapshot ID: `aApgHQAAAACfFlvY+HCdNNy8SJMlhjap`
+Snapshot ID: `aApgHQAAAABn7laTTg52QWY9IKcSrOIq`

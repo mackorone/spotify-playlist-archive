@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,767 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,830 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
 | 75 | [Send To You](https://open.spotify.com/track/2cZykG7K1deBkOsObi59s8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Send To You](https://open.spotify.com/album/4ghKPVs9oz6DKp1z2ItDdn) | 3:42 |
 
-Snapshot ID: `aA7u3gAAAADFX/d03Ei7XfEB1dK7nihu`
+Snapshot ID: `aA7u3gAAAADCqC5eL2QBXhYOBi+hvRQ7`

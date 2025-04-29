@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari The Lantis, Rich Brian hingga d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,041 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,054 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 119 | [those summer nights](https://open.spotify.com/track/7o0KEXaaVCSXM9QrYNen6j) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [those summer nights](https://open.spotify.com/album/1710WKdJ5DVt0ZYAhyQsKf) | 3:25 |
 | 120 | [together](https://open.spotify.com/track/0B6bAjWKR7trUwZXxmsLdX) | [leon geldard](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [together](https://open.spotify.com/album/2BiguYLSZ0YHk7Na8jp6aI) | 3:40 |
 
-Snapshot ID: `aAsI/wAAAABcrGuvkkJlfQeo7LSl2UHg`
+Snapshot ID: `aAsI/wAAAABkEJ5FhVFYlx8i/GFZ8hbK`

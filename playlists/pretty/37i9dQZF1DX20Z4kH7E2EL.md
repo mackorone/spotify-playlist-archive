@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,955 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,952 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Night In Buenos Aires](https://open.spotify.com/track/624RNGbjiS3plSFUZtLj08) | [Gavril](https://open.spotify.com/artist/6uFLKhZILvtgE6X6aXqwQ5) | [Night In Buenos Aires](https://open.spotify.com/album/5xp1LLvKUet55Jsr9Q37gz) | 2:52 |
 | 80 | [Jumbo](https://open.spotify.com/track/3VIMS1p3sNifH0RQnmDf7s) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish \(Remastered / Super Deluxe\)](https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj) | 6:57 |
 
-Snapshot ID: `Z/kujQAAAABxng4CjVg/Up5UKWXo85RX`
+Snapshot ID: `Z/kujQAAAAApTzmVUAQTL4uVG73xY0Sc`

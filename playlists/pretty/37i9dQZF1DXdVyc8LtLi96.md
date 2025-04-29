@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,291 likes - 216 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,288 likes - 216 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 215 | [Mahabharata](https://open.spotify.com/track/5X5nxaIGTBD83D93pqAjcr) | [Mellow Line](https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB) | [Mahabharata](https://open.spotify.com/album/7vTm9nMF9IlpmnL18EQ1jo) | 2:58 |
 | 216 | [New Radiance](https://open.spotify.com/track/6B3SmSOwmyfb04y1ivVE02) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [New Radiance Continuum](https://open.spotify.com/album/0awxQuetJ5yeBNGn09KLMm) | 2:29 |
 
-Snapshot ID: `Z+vpcwAAAACthnspvlh3+BYmtBYibzHd`
+Snapshot ID: `Z+vpcwAAAAB4X9doY8QKAsh+JUXFlhRX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,831 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,864 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 54 | [WASTED](https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [WASTED](https://open.spotify.com/album/2cLii93QG7J7w3DHMiwcyG) | 4:05 |
 | 55 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 |
 
-Snapshot ID: `Z/jKZAAAAADAFVPsevRBTN4fogMaikz0`
+Snapshot ID: `Z/jKZAAAAABatTaut/c6U9WnKYlBmpWl`

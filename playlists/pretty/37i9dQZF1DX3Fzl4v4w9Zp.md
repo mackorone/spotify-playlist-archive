@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Julien Baker & TORRES
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,434 likes - 158 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,449 likes - 158 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 157 | [Press On](https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Heat Comes Down](https://open.spotify.com/album/6VcQbbneWsPFS89mH5QWqN) | 3:37 |
 | 158 | [Coal](https://open.spotify.com/track/6soie0LfhmsNjieMolzHnG) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:14 |
 
-Snapshot ID: `aAsI9AAAAACDq0Qqql43/04cI7Ji0rQt`
+Snapshot ID: `aAsI9AAAAAAYptFO6bO4P5pdNC8YyEWN`

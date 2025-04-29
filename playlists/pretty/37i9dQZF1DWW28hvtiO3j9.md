@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,877 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,927 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 47 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
 | 48 | [Hi\-way 1](https://open.spotify.com/track/72xnTsNT9Ylrkx3QqmHPNZ) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [NATURALLY](https://open.spotify.com/album/0jTARGdMppFtS9BO4Z6luv) | 4:44 |
 | 49 | [EMANON](https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [EMANON](https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y) | 3:44 |
-| 50 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
+| 50 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
 
-Snapshot ID: `Z6AA3AAAAAB4QtkGwgSR3rA9cL5GZHcE`
+Snapshot ID: `Z6AA3AAAAADWVVR0qVUFUTuVvp+1UkWr`

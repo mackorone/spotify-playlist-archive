@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,248,037 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,248,236 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 | 61 | [Love To Hate Me](https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:49 |
 | 62 | [Crazy Over You](https://open.spotify.com/track/4yOqfpzmL4FvmXJTUgAMUP) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:41 |
 
-Snapshot ID: `Z9lsWQAAAAAw0sylLnY77Gf5Tu1CkyxD`
+Snapshot ID: `Z9lsWQAAAAClE2bjN8ruXVlK0uCeaEZf`

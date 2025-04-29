@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,822 songs - 11 day 6 hr 20 min
+4,826 songs - 11 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1926,6 +1926,7 @@
 | [I AM BEAUTIFUL](https://open.spotify.com/track/6F2hDZzsdlK4GuQtirYQ0R) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [I AM BEAUTIFUL](https://open.spotify.com/album/4aftly5LFjVeLmhYVviX7e) | 3:56 | 2024-05-31 | 2024-08-20 |
 | [I Am Coming For You](https://open.spotify.com/track/3e0xZ7l7UJxb7jFnN5K4rk) | [Kala Ragan](https://open.spotify.com/artist/6XbDGsHxHAtOsbFVLHI5hG) | [Dreamscape Money](https://open.spotify.com/album/2wcrUIttxMq3pto4ZZrHqn) | 2:54 | 2023-12-08 | 2023-12-16 |
 | [I Am Not Family](https://open.spotify.com/track/7KpSmrCf8mC3JjukTiScK6) | [Erniemon](https://open.spotify.com/artist/0fBQdHDzq576xfmR2CKOhP) | [The First Cut](https://open.spotify.com/album/7fU0BDU46AzHC00S1bkugF) | 3:15 | 2024-07-13 | 2024-07-25 |
+| [I am The Light](https://open.spotify.com/track/5SZiG1ZBaAtlfYtFU0NWwr) | [Iyanna Hathor](https://open.spotify.com/artist/2WWXGNk951O3FJQMDmTOIw) | [I am The Light](https://open.spotify.com/album/30Ghh5uBhEJkcCnNjgKAs7) | 3:44 | 2025-04-28 |  |
 | [I Breakdown](https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY) | [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [I Breakdown](https://open.spotify.com/album/5EYo35pMkpGpFG0upy3RAX) | 4:01 | 2024-10-13 | 2024-10-25 |
 | [I Burn a Little](https://open.spotify.com/track/7dSSmkrsTYOFEfk4CSJGGo) | [Pri](https://open.spotify.com/artist/66PARtZr2CSygE5OZ4T3CP), [Padre Tóxico](https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ) | [I Burn a Little](https://open.spotify.com/album/7gk1eny8yrQxJDlE8vWH6D) | 3:06 | 2022-02-18 | 2022-03-07 |
 | [I Came to Slay](https://open.spotify.com/track/4p9pPnJGi0LjyfHMM2DL5P) | [Olivia Thai](https://open.spotify.com/artist/1HtyYQkdkuViivGvneQxRq) | [I Came to Slay](https://open.spotify.com/album/0hi9HskOm9yay3MZ8C6ATm) | 3:53 | 2020-06-25 | 2020-07-13 |
@@ -2823,6 +2824,7 @@
 | [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 | 2023-02-11 | 2023-03-11 |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |
 | [My Flower](https://open.spotify.com/track/7gzYQk8YYHuAG3nqrKk98E) | [Josie James](https://open.spotify.com/artist/4lvQeMOBIb26KSoPaYXMI2) | [My Flower](https://open.spotify.com/album/6hlouhJGBMd0dJuEV1D3Qs) | 2:00 | 2024-07-08 | 2024-07-20 |
+| [My Freedom](https://open.spotify.com/track/4MUrLGKNqRgH3LRUriDWit) | [Jared Benson](https://open.spotify.com/artist/5tOpgdpxDhmsR7khI7GBHd) | [Save My Soul](https://open.spotify.com/album/4jLCcV8PYXcmtrDOROZUwp) | 3:31 | 2025-04-28 |  |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-08-20 | 2023-08-28 |
 | [My Gut](https://open.spotify.com/track/1vnRZVQEEOXxWph57js5OP) | [Ark White](https://open.spotify.com/artist/0T9bXazaIkt3kOSTPpCFUe) | [My Gut](https://open.spotify.com/album/5uTlBOB0DdYkBpicQPEW2M) | 4:07 | 2022-12-09 | 2022-12-31 |
 | [My Head](https://open.spotify.com/track/4HC480g0BPfdzlbk3DEgE3) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [My Head](https://open.spotify.com/album/2pPpQd5PLRiJ8QprZiYlFZ) | 2:16 | 2022-06-22 | 2022-07-16 |
@@ -3077,6 +3079,7 @@
 | [Only One](https://open.spotify.com/track/11g4ZLlSgjwNPrlyBhhK5G) | [Blue Sails](https://open.spotify.com/artist/7K8pOBXISyUXE08MVIlt4O) | [Only One](https://open.spotify.com/album/4AcbBkKvqpHJvBwcW7A6Rn) | 4:48 | 2021-01-15 | 2021-01-30 |
 | [Only One \(Dr Fazz Remix\)](https://open.spotify.com/track/3R1Q802GR7MlAe0bHI7Qgb) | [Patrizia](https://open.spotify.com/artist/6pS7d2jzdv4aVYjGCVNpfm) | [Only One \(Dr Fazz Remix\)](https://open.spotify.com/album/1A1LNjc2VmRirDuHg9VLPp) | 5:13 | 2024-07-30 | 2024-08-11 |
 | [only the beginning](https://open.spotify.com/track/2GoCmpyyMy9A794jxEWDs3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [only the beginning](https://open.spotify.com/album/6dADrYm5dkxm9dyX4wnbza) | 3:55 | 2024-05-05 | 2024-05-19 |
+| [Only Through a Glass Darkly](https://open.spotify.com/track/7ETXFgRgMsC7bgwZhpyAwN) | [Daniel G\. Harmann](https://open.spotify.com/artist/4WjuzOvyLZTWChhSxWlgsL) | [Only Through a Glass Darkly](https://open.spotify.com/album/65fN0J4hOoqtE4iwKTzD1x) | 2:53 | 2025-04-28 |  |
 | [Only Us](https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Only Us](https://open.spotify.com/album/3gAF3FpWgNZKX3RfpFohQ0) | 3:07 | 2021-07-23 | 2021-08-08 |
 | [Only You](https://open.spotify.com/track/4bWcJPVnrgeDnt9pUhCVPW) | [Funsho](https://open.spotify.com/artist/2zTkayBLSvHJO4h1lVxsaY) | [Only You](https://open.spotify.com/album/3sdaPdXgGHXxXxcHACIRng) | 3:22 | 2025-03-21 | 2025-04-04 |
 | [Only You](https://open.spotify.com/track/4FvLKbcWxrlLJMt22h1LsS) | [Nana M\. Rose](https://open.spotify.com/artist/11vVr1ilkEZxce5560jPmC) | [Only You](https://open.spotify.com/album/5XDHAQz6BNkw24l8mhpqVd) | 3:31 | 2023-03-17 | 2023-04-09 |
@@ -3808,6 +3811,7 @@
 | [Soul Tie](https://open.spotify.com/track/2iVEGPTLFHNrTURqmt0lLW) | [Ninja Nai](https://open.spotify.com/artist/1HzJQa47y3chgBRun5Ur7n) | [Soul Tie](https://open.spotify.com/album/2rLFHdGKygEoV3BccXYrHx) | 3:14 | 2021-07-04 | 2021-07-18 |
 | [Soulfully Sublime](https://open.spotify.com/track/4Xq6Mqgs9jwT1JkjZyaeMe) | [Ingram Street](https://open.spotify.com/artist/479HXCYTRI8HIifhQryGhC) | [Soulfully Sublime](https://open.spotify.com/album/2R7zn0X0Vo3glGx4zHGzXL) | 4:26 | 2025-02-26 | 2025-03-24 |
 | [Souls Craving](https://open.spotify.com/track/6TwwOvtbI3SmzGjDeNBJl9) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Souls Craving](https://open.spotify.com/album/3Rzbg1Lg9U5Dhb9uAHPJoa) | 2:58 | 2022-04-08 | 2022-05-15 |
+| [Souls of the Working Class](https://open.spotify.com/track/4W0wfHIZWzr3uSfAXpw9OY) | [Josephhosey](https://open.spotify.com/artist/1f0aS88w4gbAErSjEXIt3v) | [Souls of the Working Class](https://open.spotify.com/album/0t8eYHhnKKVjHX3NTm8S1M) | 3:32 | 2025-04-28 |  |
 | [Souly Interlude \- Time Is Color](https://open.spotify.com/track/2R5iu22K1byWlo1HQ3D4TD) | [Cédric Hanriot](https://open.spotify.com/artist/78sChrFdCE4ZhNJviGcI5v), [Days](https://open.spotify.com/artist/3rtwibWZhlTR8lIxscFmDG) | [Souly Interlude \(Time Is Color\)](https://open.spotify.com/album/2Ay2MbzxiH4awOtbDzuhZN) | 1:52 | 2022-09-09 | 2022-09-25 |
 | [South Suburban Weekend](https://open.spotify.com/track/2bMy7ar4VpU4zqtDTEpDTz) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [South Suburban Weekend](https://open.spotify.com/album/1THsMEh2GXrpww296NKXdK) | 2:50 | 2024-04-28 | 2024-05-14 |
 | [soñando](https://open.spotify.com/track/6zb4smws75A57UXuUDYuRi) | [Venom Ruiz](https://open.spotify.com/artist/0EiKA8qji4OtJ1cbpTTuha) | [soñando](https://open.spotify.com/album/7dZ2I6bnLN3xB4FO4HpdL3) | 3:06 | 2024-09-09 | 2024-09-21 |

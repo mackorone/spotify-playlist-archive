@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Alvin Lapian
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,905 likes - 62 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,901 likes - 62 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 39 | [Orchid](https://open.spotify.com/track/6QB7IzzXfRv0i38yY4Q2zk) | [Candles](https://open.spotify.com/artist/6YpDrRzBs67OGaJSLNozva) | [Orchid](https://open.spotify.com/album/59qiN0F4tLuSUiPCR81a3B) | 3:33 |
 | 40 | [Pink Lady](https://open.spotify.com/track/2jIULqUhHOmTd2vetw3AqH) | [Keianka](https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9) | [Pink Lady](https://open.spotify.com/album/2H6E1BEBz0laDOOqfTPIDv) | 2:28 |
 | 41 | [GREED](https://open.spotify.com/track/6goACuhjuLxDkT9nZTqECV) | [Mawar](https://open.spotify.com/artist/2CypVJmHuK9ZpK1N43tsOe) | [GREED](https://open.spotify.com/album/5xRQnTkDH2VdLS2uI4T254) | 3:53 |
-| 42 | [Belum Bernyali \- Acoustic Version](https://open.spotify.com/track/4ZF1dv0NdVDEXBs7woK8y7) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/album/1IOd5j5yXw08SNGkbyLxGl) | 3:52 |
+| 42 | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/track/4ZF1dv0NdVDEXBs7woK8y7) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Belum Bernyali \(Acoustic Version\)](https://open.spotify.com/album/1IOd5j5yXw08SNGkbyLxGl) | 3:52 |
 | 43 | [No Regrets](https://open.spotify.com/track/4kjudxJtBIhJ1VyZ1qyns2) | [Burgundy](https://open.spotify.com/artist/33YZb6W25FDb2kn5mKDrvl) | [No Regrets](https://open.spotify.com/album/3STKDJTWEnsmGDYc74UJNY) | 3:04 |
 | 44 | [No More](https://open.spotify.com/track/5hFhXhjQyhfOr570ePfwXw) | [Stravine](https://open.spotify.com/artist/4ZlCRg9ugEZ2SOY0213LLc) | [No More](https://open.spotify.com/album/4MigEbGgMdxhORpyq06SUh) | 3:31 |
 | 45 | [high and low](https://open.spotify.com/track/5FthveSt77tAuxsAHvyAsb) | [Billy Christian](https://open.spotify.com/artist/1ZUJ7T7EIgqbS9rjqG40i5) | [high and low](https://open.spotify.com/album/4VDdaNCkRzqqCrlclhsXAn) | 3:11 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 61 | [Teduh](https://open.spotify.com/track/3UJnQNRqYF1DxdixEMzG3l) | [Farrel Nugroho](https://open.spotify.com/artist/5fTEdlBvW2WQtX5CxPoVE5) | [Teduh](https://open.spotify.com/album/5nOdvHab68AogXKNLk5GFj) | 4:19 |
 | 62 | [Izinkan Aku](https://open.spotify.com/track/4AvqOLwS0kMEtom9rrduYX) | [Fenni Widianto](https://open.spotify.com/artist/2SjqTzo01Ns2IIRA1diCCA) | [Izinkan Aku](https://open.spotify.com/album/00RutYr0s2ZnzCX9ssVR6T) | 3:33 |
 
-Snapshot ID: `aAq8/wAAAAD4OcHShnNpA55iKjM/F+qD`
+Snapshot ID: `aAq8/wAAAABtxIumsCPjDj8YZP7qtMjO`

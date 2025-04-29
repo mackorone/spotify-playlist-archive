@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,595 likes - 113 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,649 likes - 113 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 112 | [Woods](https://open.spotify.com/track/6DptR9KtulsqRqtzpQYcFM) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Elements](https://open.spotify.com/album/6BOmTJhoPMLK4KQ0c96Xof) | 3:50 |
 | 113 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 |
 
-Snapshot ID: `Z/kmogAAAACw6KIQuWWfCMieAJUfLTjc`
+Snapshot ID: `Z/kmogAAAABFQGmIH/P3+HnSF7BRnmw5`

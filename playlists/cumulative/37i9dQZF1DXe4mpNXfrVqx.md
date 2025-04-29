@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-218 songs - 9 hr 42 min
+219 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-18 |  |
 | [Pago no Cash](https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU) | [Ayah](https://open.spotify.com/artist/3AAXwZEJ5gGaRB63mbpSke), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Pago no Cash](https://open.spotify.com/album/633I4cppmO72JcF9P55dIv) | 1:52 | 2022-03-18 | 2023-08-26 |
 | [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 | 2023-06-27 |
-| [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 |  |
+| [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 | 2025-04-29 |
 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 | 2022-03-18 | 2025-02-21 |
 | [Pegada de Chefona](https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Mun Há](https://open.spotify.com/artist/0Ad80b0Q9txmIjJH6RqU1f) | [Pegada de Chefona](https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH) | 2:56 | 2025-02-14 |  |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-12-01 |  |
@@ -222,6 +222,7 @@
 | [Vida Vazia](https://open.spotify.com/track/57VPuGAJvHQtHZfToZOMMI) | [Lu Bauer](https://open.spotify.com/artist/4c8moNfS5RJsBAJFeAJwPR) | [Vida Vazia](https://open.spotify.com/album/5BR38rbe5SOBtLNdlEL2D8) | 2:32 | 2024-04-05 | 2024-07-12 |
 | [Vingativa](https://open.spotify.com/track/5sYtsBdGz8TeFYxERi2QTe) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Futuro II Dia](https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a) | 3:12 | 2022-03-18 |  |
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 | 2023-11-11 |
+| [Vivendo](https://open.spotify.com/track/4DFlNo2C2KolAQX7wuUr8r) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Vivendo](https://open.spotify.com/album/34hC8k68wVjJVpHST2T3TT) | 2:26 | 2025-04-28 |  |
 | [VSFD](https://open.spotify.com/track/7z2JlXkcvVP7pOaRmvwn03) | [Kelly Diaz](https://open.spotify.com/artist/1zwlhUNQfqKmR97CzZHFFz) | [VSFD](https://open.spotify.com/album/2l4aLfhkBOi2qfRFxWK6kC) | 2:33 | 2022-03-18 | 2022-10-15 |
 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 | 2025-02-21 |  |
 | [À Mil](https://open.spotify.com/track/1lYGqblxNkawkTCH6wbqth) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [11.11](https://open.spotify.com/album/3gncfyTiybuGFRYrYNUhTt) | 2:41 | 2022-03-18 | 2022-10-15 |

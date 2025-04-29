@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,340 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,469 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
 | 50 | [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 |
 
-Snapshot ID: `aArQiwAAAAB6Ys8ZBPkeqmp2BKY8EVsk`
+Snapshot ID: `aArQiwAAAAA83itvZ0JiVc5pdML7gHTO`

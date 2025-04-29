@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Kelly Lee Owens
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,896 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,894 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [FALL // RISE](https://open.spotify.com/track/2aTGnCV8bFeD2ryKDm6O3E) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [MIXED FEELINGS](https://open.spotify.com/album/2h0lV7YzcGo848qg5mKsBL) | 3:19 |
 | 100 | [SOS](https://open.spotify.com/track/4LjotOn8sSIARFPSwSif6T) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [SOS](https://open.spotify.com/album/4CvOG7uGorzGxS4mzAuGvj) | 3:49 |
 
-Snapshot ID: `aArCjgAAAACzVe6MCR0/usrF42E2HyaJ`
+Snapshot ID: `aArCjgAAAABKFvlyGi6m3XuPbnkQxCbf`

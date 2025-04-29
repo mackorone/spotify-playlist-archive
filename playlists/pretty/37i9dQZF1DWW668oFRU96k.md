@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: CYRIL x James Blunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,160 likes - 97 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,170 likes - 97 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 96 | [Black Cadillac](https://open.spotify.com/track/6A1iklrBcumlK1mnq89KQN) | [HUSA](https://open.spotify.com/artist/460zG0T3kEz8y7maIEMwPp) | [Me And The Boiz & Black Cadillac](https://open.spotify.com/album/2rcShpL4zV5EaCn2uvR0vl) | 2:55 |
 | 97 | [Broken Bones](https://open.spotify.com/track/2PdHFDnUxl8hCcPFRXxApZ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Broken Bones](https://open.spotify.com/album/1YwundRcMfWV3pyqDNNWcj) | 2:50 |
 
-Snapshot ID: `aApgHwAAAACzYUvcQmZ85TbfZDdeGgUi`
+Snapshot ID: `aApgHwAAAABCwVJuoXKS/6msT814mL/G`

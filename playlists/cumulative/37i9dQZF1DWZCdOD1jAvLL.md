@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: CHYL
 
-804 songs - 1 day 19 hr 46 min
+805 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [HYPNOSIS](https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q) | 2:38 | 2022-12-05 | 2023-10-14 |
 | [Hypnotic](https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Hypnotic](https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz) | 3:20 | 2023-11-24 | 2024-06-09 |
 | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN) | 3:27 | 2023-07-14 | 2023-11-11 |
+| [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 | 2025-04-25 |  |
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-23 | 2024-11-10 |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-05-20 | 2022-09-03 |
 | [I Don't Think U Do](https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Think U Do](https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg) | 3:23 | 2022-05-06 | 2022-09-03 |
@@ -374,7 +375,7 @@
 | [Jiggy Woogie](https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Baby Lawd](https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII) | [Jiggy Woogie](https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G) | 2:20 | 2024-03-08 | 2024-08-20 |
 | [Joker](https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Joker](https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t) | 2:07 | 2022-03-11 | 2022-06-25 |
 | [JUICE](https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [JUICE](https://open.spotify.com/album/4YH7LDtcPK6K69yY1nPrbh) | 1:56 | 2022-04-08 | 2022-04-20 |
-| [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 | 2024-07-19 |  |
+| [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 | 2024-07-19 | 2025-04-29 |
 | [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-01-21 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2022-01-14 | 2022-02-12 |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-06-23 | 2023-08-19 |

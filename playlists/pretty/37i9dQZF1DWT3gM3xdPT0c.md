@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,449 likes - 128 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,511 likes - 128 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 127 | [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 |
 | 128 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 |
 
-Snapshot ID: `aAex/gAAAACIzIMGlkKdvh6+q2/riq1z`
+Snapshot ID: `aAex/gAAAAAR+B/r2o6CAxgf6vbbJDFB`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Camilo S\u00e9ptimo en portada.",
-  "num_followers": 34648,
+  "num_followers": 34651,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2BHgAAAAAy0gVbXLi3z1qRP0C6CGDe",
+  "snapshot_id": "Z/2BHgAAAAAf2R6fEFIO197Qe5bDFnvm",
   "tracks": [
     {
       "added_at": "2025-04-14 21:41:50",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Cuando Te Dejan De Querer",
-        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Cuando Te Dejan De Querer",
-      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 226626,
       "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
       "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
+        "name": "Cuando Te Dejan De Querer",
+        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -567,18 +567,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "No Entiendo Si Es Amor",
-        "url": "https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 229206,
-      "name": "No Entiendo Si Es Amor",
-      "url": "https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -599,22 +603,18 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "No Entiendo Si Es Amor",
+        "url": "https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+      "duration_ms": 229206,
+      "name": "No Entiendo Si Es Amor",
+      "url": "https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Los de Siempre",
-        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Los de Siempre",
-      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "Secuaz (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
+        "name": "Los de Siempre",
+        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Los de Siempre",
+      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Elemento Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "Cliente Frecuente",
         "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
+        "name": "A D\u00f3nde Ir",
+        "url": "https://open.spotify.com/album/3jyb034ATiCQU6IT0G3irN"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "A D\u00f3nde Ir",
+      "url": "https://open.spotify.com/track/4vGcvkfWvbXPE0khPx3WAf"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
         "name": "\u00bfQu\u00e9 vas a saber?",
         "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "A D\u00f3nde Ir",
-        "url": "https://open.spotify.com/album/3jyb034ATiCQU6IT0G3irN"
+        "name": "Elemento Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
       "artists": [
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 195346,
-      "name": "A D\u00f3nde Ir",
-      "url": "https://open.spotify.com/track/4vGcvkfWvbXPE0khPx3WAf"
+      "duration_ms": 223990,
+      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 199747,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
         "name": "Biling\u00fces",
         "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
         }
       ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+      "duration_ms": 131628,
+      "name": "plan fatal",
+      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -1295,22 +1311,6 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 131628,
-      "name": "plan fatal",
-      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
     },
     {
       "added_at": "2025-04-14 21:41:50",

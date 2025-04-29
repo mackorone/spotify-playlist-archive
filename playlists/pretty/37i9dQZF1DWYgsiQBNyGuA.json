@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day. Cover: Cleo Sol",
-  "num_followers": 95704,
+  "num_followers": 95742,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAs5IAAAAACopqAxp/NUzgQnZl2qUblt",
+  "snapshot_id": "aAs5IAAAAABQZB9tEdrCflN0xJvnGam5",
   "tracks": [
     {
       "added_at": "2025-04-05 18:32:05",
@@ -661,6 +661,26 @@
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
+      "added_at": "2025-04-25 07:26:24",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Flower Moon",
+      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+    },
+    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Yonder: Book III",
@@ -707,26 +727,6 @@
       "duration_ms": 172863,
       "name": "O Me O My",
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2025-04-25 07:26:24",
-      "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Flower Moon",
-      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
     },
     {
-      "added_at": "2025-03-07 06:27:51",
-      "album": {
-        "name": "Best For Us",
-        "url": "https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 220338,
-      "name": "Best For Us",
-      "url": "https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Soul Power",
@@ -975,6 +959,22 @@
       "duration_ms": 270306,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2025-03-07 06:27:51",
+      "album": {
+        "name": "Best For Us",
+        "url": "https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 220338,
+      "name": "Best For Us",
+      "url": "https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ"
     },
     {
       "added_at": "2024-03-08 13:51:25",

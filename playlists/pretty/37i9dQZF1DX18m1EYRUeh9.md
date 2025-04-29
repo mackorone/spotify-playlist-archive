@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Unknown Mortal Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,378 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,496 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 |
 | 100 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
 
-Snapshot ID: `Z+Ye8QAAAAAdwicKKMahtp8ZxX374egh`
+Snapshot ID: `Z+Ye8QAAAACn4QlAYLm2LgzQYHRQZcrh`

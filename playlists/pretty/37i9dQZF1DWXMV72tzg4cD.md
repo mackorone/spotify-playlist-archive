@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 
 > Our editor’s picks for best songs of the year from the  <a href="https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF?si=b1a7961906bc422c">Oyster</a> playlist\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,603 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 | 74 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 75 | [ENERGI](https://open.spotify.com/track/4Gcj3KFQs8D6xnq2qaF1av) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/28EmDTnxJEZPHL6f2aUo1x) | 3:13 |
 
-Snapshot ID: `Z1BHxAAAAACwLrSoovhiGOKbBfeoC+Wu`
+Snapshot ID: `Z1BHxAAAAAAeKV103fJyZxv6uuWNDY6P`

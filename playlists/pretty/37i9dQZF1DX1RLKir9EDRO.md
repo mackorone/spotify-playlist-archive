@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler\. Kapak: FEM  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,372 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,374 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [anlardın sen beni](https://open.spotify.com/track/0qRMqANkBfd6OTgEa8bt8m) | [Deniz Mert](https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm) | [anlardın sen beni](https://open.spotify.com/album/6L9LGdtqW3S2ev1ojgWDG8) | 4:29 |
 | 75 | [Benim Ol](https://open.spotify.com/track/0awoOLsDvAm8BEMrDb8hO4) | [Lil Bey](https://open.spotify.com/artist/2rfutDbUHdH6nZDpfo0zvB) | [Benim Ol](https://open.spotify.com/album/23lazW5hQ0S4wBKRO7CnsB) | 2:49 |
 
-Snapshot ID: `aAgDVAAAAADKim/FD0ib/g5ZM9+z48GA`
+Snapshot ID: `aAgDVAAAAABEqs4qsVyWomSvHoT4NQ1p`

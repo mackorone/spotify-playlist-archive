@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Kingsmen
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,043 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,066 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 54 | [Matchless \(feat\. Point Of Grace\)](https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1) | [Tiffany Coburn](https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [You Are More](https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO) | 3:28 |
 | 55 | [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 |
 
-Snapshot ID: `Z/jglwAAAAAD8VxWUJMJ86ItEqkIiwZJ`
+Snapshot ID: `Z/jglwAAAABJE3oVf7Qqy9CYYs/BV3Ks`

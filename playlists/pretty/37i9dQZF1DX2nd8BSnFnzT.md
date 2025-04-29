@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,837 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,807 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 73 | [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 |
 | 74 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
 
-Snapshot ID: `Z/lfPQAAAAADM/4uSCproh89InhqfO6O`
+Snapshot ID: `Z/lfPQAAAAA/hzd6f0T8zKBNpIkfIgLb`

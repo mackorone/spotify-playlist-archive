@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 71272,
+  "num_followers": 71274,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAADw52rH62ud1Lf0ugOTklwp",
+  "snapshot_id": "aA1zgAAAAACf4WMq+Q8TJB93+8ANCbMH",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Cuando Me Tocas T\u00fa",
-      "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 275026,
       "name": "L\u00e1grimas Negras (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Cuando Me Tocas T\u00fa",
+      "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
       "duration_ms": 208946,
       "name": "La Campanera",
       "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Verte Feliz",
+        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Quiero Verte Feliz",
+      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 252600,
       "name": "La Ra\u00edz de Mi Tierra",
       "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiero Verte Feliz",
-        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Quiero Verte Feliz",
-      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "La San Marque\u00f1a",
+      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 258000,
       "name": "La Patria Madrina (with Juanes)",
       "url": "https://open.spotify.com/track/1iXIEPWk0tVMLySzWeoxpH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "La San Marque\u00f1a",
-      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
       "duration_ms": 253400,
       "name": "La Sandunga",
       "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -931,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frida (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
       "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 326653,
-      "name": "Burn It Blue",
-      "url": "https://open.spotify.com/track/3USrD964552tsnQnFG1im5"
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,
@@ -967,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
       "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+      "duration_ms": 326653,
+      "name": "Burn It Blue",
+      "url": "https://open.spotify.com/track/3USrD964552tsnQnFG1im5"
     },
     {
       "added_at": null,

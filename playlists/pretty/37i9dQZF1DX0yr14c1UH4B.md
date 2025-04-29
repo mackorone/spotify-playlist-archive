@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > An eclectic mix of new releases ft\. Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,753 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,756 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 59 | [The Sun](https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [The Sun](https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI) | 3:30 |
 | 60 | [Call Me Again](https://open.spotify.com/track/6cbKgMIbBiWhEbZPoKKNDi) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Call Me Again](https://open.spotify.com/album/5RtVq8KaOonfoWqRRLStkq) | 2:51 |
 
-Snapshot ID: `aArCjwAAAACvWZw58f0qgHB4ZsgfTJ1n`
+Snapshot ID: `aArCjwAAAAAVZr9R+1aceFSH05tusXWV`

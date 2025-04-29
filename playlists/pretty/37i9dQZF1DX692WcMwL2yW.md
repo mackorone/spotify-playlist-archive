@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,952 likes - 161 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,926 likes - 161 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 160 | [The Girl](https://open.spotify.com/track/1iQaEZV0gvXQOTwET11wIL) | [Hologram Tiger](https://open.spotify.com/artist/4uEqtLOBlxSY4aNvRtfyke) | [STONE LOVE](https://open.spotify.com/album/37i8dfPswlTjPhQ2ZwtrV5) | 2:25 |
 | 161 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `aAub9wAAAADfIbj/afMuxTdJC3+pYjbM`
+Snapshot ID: `aAub9wAAAAAm5D7+fYMZ3SF6kmVOTFVH`

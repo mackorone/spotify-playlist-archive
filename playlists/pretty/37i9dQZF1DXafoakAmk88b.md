@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,060 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,078 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 44 | [Drop](https://open.spotify.com/track/63JgXc0KFuJ0L56E0gjqX8) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Drop](https://open.spotify.com/album/5hMekWTlnb8UKJohroZLQy) | 4:16 |
 | 45 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
 | 46 | [Could've Been Different \(feat\. Blu & Shamir\)](https://open.spotify.com/track/3rkRxQvrIsdLBhc8TgC4Es) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Could've Been Different \(feat\. Blu & Shamir\)](https://open.spotify.com/album/20YMw0ntKVxAWHz1jq11cn) | 2:50 |
-| 47 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
-| 48 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
+| 47 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
+| 48 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
 | 49 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 |
 | 50 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 
-Snapshot ID: `Z+YdKwAAAABxwVYDmKy82jHF14ql1Q4I`
+Snapshot ID: `Z+YdKwAAAAAWTvDP1p0YvA7tmJWhWxzK`

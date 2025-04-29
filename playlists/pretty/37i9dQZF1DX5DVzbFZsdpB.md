@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 11 | [A THIEF STOLE OUR THINGS!! \| EP 32 \| Far East Confessions](https://open.spotify.com/episode/0ELDrrAsl0JbOpEzsXxtxK) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 43:26 |
 | 12 | [Presidential Debate, The VMA's & Barry Keoghan ](https://open.spotify.com/episode/6DVeoc9AOH73UckV1TnaTX) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:11 |
 
-Snapshot ID: `ZwiQ4wAAAACkhAohGeaD0pmyCIc5DrKC`
+Snapshot ID: `ZwiQ4wAAAAD02BSzdtCR8U82PK0yfJda`

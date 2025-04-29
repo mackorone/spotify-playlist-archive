@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,915 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,098 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 29 | [Million Miles Away](https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [P.O.U](https://open.spotify.com/artist/04vxVTBTwAFFbMFl1cvcZs), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Million Miles Away](https://open.spotify.com/album/1Cs6V1AmIKa9pXTcxnfX6v) | 4:15 |
 | 30 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 |
 | 31 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 |
-| 32 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 |
-| 33 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
+| 32 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
+| 33 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 |
 | 34 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 35 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
 | 36 | [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 51 | [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 |
 | 52 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 53 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
-| 54 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 |
-| 55 | [Verbier](https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Verbier](https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3) | 3:26 |
+| 54 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
+| 55 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 |
 | 56 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
-| 57 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
+| 57 | [Verbier](https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Verbier](https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3) | 3:26 |
 | 58 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 59 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 60 | [Started Something \(feat\. Miluhska\)](https://open.spotify.com/track/3gMGk0F8kn8SvAXSUDpYaO) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Started Something \(feat\. Miluhska\)](https://open.spotify.com/album/7K03XMpc5cqeDxVrFAfbLW) | 4:37 |
 
-Snapshot ID: `aAuQTwAAAACnjq1DmDwtbeTnxRNrY9ID`
+Snapshot ID: `aAuQTwAAAABiHJ7zC1wOLpzRJ3dWToNa`

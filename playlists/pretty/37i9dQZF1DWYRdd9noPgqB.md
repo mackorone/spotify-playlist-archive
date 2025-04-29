@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,789 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,786 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 |
 | 50 | [Not In Surrender](https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Not In Surrender](https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO) | 3:19 |
 
-Snapshot ID: `aAq0gAAAAABbfyyYNkdZX8ayR/AtikOS`
+Snapshot ID: `aAq0gAAAAACyDt+ONOYB8ILC8bNjJC7O`

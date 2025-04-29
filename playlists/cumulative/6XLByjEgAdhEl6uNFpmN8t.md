@@ -4,7 +4,7 @@
 
 > 
 
-103 songs - 5 hr 17 min
+104 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-10-17 |  |
 | [Pullup](https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:17 | 2024-10-17 |  |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2025-01-02 |  |
+| [rizz](https://open.spotify.com/track/333LqMnXvcMXagCHz9YDO9) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf), [Rimóczi Dóri](https://open.spotify.com/artist/73Gk6HXJP0u2ffrJ6K2m2S) | [EDM TRIP](https://open.spotify.com/album/6pxnEvaTp3Ok0YJRe1a4ma) | 2:53 | 2025-04-28 |  |
 | [rút](https://open.spotify.com/track/5bSRJo4Ox8mlk0JoOu5l7N) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2024-12-07 |  |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2024-12-13 | 2025-03-18 |
 | [SENKI NEM SZÓL RÁNK](https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [BANNANI](https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO) | 2:50 | 2024-11-20 |  |

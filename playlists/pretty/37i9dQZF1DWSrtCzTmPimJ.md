@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,635 likes - 120 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,713 likes - 120 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 119 | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/track/4Qesv6EX1xmJnlmtDQ3LmC) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/album/3ePEytDLrENwiSX6R85bbg) | 2:38 |
 | 120 | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/track/4SnNjDXBetwlS9a1taX1VA) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/album/17t1Yj8GSchuXY2j5smc8s) | 2:57 |
 
-Snapshot ID: `Z8GUEAAAAADAIyodsH1SD0G5xzWX851g`
+Snapshot ID: `Z8GUEAAAAACon0N3JZokUynoJ/1hCHfb`

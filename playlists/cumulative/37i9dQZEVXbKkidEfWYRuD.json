@@ -5652,7 +5652,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -7472,7 +7472,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "Graf Monte-Cristo",
       "url": "https://open.spotify.com/track/7onsPEhcLrvADBLmLUhDp5"
@@ -10560,7 +10560,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -12218,7 +12218,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 108878,
       "name": "Most Valuable Pirate",
       "url": "https://open.spotify.com/track/0WkOBvpHTxHq6VH2VApsks"
@@ -13086,6 +13086,24 @@
       "duration_ms": 131555,
       "name": "NOMINALO",
       "url": "https://open.spotify.com/track/1C0UmBm1nyXdjiek3nQKAz"
+    },
+    {
+      "album": {
+        "name": "Graf Monte-Cristo / Most Valuable Pirate",
+        "url": "https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb"
+      },
+      "artists": [
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129200,
+      "name": "Non Grata",
+      "url": "https://open.spotify.com/track/6wEaUV1eLK2k4TIIxZEw74"
     },
     {
       "album": {
@@ -16246,7 +16264,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4gdR57m0amD2REYvxr71jr"
@@ -21377,6 +21395,28 @@
     },
     {
       "album": {
+        "name": "\u0431\u043e\u043b\u0435\u043d",
+        "url": "https://open.spotify.com/album/4c08DJJF9efR9xB43Y8bGg"
+      },
+      "artists": [
+        {
+          "name": "dope17",
+          "url": "https://open.spotify.com/artist/4RsF5SpJb2R481UMri1VT3"
+        },
+        {
+          "name": "mapt0v",
+          "url": "https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88093,
+      "name": "\u0431\u043e\u043b\u0435\u043d",
+      "url": "https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e"
+    },
+    {
+      "album": {
         "name": "\u0411\u043e\u043b\u0435\u044e \u0442\u043e\u0431\u043e\u0439",
         "url": "https://open.spotify.com/album/434K1T9Ptvcqe4LWFEu6LW"
       },
@@ -22996,7 +23036,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 82285,
       "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
@@ -28068,7 +28108,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -29074,7 +29114,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -30426,7 +30466,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 176000,
       "name": "\u041f\u043e\u0441\u0438\u043b\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9"
@@ -32976,7 +33016,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 179631,
       "name": "\u0422\u043e\u043a\u0441\u0456\u043a",
       "url": "https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD"
@@ -34140,7 +34180,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 187353,
       "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
       "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"
@@ -36146,7 +36186,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 180000,
       "name": "\u0407\u0434\u0435 \u0434\u0430\u0445",
       "url": "https://open.spotify.com/track/7bBZdL9ZTDKbNN7J1Alla4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Cynthia Erivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,723 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,732 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 49 | [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 |
 | 50 | [Oscar Winning Tears.](https://open.spotify.com/track/2Jy3g1Qc0QWiUdy4kz97AO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Oscar Winning Tears.](https://open.spotify.com/album/4R2xHkqfOJ0zm6whoBppIf) | 2:56 |
 
-Snapshot ID: `aAHOeQAAAAAOB358ckcINddi3VCbifkr`
+Snapshot ID: `aAHOeQAAAAAzPoPSCHup/ZBBW6+58pzY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,956 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,970 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8) | 3:37 |
 | 60 | [2025](https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR) | [2025](https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi) | 3:18 |
 
-Snapshot ID: `aArQYwAAAADHcDMZNG6xkfJisiqLb522`
+Snapshot ID: `aArQYwAAAAD+E+CTelIfhYGYDh7ahzqV`

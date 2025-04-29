@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,541 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,547 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 49 | [Caffè nero bollente](https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Fiorella Mannoia](https://open.spotify.com/album/089iETyoc1V7iJyjo26cDK) | 4:26 |
 | 50 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |
 
-Snapshot ID: `Z6rZtwAAAABEFfpXMX8R9XM4loGeRlFa`
+Snapshot ID: `Z6rZtwAAAABaAJRD70wsW912jF3gQPvr`

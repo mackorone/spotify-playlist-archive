@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,856 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,898 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 43 | [The Blue Planet](https://open.spotify.com/track/5TLBCv54hqLxMPfVQ8JMzq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:13 |
 | 44 | [Wonderful Days Theme II \- 오케스트라 Version](https://open.spotify.com/track/70KyIeONrCADvBQS19VmPY) | [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Wonderful Days \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RCnFGmLcxRi3eKv7e4DP5) | 3:18 |
 | 45 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 |
-| 46 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
+| 46 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Jonathan Snowdon](https://open.spotify.com/artist/752896mc0Y5RDJwZAETv13), [Robert Hill](https://open.spotify.com/artist/5TFInGNkbqsyFW0BdpB0RM), [Richard Morgan](https://open.spotify.com/artist/3IbUU6yqnGpK2p24ZJMjIO) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
 | 47 | [Vianne Sets Up Shop \(From "Chocolat" Soundtrack\)](https://open.spotify.com/track/2vPalVURlUvEwv4xsLGbEM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 1:57 |
 | 48 | [A Golden Childhood](https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:56 |
 | 49 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 58 | [Cinema Paradiso](https://open.spotify.com/track/7mQpHyD51jOr6zouLaFbZy) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cinema Paradiso](https://open.spotify.com/album/1slMqlxO5G9o4e9JjkEwoU) | 2:58 |
 | 59 | [Under the Stars](https://open.spotify.com/track/7Lnd4du5ZNl0K82p5QFi5H) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King: Special Edition Original Soundtrack \(English Version\)](https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO) | 3:44 |
 
-Snapshot ID: `Z3awkAAAAAC6crLYhWAB/2iivJblOk/d`
+Snapshot ID: `Z3awkAAAAAC2Le9ui5MQERUBW4+sfOqh`

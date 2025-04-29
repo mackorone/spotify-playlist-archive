@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere, featuring Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,514 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,522 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 94 | [Hopeless Romantic](https://open.spotify.com/track/66MpNdv7SHKoErNfWRnH1G) | [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Hopeless Romantic](https://open.spotify.com/album/3FS3QyE4TR1bPMgfE566WR) | 3:18 |
 | 95 | [LIKE THAT I LIKE YOU](https://open.spotify.com/track/76BKLb2dUj11V2cv4pJ7Sk) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [LIKE THAT I LIKE YOU](https://open.spotify.com/album/5wudHOnjaCavoYLJWGKPno) | 3:25 |
 
-Snapshot ID: `aAvC1wAAAABn1AKIH4uF7suGsS7lHo3K`
+Snapshot ID: `aAvC1wAAAAAXijTaVJcYLUvMeaw/HR+d`

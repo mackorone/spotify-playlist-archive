@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Ayra Star 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,809 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,828 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 74 | [Drip](https://open.spotify.com/track/6zagV1Dk0B8wTZEJdTLZ7e) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Drip](https://open.spotify.com/album/3Frd7bcTpgs8Z8pcFdsx7H) | 2:58 |
 | 75 | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 |
 
-Snapshot ID: `aAsI6wAAAAAxrJJ8AnE3W6oOvYyv4ru4`
+Snapshot ID: `aAsI6wAAAAAjWRWi5+zgkKO92J7a+27S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,399 likes - 100 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,437 likes - 100 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 |
 | 100 | [We Worship Adonai](https://open.spotify.com/track/1wMaAMLB1cLDnGUnz6FYwP) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [We Worship Adonai](https://open.spotify.com/album/6dMQKkdVA32CvBA5ZFcw77) | 6:42 |
 
-Snapshot ID: `aArQ0gAAAAAGVJuTT9AUqlQUf2VjMxpy`
+Snapshot ID: `aArQ0gAAAADq43hylWHAsh+ZXoS1ckPF`

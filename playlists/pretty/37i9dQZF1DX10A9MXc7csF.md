@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Esau Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,768 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,823 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Una Cosa y Otra Cosa](https://open.spotify.com/track/6IY4bYjeS8ovBvurFuiJln) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Una Cosa y Otra Cosa](https://open.spotify.com/album/6qbfniTpZJd3APiF3nldzt) | 2:46 |
 | 100 | [Me Tocó Perder](https://open.spotify.com/track/6uxvVb2bAlEc0r6sCwH0K4) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Me Tocó Perder](https://open.spotify.com/album/2O4qAxjYZuoW1zmLFzfJy7) | 3:31 |
 
-Snapshot ID: `aAtHhQAAAADz53KwdFsNDfKpL8ZWogEH`
+Snapshot ID: `aAtHhQAAAABfDBS536ve2HuB4yzk64h4`

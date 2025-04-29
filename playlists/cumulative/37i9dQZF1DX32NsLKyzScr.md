@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,241 songs - 2 day 19 hr 17 min
+1,242 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 | 2021-05-15 | 2021-09-18 |
 | [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 | 2025-01-24 |  |
 | [NOPUS](https://open.spotify.com/track/02dPa4nXABwnFzjZosKxsk) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [NOPUS](https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA) | 3:20 | 2021-01-08 | 2021-09-18 |
+| [Nostalgia](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Nostalgia](https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf) | 3:30 | 2025-04-25 |  |
 | [Nostalgia Drive](https://open.spotify.com/track/4VW0j6n5ve0hkkaVJRStbJ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Game Over](https://open.spotify.com/album/5MyJi199OGruB5b7MprSJb) | 7:52 | 2020-09-21\* | 2020-10-10 |
 | [Not Alone](https://open.spotify.com/track/5ctXnsZojAvfDq75D4N1bz) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Not Alone](https://open.spotify.com/album/6CdexAmMUIwpGJD7q1wD2a) | 3:16 | 2022-02-11 | 2022-04-02 |
 | [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-10 | 2023-03-29 |
@@ -811,7 +812,7 @@
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-10-20 | 2024-04-19 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-04-21 | 2023-11-05 |
 | [Prayer](https://open.spotify.com/track/7ajQd3QVDfVyuMKF0QaK6g) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [NK](https://open.spotify.com/artist/0zB11hnnEiEdMPwpszisGk) | [Prayer](https://open.spotify.com/album/0RJDPJxA2hIGyw4uLWGytu) | 4:00 | 2020-09-21\* | 2020-11-27 |
-| [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-04 |  |
+| [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-04 | 2025-04-29 |
 | [Pressure \(feat\. MAO\)](https://open.spotify.com/track/0UGuObWksJYjIoKWEqtpqM) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [MUNNDAY](https://open.spotify.com/artist/15eCTZoo1rhEawBlstzxww), [MAO](https://open.spotify.com/artist/64mJRvsM8O0GYxuaHNg3jD) | [Pressure \(feat\. MAO\)](https://open.spotify.com/album/2rsVfcdCNU6XGqDZyKgGaV) | 2:48 | 2021-06-26 | 2021-09-18 |
 | [Pretty Low](https://open.spotify.com/track/5rHx94vZVW6wHmnTeFaxIF) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Pretty Low](https://open.spotify.com/album/018yMXnmOl0KjDiNZ2gJPy) | 2:52 | 2024-06-21 | 2024-07-13 |
 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 | 2023-08-18 | 2023-11-10 |

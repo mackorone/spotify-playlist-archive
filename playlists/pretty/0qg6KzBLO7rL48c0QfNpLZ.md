@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,988 likes - 104 songs - 4 hr 29 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,973 likes - 104 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 75 | [Obsession](https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [Obsession](https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF) | 2:05 |
 | 76 | [Kiss Me](https://open.spotify.com/track/16FdpIf1BOoRi0KdTlLf1y) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Kiss Me](https://open.spotify.com/album/0rkhcwuPGivSM3NfFBSmu6) | 2:27 |
 | 77 | [Love Me](https://open.spotify.com/track/11uo1LfZCpXULD5qb3bMd2) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Emma Bieniewicz](https://open.spotify.com/artist/3Q8oea8QqbpbbgHLzDcjTo) | [Love Me](https://open.spotify.com/album/0epV7mjgxQKTICDcOgsbth) | 2:12 |
-| 78 | [Secret Place](https://open.spotify.com/track/0eqe1jQwmDWlDPX4TrZiYA) | [Project Sunrise](https://open.spotify.com/artist/0MUruCxwuOH9s4Liw5kVgz), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Secret Place](https://open.spotify.com/album/4wfenQnvgFK3cIU534aqpe) | 2:07 |
+| 78 | [Secret Place](https://open.spotify.com/track/0eqe1jQwmDWlDPX4TrZiYA) | [Project Sunrise](https://open.spotify.com/artist/4ehh5E1X5nUrcjUs25lafp), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Secret Place](https://open.spotify.com/album/4wfenQnvgFK3cIU534aqpe) | 2:07 |
 | 79 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 |
 | 80 | [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 |
 | 81 | [World Without You](https://open.spotify.com/track/43j93tSFpswVLPsUeGoLkR) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Rolih](https://open.spotify.com/artist/5yfuJnrgpx9RtTDsYY9RBj), [Twins of June](https://open.spotify.com/artist/5atvjRh7t4OxQFkBYnHAiu), [Sarah Maria](https://open.spotify.com/artist/5JoVkGX1tekbjCYdWrMgZz) | [World Without You](https://open.spotify.com/album/5JOmd54e9jlln4EJUiRby8) | 2:50 |

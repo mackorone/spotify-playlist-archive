@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Анна Трінчер
 
-116 songs - 5 hr 43 min
+117 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-06-27 | 2024-07-12 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-06-27 | 2024-07-16 |
+| [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 | 2025-04-28 |  |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-05 | 2025-01-10 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-03 | 2024-10-22 |
 | [Houdini](https://open.spotify.com/track/6vw2M02LT3otGUoK4ZqHwx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/0oxsySb03ku7RpJmH2raGC) | 3:47 | 2024-06-27 | 2024-07-27 |
@@ -85,7 +86,7 @@
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2024-12-12 |  |
 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 | 2025-04-03 |  |
 | [Між Сірими Днями](https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Між Сірими Днями](https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv) | 3:25 | 2025-03-27 |  |
-| [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 |  |
+| [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 | 2025-04-29 |
 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 | 2025-03-06 |  |
 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 | 2024-06-27 |  |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 | 2025-01-31 |

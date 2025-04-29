@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,339 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,336 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
 | 50 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 
-Snapshot ID: `aAq0fQAAAAD5abKZvSNOmgdFWknIndk1`
+Snapshot ID: `aAq0fQAAAAAPSBZKnCa8XGq+GivEHEm1`

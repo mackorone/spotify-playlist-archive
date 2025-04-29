@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The nominees of the 55th annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, Oct\. 4 at 8 & 10 pm ET on TBN & TBN+\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 76 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,359 likes - 76 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 75 | [Manger Throne](https://open.spotify.com/track/1Z0IdyRLTGeUQDincfC5DI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6hHBbeDEOg6y1N4OGgcMop) | 4:20 |
 | 76 | [Christmas Hits Different](https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Christmas Hits Different](https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m) | 3:28 |
 
-Snapshot ID: `ZqhwiwAAAAD3NFjapJUHNiUo55YaSCdY`
+Snapshot ID: `ZqhwiwAAAAAvrCKNrDzEOfBBm+DPlv+u`

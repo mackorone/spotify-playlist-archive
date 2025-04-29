@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 117130,
+  "num_followers": 117142,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAwiAAAAAABKEJRtJcxR10L6rqAT806K",
+  "snapshot_id": "aA1zgAAAAAAgKGMMIkk95KjWXojfVtEV",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best of Rap",
+        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 204515,
+      "name": "Lick",
+      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where The Shooters Be",
         "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best of Rap",
-        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 204515,
-      "name": "Lick",
-      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "APOCALYPSE",
-        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "WEMBY (feat. Offset)",
-      "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Perfect LUV Tape",
         "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 261982,
       "name": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
       "url": "https://open.spotify.com/track/0gqfvyewE2Sh8TwKBFajCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "WEMBY (feat. Offset)",
+      "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
     },
     {
       "added_at": null,

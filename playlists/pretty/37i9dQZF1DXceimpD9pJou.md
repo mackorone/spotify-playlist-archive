@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Oveja Cosmica
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,463 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,482 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Cubana](https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Cubana](https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5) | 3:06 |
 | 100 | [Yahweh](https://open.spotify.com/track/0WZa2xvDwYQth6XRfkNHjt) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Yahweh](https://open.spotify.com/album/5E638hXexTT0h1c5IbMlvd) | 2:13 |
 
-Snapshot ID: `aAtqVwAAAAAXMrAAs4h7z+xoiN4KqpzK`
+Snapshot ID: `aAtqVwAAAABQ2KbXutZf8w4CiWuhH/li`

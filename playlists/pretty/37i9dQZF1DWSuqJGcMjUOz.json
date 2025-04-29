@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6911,
+  "num_followers": 6914,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNBrQAAAABkf9rjdv1HUmdr2rmnXd4n",
+  "snapshot_id": "ZnNBrQAAAACbDdupVOeRGgIX2+/X+332",
   "tracks": [
     {
       "added_at": "2024-06-19 20:38:05",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Ton ami",
         "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 154105,
       "name": "Ton ami",
       "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Objets perdus",
+        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Maintenant ou jamais",
+      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1071,38 +1103,6 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Objets perdus",
-        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Maintenant ou jamais",
-      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "SAC \u00c0 SURPRISE",
         "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 169567,
       "name": "\u00c7A APPELLE",
       "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Monstre",
-        "url": "https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0"
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
       "artists": [
         {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
         }
       ],
-      "duration_ms": 184036,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
+      "duration_ms": 171428,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1687,6 +1691,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Monstre",
+        "url": "https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0"
+      },
+      "artists": [
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 184036,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Bons Times Bad Times",
         "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 241823,
       "name": "salades",
       "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "Salimo",
-          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Kizavibe",
+        "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
+      },
+      "artists": [
+        {
+          "name": "Kizaba",
+          "url": "https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X"
+        }
+      ],
+      "duration_ms": 230570,
+      "name": "Soso",
+      "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 292480,
       "name": "J'aurai cent ans",
       "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Kizavibe",
-        "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
-      },
-      "artists": [
-        {
-          "name": "Kizaba",
-          "url": "https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X"
-        }
-      ],
-      "duration_ms": 230570,
-      "name": "Soso",
-      "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
     },
     {
       "added_at": "2024-06-19 20:38:05",

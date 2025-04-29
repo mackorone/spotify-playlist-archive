@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,507 likes - 496 songs - 1 day 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,629 likes - 496 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -505,4 +505,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 495 | [don’t say](https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [don’t say](https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7) | 3:30 |
 | 496 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 
-Snapshot ID: `aAq0gQAAAACMP2mbzQ5rrZNxBQu9GOz0`
+Snapshot ID: `aAq0gQAAAABKMQ8gSp41E+poMdatnOjl`

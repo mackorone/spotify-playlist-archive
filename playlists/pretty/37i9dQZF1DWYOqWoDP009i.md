@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,920 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,921 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4MFs2skk7Il9H2ZdjzPsB9) | [Rokk](https://open.spotify.com/artist/48McRVqf7fzAy2OvfHbYba) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/68Y5osdEeNdFhWlPRiecpx) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/3Cl149D2AlCdX2YjAwvOko) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/6BEk5wE05h424K4Cund75D) | 3:57 |
 
-Snapshot ID: `ZQBhNwAAAAC5+FCIKKYaiy7LTGsalk01`
+Snapshot ID: `ZQBhNwAAAACETBQtVGjHWuOykN9tJVaF`

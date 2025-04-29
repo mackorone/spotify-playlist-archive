@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,445 likes - 130 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,574 likes - 130 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 129 | [Indian Rain](https://open.spotify.com/track/6wB1KV5rYAhkCi0yBfEOo6) | [Jasper Whisper](https://open.spotify.com/artist/1mVO71iTroCcLf7mg1uSo2), [Sensory Meditation](https://open.spotify.com/artist/6nsx3cKoJ9eF4KVvN5H8vb), [Nina Nalo](https://open.spotify.com/artist/2MdY1sqVHXi8GkfIaJN09r), [Flame Timo](https://open.spotify.com/artist/4rUIbE7K008AMLXBRYP8sR), [Alma Lin](https://open.spotify.com/artist/3ODNnEyG6ZtPYrnK19oZ5z) | [Indian Rain](https://open.spotify.com/album/1MWEkWy9Y0uKggU5LSWomI) | 2:31 |
 | 130 | [Dhairya](https://open.spotify.com/track/17CP4MgWYJMOnFUi1ncgWE) | [Calm Sūtra](https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6) | [Dhairya](https://open.spotify.com/album/5cXkdM5XQAOy4siFMbFuYq) | 2:52 |
 
-Snapshot ID: `Z+u58QAAAACsbwO/3KdBgAm79lBnnttZ`
+Snapshot ID: `Z+u58QAAAAB1aCKmHuaA1mVqiHF1xzPY`

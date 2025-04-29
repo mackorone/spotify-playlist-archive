@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴✨ NORSK INVASION!!! ✨🇳🇴
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,860 likes - 103 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,969 likes - 103 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 102 | [PÅ TUR IGEN](https://open.spotify.com/track/2T5VdAyl2OYbh0pc5WaCcU) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [PÅ TUR IGEN](https://open.spotify.com/album/4vyrF2jAhtBtT6y3BeHbkw) | 3:12 |
 | 103 | [SUPA OCH STRÖGA](https://open.spotify.com/track/1QEOAtL5NpiWU6zcs1z3wI) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SUPA OCH STRÖGA](https://open.spotify.com/album/3LjffrlTibPPOr9G5m4ExM) | 1:52 |
 
-Snapshot ID: `aAq0fQAAAACd8nOL56QyorSVbq/FidSw`
+Snapshot ID: `aAq0fQAAAAApFq47EMLfnx91T3u3/Qvs`

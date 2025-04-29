@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Encore, Thank You, Goodnight.",
+        "url": "https://open.spotify.com/album/5m9xaI3VaNt6r4G8QrSYOZ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295269,
+      "name": "Encore, Thank You, Goodnight.",
+      "url": "https://open.spotify.com/track/77cp85MHuYvJ4NpPsCrPe9"
+    },
+    {
+      "album": {
         "name": "enemies",
         "url": "https://open.spotify.com/album/5fEW34Rm4tPOpFfXjMZohe"
       },
@@ -17576,7 +17594,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 213493,
       "name": "Sincerity",
       "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"

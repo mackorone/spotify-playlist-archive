@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Smut
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,463 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,477 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Floods](https://open.spotify.com/track/3aNXgFBEd34MRhhwAVcC9l) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Floods](https://open.spotify.com/album/1RWyPGbYzkbAqI6MCkuJ63) | 4:55 |
 | 100 | [Shadows](https://open.spotify.com/track/6ws1zPDVargHmIyg4Rh0U8) | [Goddess](https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi), [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Shadows](https://open.spotify.com/album/5IXwDNQt7cc3UqixCuwkbe) | 4:14 |
 
-Snapshot ID: `aAhl5AAAAACclSFKIkqXD32HyBNU/zO7`
+Snapshot ID: `aAhl5AAAAAArLQjVj09+iAz/NJyfFg+t`

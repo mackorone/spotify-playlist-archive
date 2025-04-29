@@ -573,6 +573,32 @@
     },
     {
       "album": {
+        "name": "SYMPHONY IX",
+        "url": "https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG"
+      },
+      "artists": [
+        {
+          "name": "ZAKLOOW",
+          "url": "https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "Amn\u00e9sie",
+      "url": "https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2"
+    },
+    {
+      "album": {
         "name": "AUBE",
         "url": "https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC"
       },

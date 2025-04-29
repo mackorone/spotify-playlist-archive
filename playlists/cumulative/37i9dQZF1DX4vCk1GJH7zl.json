@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Love to Death",
+        "url": "https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2025-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213822,
+      "name": "Love to Death",
+      "url": "https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv"
+    },
+    {
+      "album": {
         "name": "L\u00e1 Fora",
         "url": "https://open.spotify.com/album/6sSnpqf9EEo1Nz0yBwvzjx"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-29",
       "duration_ms": 161079,
       "name": "PROFETA",
       "url": "https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7"
