@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-697 songs - 1 day 11 hr 19 min
+698 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
+| [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |
 | [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 | 2023-12-13 | 2024-05-08 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2023-08-10 |
 | [Soundclash](https://open.spotify.com/track/2RI50gVvlJUjr6v3pZxYrk) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Soundclash](https://open.spotify.com/album/3WhTR2g9NgJvZawTpwutM2) | 3:39 | 2024-05-17 | 2025-01-08 |

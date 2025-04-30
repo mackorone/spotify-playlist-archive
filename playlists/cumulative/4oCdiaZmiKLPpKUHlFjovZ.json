@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/5Rqj746qniBVcnLT4QglB5"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3Q5b9lTrxvv6f8jLX4M6VJ"
+    },
+    {
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,519 likes - 127 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,543 likes - 127 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

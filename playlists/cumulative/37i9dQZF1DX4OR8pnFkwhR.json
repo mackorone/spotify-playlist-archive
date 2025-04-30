@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: reina",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: muque",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 215000,
       "name": "Can We Talk",
       "url": "https://open.spotify.com/track/4FqWPNuNGjLwDnhXlLm1yA"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 178399,
       "name": "cheers",
       "url": "https://open.spotify.com/track/3abasVZR9LCHo7V6gmdr2s"
@@ -6167,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "Fix",
+        "url": "https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "Fix",
+      "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
+    },
+    {
+      "album": {
         "name": "FLAME",
         "url": "https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo"
       },
@@ -7220,6 +7238,24 @@
       "duration_ms": 206133,
       "name": "goodbye again",
       "url": "https://open.spotify.com/track/4LM6H2UHWeAt7jYIrRg89i"
+    },
+    {
+      "album": {
+        "name": "Blessings of the Sun",
+        "url": "https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u514e -uto-",
+          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281257,
+      "name": "Gose On",
+      "url": "https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja"
     },
     {
       "album": {
@@ -10424,6 +10460,28 @@
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+    },
+    {
+      "album": {
+        "name": "Pretty Machine Gun",
+        "url": "https://open.spotify.com/album/6fFHUG7vyvwYnUIsiBdZuW"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "Lilniina",
+          "url": "https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "lol (feat. Lilniina)",
+      "url": "https://open.spotify.com/track/3F6mOaCawUpIbRHYff4bn8"
     },
     {
       "album": {
@@ -13916,7 +13974,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 127116,
       "name": "PINK PUNCH",
       "url": "https://open.spotify.com/track/1hRT4tRsLgOkejN2KGqukf"
@@ -17901,6 +17959,24 @@
     },
     {
       "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
+    },
+    {
+      "album": {
         "name": "The Dawn",
         "url": "https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej"
       },
@@ -17930,7 +18006,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 244285,
       "name": "The End of the F***ing World",
       "url": "https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS"
@@ -20168,6 +20244,24 @@
       "duration_ms": 241061,
       "name": "Yoake no Kimi e",
       "url": "https://open.spotify.com/track/53w9MQ7y5fasAYq0aVnuk3"
+    },
+    {
+      "album": {
+        "name": "yokogao.",
+        "url": "https://open.spotify.com/album/6yimQUw80bIHrYwle6OAn7"
+      },
+      "artists": [
+        {
+          "name": "suzuro",
+          "url": "https://open.spotify.com/artist/6MKbQZp3mJt1zqqea2pKEu"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204032,
+      "name": "yokogao.",
+      "url": "https://open.spotify.com/track/7htFEPyFsjAPcMBZvhXL76"
     },
     {
       "album": {
@@ -33662,7 +33756,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 231255,
       "name": "\u85e4\u5b50",
       "url": "https://open.spotify.com/track/1loObdOBdGa6BopC1cEsXV"

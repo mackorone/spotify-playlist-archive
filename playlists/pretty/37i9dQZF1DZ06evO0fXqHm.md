@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Dentro da Jacuzzi](https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH) | [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Dentro da Jacuzzi](https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi) | 2:12 |
 | 50 | [Papo de Arrependida](https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:26 |
 
-Snapshot ID: `aA1zgAAAAACcrcmzof3fegEXhtBGibyf`
+Snapshot ID: `aA1zgAAAAABqfJjD4pKnl91zaGahNDNF`

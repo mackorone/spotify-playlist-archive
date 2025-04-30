@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,336 songs - 11 day 13 hr 50 min
+7,337 songs - 11 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1850,7 +1850,7 @@
 | [Earth](https://open.spotify.com/track/2APhx63Q8xpqlQ1lkomqTO) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Earth](https://open.spotify.com/album/1fhepsHiihwTlCXEn178yj) | 1:39 | 2020-01-22 | 2021-08-22 |
 | [Earthbound](https://open.spotify.com/track/4baLGs5TYV3vFHD4CYGP14) | [Paper Street Company](https://open.spotify.com/artist/7eAeNjHH0huqLZQheCLXT7) | [Earthbound](https://open.spotify.com/album/7AzAjY4eD0Byk8IbETlyVH) | 2:22 | 2022-11-11 | 2023-02-15 |
 | [Ease](https://open.spotify.com/track/34il4rHqsYCm7LnJ7y4GTZ) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Ease](https://open.spotify.com/album/1fRUxzvdPUiqKjsxsMDftk) | 2:15 | 2022-02-14 | 2022-07-22 |
-| [east](https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [east](https://open.spotify.com/album/5uklZMjdtlUd00mYFGxDLy) | 2:25 | 2024-01-26 |  |
+| [east](https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [east](https://open.spotify.com/album/5uklZMjdtlUd00mYFGxDLy) | 2:25 | 2024-01-26 | 2025-04-30 |
 | [easy](https://open.spotify.com/track/4YNtYgPcytfX1yUqf9yXOI) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [easy](https://open.spotify.com/album/1o1wxZuFPoa3eevWJVHnOh) | 1:21 | 2020-06-16 | 2021-10-02 |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-04-23 | 2022-09-16 |
 | [Easy Days](https://open.spotify.com/track/5o4jIEMBoCDuM5OBH9Oxu8) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [YODAKA](https://open.spotify.com/artist/52ZLqRmHoenePZnJpjjnRn) | [Easy Days](https://open.spotify.com/album/3MezzNojPjjHkZtSQvdVWJ) | 2:14 | 2025-02-07 |  |
@@ -2155,7 +2155,7 @@
 | [Fire Pit](https://open.spotify.com/track/7Avn0yIRmJDSNDcAFavjPp) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Fire Pit](https://open.spotify.com/album/6BxnC4fI2KZPA0XE3rUwlr) | 1:46 | 2021-12-03 | 2022-06-24 |
 | [Fireflies](https://open.spotify.com/track/1yhJ91ZV3HHHeyMh6PWdWb) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Moving On](https://open.spotify.com/album/4eEnMogQrztnJDxfO9lWtV) | 2:20 | 2022-12-23 | 2023-12-01 |
 | [Fireflies](https://open.spotify.com/track/4pjPfP4YXFfynRTQGtmARQ) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Fireflies](https://open.spotify.com/album/4wFCeuxaBeLLMVE6qCUwtn) | 1:58 | 2024-03-15 | 2024-10-17 |
-| [Fireflies](https://open.spotify.com/track/3GFItUfLkiLY3x7jDAklZ1) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Fireflies](https://open.spotify.com/album/0gwN9YRYyiDSVQZdfoFjzl) | 2:15 | 2025-02-28 |  |
+| [Fireflies](https://open.spotify.com/track/3GFItUfLkiLY3x7jDAklZ1) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Fireflies](https://open.spotify.com/album/0gwN9YRYyiDSVQZdfoFjzl) | 2:15 | 2025-02-28 | 2025-04-30 |
 | [fireflies](https://open.spotify.com/track/1fGClKBNkOaUpln9iJBDeW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [fireflies](https://open.spotify.com/album/03Hs17HNkxoBHA0YoxE0oy) | 2:08 | 2022-01-07 | 2022-07-08 |
 | [Fireflies](https://open.spotify.com/track/31oqOyJpDvqXTmXvkK0N2a) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Silhouettes](https://open.spotify.com/album/4lc9tBibPzBlF0tPBXJShn) | 1:52 | 2021-10-20 | 2022-04-24 |
 | [Firekeeper](https://open.spotify.com/track/0dsIqcTXyUK8RaF7Ki3CWn) | [Corduroy Egg](https://open.spotify.com/artist/5E21RC40PseknqTaydpYNS) | [Firekeeper](https://open.spotify.com/album/5aV5Y2s84V4hVyTomDexSz) | 2:08 | 2021-12-03 | 2022-06-24 |
@@ -5078,7 +5078,7 @@
 | [Quick n' Dirty](https://open.spotify.com/track/2ZMhWoU2PK0AcmCrxuFGGn) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Quick n' Dirty](https://open.spotify.com/album/2dD6iqB5d162mhV54Kudub) | 1:42 | 2022-05-27 | 2022-09-23 |
 | [Quiet](https://open.spotify.com/track/1QMYmtadANtZtZKi1wcWrH) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [Quiet](https://open.spotify.com/album/4L5QkJuN1sfAYHbTYJ0LKY) | 4:43 | 2020-04-30 | 2020-07-07 |
 | [Quiet](https://open.spotify.com/track/1JDU7P2xufSVVYAWTjnsIe) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Quiet](https://open.spotify.com/album/3i5QPemDESNn5wlLdH4rbS) | 1:32 | 2019-12-06 | 2021-01-17 |
-| [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2024-01-05 | 2025-04-28 |
+| [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2024-01-05 |  |
 | [Quiet Life](https://open.spotify.com/track/2gtiic8nRNAegDFAs9xeYk) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Quiet Life](https://open.spotify.com/album/7g0gSd364KtNb2VCfyZiPF) | 1:22 | 2019-12-06 | 2021-02-04 |
 | [Quiet Nights](https://open.spotify.com/track/6NyUKv40Lorxjlet7IltHJ) | [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Quiet Nights](https://open.spotify.com/album/3RxehYUQevCTUpCzZMI5Ed) | 2:08 | 2019-11-22 | 2021-07-11 |
 | [Quiet Reef](https://open.spotify.com/track/3HpRSAVtkUbJMWvuq4Uuji) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Quiet Reef](https://open.spotify.com/album/1JCVsHKs8rps14p8doiszF) | 1:55 | 2022-07-15 | 2022-10-28 |
@@ -5285,6 +5285,7 @@
 | [Roadmap](https://open.spotify.com/track/46otNtxw1tp66cO2ZgC6n3) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Roadmap](https://open.spotify.com/album/1w4ibNlF67RGfAIM5EIGQR) | 2:03 | 2022-11-11 | 2023-10-06 |
 | [Roadtrip](https://open.spotify.com/track/3J4ilvjX46XkK0lmkf8ZWA) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Roadtrip](https://open.spotify.com/album/4HfudAUvRXNUbaW2d5XDTg) | 2:11 | 2022-02-14 | 2022-07-22 |
 | [Roadtrip](https://open.spotify.com/track/2f0E1LR8dkfzY0Nee05AoH) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Roadtrip](https://open.spotify.com/album/2XcfC2bq6xqtFw5zOUn4TA) | 1:58 | 2023-08-03 | 2023-10-06 |
+| [roadtrips](https://open.spotify.com/track/6GED2V9wqpxKlaMks3tVa6) | [morning green](https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ) | [roadtrips](https://open.spotify.com/album/1IpljekSTiroSx4tJjZPk9) | 2:52 | 2025-04-25 |  |
 | [Robbed](https://open.spotify.com/track/6TQRyT1DXX2OOD4gRk2Qsm) | [Inversion](https://open.spotify.com/artist/4pjxBayRpsdAJMPF3v8kIP) | [Robbed](https://open.spotify.com/album/3C9naTjp6XT5wgbfaorMFy) | 2:09 | 2023-01-20 | 2023-03-09 |
 | [robot walk](https://open.spotify.com/track/3bdXyS7eW4roueIEsOJ3r8) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [robot walk](https://open.spotify.com/album/77tXiF4qylzt6otAOiTKSd) | 1:56 | 2024-07-26 |  |
 | [Rocco](https://open.spotify.com/track/4Wddleseijsi0fozoFhYyN) | [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv) | [Rocco](https://open.spotify.com/album/6zYDaNUSw9lNLPNOH7TRYI) | 2:32 | 2022-09-16 | 2022-11-21 |

@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-109 songs - 5 hr 15 min
+111 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Is Found](https://open.spotify.com/track/0SdFIDXpGJnd7rIWbXQxIv) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 2:23 | 2024-03-01 |  |
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5NkcCq0O86b9i6wuAqNuKo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Korean Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JWtvxwYAwzuSDPzvbvXHP) | 3:01 | 2024-03-01 |  |
 | [At All Costs](https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 3:18 | 2024-03-01 |  |
+| [Baby Mine](https://open.spotify.com/track/6Me3Q8Awf0cf27srYDBpFZ) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG) | [Disney Ambient: Sleep](https://open.spotify.com/album/65hRrFsdH4dexQcO4ffuOB) | 3:32 | 2025-04-29 |  |
 | [Baby Mine](https://open.spotify.com/track/0h5G987d8sIqIpMlNckOj4) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:43 | 2024-03-01 |  |
 | [Baby Mine \- From "Dumbo"/Soundtrack Version](https://open.spotify.com/track/2ufkOFn5LKYNoAdss0GUKR) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Baby Mine \(From "Dumbo"\)](https://open.spotify.com/album/6e9I7W5LrZ512paeUY7hS4) | 2:56 | 2024-03-01 |  |
 | [Baby's First Morning/What Is a Baby/La La Lu \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/4gkyJAmyBDjC0DBBihvUEn) | [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 3:11 | 2024-03-01 |  |
@@ -51,6 +52,7 @@
 | [Itsy Bitsy Spider](https://open.spotify.com/track/24Vs05YnESugSLuaI7mRzJ) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 | 2024-03-01 |  |
 | [Know Who You Are](https://open.spotify.com/track/2gPZknA95eTef8yib3bXA8) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Self\-Care Day](https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM) | 1:57 | 2024-03-01 |  |
 | [La La Lu](https://open.spotify.com/track/6bwUvr9ljTehsj7fUIoNZu) | [Jane Sherberg](https://open.spotify.com/artist/0ULBpXOy87G1P3F52G9wWv) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:42 | 2024-03-01 |  |
+| [Lava](https://open.spotify.com/track/0BDA7IZGQ5Z2iOojP5j9bB) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG) | [Disney Ambient: Sleep](https://open.spotify.com/album/65hRrFsdH4dexQcO4ffuOB) | 3:32 | 2025-04-29 |  |
 | [Lava](https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Soothing](https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa) | 2:35 | 2024-03-01 |  |
 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2024-03-01 |  |
 | [Let It Go](https://open.spotify.com/track/1NgkiQCZtk0Hnb5ocnUe04) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 3:40 | 2024-03-01 |  |

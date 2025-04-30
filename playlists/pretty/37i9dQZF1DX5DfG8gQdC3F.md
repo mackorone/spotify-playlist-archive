@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tucker Wetmore, Lorde, Benson Boone, Gigi Perez, Roy Woods and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,069 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,072 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 |
 | 100 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 |
 
-Snapshot ID: `aAsM9wAAAABb/6bu6XAQA1AriZYkoH2f`
+Snapshot ID: `AAAAAItqXePJg4K9JHyPiDoz0IODDqek`

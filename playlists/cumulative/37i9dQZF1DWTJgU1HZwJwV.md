@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-560 songs - 23 hr 40 min
+562 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 | 2023-08-25 |
 | [Echoes](https://open.spotify.com/track/6dJHq6Of3BzXVN7MxAtvYr) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Echoes](https://open.spotify.com/album/78elkAOV6CL5jGBeHau0rF) | 2:43 | 2024-02-23 | 2024-09-26 |
+| [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 | 2025-04-29 |  |
 | [Eclipse](https://open.spotify.com/track/12UPVt8jLdT27AuL6GNMW1) | [Pablo Nadal](https://open.spotify.com/artist/2M7fknVkDTQ47zsPTLKIqX) | [Eclipse](https://open.spotify.com/album/0YMcisX2oCm0YRXIeBu4Ux) | 2:39 | 2024-10-23 |  |
 | [El Columpio](https://open.spotify.com/track/2zDmDCedzfQLKRkxqZiMdf) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: el Columpio](https://open.spotify.com/album/4SnKI0t6cBRHuVhtmxJ66v) | 3:00 | 2022-11-18 | 2023-09-01 |
 | [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 | 2024-07-18 |  |
@@ -443,7 +444,7 @@
 | [Silver Rain](https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT) | [Charles Weller](https://open.spotify.com/artist/1XFRy3zoPzIdsP8yfzXRem) | [Silver Rain](https://open.spotify.com/album/2CPIVrrXY1tHjKgOOxFm4e) | 1:40 | 2022-06-17 | 2023-09-08 |
 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |
 | [Simple life](https://open.spotify.com/track/2tb68oGZwNXeh70uAsr3Wj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Simple life](https://open.spotify.com/album/7tBY8hZw8mlLceOA5NFbmp) | 2:47 | 2024-07-18 |  |
-| [Skopje](https://open.spotify.com/track/0cEpSarBhZNqu46vwjPPXK) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Skopje](https://open.spotify.com/album/3M4XSfTycOnadZIECHG14V) | 2:42 | 2025-04-02 |  |
+| [Skopje](https://open.spotify.com/track/0cEpSarBhZNqu46vwjPPXK) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Skopje](https://open.spotify.com/album/3M4XSfTycOnadZIECHG14V) | 2:42 | 2025-04-02 | 2025-04-30 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-05-19 | 2023-09-14 |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2023-06-23 |
 | [Slowly Dreaming Away](https://open.spotify.com/track/1Q91XhVR27Sl9t5se58PfG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Slowly Dreaming Away](https://open.spotify.com/album/3eoR8gGsTOFQ9Su6w1sbtk) | 1:58 | 2022-06-17 | 2023-09-14 |
@@ -467,6 +468,7 @@
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
+| [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 |  |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-05-20 |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-09 | 2024-05-25 |
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 | 2023-11-24 |

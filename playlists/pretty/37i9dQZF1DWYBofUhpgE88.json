@@ -1,6 +1,6 @@
 {
   "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f  ",
-  "num_followers": 357145,
+  "num_followers": 357196,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2025-03-18 10:42:08",
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
+    },
+    {
+      "added_at": "2025-03-18 10:42:08",
+      "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
-    },
-    {
-      "added_at": "2025-03-18 10:42:08",
-      "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
     },
     {
       "added_at": "2025-03-18 10:42:08",

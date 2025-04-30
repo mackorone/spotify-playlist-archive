@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,609 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,607 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 122 | [Sneakin' Out The Hospital \- Remastered 2009](https://open.spotify.com/track/3Qd5Bv2bRJ7JbeVY8hidKV) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 2:45 |
 | 123 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
 | 124 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
-| 125 | [Jesus Christ Pose \- Remastered 2016](https://open.spotify.com/track/4oCgWwn7fN0Z678rbE12tN) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 5:51 |
+| 125 | [Jesus Christ Pose \- Remastered 2016](https://open.spotify.com/track/4oCgWwn7fN0Z678rbE12tN) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(Super Deluxe Edition\)](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 5:51 |
 | 126 | [Frank Sinatra](https://open.spotify.com/track/5OLjhk2db14wAFMmWjrxGw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 4:01 |
 | 127 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
 | 128 | [You Know You're Right](https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:37 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 132 | [I Saved the World Today \- Remastered](https://open.spotify.com/track/0OX390LANtbxYQVgz6gaBQ) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Peace \(2018 Remastered\)](https://open.spotify.com/album/6EoJZF7p6z9zk0aPsck5mR) | 4:52 |
 | 133 | [I Bleed](https://open.spotify.com/track/4azCKNOIuNsCB98BSRBR2B) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:34 |
 | 134 | [Bull Black Nova](https://open.spotify.com/track/4c33I7s8VE6FBFvcC3tGsh) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 5:39 |
-| 135 | [Drawing Flies \- Remastered 2016](https://open.spotify.com/track/1pA091twFIvSWTIWvviSkz) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 2:26 |
+| 135 | [Drawing Flies \- Remastered 2016](https://open.spotify.com/track/1pA091twFIvSWTIWvviSkz) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(Super Deluxe Edition\)](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 2:26 |
 | 136 | [Fixing A Hole \- Remastered 2017](https://open.spotify.com/track/6a98mDyXTsYugJhUs1tZr4) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 2:37 |
 | 137 | [Fortress Around Your Heart](https://open.spotify.com/track/06IsyJksK6vgJX66rU77Ij) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Dream Of The Blue Turtles](https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF) | 4:39 |
 | 138 | [Reverberatin' Love](https://open.spotify.com/track/6iDTILSe7ydcqUVsIQHMpr) | [The Strange Blue Dreams](https://open.spotify.com/artist/4s5jH9rjlYKDmhkx8husMw) | [The Strange Blue Dreams](https://open.spotify.com/album/7I0Ld69POVMFJHwgpr7NtL) | 2:53 |

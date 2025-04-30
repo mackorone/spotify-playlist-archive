@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 180569,
+  "num_followers": 180661,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
-        "name": "El Amigo",
-        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "El Amigo",
-      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 131793,
       "name": "NIMODO QUE NO",
       "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "El Amigo",
+        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "El Amigo",
+      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1023,58 +1023,6 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "El N1 El Perfil o El Chavalon",
-      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
-        "name": "Con Toda La Fe",
-        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 144726,
-      "name": "Con Toda La Fe",
-      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
         "name": "No Son Doritos",
         "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
       },
@@ -1111,6 +1059,58 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "Con Toda La Fe",
+        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 144726,
+      "name": "Con Toda La Fe",
+      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "El N1 El Perfil o El Chavalon",
+      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
+        "name": "HOLANDA",
+        "url": "https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "duration_ms": 151625,
+      "name": "HOLANDA",
+      "url": "https://open.spotify.com/track/6pk6CETZHI9brjnFNCxrhC"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
         "name": "Gallos Y Caballos",
         "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 158543,
       "name": "Gallos Y Caballos",
       "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
-        "name": "HOLANDA",
-        "url": "https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        }
-      ],
-      "duration_ms": 151625,
-      "name": "HOLANDA",
-      "url": "https://open.spotify.com/track/6pk6CETZHI9brjnFNCxrhC"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
-        "name": "Vibras De Noche II",
-        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 183566,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
         "name": "Terco Soy",
         "url": "https://open.spotify.com/album/0gbPj0cLCgu76Ewl6izxe2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 197062,
       "name": "Terco Soy",
       "url": "https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 183566,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1591,6 +1591,30 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 194805,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
         "name": "ANDAMOS GANANDO",
         "url": "https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx"
       },
@@ -1607,26 +1631,6 @@
       "duration_ms": 162735,
       "name": "ANDAMOS GANANDO",
       "url": "https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
-        "name": "Barbas Y Botas",
-        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 209116,
-      "name": "Barbas Y Botas",
-      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1667,6 +1671,26 @@
       "duration_ms": 141064,
       "name": "LA PEOPLE II",
       "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "Barbas Y Botas",
+        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 209116,
+      "name": "Barbas Y Botas",
+      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1715,46 +1739,6 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
-        "name": "\u00c1lbum JGL",
-        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "\u00c1lbum JGL",
-      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": "2025-04-25 08:34:58",
-      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
@@ -1771,26 +1755,18 @@
     {
       "added_at": "2025-04-25 08:34:58",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 194805,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2025-04-25 08:34:58",
@@ -1891,6 +1867,30 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2025-04-25 08:34:58",
+      "album": {
+        "name": "\u00c1lbum JGL",
+        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "\u00c1lbum JGL",
+      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
     }
   ],
   "unique_name": "Bien Mach\u00edn",

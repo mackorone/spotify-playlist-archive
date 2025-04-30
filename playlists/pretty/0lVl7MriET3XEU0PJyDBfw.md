@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
+> Only the best Tech House 🔥 Find the mix series on SoundCloud: Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,899 likes - 101 songs - 5 hr 25 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,900 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 |
 | 101 | [4U \- Buitano Remix](https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:41 |
 
-Snapshot ID: `AAAbaxywu10oEZKK281rkPS9a7UsObyL`
+Snapshot ID: `AAAbbDKWogy8rROv8Lh91HLmNCLMkdbG`

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-419 songs - 18 hr 1 min
+421 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 | 2023-05-10 |
 | [Blank Stare Happy](https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Seeking Song](https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod) | 2:56 | 2023-08-24 | 2024-05-24 |
 | [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 | 2023-09-01 |
+| [Blond](https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Blond](https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel) | 2:52 | 2025-04-29 |  |
 | [Bloomington](https://open.spotify.com/track/682NdyYjynX5LkBuVdFInr) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Bloomington](https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D) | 2:29 | 2024-11-06 |  |
 | [Blue Saints](https://open.spotify.com/track/4xGURmgS8X18XGw07hK9OQ) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Blue Saints](https://open.spotify.com/album/4kLAWZXLS2h4IyfGSq9qp8) | 2:00 | 2022-07-08 | 2022-11-18 |
 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 | 2024-03-08 |  |
@@ -249,7 +250,7 @@
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-04-21 | 2025-03-12 |
 | [Mná Na H'Eireann](https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/0INDZxABsPxB7JxTjYjmEy) | 2:33 | 2022-10-14 | 2023-10-13 |
 | [Mná Na H'Eireann](https://open.spotify.com/track/6KoZAaWjCwWDMHWHpNf8J6) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/1aZyHBKzHRHuR2C9HqbZIe) | 2:33 | 2022-10-07 | 2022-10-22 |
-| [Moments of Clarity](https://open.spotify.com/track/3rwxUxeudZfmAJ80o2tk5C) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Moments of Clarity](https://open.spotify.com/album/3LjweJuLvim2fLusH2IiX3) | 2:59 | 2025-04-02 |  |
+| [Moments of Clarity](https://open.spotify.com/track/3rwxUxeudZfmAJ80o2tk5C) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Moments of Clarity](https://open.spotify.com/album/3LjweJuLvim2fLusH2IiX3) | 2:59 | 2025-04-02 | 2025-04-30 |
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 | 2023-04-22 |
 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 | 2025-03-11 |  |
 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 | 2022-11-18 | 2023-05-10 |
@@ -422,6 +423,7 @@
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-07-19 |
 | [Wishing You a Safe Journey](https://open.spotify.com/track/0dlktcquQYp5OBm1voX3bu) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Wishing You a Safe Journey](https://open.spotify.com/album/6kqkgmAGIZPlzZdvvQXlDY) | 2:17 | 2025-03-05 |  |
+| [With Flowers In Hand](https://open.spotify.com/track/3F9UIwHp1qWZo9en9lCfl6) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [With Flowers In Hand](https://open.spotify.com/album/4fSOoK6cKokRLePDXbj5ja) | 2:29 | 2025-04-29 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2025-03-12 |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2023-12-15 |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |

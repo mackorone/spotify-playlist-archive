@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,095 likes - 1,083 songs - 2 day 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,101 likes - 1,083 songs - 2 day 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -362,7 +362,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 352 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 |
 | 353 | [Say What You Will \- Spotify Singles](https://open.spotify.com/track/69hzAWtZh8Ivrf6MYy1Ykd) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:59 |
 | 354 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
-| 355 | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8) | 2:20 |
+| 355 | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [B.Baby](https://open.spotify.com/artist/7HuMDA0nfYnc3tKk6qgsMY) | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8) | 2:20 |
 | 356 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
 | 357 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
 | 358 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |

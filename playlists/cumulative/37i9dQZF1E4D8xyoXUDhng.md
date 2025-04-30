@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Terrell Grice, Kelontae Gavin and more
+> With Sunday Service Choir, Dorothy Norwood, Tasha Page\-Lockhart and more
 
 1,741 songs - 5 day 11 hr 38 min
 

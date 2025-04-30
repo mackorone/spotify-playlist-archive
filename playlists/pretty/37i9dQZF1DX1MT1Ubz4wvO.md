@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 ### [Novedades Rock](https://open.spotify.com/playlist/37i9dQZF1DX1MT1Ubz4wvO)
 
-> Todas las semanas los nuevos lanzamientos de Rock en español, con Marilina Bertoldi en portada.
+> Todas las semanas los nuevos lanzamientos de Rock en español, con La Texana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,179 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,216 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 13 | [En Otro Jardín X\(](https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [En Otro Jardín X\(](https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao) | 2:17 |
 | 14 | [Sin Dormir](https://open.spotify.com/track/7k9bBFgQrdo13YxTHCGrYC) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v), [Pamela Roth](https://open.spotify.com/artist/7MZdGhGiRHYJInRdOEZ2v1) | [Sin Dormir](https://open.spotify.com/album/18bHWBqfeUxOxqxsF6ojyU) | 3:12 |
 | 15 | [Uno Dos Tres](https://open.spotify.com/track/7umLqnZBRt6rekFKhiu7FX) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Uno Dos Tres](https://open.spotify.com/album/0BOVMWcsyzobrhFecUOSfC) | 3:14 |
-| 16 | [El Amor y la Calma](https://open.spotify.com/track/7xn87kFE1uyKj9f2JDizFL) | [Bohemios del Metro](https://open.spotify.com/artist/5Lcmmt7w5MNhx4tHBzqYYX) | [El Amor y la Calma](https://open.spotify.com/album/3DWEDSQlm5ETquXnHEWADn) | 3:36 |
+| 16 | [El Amor y La Calma](https://open.spotify.com/track/7xn87kFE1uyKj9f2JDizFL) | [Bohemios del Metro](https://open.spotify.com/artist/5Lcmmt7w5MNhx4tHBzqYYX) | [El Amor y La Calma](https://open.spotify.com/album/3DWEDSQlm5ETquXnHEWADn) | 3:36 |
 | 17 | [El murmullo de los perros](https://open.spotify.com/track/2zZFNLGXu1RzCVXt7d7UDP) | [Los Estanques](https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos), [El Canijo de Jerez](https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7) | [El murmullo de los perros](https://open.spotify.com/album/2rLoAGmpxmM591PtorBB54) | 3:55 |
 | 18 | [No Tengo Remedio](https://open.spotify.com/track/7b1O0n0qIVG4rIiZ2wORCM) | [Javier Corcobado](https://open.spotify.com/artist/38euAah4YlEfvxaaa6kYmg) | [No tengo remedio](https://open.spotify.com/album/7u35naIey6LQuXIEYC9D24) | 3:01 |
 | 19 | [La Vecina de la Anfeta](https://open.spotify.com/track/3iyfypyz8hWvTRuDBfr1E3) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN) | [La Vecina de la Anfeta](https://open.spotify.com/album/73JkDVYL6pJpA9x1bq4qH3) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [The Drum](https://open.spotify.com/track/4k3BVdRpcuOC8FENHfZSE3) | [Mellon Collie](https://open.spotify.com/artist/5nWkSrKwhtPiS3UWWNmlPk) | [The Drum](https://open.spotify.com/album/4Zzm9KjALqkEyoWW8XYJ0o) | 4:50 |
 | 50 | [Grupdepersonestravessantelcarrer.jpg](https://open.spotify.com/track/753E4b7ZgpNQYrnuBvt8OX) | [Derbi Junior](https://open.spotify.com/artist/37K2kvVJCMgkcTSty64YtY) | [Grupdepersonestravessantelcarrer.jpg](https://open.spotify.com/album/4gA8JIegzQjvgSS6TcyMA3) | 3:16 |
 
-Snapshot ID: `aAslAQAAAAC6X27dxH5cpE41utjRkxn/`
+Snapshot ID: `aBEmUAAAAACj6opfOc0hExKAbPmFwnlv`

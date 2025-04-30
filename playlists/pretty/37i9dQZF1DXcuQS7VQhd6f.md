@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,837 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,933 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 64 | [Let Go](https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI) | [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce) | [Introducing DeWayne Woods & When Singers Meet](https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB) | 4:55 |
 | 65 | [If He Did It Before....Same God \- Live](https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 4:05 |
 | 66 | [I'm Gonna Be Ready](https://open.spotify.com/track/1SHxz7rXjJWxy8sb6pFYn0) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Believe](https://open.spotify.com/album/5dS9spd8jGdwIRNOzGZBFU) | 5:38 |
-| 67 | [Encourage Yourself](https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R) | [Sheri Jones\-Moffett](https://open.spotify.com/artist/0p4g6nQShPxtibUdD45Euz) | [Renewed](https://open.spotify.com/album/1HV7nwX73bMeQxJgEZ8uQT) | 5:45 |
-| 68 | [Stand](https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:20 |
+| 67 | [Stand](https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:20 |
+| 68 | [Encourage Yourself](https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R) | [Sheri Jones\-Moffett](https://open.spotify.com/artist/0p4g6nQShPxtibUdD45Euz) | [Renewed](https://open.spotify.com/album/1HV7nwX73bMeQxJgEZ8uQT) | 5:45 |
 | 69 | [You Are The Living Word \(Live\)](https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 5:27 |
 | 70 | [Go Get It](https://open.spotify.com/track/1Iiv0n1xjwVYVf8NOTjoq0) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:10 |
 | 71 | [It's Working](https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [God Chaser](https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS) | 4:52 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 97 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
 | 98 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
 | 99 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
-| 100 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
-| 101 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 100 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 101 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 102 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
 | 103 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
 | 104 | [Well Done](https://open.spotify.com/track/7LR7frxXJmKuUinqsxzd8S) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 4:06 |

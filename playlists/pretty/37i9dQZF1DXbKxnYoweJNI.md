@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 163 braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,755 likes - 133 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,761 likes - 133 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [天空](https://open.spotify.com/track/7uZz8xyiFlmp5AWgo2q5Hb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [海螺記](https://open.spotify.com/album/6f4m2xgk0N2mDM7dhUTI6j) | 2:38 |
 | 2 | [Alice My Girl \(feat\. JOYCE 就以斯\)](https://open.spotify.com/track/35Hy60xJLRrRHGA5nV9AMV) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [Alice My Girl \(feat\. JOYCE 就以斯\)](https://open.spotify.com/album/211hYc9Mdz05XthLnJdFB6) | 2:58 |
 | 3 | [Not Again](https://open.spotify.com/track/6vL8IVsPgoPW7GDwkFe7do) | [Echo Ding](https://open.spotify.com/artist/277E4w40LYIfxhx9e3130N), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Not Again](https://open.spotify.com/album/7AvWCsaA9gcy8tGHbfjmQz) | 2:50 |
-| 4 | [大不了就這樣吧](https://open.spotify.com/track/3Tc1NBgkwcRdZuD9CIvaPR) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [斑恩Ben](https://open.spotify.com/artist/5Y8y0AtqUfvt7BHhZ0LLAO) | [大不了就這樣吧](https://open.spotify.com/album/2SH0dF7sehismF4jWYGTUE) | 4:28 |
+| 4 | [大不了就這樣吧](https://open.spotify.com/track/3Tc1NBgkwcRdZuD9CIvaPR) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [大不了就這樣吧](https://open.spotify.com/album/2SH0dF7sehismF4jWYGTUE) | 4:28 |
 | 5 | [有誰與我給世界還手 \- 電視劇《執法者們》主題曲](https://open.spotify.com/track/3BHSRGwNr5yddjePgMfqJE) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [有誰與我給世界還手 \(電視劇《執法者們》主題曲\)](https://open.spotify.com/album/1PzjhtUMFFZw981b4D1RSJ) | 4:42 |
 | 6 | [害怕](https://open.spotify.com/track/0t5hue3Vy2u7pXuGcR39pj) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [害怕](https://open.spotify.com/album/1JAENZmtbYKHxYOPoToRfV) | 4:47 |
 | 7 | [週而復始的勇氣](https://open.spotify.com/track/35t3B3ezJQGT2ejqxsqEQd) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [週而復始的勇氣](https://open.spotify.com/album/08gtQgFOzfidLZtDVq9lbX) | 3:29 |

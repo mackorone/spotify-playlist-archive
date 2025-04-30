@@ -4,7 +4,7 @@
 
 > 
 
-157 songs - 6 hr 5 min
+159 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [FEENIN!](https://open.spotify.com/track/38zXZLufj83iB2nh1VKi5t) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [>:3](https://open.spotify.com/album/1CydpQKd0rdcmUpYI2WqYT) | 1:56 | 2024-12-06 |  |
 | [FLUOXETINE!](https://open.spotify.com/track/1daN3DnrDJ79MhRjzIvz2j) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:42 | 2024-12-21 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2025-04-12 |  |
+| [FUCK NIGGERS](https://open.spotify.com/track/0JZvx8sGxOBzVHnfASqrv7) | [Echo Datii](https://open.spotify.com/artist/4CMdC57EfHLnO1ifsTyenV), [2ooDarkive](https://open.spotify.com/artist/3vLqK6ywGHAaZtPuTcG5cy) | [FUCK NIGGERS](https://open.spotify.com/album/7KHeMoBJXe24fv7FRRBDMJ) | 2:24 | 2025-04-29 |  |
 | [galaxy](https://open.spotify.com/track/0eCHafxWdcpnivREAbWlbc) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X) | [galaxy](https://open.spotify.com/album/7BBL1R0SvKo026lLHx2Ssl) | 2:16 | 2025-02-23 | 2025-04-12 |
 | [GAMEBOY](https://open.spotify.com/track/4wrkpUJBsqdpfDUtb4zH6d) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:37 | 2025-02-18 | 2025-04-10 |
 | [GANGY](https://open.spotify.com/track/0j3Xssa57CUUOxYwlxLBHk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [GANGY](https://open.spotify.com/album/0Av2zKZh1Usr1ekhROB5BU) | 1:02 | 2025-04-11 |  |
@@ -71,6 +72,7 @@
 | [i hate you, leave me alone.](https://open.spotify.com/track/6DJ9ZCwfXvP8ZSzhdUjxmJ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hate you, leave me alone.](https://open.spotify.com/album/0KJ79P4oys85ELzqSFwf4f) | 2:29 | 2025-01-16 |  |
 | [i hope u fear me.](https://open.spotify.com/track/0HqcwbplDetVGvMxJgJQ9X) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hope u fear me.](https://open.spotify.com/album/5ofkGrEBohfY7wGNse2yqO) | 2:55 | 2025-01-16 |  |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/5YF8uBmCTW4HXsI13tsQAO) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:06 | 2025-04-12 |  |
+| [I MIGHT B3 SICK](https://open.spotify.com/track/6ROyroRos5S7I2UeaaQjFi) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [I MIGHT B3 SICK](https://open.spotify.com/album/3jnhYswW8lVjUcnetRXr7u) | 1:38 | 2025-04-29 |  |
 | [I PISS MONSTER ENERGY!](https://open.spotify.com/track/6FfSBCzmyZmrmfnDvMamTZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I PISS MONSTER ENERGY!](https://open.spotify.com/album/4frZaM0VIM84KFHyWkd73o) | 1:48 | 2025-03-02 | 2025-04-10 |
 | [I SELL CRACK!](https://open.spotify.com/track/6Wtf8aZYZOymOJkBFJHyUk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I SELL CRACK!](https://open.spotify.com/album/6122FLIVBevpdIQoaZngpj) | 1:35 | 2024-12-21 |  |
 | [I'M UP NOW!](https://open.spotify.com/track/6W7tC8VLKQCk2NLkzo4MY0) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I'M UP NOW!](https://open.spotify.com/album/47XEDzEOBzwRshbE2YMBQ1) | 2:02 | 2025-01-08 |  |
@@ -86,7 +88,7 @@
 | [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 | 2025-04-10 |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2025-04-11 | 2025-04-17 |
-| [king](https://open.spotify.com/track/6lQJQI7UN4743fPR9vQjOI) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9), [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN), [sin](https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu) | [November](https://open.spotify.com/album/7z65e4o5xTjfq1SUFQxAf6) | 2:22 | 2025-02-15 | 2025-04-11 |
+| [king](https://open.spotify.com/track/6lQJQI7UN4743fPR9vQjOI) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9), [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN), [sin](https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu) | [November](https://open.spotify.com/album/7z65e4o5xTjfq1SUFQxAf6) | 2:22 | 2025-02-15 |  |
 | [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kroxxxxroad](https://open.spotify.com/track/2GFE1Ukk6NS03ZpPihDtvB) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kroxxxxroad](https://open.spotify.com/album/5ZensT6l0BKw6k2pQ9m9R5) | 1:13 | 2025-04-10 | 2025-04-12 |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |

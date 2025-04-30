@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,526 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,528 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [The Crystal Chamber \- From "Atlantis: The Lost Empire"/Score](https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Atlantis: The Lost Empire](https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq) | 3:45 |
 | 50 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
 
-Snapshot ID: `aA1zgAAAAAAuJoVLrvtcBfRnTioG/Dog`
+Snapshot ID: `aA1zgAAAAACov9s4cBF+ffaLWDAOfC+Y`

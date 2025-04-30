@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Recycled J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,587 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,606 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ZIZOU](https://open.spotify.com/track/5QbkyOwTxt9KECemud7Oxe) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [ZIZOU](https://open.spotify.com/album/3AhQKmxOAEkqZLzgNIvU1M) | 2:31 |
-| 2 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
-| 3 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
-| 4 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
-| 5 | [Hugo Bozz](https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [GRECONETA](https://open.spotify.com/album/2r2mPvOEcLLzKPXikEOmuQ) | 1:57 |
+| 1 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
+| 2 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
+| 3 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
+| 4 | [Hugo Bozz](https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [GRECONETA](https://open.spotify.com/album/2r2mPvOEcLLzKPXikEOmuQ) | 1:57 |
+| 5 | [ZIZOU](https://open.spotify.com/track/5QbkyOwTxt9KECemud7Oxe) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [ZIZOU](https://open.spotify.com/album/3AhQKmxOAEkqZLzgNIvU1M) | 2:31 |
 | 6 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
 | 7 | [CUANDO BEBO PIENSO EN TI](https://open.spotify.com/track/0Qj6fjsnsvnuxgHdRDPkil) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [CUANDO BEBO PIENSO EN TI](https://open.spotify.com/album/0ktUyfKMSn5lvfUwp1EutX) | 3:17 |
 | 8 | [Whisky and Spice](https://open.spotify.com/track/0IoksfEt4rvLtPnVw09VlI) | [Yeico X Toni](https://open.spotify.com/artist/5ZwHSnkRmmVg73BeI4Ne4f) | [Whisky and Spice](https://open.spotify.com/album/67S8NfIArqth9PCutPkxKT) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [la raíz d€l mal](https://open.spotify.com/track/6S8uVRVYlNsXLQ57FCWpt8) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [blu€s](https://open.spotify.com/album/4w81uLwtHNI0rgoLYBJCIT) | 2:13 |
 | 50 | [RUPIAS](https://open.spotify.com/track/0npNncu4hkA3aJ9L5ipZqI) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [RUPIAS](https://open.spotify.com/album/19Mi6N2VNpFsIfBRCuujGo) | 2:40 |
 
-Snapshot ID: `aAq0fwAAAAAzJiN6yOO2SQixV3vQBqtv`
+Snapshot ID: `aBDCfQAAAADddb3gQGGUem5w1O8icIxg`

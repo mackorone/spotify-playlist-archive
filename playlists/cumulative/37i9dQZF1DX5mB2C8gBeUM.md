@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: ERNEST and Snoop Dogg
 
-514 songs - 1 day 1 hr 29 min
+515 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Knock Yourself Out](https://open.spotify.com/track/6EYP9xedLZbzYh5TBEaVe1) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Knock Yourself Out](https://open.spotify.com/album/1KWDJUAB0w0oxqF3KdmAH9) | 2:52 | 2021-12-10 | 2024-04-13 |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2021-12-10 | 2024-07-27 |
 | [Kuntry](https://open.spotify.com/track/4MHXNEOprnHC0H4qnzvMfq) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Kuntry](https://open.spotify.com/album/2pGdZXCiOXQKVgJKyH9ZKb) | 2:30 | 2023-05-26 |  |
+| [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-04-29 |  |
 | [LEAD A HORSE](https://open.spotify.com/track/6eiNnBQ0UB4BJhZzENJg7L) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [TENNESSEE TAPES](https://open.spotify.com/album/0YP4T1vKiRb4PKWa8f53mY) | 2:04 | 2024-02-23 | 2024-04-23 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 | 2022-09-10 |
 | [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 | 2022-01-21 | 2022-07-23 |

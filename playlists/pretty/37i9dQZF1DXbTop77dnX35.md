@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Zinoleesky, Fireboy DML and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,587 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,738 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [Go Down](https://open.spotify.com/track/34TdvmT0k6606XHNBUwF9H) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Go Down](https://open.spotify.com/album/0jKOxr0iZtBdx4K5kCh81l) | 2:44 |
 | 13 | [Promets\-le moi](https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Promets\-le moi](https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX) | 2:43 |
 | 14 | [Achalugo](https://open.spotify.com/track/4qFxZKXdRJoN8fzMFlvNli) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Achalugo](https://open.spotify.com/album/20C5dmwQk5SHtoG7MkKvnY) | 2:36 |
-| 15 | [Smooth Criminal](https://open.spotify.com/track/5se5uYbYY0aBfeDP2nVCj1) | [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Chelsea Sloan](https://open.spotify.com/artist/0k6hRybaKVP4LDrmlIHxRB), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Smooth Criminal](https://open.spotify.com/album/1nd9lEvmUSI1LU5x2wZNYD) | 5:43 |
+| 15 | [Smooth Criminal](https://open.spotify.com/track/5se5uYbYY0aBfeDP2nVCj1) | [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Chelsea Sloan](https://open.spotify.com/artist/0k6hRybaKVP4LDrmlIHxRB), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Smooth Criminal](https://open.spotify.com/album/1nd9lEvmUSI1LU5x2wZNYD) | 5:43 |
 | 16 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 |
 | 17 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 |
 | 18 | [Unstable](https://open.spotify.com/track/5Crei6PNVhOpTaJC5AlgzU) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Unstable](https://open.spotify.com/album/1zHQj2CwsR1LcqNxNiZeGp) | 2:41 |

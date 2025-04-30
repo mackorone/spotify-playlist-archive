@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-346 songs - 21 hr 43 min
+347 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-24 | 2025-04-08 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-02 | 2024-08-31 |
 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-04-25 |  |
+| [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 | 2025-04-29 |  |
 | [Naliligaw](https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Naliligaw](https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn) | 2:58 | 2024-08-02 | 2024-11-09 |
 | [Namimiss](https://open.spotify.com/track/7lEGj6XSI3BWuIHMCcd9O3) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Namimiss](https://open.spotify.com/album/6uwX2fa0kncg9Y1bRk4Xqg) | 4:35 | 2025-03-21 |  |
 | [Namimiss Ko Na](https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Namimiss Ko Na](https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL) | 4:10 | 2024-07-02 | 2024-07-19 |

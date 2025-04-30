@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,358 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,366 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 49 | [Forever In Our Hearts](https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Forever In Our Hearts](https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V) | 4:37 |
 | 50 | [Up On You](https://open.spotify.com/track/1gG6L0YWBg5HvMK5TZtyZQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 4:34 |
 
-Snapshot ID: `aA1zgAAAAACRzo04KwgIJafENnGYN1fq`
+Snapshot ID: `aA1zgAAAAABSbJRpVf2xizJYzqO/+B4G`

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
-  "num_followers": 298253,
+  "num_followers": 298250,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "Enven\u00e9name",
-        "url": "https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 225494,
-      "name": "Enven\u00e9name",
-      "url": "https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 224469,
       "name": "33",
       "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "Enven\u00e9name",
+        "url": "https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "Enven\u00e9name",
+      "url": "https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "S\u00faper Terror",
         "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "\u00bfQu\u00e9 vas a saber?",
-        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 251093,
-      "name": "\u00bfQu\u00e9 vas a saber?",
-      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -567,6 +547,26 @@
       "duration_ms": 239974,
       "name": "Cama Vac\u00eda",
       "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "\u00bfQu\u00e9 vas a saber?",
+        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "\u00bfQu\u00e9 vas a saber?",
+      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "WIPLASH",
-        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "\u00bfQui\u00e9n Te Hizo Tanto Da\u00f1o?",
-      "url": "https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 250696,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "WIPLASH",
+        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "\u00bfQui\u00e9n Te Hizo Tanto Da\u00f1o?",
+      "url": "https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
@@ -983,18 +963,22 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -1011,6 +995,22 @@
       "duration_ms": 179872,
       "name": "TRAS",
       "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "MALAVIDA (feat. Evlay)",
-      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 164466,
       "name": "Misterio, Cigarros y Menta",
       "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
-        "name": "Ni Siquiera De Ti",
-        "url": "https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar"
-      },
-      "artists": [
-        {
-          "name": "Los Outsaiders",
-          "url": "https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5"
-        }
-      ],
-      "duration_ms": 197201,
-      "name": "Ni Siquiera de Ti",
-      "url": "https://open.spotify.com/track/3zi0QUN1NRSV3oyPlsKFgg"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
+        "name": "Ni Siquiera De Ti",
+        "url": "https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar"
+      },
+      "artists": [
+        {
+          "name": "Los Outsaiders",
+          "url": "https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5"
+        }
+      ],
+      "duration_ms": 197201,
+      "name": "Ni Siquiera de Ti",
+      "url": "https://open.spotify.com/track/3zi0QUN1NRSV3oyPlsKFgg"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
+        "name": "Lo que ves es lo que tengo",
+        "url": "https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B"
+      },
+      "artists": [
+        {
+          "name": "Est\u00e9reo Waves",
+          "url": "https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Lo que ves es lo que tengo",
+      "url": "https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
         "name": "Una noche m\u00e1s (feat. Bruses)",
         "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
-        "name": "Lo que ves es lo que tengo",
-        "url": "https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B"
-      },
-      "artists": [
-        {
-          "name": "Est\u00e9reo Waves",
-          "url": "https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Lo que ves es lo que tengo",
-      "url": "https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K"
     },
     {
       "added_at": "2025-04-25 04:00:57",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-04-25 04:00:57",
       "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2025-04-25 04:00:57",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2025-04-25 04:00:57",
-      "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     }
   ],
   "unique_name": "Rock Total",

@@ -1,6 +1,6 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 63592,
+  "num_followers": 63593,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Vapen & ammunition",
-        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
-      },
-      "artists": [
-        {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Dom andra",
-      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "The Coral",
         "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Dom andra",
+      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
     },
     {
       "added_at": "2024-06-24 11:47:22",

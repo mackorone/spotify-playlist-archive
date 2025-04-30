@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2161972,
+  "num_followers": 2161844,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Waves (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248427,
+      "name": "Waves - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Waves (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248427,
-      "name": "Waves - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 249066,
       "name": "Sitting Room",
       "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 196083,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Saint Monica (Undone)",
         "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 196083,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "What Will We Do",
+        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
+      },
+      "artists": [
+        {
+          "name": "Lula Wiles",
+          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "Leave Me Now",
+      "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Not a Number",
         "url": "https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "What Will We Do",
-        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
+        "name": "St. Augustine",
+        "url": "https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA"
       },
       "artists": [
         {
-          "name": "Lula Wiles",
-          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
         }
       ],
-      "duration_ms": 270226,
-      "name": "Leave Me Now",
-      "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
+      "duration_ms": 210689,
+      "name": "St. Augustine",
+      "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1147,22 +1163,6 @@
       "duration_ms": 182693,
       "name": "The Future is Dead - Tiny Habits Version",
       "url": "https://open.spotify.com/track/0vdtDUOHPHvFUOYZty292C"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "St. Augustine",
-        "url": "https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 210689,
-      "name": "St. Augustine",
-      "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
     },
     {
       "added_at": "2024-08-23 15:05:15",

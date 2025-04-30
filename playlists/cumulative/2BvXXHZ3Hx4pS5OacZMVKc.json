@@ -6229,6 +6229,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172114,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF"
+    },
+    {
+      "album": {
         "name": "Sock It To Them",
         "url": "https://open.spotify.com/album/30H5DnAtCeIGHf0mLblwlK"
       },

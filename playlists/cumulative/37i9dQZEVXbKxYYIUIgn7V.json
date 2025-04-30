@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 163548,
       "name": "Benden Sonra",
       "url": "https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
@@ -6521,6 +6521,28 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0P9RylUqCTI5WJHRJWipA6"
+      },
+      "artists": [
+        {
+          "name": "Leni Woess",
+          "url": "https://open.spotify.com/artist/0fSBueYy55sehA6UosEenX"
+        },
+        {
+          "name": "Toby Woess",
+          "url": "https://open.spotify.com/artist/3faX3WRF06b0oDpf1OsOBw"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6G5ANFgHCmUxTalQJq8Yrb"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
       },
@@ -6562,6 +6584,24 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
+        "name": "CUNTISSIMO",
+        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240963,
+      "name": "CUNTISSIMO",
+      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
     },
     {
       "album": {
@@ -8356,7 +8396,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 122448,
       "name": "Dumdum",
       "url": "https://open.spotify.com/track/4jKPo1AKrsJko45mLncyFs"
@@ -8542,6 +8582,24 @@
       "duration_ms": 179536,
       "name": "Egal",
       "url": "https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du"
+    },
+    {
+      "album": {
+        "name": "Ein Gl\u00e4schen am Morgen (Ein kleines Gl\u00e4schen)",
+        "url": "https://open.spotify.com/album/3sANWZ3aWv7nPweeLFyzU4"
+      },
+      "artists": [
+        {
+          "name": "Heino",
+          "url": "https://open.spotify.com/artist/1W35UHuYsAHko9w0wllyaX"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145015,
+      "name": "Ein Gl\u00e4schen am Morgen (Ein kleines Gl\u00e4schen)",
+      "url": "https://open.spotify.com/track/0PDj1pafbbrFxG7Dh51H0j"
     },
     {
       "album": {
@@ -9743,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "FICKA",
+        "url": "https://open.spotify.com/album/6BBSxME0Np4bvCc3MtAEvE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144722,
+      "name": "FICKA",
+      "url": "https://open.spotify.com/track/1LbccDWO37QQUaRvoI2LjV"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -10120,6 +10196,24 @@
       "duration_ms": 242827,
       "name": "For You (With Rita Ora)",
       "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159120,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
     },
     {
       "album": {
@@ -11364,7 +11458,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 183670,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
@@ -11586,7 +11680,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 111360,
       "name": "Grey Goose",
       "url": "https://open.spotify.com/track/4eOZazx2zu8GqCL82iFUc7"
@@ -16356,7 +16450,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -16378,6 +16472,24 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
+    },
+    {
+      "album": {
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
     },
     {
       "album": {
@@ -18805,6 +18917,24 @@
     },
     {
       "album": {
+        "name": "Maske weg",
+        "url": "https://open.spotify.com/album/0Nks51L3L4ap0JflRRaMGU"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Maske weg",
+      "url": "https://open.spotify.com/track/7Jt8ewtegbcwghGaQpoj5v"
+    },
+    {
+      "album": {
         "name": "Matrix Lights Hoodtrap",
         "url": "https://open.spotify.com/album/342agiEaG1uPpcHNKdZpUF"
       },
@@ -18990,6 +19120,24 @@
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
+    {
+      "album": {
+        "name": "MAYI",
+        "url": "https://open.spotify.com/album/6Q413nc8PNcnhfeKTvtWs4"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "MAYI",
+      "url": "https://open.spotify.com/track/7bjn1zw7NPN2ce61jmMVwZ"
     },
     {
       "album": {
@@ -19923,6 +20071,24 @@
     },
     {
       "album": {
+        "name": "Mona Lisa Motion (Einmal um die Welt)",
+        "url": "https://open.spotify.com/album/14dy0tmdDBbvdxDngiztgO"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Mona Lisa Motion (Einmal um die Welt)",
+      "url": "https://open.spotify.com/track/2xlCVJw334z27pGN8P7dhc"
+    },
+    {
+      "album": {
         "name": "money",
         "url": "https://open.spotify.com/album/3DXbRemwBJTQ8cPybFBLXp"
       },
@@ -20228,7 +20394,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
@@ -20432,7 +20598,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
@@ -23453,6 +23619,24 @@
     },
     {
       "album": {
+        "name": "Plug",
+        "url": "https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Plug",
+      "url": "https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW"
+    },
+    {
+      "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
       },
@@ -24802,6 +24986,24 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Roman Olur Yazsam Seni",
+        "url": "https://open.spotify.com/album/2baiXsRE7e2Koj4LIsbKUp"
+      },
+      "artists": [
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172023,
+      "name": "Roman Olur Yazsam Seni",
+      "url": "https://open.spotify.com/track/7wSiIzgBSzNFDbVDgxCqeO"
     },
     {
       "album": {
@@ -27113,6 +27315,32 @@
     },
     {
       "album": {
+        "name": "Sound of You",
+        "url": "https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204236,
+      "name": "Sound of You",
+      "url": "https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn"
+    },
+    {
+      "album": {
         "name": "Nu King",
         "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
       },
@@ -28654,7 +28882,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 110902,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/1prNhzt3DdgRoxKoALTEYo"
@@ -30354,7 +30582,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 124835,
       "name": "Undertheker",
       "url": "https://open.spotify.com/track/7sedwDZpxuRgJipH9gMQCa"
@@ -30872,7 +31100,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"

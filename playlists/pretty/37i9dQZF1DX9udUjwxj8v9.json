@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153144,
+  "num_followers": 153143,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 371720,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Tribal Bahia",
         "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 307880,
       "name": "Margarida Perfumada (Ao Vivo)",
       "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 371720,
-      "name": "Vai Passar",
-      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
     },
     {
       "added_at": "2023-03-06 22:48:04",

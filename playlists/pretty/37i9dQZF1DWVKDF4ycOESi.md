@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Lorde, Rkomi, Rocco Hunt, Luchè, Tony Boy, Carl Brave con Sarah Toscano e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,924 likes - 94 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,932 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 35 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
 | 36 | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK) | 3:27 |
 | 37 | [INCONSOLABILE](https://open.spotify.com/track/0zNGVlfR3s3KfpKjJKt9ex) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [INNI E CANTI](https://open.spotify.com/album/6SUOLZCCxUAITNhKbVLc62) | 2:50 |
-| 38 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [Basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 38 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
 | 39 | [Forse mi serve Qualcosa](https://open.spotify.com/track/2igPkhBpQQlDbxxg73PqQq) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [Forse mi serve Qualcosa](https://open.spotify.com/album/2u5GDUPX6h7U3II41BbNGG) | 2:42 |
 | 40 | [Sarà Perchè Ti Amo](https://open.spotify.com/track/2KPth5vlBFoFETGwjGf7Fa) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Sarà Perchè Ti Amo](https://open.spotify.com/album/4jsTSoE4BenJ7A84gEC5sH) | 2:09 |
 | 41 | [NO WAVE](https://open.spotify.com/track/5IJYCMHx8OTS3QfHYjKbyY) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [CREDO](https://open.spotify.com/album/1QVpncxoSjMw3yFMl9qNbp) | 1:54 |
@@ -90,17 +90,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 80 | [POPSTAR](https://open.spotify.com/track/7JdUP3UgS3Q83WVdWFWSiR) | [sadbrodino](https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi) | [POPSTAR](https://open.spotify.com/album/6K06VltpwmhzbduzEJx6F7) | 2:59 |
 | 81 | [Ti Ho Preso Per Natale Un Vibratore Wireless](https://open.spotify.com/track/5bEgyHuzXvXxBKB8QeL4MV) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [Ti Ho Preso Per Natale Un Vibratore Wireless](https://open.spotify.com/album/4rhG1nfceSLD7XStj3IExz) | 2:56 |
 | 82 | [La terza bici che mi hanno inculato](https://open.spotify.com/track/26sfrOOXw9UZOHYCxNYzVw) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La terza bici che mi hanno inculato](https://open.spotify.com/album/1qEDlUGjxZMDus25tOVkan) | 3:18 |
-| 83 | [koto](https://open.spotify.com/track/5yniFR8drO6iJjst7yr2p0) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [koto / al cader della giornata \(Versione semplice\)](https://open.spotify.com/album/21D3PCgLBORufY7UjZpMi9) | 3:45 |
+| 83 | [koto](https://open.spotify.com/track/5yniFR8drO6iJjst7yr2p0) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [koto / al cader della giornata \(versione semplice\)](https://open.spotify.com/album/21D3PCgLBORufY7UjZpMi9) | 3:45 |
 | 84 | [Tuffo ad angelo](https://open.spotify.com/track/3NnoexTFVW3dE2aFYi4JMV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Tuffo ad angelo](https://open.spotify.com/album/2kyW0TlpmYGmWLJQpvLw0t) | 3:05 |
 | 85 | [Che mi è preso?](https://open.spotify.com/track/1GD098KBNN1uQhQasNYicL) | [CIENNE](https://open.spotify.com/artist/4R9ObCF70wUhQ6GM8mAV0b) | [Che mi è preso?](https://open.spotify.com/album/0ebgLMdw7JjaxlhDpHgpK2) | 2:31 |
 | 86 | [Incidere](https://open.spotify.com/track/6FfhmmhKjIXyYRkQxvNH0C) | [D'Egidio](https://open.spotify.com/artist/5XLcPj7ABZ2jIVnDypkPsq), [ENSEMBLE](https://open.spotify.com/artist/5vA0iaehdPnFfmVZg476wY) | [Parentalia](https://open.spotify.com/album/18RNzJ3fkuwDOMCQegg2No) | 2:58 |
 | 87 | [ALIENO](https://open.spotify.com/track/21PmiS3t9YgXJUzAwXxoFL) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [ALIENO](https://open.spotify.com/album/6cVy7pgexh1oLBhDadHnmT) | 2:36 |
 | 88 | [Blue Sky](https://open.spotify.com/track/3J90t7XbwIsoa43WHbIKEK) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Blue Sky](https://open.spotify.com/album/04YyyVB1w2l98HJ91R44k3) | 2:52 |
-| 89 | [Blues del Silenzio](https://open.spotify.com/track/0seYXhHsIrmNoQYNAXpFrm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Blues del Silenzio](https://open.spotify.com/album/72BpMYbKEiaS6GtLCO0fMm) | 2:34 |
-| 90 | ['Nguento](https://open.spotify.com/track/0wCmVowJggewWDWuXshkLo) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [CORE IN FABULA \- PRIMO PORTALE](https://open.spotify.com/album/2gdkeez5uE0YhXSUUEj5hO) | 2:44 |
-| 91 | [SETA](https://open.spotify.com/track/1vx2NMZlPf5rHIULDMm8qq) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [SETA](https://open.spotify.com/album/10Sjq6gZYg0BRdoiPNRPYg) | 3:00 |
-| 92 | [NON HO PIÙ PAURA](https://open.spotify.com/track/53MpRLz03zuyrfTUudOkXT) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [ANTIEROI](https://open.spotify.com/album/1WiqQHENIshTKgKC3y9lLr) | 3:07 |
-| 93 | [Gigi](https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [Gigi](https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP) | 3:03 |
-| 94 | [Salomé/Hommage](https://open.spotify.com/track/2skBQIEIV2YZ3ZOzNZaaKn) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV2](https://open.spotify.com/album/04qAPJCC0gcJkO2sGHsnyW) | 4:35 |
+| 89 | [Rodolfo Valentino](https://open.spotify.com/track/45tFBG5IyV3LT4ljGnrqJ2) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Rodolfo Valentino](https://open.spotify.com/album/4Lu35kr8yu4chm7P84gxb6) | 2:56 |
+| 90 | [Blues del Silenzio](https://open.spotify.com/track/0seYXhHsIrmNoQYNAXpFrm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Blues del Silenzio](https://open.spotify.com/album/72BpMYbKEiaS6GtLCO0fMm) | 2:34 |
+| 91 | ['Nguento](https://open.spotify.com/track/0wCmVowJggewWDWuXshkLo) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [CORE IN FABULA \- PRIMO PORTALE](https://open.spotify.com/album/2gdkeez5uE0YhXSUUEj5hO) | 2:44 |
+| 92 | [SETA](https://open.spotify.com/track/1vx2NMZlPf5rHIULDMm8qq) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [SETA](https://open.spotify.com/album/10Sjq6gZYg0BRdoiPNRPYg) | 3:00 |
+| 93 | [NON HO PIÙ PAURA](https://open.spotify.com/track/53MpRLz03zuyrfTUudOkXT) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [ANTIEROI](https://open.spotify.com/album/1WiqQHENIshTKgKC3y9lLr) | 3:07 |
+| 94 | [Gigi](https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [Gigi](https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP) | 3:03 |
+| 95 | [Salomé/Hommage](https://open.spotify.com/track/2skBQIEIV2YZ3ZOzNZaaKn) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV2](https://open.spotify.com/album/04qAPJCC0gcJkO2sGHsnyW) | 4:35 |
 
 Snapshot ID: `aAq0ugAAAAC3dKsP3rf1PTAq/MfL3gSO`

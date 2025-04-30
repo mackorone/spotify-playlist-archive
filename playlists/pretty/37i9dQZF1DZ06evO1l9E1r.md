@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,478 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,481 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Old Neighborhood](https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:14 |
 | 50 | [He Died for All of Us](https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Trapped \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L) | 1:35 |
 
-Snapshot ID: `aA1zgAAAAAA7IoiWiobIvINAnBZnFr5X`
+Snapshot ID: `aA1zgAAAAABydB5BFJ9lWoBrG9c6wTtk`

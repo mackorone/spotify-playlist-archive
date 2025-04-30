@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,120 likes - 106 songs - 5 hr 21 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,130 likes - 106 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 8 | [Dreaming](https://open.spotify.com/track/3sVRneYYdJQ9KdtYo5MsLH) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Dreaming](https://open.spotify.com/album/2Ewr4JxqrQ3g7RrndIHdc1) | 3:45 |
 | 9 | [Hard Earned Heartache](https://open.spotify.com/track/0TKT24zCa6c5sX8I4qhoYa) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Hard Earned Heartache](https://open.spotify.com/album/2MaktyRghTVvwwlSn46hjf) | 3:00 |
 | 10 | [NARCO BABY](https://open.spotify.com/track/30G7tsxt2oA938f5k9VMLN) | [Boobie Lootaveli](https://open.spotify.com/artist/6f4aJlAHj8LX3yAytAmWlu), [CON](https://open.spotify.com/artist/1JCjcQ2RIM0813Vrf3Bo7H) | [NARCOBABY](https://open.spotify.com/album/742qHfUMLmwrFMSvLERuN7) | 2:03 |
-| 11 | [Smooth Criminal](https://open.spotify.com/track/5se5uYbYY0aBfeDP2nVCj1) | [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Chelsea Sloan](https://open.spotify.com/artist/0k6hRybaKVP4LDrmlIHxRB), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Smooth Criminal](https://open.spotify.com/album/1nd9lEvmUSI1LU5x2wZNYD) | 5:43 |
+| 11 | [Smooth Criminal](https://open.spotify.com/track/5se5uYbYY0aBfeDP2nVCj1) | [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Chelsea Sloan](https://open.spotify.com/artist/0k6hRybaKVP4LDrmlIHxRB), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Smooth Criminal](https://open.spotify.com/album/1nd9lEvmUSI1LU5x2wZNYD) | 5:43 |
 | 12 | [Stay Connect](https://open.spotify.com/track/0P3RoBdNgeD2t1ofYhtdtR) | [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Stay Connect](https://open.spotify.com/album/2flAQcnW2jOXSOqeyD0p5m) | 2:24 |
 | 13 | [SPIRAL](https://open.spotify.com/track/2LwXtNl28yHRiNlt6MbRBI) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [SPIRAL](https://open.spotify.com/album/5kPskI87LwQmuOc7CZiuVV) | 1:49 |
 | 14 | [Am I? \(Tell Me\)](https://open.spotify.com/track/35210c1XAef06FwD7bYX2y) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [Am I? \(Tell Me\)](https://open.spotify.com/album/0zB4C5u7YDqdXqKvyV8Epy) | 3:15 |

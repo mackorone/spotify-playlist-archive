@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,095 likes - 103 songs - 5 hr 51 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,094 likes - 103 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 18 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 19 | [You're My Sunshine \- from "Honey Lemon Soda" Soundtrack](https://open.spotify.com/track/1IDCpaNETSyfcWhGwyhOFh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [You're My Sunshine \(from "Honey Lemon Soda" Soundtrack\)](https://open.spotify.com/album/6XoIoaJygwBxqOZESH6UCL) | 4:19 |
 | 20 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 |
-| 21 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
+| 21 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 22 | [Water Stadium](https://open.spotify.com/track/3pW7ztKpPJPMZhQZRjdjaI) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Tower of God: Workshop Battle \(Original Series Soundtrack\)](https://open.spotify.com/album/22wIbprKFLrHmI2oKTVeoI) | 2:15 |
 | 23 | [Viole](https://open.spotify.com/track/3GNlF4YneZ8IW0hFakA6Lr) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Tower of God: Return of the Prince \(Original Series Soundtrack\)](https://open.spotify.com/album/6q35CZzmJd9tPWmKYFwzBn) | 3:03 |
 | 24 | [love theme](https://open.spotify.com/track/6ZHO6Mbg1MHsq2L0RYlPON) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 4:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=5E7M0TMXRR2r60CuEAlLEQ">Riaan Benadé</a> en <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=XXAWBmfvTKOXvYpAdhh9zA">Ricus Nel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,734 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,802 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

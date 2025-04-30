@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "JEOPARDY",
+        "url": "https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237970,
+      "name": "JEOPARDY",
+      "url": "https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al"
+    },
+    {
+      "album": {
         "name": "iv",
         "url": "https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w"
       },
@@ -2286,7 +2304,7 @@
           "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         },
         {
-          "name": "Felix of Stray Kids",
+          "name": "Felix",
           "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
         }
       ],

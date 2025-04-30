@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-250 songs - 11 hr 51 min
+255 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-03-14 |  |
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
 | [a surreal hour of normalcy](https://open.spotify.com/track/3fgBSmAdsXQOgsPbvYWvOt) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [astral projecting into flavortown](https://open.spotify.com/album/2gpxxam0nyREcnQKCX8AbJ) | 6:00 | 2025-02-21 | 2025-04-02 |
+| [Across The Shores](https://open.spotify.com/track/6OiU6gcwvkmiHOI7DTcj3o) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Across The Shores](https://open.spotify.com/album/5KkZmyf8N9ySmpo8nUos4s) | 2:57 | 2025-04-29 |  |
 | [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 | 2024-03-07 | 2024-08-21 |
 | [After the Silence](https://open.spotify.com/track/1aaKNIlVta6YoBxLH9qxsL) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [After the Silence](https://open.spotify.com/album/4AlFlAB3RdcQdOkVv8i0rA) | 2:03 | 2025-02-21 |  |
 | [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 | 2024-03-14 | 2025-04-02 |
@@ -34,6 +35,7 @@
 | [buzz](https://open.spotify.com/track/7cEfMa4xuTRegIALvQKWvl) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [buzz](https://open.spotify.com/album/4KK8nCZ99exTrZ5HMx5J9w) | 2:05 | 2023-11-24 |  |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2022-03-21 | 2023-07-29 |
+| [Carried by the Wind](https://open.spotify.com/track/51ckDTqIT72bXrmB258H18) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Carried by the Wind](https://open.spotify.com/album/4b0EeGJlSUzJ3HVTZddt5r) | 2:47 | 2025-04-29 |  |
 | [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 | 2022-03-21 | 2025-01-10 |
 | [Castaway](https://open.spotify.com/track/69zBh0kdUlx0qN0W4trzcp) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6VPGoZbNiZv3e8Ym7tgMMt) | 4:15 | 2022-10-15 | 2022-11-14 |
 | [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 | 2024-04-19 |
@@ -54,6 +56,7 @@
 | [Cosmic beauty](https://open.spotify.com/track/73J44LuDPCbQZIn1HzuQP6) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Cosmic beauty](https://open.spotify.com/album/2301N5OJFB0qfkK7Nwa5zb) | 3:12 | 2024-05-11 | 2024-11-08 |
 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 | 2022-06-25 |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 | 2025-01-10 |
+| [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 | 2025-04-29 |  |
 | [Dawn Birds](https://open.spotify.com/track/4lTdrXBSG7Si26QIhYzLrZ) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Dawn Birds](https://open.spotify.com/album/4WuREe2T9AyU6NdVm2cqd0) | 2:46 | 2025-02-21 |  |
 | [Daybreak](https://open.spotify.com/track/5X3gHNzvUgXpmspojKy1e1) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Daybreak](https://open.spotify.com/album/3RKZ16c9LDpjVxy0cgzaY0) | 2:33 | 2025-03-14 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
@@ -146,6 +149,7 @@
 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 | 2022-03-21 | 2024-08-21 |
 | [Nihon](https://open.spotify.com/track/4twsOUZcA2G5ruaOuMmVNk) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 3:17 | 2022-03-21 | 2022-08-13 |
 | [Not Profound, Simply True](https://open.spotify.com/track/7rUocCJ8NZl62rSfQDZARM) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Not Profound, Simply True](https://open.spotify.com/album/3DI3mtNvXXTGD6VN8e0lID) | 3:43 | 2022-04-21 | 2022-08-13 |
+| [Now's the Time](https://open.spotify.com/track/79hwJyLWHJaT3hMyYtHGUJ) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Now's the Time](https://open.spotify.com/album/62kUYG0I5wi25EiTaUEzGb) | 2:44 | 2025-04-29 |  |
 | [Nurtured Lilies](https://open.spotify.com/track/71UEqEJQLXPkGf9KkFgbPG) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Nurtured Lilies](https://open.spotify.com/album/2gTWtjQqnA5OP6jfbXAHuM) | 3:18 | 2024-03-07 |  |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2022-03-21 | 2025-02-22 |
 | [One Path](https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 2:09 | 2022-03-21 |  |
@@ -245,6 +249,7 @@
 | [Wanderstop Part 1](https://open.spotify.com/track/4VMUh61jfChVRAnO4RLrsZ) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Wanderstop](https://open.spotify.com/album/051vvnKIC9VaY8vw4R2s0y) | 2:42 | 2025-03-14 |  |
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2022-03-21 | 2023-07-29 |
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2022-03-21 | 2025-02-06 |
+| [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 | 2025-04-29 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-03-21 |  |
 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2022-03-21 | 2023-02-08 |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 | 2023-11-24 | 2024-04-19 |

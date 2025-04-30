@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b7\u30e3\u30c3\u30dd Chappo",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Mega Shinnosuke",
   "name": "Edge!",
   "tracks": [
     {
@@ -22100,7 +22100,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 197172,
       "name": "SONAR",
       "url": "https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk"
@@ -32578,7 +32578,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 368181,
       "name": "\u30b3\u30f3\u30dc!!!!!!!!!!",
       "url": "https://open.spotify.com/track/0DtBevWgmFRemjCbcxXQqa"
@@ -33094,7 +33094,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 219357,
       "name": "\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5seK7fB4XxQ2anaoA5fPrm"
@@ -36849,6 +36849,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ed\u3044\u5922",
+        "url": "https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159648,
+      "name": "\u541b\u306b\u30ce\u30fc\u30d9\u30eb\u8cde",
+      "url": "https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z"
+    },
+    {
+      "album": {
         "name": "\u541b\u306e\u5f71",
         "url": "https://open.spotify.com/album/23V5Lowb0742aVC0pGwGFj"
       },
@@ -39554,7 +39572,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 201518,
       "name": "\u6625\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/25vsL9xUIGGx5CpweTKXJh"
@@ -42535,6 +42553,24 @@
     },
     {
       "album": {
+        "name": "\u82b1\u7c89",
+        "url": "https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259704,
+      "name": "\u82b1\u7c89",
+      "url": "https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC"
+    },
+    {
+      "album": {
         "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
         "url": "https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx"
       },
@@ -43585,6 +43621,24 @@
     },
     {
       "album": {
+        "name": "\u77f3\u306e\u7cf8",
+        "url": "https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA"
+      },
+      "artists": [
+        {
+          "name": "kanekoayano",
+          "url": "https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187025,
+      "name": "\u96e3\u3057\u3044",
+      "url": "https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq"
+    },
+    {
+      "album": {
         "name": "\u96e8 [feat. (sic)boy]",
         "url": "https://open.spotify.com/album/1P9KiA8V5mnVYRHmtOA8Fy"
       },
@@ -44068,7 +44122,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 282194,
       "name": "\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/65MyFesoLI2PBF8QVKMZwZ"

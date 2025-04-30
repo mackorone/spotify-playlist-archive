@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 73655,
+  "num_followers": 73689,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Your Smith",
-          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Heavy (feat. Your Smith)",
-      "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Heavy (feat. Your Smith)",
+      "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
     },
     {
       "added_at": "2024-06-28 21:13:36",

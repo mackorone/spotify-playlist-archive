@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-294 songs - 16 hr 13 min
+297 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 | 2023-12-12 | 2025-04-26 |
 | [Happy New Year](https://open.spotify.com/track/5xA2xOTd3QgI2QfqXD3Wcm) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Happy New Year](https://open.spotify.com/album/0TyHvhfwR8cUIXOEmp9t2o) | 2:08 | 2024-10-15 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
+| [Have You Ever Seen the Rain](https://open.spotify.com/track/5JNQa6VaJcQhxLK3uLSP0C) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Have You Ever Seen the Rain](https://open.spotify.com/album/0A431lONTBFcVmYgBxIi70) | 3:08 | 2025-04-29 |  |
 | [Heaven](https://open.spotify.com/track/3I9O3RcYR18jIo0q7t82an) | [Velvet Pines](https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB) | [Heaven](https://open.spotify.com/album/6E7fFRTgcnn0LDylXFmxZd) | 2:44 | 2025-01-07 |  |
 | [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 | 2023-03-07 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |
@@ -139,6 +140,7 @@
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 | 2023-01-01 |
 | [I Can't Help Falling In Love](https://open.spotify.com/track/0SrryncWXs2idSiHSY9hdT) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Help Falling In Love](https://open.spotify.com/album/1zhVJVy42DKI8VFw60f8oN) | 2:46 | 2024-09-10 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0njEZi0FP5dUAXcXZqCoXG) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Make You Love Me](https://open.spotify.com/album/3LzJrPwnAKdK0CWGlFb3FM) | 3:31 | 2024-03-04 |  |
+| [I Just Called To Say I Love You](https://open.spotify.com/track/3bHCOreR8QHPpcYVRlUMbZ) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [I Just Called To Say I Love You](https://open.spotify.com/album/33x0lAlwM1poVikUjdalFm) | 3:28 | 2025-04-29 |  |
 | [I Just Can't Stop Loving You](https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I Just Can't Stop Loving You](https://open.spotify.com/album/0maykbcNsWHDhZ7TGMq4jn) | 3:34 | 2024-09-03 |  |
 | [I love you, I'm sorry](https://open.spotify.com/track/1fI1V8UNvkYRoQjQ5NwwPS) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [I love you, I'm sorry](https://open.spotify.com/album/35aDCfbOCuJU1tDhjv2vwp) | 2:33 | 2025-03-07 |  |
 | [I Want It That Way](https://open.spotify.com/track/6vLwopf1erdW3XoCfz6TIX) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [I Want It That Way](https://open.spotify.com/album/2wJVSaCsCjUhFY4tyNraAj) | 1:56 | 2024-11-06 | 2025-04-26 |
@@ -247,6 +249,7 @@
 | [Story of My Life](https://open.spotify.com/track/0knSe1sGQkIyE3rTIvQRl1) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Story of My Life](https://open.spotify.com/album/09ixsulaxQcFKTymb42Is8) | 2:28 | 2024-02-02 |  |
 | [Sunflower \(feat\. ThatViolaKid\)](https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [ThatViolaKid](https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:44 | 2022-11-18 | 2022-11-26 |
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
+| [Sweet Caroline](https://open.spotify.com/track/2yrl30QmbKjEMK5gDsk5Id) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Sweet Caroline](https://open.spotify.com/album/681SXOvHU2wTqBFGuUEPUq) | 3:33 | 2025-04-29 |  |
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 | 2025-04-26 |
 | [Tears in Heaven](https://open.spotify.com/track/1diA0qxa31zuUw6e14P15n) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Tears in Heaven](https://open.spotify.com/album/6VfC5Ha40EKxopc0SJtsJy) | 3:13 | 2024-08-13 |  |
 | [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 | 2025-04-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 24124,
+  "num_followers": 24160,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Dance and Chant",
+        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Dance and Chant",
+      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Where Do We Go?",
         "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 194290,
       "name": "Where Do We Go?",
       "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Dance and Chant",
-        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Dance and Chant",
-      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        },
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 220004,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Bailalo (Radio Edit)",
         "url": "https://open.spotify.com/album/5pgbDyU2hrE9eX01HGKUNj"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 181451,
       "name": "Bailalo - Radio Edit",
       "url": "https://open.spotify.com/track/6rzG1q2gQ4kUtK1OUT4sIY"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        },
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 220004,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9"
     },
     {
       "added_at": "2024-03-28 01:32:56",

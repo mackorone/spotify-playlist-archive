@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
   "description": "All the South African and global pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT?si=z0ZFR4gFTXKbyQumY7trlA\"> Nafeesisboujee</a>",
-  "name": "i <3 pop",
+  "name": "i <3 pop ",
   "tracks": [
     {
       "album": {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 199520,
       "name": "Back in the Day",
       "url": "https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 171001,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 189003,
       "name": "Darker Days",
       "url": "https://open.spotify.com/track/6si1t4BKI9wytpoa9bE3ah"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 177194,
       "name": "Figure Out the Rest",
       "url": "https://open.spotify.com/track/6V6N55Y0w67IC6reGDpl2t"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 170394,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/478m5v6CKeJFQELorrDnQ7"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 149675,
       "name": "Hope It Hurts",
       "url": "https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY"
@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "I Don\u00b4t Feel",
+        "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
+      },
+      "artists": [
+        {
+          "name": "Aggy Ally",
+          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208944,
+      "name": "I Don\u00b4t Feel",
+      "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -3890,6 +3908,24 @@
       "duration_ms": 181650,
       "name": "Love On",
       "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
+    },
+    {
+      "album": {
+        "name": "Love You For The Last Time",
+        "url": "https://open.spotify.com/album/10UESJ67El3w6g3eH53f7L"
+      },
+      "artists": [
+        {
+          "name": "Craig Lucas",
+          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Love You For The Last Time",
+      "url": "https://open.spotify.com/track/7xeY0WXLWcebchy7pb6IJW"
     },
     {
       "album": {
@@ -4952,7 +4988,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 173433,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/44KP4XwEruShk0Czgmm6Jn"
@@ -5108,7 +5144,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 182857,
       "name": "Risky",
       "url": "https://open.spotify.com/track/76Updb7OaDsoOHuqFbsuYr"
@@ -5584,7 +5620,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 162962,
       "name": "Smothered By U",
       "url": "https://open.spotify.com/track/4qWkKXLmejLhXuWLHE0DqH"
@@ -5852,7 +5888,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 204690,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5wQFpg6qoJSKy0J0IxADS0"
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
@@ -5906,7 +5942,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -6440,7 +6476,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 200480,
       "name": "the place i use to hide",
       "url": "https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my"
@@ -7260,7 +7296,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 168508,
       "name": "Wishbone - Known Stranger Remix",
       "url": "https://open.spotify.com/track/25vla28yTknbfgauh9Wm7T"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,613 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,617 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 3 | [Maatigi Tappidenga Maduvigi Oppidenga](https://open.spotify.com/track/28iYbUjfYzQNkcduFEbp4m) | [Shivu Hugar](https://open.spotify.com/artist/6OXe2rlWVfCTjR5L56M0Nd) | [Maatigi Tappidenga Maduvigi Oppidenga](https://open.spotify.com/album/7je2Gv73NRMvkrJCEtsMgk) | 5:56 |
 | 4 | [Kanasanu Kaanuva](https://open.spotify.com/track/3vR1KLlliDOYQ5VBbEGLPh) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Virochan Raje Urs](https://open.spotify.com/artist/1Dqaa5FSfwg7AeeFHU2HJA) | [Kanasanu Kaanuva](https://open.spotify.com/album/5LmH1oQdtfpxUz9V08RA6W) | 4:03 |
 | 5 | [Sakkathagiddini](https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Sakkathagiddini](https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR) | 2:38 |
-| 6 | [Sanna Sanhe](https://open.spotify.com/track/2spWEByvQoOXImGTN456Jl) | [Ranjan Das](https://open.spotify.com/artist/2MhT1cTJMY91IckliK4l0z), [Chaitrhika V K](https://open.spotify.com/artist/0vHj2WJpPqVx4Po9BTiw6l) | [Sanna Sanhe](https://open.spotify.com/album/32HLzydiXioH3ogXxgHBsy) | 3:22 |
+| 6 | [Sanna Sanhe](https://open.spotify.com/track/2spWEByvQoOXImGTN456Jl) | [Ranjan Das](https://open.spotify.com/artist/1xoGSvUCAgFWNPPdRNhBpY), [Chaitrhika V K](https://open.spotify.com/artist/0vHj2WJpPqVx4Po9BTiw6l) | [Sanna Sanhe](https://open.spotify.com/album/32HLzydiXioH3ogXxgHBsy) | 3:22 |
 | 7 | [Fall in love](https://open.spotify.com/track/3XJFWpFQ1mmfsnLAmzoku6) | [Shiva Ranna](https://open.spotify.com/artist/6fOpr6oChdGNK3Ypi9d6CJ) | [Fall in love](https://open.spotify.com/album/26yNQkxd0J2MB6nioywD5U) | 3:44 |
 | 8 | [Ninnindha Shuru](https://open.spotify.com/track/63Z5msVzQTDREqGmFbFXok) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Ninnindha Shuru](https://open.spotify.com/album/71bZWpJ2pF7HBuNRwSjMMQ) | 4:17 |
 | 9 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 |

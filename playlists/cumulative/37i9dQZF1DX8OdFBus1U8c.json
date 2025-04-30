@@ -1568,7 +1568,7 @@
       },
       "artists": [
         {
-          "name": "Malabari",
+          "name": "Malabari Musick",
           "url": "https://open.spotify.com/artist/6aJVqvd2GBKa3d6SEDmgGc"
         }
       ],
@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Puthen Kodi",
+        "url": "https://open.spotify.com/album/0mQhdxGMYb1q7DnZOXd7Yz"
+      },
+      "artists": [
+        {
+          "name": "Slaya",
+          "url": "https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Puthen Kodi",
+      "url": "https://open.spotify.com/track/0QQNTlH92lNuhpNMv5CXsF"
+    },
+    {
+      "album": {
         "name": "Raavanan",
         "url": "https://open.spotify.com/album/2Fxy7tQSkhKVINxfDaSmWY"
       },
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 205952,
       "name": "Thiagarajan Syndrome",
       "url": "https://open.spotify.com/track/6zhDHffeXAQQ80I3MiFjRd"

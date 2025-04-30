@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,960 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,980 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
 | 50 | [Glory to Glory \(Live\)](https://open.spotify.com/track/4ITWue8Tu2ihipYvhoOo8g) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:24 |
 
-Snapshot ID: `aA1zgAAAAACtFzzsV9cttPwcANETxD+Q`
+Snapshot ID: `aA1zgAAAAABB7YxNUeiUC9/Tm06cXypV`

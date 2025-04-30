@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 442,016 likes - 50 songs - 2 hr 47 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 441,959 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 45 | [Just Followme](https://open.spotify.com/track/0DZ3XwuqjlGEo0enLRjbef) | [Rexkn](https://open.spotify.com/artist/0BMlc3n0ZnbE7SCa4aWJrl) | [Inadaptado Social](https://open.spotify.com/album/24fSUoGe66P8zPtBqdGWaW) | 3:04 |
 | 46 | [Break My Heart](https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5) | [Eric Alexander](https://open.spotify.com/artist/0kHbbMMynm4zRO95VB8fCl) | [Break My Heart](https://open.spotify.com/album/34OME6atFgUK7sie1uEJSl) | 3:49 |
 | 47 | [CAMINOS DE DESTRUCCIÓN](https://open.spotify.com/track/3oOJGRjAoGjavL0Jq6hV7V) | [Moises Sala](https://open.spotify.com/artist/1sth04bKfg3QYDyJtDn0Pz) | [CAMINOS DE DESTRUCCIÓN](https://open.spotify.com/album/2Sslt2ovFjOKiRRuUOF0LH) | 3:38 |
-| 48 | [Mama](https://open.spotify.com/track/2Jif09JCJ581jgjDKtCJLs) | [Der Doc](https://open.spotify.com/artist/1S6aXT5ZsK4OhTMqse2CHZ), [Stephen's OY Choir](https://open.spotify.com/artist/4tE9xd2FeRBSNPEFknuRDv), [Jones 2.0](https://open.spotify.com/artist/6XeLD4xycpIo0ET72akKle) | [Mama](https://open.spotify.com/album/0zwFQh5X3wLiyYms5wv6jY) | 3:37 |
+| 48 | [Mama](https://open.spotify.com/track/2Jif09JCJ581jgjDKtCJLs) | [Der Doc Music](https://open.spotify.com/artist/0OKh1QM6YCWMN4Tj28Q3Ox), [Stephen's OY Choir](https://open.spotify.com/artist/4tE9xd2FeRBSNPEFknuRDv), [Jones 2.0](https://open.spotify.com/artist/6XeLD4xycpIo0ET72akKle) | [Mama](https://open.spotify.com/album/0zwFQh5X3wLiyYms5wv6jY) | 3:37 |
 | 49 | [Gars des States](https://open.spotify.com/track/30ATUwg9cO5T66EWCnhkYK) | [Arctic Steev](https://open.spotify.com/artist/1QDpDlPtq9lo5AuLJDLjQb), [KMZ](https://open.spotify.com/artist/6DZc5waSGdHL3mHnWRdwqR) | [Gars des States](https://open.spotify.com/album/3Mqf7JuDsitvqV3U8HeIkC) | 2:36 |
 | 50 | [Teil von mir](https://open.spotify.com/track/7gMzsunQ9NjtdiDqA8lACo) | [Theis](https://open.spotify.com/artist/6Bus1sYUfxdyFnBCumJRO3) | [Teil von mir](https://open.spotify.com/album/6zoG1AAYKFHLzM4EmtgJ1C) | 2:31 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uad8c\uc9c4\uc544) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uba5c\ub85c\ub9dd\uc2a4) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 247013,
       "name": "Escape to You",
       "url": "https://open.spotify.com/track/5mkEaDKd5Hh9pM3MjJEgKC"
@@ -10004,7 +10004,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 220608,
       "name": "I'll take you in my arms",
       "url": "https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE"
@@ -16695,6 +16695,24 @@
     },
     {
       "album": {
+        "name": "Only You Know",
+        "url": "https://open.spotify.com/album/2uHTJNIl8AdXwX2JGpcYhU"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Only You Know",
+      "url": "https://open.spotify.com/track/1RWrSJswXfKqEqTEXpYXZW"
+    },
+    {
+      "album": {
         "name": "Orange Flower",
         "url": "https://open.spotify.com/album/7njdluhWmaZFoDslWfbceC"
       },
@@ -20378,6 +20396,24 @@
       "duration_ms": 216066,
       "name": "Supppperman's dream",
       "url": "https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58"
+    },
+    {
+      "album": {
+        "name": "Romance Express",
+        "url": "https://open.spotify.com/album/5SWpoV5qrSIv5zWsDFejO9"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239053,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/5rRVgLH8wP6TVm5XyI06oT"
     },
     {
       "album": {

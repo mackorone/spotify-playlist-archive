@@ -41799,6 +41799,24 @@
     },
     {
       "album": {
+        "name": "Resonant Pulse",
+        "url": "https://open.spotify.com/album/54v2thLsOMX4ifgXNTeSpC"
+      },
+      "artists": [
+        {
+          "name": "FluxCap",
+          "url": "https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Resonant Pulse",
+      "url": "https://open.spotify.com/track/64AVZNtzvKPSlOfMZSKDld"
+    },
+    {
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/6fmw2VRSrZDgUf16ghCJak"
       },

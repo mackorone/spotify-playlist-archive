@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 79 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,811 likes - 79 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 65 | [My One](https://open.spotify.com/track/3Tjv3QLlH9FPQx35ljStp7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 2:58 |
 | 66 | [Keep Reachin' \(feat\. Chaka Khan\)](https://open.spotify.com/track/36fB3anNFgFwVrO9B6bYKO) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Keep Reachin' \(feat\. Chaka Khan\)](https://open.spotify.com/album/6YY0fKK086S5hGfJh3XpqW) | 4:52 |
 | 67 | [Freak Of Nature](https://open.spotify.com/track/2R5MNcivvBdMqV5rFnVH3L) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Mark Ronson Presents The Music Of "Spies In Disguise"](https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk) | 3:27 |
-| 68 | [Bird Calling](https://open.spotify.com/track/5Q6iSMVKnyreghtAjS2t7k) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bird Calling](https://open.spotify.com/album/4WmMR5EMxXuxojG65W1DDU) | 3:03 |
-| 69 | [WING](https://open.spotify.com/track/1ho6oMAuDoJ6r0mopG360r) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [FUTURE PAST](https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A) | 5:19 |
+| 68 | [WING](https://open.spotify.com/track/1ho6oMAuDoJ6r0mopG360r) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [FUTURE PAST](https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A) | 5:19 |
+| 69 | [Bird Calling](https://open.spotify.com/track/5Q6iSMVKnyreghtAjS2t7k) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bird Calling](https://open.spotify.com/album/4WmMR5EMxXuxojG65W1DDU) | 3:03 |
 | 70 | [Only in Dreams](https://open.spotify.com/track/6njZoQz1itZlkLBvOECNMp) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Paper Gods](https://open.spotify.com/album/2Pvbc55bvFduWqHUUWR0oP) | 6:05 |
 | 71 | [Mother May I](https://open.spotify.com/track/1AVvIjs2gEtEupBATVWLtt) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/7gUiG0bEsWsD5kEUHVIajS) | 4:59 |
 | 72 | [You'll Go Crazy \(feat\. King Princess\)](https://open.spotify.com/track/70K0TCJthSVhzWNzKL9FLx) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:35 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 78 | [Do You Do You Know \(feat\. Santigold & Kathleen Hanna\)](https://open.spotify.com/track/6jN57Tbx38RDQ7eEGoH1Fd) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:31 |
 | 79 | [Hell To Be You Baby](https://open.spotify.com/track/1AJsGxc2WejmcdXbxX50uk) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Hell To Be You Baby](https://open.spotify.com/album/48BuHR7I9Nauw1WA60OhTy) | 3:55 |
 
-Snapshot ID: `AbwBCgAAAAAy7WWWhOeUeH+WPry0OBHx`
+Snapshot ID: `AbwGqgAAAAB7PaF6ksJEzo0DSlLTpiNv`

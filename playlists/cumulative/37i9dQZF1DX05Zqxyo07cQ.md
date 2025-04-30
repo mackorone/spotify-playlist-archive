@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-725 songs - 1 day 11 hr 23 min
+727 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2023-03-23 | 2024-02-09 |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2024-08-17 |
-| [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-20 |  |
+| [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 | 2025-04-23 |  |
+| [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-20 | 2025-04-30 |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2023-03-23 | 2024-04-06 |
 | [Antares](https://open.spotify.com/track/3PsBjzhmyOU2SRlQpozoc4) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Antares](https://open.spotify.com/album/2eDkjQZjSEWKZ6oZ1G60zb) | 3:03 | 2024-01-17 | 2024-07-13 |
 | [Antennae](https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT) | [Lumious Dreamer](https://open.spotify.com/artist/7oZwy1TQhQidpCUTLsPd98) | [Antennae](https://open.spotify.com/album/0e0jmCeOYj542Untm7XqWN) | 2:40 | 2024-03-06 | 2024-03-21 |
@@ -352,7 +353,7 @@
 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 | 2025-02-17 |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-03-23 | 2024-05-05 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-03-23 | 2023-09-01 |
-| [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 | 2025-04-29 |
+| [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 |  |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2023-03-23 | 2024-03-21 |
 | [Kalon Senses](https://open.spotify.com/track/4IpQ5t4mDLJ4U4RleDMrs0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Kalon Senses](https://open.spotify.com/album/0Lz8iiwECM6TBOCdStDQDY) | 2:49 | 2023-03-23 | 2024-02-09 |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2023-03-23 | 2024-03-21 |
@@ -400,7 +401,7 @@
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 | 2025-03-30 |
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-02-04 |  |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 | 2025-01-09 |
-| [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 | 2025-03-19 |  |
+| [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 | 2025-03-19 | 2025-04-30 |
 | [Meandering Stream](https://open.spotify.com/track/0e5Ipazb2ofxVoEe3Xxcjl) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Meandering Stream](https://open.spotify.com/album/1ShreZhKFKSAqGjrKioYJT) | 2:59 | 2024-03-06 | 2024-03-21 |
 | [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2024-11-21 | 2025-04-17 |
 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 | 2023-07-14 | 2024-07-10 |
@@ -508,7 +509,7 @@
 | [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 | 2025-03-13 |
 | [Quand la neige tombe](https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Quand la neige tombe](https://open.spotify.com/album/0WS3vyLeMR9nNvvRf9c0fO) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 | 2025-04-23 |  |
-| [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 |  |
+| [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 | 2025-04-30 |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-23 | 2024-02-09 |
 | [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 |  |
 | [Quiet Lights](https://open.spotify.com/track/24AJr6RHcOOQG2dobtxFi4) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Quiet Lights](https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G) | 2:19 | 2023-03-23 | 2024-03-21 |
@@ -566,6 +567,7 @@
 | [Sensibility](https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Sensibility](https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9) | 2:36 | 2024-05-20 |  |
 | [Separated](https://open.spotify.com/track/24Q4s34r5lTO9bCkdZnNaO) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Separated](https://open.spotify.com/album/3PGOAxYU1IJgQgwTY0ddSQ) | 2:37 | 2023-03-23 | 2024-01-18 |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2023-03-23 | 2024-02-09 |
+| [Seraphic](https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Seraphic](https://open.spotify.com/album/0Nr7f5qqSI60FvHddijltq) | 2:22 | 2025-04-23 |  |
 | [Serendipity](https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Serendipity](https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX) | 2:31 | 2024-08-02 | 2025-02-05 |
 | [Serenity](https://open.spotify.com/track/0mIZucxdkk7uAbQi06ZhA6) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Serenity](https://open.spotify.com/album/5Fmy9yXYD1Rm5HPLvtaxKf) | 2:31 | 2024-07-09 |  |
 | [Serenium](https://open.spotify.com/track/6I1WmsOxCm5Qi6PooQPRq6) | [Atli Einarsdóttir](https://open.spotify.com/artist/213t12SUo7qH5ZsE6Uvz1a) | [Serenium](https://open.spotify.com/album/07BZGZpGqALYVVCpCgGpTu) | 2:22 | 2024-01-17 | 2024-07-19 |

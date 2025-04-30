@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-217 songs - 11 hr 45 min
+218 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-11-02 |  |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/1i07MlxQIuFSqNX3x3LkJH) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/album/0VzAK7qF5GcvFbNlCmt0YL) | 2:51 | 2024-03-19 |  |
 | [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-18 |  |
+| [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 | 2025-04-29 |  |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-04-05 |  |
 | [Beautiful Lies](https://open.spotify.com/track/5bLgdnoxwts6ihPpv5G2dV) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Beautiful Lies](https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC) | 3:52 | 2023-12-08 | 2024-07-23 |
 | [Betrayal](https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Betrayal](https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc) | 3:00 | 2024-06-05 |  |

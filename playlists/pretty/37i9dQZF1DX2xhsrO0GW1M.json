@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1108136,
+  "num_followers": 1108061,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs"
+        "name": "Julian Plenti Is... Skyscraper",
+        "url": "https://open.spotify.com/album/1MsdIaYaUSYZLiPeY20md4"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Julian Plenti",
+          "url": "https://open.spotify.com/artist/4RlEYUI2Q5gKfDn1VwKQpK"
         }
       ],
-      "duration_ms": 263880,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf"
+      "duration_ms": 237320,
+      "name": "Games for Days",
+      "url": "https://open.spotify.com/track/0LSdx5GAWI9Swa62gWK05Y"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Julian Plenti Is... Skyscraper",
-        "url": "https://open.spotify.com/album/1MsdIaYaUSYZLiPeY20md4"
-      },
-      "artists": [
-        {
-          "name": "Julian Plenti",
-          "url": "https://open.spotify.com/artist/4RlEYUI2Q5gKfDn1VwKQpK"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Games for Days",
-      "url": "https://open.spotify.com/track/0LSdx5GAWI9Swa62gWK05Y"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Alemania",
         "url": "https://open.spotify.com/album/6omb0Celi5La2laiUoweog"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 235920,
       "name": "Alemania",
       "url": "https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Ur Mum",
-        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Ur Mum",
-      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Winter Solstice",
         "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 236240,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Ur Mum",
+        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Ur Mum",
+      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
     },
     {
       "added_at": "2024-07-12 17:56:50",

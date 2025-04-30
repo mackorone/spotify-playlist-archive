@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including O'DESSA, now streaming on Hulu.
 
-136 songs - 6 hr 35 min
+137 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Retrograde](https://open.spotify.com/track/2MgPGkrr0Gqwnt6RXYJfeX) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 3:48 | 2024-09-20 |  |
 | [Return to Sender](https://open.spotify.com/track/71Z7P3GdkgS5HcRWcQnCGz) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/1XBUl7nB5Cpcxd9eNlAWC6) | 2:32 | 2024-07-19 |  |
 | [Running Elizabeth](https://open.spotify.com/track/4mj1ZCx7F939G1C3RhAYDL) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 1:14 | 2024-01-05 |  |
+| [Secret Temptation](https://open.spotify.com/track/5NKAPZ2txyBf6vEMNCQGap) | [ITG Studios](https://open.spotify.com/artist/5ExXlrueheuTEy2uq8FM9O) | [The Secret Lives of Mormon Wives](https://open.spotify.com/album/3OOZsk1u6uPaiCOZKGdbG7) | 0:40 | 2025-04-29 |  |
 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 | 2024-01-05 |  |
 | [Shilo](https://open.spotify.com/track/6CSAYY71wrwMZHQLd1Hp7M) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Good American Family \(Original Soundtrack\)](https://open.spotify.com/album/56XR4Y1jXWZyO9Jp59ypYI) | 4:42 | 2025-03-21 |  |
 | [Shinobi](https://open.spotify.com/track/4sBk1dJrDrxT2xjRyGJTWU) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 3:20 | 2024-02-23 |  |

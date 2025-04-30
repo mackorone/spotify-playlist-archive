@@ -4,7 +4,7 @@
 
 > New music by Young Miko,  Feid, Cazzu and more! Updates every Friday.
 
-9,448 songs - 20 day 13 hr 54 min
+9,449 songs - 20 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7880,6 +7880,7 @@
 | [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-14 | 2025-03-22 |
 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 | 2022-07-01 | 2022-07-09 |
 | [Solid Ground](https://open.spotify.com/track/65admj6zDhGkbFZq9RzaBH) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Solid Ground](https://open.spotify.com/album/29eJ9yXVSFGLew6JevJF8L) | 3:53 | 2023-09-15 | 2023-09-23 |
+| [Solita](https://open.spotify.com/track/4RTYA2tp3QbnClRVZpjD9r) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Solita](https://open.spotify.com/album/430mqknKf6ZV5Ii6tgo3xe) | 3:12 | 2025-04-29 |  |
 | [Solita](https://open.spotify.com/track/1p1YMOg50Vz08r9Ey0KdTj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Solita](https://open.spotify.com/album/2AqMoUETxSe2twt9AR9y0y) | 2:19 | 2022-10-28 | 2022-11-05 |
 | [Solita](https://open.spotify.com/track/3inpEXkYjxw73iXyJjUphA) | [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [NEXO](https://open.spotify.com/album/7nUgluFhmI3kfwRvObCbMn) | 3:01 | 2024-12-06 | 2024-12-14 |
 | [Solita](https://open.spotify.com/track/5qR6uVPoKeSnc2KEBRzNaw) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Solita](https://open.spotify.com/album/2763GPh6sRpKLmNnCGqsI4) | 3:21 | 2025-01-10 | 2025-01-18 |

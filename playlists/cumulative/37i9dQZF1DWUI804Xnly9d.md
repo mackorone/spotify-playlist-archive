@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-526 songs - 1 day 5 hr 31 min
+527 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 | 2024-06-12 |  |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
-| [Ishq](https://open.spotify.com/track/2Ld2KSnixiY3MGXGiwtqTM) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Ishq](https://open.spotify.com/album/2akAd2nqu0cuDs7w9zQcrO) | 2:37 | 2025-03-28 |  |
+| [Ishq](https://open.spotify.com/track/2Ld2KSnixiY3MGXGiwtqTM) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Ishq](https://open.spotify.com/album/2akAd2nqu0cuDs7w9zQcrO) | 2:37 | 2025-03-28 | 2025-04-30 |
 | [Ishq Ho Jaane Do](https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Ishq Ho Jaane Do](https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w) | 3:11 | 2024-11-12 | 2025-02-18 |
 | [Ishq Ho Jayega \(Unplugged\)](https://open.spotify.com/track/3y1mcRn6VgbrYkChpvQavg) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Ishq Ho Jayega \(Unplugged\)](https://open.spotify.com/album/6KZpgBjy9zrw5y6uIZF7tL) | 3:59 | 2024-09-10 | 2025-04-12 |
 | [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 | 2024-05-21 |
@@ -402,6 +402,7 @@
 | [Sabse Alag](https://open.spotify.com/track/1E9ePQNracuQS2exzXhFE2) | [Ruhfikra](https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY), [Jake Affrunti](https://open.spotify.com/artist/40ND6IHWv2Lm79jvD0envd) | [Sabse Alag](https://open.spotify.com/album/5B8Ej4Lps2p04TwU8nhNFa) | 3:02 | 2024-01-30 | 2024-10-08 |
 | [Sach](https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Sach](https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz) | 3:59 | 2024-01-30 | 2024-04-09 |
 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-06 | 2023-09-28 |
+| [Sache Ishq Ki Kahani](https://open.spotify.com/track/2JkMToDSXSNSP13OouLGP5) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sache Ishq Ki Kahani](https://open.spotify.com/album/1K0UkkDDAhwPZ4BQtt1isv) | 3:26 | 2025-04-29 |  |
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
 | [safar](https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [dastaan](https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22) | 3:16 | 2024-08-22 | 2025-04-17 |
 | [Safar](https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Safar](https://open.spotify.com/album/06yYVu3F7bVRFo6xksZeZX) | 3:19 | 2024-05-24 | 2024-07-16 |

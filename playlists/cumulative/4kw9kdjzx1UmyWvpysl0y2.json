@@ -3621,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Crystal Cave",
+        "url": "https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "Crystal Cave",
+      "url": "https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS"
+    },
+    {
+      "album": {
         "name": "Malva",
         "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Luchè, Guè e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,790 likes - 150 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,800 likes - 150 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [GIRO / 4 REAL](https://open.spotify.com/track/1QVS8kYk063h3rJ0wExkjH) | [Rinny Cooper](https://open.spotify.com/artist/6klUQmiZGh5ET57pA07YJz), [Fem](https://open.spotify.com/artist/0cgIob7qRYIeKx9St6iOKL), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [ULTRATERRENO](https://open.spotify.com/album/0F6qVti7ZZPWDFTbSapJ07) | 1:44 |
 | 32 | [MASTICA](https://open.spotify.com/track/5Tc8vm2xGqJ0dhD8a7dFRk) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [Nicolaj Serjotti](https://open.spotify.com/artist/6esxRpRlB73YqS63CDjss7) | [MASTICA](https://open.spotify.com/album/0z3z2KGzRPZai150eCijeH) | 3:07 |
 | 33 | [Pensieri Intrusivi](https://open.spotify.com/track/17WzJI9XHzK1Ixdbla9GRk) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Offpatt](https://open.spotify.com/artist/6o35EjCaVKanneiIcLMTwK) | [Pensieri Intrusivi](https://open.spotify.com/album/0sMPFqDi0WhAfHvrYXmfsi) | 2:00 |
-| 34 | [Fumata Bianca](https://open.spotify.com/track/0UoP9C5jJ1Bze3D9O8PeKf) | [Mezzo Miliardo](https://open.spotify.com/artist/0lZbzkTC3h5CpS736vUP4f), [Chiediagiorgino](https://open.spotify.com/artist/5iTO3dN50ulmCwiCS6pm0D) | [Fumata Bianca](https://open.spotify.com/album/3fYNQuj4IHEoBDu8XqkRWY) | 2:53 |
+| 34 | [Fumata Bianca](https://open.spotify.com/track/0UoP9C5jJ1Bze3D9O8PeKf) | [Mezzo Miliardo](https://open.spotify.com/artist/0lZbzkTC3h5CpS736vUP4f), [Chiediagiorgino](https://open.spotify.com/artist/5iTO3dN50ulmCwiCS6pm0D), [King Mikz](https://open.spotify.com/artist/312pM8dVGkLYzFOr8Bmzwa) | [Fumata Bianca](https://open.spotify.com/album/3fYNQuj4IHEoBDu8XqkRWY) | 2:53 |
 | 35 | [Ping Pong](https://open.spotify.com/track/29Aasxomq2bsVdCp8vFcy4) | [MISSVIVS](https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1) | [Ping Pong](https://open.spotify.com/album/2iJzux0ZTzLhxSWiBsci7r) | 2:24 |
 | 36 | [FREAKNESS](https://open.spotify.com/track/1sX7w75DUJxmmnO0YwIfRq) | [Kid Glurak](https://open.spotify.com/artist/0BQiRF8tpd4v83lKoVtujX), [Quame](https://open.spotify.com/artist/0frGp17J0vNo3wjm8PShrp), [Leous](https://open.spotify.com/artist/4PadqWEmGthnW9KHrcjFKI) | [FREAKNESS](https://open.spotify.com/album/1UvXAoyCrSEeu9mFbAv8CK) | 2:20 |
 | 37 | [ICONA](https://open.spotify.com/track/4rR8wK4Be8GV1Jf1sX0QE3) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz), [rickkromero](https://open.spotify.com/artist/0bmOF5Tyd8uLi9RRHn3DUX) | [ICONA](https://open.spotify.com/album/0p8ompLUsusVgZtAagYCQX) | 1:34 |

@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-126 songs - 5 hr 43 min
+129 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 | 2024-05-24 |  |
 | [Cosima and the rain](https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Cosima and the rain](https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI) | 2:06 | 2023-03-13 |  |
 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 | 2024-02-05 |  |
-| [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 | 2023-03-13 |  |
+| [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 | 2023-03-13 | 2025-04-30 |
 | [Distant Rain](https://open.spotify.com/track/4EPGDewzvCS2TWK2URXVNE) | [Haley Rainwater](https://open.spotify.com/artist/0Sn2RT3NZROgbQCKGPihxA) | [Melancholie](https://open.spotify.com/album/0G9IpJZcX6h2xhP323FhpV) | 1:33 | 2023-03-13 | 2023-08-03 |
 | [Echoes Of The Forest](https://open.spotify.com/track/55xmZl9vnU0hBA3r3MPdDt) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Echoes Of The Forest](https://open.spotify.com/album/5pfaXhko9DKEet3w3O8h3v) | 2:06 | 2023-03-13 |  |
 | [El Despetar De La Lluvia \(Rain Version\)](https://open.spotify.com/track/7qho93hMk53FqnLGZddjKP) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [El Despetar De La Lluvia](https://open.spotify.com/album/7qSgKvhP8PXU1n5HlVHaVX) | 2:01 | 2023-03-13 |  |
@@ -51,6 +51,7 @@
 | [In the Rain](https://open.spotify.com/track/1zIxKYfnsMnz8tjOwoNITT) | [Dreaming Fairy](https://open.spotify.com/artist/64ao76RhcYuqi5nY1Rr6BK) | [In the Rain](https://open.spotify.com/album/5r5NwnMLQmlCBQdLxML1l3) | 1:18 | 2023-03-13 | 2023-10-20 |
 | [Just When](https://open.spotify.com/track/2aG9L2NgevZU8Be93QrE3K) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Just When](https://open.spotify.com/album/1uMXvwn9cCALxvaCG1S0Jf) | 3:02 | 2023-04-24 |  |
 | [Last Chance](https://open.spotify.com/track/5NtgA0Ooz2UyHDnYwDRUu8) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:14 | 2023-03-13 | 2023-10-20 |
+| [Last time in the rain](https://open.spotify.com/track/0UHxHoVeocXY2bHcHA0PHU) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Last time in the rain](https://open.spotify.com/album/11rQmfIgDLRXZVKWC95a6d) | 3:13 | 2025-04-29 |  |
 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 | 2023-03-13 |  |
 | [May We Meet Again](https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes Of Rain](https://open.spotify.com/album/43iV5w7TUZunozRVL1Tm0d) | 2:03 | 2023-10-19 | 2024-04-19 |
 | [May We Meet Again](https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes of Rain](https://open.spotify.com/album/5MhZf2tjvfGklglbYHiPH3) | 2:03 | 2023-03-13 | 2025-01-30 |
@@ -96,6 +97,7 @@
 | [Seedlings](https://open.spotify.com/track/0z49vRcUNgQFpzRSkfOrKA) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Seedlings](https://open.spotify.com/album/68sG1nEUrWakDNJm4MaVW7) | 2:48 | 2024-05-24 |  |
 | [Shoganai \- Rain version](https://open.spotify.com/track/1GNOoyUXt6Cthxd4JlOLx2) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai \- Rain version](https://open.spotify.com/album/3edIRkiUxDKsY0IxoU2ZQy) | 3:14 | 2023-04-24 |  |
 | [Soft Piano In Light Rain](https://open.spotify.com/track/2t5rleV4AUS329uPShiEQ6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:20 | 2023-03-13 | 2025-03-05 |
+| [Soft Rain On The Pane](https://open.spotify.com/track/1XbbW2IdFethsMfNKPWSWu) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Soft Rain On The Pane](https://open.spotify.com/album/0UUJEjqBJsEN9KgUs7BWDK) | 2:18 | 2025-04-29 |  |
 | [Solitude \(rain\)](https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Tjörnin \(rain\)](https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs) | 3:36 | 2023-09-01 |  |
 | [Soothing Raindrops](https://open.spotify.com/track/6U0aQFWE7BJj3WSxE0Q8oG) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Rain & Piano \- vol.1](https://open.spotify.com/album/7rhRA2bs7V7dpaDqRhIPce) | 3:40 | 2023-03-13 |  |
 | [Sparkling Raindrops](https://open.spotify.com/track/5XGEqEZcTEazxrjUKxdmqe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel The Rain](https://open.spotify.com/album/1xed5PITjxBUJt7JD5aK0b) | 2:07 | 2023-10-19 | 2024-04-19 |
@@ -111,7 +113,7 @@
 | [Teardrops on the doorstep](https://open.spotify.com/track/0AgOsnBAgQ3oS9Fd5AfqwT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Teardrops on the doorstep](https://open.spotify.com/album/6xgL3nF6MXq3x55rOMB4pv) | 3:00 | 2023-03-13 |  |
 | [The Beautiful Rainfall](https://open.spotify.com/track/6lute9PCHTZWrPlU2cLKOh) | [Piano Relaxium](https://open.spotify.com/artist/3xDQskeJYYGMtPkj5eQK1A) | [Peaceful Piano with Rain Sounds](https://open.spotify.com/album/1NzuXDVyh9HFZf7VwWZo5s) | 2:44 | 2023-03-13 |  |
 | [The Blue Dragon](https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [The Blue Dragon](https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz) | 3:39 | 2023-03-13 | 2025-03-05 |
-| [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 | 2023-03-13 |  |
+| [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 | 2023-03-13 | 2025-04-30 |
 | [The Midnight Sun \- Rain version](https://open.spotify.com/track/2OUeSA99Dxa0vl1LYpiDjc) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun \- Rain version](https://open.spotify.com/album/43NiUtG23mp2L2jX6GoYlv) | 2:58 | 2023-04-24 |  |
 | [The Ocean's Depth](https://open.spotify.com/track/3zJdgvKsjtBYl95XuKCIkF) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [The Ocean's Depth](https://open.spotify.com/album/6gDCqM9FGF2facKbvBzJJs) | 2:29 | 2023-03-13 |  |
 | [The Old Grandfather Clock](https://open.spotify.com/track/5fkL4zfJCG8pxccrdR7TI0) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 2:10 | 2023-03-13 |  |
@@ -129,6 +131,7 @@
 | [Twilight \(Rain\)](https://open.spotify.com/track/6A8BVf7yLDPwbGJ1xFuKyw) | [Greg Bevis](https://open.spotify.com/artist/4ngLyEjORduhTNduB1I3Hu), [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Friluftsliv](https://open.spotify.com/album/0AatQyqxu4MbOEJYbfPH6t) | 2:08 | 2024-01-09 |  |
 | [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 | 2024-03-20 |  |
 | [Under The Oak](https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Under The Oak](https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ) | 3:09 | 2023-07-06 |  |
+| [undeviating beauty \(in the Rain\)](https://open.spotify.com/track/1a03QfCnKv6gJWtbmTnhAs) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [unknown answer \(in the Rain\)](https://open.spotify.com/album/5LAok3f6UKeywR1S7MAmSL) | 2:24 | 2025-04-29 |  |
 | [wading birds \(in the Rain\)](https://open.spotify.com/track/5UGBKcAJDhS8v46nmOBJel) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [wading birds \(in the rain\)](https://open.spotify.com/album/7yJRrU8dhZaHkllqiNthTT) | 2:24 | 2025-03-27 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |

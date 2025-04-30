@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: kwn",
-  "num_followers": 59489,
+  "num_followers": 59503,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-04-24 23:00:31",
       "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+    },
+    {
+      "added_at": "2025-04-24 23:00:31",
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -491,26 +511,6 @@
     {
       "added_at": "2025-04-24 23:00:31",
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
-    },
-    {
-      "added_at": "2025-04-24 23:00:31",
-      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -531,22 +531,18 @@
     {
       "added_at": "2025-04-24 23:00:31",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "SINCERITY",
+        "url": "https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+      "duration_ms": 167503,
+      "name": "SINCERITY",
+      "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
     },
     {
       "added_at": "2025-04-24 23:00:31",
@@ -567,6 +563,26 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/6qltYwOOeBPILmT9qYuAYd"
+    },
+    {
+      "added_at": "2025-04-24 23:00:31",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": "2025-04-24 23:00:31",
@@ -599,22 +615,6 @@
       "duration_ms": 188314,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
-    },
-    {
-      "added_at": "2025-04-24 23:00:31",
-      "album": {
-        "name": "SINCERITY",
-        "url": "https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 167503,
-      "name": "SINCERITY",
-      "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
     },
     {
       "added_at": "2025-04-24 23:00:31",
@@ -835,7 +835,7 @@
     {
       "added_at": "2025-04-24 23:00:31",
       "album": {
-        "name": "Act Right",
+        "name": "act right",
         "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
       },
       "artists": [

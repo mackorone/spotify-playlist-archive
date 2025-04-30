@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:0ML3y0iBY1nq7HWAWP0EFm">BLANKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,938 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,940 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 16 | [Kiss Kiss](https://open.spotify.com/track/66wHDmeqZQyyRLFa5WCbm4) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Kiss Kiss](https://open.spotify.com/album/78k6mOAHqLR8NrXixdvamj) | 2:53 |
 | 17 | [jak Matylda](https://open.spotify.com/track/3K3eYDXyiIOknl9gJDmsLS) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przebłyski](https://open.spotify.com/album/4YbULMtFHQWThFAUHsVOVS) | 2:38 |
 | 18 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 |
-| 19 | [Fuckboy \(Chciałabyś więcej\)](https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Casting / Fuckboy \(Chciałabyś więcej\)](https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4) | 2:53 |
+| 19 | [Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Casting / Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4) | 2:53 |
 | 20 | [gigi & bella](https://open.spotify.com/track/1W64DmdOsuJITw7rfuRhBi) | [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [gigi & bella](https://open.spotify.com/album/0pgb0aoUj2NHNFLh3MeVvf) | 2:23 |
 | 21 | [ZNOWU COŚ NIE TAK](https://open.spotify.com/track/0SHXkQ1d9MiNUhHSMpZpcV) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [ZNOWU COŚ NIE TAK](https://open.spotify.com/album/3Ugl9yrb1Ke5mONz4i5724) | 3:10 |
 | 22 | [5 METRÓW](https://open.spotify.com/track/1Yp8KtIMikIKHIwSkj5UR5) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [5 METRÓW](https://open.spotify.com/album/66oyFJFqgEuCCOMUeANv44) | 3:10 |

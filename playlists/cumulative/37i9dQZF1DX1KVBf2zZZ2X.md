@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-217 songs - 10 hr 6 min
+218 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 | 2025-03-03 |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Evening](https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Evening](https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3) | 2:10 | 2024-11-22 | 2025-04-02 |
-| [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 |  |
+| [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 | 2025-04-30 |
 | [Final Step](https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Final Step](https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r) | 2:36 | 2024-08-23 |  |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 |  |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-21 |  |
@@ -160,6 +160,7 @@
 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 | 2024-11-22 |  |
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 | 2025-03-20 |
 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 | 2023-03-03 | 2024-11-23 |
+| [Red Maple](https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Maple](https://open.spotify.com/album/7oVTzjVQLFF3pPe6F96pDI) | 2:39 | 2025-03-19 |  |
 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 | 2025-02-21 |  |
 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 | 2023-03-03 | 2024-11-23 |
 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 | 2023-11-18 | 2024-03-02 |

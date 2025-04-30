@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 182407,
+  "num_followers": 182433,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Vanishing Shores",
-        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Vanishing Shores",
+        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
+      },
+      "artists": [
+        {
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Last Dance b/w 3000 AD Mass",
-        "url": "https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Access",
         "url": "https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 177326,
       "name": "Attention",
       "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Last Dance b/w 3000 AD Mass",
+        "url": "https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "LONER",
         "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Liz Cooper & the Stampede | Audiotree Far Out",
         "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
       },
@@ -867,18 +867,34 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8"
       },
       "artists": [
         {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
         }
       ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -975,22 +991,6 @@
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/7hL5azg6n7pSKu5sumueBL"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ"
     }
   ],
   "unique_name": "Psych & Groove",

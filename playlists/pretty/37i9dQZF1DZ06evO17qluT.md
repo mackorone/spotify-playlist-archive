@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,097 likes - 46 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,268 likes - 46 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 45 | [exalta](https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:42 |
 | 46 | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy) | 3:54 |
 
-Snapshot ID: `aA1zgAAAAAA2J/FZS3deIUfAHzIDdYqw`
+Snapshot ID: `aA1zgAAAAABH89k24ETk1idaYXVAvPR8`

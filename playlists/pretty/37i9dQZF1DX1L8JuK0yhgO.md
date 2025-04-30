@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,593 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,602 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 54 | [Klan](https://open.spotify.com/track/601zFAnXmbCRE3w5qA56IZ) | [Caexar](https://open.spotify.com/artist/0HeALrv4wVGAQ6HrwWSsVC), [Son Rob](https://open.spotify.com/artist/25MdZkOsHPiWaMvqo2FTxn), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [Klan](https://open.spotify.com/album/2ZLoMnAvTF8St1sX1d1Dex) | 3:14 |
 | 55 | [Vapors \(feat\. SOMAJI\)](https://open.spotify.com/track/2SIkw5R7x48gN04rSPiBw3) | [STANCE](https://open.spotify.com/artist/6gld77hBwfdZ11FU16rH9D), [SOMAJI](https://open.spotify.com/artist/2Mf6iRRpO4lnieXb8Kkr6M) | [Vapors \(feat\. SOMAJI\)](https://open.spotify.com/album/4ub8KkiESY1Q1aS5nsDWra) | 3:08 |
 | 56 | [You Know What I Mean?](https://open.spotify.com/track/0ACLkniVvViqBs9kbKI1yl) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [You Know What I Mean?](https://open.spotify.com/album/0iYUxysXpcDZ4pZEljCjN1) | 3:17 |
-| 57 | [追憶](https://open.spotify.com/track/0lNCOFZzpZ7CULVk9BMvRl) | [Primal](https://open.spotify.com/artist/3lfD5O1IsNH7zr2nIwvr9S), [SAW](https://open.spotify.com/artist/0lXCkrLQe7PVngc1XUg9iu), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H), [KAN a.k.a\. GAMI](https://open.spotify.com/artist/47XrkMqishxh2RQSBWOEWq) | [Nostalgie](https://open.spotify.com/album/7rF8R914HuyT5VDyFEve1U) | 5:40 |
+| 57 | [追憶](https://open.spotify.com/track/0lNCOFZzpZ7CULVk9BMvRl) | [PRIMAL](https://open.spotify.com/artist/3lfD5O1IsNH7zr2nIwvr9S), [SAW](https://open.spotify.com/artist/0lXCkrLQe7PVngc1XUg9iu), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H), [KAN a.k.a\. GAMI](https://open.spotify.com/artist/47XrkMqishxh2RQSBWOEWq) | [Nostalgie](https://open.spotify.com/album/7rF8R914HuyT5VDyFEve1U) | 5:40 |
 | 58 | [so far , so bad](https://open.spotify.com/track/0uv3zbAddZl2JiydYO7M5I) | [Mitch](https://open.spotify.com/artist/2LJ5X3CcKA2ErgnxbNgNUM), [OHSE](https://open.spotify.com/artist/6Ma3yEVpL6lQUFa0TzvLFo) | [PLATONIC2](https://open.spotify.com/album/3wg8bEi9RKNdzqwOyPiMFB) | 2:46 |
 | 59 | [NIGHTMARE](https://open.spotify.com/track/3owJdw5iAkBqqox1i9mRy4) | [SEDY NEZZ](https://open.spotify.com/artist/7m87C6qzFhAbXc6rbGR2Fx) | [NIGHTMARE](https://open.spotify.com/album/7bF2icN1MS8MWxBsW1feek) | 3:21 |
 | 60 | [Footprints](https://open.spotify.com/track/0phAKXa5y3ZIE4Wb7NR0wg) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Baggy Weather](https://open.spotify.com/album/17HRPsJZBYroplPKv1ntbg) | 3:54 |

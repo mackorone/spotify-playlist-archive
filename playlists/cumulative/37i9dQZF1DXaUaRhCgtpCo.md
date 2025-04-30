@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-157 songs - 8 hr 33 min
+159 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Andor \(Main Title Theme\) \- Episode 6](https://open.spotify.com/track/436gHcmjvyp6GkwfWcJc9Z) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:50 | 2022-11-05 |  |
 | [Andor \(Main Title Theme\) \- Episode 7](https://open.spotify.com/track/4pFFwznYDDnaNSdsRTN2pn) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:58 | 2022-11-05 |  |
 | [Andor \(Main Title Theme\) \- Episode 8](https://open.spotify.com/track/6LRpn5LdxiVy9tNXraTamS) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:50 | 2022-11-05 |  |
+| [Andor Onward \- From "Andor \(Season 2\)"](https://open.spotify.com/track/7aIP6Te7f0tUYIXNfUbgkO) | [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Andor Onward \[From "Andor \(Season 2\)"\]](https://open.spotify.com/album/2dz26zxXrMln5hsSwqPCIT) | 2:12 | 2025-04-29 |  |
 | [Anthem of Imperial \(Am's Theme\)](https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [Star Wars: Visions \- THE TWINS \(Original Soundtrack\)](https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2) | 2:00 | 2021-10-14 |  |
 | [Bad Batch Heroics](https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg) | 2:09 | 2021-05-14 |  |
 | [Bad Batch Theme \- From "Star Wars: The Clone Wars \- The Final Season"](https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Bad Batch Theme \(From "Star Wars: The Clone Wars \- The Final Season"\)](https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i) | 2:00 | 2021-05-14 |  |
@@ -46,6 +47,7 @@
 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 | 2021-05-14 |  |
 | [Cantina Song aka Mad About Mad About Me](https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout) | [R3X](https://open.spotify.com/artist/3VIzopkfBcSr8aZWElLH4P), [Figrin D'an and the Modal Nodes](https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq) | [Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist \#1](https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj) | 2:54 | 2022-06-28 |  |
 | [Canto Bight](https://open.spotify.com/track/52hMydaS1ld25uY0wI1sHW) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:37 | 2021-05-14 |  |
+| [Canyon Run](https://open.spotify.com/track/14Vl2ooRZ6BcccGnCLKzyt) | [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Andor: Season 2 \- Vol\. 1 \(Episodes 1\-3\) \[Original Score\]](https://open.spotify.com/album/1XlWQ3Nt6x7XlJis8t3EyW) | 2:15 | 2025-04-29 |  |
 | [Crabs Attack](https://open.spotify.com/track/0ZamBBcUzHNMISCI3GJzYv) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 1 \(Episodes 1\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M) | 3:09 | 2023-02-21 |  |
 | [Departure of Boba Fett](https://open.spotify.com/track/3SJalt7jrTvWnaps4CZp8h) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:06 | 2024-05-03 |  |
 | [Dice & Roll](https://open.spotify.com/track/1k9RJ8bFFyT41s3FvUGSFP) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 1:54 | 2021-05-14 |  |

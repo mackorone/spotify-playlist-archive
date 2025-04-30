@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Wild Wind, Laureline, LAVE and more
+> With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I've Been Missing You](https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH) | [Pippa](https://open.spotify.com/artist/0fBP0z2QOJpvlS5u0gWFiX), [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [I've Been Missing You](https://open.spotify.com/album/5KG3c2dTRaLtUwnxf1Kdiz) | 3:30 |
 | 50 | [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 |
 
-Snapshot ID: `aBAyNwAAAAALpZXTSXmWlVPIDI2k8JtS`
+Snapshot ID: `aBFyzAAAAADfKT4Ib2p2NmEIsXAA04YK`

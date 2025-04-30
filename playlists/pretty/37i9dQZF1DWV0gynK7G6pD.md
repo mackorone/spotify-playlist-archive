@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Esther Abrami
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,011 likes - 76 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,038 likes - 76 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

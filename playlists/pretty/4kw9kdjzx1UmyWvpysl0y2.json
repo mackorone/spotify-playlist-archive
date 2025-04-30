@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUBKx5bO55mgpRhT2nkedYJfI4iIjg",
+  "snapshot_id": "AAAUBXdQidI4reY363jL2RuiVy0qydvC",
   "tracks": [
+    {
+      "added_at": "2025-04-29 13:57:38",
+      "album": {
+        "name": "Crystal Cave",
+        "url": "https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Crystal Cave",
+      "url": "https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS"
+    },
     {
       "added_at": "2025-04-28 15:45:26",
       "album": {

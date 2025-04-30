@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,989 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,005 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 15 | [Verona Walls](https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 6:48 |
 | 16 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 17 | [Chopstick!](https://open.spotify.com/track/0xNoo5JDET2lxOqGNApa1N) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Chopstick!](https://open.spotify.com/album/3fMSFJgA8A76UvZ1pVZ0w5) | 6:11 |
-| 18 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
+| 18 | [Carbonated](https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:18 |
 | 19 | [You took me in](https://open.spotify.com/track/4fDkXhzgQlyxw3ZmHivc3F) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 6:10 |
 | 20 | [The biggest cry of my life](https://open.spotify.com/track/1JY9zO2xbhnQATyYHcOnyx) | [Pleading Fern](https://open.spotify.com/artist/504vn9PZIVuHiwCAmP5cMY) | [ENFASIA](https://open.spotify.com/album/53qTBNSzhralqI8Q25HtKJ) | 4:12 |
-| 21 | [Carbonated](https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:18 |
+| 21 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
 | 22 | [Xai](https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Xai](https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj) | 3:28 |
 | 23 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 |
 | 24 | [Duo Pulse](https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Duo Pulse](https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3) | 4:16 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 55 | [Everything](https://open.spotify.com/track/2VuTl07AKztRIzYuA5iJVj) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Everything](https://open.spotify.com/album/1mf6phipthmQ7n0e3eur7J) | 2:49 |
 | 56 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 |
 | 57 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
-| 58 | [Between here and Home](https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 5:38 |
-| 59 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
-| 60 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 |
-| 61 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 58 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
+| 59 | [Between here and Home](https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 5:38 |
+| 60 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 61 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 |
 | 62 | [Echoes](https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Echoes](https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN) | 5:31 |
 | 63 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 |
 | 64 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 74 | [Riot on the Hush \- K\-LONE Remix](https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Hailu Remixes](https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ) | 5:34 |
 | 75 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
 | 76 | [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 |
-| 77 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 |
+| 77 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
 | 78 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
-| 79 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
+| 79 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 |
 | 80 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
 | 81 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 |
 | 82 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 93 | [Insight](https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Insight](https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5) | 4:53 |
 | 94 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 |
 | 95 | [Piano Improvisation No\. 19](https://open.spotify.com/track/5yJicLB0k8YwdluDf9y0HN) | [Ángel Sánchez Bórges](https://open.spotify.com/artist/634XXXVQvyWqM5K0IwREcq), [Antiguo Automata Mexicano](https://open.spotify.com/artist/1DrRtaVEJaulXd9SelnyTh) | [20+ Piano Improvisations](https://open.spotify.com/album/039yd6s7qWnqox4tSf6NNB) | 2:30 |
-| 96 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 97 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 |
-| 98 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 |
-| 99 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 |
+| 96 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 |
+| 97 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
+| 98 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 |
+| 99 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 |
 | 100 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
 
 Snapshot ID: `aAvu5gAAAACMBfDez7DhOxjsHNO5Z7eW`

@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Maria Becerra.
 
-224 songs - 12 hr 19 min
+225 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-31 | 2023-12-16 |
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-17 |  |
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2022-01-14 | 2022-04-16 |
-| [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2022-10-28 |  |
+| [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2022-10-28 | 2025-04-30 |
 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 | 2022-01-14 | 2022-10-08 |
 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 | 2022-10-07 |  |
 | [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 | 2022-10-28 |  |
@@ -168,6 +168,7 @@
 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/5qELKdEhxaAjYKROyf52C8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:20 | 2022-07-22 | 2022-10-15 |
 | [Primera Carta](https://open.spotify.com/track/3VdyHA9vN9CiL9OPizGd0H) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Primera Carta](https://open.spotify.com/album/5Fl3uNVlwnFmHrvkiBMRWL) | 4:18 | 2022-01-14 | 2022-04-02 |
 | [providencia111](https://open.spotify.com/track/699DNqDW75pAtQuvbXSOEb) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:55 | 2022-01-14 | 2022-04-16 |
+| [Que hice mal](https://open.spotify.com/track/3EHhMEXVQ488kwcarMSM0h) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [Que hice mal](https://open.spotify.com/album/6jYEnahntCeKNuKHD1r9am) | 2:58 | 2025-04-29 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-03-31 | 2024-02-17 |
 | [Quererte como lo haces tú](https://open.spotify.com/track/7rLdVy8Me6Filk94vWWnyp) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Quererte como lo haces tú](https://open.spotify.com/album/0nqpR0vcsq10vmS13IHW0F) | 3:35 | 2023-06-23 | 2024-05-18 |
 | [Qué Pena](https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Pena](https://open.spotify.com/album/5cyrC29CWasWVxGmSENhnj) | 3:46 | 2022-01-14 | 2022-08-03 |

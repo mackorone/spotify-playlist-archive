@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,969 likes - 50 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,970 likes - 50 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [Jesus Reigns \- Live](https://open.spotify.com/track/6W32Quvo1qpHDFooIoeFEE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:13 |
 | 50 | [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 |
 
-Snapshot ID: `aA1zgAAAAAB3kpMmaGVHFKadDBiWlAvK`
+Snapshot ID: `aA1zgAAAAADIqg/+Lp01kH2Dr0INOrCa`

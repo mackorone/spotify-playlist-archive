@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Blond",
+        "url": "https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172088,
+      "name": "Blond",
+      "url": "https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC"
+    },
+    {
+      "album": {
         "name": "Bloomington",
         "url": "https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D"
       },
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 179624,
       "name": "Moments of Clarity",
       "url": "https://open.spotify.com/track/3rwxUxeudZfmAJ80o2tk5C"
@@ -7466,6 +7484,24 @@
       "duration_ms": 137242,
       "name": "Wishing You a Safe Journey",
       "url": "https://open.spotify.com/track/0dlktcquQYp5OBm1voX3bu"
+    },
+    {
+      "album": {
+        "name": "With Flowers In Hand",
+        "url": "https://open.spotify.com/album/4fSOoK6cKokRLePDXbj5ja"
+      },
+      "artists": [
+        {
+          "name": "David Isner",
+          "url": "https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "With Flowers In Hand",
+      "url": "https://open.spotify.com/track/3F9UIwHp1qWZo9en9lCfl6"
     },
     {
       "album": {

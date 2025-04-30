@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356920,
+  "num_followers": 356902,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Sun Goes Up",
-        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
-      },
-      "artists": [
-        {
-          "name": "C3DRIC",
-          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
-        },
-        {
-          "name": "Eliine",
-          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Sun Goes Up",
-      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Sun Goes Up",
+        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
+      },
+      "artists": [
+        {
+          "name": "C3DRIC",
+          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
+        },
+        {
+          "name": "Eliine",
+          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Sun Goes Up",
+      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "STUDENTEN (Hardstyle)",
-        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Skurk3n",
-          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "STUDENTEN (Hardstyle)",
-      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "FULLT \u00d6S ARBETSL\u00d6S",
         "url": "https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 150384,
       "name": "FULLT \u00d6S ARBETSL\u00d6S",
       "url": "https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "STUDENTEN (Hardstyle)",
+        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Skurk3n",
+          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "STUDENTEN (Hardstyle)",
+      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Mwaki (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 177230,
       "name": "Mwaki - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",

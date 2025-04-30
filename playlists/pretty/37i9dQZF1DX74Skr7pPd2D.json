@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46241,
+  "num_followers": 46243,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Ruint",
-      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 402533,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Ruint",
+      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1197,6 +1197,26 @@
       "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
+        "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        {
+          "name": "Buddy DeFranco",
+          "url": "https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Side By Side",
@@ -1227,26 +1247,6 @@
       "duration_ms": 397160,
       "name": "Conversation With A Baby",
       "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
-        "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        },
-        {
-          "name": "Buddy DeFranco",
-          "url": "https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
       "added_at": "2019-10-02 08:54:10",

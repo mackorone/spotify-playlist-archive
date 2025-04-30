@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "In Every Moment",
+        "url": "https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171058,
+      "name": "In Every Moment",
+      "url": "https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q"
+    },
+    {
+      "album": {
         "name": "In Excelsis",
         "url": "https://open.spotify.com/album/1jGCxX2Tl1uplfAs54GnxJ"
       },
@@ -10438,7 +10456,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 155909,
       "name": "San Andr\u00e9s",
       "url": "https://open.spotify.com/track/0FxmuMmhGvyYmcRALNM816"

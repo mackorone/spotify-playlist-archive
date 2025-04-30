@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,895 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,966 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 42 | [Fano](https://open.spotify.com/track/5BfWxKQ5EWxFcxfwwYvb7V) | [Kassa Tessema](https://open.spotify.com/artist/0ps1DdcjpQi13usAqP8wnb) | [Fano \(Ethiopian Contemporary Oldies Music](https://open.spotify.com/album/3rqGBKNqNQa1gdopRePQE3) | 5:28 |
 | 43 | [Tutu Jara](https://open.spotify.com/track/2chWRRkUFWSowfNmWyjtaV) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:35 |
 | 44 | [Yekatit](https://open.spotify.com/track/3Wy9iddWQ7InfOHISln7JQ) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethio Jazz Vol\. 1](https://open.spotify.com/album/06bLVjadObuULEyo6NaZ4z) | 3:59 |
-| 45 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 |
+| 45 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7), [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 |
 | 46 | [Kiriké](https://open.spotify.com/track/4unrkCU4r4c65yFsENbEEv) | [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC) | [Kiriké](https://open.spotify.com/album/1dTfhMFEmU143D9ayS65Qc) | 5:37 |
 | 47 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
 | 48 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/17JrE5cw1UXZbRylwys1Tb) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |

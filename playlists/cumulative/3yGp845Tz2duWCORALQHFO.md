@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,706 songs - 6 day 2 hr 35 min
+2,707 songs - 6 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1957,6 +1957,7 @@
 | [Resilience](https://open.spotify.com/track/2CJ6AHAmhA3PAHk11y46bG) | [Giovi](https://open.spotify.com/artist/3D2KnEWgwG5Iu8fTgdiflr) | [Resilience](https://open.spotify.com/album/2f1nfvXpJ0BBccAq0o5dBW) | 2:58 | 2024-07-12 | 2024-07-27 |
 | [Resist](https://open.spotify.com/track/6zOQx3eE6KBeMIIzU5MY7c) | [Anton Fokin](https://open.spotify.com/artist/1R6vJR7oJ6P1JEWPTlFaJ4) | [Resist](https://open.spotify.com/album/7tVMkMP2ikD6uriFUHayd1) | 3:25 | 2024-09-13 | 2024-09-21 |
 | [Resonance \- Protoculture Remix](https://open.spotify.com/track/7llqewLsbKqFX96fypENsb) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [LK](https://open.spotify.com/artist/2elbMDQdGCUjl9TXuJxYDY), [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Resonance](https://open.spotify.com/album/5AMiSfue86HRwDMrlYSwra) | 4:07 | 2025-01-10 | 2025-01-18 |
+| [Resonant Pulse](https://open.spotify.com/track/64AVZNtzvKPSlOfMZSKDld) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Resonant Pulse](https://open.spotify.com/album/54v2thLsOMX4ifgXNTeSpC) | 3:24 | 2025-04-29 |  |
 | [Resonate](https://open.spotify.com/track/0XZPYLfxGI673tBTFNTpRb) | [Ferry Tayle](https://open.spotify.com/artist/6duWCqMhaEvKA0P0MVs0zQ), [Tonks](https://open.spotify.com/artist/29uLSGwUNqBFGS02mLVDJL), [Mirage](https://open.spotify.com/artist/5uOKNdDGSzc6aGyRPKq0pf) | [Resonate](https://open.spotify.com/album/6fmw2VRSrZDgUf16ghCJak) | 3:50 | 2024-07-05 | 2024-07-12 |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-20 | 2024-06-29 |
 | [Resonate \- Asteroid Remix](https://open.spotify.com/track/0DWorK1HzVtsmefWQZSrVL) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Resonate \(Asteroid Remix\)](https://open.spotify.com/album/1Kf7oaH8Ztx0D5UDn2n6su) | 3:41 | 2024-12-05 | 2024-12-14 |

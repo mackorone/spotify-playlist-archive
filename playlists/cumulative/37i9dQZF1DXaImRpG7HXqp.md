@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-826 songs - 1 day 11 hr 53 min
+827 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Imja Tse](https://open.spotify.com/track/0ihTAiX3o5zttzHd7m8FFg) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Imja Tse](https://open.spotify.com/album/7exwPo0tOR6HV3DNsCHiaT) | 2:56 | 2021-12-08 | 2024-04-19 |
 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-06-02 | 2023-08-19 |
+| [In Every Moment](https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [In Every Moment](https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7) | 2:51 | 2025-04-29 |  |
 | [In Excelsis](https://open.spotify.com/track/6ESOOsMZvqXcyx3qwxjGyM) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [In Excelsis](https://open.spotify.com/album/1jGCxX2Tl1uplfAs54GnxJ) | 2:51 | 2024-06-28 |  |
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-04-19 |
 | [In Love Again](https://open.spotify.com/track/3fPLzICJgsoHFWL17jCWb7) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Isla de Pascua](https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM) | 2:57 | 2022-01-19 | 2024-04-19 |
@@ -585,7 +586,7 @@
 | [Roses](https://open.spotify.com/track/29rFbzOew6wFUm29ZEtXIl) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 3:51 | 2021-12-08 | 2022-07-01 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2022-08-19 | 2023-03-25 |
 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 | 2024-09-03 |  |
-| [San Andrés](https://open.spotify.com/track/0FxmuMmhGvyYmcRALNM816) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [San Andrés](https://open.spotify.com/album/4HCYIn19wcHOBuy1wvnpm5) | 2:35 | 2024-11-06 |  |
+| [San Andrés](https://open.spotify.com/track/0FxmuMmhGvyYmcRALNM816) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [San Andrés](https://open.spotify.com/album/4HCYIn19wcHOBuy1wvnpm5) | 2:35 | 2024-11-06 | 2025-04-30 |
 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 | 2024-05-04 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 | 2024-04-19 |
 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 | 2024-07-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 |
 | 50 | [Paso Firme \- En Vivo](https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [DUETOS "Made In Usa" \(En Vivo\)](https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t) | 3:36 |
 
-Snapshot ID: `aA1zgAAAAAAhTyHnJ0FGnGnoIHUwvXB6`
+Snapshot ID: `aA1zgAAAAADXA8fNgGiArLa+HSEh58LB`

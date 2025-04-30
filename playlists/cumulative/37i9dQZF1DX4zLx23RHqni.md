@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-87 songs - 5 hr 36 min
+88 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,10 +82,11 @@
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2022-03-30 |  |
 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 |  |
 | [Thalakeezhai](https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Thalakeezhai](https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG) | 2:40 | 2024-07-05 | 2024-10-23 |
+| [Thanga Thaali](https://open.spotify.com/track/4YFHFYKRR2IO4Oh5fKwmhF) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Magisha](https://open.spotify.com/artist/6x9x7olMHIDgJyq80uhuFM) | [Thanga Thaali](https://open.spotify.com/album/5p2lgtSroYqC2NQaVGHBwb) | 3:20 | 2025-04-29 |  |
 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 | 2025-03-21 |  |
 | [Thean Kudika](https://open.spotify.com/track/3mFCOJxMugGr2q7KyNG0Zj) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa) | [Maze in Idhayam](https://open.spotify.com/album/4zBa7qnn1jBEfpY7bm6uNT) | 4:14 | 2022-03-30 |  |
 | [Thottu Vidum Thooram](https://open.spotify.com/track/50JJ12Cb2eJmKBJjlfGWze) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Aishwarya Yogarajh](https://open.spotify.com/artist/3TZfjkHHgQWsXYT5o9PYdZ) | [Thottu Vidum Thooram](https://open.spotify.com/album/4qdpasJoDy0nrh0oSYBbah) | 3:41 | 2021-12-01 |  |
-| [Thozhiye](https://open.spotify.com/track/62bLf68AYS2d83Ky4uxFKT) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Thozhiye](https://open.spotify.com/album/3MDUpfAI6jQQXiDOnA7tKJ) | 3:40 | 2024-10-22 |  |
+| [Thozhiye](https://open.spotify.com/track/62bLf68AYS2d83Ky4uxFKT) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Thozhiye](https://open.spotify.com/album/3MDUpfAI6jQQXiDOnA7tKJ) | 3:40 | 2024-10-22 | 2025-04-30 |
 | [Un Pol Yarum Illai](https://open.spotify.com/track/14WIdRI4LOTmXvwkJmlpEG) | [Kirthana\. G](https://open.spotify.com/artist/700wvqydW0qKAWtw9uvEjw) | [Un Pol Yarum Illai](https://open.spotify.com/album/5o13tdH9TGWGat8QM41ufi) | 3:47 | 2021-12-01 | 2023-08-19 |
 | [Un Pol Yarum Illai](https://open.spotify.com/track/2w0k3xCrn5KG6yAKUnthXQ) | [Kirthana\. G](https://open.spotify.com/artist/700wvqydW0qKAWtw9uvEjw) | [Un Pol Yarum Illai](https://open.spotify.com/album/35swdN9CaRuA1qcTBcnL4V) | 3:47 | 2021-12-01 | 2023-09-30 |
 | [Unna Vida Maaten](https://open.spotify.com/track/4mral66Pqt9jQAgw1w12cX) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Unna Vida Maaten \- Single](https://open.spotify.com/album/3ew5mr1oxH3whpmQf90JeO) | 3:07 | 2021-12-01 |  |

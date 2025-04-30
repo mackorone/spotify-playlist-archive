@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 643022,
+  "num_followers": 644058,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "Closer To The Floor",
+        "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Closer To The Floor",
+      "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 162748,
       "name": "On My Mind - Enzo is Burning Remix",
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
-        "name": "Closer To The Floor",
-        "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Ankho\u00ef",
-          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Closer To The Floor",
-      "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 113385,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179887,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 113385,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -1587,6 +1587,30 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
+        "name": "Baiana",
+        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 116250,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
         "name": "Wile Out (feat. Surya Sen)",
         "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
       },
@@ -1667,30 +1691,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Baiana",
-        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Ready To Go (My Addiction)",
         "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "To The Club",
         "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 180923,
       "name": "High",
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2025-04-24 23:00:30",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-04-24 23:00:30",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
-      },
-      "artists": [
-        {
-          "name": "Edd",
-          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
-    },
-    {
-      "added_at": "2025-04-24 23:00:30",
-      "album": {
         "name": "Sweatbox",
         "url": "https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 166058,
       "name": "Sweatbox",
       "url": "https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3"
+    },
+    {
+      "added_at": "2025-04-24 23:00:30",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
+      },
+      "artists": [
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
     },
     {
       "added_at": "2025-04-24 23:00:30",

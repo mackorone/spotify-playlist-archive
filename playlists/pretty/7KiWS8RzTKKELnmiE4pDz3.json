@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAeMDyNgYd6jD7Oppf8SSB7AivWPGvD",
+  "snapshot_id": "AAAeM6y4lniifZSmRUdYkamJJjVBWQR+",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -4903,6 +4903,62 @@
       "duration_ms": 236480,
       "name": "Signs",
       "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
+    },
+    {
+      "added_at": "2025-04-29 11:33:32",
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 287386,
+      "name": "WeFight/WeLove",
+      "url": "https://open.spotify.com/track/3SNNkt4dsdqkWpJwxdGNs6"
+    },
+    {
+      "added_at": "2025-04-29 11:46:31",
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG"
+    },
+    {
+      "added_at": "2025-04-29 11:48:13",
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/737vdNsatvMD6td0pvDKV4"
     }
   ],
   "unique_name": "main ",

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-1,327 songs - 3 day 6 hr 6 min
+1,328 songs - 3 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,7 @@
 | [Out of the Race](https://open.spotify.com/track/2SY1oH2Q6edfYgZQLiTmdn) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML) | [Out of the Race](https://open.spotify.com/album/1ssGCVagwRCAsIejdZb0eL) | 1:49 | 2021-11-30 | 2022-01-05 |
 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 | 2022-05-31 | 2022-07-06 |
 | [PaBodance](https://open.spotify.com/track/2eRVlfWFfFGpP5cD5B8QBG) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [PaBodance](https://open.spotify.com/album/2f51s4uASsODPGA8AfUXJ8) | 2:54 | 2021-11-30 | 2022-01-05 |
-| [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 | 2025-01-30 |  |
+| [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 | 2025-01-30 | 2025-04-30 |
 | [Pakara!](https://open.spotify.com/track/1BV15jLRBn2yVl3BD4cmI6) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [PLAYBACK SUMMER ver.1.3](https://open.spotify.com/album/0WKDX7uZoAcd6K1Q7mAmpx) | 3:17 | 2022-09-06 | 2022-10-05 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-07-05 | 2022-08-03 |
 | [PARADISE](https://open.spotify.com/track/6JM7bl5UCaKeVujyjcdOBy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [PARADISE](https://open.spotify.com/album/0X51jKoJxe1oh1HxVcboHR) | 3:05 | 2025-03-04 | 2025-04-23 |
@@ -937,6 +937,7 @@
 | [Wonderland](https://open.spotify.com/track/2zg9IwpXld288j44TgvKMm) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [未成年](https://open.spotify.com/album/2YtPwt5wECdF2v0wuBJzSM) | 3:26 | 2024-02-06 | 2024-03-06 |
 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 | 2023-11-07 | 2023-11-30 |
 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 | 2022-10-04 | 2023-01-04 |
+| [WORK HARD](https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORK HARD](https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ) | 2:53 | 2025-04-29 |  |
 | [WORLD DANCE](https://open.spotify.com/track/165pjCVXQTcjL6lQKXPBje) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 3:41 | 2023-09-05 | 2023-10-04 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-07-04 | 2023-09-06 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-06-06 | 2023-07-05 |

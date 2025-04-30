@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Dan Dizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,937 likes - 69 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,997 likes - 69 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 51 | [Coi Leray \(Feat\. Jeriq\)](https://open.spotify.com/track/22NYziqwaRESvIdBnRHPZu) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:28 |
 | 52 | [Idan Buruku \(Freestyle\)](https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Idan Buruku \(Freestyle\)](https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8) | 1:31 |
 | 53 | [Hustle](https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Niggas From The South](https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe) | 2:00 |
-| 54 | [Sativa \- Remix](https://open.spotify.com/track/2xcjxoTzb863uNnudktuOX) | [Hydee flex](https://open.spotify.com/artist/1CnppHVp0ryZrj3jyuaV3K), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Sativa \(Remix\)](https://open.spotify.com/album/4kY6afyKTG8Gm6wD2pTXPb) | 2:55 |
-| 55 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 54 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 55 | [Sativa \- Remix](https://open.spotify.com/track/2xcjxoTzb863uNnudktuOX) | [Hydee flex](https://open.spotify.com/artist/1CnppHVp0ryZrj3jyuaV3K), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Sativa \(Remix\)](https://open.spotify.com/album/4kY6afyKTG8Gm6wD2pTXPb) | 2:55 |
 | 56 | [Taya](https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Taya](https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0) | 2:02 |
 | 57 | [OMOBANKE](https://open.spotify.com/track/1eAgCRZdZwmfv6GNhJvB8p) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [OMOBANKE](https://open.spotify.com/album/7dU4V0V0pKO5AYaoNivnhT) | 2:19 |
 | 58 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |

@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/0DgyRVddvD2CJZj1k9j8vC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137651,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED"
+    },
+    {
+      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 231247,
       "name": "Rock es rock!",
       "url": "https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph"

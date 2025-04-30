@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Us",
+        "url": "https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159516,
+      "name": "Echoes of Us",
+      "url": "https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/0YMcisX2oCm0YRXIeBu4Ux"
       },
@@ -7890,7 +7908,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 162124,
       "name": "Skopje",
       "url": "https://open.spotify.com/track/0cEpSarBhZNqu46vwjPPXK"
@@ -8308,6 +8326,24 @@
       "duration_ms": 182758,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI"
+    },
+    {
+      "album": {
+        "name": "Sun Beam",
+        "url": "https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ"
+      },
+      "artists": [
+        {
+          "name": "Benjamins Friend",
+          "url": "https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Sun Beam",
+      "url": "https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ananda, Elana Dara",
-  "num_followers": 371734,
+  "num_followers": 371727,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
         "name": "Deixa Molhar",
         "url": "https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at"
       },
@@ -587,6 +603,26 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -607,26 +643,6 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -655,22 +671,6 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "BiKE (blv)",
-        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "BiKE (blv)",
-      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "BiKE (blv)",
+        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "BiKE (blv)",
+      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "T \u00d3 X I C O",
         "url": "https://open.spotify.com/album/5ZDRU1H00G4Qjqzl05p1cg"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 132351,
       "name": "T \u00d3 X I C O",
       "url": "https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "Estranho Conhecido",
-        "url": "https://open.spotify.com/album/7pTZvbDQgDRKN8zVWEjYRz"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 147016,
-      "name": "Mar\u00e7o ou Abril",
-      "url": "https://open.spotify.com/track/5KGWgccLIXaS4p3z1wRGsi"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201559,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "Estranho Conhecido",
+        "url": "https://open.spotify.com/album/7pTZvbDQgDRKN8zVWEjYRz"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 147016,
+      "name": "Mar\u00e7o ou Abril",
+      "url": "https://open.spotify.com/track/5KGWgccLIXaS4p3z1wRGsi"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -991,6 +991,22 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "FERA",
+        "url": "https://open.spotify.com/album/3sWYC2wZlaMSCUBuHj560e"
+      },
+      "artists": [
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "FERA",
+      "url": "https://open.spotify.com/track/6H4fYjImHCsfivHS19b3vn"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -1031,26 +1047,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "Raro Veneno",
-        "url": "https://open.spotify.com/album/18Nne0ZS8Jbml04xfPMOOY"
-      },
-      "artists": [
-        {
-          "name": "Paradise Guerrilla",
-          "url": "https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo"
-        },
-        {
-          "name": "Mvzza",
-          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Raro Veneno",
-      "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "Esse \u00c9 Meu Mundo",
         "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
       },
@@ -1067,6 +1063,26 @@
       "duration_ms": 201792,
       "name": "\u00c1gua de Coco",
       "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "Raro Veneno",
+        "url": "https://open.spotify.com/album/18Nne0ZS8Jbml04xfPMOOY"
+      },
+      "artists": [
+        {
+          "name": "Paradise Guerrilla",
+          "url": "https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo"
+        },
+        {
+          "name": "Mvzza",
+          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Raro Veneno",
+      "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147015,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "Eu te odeio",
         "url": "https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 151538,
       "name": "Eu te odeio",
       "url": "https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147015,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "FERA",
-        "url": "https://open.spotify.com/album/3sWYC2wZlaMSCUBuHj560e"
-      },
-      "artists": [
-        {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "FERA",
-      "url": "https://open.spotify.com/track/6H4fYjImHCsfivHS19b3vn"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "Rota",
         "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
+        "name": "Ainda Tenho F\u00e9",
+        "url": "https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "Ainda Tenho F\u00e9",
+      "url": "https://open.spotify.com/track/66YWu9JvG60I365bc87wWo"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
         "name": "LUA CHEIA",
         "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 170089,
       "name": "LUA CHEIA",
       "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
-        "name": "Ainda Tenho F\u00e9",
-        "url": "https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "Ainda Tenho F\u00e9",
-      "url": "https://open.spotify.com/track/66YWu9JvG60I365bc87wWo"
     },
     {
       "added_at": "2025-04-25 03:00:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-04-25 03:00:30",
       "album": {
-        "name": "TEORIA DO CAOS",
-        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "A GENTE SE FERRA JUNTO",
-      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
-    },
-    {
-      "added_at": "2025-04-25 03:00:30",
-      "album": {
         "name": "Divino",
         "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 168780,
       "name": "Divino",
       "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
+    },
+    {
+      "added_at": "2025-04-25 03:00:30",
+      "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
     },
     {
       "added_at": "2025-04-25 03:00:30",

@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Abel Pintos.
 
-344 songs - 18 hr 33 min
+345 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 | 2023-10-23 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-07-14 | 2023-10-24 |
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-10-23 |  |
-| [Mía](https://open.spotify.com/track/1s30S1LWNUfrZM6tUntDB6) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Mía](https://open.spotify.com/album/1MYX005RfZStIOvkSNElu4) | 3:52 | 2025-02-21 |  |
+| [Mía](https://open.spotify.com/track/1s30S1LWNUfrZM6tUntDB6) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Mía](https://open.spotify.com/album/1MYX005RfZStIOvkSNElu4) | 3:52 | 2025-02-21 | 2025-04-30 |
 | [Mírame](https://open.spotify.com/track/5D5RglczdUqJ2HelD6kGg1) | [Juanicar](https://open.spotify.com/artist/1J92Iz96FwLD7sbBzesxli) | [Mírame](https://open.spotify.com/album/23uPKJwwSlldf0Pq71aT85) | 2:39 | 2024-08-30 | 2024-09-07 |
 | [Nada De Nada](https://open.spotify.com/track/5i2PsmvTOoVYtEDUAe365B) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2), [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA) | [Nada De Nada](https://open.spotify.com/album/43Yf94ncPa1wN4C6IP3DtQ) | 2:48 | 2025-02-21 | 2025-02-28 |
 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 | 2024-02-23 | 2024-05-25 |
@@ -268,6 +268,7 @@
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2023-10-23 | 2023-11-11 |
 | [Póstumo](https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Póstumo](https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ) | 3:34 | 2024-05-24 | 2024-08-29 |
 | [Que Alguien Me Saque De Este Mood](https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Jaz](https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM) | [Que Alguien Me Saque De Este Mood](https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd) | 2:47 | 2024-01-19 | 2024-10-31 |
+| [Que hice mal](https://open.spotify.com/track/3EHhMEXVQ488kwcarMSM0h) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [Que hice mal](https://open.spotify.com/album/6jYEnahntCeKNuKHD1r9am) | 2:58 | 2025-04-29 |  |
 | [Que sea lo que tenga que ser](https://open.spotify.com/track/0DNm2vJzKcJ0Pq256nzd9V) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Que sea lo que tenga que ser](https://open.spotify.com/album/4bLE6rd5X0tjOTkzEqWhFn) | 4:01 | 2024-07-19 | 2024-07-27 |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2023-10-23 |  |
 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 | 2025-01-31 |  |

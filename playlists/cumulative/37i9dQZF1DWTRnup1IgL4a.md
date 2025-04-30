@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-299 songs - 12 hr 47 min
+301 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 | 2024-12-17 |  |
 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 | 2025-03-05 |  |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
-| [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 | 2025-04-22 |  |
+| [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 | 2025-04-22 | 2025-04-30 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 | 2022-08-19 | 2024-07-18 |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-28 |  |
@@ -60,8 +60,9 @@
 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 | 2024-06-21 |  |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 | 2023-08-26 |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 | 2023-08-26 |
-| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 |  |
+| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 | 2025-04-30 |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
+| [Daytime](https://open.spotify.com/track/1N4mF5RdQwvKGQ5666mw2s) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Daytime](https://open.spotify.com/album/6QoaEohAFbOn1Bg6wUtyae) | 2:36 | 2025-04-29 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 | 2023-03-18 |
 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 | 2023-08-10 |  |
 | [Different Ways of Losing You](https://open.spotify.com/track/7kWNxTQ5ZIHhLAkHTllHGO) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Different Ways of Losing You](https://open.spotify.com/album/5uKt8albwbbam6MBWkvhEo) | 2:40 | 2022-10-07 |  |
@@ -126,6 +127,7 @@
 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 | 2021-12-09 | 2023-08-24 |
 | [Imagined Narrative](https://open.spotify.com/track/0tZ2tSsFkABoh2pUSAiJmq) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Imagined Narrative](https://open.spotify.com/album/3RjnFeFcUqTj6I0afE0aQ9) | 2:33 | 2024-05-24 |  |
 | [In Between The Stars](https://open.spotify.com/track/4MIvfDDAclYoXXU90n2GpM) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Midnight Sailing](https://open.spotify.com/album/4ejMJnt2AlXecOgoV5aGaI) | 3:19 | 2021-12-09 | 2024-04-05 |
+| [In Every Moment](https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [In Every Moment](https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7) | 2:51 | 2025-04-29 |  |
 | [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 | 2023-04-28 | 2024-02-02 |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 | 2022-12-16 |  |

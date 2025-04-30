@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-908 songs - 1 day 21 hr 39 min
+909 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-22 | 2025-01-10 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-12 | 2024-09-27 |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-22 | 2024-06-07 |
-| [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-26 |  |
+| [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-26 | 2025-04-30 |
 | [Bella](https://open.spotify.com/track/3g2uFPgKsfvZT663X2NUpJ) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Bella](https://open.spotify.com/album/36pzQxkgpK42HtKQQs7CPf) | 2:35 | 2022-04-07 | 2022-04-22 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-26 | 2024-08-25 |
 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 | 2025-03-06 |  |
@@ -380,6 +380,7 @@
 | [Hälsa Gud](https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Hälsa Gud](https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4) | 2:28 | 2022-10-27 | 2023-03-31 |
 | [Hålla mig](https://open.spotify.com/track/2FImFbdIGJEnlftYDmwU6f) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Hålla mig](https://open.spotify.com/album/5Dv5FqFIMGsPaRwGuLhgQa) | 3:06 | 2024-03-21 | 2024-08-23 |
 | [Håller In Håller Ut](https://open.spotify.com/track/7ahb4gwhftJCKRSG0NnNZE) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Håller In Håller Ut](https://open.spotify.com/album/5NrmgPRZrDB6UsLvPoVysJ) | 3:03 | 2022-02-10 | 2022-04-22 |
+| [Håller Mig Själv](https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Håller Mig Själv](https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez) | 1:49 | 2025-04-29 |  |
 | [Höghusdrömmar](https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 2:23 | 2022-03-18 | 2022-04-22 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-21 | 2022-11-11 |

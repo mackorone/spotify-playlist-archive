@@ -4,13 +4,13 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-343 songs - 19 hr 40 min
+344 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-10 | 2025-04-25 |
-| [A Sinner's Life](https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [A Sinner's Life](https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ) | 3:07 | 2025-01-23 |  |
+| [A Sinner's Life](https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [A Sinner's Life](https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ) | 3:07 | 2025-01-23 | 2025-04-30 |
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 | 2025-02-15 |
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-08 | 2025-04-04 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-06-27 | 2024-08-09 |
@@ -26,6 +26,7 @@
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-08-15 | 2024-09-27 |
 | [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 |  |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
+| [Ansiktenas mystik](https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Frostvikskören](https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA) | [Ansiktenas mystik](https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ) | 3:20 | 2025-04-24 |  |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-10-04 |
 | [Back To The Sea](https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Back To The Sea](https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B) | 3:13 | 2025-04-10 |  |

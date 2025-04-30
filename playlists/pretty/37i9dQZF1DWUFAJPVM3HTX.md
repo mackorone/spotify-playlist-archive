@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF?si=aSaQzwDoREKUdm4Pi\_rGrw"> 646yf4t</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,829 likes - 366 songs - 18 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,842 likes - 366 songs - 18 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

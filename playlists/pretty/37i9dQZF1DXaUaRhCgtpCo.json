@@ -1,15 +1,15 @@
 {
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
-  "num_followers": 537470,
+  "num_followers": 537597,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvczwAAAAAC5fF8nrcZXC1CH+YH93a4q",
+  "snapshot_id": "aBDpkwAAAAAN6OLvATT7VuZQL2k1wQV4",
   "tracks": [
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Power of Two (From \"Star Wars: The Acolyte\")",
         "url": "https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Chapter 1 (Original Score)",
         "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
@@ -81,43 +81,7 @@
       "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Star Wars Lofi: Vol. 2",
-        "url": "https://open.spotify.com/album/2XDg88QEu1s1i5epFgW4Hg"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kiner",
-          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
-        },
-        {
-          "name": "Star Wars Lofi",
-          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Where the Sun Sails and the Moon Walks",
-      "url": "https://open.spotify.com/track/6WJZY3pVLemc5Xjx6YTBGE"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 175699,
-      "name": "The Book of Boba Fett",
-      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
@@ -137,7 +101,43 @@
       "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
+      "album": {
+        "name": "Star Wars Lofi: Vol. 2",
+        "url": "https://open.spotify.com/album/2XDg88QEu1s1i5epFgW4Hg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Where the Sun Sails and the Moon Walks",
+      "url": "https://open.spotify.com/track/6WJZY3pVLemc5Xjx6YTBGE"
+    },
+    {
+      "added_at": "2025-04-29 15:00:35",
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett",
+      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
+    },
+    {
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Acolyte (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
@@ -169,7 +169,23 @@
       "url": "https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu"
     },
     {
-      "added_at": "2024-07-10 21:12:54",
+      "added_at": "2025-04-29 15:00:35",
+      "album": {
+        "name": "Andor Onward [From \"Andor (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2dz26zxXrMln5hsSwqPCIT"
+      },
+      "artists": [
+        {
+          "name": "Brandon Roberts",
+          "url": "https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo"
+        }
+      ],
+      "duration_ms": 132893,
+      "name": "Andor Onward - From \"Andor (Season 2)\"",
+      "url": "https://open.spotify.com/track/7aIP6Te7f0tUYIXNfUbgkO"
+    },
+    {
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Acolyte - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1B035XnkYbQd223wGi1bgU"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/1h6Fbtem8rcz8sJir8HGCC"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Star Wars: Tales of the Jedi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kiner",
-          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Ahsoka's Village",
-      "url": "https://open.spotify.com/track/4aXx6JRcvuGiwVxxNjvVvy"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -237,7 +237,39 @@
       "url": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd"
     },
     {
-      "added_at": "2024-07-10 21:12:54",
+      "added_at": "2025-04-29 15:00:35",
+      "album": {
+        "name": "Star Wars: Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Ahsoka's Village",
+      "url": "https://open.spotify.com/track/4aXx6JRcvuGiwVxxNjvVvy"
+    },
+    {
+      "added_at": "2025-04-29 15:00:35",
+      "album": {
+        "name": "Andor: Season 2 - Vol. 1 (Episodes 1-3) [Original Score]",
+        "url": "https://open.spotify.com/album/1XlWQ3Nt6x7XlJis8t3EyW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Roberts",
+          "url": "https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Canyon Run",
+      "url": "https://open.spotify.com/track/14Vl2ooRZ6BcccGnCLKzyt"
+    },
+    {
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Acolyte - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1B035XnkYbQd223wGi1bgU"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/5L0uMqtvUX2v4cSOzz109G"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/1lL5wgXpI3Wwn6Am13dQIj"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Ahsoka - End Credits (From \"Ahsoka\")",
         "url": "https://open.spotify.com/album/71DGL0E8WZ0BAkVFOV3bIx"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/12RRnmIMkMDViOjYd5k2iy"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Tales of the Jedi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/1fB7z2N3B0uN0WGXVw1lHR"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/3fdY6ZVYtiHcrArNdvK3Ux"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Enter the Bad Batch (From \"Star Wars: The Bad Batch\")",
         "url": "https://open.spotify.com/album/3LWyxWlbxnBdru77X1GrEQ"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/7B7ntJ0B84LVY1CljRSB0o"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/73kJJ42uVT0eu1CseFBu7i"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/6CX899yO5b5DZh2Gvtw5se"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
         "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/0CN8D4RBp2qbDijxLuhERA"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars Lofi: Vol. 3",
         "url": "https://open.spotify.com/album/3vPzpEXIJ7o1Lmgl9LvJY3"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/0YhWpeIfuyqHKPt0bwssCR"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan (From \"Obi-Wan Kenobi\")",
         "url": "https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/3TDxntdbGLgwRpCuquaBb4"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 2 (Episodes 9-16) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/3cQ8hOUwxv8QBRzkWHWdHj"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/4I7uZnCpdzSZMu0Oz6ZzOS"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 2 (Episodes 9-16) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/1sAE0vqLfXWlAqOJlPWTmT"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 9-12) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/6LqpJg7gedj71TlxZETgMj"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/09Mtsz2tJ2T68KxrfPvYFt"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/0ZamBBcUzHNMISCI3GJzYv"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Season 3 - Vol. 1 (Chapters 17-20) [Original Score]",
         "url": "https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/4pzG7RTbaEMug1aR3guLDl"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/29nfXHhCyMJpQF8Z7bXztE"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/3SJalt7jrTvWnaps4CZp8h"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/4P6sr3fe8K6d7EyJoual7j"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
         "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/3DsfQmoME4Fe6d4L7H2FJi"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Chapter 8 (Original Score)",
         "url": "https://open.spotify.com/album/4UbdaOH1jy1l9EG9vLFCle"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/2hpBErFRab0qwNSzgglCNk"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
         "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/4pFFwznYDDnaNSdsRTN2pn"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
         "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/6LRpn5LdxiVy9tNXraTamS"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
@@ -889,7 +921,7 @@
       "url": "https://open.spotify.com/track/6lFvflA4sin1awe4c1tJue"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/2eBhvMECBUGdt9VfkLdCyl"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
         "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
@@ -925,7 +957,7 @@
       "url": "https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
@@ -945,7 +977,7 @@
       "url": "https://open.spotify.com/track/0v9jQJLRpwyfS4lrq8uXe6"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
@@ -977,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
         "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
@@ -993,7 +1025,7 @@
       "url": "https://open.spotify.com/track/38SyCdeH9rPBzsAwnrqDW1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -1009,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2AJHEH475SPH3XckX6KyBI"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
         "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
@@ -1025,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5ZONUuFfVPVp7tfqvyB4Bx"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7GIrmKsto81NqfojCzICJ1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Obi-Wan Kenobi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2vFMaqgyFB3PZMnC3AI3vZ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
         "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
@@ -1077,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0zTw9ipJFr3JrVfPtQYoap"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
@@ -1093,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4YobM2FcsIxRcDx11et0G7"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
         "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
@@ -1109,7 +1141,7 @@
       "url": "https://open.spotify.com/track/436gHcmjvyp6GkwfWcJc9Z"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
@@ -1129,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6iyfu6nJcOc8isLkonltUV"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
@@ -1149,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5dHi50VL84X1SboMkXz4D7"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
@@ -1169,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4Ncz6bE3nq4YNGNJp3A7cB"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1185,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1ACII6dVvZETwW8FtpDzfI"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
@@ -1205,7 +1237,7 @@
       "url": "https://open.spotify.com/track/27xA5HEUnWPBDo0z4hcDq1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
@@ -1225,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7I0Wha0ZV4GEq2PxWpg1mb"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
@@ -1245,7 +1277,7 @@
       "url": "https://open.spotify.com/track/7qYAX8yamoruNCCCYvjIVe"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
@@ -1265,7 +1297,7 @@
       "url": "https://open.spotify.com/track/2EgQoaZnFe59ST1PdgJbNH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
@@ -1285,7 +1317,7 @@
       "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
@@ -1305,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1HhLogd8ljnRgXM8FlAR8o"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
@@ -1321,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
@@ -1337,7 +1369,7 @@
       "url": "https://open.spotify.com/track/6yrBMcPI6qXG6LKGQfM2Jv"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Season 3 - Vol. 1 (Chapters 17-20) [Original Score]",
         "url": "https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b"
@@ -1357,7 +1389,7 @@
       "url": "https://open.spotify.com/track/6rij7q7SkqkUsfhwCKmguI"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Tales from the Galaxy's Edge (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0nrW0u5Serdhb1GQmPQo72"
@@ -1373,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0nWqkzpDozJebZwLi1vvGJ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg"
@@ -1393,7 +1425,7 @@
       "url": "https://open.spotify.com/track/08bklULvFx9PF8X7o07fsa"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
@@ -1409,7 +1441,7 @@
       "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -1425,7 +1457,7 @@
       "url": "https://open.spotify.com/track/6xuNzE2TNoJSiX6llH5Chg"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
@@ -1441,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1Tu24oNxMH9mt7gdJV5j9h"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Bad Batch Theme (From \"Star Wars: The Clone Wars - The Final Season\")",
         "url": "https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i"
@@ -1457,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
@@ -1473,7 +1505,7 @@
       "url": "https://open.spotify.com/track/0WncQWi2RqYKIGriO9gyJ0"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1489,7 +1521,7 @@
       "url": "https://open.spotify.com/track/1FFYCAWFz9drun5Br4w5Kk"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Tales of the Jedi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
@@ -1505,7 +1537,7 @@
       "url": "https://open.spotify.com/track/2peyQLkWFqjrMg49gGI0oQ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC"
@@ -1521,7 +1553,7 @@
       "url": "https://open.spotify.com/track/2MhsbNixSxMiitxzlFR22o"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1537,7 +1569,7 @@
       "url": "https://open.spotify.com/track/77k9CEWfPOcizofgwLTBdH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1553,7 +1585,7 @@
       "url": "https://open.spotify.com/track/1gaPmqLrbaOAFNnuNGc4sQ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1569,7 +1601,7 @@
       "url": "https://open.spotify.com/track/3eEfx3BsSplMdgktC3r7xK"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
@@ -1585,7 +1617,7 @@
       "url": "https://open.spotify.com/track/0O5xBn8C6Reu3ihKbSBgB7"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
         "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
@@ -1601,7 +1633,7 @@
       "url": "https://open.spotify.com/track/7Gq4mTdhrYlY5dHy2UooRH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
@@ -1617,7 +1649,7 @@
       "url": "https://open.spotify.com/track/6eukKVQ3OA8bsfAdTsX3lH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "The Mandalorian: Season 3 - Vol. 2 (Chapters 21-24) [Original Score]",
         "url": "https://open.spotify.com/album/3wuE2JeCx2Vmvk7b1c9fnI"
@@ -1637,7 +1669,7 @@
       "url": "https://open.spotify.com/track/76kDodRN092G8YHHeNl31y"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
@@ -1653,7 +1685,7 @@
       "url": "https://open.spotify.com/track/5JniadiDSQ28PEvcUQDYmW"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
         "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
@@ -1669,7 +1701,7 @@
       "url": "https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
@@ -1685,7 +1717,7 @@
       "url": "https://open.spotify.com/track/1fqsyRQVJReNyGNj1xZQX9"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -1701,7 +1733,7 @@
       "url": "https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
@@ -1717,7 +1749,7 @@
       "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -1733,7 +1765,7 @@
       "url": "https://open.spotify.com/track/3eAQQB5gp7ckbsbnbyq7x8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC"
@@ -1749,7 +1781,7 @@
       "url": "https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -1769,7 +1801,7 @@
       "url": "https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1785,7 +1817,7 @@
       "url": "https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist #1",
         "url": "https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj"
@@ -1805,7 +1837,7 @@
       "url": "https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -1821,7 +1853,7 @@
       "url": "https://open.spotify.com/track/0qRkmCnPdsIWnXWHhSxGEe"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1837,7 +1869,7 @@
       "url": "https://open.spotify.com/track/69qAhQ1p5kGzRpcVctqlgK"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -1857,7 +1889,7 @@
       "url": "https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1873,7 +1905,7 @@
       "url": "https://open.spotify.com/track/74BhnLENTXul5hgjC7NaUj"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1889,7 +1921,7 @@
       "url": "https://open.spotify.com/track/0wvl02mmpTgoqdBtyj64WP"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg"
@@ -1905,7 +1937,7 @@
       "url": "https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1921,7 +1953,7 @@
       "url": "https://open.spotify.com/track/6VVazVCT7PMofEkMXDdbEo"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1937,7 +1969,7 @@
       "url": "https://open.spotify.com/track/00kJKVPbMLV5b53dJmcxrQ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1953,7 +1985,7 @@
       "url": "https://open.spotify.com/track/52hMydaS1ld25uY0wI1sHW"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
@@ -1969,7 +2001,7 @@
       "url": "https://open.spotify.com/track/0hd8rk3WUINYVbdfsu1CqH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -1985,7 +2017,7 @@
       "url": "https://open.spotify.com/track/2Q1MtRb1XIJ9bD5q2SIHtH"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -2001,7 +2033,7 @@
       "url": "https://open.spotify.com/track/1ezCMM6GbB6JW6yXltlCaD"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2017,7 +2049,7 @@
       "url": "https://open.spotify.com/track/4BosUkCIZWxxShikgcilQb"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2033,7 +2065,7 @@
       "url": "https://open.spotify.com/track/6kchN107n8XZul4ZkBhvCn"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2049,7 +2081,7 @@
       "url": "https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
@@ -2065,7 +2097,7 @@
       "url": "https://open.spotify.com/track/2hM7evxI96ObLXdsNhYLuw"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Cantina Band",
         "url": "https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo"
@@ -2085,7 +2117,7 @@
       "url": "https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2101,7 +2133,7 @@
       "url": "https://open.spotify.com/track/75tWMAX7gSbs3VNKgvlOST"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2117,7 +2149,7 @@
       "url": "https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -2133,7 +2165,7 @@
       "url": "https://open.spotify.com/track/4iMmW8NcVFU5ytJkHa6IbA"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
@@ -2149,7 +2181,7 @@
       "url": "https://open.spotify.com/track/3vzAoaGvVA7UFaVuGjUG0p"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -2169,7 +2201,7 @@
       "url": "https://open.spotify.com/track/4liOrw7OIc5zCxkFJiK2tJ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -2189,7 +2221,7 @@
       "url": "https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
@@ -2205,7 +2237,7 @@
       "url": "https://open.spotify.com/track/1k9RJ8bFFyT41s3FvUGSFP"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -2225,7 +2257,7 @@
       "url": "https://open.spotify.com/track/3KVsq9veMUESIb3ln7Rowv"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
@@ -2241,7 +2273,7 @@
       "url": "https://open.spotify.com/track/2aLFi3vrMRt0AhnqNJQipa"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
@@ -2261,7 +2293,7 @@
       "url": "https://open.spotify.com/track/6I50fU69S2yz4yc96r55s2"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars Sampler",
         "url": "https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c"
@@ -2281,7 +2313,7 @@
       "url": "https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Jabba Flow (From \"Star Wars: The Force Awakens\")",
         "url": "https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna"
@@ -2297,7 +2329,7 @@
       "url": "https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
@@ -2313,7 +2345,7 @@
       "url": "https://open.spotify.com/track/3vUf87AxnftaJiEYAjUmg2"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
@@ -2333,7 +2365,7 @@
       "url": "https://open.spotify.com/track/2OqMBSytBzTHFXnEmKrmrF"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
@@ -2349,7 +2381,7 @@
       "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
@@ -2365,7 +2397,7 @@
       "url": "https://open.spotify.com/track/30IJ19GLTJ9Q169KJwxfNb"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
         "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
@@ -2381,7 +2413,7 @@
       "url": "https://open.spotify.com/track/1iV33yjaj3BojLVuYHSg2V"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
@@ -2401,7 +2433,7 @@
       "url": "https://open.spotify.com/track/5OOGED27QEN7PlNPcjszrr"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Galaxy's Edge Symphonic Suite (Music Inspired by the Disney Themed Land)",
         "url": "https://open.spotify.com/album/53V20nN6s91x3ey4grFvwY"
@@ -2417,7 +2449,7 @@
       "url": "https://open.spotify.com/track/0ETHUHGV4QrIQ3iGIUQZbd"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
@@ -2433,7 +2465,7 @@
       "url": "https://open.spotify.com/track/5zcAxtO4veMV9vq8SuHgKf"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
@@ -2449,7 +2481,7 @@
       "url": "https://open.spotify.com/track/0GLicEZFv5LCu2HBtNEEmu"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
@@ -2469,7 +2501,7 @@
       "url": "https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2025-04-29 15:00:35",
       "album": {
         "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"

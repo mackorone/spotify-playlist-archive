@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,187 songs - 3 day 0 hr 57 min
+1,188 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Hivemind](https://open.spotify.com/track/7lRciDLcZY0MKaMyakkvu0) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Hivemind](https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl) | 4:07 | 2023-02-17 | 2024-03-02 |
 | [HIVEMIND](https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [HIVEMIND](https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e) | 3:12 | 2024-02-23 | 2024-07-21 |
 | [Hold Me, Help Me](https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Hold Me, Help Me](https://open.spotify.com/album/1g3ByU8bZ8KclMW1mLVwxz) | 3:45 | 2022-11-04 | 2023-05-06 |
-| [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-25 |  |
+| [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-25 | 2025-04-30 |
 | [Hollow](https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP) | [Hollow](https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn) | 3:28 | 2024-11-22 | 2024-12-19 |
 | [Hollowed Heart](https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/1eugdphmac0WQccxNJ96tn) | 3:51 | 2022-07-13 | 2022-07-23 |
 | [Home](https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Home](https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ) | 4:04 | 2022-03-11 | 2022-05-14 |
@@ -983,6 +983,7 @@
 | [Swallowed By The Earth](https://open.spotify.com/track/4L6XoVXkIznbbnptvFyMk0) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Swallowed By The Earth](https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB) | 3:26 | 2023-11-27 | 2024-01-23 |
 | [Swan Song](https://open.spotify.com/track/64q2xOrEX0Vmlmu2ywX4YG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Swan Song](https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue) | 3:56 | 2022-04-29 | 2022-07-08 |
 | [Swan Song \(feat\. Scott Vogel\)](https://open.spotify.com/track/0KYUDcYOgenD49LRX9zM4F) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4), [Scott Vogel](https://open.spotify.com/artist/29hXSjO5wlSWX5Kwrtms9s) | [Swan Song \(feat\. Scott Vogel\)](https://open.spotify.com/album/1N8yKGGlqqnduljKTE3JEY) | 3:34 | 2022-04-01 | 2022-05-28 |
+| [Swim North \(feat\. Trevor Phipps\)](https://open.spotify.com/track/4sQlM5or0jJ5UKfb9B8iYH) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3), [Trevor Phipps](https://open.spotify.com/artist/3njiX96ToxEYIMsuropXS1) | [Swim North \(feat\. Trevor Phipps\)](https://open.spotify.com/album/0Y2Cx9d32QYMY0MBZPHh8i) | 4:57 | 2025-04-25 |  |
 | [Synaptic Depravation](https://open.spotify.com/track/0qYSwywyNslSTuCUrBInwg) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Synaptic Depravation](https://open.spotify.com/album/6cbulNIl1MwMkCEcwaQu4R) | 6:09 | 2022-07-13 | 2022-07-16 |
 | [Synthetic](https://open.spotify.com/track/15FOnXo2V2SQrYyGe3JgWY) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Synthetic](https://open.spotify.com/album/1QMR9r5LA0KfQK6IO7J2bZ) | 2:43 | 2024-11-22 | 2025-04-26 |
 | [Synthetic Heaven](https://open.spotify.com/track/0CzlnDYyby4VQlJ52sh0jf) | [ATLVS](https://open.spotify.com/artist/5N4dLggbLKLGVWdlY2o0GA) | [Synthetic Heaven](https://open.spotify.com/album/1MxfedVKqk8rL6eHNGA01F) | 3:10 | 2022-06-10 | 2022-07-29 |

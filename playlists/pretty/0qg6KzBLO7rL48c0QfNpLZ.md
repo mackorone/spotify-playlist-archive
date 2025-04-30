@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,973 likes - 104 songs - 4 hr 29 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,952 likes - 104 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 18 | [Tell Me Why](https://open.spotify.com/track/34yeyWFr9WLJkoRcmYB2DK) | [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS), [Gavss](https://open.spotify.com/artist/0qEqW7rr1VRG15q2iZiSMc) | [Tell Me Why](https://open.spotify.com/album/6qMUEZ6MNtXgdFbgOPZMI6) | 3:02 |
 | 19 | [Satellite](https://open.spotify.com/track/7Bys1BvPuX7jmhBEwiTgzE) | [Damian Birdsey](https://open.spotify.com/artist/068spQpxM8nHnaPy3tiRWd), [Rachel Birdsey](https://open.spotify.com/artist/2kmGFZuJw6JNT937Wh2nE6) | [Satellite](https://open.spotify.com/album/1pryLE0rUu6l5MMfm5T2S4) | 3:09 |
 | 20 | [Real Life Fantasy](https://open.spotify.com/track/5BY0EwNXOC6k38oArRtiic) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Real Life Fantasy](https://open.spotify.com/album/1QSF8j2H6oZLyKC0TlVAyK) | 2:28 |
-| 21 | [Afterglow](https://open.spotify.com/track/28CmpdEQ1ZzRqOt2LarbKQ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Afterglow](https://open.spotify.com/album/6aJBg88hs6uZOTkF8QGEHc) | 2:33 |
-| 22 | [Safe And Sound](https://open.spotify.com/track/7F9l6v71HdjjVB4rxmNCTg) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Safe And Sound](https://open.spotify.com/album/5BZaTxUNDa0nFHs9pCqQ0V) | 2:39 |
-| 23 | [Royals](https://open.spotify.com/track/0boItFIudr2JNgaTIz410E) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY), [SóSó](https://open.spotify.com/artist/5CmbPtbvZHvv6R0seR6Qjv) | [Royals](https://open.spotify.com/album/4p5f4uZYpVemgi8i6ev2JH) | 2:23 |
-| 24 | [What We Could Become](https://open.spotify.com/track/3I410a0dLaMIwdz25rBoFC) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z), [Ava Wish](https://open.spotify.com/artist/6M33ht5EGK7CiKqBKKIotV) | [What We Could Become](https://open.spotify.com/album/5JzOmtj78RaBAOPXHO6h2B) | 2:28 |
-| 25 | [What Are You Waiting For](https://open.spotify.com/track/0s9oGnx3yS29haSwfAQ8dO) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [What Are You Waiting For](https://open.spotify.com/album/1lb7fAEZwFt8mzrUTDpM8K) | 2:43 |
+| 21 | [What Are You Waiting For](https://open.spotify.com/track/0s9oGnx3yS29haSwfAQ8dO) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [What Are You Waiting For](https://open.spotify.com/album/1lb7fAEZwFt8mzrUTDpM8K) | 2:43 |
+| 22 | [Afterglow](https://open.spotify.com/track/28CmpdEQ1ZzRqOt2LarbKQ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Afterglow](https://open.spotify.com/album/6aJBg88hs6uZOTkF8QGEHc) | 2:33 |
+| 23 | [Safe And Sound](https://open.spotify.com/track/7F9l6v71HdjjVB4rxmNCTg) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Safe And Sound](https://open.spotify.com/album/5BZaTxUNDa0nFHs9pCqQ0V) | 2:39 |
+| 24 | [Royals](https://open.spotify.com/track/0boItFIudr2JNgaTIz410E) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY), [SóSó](https://open.spotify.com/artist/5CmbPtbvZHvv6R0seR6Qjv) | [Royals](https://open.spotify.com/album/4p5f4uZYpVemgi8i6ev2JH) | 2:23 |
+| 25 | [What We Could Become](https://open.spotify.com/track/3I410a0dLaMIwdz25rBoFC) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z), [Ava Wish](https://open.spotify.com/artist/6M33ht5EGK7CiKqBKKIotV) | [What We Could Become](https://open.spotify.com/album/5JzOmtj78RaBAOPXHO6h2B) | 2:28 |
 | 26 | [Keep Me There](https://open.spotify.com/track/0YBiWhC6TlGtkOYutzzMtu) | [Bonna](https://open.spotify.com/artist/2l8kcHRvhu4aNUdjxBklxf) | [Keep Me There](https://open.spotify.com/album/6PWVoPELrH6TI3ZuUWQZlF) | 2:25 |
 | 27 | [Faith's Promise](https://open.spotify.com/track/6JTFCm3R05YqARRuYXTFKI) | [Soft Tide](https://open.spotify.com/artist/3fsqt6QGQnfuQmowwrxOVZ) | [Faith's Promise](https://open.spotify.com/album/5JvcPNzd62emKLiuL0yVpE) | 2:47 |
 | 28 | [Not Lonely](https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Ella X](https://open.spotify.com/artist/4g9KPFeiibtNmCsnuBcK2H) | [Not Lonely](https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q) | 3:03 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 103 | [Never Not](https://open.spotify.com/track/4DvDfjl8MaltUw3yNklKXL) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Never Not](https://open.spotify.com/album/66mLgjZyeA3q6N8UHwTUi1) | 2:52 |
 | 104 | [Cruel](https://open.spotify.com/track/0MwAvp1DnErZAA7VjI4Usk) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Cruel](https://open.spotify.com/album/3CLJsz4phtcvadOnTkzXYv) | 2:24 |
 
-Snapshot ID: `AAAe48PhwiRSb3xo9Yqwhn8YbJzAB1Ej`
+Snapshot ID: `AAAe5GKXTscxpaR0u9jY2+VdmA6+btxq`

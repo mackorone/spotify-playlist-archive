@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-258 songs - 19 hr 1 min
+259 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Give Me a Break](https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg) | [Carter Graham](https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo) | [Silence](https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA) | 5:31 | 2024-04-09 | 2024-11-04 |
 | [Give Me Acid](https://open.spotify.com/track/5ihSjM9QHRuhLf1SAMCydv) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Give Me Acid](https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ) | 3:30 | 2024-10-24 |  |
 | [Go Get Some People](https://open.spotify.com/track/2gtY2fRwzWeFY1arZKuyp9) | [Danny Wabbit](https://open.spotify.com/artist/57vSMXKEfRZ02gI0D0frvP) | [Go Get Some People \- EP](https://open.spotify.com/album/23wXuuke1j3T9ibf9oaLaT) | 4:41 | 2024-04-09 | 2024-07-14 |
-| [Go Hard](https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack EP](https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW) | 3:55 | 2024-12-06 |  |
+| [Go Hard](https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack EP](https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW) | 3:55 | 2024-12-06 | 2025-04-30 |
 | [GODD \- T78 Remix](https://open.spotify.com/track/7BTU6GDGVz7LDFq0bI24Mm) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [GODD \(T78 Remix\)](https://open.spotify.com/album/1iDVg0Og8IwgimtcCu6YrY) | 4:38 | 2024-07-14 | 2024-07-22 |
 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 | 2024-04-09 |  |
 | [Gravitational Wave](https://open.spotify.com/track/6QVkUrkSC3IMWmbCEbkP7p) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Gravitational Wave EP](https://open.spotify.com/album/7EFsVyrCWzjXPfGNZ3UPql) | 5:45 | 2025-03-19 |  |
@@ -178,6 +178,7 @@
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Plur](https://open.spotify.com/track/2QYLBNj1fX9oD7RVcKgnXu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Plur](https://open.spotify.com/album/06nKb1lnkGylo7Mca18s7k) | 4:27 | 2025-03-07 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
+| [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 | 2025-04-25 |  |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2025-02-19 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |

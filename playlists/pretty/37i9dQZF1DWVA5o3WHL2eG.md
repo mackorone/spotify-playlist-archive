@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Jamila
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,506 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,505 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Paradies](https://open.spotify.com/track/056m5pQQquHM7dA25u0CNu) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Paradies](https://open.spotify.com/album/1gkoGgNyuKLoFdEYQzmbY9) | 2:51 |
 | 21 | [wir heben ab](https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [wir heben ab](https://open.spotify.com/album/11L7TEwaDg7VFA4kr6xCx0) | 2:33 |
 | 22 | [4 Tage](https://open.spotify.com/track/2JbUf7ErfadMQ7WMIFLBq2) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [4 Tage](https://open.spotify.com/album/38FhVF6a8hjLMWMyR51O7M) | 2:50 |
-| 23 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
-| 24 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
+| 23 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
+| 24 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
 | 25 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
 | 26 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
 | 27 | [Unconditional](https://open.spotify.com/track/239fX9EmhCkfrAkMqY4LsK) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Unconditional](https://open.spotify.com/album/23WwMdhEaZBdk2HmeeXl1f) | 3:13 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
 | 44 | [Irgendwie Kalt](https://open.spotify.com/track/4xd7CpiEwp5j809LYUBGoB) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Irgendwie Kalt](https://open.spotify.com/album/73ZJtCAaWxuvBUYWBqAGlM) | 2:04 |
 | 45 | [\(spielen mit den großen\) JUNGS](https://open.spotify.com/track/2RD4DLt3kmN9OcKwbbZYx3) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [\(spielen mit den großen\) JUNGS](https://open.spotify.com/album/0HmtIzR5mvDlrYRMPNTAZD) | 3:22 |
-| 46 | [Birds in da House](https://open.spotify.com/track/2hq6QIAizio0Tf8eLM4YAH) | [Klaudia Gawlas](https://open.spotify.com/artist/2xiTOSr9ymuHpWFAgSw6sR) | [Birds in da House](https://open.spotify.com/album/0SkJGbFSnTlrlGOkjHlnnO) | 3:02 |
-| 47 | [Heaven in Disguise](https://open.spotify.com/track/78jHWaQm0VApEZon0pN4Ba) | [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Heaven in Disguise](https://open.spotify.com/album/3iPGUq9PiDGvcVJz1jHQAn) | 4:33 |
-| 48 | [Leicht Gesagt](https://open.spotify.com/track/12aCW1nejGGflxWNtgMsNw) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Träume auf Zement](https://open.spotify.com/album/257NaycAEFkUDSya2V4bSi) | 3:27 |
+| 46 | [Leicht Gesagt](https://open.spotify.com/track/12aCW1nejGGflxWNtgMsNw) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Träume auf Zement](https://open.spotify.com/album/257NaycAEFkUDSya2V4bSi) | 3:27 |
+| 47 | [Birds in da House](https://open.spotify.com/track/2hq6QIAizio0Tf8eLM4YAH) | [Klaudia Gawlas](https://open.spotify.com/artist/2xiTOSr9ymuHpWFAgSw6sR) | [Birds in da House](https://open.spotify.com/album/0SkJGbFSnTlrlGOkjHlnnO) | 3:02 |
+| 48 | [Heaven in Disguise](https://open.spotify.com/track/78jHWaQm0VApEZon0pN4Ba) | [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Heaven in Disguise](https://open.spotify.com/album/3iPGUq9PiDGvcVJz1jHQAn) | 4:33 |
 | 49 | [Don't Get Me Wrong!](https://open.spotify.com/track/2MzQAwdrqxSIt2P23kTm03) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Don't Get Me Wrong!](https://open.spotify.com/album/4GTzvdAKugQXw5UkwigCVH) | 3:06 |
 | 50 | [Woman In Chains](https://open.spotify.com/track/2FtpFuYng6t0m6Z64my64H) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:48 |
 

@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Jackson Wang & Number\_i
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Vaundy
 
-1,509 songs - 3 day 21 hr 40 min
+1,511 songs - 3 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 | 2022-05-22 | 2022-05-30 |
 | [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 | 2023-07-09 | 2023-07-31 |
 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 | 2023-03-19 | 2023-05-08 |
+| [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 | 2025-04-29 |  |
 | [Painting in the Dusk](https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Painting in the Dusk](https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v) | 4:18 | 2023-03-12 | 2023-03-27 |
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-04-10 | 2022-04-16 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-05 | 2023-04-10 |
@@ -685,7 +686,7 @@
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 | 2024-05-01 |
 | [South Side](https://open.spotify.com/track/2mtcDNgCXpgIHfla9flfsB) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [South Side](https://open.spotify.com/album/3Qfis0z5k27DsL8MLBxb9f) | 2:53 | 2025-01-14 | 2025-02-19 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-10-02 | 2023-01-16 |
-| [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 | 2025-02-11 |  |
+| [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 | 2025-02-11 | 2025-04-30 |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-04-03 | 2022-04-18 |
 | [Sparkle Dancer](https://open.spotify.com/track/0uBrG0rTvuqcvl2jGFFgHh) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Sparkle Dancer](https://open.spotify.com/album/1ClZWnf2R7u3SRkRONNaZH) | 3:28 | 2023-01-29 | 2023-02-25 |
 | [Sparkle Dancer](https://open.spotify.com/track/4aHvOIHuAzl21N7D2gHwen) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Yuyukaneikaiyuroku](https://open.spotify.com/album/6hCKJeHH7NjYFMe04FcPmW) | 3:28 | 2023-02-20 | 2023-03-13 |
@@ -1243,6 +1244,7 @@
 | [夜空を翔ける](https://open.spotify.com/track/23HPYqUEwJ6CaUGoTaY3fK) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [夜空を翔ける/自分が思っていたよりも/One step](https://open.spotify.com/album/0Uh9XqjuV9vyJEM57w39x0) | 4:30 | 2023-02-05 | 2023-04-17 |
 | [夢のまた夢 feat\. tofubeats](https://open.spotify.com/track/2qzV8U4qIdaRjlq68eC8dt) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [VVARP](https://open.spotify.com/album/6bO46oE7GTo0UobYI15jEq) | 3:36 | 2022-06-12 | 2022-07-01 |
 | [夢の宇宙旅行](https://open.spotify.com/track/5buIf0b9AIjkx4zioVnDGu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [THANK YOU SO MUCH](https://open.spotify.com/album/1Xbg70tOcte0OgkkTtIAYx) | 4:43 | 2025-03-25 |  |
+| [夢中](https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [夢中](https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS) | 3:09 | 2025-04-29 |  |
 | [夢喰](https://open.spotify.com/track/09eGoLGb5TkQhprZWHOakY) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [夢喰](https://open.spotify.com/album/0ITHjOTVymCdDZiCryNms7) | 3:05 | 2022-06-26 | 2022-07-11 |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-21 | 2024-11-13 |
 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-04-03 | 2022-05-02 |
@@ -1383,7 +1385,7 @@
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-09 | 2023-12-25 |
 | [燦燦](https://open.spotify.com/track/6mZ7dxpueWQiASJpUKnAk0) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [燦燦](https://open.spotify.com/album/4AhCQBmuBv9GMJr02Ljkdr) | 4:24 | 2022-04-17 | 2022-05-16 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-25 |  |
-| [片想い](https://open.spotify.com/track/5RSFHD9l5WwdJJVuWkTgtq) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [片想い / 涙の正体](https://open.spotify.com/album/59GwSQ2YeTlVi10iNfj3gt) | 4:25 | 2025-04-01 |  |
+| [片想い](https://open.spotify.com/track/5RSFHD9l5WwdJJVuWkTgtq) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [片想い / 涙の正体](https://open.spotify.com/album/59GwSQ2YeTlVi10iNfj3gt) | 4:25 | 2025-04-01 | 2025-04-30 |
 | [狙うは君のど真ん中](https://open.spotify.com/track/18M01aXh4GEOOwsRr33SCz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [狙うは君のど真ん中](https://open.spotify.com/album/26rqZJmMhlQRJyrC9J5yTS) | 3:30 | 2022-02-06 | 2022-03-07 |
 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 | 2024-09-17 | 2024-11-20 |
 | [猫リセット](https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [猫リセット](https://open.spotify.com/album/5UYCMMhY28GdZa56yEQGV9) | 4:07 | 2021-12-19 | 2022-01-03 |

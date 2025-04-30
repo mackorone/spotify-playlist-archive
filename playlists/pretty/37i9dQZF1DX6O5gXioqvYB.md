@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Teseghella
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,393 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,395 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [+G](https://open.spotify.com/track/3vJj2OQR5tfipyOboYt2VN) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [+G](https://open.spotify.com/album/3csTJOx4fJDsNjyCyus6q0) | 3:10 |
-| 2 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [Basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 2 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
 | 3 | [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 |
 | 4 | [Latte e biscotti](https://open.spotify.com/track/6lJKkAzxQvKr8DHWUVLbst) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Latte e biscotti](https://open.spotify.com/album/0oHaJJUojVH4JgPSTkU0Li) | 3:07 |
 | 5 | [Solo Noi](https://open.spotify.com/track/4ais99KyS67rJrsKs74r0f) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Solo Noi](https://open.spotify.com/album/5psQYGUHPXfeoo658qd8Fg) | 3:06 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 69 | [Riunione di condominio \(feat\. Assurditè\)](https://open.spotify.com/track/5EnzQ4P5HeIyJDG0p9SHEV) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Un Posto Migliore](https://open.spotify.com/album/1KWEfb86yZsI282JE3C4Wy) | 2:49 |
 | 70 | [Maledetta](https://open.spotify.com/track/68oAd29DQvcnUVxgA3WNgP) | [Nuvolari](https://open.spotify.com/artist/53YV6jNITDfPlpYtP2GXLb) | [Maledetta](https://open.spotify.com/album/0VhQa8Zi990HvicbU21XFf) | 2:41 |
 | 71 | [Brutto modo di morire](https://open.spotify.com/track/48Z8BEpZWkvGui023qOzAW) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Principianti](https://open.spotify.com/album/75hz7qVeWNXbhhd0IDAxqh) | 3:11 |
-| 72 | [Capelli argento](https://open.spotify.com/track/6X6YsGktlDluoeJe8yqABk) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Capelli argento](https://open.spotify.com/album/4kIaY31mPD8bgxwHO2RK9l) | 5:26 |
+| 72 | [capelli argento](https://open.spotify.com/track/6X6YsGktlDluoeJe8yqABk) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [capelli argento](https://open.spotify.com/album/4kIaY31mPD8bgxwHO2RK9l) | 5:26 |
 | 73 | [Città Vuota](https://open.spotify.com/track/1aR9CezJ5mD5EreEOG3dfJ) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Città Vuota](https://open.spotify.com/album/0qw9BHHBGQH6ndubuVQQv2) | 3:00 |
 | 74 | [Non mi piacciono molto le persone](https://open.spotify.com/track/14aOkx32393qcpP5eGyuDK) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Non mi piacciono molto le persone](https://open.spotify.com/album/1r2ma6dnoestJWOwD99X9x) | 2:11 |
 | 75 | [SCUSE](https://open.spotify.com/track/50OhtW0VEOPmpdy6sSOpEO) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [SCUSE](https://open.spotify.com/album/4JEIy83Z0taS68Mfi4UmjN) | 4:20 |

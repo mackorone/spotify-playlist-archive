@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-99 songs - 4 hr 28 min
+103 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [639 Hz Beginning](https://open.spotify.com/track/5O3OpZk3AwQ3GVVXXLf5HT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 2:36 | 2023-08-07 |  |
 | [639 Hz Connectivity](https://open.spotify.com/track/1r2SpKKPyueqs8Pl1FDoNa) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [639 Hz Connectivity](https://open.spotify.com/album/7iyC6R4UlbrFSEye8PyknH) | 2:45 | 2023-03-10 |  |
 | [639 Hz Constraint Object](https://open.spotify.com/track/3f8QpARoDmP1YG8l5F0iPz) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [639 Hz Constraint Object](https://open.spotify.com/album/50kS0Uu1IkQ46gti8smGLW) | 3:37 | 2025-02-05 |  |
+| [639 Hz Continous Flow](https://open.spotify.com/track/0ieVLkaE3ntmq5D6GkuMNI) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [639 Hz Continous Flow](https://open.spotify.com/album/4efGGs88qTZSl48nM9ImUq) | 2:59 | 2025-04-29 |  |
 | [639 Hz Dream Sequence](https://open.spotify.com/track/4rdBbXpduqE14WnYfUQP6r) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 3:16 | 2023-08-07 |  |
 | [639 Hz Empathic Soundscape](https://open.spotify.com/track/6xOL5TQziZNGFrkeBnWoj4) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Empathic Soundscape](https://open.spotify.com/album/0Uunjmq01Xrln9ptmMi6dW) | 2:27 | 2024-04-07 |  |
 | [639 Hz Environment Communication](https://open.spotify.com/track/5eHHAilXCHepFuUldE2UEg) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Reconnection](https://open.spotify.com/album/4d7nXul9yQTDRhXFGry3EL) | 2:55 | 2023-03-10 |  |
@@ -42,6 +43,7 @@
 | [639 Hz Heart Serenity](https://open.spotify.com/track/7pCS1t6C3FSoejqdiDXB62) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [639 Hz Heart Serenity](https://open.spotify.com/album/4UVECKeVbDBc267c85DjVm) | 2:34 | 2023-11-30 |  |
 | [639 Hz La Lune](https://open.spotify.com/track/69yd4WSWHvCFG751mrfB5L) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [639 Hz La Lune](https://open.spotify.com/album/4qmmi6Nt4qWKWn9q9QqrEX) | 2:31 | 2023-08-07 |  |
 | [639 Hz Ode to Togetherness](https://open.spotify.com/track/1Jox4HvDJ7drTxXNZRPtXN) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [639 Hz Ode to Togetherness](https://open.spotify.com/album/4QMwLj6lw3ovT7WCPEzRCk) | 2:55 | 2024-07-23 |  |
+| [639 Hz Pont de Connexion](https://open.spotify.com/track/589RarNuxNLfSZWXv5ZVH2) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [639 Hz Pont de Connexion](https://open.spotify.com/album/7HODXjZdJJ5lPe7wsVpLZU) | 3:15 | 2025-04-29 |  |
 | [639 Hz Positive Heart Vibrations](https://open.spotify.com/track/11izBuani5wD5hORh2jB2D) | [Manifestation Frequencies](https://open.spotify.com/artist/3MfO8CtIFvWFwGFGgnt5xM) | [639 Hz for Manifesting](https://open.spotify.com/album/6LkLxhynLGvbtO6k4rsV6V) | 1:44 | 2023-03-10 | 2024-03-14 |
 | [639 HZ Positive Transformation](https://open.spotify.com/track/0LQYGTINm3jg8jfol8SrvX) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [639 HZ Positive Transformation](https://open.spotify.com/album/5BAnjer2wYcr8rmMr7l0pj) | 2:34 | 2023-03-10 | 2024-11-21 |
 | [639 Hz Quantum Waves](https://open.spotify.com/track/0ZiAAJc1PHPMQSla7cvImN) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Open Mindset Solfeggio](https://open.spotify.com/album/75zQejIX7nzbkehdw3NwVh) | 3:00 | 2023-08-07 |  |
@@ -57,10 +59,12 @@
 | [639hz Harmonious Relationships](https://open.spotify.com/track/43MDPj2XTxU4MKRjyQlfUp) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:37 | 2023-11-30 |  |
 | [639hz Harmony in Life](https://open.spotify.com/track/3TIp4sDFkqRl7XB6RgN1Qb) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:37 | 2023-11-30 |  |
 | [8 Chakras Bowls](https://open.spotify.com/track/0kwMHFxP9H3O2Oadsr9pKs) | [Mudra Namaste](https://open.spotify.com/artist/6XZIdr8nOkD1dbZitX03Oz) | [Salutation Bowls](https://open.spotify.com/album/4CnXQPBebTT6Z5Z6dxnENT) | 2:37 | 2023-03-10 |  |
+| [Aligned 639 Hz](https://open.spotify.com/track/0FkrCGLyvpQf6EN0GmLtHi) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [Aligned 639 Hz](https://open.spotify.com/album/0B4BFfR1XT6924zAFFIaKM) | 2:57 | 2025-04-29 |  |
 | [Anahata](https://open.spotify.com/track/0YzFRiN9WcMXLuwNmA0czG) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Ben Tavera King & Native Flute Ensemble](https://open.spotify.com/artist/1Q22azjP5FFbyeWE3sYn4D) | [Healing Flute Chakras \(Native American & Indian Flute for Massage, Spa, Yoga & Relaxation\)](https://open.spotify.com/album/0AyNpOYY3hL5haZQlgTUra) | 1:03 | 2023-03-10 | 2023-12-14 |
 | [Anahata Heart Chakra](https://open.spotify.com/track/3vfxDRwpHBbn1Fa2HE93r7) | [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c), [Instrumental Zone](https://open.spotify.com/artist/2n5ur2MSvLE1XOfGs1cYKX) | [Chakra Meditation](https://open.spotify.com/album/70i2hi6CzACmxg9LSdcLfh) | 2:50 | 2023-03-10 | 2024-11-21 |
 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 | 2023-03-10 |  |
 | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/track/2gtEwLuFIQQ5YKHJPn1OiD) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/album/29DyukLyhMHOGDoL0M1Ywt) | 2:33 | 2024-11-07 |  |
+| [Calm Horizon 639Hz](https://open.spotify.com/track/1p09Iby0aUPO9hWyJGzDQI) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [Calm Horizon 639Hz](https://open.spotify.com/album/3I8RJ9xH2MIhE7EXJjFLnm) | 2:50 | 2025-04-29 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-03-10 |  |
 | [Compassion](https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY) | [Heart Chakra](https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO) | [Compassion](https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS) | 3:46 | 2023-11-30 | 2024-07-24 |
 | [Connections 639 Hz](https://open.spotify.com/track/3Zg95dV0Ydwl80T6UBpHgQ) | [Chaccara](https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q) | [Connections 639 Hz](https://open.spotify.com/album/1GZYbaJpXp3hzpPyd0KnBn) | 2:29 | 2023-03-10 | 2024-11-21 |

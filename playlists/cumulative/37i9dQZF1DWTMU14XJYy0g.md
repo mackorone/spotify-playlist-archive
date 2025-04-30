@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 El Zar.
 
-377 songs - 23 hr 29 min
+378 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 | 2024-03-23 |
 | [Abrazame](https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Abrazame](https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052) | 4:28 | 2024-05-31 | 2025-03-08 |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-22 |  |
+| [ADRENALINA](https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [ADRENALINA](https://open.spotify.com/album/0DgyRVddvD2CJZj1k9j8vC) | 2:17 | 2025-04-29 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-07-29 |
 | [Al Límite](https://open.spotify.com/track/3iG2svHzJCwv3i75sc83Vv) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 4:33 | 2025-02-21 |  |
 | [Alejado de la Red](https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 3:47 | 2022-06-24 | 2022-11-03 |
@@ -303,7 +304,7 @@
 | [Refugio](https://open.spotify.com/track/1zbJrdazNgbWR88CrUVDAb) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Refugio](https://open.spotify.com/album/6F9syUZJubOERg42FJNHWl) | 4:16 | 2024-12-27 |  |
 | [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 | 2024-02-24 |
 | [Reloj De Plastilina](https://open.spotify.com/track/39TSahzhyETcOxJSoXyFoi) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Reloj De Plastilina](https://open.spotify.com/album/6FGgUO2s8saavc4DGHvvzf) | 2:36 | 2024-03-22 | 2024-09-21 |
-| [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 |  |
+| [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 | 2025-04-30 |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |
 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 | 2024-09-12 | 2025-03-08 |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |

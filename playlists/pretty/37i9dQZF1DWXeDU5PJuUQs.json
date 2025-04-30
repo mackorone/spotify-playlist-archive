@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 218706,
+  "num_followers": 218835,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,42 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
+        "name": "P\u00e1jaro y Demonio (En Vivo en Estadio Ferro)",
+        "url": "https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 251223,
+      "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
+      "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
         "name": "Atorrante (Luna Park) [En Vivo]",
         "url": "https://open.spotify.com/album/0ASiPR9YvJTNbqIAdImg85"
       },
@@ -863,38 +899,18 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
         }
       ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
-        "name": "P\u00e1jaro y Demonio (En Vivo en Estadio Ferro)",
-        "url": "https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 251223,
-      "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
-      "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -915,22 +931,6 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
-      },
-      "artists": [
-        {
-          "name": "Carlos Montalvo",
-          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Sin ti no se vivir",
-      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Una Calle Nos Separa - En Vivo",
-      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
-    },
-    {
-      "added_at": "2025-04-25 03:00:32",
-      "album": {
         "name": "Y Tu Te Vas / P\u00eddeme",
         "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 145124,
       "name": "Yo tomo licor - En Vivo",
       "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
+    },
+    {
+      "added_at": "2025-04-25 03:00:32",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2025-04-25 03:00:32",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-04-25 03:00:32",
       "album": {
-        "name": "La Guerra de los Colores",
-        "url": "https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh"
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 114058,
-      "name": "Dejame Amarte",
-      "url": "https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF"
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     }
   ],
   "unique_name": "Vivo de Cumbia",

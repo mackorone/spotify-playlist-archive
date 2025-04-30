@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-189 songs - 12 hr 52 min
+190 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 | 2022-09-29 | 2024-04-19 |
 | [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 | 2022-06-21 | 2022-11-14 |
 | [Into the Sky](https://open.spotify.com/track/6tlNCRtMwXKf0gw33ynf3X) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [Into the Sky](https://open.spotify.com/album/4PT63MlJlgFJtBYoNNjMxW) | 3:49 | 2022-06-07 |  |
+| [JEOPARDY](https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [JEOPARDY](https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL) | 3:57 | 2025-04-29 |  |
 | [Keep on keeping on <MODv>](https://open.spotify.com/track/2g6To9Iv78g0o7An2gPgcA) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:44 | 2022-06-07 |  |
 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 | 2022-06-07 |  |
 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 | 2022-06-07 |  |
@@ -122,7 +123,7 @@
 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 | 2024-01-16 |  |
 | [puzzle](https://open.spotify.com/track/0aOrApqjckQ2X9RPefGWNq) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 3:01 | 2024-01-09 |  |
 | [Reaper](https://open.spotify.com/track/2KKa0QOBvPUlLxYh2xSTBZ) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [Reaper](https://open.spotify.com/album/6xRgl7P9n5KmNgNV70YaE8) | 3:08 | 2024-03-26 |  |
-| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-07 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-07 |  |
 | [Remind You](https://open.spotify.com/track/65wILiMv7t8DN4wweVQT0C) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 4:56 | 2022-06-21 | 2024-04-19 |
 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 | 2022-06-07 |  |
 | [Reminiscing](https://open.spotify.com/track/5HaYkKZ0bsisESMVZpljWw) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:51 | 2023-03-21 |  |

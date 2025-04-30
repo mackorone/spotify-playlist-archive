@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Blond",
+        "url": "https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172088,
+      "name": "Blond",
+      "url": "https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 168263,
       "name": "Bonanza",
       "url": "https://open.spotify.com/track/3edohA9RKNNDPyKyAmc8tH"
@@ -2318,6 +2336,24 @@
       "duration_ms": 166780,
       "name": "Chords In D",
       "url": "https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9"
+    },
+    {
+      "album": {
+        "name": "Cidade Velha",
+        "url": "https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148323,
+      "name": "Cidade Velha",
+      "url": "https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG"
     },
     {
       "album": {
@@ -5188,6 +5224,24 @@
       "duration_ms": 182280,
       "name": "Grande Amor",
       "url": "https://open.spotify.com/track/6RcwhPdGVFmMQG8rhAfItJ"
+    },
+    {
+      "album": {
+        "name": "Grandpa's Old Guitar",
+        "url": "https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo"
+      },
+      "artists": [
+        {
+          "name": "Mateo Morel",
+          "url": "https://open.spotify.com/artist/6pzAMEBXNqLJF2lhG4lwgk"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142232,
+      "name": "Grandpa's Old Guitar",
+      "url": "https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX"
     },
     {
       "album": {
@@ -9494,7 +9548,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 135499,
       "name": "Northampton",
       "url": "https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ"
@@ -10250,7 +10304,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 145596,
       "name": "Pavane",
       "url": "https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj"

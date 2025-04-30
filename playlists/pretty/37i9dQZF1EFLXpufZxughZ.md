@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 138 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 138 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 92 | [Talk a Good Game](https://open.spotify.com/track/2VcealriqEgFRmdxlgXXCu) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 3:23 |
 | 93 | [Damaged](https://open.spotify.com/track/6S1tjR6PtQRXnC3a4lCjDE) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:36 |
 | 94 | [Obama Coupe](https://open.spotify.com/track/12Kfuzg1Wo3s3BTguGUaD9) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:43 |
-| 95 | [Zero](https://open.spotify.com/track/78fm8tzHKEM47JmO9Nitca) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Woman To Woman \(Deluxe\)](https://open.spotify.com/album/2Zhm90xX10FfDsLkMP8E7d) | 4:07 |
-| 96 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 95 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 96 | [Zero](https://open.spotify.com/track/78fm8tzHKEM47JmO9Nitca) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Woman To Woman \(Deluxe\)](https://open.spotify.com/album/2Zhm90xX10FfDsLkMP8E7d) | 4:07 |
 | 97 | [Make A Toast](https://open.spotify.com/track/624Qb8O6EKwQaq8nDPzHwW) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 4:26 |
 | 98 | [Speed Racing](https://open.spotify.com/track/6QSsY6S3tr1pZWKcRq13Zn) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rich Forever 4](https://open.spotify.com/album/4dLLebdeyxmLDUOmUgmkEg) | 3:24 |
 | 99 | [Love For You \(feat\. Emanny\)](https://open.spotify.com/track/5Sz9YvcRaz8KrnypGOew9u) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [Emanny](https://open.spotify.com/artist/23zEEtmthkZdvz8j0LQHHo) | [All Love Lost](https://open.spotify.com/album/38jzfwvKmwgz4pKbPubaIY) | 6:20 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 112 | [Dime](https://open.spotify.com/track/3aiopvlbadQySEYnycJ7kV) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:36 |
 | 113 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 114 | [Been Gone](https://open.spotify.com/track/7CWvBBYSGmwkteQ5IGg6V5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/0pd3q6RmQe1OzAg95pKkmM) | 3:35 |
-| 115 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
-| 116 | [Save Your Breath \(Feat\. Williane 108, Charmie, Taborah Johnson and Tynomi Banks\)](https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Williane 108](https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR), [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1), [Taborah Johnson](https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm), [Tynomi Banks](https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:59 |
+| 115 | [Save Your Breath \(Feat\. Williane 108, Charmie, Taborah Johnson and Tynomi Banks\)](https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Williane 108](https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR), [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1), [Taborah Johnson](https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm), [Tynomi Banks](https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:59 |
+| 116 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
 | 117 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
 | 118 | [Fortunate](https://open.spotify.com/track/0xQoL9oDujnzD0TgM61H83) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Fortunate](https://open.spotify.com/album/44oH5T2kPyYzPj8s4ctxkz) | 2:15 |
 | 119 | [Sunshine \- In Studio](https://open.spotify.com/track/6tQsHftopPaC1toeH5CV9v) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [BOY \(In Studio\)](https://open.spotify.com/album/7J7UwPas7q9pAy8c1EyBdR) | 3:58 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbwBCgAAAABRhgpSIrfG8g8wXAc9quTQ`
+Snapshot ID: `AbwGqgAAAADFQAPmkkxz5IQEolMQ0Ia8`

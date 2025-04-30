@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,262 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,252 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 77 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
 | 78 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |
 | 79 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
-| 80 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 |
-| 81 | [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 |
+| 80 | [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 |
+| 81 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 |
 | 82 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 |
 | 83 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 |
 | 84 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |

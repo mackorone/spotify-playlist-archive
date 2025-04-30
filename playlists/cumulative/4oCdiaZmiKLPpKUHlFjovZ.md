@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-144 songs - 6 hr 11 min
+145 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
+| [Amen](https://open.spotify.com/track/3Q5b9lTrxvv6f8jLX4M6VJ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Amen](https://open.spotify.com/album/5Rqj746qniBVcnLT4QglB5) | 3:17 | 2025-04-29 |  |
 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 | 2024-06-01 |  |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2023-12-01 | 2025-03-05 |
 | [bad](https://open.spotify.com/track/3hGZtt2x9bI55HgxdSrCam) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [bad](https://open.spotify.com/album/10PpQ78gSUR9qTJZacpqmF) | 2:25 | 2025-02-24 |  |

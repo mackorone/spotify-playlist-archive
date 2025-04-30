@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20540,
+  "num_followers": 20545,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-04-14 17:32:45",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2025-04-14 17:32:45",
+      "album": {
         "name": "Quem Me Guia",
         "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 149575,
       "name": "Quem Me Guia",
       "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2025-04-14 17:32:45",
-      "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2025-04-14 17:32:45",
@@ -811,22 +811,22 @@
     {
       "added_at": "2025-04-14 17:32:45",
       "album": {
-        "name": "ACREDITOU?",
-        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
       },
       "artists": [
         {
-          "name": "TchutchuB",
-          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 195918,
-      "name": "ACREDITOU?",
-      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2025-04-14 17:32:45",
@@ -871,22 +871,22 @@
     {
       "added_at": "2025-04-14 17:32:45",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+        "name": "ACREDITOU?",
+        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "TchutchuB",
+          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
+      "duration_ms": 195918,
+      "name": "ACREDITOU?",
+      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
     },
     {
       "added_at": "2025-04-14 17:32:45",
@@ -935,30 +935,6 @@
     {
       "added_at": "2025-04-14 17:32:45",
       "album": {
-        "name": "Sossega (Nada Mal)",
-        "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
-      },
-      "artists": [
-        {
-          "name": "Thalia Abdon",
-          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Peninha'",
-          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sossega (Nada mal)",
-      "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
-    },
-    {
-      "added_at": "2025-04-14 17:32:45",
-      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2025-04-14 17:32:45",
+      "album": {
+        "name": "Sossega (Nada Mal)",
+        "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
+      },
+      "artists": [
+        {
+          "name": "Thalia Abdon",
+          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Peninha'",
+          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Sossega (Nada mal)",
+      "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
     },
     {
       "added_at": "2025-04-14 17:32:45",

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,699 likes - 48 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,716 likes - 48 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [انا ممتن](https://open.spotify.com/track/4zBo8hbgHlS4P4LQNowTsJ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 2:53 |
 | 2 | [Ya Mali Aeni](https://open.spotify.com/track/3rOEw0f1gpEP6UVrWBoFHN) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:06 |
-| 3 | [مالوم الناس](https://open.spotify.com/track/61szNkyIQza7TQpGrx3fzv) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [مالوم الناس](https://open.spotify.com/album/0set9x3J9VJr6fZGHTVTq3) | 4:36 |
-| 4 | [طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
-| 5 | [جابتني أكتاف](https://open.spotify.com/track/0ZpeYgHARtFSocJsByFIBW) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [جابتني أكتاف](https://open.spotify.com/album/47l1n2F93NTyeBkjoPhwPc) | 3:47 |
-| 6 | [يا طر جيبي](https://open.spotify.com/track/6HWTsOTnlEBduQuK3Mh4vg) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 4:15 |
-| 7 | [غزالة](https://open.spotify.com/track/0hsTQoStIQ4515jW5n8ncd) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غزالة](https://open.spotify.com/album/4lNd9kRlC68Gn9ywZXJ2XK) | 3:05 |
-| 8 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 |
-| 9 | [La Habibi](https://open.spotify.com/track/59oMFuaoYUGYm6Vq9zQclY) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [La Habibi](https://open.spotify.com/album/504YfpyNOeMJ8AK5RWE4fA) | 2:52 |
-| 10 | [Manib Nassi](https://open.spotify.com/track/0s5sGA0ubnI88hEUNwNcY8) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:42 |
-| 11 | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 |
+| 3 | [Ghyabak Youm](https://open.spotify.com/track/6fQoaOR9uvRn5xHlClwTK1) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ghyabak Youm](https://open.spotify.com/album/169L5cCV10RiU6kvWsZU5X) | 4:02 |
+| 4 | [مالوم الناس](https://open.spotify.com/track/61szNkyIQza7TQpGrx3fzv) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [مالوم الناس](https://open.spotify.com/album/0set9x3J9VJr6fZGHTVTq3) | 4:36 |
+| 5 | [طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
+| 6 | [جابتني أكتاف](https://open.spotify.com/track/0ZpeYgHARtFSocJsByFIBW) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [جابتني أكتاف](https://open.spotify.com/album/47l1n2F93NTyeBkjoPhwPc) | 3:47 |
+| 7 | [يا طر جيبي](https://open.spotify.com/track/6HWTsOTnlEBduQuK3Mh4vg) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 4:15 |
+| 8 | [غزالة](https://open.spotify.com/track/0hsTQoStIQ4515jW5n8ncd) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غزالة](https://open.spotify.com/album/4lNd9kRlC68Gn9ywZXJ2XK) | 3:05 |
+| 9 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 |
+| 10 | [La Habibi](https://open.spotify.com/track/59oMFuaoYUGYm6Vq9zQclY) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [La Habibi](https://open.spotify.com/album/504YfpyNOeMJ8AK5RWE4fA) | 2:52 |
+| 11 | [Manib Nassi](https://open.spotify.com/track/0s5sGA0ubnI88hEUNwNcY8) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:42 |
 | 12 | [قنبلة إحساس](https://open.spotify.com/track/0lDi9nTx3SASFv5a8F8cFB) | [Hind](https://open.spotify.com/artist/1fkTlg87igh6cosmAa3TYE) | [قنبلة إحساس](https://open.spotify.com/album/60Gz2RE67SNNpXstHuAB69) | 2:44 |
 | 13 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
 | 14 | [Kul Hesabati](https://open.spotify.com/track/472ToJjQLy6ofCS3txLhLt) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Kul Hesabati](https://open.spotify.com/album/7K8Pe0cHG3LXQ4q1hHJ4xv) | 3:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 47 | [Akher Ensanah](https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Akher Ensanah](https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V) | 2:58 |
 | 48 | [Estihala](https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 6:04 |
 
-Snapshot ID: `aA8yfQAAAACMdQ1RLCHn0OBTxZbPI3XX`
+Snapshot ID: `aBCCMwAAAABH6RWbBMSp5giul1A/nhzM`

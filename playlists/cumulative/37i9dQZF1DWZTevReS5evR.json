@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 283500,
       "name": "Badut Bodoh",
       "url": "https://open.spotify.com/track/7wZhfStC45k8DA1IrJ9hii"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 225031,
       "name": "intentions",
       "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 239379,
       "name": "Kaji Ulang",
       "url": "https://open.spotify.com/track/0aJr8TCz4PONyaZZLnI8RV"
@@ -3321,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -4048,7 +4066,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 163333,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
@@ -4434,6 +4452,28 @@
       "duration_ms": 219352,
       "name": "Tunggu Apa Lagi",
       "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
+    },
+    {
+      "album": {
+        "name": "UH! (ghosted)",
+        "url": "https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF"
+      },
+      "artists": [
+        {
+          "name": "Yotari",
+          "url": "https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR"
+        },
+        {
+          "name": "Saykoji",
+          "url": "https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "UH! (ghosted)",
+      "url": "https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw"
     },
     {
       "album": {

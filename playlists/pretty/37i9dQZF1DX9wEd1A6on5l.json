@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 89011,
+  "num_followers": 89095,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-04-18 00:01:26",
       "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
-    },
-    {
-      "added_at": "2025-04-18 00:01:26",
-      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+    },
+    {
+      "added_at": "2025-04-18 00:01:26",
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2025-04-18 00:01:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-18 00:01:26",
       "album": {
-        "name": "Ramadan",
-        "url": "https://open.spotify.com/album/0G4TiXRosl76yVymeYrBb7"
-      },
-      "artists": [
-        {
-          "name": "Tolibian",
-          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
-        }
-      ],
-      "duration_ms": 130330,
-      "name": "Ramadan",
-      "url": "https://open.spotify.com/track/7dYsCK5dKt2EbNBZhW2p4U"
-    },
-    {
-      "added_at": "2025-04-18 00:01:26",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 185396,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
+    },
+    {
+      "added_at": "2025-04-18 00:01:26",
+      "album": {
+        "name": "Ramadan",
+        "url": "https://open.spotify.com/album/0G4TiXRosl76yVymeYrBb7"
+      },
+      "artists": [
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        }
+      ],
+      "duration_ms": 130330,
+      "name": "Ramadan",
+      "url": "https://open.spotify.com/track/7dYsCK5dKt2EbNBZhW2p4U"
     },
     {
       "added_at": "2025-04-18 00:01:26",

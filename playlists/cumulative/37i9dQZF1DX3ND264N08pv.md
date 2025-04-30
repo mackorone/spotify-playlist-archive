@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-329 songs - 18 hr 3 min
+330 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 | 2023-09-15 |
 | [Hell Of A Ride \- Official Dominator 2022 Anthem](https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Hell Of A Ride \(Official Dominator 2022 Anthem\)](https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d) | 4:11 | 2022-12-08 | 2023-12-22 |
 | [Here To Stay](https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Serouj Guidanian](https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU) | [The Ultimate Killing Machine](https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23) | 3:25 | 2023-05-15 | 2024-11-09 |
-| [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 | 2024-09-09 |  |
+| [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 | 2024-09-09 | 2025-04-30 |
 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 | 2023-04-13 | 2024-06-03 |
 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 | 2024-02-15 | 2025-02-28 |
 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 | 2022-12-08 | 2024-02-05 |
@@ -190,6 +190,7 @@
 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-13 | 2025-04-06 |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
+| [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 | 2025-04-25 |  |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 | 2025-02-27 |  |

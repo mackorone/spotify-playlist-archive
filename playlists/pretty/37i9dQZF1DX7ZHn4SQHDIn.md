@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,980 likes - 108 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,982 likes - 108 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 6 | [Bad Girls R Us](https://open.spotify.com/track/0mfE7vrtspTMJHCpnrF6UC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:02 |
 | 7 | [Supernatural](https://open.spotify.com/track/0Mm4N4N3LWt3bYbKgZRtkL) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:08 |
 | 8 | [FIVE](https://open.spotify.com/track/4up1PhmyktR9JM0fBYOF1D) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:21 |
-| 9 | [VAY \(Feat\. Changbin of Stray Kids\)](https://open.spotify.com/track/1V3Zn1TUGzYui1WCVa04ES) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:41 |
+| 9 | [VAY \(Feat\. Changbin of Stray Kids\)](https://open.spotify.com/track/1V3Zn1TUGzYui1WCVa04ES) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:41 |
 | 10 | [BORN TO BE \(Final Ver.\)](https://open.spotify.com/track/2jAE0rQ3K4dBa4fBjR4GcU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:58 |
 | 11 | [UNTOUCHABLE \(Final Ver.\)](https://open.spotify.com/track/1jtfWC6YrXQPmMfj4oKZNJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:14 |
 | 12 | [Mr\. Vampire \(Final Ver.\)](https://open.spotify.com/track/7JCqPcuh7mD6DSvRhK1UGC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:50 |

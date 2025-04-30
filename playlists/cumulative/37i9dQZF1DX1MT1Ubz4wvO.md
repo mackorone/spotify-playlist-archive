@@ -2,7 +2,7 @@
 
 ### [Novedades Rock](https://open.spotify.com/playlist/37i9dQZF1DX1MT1Ubz4wvO)
 
-> Todas las semanas los nuevos lanzamientos de Rock en español, con Marilina Bertoldi en portada.
+> Todas las semanas los nuevos lanzamientos de Rock en español, con La Texana en portada.
 
 4,180 songs - 10 day 1 hr 41 min
 
@@ -1028,7 +1028,7 @@
 | [El Aire en Llamas](https://open.spotify.com/track/6ptbmu8SJqbfdJ1E2iWvUH) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [El Aire en Llamas](https://open.spotify.com/album/3J1nY3wwRTc1SYJAJX6s9e) | 4:00 | 2023-05-12 | 2023-05-27 |
 | [El Amor es Más Fuerte](https://open.spotify.com/track/5w3Fx77D60wH4CLNG8DnT9) | [Lujuria](https://open.spotify.com/artist/2Edew7ZyaH9y44T9zw5s3R) | [El Amor es Más Fuerte](https://open.spotify.com/album/2FQcVJ7H7LzWmxzAf7V1PD) | 4:27 | 2025-03-21 | 2025-03-29 |
 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 | 2024-07-26 | 2024-08-10 |
-| [El Amor y la Calma](https://open.spotify.com/track/7xn87kFE1uyKj9f2JDizFL) | [Bohemios del Metro](https://open.spotify.com/artist/5Lcmmt7w5MNhx4tHBzqYYX) | [El Amor y la Calma](https://open.spotify.com/album/3DWEDSQlm5ETquXnHEWADn) | 3:36 | 2025-04-25 |  |
+| [El Amor y La Calma](https://open.spotify.com/track/7xn87kFE1uyKj9f2JDizFL) | [Bohemios del Metro](https://open.spotify.com/artist/5Lcmmt7w5MNhx4tHBzqYYX) | [El Amor y La Calma](https://open.spotify.com/album/3DWEDSQlm5ETquXnHEWADn) | 3:36 | 2025-04-25 |  |
 | [El Anillo de Boda](https://open.spotify.com/track/6B39kh9X4I42Wm4VyYSoM8) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Adictos a la Euforia](https://open.spotify.com/album/6aTMeplyq4mICCuY37mpnw) | 6:41 | 2023-02-10 | 2023-02-25 |
 | [El Animal](https://open.spotify.com/track/1Ab76hxgTVQp0aLIzrCMYG) | [Ciclonautas](https://open.spotify.com/artist/34uFdl5yMIlw9cZWzuZ9Yd) | [El Animal](https://open.spotify.com/album/2ZJsOFzjlrGzaVuveLZ2z9) | 4:09 | 2024-12-02 | 2024-12-14 |
 | [El Aniversario](https://open.spotify.com/track/7HDRyTeisdxpumgx0qzq6a) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [El Aniversario](https://open.spotify.com/album/6EKgmBAE0fpAe61hDAt21i) | 2:05 | 2025-02-14 | 2025-02-22 |

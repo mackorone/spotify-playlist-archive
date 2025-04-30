@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS?si=zB5Yt39aTUmPPs2CC5-bZg\">Summer Walker</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=ODYUO-AxRxqrQRgbMg371w\">DJ Maphorisa</a>, <a href=\"https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=MPQG0uQrSCOrK8C4NUjq9w\">Xduppy</a>",
-  "num_followers": 18796,
+  "num_followers": 19431,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -152,20 +152,20 @@
           "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
         },
         {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
           "name": "Stonebwoy",
           "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
         },
         {
           "name": "Chelsea Sloan",
           "url": "https://open.spotify.com/artist/0k6hRybaKVP4LDrmlIHxRB"
         },
         {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
         }
       ],
       "duration_ms": 343098,
@@ -811,42 +811,6 @@
     {
       "added_at": "2025-04-24 22:00:45",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-04-24 22:00:45",
-      "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/1BOMVoUaUwYfEJhvqVACts"
-      },
-      "artists": [
-        {
-          "name": "Carterefe",
-          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/04HaRnRxAv5DdN0qUMQLHB"
-    },
-    {
-      "added_at": "2025-04-24 22:00:45",
-      "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
       },
@@ -875,6 +839,26 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/1BOMVoUaUwYfEJhvqVACts"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/04HaRnRxAv5DdN0qUMQLHB"
     },
     {
       "added_at": "2025-04-24 22:00:45",
@@ -919,6 +903,22 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
       "added_at": "2025-04-24 22:00:45",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2025-04-24 22:00:45",
       "album": {
-        "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
-        "url": "https://open.spotify.com/album/3lUfzGs5XBt5KR4yGhTFmF"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Maradona",
-          "url": "https://open.spotify.com/artist/0KAB9wajGGZViilTCmJieo"
-        },
-        {
-          "name": "QuayR Musiq",
-          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        }
-      ],
-      "duration_ms": 360920,
-      "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"
-    },
-    {
-      "added_at": "2025-04-24 22:00:45",
-      "album": {
         "name": "The III Wise Men",
         "url": "https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB"
       },
@@ -1171,6 +1139,38 @@
       "duration_ms": 381484,
       "name": "Gedlela (feat. Kabelo Sings & Key note)",
       "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
+        "url": "https://open.spotify.com/album/3lUfzGs5XBt5KR4yGhTFmF"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Maradona",
+          "url": "https://open.spotify.com/artist/0KAB9wajGGZViilTCmJieo"
+        },
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "duration_ms": 360920,
+      "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"
     },
     {
       "added_at": "2025-04-24 22:00:45",

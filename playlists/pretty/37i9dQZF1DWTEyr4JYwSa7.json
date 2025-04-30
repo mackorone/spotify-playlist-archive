@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 61476,
+  "num_followers": 61471,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Wonder (Deluxe)",
-        "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 196254,
-      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
-      "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
+      "duration_ms": 227520,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -935,18 +931,22 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Wonder (Deluxe)",
+        "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
+      "duration_ms": 196254,
+      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
+      "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        },
-        {
-          "name": "Melissa Laveaux",
-          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "No\u00ebl Lougawou",
-      "url": "https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 180573,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "Melissa Laveaux",
+          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "No\u00ebl Lougawou",
+      "url": "https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 104793,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 214044,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "duration_ms": 104793,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
     },
     {
       "added_at": "2024-12-13 16:40:18",

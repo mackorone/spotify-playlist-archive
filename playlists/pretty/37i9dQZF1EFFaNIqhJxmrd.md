@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 103 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,10 +106,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 96 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 |
 | 97 | [Afterparties](https://open.spotify.com/track/4LpBxHHAGSFh3hFE5cNYWF) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Afterparties](https://open.spotify.com/album/1Ix2PS3yt0KEfbKSzLYSf1) | 3:04 |
 | 98 | [Patos \(feat\. Conakry & FNY\)](https://open.spotify.com/track/0Snq5llMCUPQWdQtY75Qv9) | [Finess](https://open.spotify.com/artist/4PcgIWHeqqLmAi7kCGiNet), [Conakry](https://open.spotify.com/artist/0tp6dtAt6YCkVnxhrTS9S2), [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [En dag kommer vi skina \- EP](https://open.spotify.com/album/2oWzqPK3soR5ARHBLoXBfh) | 3:48 |
-| 99 | [Forever Yours](https://open.spotify.com/track/21lRcbCWJSbXNy5MMuQgWd) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 2:52 |
-| 100 | [8 långa år](https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 1:16 |
+| 99 | [8 långa år](https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 1:16 |
+| 100 | [Forever Yours](https://open.spotify.com/track/21lRcbCWJSbXNy5MMuQgWd) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 2:52 |
 | 101 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 102 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 |
 | 103 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbwBKAAAAAC0efCaEDEWJuOj/rw/5NM4`
+Snapshot ID: `AbwGyAAAAACsdwODp5WfQCH/+C2rjkXs`

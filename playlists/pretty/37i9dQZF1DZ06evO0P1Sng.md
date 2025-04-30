@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,200 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,202 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Eles Não Ligam Pra Gente](https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eles Não Ligam Pra Gente](https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn) | 6:00 |
 | 50 | [LOVEZY](https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:42 |
 
-Snapshot ID: `aA1zgAAAAAAdxkMuVCWaV6EFIEdQBVJP`
+Snapshot ID: `aA1zgAAAAACALMYmeBvLKNjCR70mXMbQ`

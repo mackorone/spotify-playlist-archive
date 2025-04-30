@@ -2,9 +2,9 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف: كاظم الساهر
+> أحدث الاغاني العراقية\. غلاف: علي صابر
 
-314 songs - 18 hr 28 min
+315 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Al Ghyab](https://open.spotify.com/track/1czSHzAKbN3ToYbOLlZBjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Al Ghyab](https://open.spotify.com/album/57qvqoNwNlpi5DAg0g3FSE) | 4:40 | 2023-09-29 | 2025-04-26 |
 | [Al Hob Ihtmam](https://open.spotify.com/track/7qj9jTyc59xB1JmhsFohA0) | [Adnan Braysem](https://open.spotify.com/artist/6tCa22NbsZWw3dmQF0Ac08) | [Al Hob Ihtmam](https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E) | 3:03 | 2022-02-11 | 2022-06-09 |
 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 | 2022-05-13 | 2022-12-24 |
+| [Al Labwa](https://open.spotify.com/track/3X1y1DXybU2qwj21NeJSte) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Labwa](https://open.spotify.com/album/4LY37NL46MFKXt4yxACTZs) | 3:19 | 2025-04-29 |  |
 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 | 2023-04-05 |
 | [Al Madhaher El Khedaa](https://open.spotify.com/track/6sEx7tKOa01e2PeRch1t3L) | [Haider Al Ghazal](https://open.spotify.com/artist/1g73ySoZbpQo3onMABWzy7) | [Al Madhaher El Khedaa](https://open.spotify.com/album/0RjlkoqoHd6tavBfjU3ee3) | 2:41 | 2021-12-23 | 2022-03-12 |
 | [Al Meezan](https://open.spotify.com/track/4uE2JnxPKpZhNsygER68ra) | [Ammar Al Koofe](https://open.spotify.com/artist/2TqftmUCwKW2DSrmWJ3vwC) | [Al Meezan](https://open.spotify.com/album/7nBA7aPsL94jDDGY04JU8v) | 3:47 | 2023-12-05 |  |
@@ -174,7 +175,7 @@
 | [Khalini Ahess](https://open.spotify.com/track/4nChFBb36g6oNflKniY8Iu) | [Shatha Hassoun](https://open.spotify.com/artist/1lcW1aIAE06YGct3i35aVg) | [Khalini Ahess](https://open.spotify.com/album/37kgk3tZWy2T7ytdWtJtdi) | 3:36 | 2021-12-23 | 2022-03-25 |
 | [Kharetat Rohi](https://open.spotify.com/track/1WsM8j2SPwxZES5qYDUChG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Kharetat Rohi](https://open.spotify.com/album/4QrsKBnixRWc2fPzDL1Ozu) | 3:18 | 2024-02-08 | 2024-10-18 |
 | [khayef Akhsarah](https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [khayef Akhsarah](https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs) | 4:07 | 2023-05-02 | 2024-02-07 |
-| [Khema](https://open.spotify.com/track/6ZzPdpkD792JLNdZWepaqp) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Khema](https://open.spotify.com/album/3ypLvgt1jBwMIVcUTdTjmU) | 4:08 | 2023-10-06 |  |
+| [Khema](https://open.spotify.com/track/6ZzPdpkD792JLNdZWepaqp) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Khema](https://open.spotify.com/album/3ypLvgt1jBwMIVcUTdTjmU) | 4:08 | 2023-10-06 | 2025-04-30 |
 | [Khithlanek](https://open.spotify.com/track/338MhIVwiTj6xGGf7Qr2O0) | [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Khithlanek](https://open.spotify.com/album/3ZjxOTp9GzO57dRa7C8pz6) | 3:58 | 2021-12-23 | 2022-03-12 |
 | [Khont We Tandemt](https://open.spotify.com/track/5mPD8KOs9PTGKCrjP87IV5) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khont We Tandemt](https://open.spotify.com/album/27eOhCtHiFlBKmirkupKdd) | 4:04 | 2021-12-23 | 2022-05-07 |
 | [Kilshi Madayim](https://open.spotify.com/track/2d5ZY8RmnfKpjt9p60rrzH) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Kilshi Madayim](https://open.spotify.com/album/4CTIHJlVjVlR34FGTySUDh) | 3:38 | 2022-02-11 | 2022-06-09 |

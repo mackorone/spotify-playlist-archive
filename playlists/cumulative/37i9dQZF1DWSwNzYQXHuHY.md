@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-258 songs - 14 hr 27 min
+259 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 | 2023-12-09 | 2024-03-09 |
 | [What are you thinking about?](https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Someone's playlist \#2](https://open.spotify.com/album/2mvcfZb6tMU4iJheHHhdYM) | 3:35 | 2022-05-11 | 2022-07-23 |
 | [What Shall I Do?](https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx) | [12DAL](https://open.spotify.com/artist/6Y2UFKStWOiUYxIDE5QFKn) | [What Shall I Do?](https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp) | 3:41 | 2022-05-11 | 2022-07-28 |
-| [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW) | [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt) | 2:36 | 2024-05-14 |  |
+| [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW) | [What's On Your Mind? \(Feat\. UNE\)](https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt) | 2:36 | 2024-05-14 | 2025-04-30 |
 | [Where Is Dream](https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B) | 3:03 | 2022-05-11 | 2023-06-04 |
 | [Where Is Dream](https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu) | 3:03 | 2023-05-31 | 2024-03-09 |
 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 | 2023-05-02 | 2023-11-04 |
@@ -254,6 +254,7 @@
 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 | 2022-05-11 | 2023-12-17 |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2024-03-08 |  |
 | [고백 Confession](https://open.spotify.com/track/4jb4QF8FfbXHEJNRq9pvha) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [If We Love Without Romance](https://open.spotify.com/album/3ER2RxVe5nCZGWczY1FQbb) | 3:35 | 2022-06-20 | 2022-07-15 |
+| [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 | 2025-04-29 |  |
 | [길어야 5분 That 5 Minutes](https://open.spotify.com/track/2Yi4Zlcqmt3ibLeOoRnVuT) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [길어야 5분 That 5 Minutes](https://open.spotify.com/album/6rJPlu6dgjqFLVPqhF5Lzt) | 3:24 | 2022-05-11 | 2022-07-27 |
 | [너에게 가는 길](https://open.spotify.com/track/3J9jbPG5SqcUZbcnWmb08f) | [Bbalganyangmal](https://open.spotify.com/artist/02ThU5xgjGLsJBR4RspMwK), [리나](https://open.spotify.com/artist/2B3T35L0Of5Pm95dcHHRoG) | [너에게 가는 길](https://open.spotify.com/album/6ZqxRKESlYRFzys4Ae1wLf) | 3:04 | 2022-05-11 | 2022-07-20 |
 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 | 2024-03-08 | 2025-04-23 |

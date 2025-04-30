@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-872 songs - 1 day 19 hr 15 min
+878 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 | 2021-12-21 | 2023-01-21 |
 | [Arriving in the Future](https://open.spotify.com/track/5mlBO8SStnPwBA4rikjbuv) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Timer](https://open.spotify.com/album/1pAjumjFCEGFFtBqBUPYwE) | 3:33 | 2021-12-21 | 2022-10-04 |
 | [As above so below](https://open.spotify.com/track/5KUIGl2aGyS0KirRgUInZZ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [As above so below](https://open.spotify.com/album/3OxtzMCyNRzeLgVSe5E4z7) | 3:20 | 2024-12-19 |  |
+| [Ascend](https://open.spotify.com/track/2hItKZtonkrYjLtJ4LJi8n) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Ascend](https://open.spotify.com/album/5xgEDd5nse8DRA1BRh34a0) | 3:01 | 2025-04-29 |  |
 | [Ascendent](https://open.spotify.com/track/2q5DbObik0nrip9HPAdBi1) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:58 | 2022-06-22 | 2023-08-11 |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-05-31 | 2024-09-19 |
 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2022-11-25 | 2023-08-11 |
@@ -157,6 +158,7 @@
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-14 | 2023-01-21 |
 | [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 | 2023-02-09 |  |
 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 | 2022-11-25 | 2023-01-04 |
+| [Cherished](https://open.spotify.com/track/0FlUS5nOWAuv1X4pEOG4kw) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Cherished](https://open.spotify.com/album/3C1vQcBUMpohPkGIjWTlZ4) | 2:37 | 2025-04-29 |  |
 | [Choices](https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Rebirth](https://open.spotify.com/album/15HpGCrBSILKo4XjPgTocD) | 3:12 | 2022-10-15 | 2023-08-11 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2021-12-21 | 2022-10-04 |
 | [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-06-20 |  |
@@ -164,6 +166,7 @@
 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2022-03-24 | 2022-10-16 |
 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 | 2024-12-19 |  |
 | [Circulate](https://open.spotify.com/track/6KLiC9xdmpnmAnymiHjHyW) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Circulate](https://open.spotify.com/album/6tdMCe7lkHVunZNiWhf3Ir) | 3:02 | 2024-12-12 |  |
+| [Cirrus](https://open.spotify.com/track/3bFVLAja0OzPwbol1SCOTI) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Cirrus](https://open.spotify.com/album/43chA0u8Y33G8eumvyMYVX) | 3:27 | 2025-04-29 |  |
 | [Clear Sky](https://open.spotify.com/track/4k5oOvK8WX8P2JGYycYBgV) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Clear Sky](https://open.spotify.com/album/3wW4kOfb8zOKHkRmC4iddj) | 2:38 | 2025-03-26 |  |
 | [Cloud Jumping](https://open.spotify.com/track/00bauDnMAMynuMfOA9nGiq) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Cloud Jumping](https://open.spotify.com/album/3uNISiwQRief8WXrJt4qXd) | 3:11 | 2025-03-26 |  |
 | [Clouds Part](https://open.spotify.com/track/7ynEnHDa88G4wX0KvtzCxP) | [Stol Perez](https://open.spotify.com/artist/7vX6lEYQpX7Eh81wa9LxGP) | [Clouds Part](https://open.spotify.com/album/73h8fitLHaGy0ttdecDDMn) | 2:58 | 2021-12-21 | 2022-07-29 |
@@ -265,6 +268,7 @@
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-06-20 |  |
 | [Ervaringen](https://open.spotify.com/track/0zB2ZzWQlKvqp3xMngjcIZ) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Ervaringen](https://open.spotify.com/album/0KEzTTrTHvuyK0v2fR39cO) | 2:25 | 2022-12-14 | 2025-01-08 |
 | [Escape Gravity](https://open.spotify.com/track/0yyWxyeHt09K786RjTs6KH) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:51 | 2021-12-21 | 2022-08-12 |
+| [Esoteric](https://open.spotify.com/track/1CS8gyzijBq8WVr87aWQYk) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Esoteric](https://open.spotify.com/album/0CCa3J5cHdMNIBNiqFIQHv) | 2:43 | 2025-04-29 |  |
 | [Espacio de Tiempo](https://open.spotify.com/track/5LgCsBWN1tqi2wIobVWil7) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Espacio de Tiempo](https://open.spotify.com/album/17imW27IdjDTToP8dsDsg6) | 2:57 | 2022-05-31 | 2022-11-26 |
 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 | 2021-12-21 | 2022-09-23 |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2023-01-03 |  |
@@ -498,6 +502,7 @@
 | [Morning Rain](https://open.spotify.com/track/6XbDqOFRhuOjKzo4uFbdw2) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:28 | 2021-12-21 | 2022-07-29 |
 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 | 2022-08-11 | 2024-11-19 |
 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 | 2021-12-21 | 2022-07-29 |
+| [Moving Mountains](https://open.spotify.com/track/4jXyWJtLG6htoc56mmfykh) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Moving Mountains](https://open.spotify.com/album/3q490sQOnGe9kItWUE7997) | 3:00 | 2025-04-29 |  |
 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-25 | 2024-10-03 |
 | [Must Be Real](https://open.spotify.com/track/4e9nh4ytV1l6ldBKhaAPxS) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Must Be Real](https://open.spotify.com/album/5YdSHKqh4g8XJmYDLJMsYI) | 3:30 | 2025-01-29 |  |
 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-15 | 2024-09-19 |
@@ -583,6 +588,7 @@
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-29 | 2025-01-08 |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-06-20 |  |
 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 | 2023-08-11 | 2025-01-30 |
+| [Point of View](https://open.spotify.com/track/3ZzOr8m5EjFoXMah705Kk2) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Point of View](https://open.spotify.com/album/20GrGDlErhsCRGZDN2UOlu) | 2:21 | 2025-04-29 |  |
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2022-09-01 | 2023-01-21 |
 | [Positive Reaction](https://open.spotify.com/track/2iU9lxQ5XbDn1TVYVl2ciQ) | [Pretoqi](https://open.spotify.com/artist/4mPtfT4HNXKbghcssDspnW) | [Lost In Reality](https://open.spotify.com/album/6tzlO26AszLOwt0kJBwagX) | 3:10 | 2023-06-20 |  |
 | [Positivism](https://open.spotify.com/track/7ovwhb6RLkFOYXKoQDW6RS) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Positivism](https://open.spotify.com/album/04BNSX153NEAwpVzNkF6ta) | 2:25 | 2024-12-19 |  |
@@ -683,7 +689,7 @@
 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-11-25 | 2023-08-30 |
 | [Serenede](https://open.spotify.com/track/59RgVD5OaEP23JhlmmMyiF) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Serenade](https://open.spotify.com/album/3AfPQxx0pD4kUpOOnhp0ek) | 3:58 | 2023-08-11 | 2025-03-12 |
 | [Serenity's Embrace](https://open.spotify.com/track/5UG6Uc0IgCgBnjFwN1zNMe) | [Echoella](https://open.spotify.com/artist/2JuyhYpdLougs9BMiRdEtM) | [Serenity's Embrace](https://open.spotify.com/album/7CCjJHAiJ5mVYHfH5UQsrK) | 3:14 | 2024-06-10 |  |
-| [Shaded Cosmos](https://open.spotify.com/track/3uvYdddUFjnlW9ONU4k4eD) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Shaded Cosmos](https://open.spotify.com/album/0GQ0KcLnEwMAAaI3Qf7Von) | 2:32 | 2024-02-14 |  |
+| [Shaded Cosmos](https://open.spotify.com/track/3uvYdddUFjnlW9ONU4k4eD) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Shaded Cosmos](https://open.spotify.com/album/0GQ0KcLnEwMAAaI3Qf7Von) | 2:32 | 2024-02-14 | 2025-04-30 |
 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 | 2024-01-26 | 2024-11-29 |
 | [Shadows](https://open.spotify.com/track/6fdDm8BUpOpM5fbxv3zhSZ) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Shadows](https://open.spotify.com/album/1RqHF0Lf1nrRnExXA9Tpjg) | 3:11 | 2022-09-01 | 2023-01-21 |
 | [Shania](https://open.spotify.com/track/4qT4Srv4tmsn94cl0S0SzZ) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Shania](https://open.spotify.com/album/2q0jUrQW9uSwfr1EtXnBP4) | 2:22 | 2022-09-01 | 2023-01-04 |
@@ -851,7 +857,7 @@
 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 | 2021-12-21 | 2022-10-04 |
 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-08-11 | 2022-10-16 |
 | [Water Poem](https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Water Poem](https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5) | 2:40 | 2022-06-22 | 2024-12-03 |
-| [We Belong Here](https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [We Belong Here](https://open.spotify.com/album/5X9ocpEU3hId5Xqi2sHAEa) | 3:02 | 2023-08-11 |  |
+| [We Belong Here](https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [We Belong Here](https://open.spotify.com/album/5X9ocpEU3hId5Xqi2sHAEa) | 3:02 | 2023-08-11 | 2025-04-30 |
 | [Weary Dreams](https://open.spotify.com/track/548tVTwGSUe72AI0tixG2k) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Weary Dreams](https://open.spotify.com/album/5yaaCjeLwr3MBDRsWr4eGn) | 2:51 | 2025-03-11 |  |
 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-05-31 | 2023-06-21 |
 | [Where Am I](https://open.spotify.com/track/59hLdRxYwtfOXfaBJynt1v) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Where Am I](https://open.spotify.com/album/7isodegQHZWApjoruK7E4W) | 3:54 | 2023-01-03 |  |

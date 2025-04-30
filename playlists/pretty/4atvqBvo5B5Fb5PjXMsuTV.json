@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Apr 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Apr 18:03 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAReMZSlFhJ/YRgGuv2L67aeN+pwleq",
+  "snapshot_id": "AAARfECaTGU3iwMSlQ7fPCL/a8hZXf1n",
   "tracks": [
+    {
+      "added_at": "2025-04-29 18:03:56",
+      "album": {
+        "name": "The Catastrophe (Good Luck With That, Man)",
+        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 328052,
+      "name": "The Catastrophe (Good Luck With That, Man)",
+      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
+    },
+    {
+      "added_at": "2025-04-29 18:03:56",
+      "album": {
+        "name": "Melodie Is A Wound",
+        "url": "https://open.spotify.com/album/5ygWNctbub9K5CBaM8USu5"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 457063,
+      "name": "Melodie Is A Wound",
+      "url": "https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz"
+    },
     {
       "added_at": "2025-04-28 13:04:04",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 225726,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+    },
+    {
+      "added_at": "2025-04-29 13:04:05",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2025-04-25 08:04:23",
@@ -263,6 +311,22 @@
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
+    },
+    {
+      "added_at": "2025-04-29 18:03:56",
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/2ng2h7smH52oleaooKsCTV"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3PyDLRIhkP5H8ox85fEwxb"
     },
     {
       "added_at": "2025-04-27 03:04:08",
@@ -747,70 +811,6 @@
       "duration_ms": 290309,
       "name": "Darkness Always Wins",
       "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
-    },
-    {
-      "added_at": "2025-04-27 03:04:08",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 249069,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
-    },
-    {
-      "added_at": "2025-04-22 08:04:51",
-      "album": {
-        "name": "MONDAY",
-        "url": "https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "MONDAY",
-      "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5"
-    },
-    {
-      "added_at": "2025-04-22 22:04:54",
-      "album": {
-        "name": "square one",
-        "url": "https://open.spotify.com/album/7jUyQYzlSYmHKjNSkV5LRN"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 159092,
-      "name": "square one",
-      "url": "https://open.spotify.com/track/2e3dJat3mFqwPWEF7lQaHu"
-    },
-    {
-      "added_at": "2025-04-24 03:04:19",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J"
     }
   ],
   "unique_name": "New Singles Now",

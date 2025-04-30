@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 129187,
+  "num_followers": 129199,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 231877,
-      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 231877,
+      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -735,18 +735,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+        "name": "Ser\u00e9 Guitarra",
+        "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Maria Jose Mendoza",
+          "url": "https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki"
         }
       ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+      "duration_ms": 215082,
+      "name": "Ser\u00e9 Guitarra",
+      "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -771,22 +775,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Ser\u00e9 Guitarra",
-        "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
       "artists": [
         {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Maria Jose Mendoza",
-          "url": "https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 215082,
-      "name": "Ser\u00e9 Guitarra",
-      "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Pude verte",
-        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "Pude verte",
-      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Pude verte",
+        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "Pude verte",
+      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1385,52 +1385,20 @@
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
     },
     {
-      "added_at": "2025-04-10 22:00:20",
+      "added_at": "2025-04-24 22:00:44",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "Una Vida para M\u00ed",
+        "url": "https://open.spotify.com/album/2hGB7ernv82nlZ6rEvyak3"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "Chiki Lora",
+          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "HAZ LO TUYO",
-        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "nada es para siempre (As\u00ed)",
-      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+      "duration_ms": 193475,
+      "name": "Una Vida para M\u00ed",
+      "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1455,6 +1423,38 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+      },
+      "artists": [
+        {
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+        }
+      ],
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 263441,
       "name": "Ag\u00fcita del equilibrio",
       "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "HAZ LO TUYO",
+        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "nada es para siempre (As\u00ed)",
+      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1507,42 +1523,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Nana Huracanada",
-        "url": "https://open.spotify.com/album/3vBaYl0h7xTkgxe2U72VBZ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Guada\u00f1a",
-          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
-        },
-        {
-          "name": "Kike Ganso",
-          "url": "https://open.spotify.com/artist/36tPNZknXnTBC0LcuxEXgU"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Nana Huracanada",
-      "url": "https://open.spotify.com/track/7ngsxv8EkSTXWXc5Gcz7zz"
-    },
-    {
-      "added_at": "2025-04-24 22:00:44",
-      "album": {
-        "name": "Una Vida para M\u00ed",
-        "url": "https://open.spotify.com/album/2hGB7ernv82nlZ6rEvyak3"
-      },
-      "artists": [
-        {
-          "name": "Chiki Lora",
-          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Una Vida para M\u00ed",
-      "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Todas Las Banderas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
@@ -1563,6 +1543,26 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Nana Huracanada",
+        "url": "https://open.spotify.com/album/3vBaYl0h7xTkgxe2U72VBZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Guada\u00f1a",
+          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
+        },
+        {
+          "name": "Kike Ganso",
+          "url": "https://open.spotify.com/artist/36tPNZknXnTBC0LcuxEXgU"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Nana Huracanada",
+      "url": "https://open.spotify.com/track/7ngsxv8EkSTXWXc5Gcz7zz"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+    },
+    {
+      "added_at": "2025-04-24 22:00:44",
+      "album": {
+        "name": "Te quiere todo el mundo",
+        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
+      },
+      "artists": [
+        {
+          "name": "Pablo Und Destruktion",
+          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
+        }
+      ],
+      "duration_ms": 200998,
+      "name": "La reacci\u00f3n sexual",
+      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1667,50 +1667,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Codas",
-        "url": "https://open.spotify.com/album/2RMgN4x9NkhYXgkQBDdclR"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
       "artists": [
         {
-          "name": "Marina Paredes",
-          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 280257,
-      "name": "Codas",
-      "url": "https://open.spotify.com/track/4rQfgxG9sKSJzvsHibwBrl"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "S\u00edgueme",
-        "url": "https://open.spotify.com/album/3ii6PrA2My1Pz2nnOzmUs9"
-      },
-      "artists": [
-        {
-          "name": "Ove",
-          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
-        }
-      ],
-      "duration_ms": 231642,
-      "name": "S\u00edgueme",
-      "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
-    },
-    {
-      "added_at": "2025-04-24 22:00:44",
-      "album": {
-        "name": "Te quiere todo el mundo",
-        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
-      },
-      "artists": [
-        {
-          "name": "Pablo Und Destruktion",
-          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
-        }
-      ],
-      "duration_ms": 200998,
-      "name": "La reacci\u00f3n sexual",
-      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1731,6 +1699,38 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/3ii6PrA2My1Pz2nnOzmUs9"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "duration_ms": 231642,
+      "name": "S\u00edgueme",
+      "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Codas",
+        "url": "https://open.spotify.com/album/2RMgN4x9NkhYXgkQBDdclR"
+      },
+      "artists": [
+        {
+          "name": "Marina Paredes",
+          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
+        }
+      ],
+      "duration_ms": 280257,
+      "name": "Codas",
+      "url": "https://open.spotify.com/track/4rQfgxG9sKSJzvsHibwBrl"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
         "url": "https://open.spotify.com/album/79eB5mKq2qnyotNHaVqj6v"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 234000,
       "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
       "url": "https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
     },
     {
       "added_at": "2025-04-10 22:00:20",

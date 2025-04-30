@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 😎 with Zerb
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,955 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,937 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 22 | [House Of Mirrors](https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 2:30 |
 | 23 | [Jack](https://open.spotify.com/track/0raEo5QTDeP4Iwy2P5BRn8) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Jack](https://open.spotify.com/album/0n50MmQVlRojX3s8IZfbDe) | 3:34 |
 | 24 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 |
-| 25 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
+| 25 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
 | 26 | [Dancing \(Only Me & You\)](https://open.spotify.com/track/1ZfLabjBrPFVSQ3KvblgUe) | [Arial Ten](https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf), [Giselle Lily](https://open.spotify.com/artist/3MjsYDxiYQf77u7zWaVZ9l) | [Dancing \(Only Me & You\)](https://open.spotify.com/album/7hmRBcsHusk3EkV5Gs5Hfm) | 3:24 |
 | 27 | [the fall](https://open.spotify.com/track/5VZO8fljE2R1XeC1xJSO7x) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [the fall](https://open.spotify.com/album/0p1PHU7dKLogVCEWiAUu9r) | 3:19 |
 | 28 | [FELT SO GOOD](https://open.spotify.com/track/7L6YNg3MRBkaub8S744SZG) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [FELT SO GOOD](https://open.spotify.com/album/5tFCuuYSEtcJREx9e76atL) | 3:01 |

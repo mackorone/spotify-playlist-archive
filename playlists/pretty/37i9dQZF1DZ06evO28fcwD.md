@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,283 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,282 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Mhlangidinwa Ngikhathele](https://open.spotify.com/track/3rz3aI4jgUIPhM0Mz1FGr1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:01 |
 | 50 | [Sishumayel' Ivangeli](https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:18 |
 
-Snapshot ID: `aA1zgAAAAAAMQzZ/PgDU10Wx20m5iMkW`
+Snapshot ID: `aA1zgAAAAADE8xLAPAnR0p4C6ApYr6HQ`

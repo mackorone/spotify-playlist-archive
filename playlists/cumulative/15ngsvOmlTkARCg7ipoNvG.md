@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,969 songs - 1 day 15 hr 56 min
+1,970 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,6 +940,7 @@
 | [Largo \- Cello Version](https://open.spotify.com/track/03t7boXDpq6YRlwrhVtdtz) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Largo \(Cello Version\)](https://open.spotify.com/album/6pcHxlR7ZeDaPzNG3Nu2nj) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Largo Reimagined](https://open.spotify.com/track/6VVygTksotaGbvfyPxMKQ2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Largo Reimagined](https://open.spotify.com/album/6d40xo3GwfVbtUFLPTwxiT) | 1:36 | 2022-01-20 | 2024-01-30 |
 | [Last Year \- Strings Version](https://open.spotify.com/track/4CdRwixEKAMwzudtTIxuGQ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:05 | 2024-02-09 | 2024-02-13 |
+| [Late Autumn Melody Arr\. For Felt Piano](https://open.spotify.com/track/3foD73gDmgJ41A2mffacEx) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Late Autumn Melody Arr\. For Felt Piano](https://open.spotify.com/album/5uO6HvXf8dEMJgPe3nl9hT) | 1:00 | 2025-04-29 |  |
 | [Late Blue Nights](https://open.spotify.com/track/4D6xeeFXUzNEF0miqn5Aki) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Late Blue Nights](https://open.spotify.com/album/01u3JdYzKg4x6gKHKgGm3e) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Late Blue Nights \- Cello And Felt Piano Version](https://open.spotify.com/track/6AIfKdy1AAqmbTPHcnsO0E) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Late Blue Nights \(Cello And Felt Piano Version\)](https://open.spotify.com/album/3qMSEnPnTnFRbTBviWf49F) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Late Blue Nights \- Strings Version](https://open.spotify.com/track/0r07y8pX5Iz5SVDAuSeGi7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Late Blue Nights \(Strings Version\)](https://open.spotify.com/album/2KdSsr7iG5ymwHVRJVymMG) | 1:00 | 2024-02-09 | 2024-02-13 |

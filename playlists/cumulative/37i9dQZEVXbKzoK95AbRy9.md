@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-428 songs - 21 hr 53 min
+429 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/7JMtl41kGPDlzxsH3FkkqD) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/35DPR0dkam349rdNwMQjTh) | 1:57 | 2024-07-12 | 2024-08-10 |
 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 | 2024-07-26 | 2025-01-04 |
 | [Mãe Solteira](https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Mãe Solteira](https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y) | 2:24 | 2025-03-14 |  |
-| [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/37QloSdzrjx2xCH0m65800) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Nada Com Nada \(Ao Vivo\)](https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M) | 2:41 | 2025-01-24 |  |
+| [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/37QloSdzrjx2xCH0m65800) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Nada Com Nada \(Ao Vivo\)](https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M) | 2:41 | 2025-01-24 | 2025-04-30 |
+| [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/65eE2tVTPgVXImU3mTYKbp) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Atemporal \(Ao Vivo / EP1\)](https://open.spotify.com/album/4p4SC0Oi6iBl21CPkgtwFt) | 2:41 | 2025-04-25 |  |
 | [Namora Ela \- Ao Vivo](https://open.spotify.com/track/28lX0N3Fa1L5YzzPfklvc0) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Namora Ela \(Ao Vivo\)](https://open.spotify.com/album/5fadpHFKpJUfyLr1kcPwpA) | 2:37 | 2025-01-10 | 2025-02-08 |
 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/4Bvj8kzo5Lwao1tCgDhOFz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Eu, Yasmin Santos \- Vol 01](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 2:41 | 2024-08-16 | 2024-09-06 |
 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 | 2024-07-19 | 2024-09-07 |

@@ -8619,6 +8619,32 @@
     },
     {
       "album": {
+        "name": "Yahweh (Godiya Gareka)",
+        "url": "https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574838,
+      "name": "Yahweh (Godiya Gareka)",
+      "url": "https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C"
+    },
+    {
+      "album": {
         "name": "Yahweh: Song of Moses",
         "url": "https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj"
       },
@@ -8656,7 +8682,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"

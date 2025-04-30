@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: oSHAMO
 
-582 songs - 1 day 6 hr 18 min
+583 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-05-15 | 2023-07-21 |
 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2024-01-22 | 2025-03-14 |
 | [DND](https://open.spotify.com/track/1IiQweiewfxYZ8Z78AtQnR) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [DND](https://open.spotify.com/album/6c6tV7K0jycgYp5KXwlP25) | 3:03 | 2023-07-27 | 2023-08-04 |
+| [Do Me](https://open.spotify.com/track/2m8yLRwDDjKh3CWSTLqEdN) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Do Me](https://open.spotify.com/album/6lB1CgMDQFEzikW59ng0Hj) | 2:24 | 2025-04-25 |  |
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-03-21 | 2022-07-18 |
 | [Dog Mout](https://open.spotify.com/track/5nWeo7ARPdLB2yJLEgH2D5) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Dog Mout](https://open.spotify.com/album/7i2e8sYjRNrJqNVKgmxaKo) | 3:32 | 2022-11-21 | 2023-02-01 |
 | [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 | 2025-04-29 |
@@ -507,7 +508,7 @@
 | [Surveillance \(feat\. NSG\)](https://open.spotify.com/track/7e3kGLWypJKI68GcMLuibR) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Surveillance \(feat\. NSG\)](https://open.spotify.com/album/5zY56A2o54CfxAhkFLmQT1) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [Suzanna \(feat\. Patoranking\)](https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:35 | 2021-12-20 | 2022-07-27 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-23 | 2022-07-22 |
-| [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-25 |  |
+| [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-25 | 2025-04-30 |
 | [Sweetie Pie](https://open.spotify.com/track/4vmEhaOPLULPe3Y2C9DisV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Sweetie Pie](https://open.spotify.com/album/2lYCryVOXhXbnaz4adR94f) | 2:53 | 2022-07-21 | 2022-07-24 |
 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2021-12-20 | 2024-09-20 |
 | [Taken](https://open.spotify.com/track/6O26Bxiwg8BAgY8C31RDQV) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-08-18 | 2022-09-17 |

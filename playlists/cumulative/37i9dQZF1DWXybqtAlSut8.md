@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-92 songs - 3 hr 56 min
+94 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 | 2024-03-20 | 2025-03-05 |
 | [In Your Arms](https://open.spotify.com/track/1Y0jvSloelDbT0ZjuFF3oW) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
 | [It Is Well \- Piano](https://open.spotify.com/track/2z1QBKfCirxoWJThnqS2bz) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Hymns for Peaceful Worship \(Piano\)](https://open.spotify.com/album/77vQP2RuGopRyvz9ghXhxG) | 3:26 | 2024-03-20 |  |
+| [It Is Well With My Soul](https://open.spotify.com/track/1Kc0OhfFyjHoiz29EfsCpt) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [It Is Well With My Soul](https://open.spotify.com/album/6ZGY5ovF3mCqfisQkrckYL) | 3:11 | 2025-04-29 |  |
 | [It Is Well With My Soul \(When Peace Like A River\)](https://open.spotify.com/track/1R76Apzg1pmJEkO1gRv0tY) | [Elevated Worship Collective](https://open.spotify.com/artist/1nqkP4iSsnOJP807e6yVZZ) | [It Is Well With My Soul \(When Peace Like A River\)](https://open.spotify.com/album/01QDsn36Gz5HZyItbtt2qo) | 3:54 | 2024-03-20 | 2024-11-30 |
 | [Jesus Loves Me, This I Know \- Piano](https://open.spotify.com/track/69vZKe90OwhRnQ6ZC5dzEJ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:33 | 2024-03-20 |  |
 | [Jesus of Nazareth Passes By](https://open.spotify.com/track/0G8Kat3pBnDVxLx4F1faES) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [To God Be The Glory](https://open.spotify.com/album/5AzYM0u08waXbSiPSb1Zlr) | 2:59 | 2024-03-20 |  |
@@ -85,6 +86,7 @@
 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 | 2024-03-20 |  |
 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 | 2024-03-20 |  |
 | [The Light Upon Me](https://open.spotify.com/track/6YghDmxhRBWyWFNyG8P150) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Light Upon Me](https://open.spotify.com/album/2j594o5l0dNGk1GPIKKftA) | 2:09 | 2025-03-11 |  |
+| [The Seventh Day](https://open.spotify.com/track/0dYD6NBg0Bgou3kY3Ko3V7) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [The Seventh Day](https://open.spotify.com/album/4Gtm11NXJxrPveqKrS9AUA) | 2:11 | 2025-04-29 |  |
 | [The Valley](https://open.spotify.com/track/37Y8uCJeXBbIl6cpK3j76K) | [Bernard Svejk](https://open.spotify.com/artist/7dZPIvRoTwhm9GRf77h2n5) | [The Valley](https://open.spotify.com/album/5s6K2oITckimGYikjGR5yX) | 2:26 | 2024-11-19 | 2024-11-30 |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2R2cs5oc2cWfv6GqYyu84M) | [Piano Praises](https://open.spotify.com/artist/7e4xD2CTQeYKxWxKNG6XVn) | [Burn Bright: Instrumental Worship](https://open.spotify.com/album/46m3UsnSj8ldBmuLOr5cTR) | 3:08 | 2024-03-20 | 2025-03-05 |
 | [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 | 2024-09-03 |  |

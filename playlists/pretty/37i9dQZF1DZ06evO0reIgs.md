@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,972 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,974 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Martins.prodz](https://open.spotify.com/artist/1DQaq7dn5kLHc3qFiVplZr) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 |
 | 50 | [Coisas Que Eu Aprendi](https://open.spotify.com/track/4pR2Jy5fPdMKt2ACIX1Int) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:16 |
 
-Snapshot ID: `aA1zgAAAAAAOVDACcQ+ucay4qbajwQy9`
+Snapshot ID: `aA1zgAAAAAAf59RUYnsxt0/nXnspF+wy`

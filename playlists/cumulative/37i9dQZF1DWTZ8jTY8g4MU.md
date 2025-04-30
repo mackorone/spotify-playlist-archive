@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-267 songs - 17 hr 36 min
+268 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [صوبتني](https://open.spotify.com/track/5MUSkI9dvG4u3wrdYZa7hL) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [صوبتني](https://open.spotify.com/album/6e7OkXkFuNI9KLmWjazdCP) | 3:52 | 2023-09-06 | 2024-08-20 |
 | [صوت المحب](https://open.spotify.com/track/1fXAUu9YATXk9vQU8882R2) | [علي ال مفتاح](https://open.spotify.com/artist/0RQkoMx085hqzZQ4mDRxKB) | [صوت المحب](https://open.spotify.com/album/6EaJlk1NvcMqSu5Qc3Unl7) | 2:59 | 2023-09-01 | 2023-10-25 |
 | [صوره مع عطر](https://open.spotify.com/track/1XF1YnaPNTuR4pmi66qBhm) | [سلطان بن مريع](https://open.spotify.com/artist/5fdMXGDe0P3wV5TbCowG5g) | [صوره مع عطر](https://open.spotify.com/album/2Cd7G567Nt0gLbAtppLUmf) | 2:32 | 2023-02-22 | 2023-09-02 |
+| [ضيقة العاشقين](https://open.spotify.com/track/339CXSisfIMFE0S0B9x7sn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ضيقة العاشقين](https://open.spotify.com/album/4ZVi977yofIORUb74e3puO) | 4:56 | 2025-04-29 |  |
 | [طبطب](https://open.spotify.com/track/34iXouLD9DE3bBa2pmInEF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [طبطب](https://open.spotify.com/album/46Eugjxm41rG3MfPB0c5VC) | 3:50 | 2023-02-22 | 2023-06-16 |
 | [طلتك فالعيد](https://open.spotify.com/track/5VWFTABm43JZ7HU0OJecmz) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [طلتك فالعيد](https://open.spotify.com/album/7eSI9AMr3sMjCI76cpg9wK) | 4:11 | 2024-04-10 | 2024-08-20 |
 | [طواري الشوق](https://open.spotify.com/track/27DHEesdJ58utI1NJ0vAwl) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [طواري الشوق](https://open.spotify.com/album/38XHNOo9c9Qg8SC3iryuzW) | 3:58 | 2024-11-15 |  |
@@ -178,7 +179,7 @@
 | [غزتني الدنيا](https://open.spotify.com/track/5S4qWVH9bVdNth573W2D9S) | [فالح الطوق](https://open.spotify.com/artist/5Qt6zyL5RYskgj1bH9fK6g) | [غزتني الدنيا](https://open.spotify.com/album/4mNk70H2KZWhM1vfp5sPj1) | 3:43 | 2023-11-30 | 2024-01-05 |
 | [غصب علينا](https://open.spotify.com/track/0QOBcIXo19VdwyRLe8GJho) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/3tI1yOLivNzRao0NMbOFfv) | 3:47 | 2022-03-30 | 2022-11-02 |
 | [غصب علينا](https://open.spotify.com/track/6yNbgI21IGouhgPQ5UkrA3) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/6yw58FnheKdVDaPYsvyTJd) | 3:47 | 2022-08-31 | 2023-05-04 |
-| [غلطة الشاطر](https://open.spotify.com/track/6El5OexIsYjjFVk7Y3PvGr) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [غلطة الشاطر](https://open.spotify.com/album/3BzAVIxiI5R6I3IzKgOtra) | 3:02 | 2024-12-19 |  |
+| [غلطة الشاطر](https://open.spotify.com/track/6El5OexIsYjjFVk7Y3PvGr) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [غلطة الشاطر](https://open.spotify.com/album/3BzAVIxiI5R6I3IzKgOtra) | 3:02 | 2024-12-19 | 2025-04-30 |
 | [فاقد احساسي](https://open.spotify.com/track/6BUAhBYpsMaoqe8O0lV2HQ) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فاقد احساسي](https://open.spotify.com/album/0VYqS7d65Mp5DRXY1N1o1a) | 3:42 | 2023-12-15 | 2025-02-11 |
 | [فاقدك](https://open.spotify.com/track/0xA6b2OppmTqMjojgf6Ipb) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فاقدك](https://open.spotify.com/album/6MIsUhrJIZpJ0JqEIJEMtz) | 4:47 | 2023-02-22 | 2023-04-21 |
 | [فتنة عيونك](https://open.spotify.com/track/35sb7Ir5pEN7F97lxQiwIy) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فتنة عيونك](https://open.spotify.com/album/240qQA5TlhhGus2MUMTgWW) | 4:09 | 2023-05-04 | 2023-09-19 |

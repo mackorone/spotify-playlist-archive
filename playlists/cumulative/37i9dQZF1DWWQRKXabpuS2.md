@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-408 songs - 1 day 4 hr 2 min
+409 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Gedart Tnaam](https://open.spotify.com/track/1NpgxL5cAHN0r1qB3XMoko) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Ana W Ozoof](https://open.spotify.com/album/5AT8gA59kXquMpj87alv8f) | 3:19 | 2024-11-19 |  |
 | [Ghana Wajed](https://open.spotify.com/track/6Wa4s4YU2tvIGZLmIFKovZ) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hayen](https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO) | 3:50 | 2024-12-26 |  |
 | [Gheyabi](https://open.spotify.com/track/3D930igQ3knkLavFFPyijR) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Maashar Al Oshag](https://open.spotify.com/album/1nPZkWEX3bXgzfAlynB4LQ) | 3:59 | 2022-02-14 | 2022-08-13 |
+| [Ghyabak Youm](https://open.spotify.com/track/6fQoaOR9uvRn5xHlClwTK1) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ghyabak Youm](https://open.spotify.com/album/169L5cCV10RiU6kvWsZU5X) | 4:02 | 2025-04-29 |  |
 | [Gidar Gidar](https://open.spotify.com/track/7pIt7aJzoeD9tkvka30Bh4) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Gidar Gidar](https://open.spotify.com/album/71bAi48fuZr89EYQz2iRiq) | 6:47 | 2022-07-06 | 2023-01-18 |
 | [Habeeb El Roh](https://open.spotify.com/track/21wMSBrttJwKRkNebSUaNq) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Habeeb El Roh](https://open.spotify.com/album/4gzTxAiQTE8eWK41Q3kp62) | 3:00 | 2022-12-16 | 2023-06-30 |
 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-11 | 2024-02-07 |
@@ -236,7 +237,7 @@
 | [Nekhtelef](https://open.spotify.com/track/4b4ToL5Y9UJxWdi6KcFnUi) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Nekhtelef](https://open.spotify.com/album/52Oiimt5jHOxCvDijrH7v2) | 3:31 | 2023-04-22 | 2023-04-24 |
 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 | 2023-12-29 | 2024-07-31 |
 | [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 | 2022-06-04 | 2023-01-10 |
-| [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-10 |  |
+| [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-10 | 2025-04-30 |
 | [Qader](https://open.spotify.com/track/6QhdBvdu5zWZMsRuEvvpJi) | [Hmdan Elbloshi](https://open.spotify.com/artist/7bmRXgbkkJvLTNyNZf1viv), [Abdulaziz Alfailakawi](https://open.spotify.com/artist/2ZoToOFm6PdlzsJrQk6zLp) | [Qader](https://open.spotify.com/album/6SMPpT6rFWhjVj36x8xcTC) | 3:30 | 2021-12-23 | 2022-02-05 |
 | [Qalb Nasini](https://open.spotify.com/track/3xG4KZWtfCNgwHhxxL6Qg2) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Ard](https://open.spotify.com/album/0i6qgh6QraX5UsaPmvw9ZZ) | 4:48 | 2024-04-18 | 2024-05-10 |
 | [Qarar Saab](https://open.spotify.com/track/08dzFnwCGE11vXoH9Pw5aa) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Qarar Saab](https://open.spotify.com/album/0qA4LjeVNh0CYgPdCZvi8f) | 3:16 | 2023-12-15 | 2024-06-30 |

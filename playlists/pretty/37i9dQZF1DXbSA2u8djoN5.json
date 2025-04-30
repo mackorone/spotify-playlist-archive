@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: B.U.G. Mafia",
-  "num_followers": 20692,
+  "num_followers": 20702,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-04-24 21:00:30",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
         "name": "ultima (noapte)",
         "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
     },
     {
       "added_at": "2025-04-24 21:00:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-04-24 21:00:30",
       "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
         "name": "OCHI ALBA\u0218TRI",
         "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
       },
@@ -383,26 +367,6 @@
       "duration_ms": 232000,
       "name": "OCHI ALBA\u0218TRI",
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
-        "name": "Ale vie\u021bii lec\u021bii",
-        "url": "https://open.spotify.com/album/4B6fXjDll38nnT7EGkPUZk"
-      },
-      "artists": [
-        {
-          "name": "Cazacov",
-          "url": "https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1"
-        },
-        {
-          "name": "Skizzo Skillz",
-          "url": "https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ale vie\u021bii lec\u021bii",
-      "url": "https://open.spotify.com/track/1HdcWaizzihKjjVQV1v3aQ"
     },
     {
       "added_at": "2025-04-24 21:00:30",
@@ -427,6 +391,42 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
+        "name": "Ale vie\u021bii lec\u021bii",
+        "url": "https://open.spotify.com/album/4B6fXjDll38nnT7EGkPUZk"
+      },
+      "artists": [
+        {
+          "name": "Cazacov",
+          "url": "https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1"
+        },
+        {
+          "name": "Skizzo Skillz",
+          "url": "https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ale vie\u021bii lec\u021bii",
+      "url": "https://open.spotify.com/track/1HdcWaizzihKjjVQV1v3aQ"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2025-04-24 21:00:30",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-04-24 21:00:30",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
         "name": "Te v\u0103d \u00een trecut",
         "url": "https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 232258,
       "name": "Te v\u0103d \u00een trecut",
       "url": "https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     },
     {
       "added_at": "2025-04-24 21:00:30",
@@ -735,6 +735,38 @@
     {
       "added_at": "2025-04-24 21:00:30",
       "album": {
+        "name": "Ochii",
+        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ochii",
+      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+    },
+    {
+      "added_at": "2025-04-24 21:00:30",
+      "album": {
         "name": "Shot",
         "url": "https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE"
       },
@@ -763,18 +795,18 @@
     {
       "added_at": "2025-04-24 21:00:30",
       "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+        "name": "Femei \u00een Parlament",
+        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+      "duration_ms": 170400,
+      "name": "Femei \u00een Parlament",
+      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
     },
     {
       "added_at": "2025-04-24 21:00:30",
@@ -795,38 +827,6 @@
       "duration_ms": 167302,
       "name": "Lacrimi",
       "url": "https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
-        "name": "Femei \u00een Parlament",
-        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Femei \u00een Parlament",
-      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
-    },
-    {
-      "added_at": "2025-04-24 21:00:30",
-      "album": {
-        "name": "Ochii",
-        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ochii",
-      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
     },
     {
       "added_at": "2025-04-24 21:00:30",

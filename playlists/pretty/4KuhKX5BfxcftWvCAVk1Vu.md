@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > I love my girlfriend
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 69 songs - 3 hr 51 min
+[ella](https://open.spotify.com/user/x_schmidt_x) - 1 like - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

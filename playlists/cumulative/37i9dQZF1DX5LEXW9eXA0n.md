@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 권진아\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 멜로망스\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,452 songs - 3 day 22 hr 2 min
+1,454 songs - 3 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Endless](https://open.spotify.com/track/6QOFGpT9vgKefzXomdBVTP) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Endless](https://open.spotify.com/album/6mjxqHPoLUyYNz0j2gmG1j) | 4:10 | 2023-02-24 | 2023-04-27 |
 | [Endlessly \(Prod\. SonIsaac\)](https://open.spotify.com/track/3CveBxz6yDXJAqQpeBjJDT) | [Choi Hyun Joon](https://open.spotify.com/artist/51Ch5o1UA1jHPQhzapDemW) | [DUSK, Diary Project Part\. 1](https://open.spotify.com/album/0jFl084uXUYSYsy9EQTuvl) | 4:03 | 2022-07-07 | 2022-10-15 |
 | [Enough](https://open.spotify.com/track/13DyQURiHVvfx8pvEbHyd8) | [Captain Planet](https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ), [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Enough](https://open.spotify.com/album/6hgH1d4VICmNi6ZhvIS216) | 3:05 | 2024-06-17 | 2024-10-17 |
-| [Escape to You](https://open.spotify.com/track/5mkEaDKd5Hh9pM3MjJEgKC) | [HANEUM](https://open.spotify.com/artist/1Wr9Ekj4sSByeidL8C7pZ2) | [Escape to You](https://open.spotify.com/album/6NAP2s5loLn77uD7S60lyc) | 4:07 | 2024-11-05 |  |
+| [Escape to You](https://open.spotify.com/track/5mkEaDKd5Hh9pM3MjJEgKC) | [HANEUM](https://open.spotify.com/artist/1Wr9Ekj4sSByeidL8C7pZ2) | [Escape to You](https://open.spotify.com/album/6NAP2s5loLn77uD7S60lyc) | 4:07 | 2024-11-05 | 2025-04-30 |
 | [Eternal](https://open.spotify.com/track/5Cv0Y5xWlEUCZKzzmq44eP) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:53 | 2022-02-10 | 2022-02-17 |
 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2024-02-01 | 2024-07-12 |
 | [Eternal Sunshine](https://open.spotify.com/track/2iEykY8EqjYrG3Gz7GdpMu) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Eternal Sunshine 1/2](https://open.spotify.com/album/0VDhjoUAHsS4Go5f6JMGrO) | 3:10 | 2021-12-20 | 2022-07-08 |
@@ -548,7 +548,7 @@
 | [I'll change](https://open.spotify.com/track/0yGGSo8VQE8YfpJvdYsqFk) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Cyworld BGM 2021](https://open.spotify.com/album/2hM6xcBoE6GcsLRIHh4xYu) | 4:12 | 2022-01-03 | 2022-06-23 |
 | [I'll never love you again](https://open.spotify.com/track/5FAKWh0CdQfSt0CWgHGqOq) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [I'll never love you again](https://open.spotify.com/album/4KuQvV9gQEKlxenz6A5nkv) | 3:40 | 2022-08-12 | 2022-11-17 |
 | [I'll Pray](https://open.spotify.com/track/0tpu39rHkjgI9UVTdIFCT0) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [YUICHIRO](https://open.spotify.com/artist/50ubdBeKVowI0HLEfehhPl) | [I'll Pray](https://open.spotify.com/album/0CxZcDZ5cEMfO1VM6cLm4f) | 3:57 | 2023-01-20 | 2023-02-25 |
-| [I'll take you in my arms](https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Desperate Mrs\. Seonju OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M) | 3:40 | 2025-01-02 |  |
+| [I'll take you in my arms](https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Desperate Mrs\. Seonju OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M) | 3:40 | 2025-01-02 | 2025-04-30 |
 | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2) | 3:51 | 2022-01-17 | 2022-04-14 |
 | [I'll Try](https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [MONO](https://open.spotify.com/album/6rZ3FuJABmnr9GVCFjPP6Y) | 4:10 | 2022-07-04 | 2022-10-08 |
 | [I'll Wait For You](https://open.spotify.com/track/4DtvfDApxjqLmyhDqIOEA6) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/0SvgTVruw1yAx3KhUYyCwb) | 4:23 | 2025-03-31 |  |
@@ -911,6 +911,7 @@
 | [Only You](https://open.spotify.com/track/3Mt6BKkyUfbuJwjEurTeYr) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Only You \(Bargobargo X Yebit\)](https://open.spotify.com/album/1eHnLAfXK4mgSlSSXnWbeg) | 3:46 | 2024-02-21 | 2024-06-18 |
 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 | 2022-03-24 | 2022-04-16 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-23 | 2022-06-12 |
+| [Only You Know](https://open.spotify.com/track/1RWrSJswXfKqEqTEXpYXZW) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Only You Know](https://open.spotify.com/album/2uHTJNIl8AdXwX2JGpcYhU) | 3:55 | 2025-04-29 |  |
 | [Orange Flower](https://open.spotify.com/track/4wV0IQK4NgoIkfvwbJ5gBM) | [KIM YOUNGHEUM](https://open.spotify.com/artist/4aIJgOMlBlNDc7pxXKGJeW) | [Orange Flower](https://open.spotify.com/album/7njdluhWmaZFoDslWfbceC) | 3:06 | 2024-07-31 | 2024-11-30 |
 | [ordinary farewell](https://open.spotify.com/track/5nm7Wbp1gXSqEFu1v54zdA) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [ordinary farewell](https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne) | 3:50 | 2022-07-07 | 2022-09-06 |
 | [Our Days](https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Our Days](https://open.spotify.com/album/1sPFkBCyZ9eqnXaDWgdC5h) | 3:53 | 2022-07-07 | 2022-08-02 |
@@ -1110,6 +1111,7 @@
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-03-31 | 2022-04-19 |
 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 | 2024-05-18 |
 | [Supppperman's dream](https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58) | [Supppperman](https://open.spotify.com/artist/4MsSecxgHDVQGEx9SPQSDP) | [Supppperman's dream](https://open.spotify.com/album/2CCq19fvsTdzafRqISmF8K) | 3:36 | 2024-07-31 | 2024-11-07 |
+| [Surprise](https://open.spotify.com/track/5rRVgLH8wP6TVm5XyI06oT) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Romance Express](https://open.spotify.com/album/5SWpoV5qrSIv5zWsDFejO9) | 3:59 | 2025-04-29 |  |
 | [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 | 2025-02-17 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |

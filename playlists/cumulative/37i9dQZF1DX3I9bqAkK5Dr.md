@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-361 songs - 21 hr 42 min
+362 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Ninnu Cheraga](https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Ninnu Cheraga](https://open.spotify.com/album/2pBaIGMAS4SsoKHxBPAbok) | 3:07 | 2024-04-25 |  |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 | 2023-11-21 |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
+| [Nuvva Nuvva](https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Nuvva Nuvva](https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi) | 2:38 | 2025-04-29 |  |
 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 | 2024-04-01 |  |
 | [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 | 2023-09-23 |
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
@@ -259,7 +260,7 @@
 | [Prashna](https://open.spotify.com/track/7CdPSXY8zWZODjKvzuA8Ad) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Ananth Ashrith](https://open.spotify.com/artist/4kP9fCPWMLOTJ9bcGAEiW2), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Prashna](https://open.spotify.com/album/7AN1mmLPdb1e1xWd05VhQA) | 4:20 | 2024-01-30 | 2024-03-02 |
 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 | 2023-10-10 |
 | [Prathi Kshanam](https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Prathi Kshanam](https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa) | 2:53 | 2025-03-05 |  |
-| [Prayaanam](https://open.spotify.com/track/3wTBcciwBkKur5hfSNDlHJ) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Prayaanam](https://open.spotify.com/album/617ru1pWVwmrL3CFYJAsW3) | 3:20 | 2025-01-07 |  |
+| [Prayaanam](https://open.spotify.com/track/3wTBcciwBkKur5hfSNDlHJ) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Prayaanam](https://open.spotify.com/album/617ru1pWVwmrL3CFYJAsW3) | 3:20 | 2025-01-07 | 2025-04-30 |
 | [Prema](https://open.spotify.com/track/1sIh4n3MICrNuO9zpWc8ya) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Naren RK Siddartha](https://open.spotify.com/artist/3kmgV8x6lfoHZKSp9mrKBB) | [Diary](https://open.spotify.com/album/5mYhNUKFQQEtFZWwzRT71f) | 3:46 | 2023-12-15 | 2024-03-09 |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 | 2024-03-18 |

@@ -4518,7 +4518,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -7004,6 +7004,10 @@
           "url": "https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X"
         },
         {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        },
+        {
           "name": "AchtVier",
           "url": "https://open.spotify.com/artist/6JOYrJkaS8ZKxLoUdNNdWr"
         },
@@ -7070,10 +7074,6 @@
         {
           "name": "Jaill",
           "url": "https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM"
-        },
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         }
       ],
       "date_added": "2025-04-18",
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -10966,7 +10966,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -11726,7 +11726,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -13350,6 +13350,32 @@
       "duration_ms": 199653,
       "name": "DOLLARS & ISYANS (feat. BILLA JOE)",
       "url": "https://open.spotify.com/track/2TtnAY1oHYA7UTh4FQIEBm"
+    },
+    {
+      "album": {
+        "name": "Don Diego (Rmx)",
+        "url": "https://open.spotify.com/album/1U1OCpsWvgJp7XTXWN0qwM"
+      },
+      "artists": [
+        {
+          "name": "Jala Brat",
+          "url": "https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL"
+        },
+        {
+          "name": "Buba Corelli",
+          "url": "https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "Don Diego - Rmx",
+      "url": "https://open.spotify.com/track/2OyB1fHwnS2ISRrKGpVkoZ"
     },
     {
       "album": {
@@ -20496,7 +20522,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 131560,
       "name": "GUT AUS",
       "url": "https://open.spotify.com/track/2kiI6BhRBQDgA9BKOeahTx"
@@ -32122,7 +32148,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 150000,
       "name": "Mona Lisa Motion (Einmal um die Welt)",
       "url": "https://open.spotify.com/track/2xlCVJw334z27pGN8P7dhc"
@@ -40424,7 +40450,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -50046,7 +50072,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
@@ -50206,7 +50232,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"

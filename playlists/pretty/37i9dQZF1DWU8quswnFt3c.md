@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Hsien Ching
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,855 likes - 77 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,001 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
 | 40 | [Yok Dönüş Geri](https://open.spotify.com/track/1mIouPOhVg9BlT5Eg5gK5d) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Yok Dönüş Geri](https://open.spotify.com/album/6aTH2QhYICBn4XsG3XpLBi) | 2:40 |
 | 41 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
-| 42 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
-| 43 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
+| 42 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
+| 43 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
 | 44 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
 | 45 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
 | 46 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 |
 | 50 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
 | 51 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
-| 52 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
-| 53 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 52 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 53 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
 | 54 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 |
 | 55 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
 | 56 | [Horses](https://open.spotify.com/track/3q9t1eJSGjzsKhs8iDKPfZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 3:32 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 58 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 |
 | 59 | [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 |
 | 60 | [STRESS](https://open.spotify.com/track/7I0FfSYkHtYq3M20c0XnwU) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [dj galen](https://open.spotify.com/artist/18ZA3vytlUTwnjKxjohr3g), [spellcasting](https://open.spotify.com/artist/2AqLY2MtalQAJ29dlkdVck) | [STRESS](https://open.spotify.com/album/2W0xdBTCynpdpGZcwdTf00) | 3:27 |
-| 61 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 |
-| 62 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
+| 61 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
+| 62 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 |
 | 63 | [Som En Sol](https://open.spotify.com/track/4R86lqU8YrlNtwgsqBE2Dl) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Toxe2](https://open.spotify.com/album/2bztnBGwhJiRQBpuqHjYtt) | 2:55 |
 | 64 | [girl EDM](https://open.spotify.com/track/1oNYiuCvyixmwcyNZyq3Dd) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:45 |
 | 65 | [Agosto](https://open.spotify.com/track/1U3gNlN90I6TMGEs2KCOvH) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Agosto](https://open.spotify.com/album/4LFDZ4pCM49hjqBZiNTKkO) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 658692,
+  "num_followers": 658717,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Good Will Out",
         "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 250573,
       "name": "Come Back To What You Know",
       "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
         "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 257653,
       "name": "A Design for Life - 2016 Remastered Version",
       "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -615,22 +615,6 @@
       "duration_ms": 218999,
       "name": "I Want to Be There - When You Come",
       "url": "https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Forever Delayed",
-        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Motorcycle Emptiness",
-      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -715,6 +699,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Different Class / Deluxe Edition",
-        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 273733,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234800,
       "name": "Just",
       "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Different Class / Deluxe Edition",
+        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 273733,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
     },
     {
       "added_at": "2024-03-18 22:10:08",

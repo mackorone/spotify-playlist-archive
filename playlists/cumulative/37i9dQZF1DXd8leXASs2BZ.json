@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MEZZ",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Manaka",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 80253,
       "name": "Agari",
       "url": "https://open.spotify.com/track/4qcn2xQJDMliNK4dUiVXX1"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 179218,
       "name": "Another (feat. REVE & Tade dust)",
       "url": "https://open.spotify.com/track/5C6H2ti9JULJuYczuMV7wE"
@@ -2811,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "C-30",
+        "url": "https://open.spotify.com/album/0CLD5k2PFbblrdW1M4lpeV"
+      },
+      "artists": [
+        {
+          "name": "Cz Tiger",
+          "url": "https://open.spotify.com/artist/2NddVWWEA3PMqhHXjgvBH1"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "C-30",
+      "url": "https://open.spotify.com/track/7jedeUoyPZOPlP3HY9Hj2e"
+    },
+    {
+      "album": {
         "name": "Car Chase",
         "url": "https://open.spotify.com/album/4uXD57d0qXKSOQRTRTTPii"
       },
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 230182,
       "name": "Devil (feat. X 1ark & Pxrge Trxxxper)",
       "url": "https://open.spotify.com/track/2VtLntbUTqSwMg0RJXJd6R"
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 152912,
       "name": "Do It For Ya (feat. INMAN)",
       "url": "https://open.spotify.com/track/1L1N2tmWJ3hsWeKjuan7zv"
@@ -4714,6 +4732,28 @@
       "duration_ms": 193026,
       "name": "easy lift",
       "url": "https://open.spotify.com/track/3l0qEC3OqGPh3dSovLx8jK"
+    },
+    {
+      "album": {
+        "name": "EASY TOMORROW",
+        "url": "https://open.spotify.com/album/35oB2Wopd2Qwx8LeH0uQhx"
+      },
+      "artists": [
+        {
+          "name": "13ELL",
+          "url": "https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s"
+        },
+        {
+          "name": "I$$EI",
+          "url": "https://open.spotify.com/artist/3E87rhCLfvsHloaJdrIZ3K"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "EASY TOMORROW",
+      "url": "https://open.spotify.com/track/3AWDo9evAPhsuZiII2rHTa"
     },
     {
       "album": {
@@ -7815,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "ICHIRO",
+        "url": "https://open.spotify.com/album/0kiKSjljXEXsp97v9R8LlC"
+      },
+      "artists": [
+        {
+          "name": "Leonald",
+          "url": "https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "ICHIRO",
+      "url": "https://open.spotify.com/track/2XgnAp9gDqSjBKld0QkEwE"
+    },
+    {
+      "album": {
         "name": "Walk the Walk",
         "url": "https://open.spotify.com/album/4bAYRopzGSipileTYERVtc"
       },
@@ -9568,6 +9626,28 @@
       "duration_ms": 174058,
       "name": "Living Alone",
       "url": "https://open.spotify.com/track/1jO3JE0LJcXk3njN4r1IHd"
+    },
+    {
+      "album": {
+        "name": "Pretty Machine Gun",
+        "url": "https://open.spotify.com/album/6fFHUG7vyvwYnUIsiBdZuW"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "Lilniina",
+          "url": "https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "lol (feat. Lilniina)",
+      "url": "https://open.spotify.com/track/3F6mOaCawUpIbRHYff4bn8"
     },
     {
       "album": {
@@ -12910,7 +12990,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 161000,
       "name": "PUSH (feat. STICKY BUDS)",
       "url": "https://open.spotify.com/track/0yzZKYDQkbK6zO1rcCpopy"
@@ -13319,6 +13399,24 @@
     },
     {
       "album": {
+        "name": "SQUARE 1",
+        "url": "https://open.spotify.com/album/56jJwvGn0f7AIoUOmla9mX"
+      },
+      "artists": [
+        {
+          "name": "SPECTRE",
+          "url": "https://open.spotify.com/artist/6DNSzHt66Dwvr7tWUxMoAt"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/6odb7KPjBEnejJxzRM1RPU"
+    },
+    {
+      "album": {
         "name": "Requiem (feat. STICKY BUDS)",
         "url": "https://open.spotify.com/album/4PQ3Lp8fQ3SHVtAINWvtNF"
       },
@@ -13422,7 +13520,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 205423,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/7yt5rHl1bDUQuKaqdTliz1"
@@ -13784,7 +13882,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 176000,
       "name": "Runner (feat. Tete & RH JayDee)",
       "url": "https://open.spotify.com/track/5k9FLQNEVmsj8vOXMyAxUz"
@@ -16945,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "WAVES",
+        "url": "https://open.spotify.com/album/7m9P6JFRY2IDRaR8hZ0Npd"
+      },
+      "artists": [
+        {
+          "name": "TEITO",
+          "url": "https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "WAVES",
+      "url": "https://open.spotify.com/track/6NIeRtgKYuCCZyVqG46xZA"
+    },
+    {
+      "album": {
         "name": "Way Good",
         "url": "https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm"
       },
@@ -19320,6 +19436,32 @@
       "duration_ms": 128297,
       "name": "\u8ab0 (\u4e86\u2514/ \u4e86\u30ca\u30fb\u52f9\u2033\u30e9\u30fb/\u3012\")",
       "url": "https://open.spotify.com/track/2k7qBpLnNPD0plmaUiMaKS"
+    },
+    {
+      "album": {
+        "name": "\u8abf\u5b50\u3044\u3044",
+        "url": "https://open.spotify.com/album/7C2SE6fXgzvEGyGEuUuEas"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "stb",
+          "url": "https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "\u8abf\u5b50\u3044\u3044",
+      "url": "https://open.spotify.com/track/7lnCUxVDaXYUBb4ySnn8E2"
     },
     {
       "album": {

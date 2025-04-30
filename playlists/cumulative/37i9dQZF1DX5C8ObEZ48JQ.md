@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI?si=QqRLoJ0\_R26rB0\_98u1hJg">Jazzy June</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe?si=z2vCqjdPRaCQ0FfRVCl5PA">John Muq</a>\. Artwork: Isu Kim.
 
 1,302 songs - 2 day 17 hr 9 min
 
@@ -892,7 +892,7 @@
 | [Orin Halle](https://open.spotify.com/track/4aBZUK1sPmF8fNwvTyN6HI) | [Olabode VG](https://open.spotify.com/artist/6b85CUMqOFPXEr8Ng5w5cD) | [Orin Halle](https://open.spotify.com/album/1ctI5zAETxRzwgjN851fYd) | 2:51 | 2025-03-05 | 2025-04-03 |
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2024-04-03 | 2025-01-24 |
 | [Our Favourite Songs](https://open.spotify.com/track/3gnF64qnJIwTXerrp6qnVU) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Our Favourite Songs](https://open.spotify.com/album/2ZWiQbs6xhcg2stGixOQx1) | 3:34 | 2022-09-02 | 2022-10-01 |
-| [Out Of Love](https://open.spotify.com/track/3Bn3vX4QIC78AsDSImqTI6) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Out Of Love](https://open.spotify.com/album/19x4YjGY61sl8wqEnwKsT5) | 3:42 | 2025-04-23 |  |
+| [Out Of Love](https://open.spotify.com/track/3Bn3vX4QIC78AsDSImqTI6) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Out Of Love](https://open.spotify.com/album/19x4YjGY61sl8wqEnwKsT5) | 3:42 | 2025-04-23 | 2025-04-30 |
 | [Out Of Reach](https://open.spotify.com/track/6vxKYDcvlvVbFCfqNEtKoe) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Out Of Reach](https://open.spotify.com/album/4cQhJwcd3SiS9LxizM0XMn) | 3:10 | 2023-10-25 | 2023-11-30 |
 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-03-11 |  |
 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 | 2024-08-07 | 2024-09-05 |

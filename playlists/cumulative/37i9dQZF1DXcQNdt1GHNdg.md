@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-208 songs - 10 hr 5 min
+209 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Blackberry Sap](https://open.spotify.com/track/35nhjyhtDdeDIyibcQ7Aa0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 4:52 | 2023-07-18 | 2024-04-19 |
 | [Bora Bora \(feat\. Ayra Starr\)](https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:35 | 2024-08-30 | 2024-10-24 |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2023-07-18 | 2025-02-07 |
-| [Both Of Us](https://open.spotify.com/track/3LQ1rNWmganDdqVwQYCsIM) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Both Of Us](https://open.spotify.com/album/53NDdNRBDf89VjmmTRq5I8) | 2:38 | 2025-03-20 |  |
+| [Both Of Us](https://open.spotify.com/track/3LQ1rNWmganDdqVwQYCsIM) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Both Of Us](https://open.spotify.com/album/53NDdNRBDf89VjmmTRq5I8) | 2:38 | 2025-03-20 | 2025-04-30 |
 | [Brat](https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU) | [Heera Kunder](https://open.spotify.com/artist/7ASDFNNpurzlYyrXT9cACh), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs), [Meaow](https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ) | [Brat](https://open.spotify.com/album/0IxXM1yXTKjECCAlaTxIlY) | 2:58 | 2025-01-22 | 2025-02-04 |
 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 | 2024-11-19 |  |
 | [BTS](https://open.spotify.com/track/38pboK5eem22yXfuh9LMjX) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [had2](https://open.spotify.com/album/4fOZfGC1QIBQz4pAVOXVv7) | 2:45 | 2025-02-07 | 2025-03-27 |
@@ -97,6 +97,7 @@
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-07-01 |  |
 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 | 2024-11-11 |  |
 | [Gym](https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi) | [Sarba Maan](https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J) | [Gym](https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2) | 3:19 | 2024-10-25 | 2024-11-09 |
+| [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 | 2025-04-29 |  |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 | 2025-04-17 |
 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 | 2025-02-06 |  |

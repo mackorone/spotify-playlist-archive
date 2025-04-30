@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,128 likes - 78 songs - 4 hr 12 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,129 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 76 | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/track/3lRTdBw2SOlJq3r9wdK5pw) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Barefoot](https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr) | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/album/3XCB41prpHm5a8eiolc6St) | 3:40 |
 | 77 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 |
 | 78 | [Skyward](https://open.spotify.com/track/5tMFhJIhRUJpN5LnIxYRqu) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Skyward](https://open.spotify.com/album/7nPnwrVsmvpf5KnmKvbgX0) | 3:36 |
+| 79 | [Resonant Pulse](https://open.spotify.com/track/64AVZNtzvKPSlOfMZSKDld) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Resonant Pulse](https://open.spotify.com/album/54v2thLsOMX4ifgXNTeSpC) | 3:24 |
 
-Snapshot ID: `AABi6Mvmtv29Lk5m9pUJVNNVzRg7hOvx`
+Snapshot ID: `AABi6UhvomMw13DfNsrXRdvSjtNn1xlr`

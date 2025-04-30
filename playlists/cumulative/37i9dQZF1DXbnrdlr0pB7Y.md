@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-114 songs - 5 hr 51 min
+115 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Guantanamera](https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9) | [Berta Rojas](https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY), [Carlos Barbosa\-Lima](https://open.spotify.com/artist/6hznHFy1sAJBOO6pmOdxV5) | [Alma Y Corazon](https://open.spotify.com/album/1XrxVoDGaMXWF67dDJHJws) | 3:28 | 2023-12-15 | 2024-04-19 |
 | [Guantanamera](https://open.spotify.com/track/5xcJY6gg4ja8bVdXP612Kr) | [Joseito Fernandez](https://open.spotify.com/artist/3k5yvrU4CBsA1SRBBKxx0O), [Carlos Barbosa Lima & Berta Rojas](https://open.spotify.com/artist/6YCtYyfGIjpsNwT7hmRW15) | [Alma Y Corazon](https://open.spotify.com/album/2AUUHqjY7aWSrmTiGsznSi) | 3:28 | 2024-04-05 |  |
 | [Havana](https://open.spotify.com/track/2BtmYYxG65uYaq6W7Xi3lM) | [Mark Barnwell](https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um) | [Exotica](https://open.spotify.com/album/6wmg8ig0RgWeIehKZjuJh5) | 4:00 | 2024-06-24 | 2024-07-30 |
+| [Hearts Drift Apart](https://open.spotify.com/track/2YFHIH5yDYTeMh3siK4vLZ) | [Nova Lark](https://open.spotify.com/artist/6cZcotbb3ld687qdhgRcG9) | [Hearts Drift Apart](https://open.spotify.com/album/0MFYvX64fUx8yibtTqeU47) | 2:33 | 2025-04-29 |  |
 | [Hello](https://open.spotify.com/track/5ItnxwkIQ2Hz6CNtDGfAmE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Hello](https://open.spotify.com/album/0O7nnSoaclFgc9BFXW9eWc) | 2:41 | 2023-12-15 |  |
 | [Horizonte](https://open.spotify.com/track/2GnkchiEEX9BvQOrCD7Rh7) | [Ferdinand Eisner](https://open.spotify.com/artist/7Ag3zdwV2fqC7BKdXwjVsD) | [White Stone](https://open.spotify.com/album/1YoEhz6VaIj5IL7xFBuOmy) | 2:40 | 2023-12-15 |  |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2023-12-15 |  |

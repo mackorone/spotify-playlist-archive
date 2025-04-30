@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 100525,
+  "num_followers": 100554,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "L'Heure D'Et\u00e9",
-        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Toi mon amour",
-      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Toi + Moi",
         "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 213866,
       "name": "Ta main",
       "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "L'Heure D'Et\u00e9",
+        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Voyou (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Voyou (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "La nuit (Version acoustique)",
-        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
-      },
-      "artists": [
-        {
-          "name": "Piedbois",
-          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
-        }
-      ],
-      "duration_ms": 231155,
-      "name": "La nuit - Version acoustique",
-      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Loin des yeux",
         "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 167933,
       "name": "Allez reste (feat. Vianney)",
       "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "La nuit (Version acoustique)",
+        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
+      },
+      "artists": [
+        {
+          "name": "Piedbois",
+          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
+        }
+      ],
+      "duration_ms": 231155,
+      "name": "La nuit - Version acoustique",
+      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
     }
   ],
   "unique_name": "Douce France",

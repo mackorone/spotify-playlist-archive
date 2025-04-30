@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,214 songs - 1 day 22 hr 18 min
+1,215 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2021-11-10 | 2022-07-29 |
 | [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 | 2022-10-13 |
 | [7 o'clock](https://open.spotify.com/track/6KPm7sTpDFaFGKn8nIJe1y) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [7 o'clock](https://open.spotify.com/album/4fof8WgryM4FgYnAXg3OSB) | 2:02 | 2022-11-11 | 2023-04-12 |
-| [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 | 2023-02-17 |  |
+| [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 | 2023-02-17 | 2025-04-30 |
 | [A Guide To Daydreaming](https://open.spotify.com/track/0BxpuhfkdRBY2SxPxw8piy) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [A Guide To Daydreaming](https://open.spotify.com/album/2YjHTbrgym2wZBtTiHDCZl) | 2:09 | 2022-06-10 | 2022-07-22 |
 | [A Letter In A Bottle](https://open.spotify.com/track/4DAcn2yYuvTR3TzBlxfdF3) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn) | [A Letter In A Bottle](https://open.spotify.com/album/5VQoDrNEGMznRN5DNkNNWy) | 2:36 | 2022-07-29 | 2022-11-12 |
 | [A Logic Problem](https://open.spotify.com/track/48mBkW6fjxqZtPskOIgiBZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [A Logic Problem](https://open.spotify.com/album/09SaJDAQuZTjnYR292cA6y) | 2:20 | 2024-05-13 | 2024-07-19 |
@@ -1056,6 +1056,7 @@
 | [Teakwood](https://open.spotify.com/track/1xW9riep92zpGZAW0HgmXJ) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Lazy Sunday](https://open.spotify.com/album/5jwXN0zduPh7pYUiIn1kCD) | 2:24 | 2021-11-10 | 2022-07-29 |
 | [Teardrops](https://open.spotify.com/track/595azR8qp2Igyd8YashsEv) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU) | 2:20 | 2021-11-10 | 2022-07-29 |
 | [Temperphone](https://open.spotify.com/track/74KyvOZlIKdTdgvAwvFoXr) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI) | [Shalehouse](https://open.spotify.com/album/2WvAvojUeK4Y52hXmARCXY) | 2:47 | 2021-11-10 | 2022-07-22 |
+| [Tender Is The Night](https://open.spotify.com/track/0WsM5uA94toNNgyuUdWHYs) | [Soft Fortune](https://open.spotify.com/artist/3c0kgUD7FcQGnFPlI1m1Mq) | [Tender Is The Night](https://open.spotify.com/album/6gixRuZHLjlybspXdAhyvJ) | 2:12 | 2025-04-24 |  |
 | [Tenderly](https://open.spotify.com/track/5oslf0fTRGWYrFME2SaL0E) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Dreams from the Shore](https://open.spotify.com/album/7MgdBdKl1aUb0goNIokTn4) | 1:59 | 2021-11-10 | 2022-05-20 |
 | [Textures](https://open.spotify.com/track/4Z2QnTiQrUfxrJBZHo6wSR) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [O\. Cas](https://open.spotify.com/artist/0ojvGNOvlXCd3MUxbXnffM) | [Daydreamin'](https://open.spotify.com/album/35GKdJNXzWlbAplKVvSQQx) | 2:36 | 2022-12-09 | 2023-10-06 |
 | [That Old Feeling](https://open.spotify.com/track/5mM9ZfCjVnOe30pe7ODeUx) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [The Day I Passed](https://open.spotify.com/album/7dTG6eWqHnYkbaTejs52qN) | 2:50 | 2022-08-05 | 2022-11-12 |

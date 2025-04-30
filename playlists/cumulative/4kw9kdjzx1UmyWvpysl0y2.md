@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-970 songs - 2 day 6 hr 45 min
+971 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 | 2024-10-04 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
+| [Crystal Cave](https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Crystal Cave](https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T) | 2:29 | 2025-04-29 |  |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
 | [Cycles](https://open.spotify.com/track/6m5nyZ7HsnNJ5C1XvkY6Ga) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Cycles](https://open.spotify.com/album/56Z8kjqUaZ5qfq7sW9h9CJ) | 3:14 | 2025-03-18 |  |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |

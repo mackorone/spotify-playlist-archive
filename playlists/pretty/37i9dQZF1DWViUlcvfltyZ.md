@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Giallorenzo in cover con il nuovo album INNI E CANTI
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,415 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,417 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 12 | [Chiù](https://open.spotify.com/track/3kpIDFeMw515yS8B9nnife) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Chiù](https://open.spotify.com/album/1i4NUz5S1x2fZnopVRnSzV) | 3:31 |
 | 13 | [Lontano](https://open.spotify.com/track/1uJmufGsODy6ntsKfVkRh0) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Lontano](https://open.spotify.com/album/6MnGDhQzMSNNRVc5RBuSs8) | 2:18 |
 | 14 | [Che mi è preso?](https://open.spotify.com/track/1GD098KBNN1uQhQasNYicL) | [CIENNE](https://open.spotify.com/artist/4R9ObCF70wUhQ6GM8mAV0b) | [Che mi è preso?](https://open.spotify.com/album/0ebgLMdw7JjaxlhDpHgpK2) | 2:31 |
-| 15 | [koto](https://open.spotify.com/track/5yniFR8drO6iJjst7yr2p0) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [koto / al cader della giornata \(Versione semplice\)](https://open.spotify.com/album/21D3PCgLBORufY7UjZpMi9) | 3:45 |
+| 15 | [koto](https://open.spotify.com/track/5yniFR8drO6iJjst7yr2p0) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [koto / al cader della giornata \(versione semplice\)](https://open.spotify.com/album/21D3PCgLBORufY7UjZpMi9) | 3:45 |
 | 16 | [anomalocaris](https://open.spotify.com/track/4BG99Q9sJ9YuUmuIS93X9q) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [anomalocaris](https://open.spotify.com/album/4ukZTubhjzb9zCiMEPieaP) | 3:14 |
 | 17 | [Nel Buio](https://open.spotify.com/track/18G53txinY78N9zsja9TOc) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Nel Buio](https://open.spotify.com/album/6WBUl6p12Wc6FGGwHrK4Tg) | 3:34 |
 | 18 | [f.c.f.t.](https://open.spotify.com/track/10PLh20efmu3leGcpdOFhG) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:35 |

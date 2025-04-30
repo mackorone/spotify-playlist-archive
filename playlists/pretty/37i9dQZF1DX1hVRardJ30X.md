@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko,  Feid, Cazzu and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,070 likes - 56 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,138 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 52 | [Lo entendí](https://open.spotify.com/track/5T8utqGqalHzha7gcCtQat) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Lo entendí](https://open.spotify.com/album/6fCjoc8ljBufvYMCNRAHnZ) | 3:37 |
 | 53 | [Un Pambiche](https://open.spotify.com/track/6SEuc8DL5UGBu8W77338dn) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Un Pambiche](https://open.spotify.com/album/28gZhNsOu3z72WEJVf9Ffe) | 2:41 |
 | 54 | [Solo Y Triste](https://open.spotify.com/track/78dPUxIN9us6Z4ZlPxbpFJ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Solo Y Triste](https://open.spotify.com/album/5xlQHImKHy8gx1B3xhPSsy) | 3:25 |
-| 55 | [SIN AIRE](https://open.spotify.com/track/0zFeDV1p5V9td9V3pFy4uM) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [SIN AIRE](https://open.spotify.com/album/0ikcc9bggZIKkGpH16bajv) | 2:49 |
-| 56 | [Perfume Dior](https://open.spotify.com/track/79puczoWNwwnOSTX4uPhqB) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Perfume Dior](https://open.spotify.com/album/1iv5lEV8vkGY2hObOrRPHK) | 2:02 |
+| 55 | [Solita](https://open.spotify.com/track/4RTYA2tp3QbnClRVZpjD9r) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Solita](https://open.spotify.com/album/430mqknKf6ZV5Ii6tgo3xe) | 3:12 |
+| 56 | [SIN AIRE](https://open.spotify.com/track/0zFeDV1p5V9td9V3pFy4uM) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [SIN AIRE](https://open.spotify.com/album/0ikcc9bggZIKkGpH16bajv) | 2:49 |
+| 57 | [Perfume Dior](https://open.spotify.com/track/79puczoWNwwnOSTX4uPhqB) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Perfume Dior](https://open.spotify.com/album/1iv5lEV8vkGY2hObOrRPHK) | 2:02 |
 
-Snapshot ID: `aAueaQAAAAC7XGONA89yc6JTg1cjagC7`
+Snapshot ID: `aBEBOwAAAAC69ilNNAOKMInPvztwjwuN`

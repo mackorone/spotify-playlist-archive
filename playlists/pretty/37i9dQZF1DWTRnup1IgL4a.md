@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,838 likes - 130 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,867 likes - 130 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Transcriptions](https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Transcriptions](https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s) | 2:50 |
 | 2 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 |
-| 3 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
-| 4 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
-| 5 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
+| 3 | [Remember Yesterday](https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Remember Yesterday](https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5) | 2:16 |
+| 4 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
+| 5 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
 | 6 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 |
 | 7 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
-| 8 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
-| 9 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
-| 10 | [Remember Yesterday](https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Remember Yesterday](https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5) | 2:16 |
+| 8 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
+| 9 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
+| 10 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
 | 11 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
 | 12 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
 | 13 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 17 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 |
 | 18 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
 | 19 | [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 |
-| 20 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 |
+| 20 | [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 |
 | 21 | [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 |
-| 22 | [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 |
-| 23 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
-| 24 | [Resting Shore](https://open.spotify.com/track/66MW13mxvP3JPwqmEyUdBd) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Resting Shore](https://open.spotify.com/album/49ou81TvIutVbtZ46RpkO6) | 3:38 |
-| 25 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 |
-| 26 | [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 |
-| 27 | [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 |
-| 28 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 |
-| 29 | [Meadowglen](https://open.spotify.com/track/0jP6sh3YOXoAZAjv6mmQxo) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Meadowglen](https://open.spotify.com/album/2bbaplzjHNwIlLSy8ocWjd) | 2:54 |
-| 30 | [Water Lilies](https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Water Lilies](https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX) | 2:34 |
-| 31 | [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 |
-| 32 | [Solencia Nocturne](https://open.spotify.com/track/2swYTnezehl0rgydF9jK8Z) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Solencia Nocturne](https://open.spotify.com/album/4jSkEZB6wGW680SvjP1RL2) | 2:50 |
-| 33 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
+| 22 | [Resting Shore](https://open.spotify.com/track/66MW13mxvP3JPwqmEyUdBd) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Resting Shore](https://open.spotify.com/album/49ou81TvIutVbtZ46RpkO6) | 3:38 |
+| 23 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 |
+| 24 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
+| 25 | [Daytime](https://open.spotify.com/track/1N4mF5RdQwvKGQ5666mw2s) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Daytime](https://open.spotify.com/album/6QoaEohAFbOn1Bg6wUtyae) | 2:36 |
+| 26 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 |
+| 27 | [In Every Moment](https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [In Every Moment](https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7) | 2:51 |
+| 28 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
+| 29 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 |
+| 30 | [Meadowglen](https://open.spotify.com/track/0jP6sh3YOXoAZAjv6mmQxo) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Meadowglen](https://open.spotify.com/album/2bbaplzjHNwIlLSy8ocWjd) | 2:54 |
+| 31 | [Water Lilies](https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Water Lilies](https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX) | 2:34 |
+| 32 | [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 |
+| 33 | [Solencia Nocturne](https://open.spotify.com/track/2swYTnezehl0rgydF9jK8Z) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Solencia Nocturne](https://open.spotify.com/album/4jSkEZB6wGW680SvjP1RL2) | 2:50 |
 | 34 | [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 |
 | 35 | [Parallel](https://open.spotify.com/track/0hz1P3cEakXbQzaNjpoOwK) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Parallel](https://open.spotify.com/album/7zpkVAGBnaU0yBNrVipsxH) | 2:37 |
 | 36 | [Consolata](https://open.spotify.com/track/7egT9FX8MKlnTzFfxJ0SWg) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Consolata](https://open.spotify.com/album/5VL0da8nssniJPw6Ljdcny) | 2:38 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 129 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
 | 130 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
 
-Snapshot ID: `aAeylQAAAADWFgnU08kAwf9yReJFFo8g`
+Snapshot ID: `aBCt/wAAAAB5KLVLpevLbb2tQ4vJqT61`

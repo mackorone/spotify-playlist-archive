@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-791 songs - 1 day 9 hr 43 min
+792 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Chords In D](https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Chords In D](https://open.spotify.com/album/2jZjzsKKH6LLi8tgsUPjWm) | 2:46 | 2025-02-19 |  |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 | 2023-04-22 |
+| [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 | 2025-04-29 |  |
 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 |  |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2023-04-21 | 2023-08-26 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
@@ -383,7 +384,7 @@
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 | 2025-04-29 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-04-21 | 2024-11-07 |
-| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 | 2025-04-30 |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2023-04-21 | 2024-09-11 |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-15 | 2023-04-22 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-15 | 2023-04-22 |

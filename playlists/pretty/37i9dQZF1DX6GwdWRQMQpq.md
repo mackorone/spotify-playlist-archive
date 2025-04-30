@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,230,005 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,230,140 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Move Pt\. 2](https://open.spotify.com/track/43jK2dpFWOE8MwT1UrStEa) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Move Pt\. 2](https://open.spotify.com/album/2HNBlkI3hyoHUZJfHFjAKQ) | 2:27 |
 | 50 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 
-Snapshot ID: `aAsI9wAAAACrUR4OYlunrvXM3SlO28nu`
+Snapshot ID: `aAsI9wAAAAB0gJQAPksgAQ4KoCxXiJmN`

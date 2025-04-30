@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10941,
+  "num_followers": 10940,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,30 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "RYK",
+        "url": "https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH"
+      },
+      "artists": [
+        {
+          "name": "Szaran",
+          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        },
+        {
+          "name": "Hubi",
+          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
+        }
+      ],
+      "duration_ms": 127293,
+      "name": "HUTA (gasn\u0105 \u015bwiat\u0142a)",
+      "url": "https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "DresKot",
         "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 211333,
       "name": "Nie obiecam",
       "url": "https://open.spotify.com/track/6oWYMN1M7M97LTvlRkWfVv"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "RYK",
-        "url": "https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH"
-      },
-      "artists": [
-        {
-          "name": "Szaran",
-          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        },
-        {
-          "name": "Hubi",
-          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
-        }
-      ],
-      "duration_ms": 127293,
-      "name": "HUTA (gasn\u0105 \u015bwiat\u0142a)",
-      "url": "https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Zapiski z Landary",
+        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        },
+        {
+          "name": "Hemp Gru",
+          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
+        }
+      ],
+      "duration_ms": 216869,
+      "name": "Tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "LEVEL DOWN",
         "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
       },
@@ -1131,30 +1155,6 @@
       "duration_ms": 321702,
       "name": "LEVEL DOWN",
       "url": "https://open.spotify.com/track/1uU3qFjCD0NLpWco9f8mHD"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Zapiski z Landary",
-        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        },
-        {
-          "name": "Hemp Gru",
-          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
-        }
-      ],
-      "duration_ms": 216869,
-      "name": "Tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
     },
     {
       "added_at": "2025-04-24 21:35:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Rufus T\. Firefly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,210 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,217 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 56 | [quebrantarse](https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [quebrantarse](https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG) | 2:40 |
 | 57 | [Gatos De Gasolinera](https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 2:37 |
 | 58 | [El Laberinto \[2012\]](https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Laberinto \[2012\]](https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV) | 3:51 |
-| 59 | [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 |
-| 60 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 |
+| 59 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 |
+| 60 | [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 |
 | 61 | [Nuevas melodías \(feat\. Mario Diaz\)](https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh) | [Nuevas melodías \(feat\. Mario Diaz\)](https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP) | 3:26 |
 | 62 | [Allá Donde Esté El Cielo](https://open.spotify.com/track/5hpn85z6DtmTsJ1KiSI7cC) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Allá Donde Esté El Cielo](https://open.spotify.com/album/72EWwKtQ8R7D8fbu98hyQx) | 3:45 |
 | 63 | [No Me Digas La Verdad](https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4), [Noni Meyers](https://open.spotify.com/artist/1KmaOhEgiG0WHh3ie3F3HF) | [No Me Digas La Verdad](https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c) | 3:15 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 72 | [Salvavidas](https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Salvavidas](https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG) | 2:59 |
 | 73 | [Vienen de pasárselo bien con Tulsa](https://open.spotify.com/track/3KO1M1W2HiBYEMG3wLj0ep) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Vienen de pasárselo bien con Tulsa](https://open.spotify.com/album/2a4LzDTCkiCkYtIsd6L1LD) | 2:46 |
 | 74 | [Rendición](https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [bruno](https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna) | [Rendición](https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s) | 3:44 |
-| 75 | [Al infierno](https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Al infierno](https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA) | 3:38 |
-| 76 | [TECHNO TRISTE](https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SORA](https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn) | 3:44 |
+| 75 | [TECHNO TRISTE](https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SORA](https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn) | 3:44 |
+| 76 | [Al infierno](https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Al infierno](https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA) | 3:38 |
 | 77 | [Ni bien ni mal](https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Ni bien ni mal](https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4) | 3:23 |
 | 78 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 |
 | 79 | [El efímero arte de perdonar](https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [El efímero arte de perdonar](https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7) | 2:40 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 82 | [nada importa](https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [nada importa](https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3) | 2:58 |
 | 83 | [Se Nota](https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Se Nota](https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N) | 2:42 |
 | 84 | [Me acuerdo de todo](https://open.spotify.com/track/2hscOVTRgUzzSCUZkITbRd) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [ME ACUERDO DE TODO](https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ) | 3:45 |
-| 85 | [Tu Voz](https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tu Voz](https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII) | 4:23 |
-| 86 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
+| 85 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
+| 86 | [Tu Voz](https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tu Voz](https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII) | 4:23 |
 | 87 | [PROFECÍA](https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [CIELO1](https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB) | 2:30 |
 | 88 | [Dar Dos](https://open.spotify.com/track/2TzV7yrc3A8ejmytkN1z2P) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Dar Dos](https://open.spotify.com/album/31hoqRwucjvltHHDsl9UuN) | 3:33 |
 | 89 | [Sí quiero](https://open.spotify.com/track/4xJn8krR7GdVAY88BtXjBQ) | [Gala i Ovidio](https://open.spotify.com/artist/1WDaT0hseXn1UAQRQwtM1P), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [AIDA](https://open.spotify.com/artist/7mkLeKjDZrtDQhQ3nRheBb) | [Sí quiero](https://open.spotify.com/album/5imykjy0TikI0PLzJmmrBP) | 3:42 |

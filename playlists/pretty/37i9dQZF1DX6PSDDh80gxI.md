@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > C'è Carl Brave in cover di Indie Italia ed è subito amarcord  🌃
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,611 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,665 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 49 | [QUANTO TI IMPORTA](https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [QUANTO TI IMPORTA](https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY) | 3:07 |
 | 50 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 |
 | 51 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 |
-| 52 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [Basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 52 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
 | 53 | [L'ultima canzone](https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:34 |
 | 54 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
 | 55 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |

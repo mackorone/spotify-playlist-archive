@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,384 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,592 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PANAMIUR](https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [SEX\-TEX](https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS) | 2:51 |
 | 2 | [Triple Lavada](https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Triple Lavada](https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P) | 2:45 |
 | 3 | [Fancy](https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Fancy](https://open.spotify.com/album/56bx66S5IACSXarZGq1D2D) | 2:52 |
-| 4 | [1PERREO](https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [1PERREO](https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv) | 2:09 |
+| 4 | [1PERREO](https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [1PERREO](https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv) | 2:09 |
 | 5 | [Monica](https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [MONICA](https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3) | 2:11 |
 | 6 | [Sola](https://open.spotify.com/track/4iwOAvxOS7reyD6EAFr6dN) | [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Sola](https://open.spotify.com/album/6HMq15hlgpDx0c3dXUt5AK) | 3:46 |
 | 7 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 25 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
 | 26 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
 | 27 | [Bailar](https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH) | [Bailar](https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt) | 3:28 |
-| 28 | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA) | 2:34 |
-| 29 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
+| 28 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
+| 29 | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA) | 2:34 |
 | 30 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
 | 31 | [Juguetona](https://open.spotify.com/track/26oMIjeGkEonsecfDLW5b0) | [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Nova "La Amenaza"](https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Juguetona](https://open.spotify.com/album/3zOc6LvKoVlbeTJ1MslyuG) | 2:30 |
 | 32 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |

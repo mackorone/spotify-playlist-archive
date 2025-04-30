@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Little Homie
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,860 likes - 130 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,054 likes - 130 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

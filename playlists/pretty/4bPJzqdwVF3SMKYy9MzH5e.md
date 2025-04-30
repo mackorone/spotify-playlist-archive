@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,123 songs - 4 day 17 hr 58 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,128 songs - 4 day 18 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2131,5 +2131,10 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2121 | [TU QUIERE BAILAR](https://open.spotify.com/track/2E402UKUx9geWqtRpMj5oX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [TU QUIERE BAILAR](https://open.spotify.com/album/3V0VfbPq775O3a0tNK2FIX) | 2:03 |
 | 2122 | [Mexe Mexe \(feat\. Mc Gw\)](https://open.spotify.com/track/6xIGDK6PqbbreIhdQxxscN) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mexe Mexe \(feat\. Mc Gw\)](https://open.spotify.com/album/6Ck2rltm83RY66IhFznRJ0) | 3:36 |
 | 2123 | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/album/49KddmD3D6OD8USyLdTHCe) | 3:36 |
+| 2124 | [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 |
+| 2125 | [Glacier Pack](https://open.spotify.com/track/66QxkYu2FaOOwXwGozYUQe) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Glacier Pack](https://open.spotify.com/album/5TywaPIiadt6Oic1ApTij2) | 2:07 |
+| 2126 | [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 |
+| 2127 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
+| 2128 | [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 |
 
-Snapshot ID: `AAAEHhsAN5CZJvaxk1+XlD/wJzHmk+m7`
+Snapshot ID: `AAAEI3KsLSrum/gj9NJhyaaYcJdOZiZE`

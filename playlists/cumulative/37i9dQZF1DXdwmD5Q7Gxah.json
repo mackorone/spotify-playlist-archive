@@ -23123,6 +23123,24 @@
     },
     {
       "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/2ng2h7smH52oleaooKsCTV"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3PyDLRIhkP5H8ox85fEwxb"
+    },
+    {
+      "album": {
         "name": "Ram (Archive Collection)",
         "url": "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v"
       },

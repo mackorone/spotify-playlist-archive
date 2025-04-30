@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: MOONGA K.
+> Songs from LGBTQIA+ artists\.  Cover: Alessandra
 
-1,462 songs - 3 day 7 hr 18 min
+1,463 songs - 3 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-03-11 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-07 | 2022-04-21 |
 | [ifyoulikeitlikethat](https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ifyoulikeitlikethat](https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5) | 3:11 | 2024-01-10 | 2024-02-14 |
-| [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-04-08 |  |
+| [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-04-08 | 2025-04-30 |
 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 | 2024-05-06 | 2024-06-06 |
 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2021-12-17 | 2022-01-29 |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-15 |  |
@@ -911,6 +911,7 @@
 | [No Siento Nada](https://open.spotify.com/track/26njrrC807IokAXRM08tQN) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [SEASON I](https://open.spotify.com/album/561lG9BweytmTlZwizsJx3) | 3:02 | 2024-10-02 | 2024-12-05 |
 | [Nobody](https://open.spotify.com/track/05PIVjVJ0o8CweX6P91GJ5) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 3:09 | 2021-12-17 | 2022-01-29 |
 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 | 2022-04-29 | 2022-11-13 |
+| [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 | 2025-04-29 |  |
 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 | 2024-07-09 | 2025-02-12 |
 | [Not Even In Vegas](https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Not Even In Vegas](https://open.spotify.com/album/5XtC3nUPdSyxC2RLLaiZQF) | 2:55 | 2021-12-17 | 2022-01-27 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2021-12-17 | 2022-04-13 |

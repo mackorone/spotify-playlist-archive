@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1604318,
+  "num_followers": 1604440,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
         }
       ],
-      "duration_ms": 175327,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -451,22 +455,18 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "Mind Still (feat. blythe)",
-        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 156498,
-      "name": "Mind Still (feat. blythe)",
-      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+      "duration_ms": 175327,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
-    },
-    {
-      "added_at": "2025-04-25 13:26:44",
-      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2025-04-25 13:26:44",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
+        "name": "Humans",
+        "url": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
+    },
+    {
+      "added_at": "2025-04-25 13:26:44",
+      "album": {
         "name": "One More Thing",
         "url": "https://open.spotify.com/album/1GWjugkKrXYklmMaDpoWD7"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 210000,
       "name": "One More Thing",
       "url": "https://open.spotify.com/track/0Mk1NKKRRpR4ZWRHJOmKu3"
-    },
-    {
-      "added_at": "2025-04-25 13:26:44",
-      "album": {
-        "name": "Humans",
-        "url": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "Blue Symphony",
-        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
-    },
-    {
-      "added_at": "2025-04-25 13:26:44",
-      "album": {
         "name": "Nothing Ever Changes",
         "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2025-04-25 13:26:44",
+      "album": {
+        "name": "I Need A Miracle",
+        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Coco Star",
+          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+        }
+      ],
+      "duration_ms": 193353,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "I Need A Miracle",
-        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
       "artists": [
         {
@@ -1380,13 +1380,13 @@
           "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         },
         {
-          "name": "Coco Star",
-          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 193353,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1503,18 +1503,22 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "Childish(ish)",
-        "url": "https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ"
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Walk The Plank",
-      "url": "https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk"
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1535,22 +1539,18 @@
     {
       "added_at": "2025-04-25 13:26:44",
       "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+        "name": "Childish(ish)",
+        "url": "https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+      "duration_ms": 285000,
+      "name": "Walk The Plank",
+      "url": "https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1727,6 +1727,30 @@
       "duration_ms": 184737,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+    },
+    {
+      "added_at": "2025-04-25 13:26:44",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0ZurJfSYiXVQI1Y6bHwzRa"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4Y4873G9rIrmAAYBqJPqWG"
     },
     {
       "added_at": "2025-04-25 13:26:44",
@@ -1951,30 +1975,6 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
-    },
-    {
-      "added_at": "2025-04-25 13:26:44",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0ZurJfSYiXVQI1Y6bHwzRa"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4Y4873G9rIrmAAYBqJPqWG"
     },
     {
       "added_at": "2025-04-25 13:26:44",

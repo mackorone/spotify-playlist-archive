@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,940 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,948 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,19 +78,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 68 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 69 | [Insolente](https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Insolente](https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8) | 3:52 |
 | 70 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 71 | [Hasta la Raíz Más Profunda](https://open.spotify.com/track/5hd5EoH9c0HCrKM1oFYmFg) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [Hasta la Raíz Más Profunda](https://open.spotify.com/album/3aKn3QOD3YQapVnXlzM5ea) | 2:44 |
-| 72 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
-| 73 | [DES0KUPA](https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [DES0KUPA](https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI) | 2:27 |
+| 71 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
+| 72 | [DnD](https://open.spotify.com/track/2YFYAYgPbo74J6wTfoFvQ2) | [MORDIERON AL PERRO](https://open.spotify.com/artist/0LL216CeMBXA2Arfmh6z6f) | [DnD](https://open.spotify.com/album/6AcRp4y0OgpPqKR66y0YUR) | 1:56 |
+| 73 | [Hasta la Raíz Más Profunda](https://open.spotify.com/track/5hd5EoH9c0HCrKM1oFYmFg) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [Hasta la Raíz Más Profunda](https://open.spotify.com/album/3aKn3QOD3YQapVnXlzM5ea) | 2:44 |
 | 74 | [Flakos](https://open.spotify.com/track/6NoGBsWTCSi4D5yHLO5hz9) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [Flakos](https://open.spotify.com/album/4bmytLfH88cDDDLUz96FV4) | 3:40 |
-| 75 | [DnD](https://open.spotify.com/track/2YFYAYgPbo74J6wTfoFvQ2) | [MORDIERON AL PERRO](https://open.spotify.com/artist/0LL216CeMBXA2Arfmh6z6f) | [DnD](https://open.spotify.com/album/6AcRp4y0OgpPqKR66y0YUR) | 1:56 |
+| 75 | [DES0KUPA](https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [DES0KUPA](https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI) | 2:27 |
 | 76 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 77 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
 | 78 | [Asesino](https://open.spotify.com/track/5Ea2vv462Slyk3xh9mBRnV) | [Anti\-Regimen](https://open.spotify.com/artist/31Z203RSSNLMPBEiVSlKPX) | [Asesino](https://open.spotify.com/album/7CWCkNZXurX0lIxMxsu60Z) | 1:51 |
-| 79 | [Vendimia Rock](https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2) | [Fabes con Almejes](https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd) | [Anís&Roll](https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K) | 3:20 |
-| 80 | [La jaula dorada](https://open.spotify.com/track/6TlrJK8MzODPvxjUeQSlzB) | [Los Saneadores](https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx) | [La jaula dorada](https://open.spotify.com/album/1pWe9WMNtvMTv1qbZElxO5) | 2:58 |
-| 81 | [Nada es Suficiente](https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Nada es Suficiente](https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA) | 3:32 |
-| 82 | [El Niño Polla](https://open.spotify.com/track/20pn8830V0szvHyPZBR1cq) | [Presidentas Vivas](https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm), [Vaiolens](https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo) | [El Niño Polla](https://open.spotify.com/album/6j1xhy6BCfzqqh9uNZ2rNR) | 2:35 |
-| 83 | [Carnets de Punk](https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Carnets de Punk](https://open.spotify.com/album/4FjpSTt120gOFef0tQxn3y) | 2:31 |
+| 79 | [Nada es Suficiente](https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Nada es Suficiente](https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA) | 3:32 |
+| 80 | [Vendimia Rock](https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2) | [Fabes con Almejes](https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd) | [Anís&Roll](https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K) | 3:20 |
+| 81 | [La jaula dorada](https://open.spotify.com/track/6TlrJK8MzODPvxjUeQSlzB) | [Los Saneadores](https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx) | [La jaula dorada](https://open.spotify.com/album/1pWe9WMNtvMTv1qbZElxO5) | 2:58 |
+| 82 | [Carnets de Punk](https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Carnets de Punk](https://open.spotify.com/album/4FjpSTt120gOFef0tQxn3y) | 2:31 |
+| 83 | [El Niño Polla](https://open.spotify.com/track/20pn8830V0szvHyPZBR1cq) | [Presidentas Vivas](https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm), [Vaiolens](https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo) | [El Niño Polla](https://open.spotify.com/album/6j1xhy6BCfzqqh9uNZ2rNR) | 2:35 |
 | 84 | [BARNEKO DISDIRA](https://open.spotify.com/track/3VjSI6cui9LYK9jMpwemhs) | [Brigade Loco](https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd) | [BARNEKO DISDIRA](https://open.spotify.com/album/040DUjtixH23QpspLUQ7lS) | 3:20 |
 | 85 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
 | 86 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |

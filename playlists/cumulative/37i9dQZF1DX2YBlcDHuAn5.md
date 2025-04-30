@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-222 songs - 13 hr 16 min
+223 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,12 +174,13 @@
 | [Silver Morning](https://open.spotify.com/track/7nSE52gSLazh76G7wzGGLt) | [Dan Tuffy](https://open.spotify.com/artist/7E3jTzEtqouFXINhlSgHiy), [Song Crew](https://open.spotify.com/artist/4BgaiIVWUFTGvJ0Pu1ax83), [Zlaya Loud](https://open.spotify.com/artist/4wD0BJ41uvaqif4jwDNP6D) | [Silver Morning](https://open.spotify.com/album/6t0tEMqPYhvwygv6RP4w6p) | 3:01 | 2023-06-02 | 2023-07-07 |
 | [Siren Song](https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Siren Song](https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim) | 4:09 | 2023-09-14 | 2024-11-15 |
 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 | 2023-02-23 | 2024-06-28 |
+| [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 | 2025-04-25 |  |
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-11-14 |  |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2023-02-23 | 2024-03-13 |
 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 | 2024-06-27 |  |
 | [Stop Walking In The Rain](https://open.spotify.com/track/43rhjLzYcgSKqpDCZ4W8rw) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Stop Walking In The Rain](https://open.spotify.com/album/2VtOOyw4qRsdZVGtDCRScH) | 3:04 | 2024-10-03 | 2025-02-16 |
 | [Streetcorner Hero](https://open.spotify.com/track/2ojmF50JPKFhUsSQHeCTfP) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Streetcorner Hero](https://open.spotify.com/album/4NKsexEU2O5L06mER89LOd) | 3:06 | 2024-07-25 | 2025-02-04 |
-| [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 | 2023-09-29 |  |
+| [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 | 2023-09-29 | 2025-04-30 |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2025-02-03 |  |
 | [Sunday Mornin' Opry](https://open.spotify.com/track/6Jfb3uNm1yt6emEGQAewJI) | [Robert Weston](https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY) | [Sunday Mornin' Opry](https://open.spotify.com/album/6FzbHSdMrzVR0o6C1GN5Rp) | 3:22 | 2023-11-09 | 2025-01-17 |
 | [Sunrise](https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04) | [The Golden Glows](https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment) | [Sunrise](https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT) | 3:27 | 2023-09-07 | 2024-09-27 |

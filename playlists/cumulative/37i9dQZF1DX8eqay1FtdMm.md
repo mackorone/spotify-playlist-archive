@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 대성\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 다비치\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-599 songs - 1 day 15 hr 11 min
+600 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Daily Song](https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Ordinary](https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5) | 4:19 | 2021-12-20 | 2022-07-27 |
 | [A Flying Butterfly](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Why Be?](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) | 3:34 | 2024-05-29 | 2024-06-06 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-24 | 2022-07-23 |
+| [A Song For You](https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A Song For You](https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe) | 3:47 | 2025-04-29 |  |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-28 | 2023-03-06 |
 | [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-10 | 2025-03-27 |
 | [A Song For You](https://open.spotify.com/track/28ocL3QAnZYKfC6KKHYSq3) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [A Song For You \(2nd MAKE:UP\)](https://open.spotify.com/album/5SPMrBVM6ZOg2DBRHR2s3D) | 4:03 | 2022-01-18 | 2022-06-01 |
@@ -449,7 +450,7 @@
 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 | 2024-08-09 |  |
 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 | 2024-05-21 |
 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 | 2025-02-10 |
-| [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 |  |
+| [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 | 2025-04-30 |
 | [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 | 2024-07-17 |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |

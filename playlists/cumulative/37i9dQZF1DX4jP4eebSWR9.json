@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Aymen",
+  "description": "50 Hits in einer Playlist! Cover: benno!",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 165993,
       "name": "EIN TEIL VON MIR",
       "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
@@ -1280,6 +1280,32 @@
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "GUT AUS",
+        "url": "https://open.spotify.com/album/52aJpNsxBH4BXFKYMXGsKw"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131560,
+      "name": "GUT AUS",
+      "url": "https://open.spotify.com/track/2kiI6BhRBQDgA9BKOeahTx"
     },
     {
       "album": {
@@ -2856,7 +2882,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 120584,
       "name": "sch\u00f6nhauser (feat. Gustav)",
       "url": "https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj"
@@ -3540,6 +3566,24 @@
       "duration_ms": 163402,
       "name": "WENN DU DUMM BiST",
       "url": "https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B"
+    },
+    {
+      "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "album": {

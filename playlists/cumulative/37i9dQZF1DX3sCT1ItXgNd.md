@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Hey Kid
 
-698 songs - 1 day 10 hr 57 min
+700 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 | 2023-05-19 | 2024-04-13 |
 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 | 2023-12-18 | 2024-02-13 |
 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 | 2024-03-18 | 2024-04-02 |
-| [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-13 |  |
+| [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-13 | 2025-04-30 |
 | [Alondra](https://open.spotify.com/track/5sNfMWrRCDDR1rhGPxWAYP) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Alondra](https://open.spotify.com/album/6LAvAHjjNu4d5odB0Dd5eb) | 3:06 | 2024-07-22 | 2024-07-31 |
 | [alto ahí](https://open.spotify.com/track/1kAwAe6ubWffQwjucRnqy0) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [alto ahí](https://open.spotify.com/album/4aWWKkZEUd2zqGYHX6lYYE) | 2:46 | 2023-03-21 | 2023-04-04 |
 | [AMALFI](https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [AMALFI](https://open.spotify.com/album/7cCGN8rn9b3M72bdqHJEIc) | 2:16 | 2024-07-09 | 2024-10-05 |
@@ -400,6 +400,7 @@
 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 | 2023-10-27 | 2024-02-02 |
 | [MI BANDERA](https://open.spotify.com/track/6xQ7rp1lFACStJDpJF5KW8) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:21 | 2023-06-01 | 2023-07-26 |
 | [Mi Casa](https://open.spotify.com/track/2MmQp3JZbkGzf86Zxuot1p) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mi Casa](https://open.spotify.com/album/07K31AzBLwNejQC1dUb8Zf) | 3:01 | 2024-12-16 |  |
+| [mi chico](https://open.spotify.com/track/1uVTPJ0aA3i2gzU0JLRQrO) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [mis notas de voz](https://open.spotify.com/album/7MGyAKA45X9cktpP6gUL5l) | 3:33 | 2025-04-29 |  |
 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 | 2024-05-20 | 2024-06-04 |
 | [Mi Nombre](https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [Mi Nombre](https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK) | 2:52 | 2025-04-14 |  |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-09 |  |
@@ -491,6 +492,7 @@
 | [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-13 | 2024-10-22 |
 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 | 2024-02-26 | 2024-07-10 |
 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 | 2023-08-01 | 2023-11-29 |
+| [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 | 2025-04-29 |  |
 | [Ping Pong](https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ping Pong](https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15) | 2:39 | 2023-08-01 | 2023-09-22 |
 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 | 2023-10-23 | 2024-07-05 |
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-11-13 | 2023-11-29 |
@@ -561,7 +563,7 @@
 | [SANTORINI \(feat\. Marmi\)](https://open.spotify.com/track/3hKFVBIUvDyigbQLZR4z9H) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [OCHO ESTRELLAS](https://open.spotify.com/album/2kixxqgzMIXRNBKv6mvMua) | 2:44 | 2023-03-13 | 2023-09-22 |
 | [Se Fue](https://open.spotify.com/track/57ZbyAga41GuUkzjbMNDXW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Se Fue](https://open.spotify.com/album/09nnMPXpLA4fFWdCZOFNPq) | 4:01 | 2024-11-18 |  |
 | [Se Pregunta La Vecina](https://open.spotify.com/track/3WhVjNfZcLVDHEhfsQuEI8) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Se Pregunta La Vecina](https://open.spotify.com/album/0e7xhSOtgSwUo8WRufleoq) | 3:08 | 2024-04-12 | 2024-04-24 |
-| [Se Suponía](https://open.spotify.com/track/4RFldgMjUKsJW2xGRyu0w4) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Se Suponía](https://open.spotify.com/album/4h0FM2SbH2h4yxh0ifiGvP) | 2:41 | 2025-04-14 |  |
+| [Se Suponía](https://open.spotify.com/track/4RFldgMjUKsJW2xGRyu0w4) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Se Suponía](https://open.spotify.com/album/4h0FM2SbH2h4yxh0ifiGvP) | 2:41 | 2025-04-14 | 2025-04-30 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-23 | 2025-03-28 |
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-11-28 | 2024-07-16 |
 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 | 2023-06-20 | 2023-08-22 |

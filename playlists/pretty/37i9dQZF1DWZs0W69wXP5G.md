@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,439 likes - 79 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,447 likes - 79 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

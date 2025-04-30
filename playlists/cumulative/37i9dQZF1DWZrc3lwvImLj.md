@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-469 songs - 20 hr 31 min
+471 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 | 2025-04-10 |
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-10 | 2023-11-16 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2021-12-14 | 2023-07-05 |
+| [Daydreaming](https://open.spotify.com/track/2lE2dYtmE0ytbr7dBGDe9K) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Daydreaming](https://open.spotify.com/album/5Ob9qHG2BJVbwt89Phzcsj) | 2:23 | 2025-04-29 |  |
 | [De perdidos, al río](https://open.spotify.com/track/77axyFLRvnyWiI6abb8cbB) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [De perdidos, al río](https://open.spotify.com/album/1rIa8uQewnc0QDar4v6cDh) | 1:57 | 2022-03-30 | 2023-11-16 |
 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 | 2022-02-02 | 2023-11-16 |
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 | 2023-11-16 |
@@ -304,6 +305,7 @@
 | [Que seas tu](https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Que seas tu](https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX) | 2:34 | 2024-09-10 |  |
 | [Queequeg](https://open.spotify.com/track/7K9brdkcBy95CVTFW9DYMB) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Queequeg](https://open.spotify.com/album/20KRmHdgOj8p6NVDJrgdtV) | 3:00 | 2025-02-19 |  |
 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 | 2022-04-22 |  |
+| [Quiet Refract](https://open.spotify.com/track/5bnkOhFsDovjtIrtVQRd7t) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Quiet Refract](https://open.spotify.com/album/387xYEos0HSG3qinsCS6QQ) | 2:15 | 2025-04-29 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-14 | 2023-11-16 |
 | [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 | 2023-07-04 |  |
 | [Reflections](https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Reflections](https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG) | 2:36 | 2022-08-03 |  |

@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-698 songs - 1 day 11 hr 25 min
+699 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Liesje Leerde Lotje Lopen](https://open.spotify.com/track/25T2F6whIIceQeYfj7becR) | [JØNATHAN.](https://open.spotify.com/artist/0CWas85XmhIooGOMcd5cR9) | [Liesje Leerde Lotje Lopen](https://open.spotify.com/album/38BQNDedQJXk0lWaGFNIj3) | 2:29 | 2024-06-03 | 2024-11-01 |
 | [life gets hard](https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/64NXiz0recaVJwJl0Bzabp) | 2:05 | 2024-04-18 | 2024-09-12 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-27 | 2024-04-19 |
+| [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 | 2025-04-29 |  |
 | [Links Rechts](https://open.spotify.com/track/5EcPtaqxmPvgLcB5gRPF2j) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [… En Door](https://open.spotify.com/album/2GIjZeYF4Nb2ELwIEjuWmZ) | 2:39 | 2024-07-10 | 2024-10-02 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-15 | 2024-09-12 |
 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 | 2023-10-04 | 2024-02-09 |

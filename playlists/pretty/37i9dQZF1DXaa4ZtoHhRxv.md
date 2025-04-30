@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,173 likes - 182 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,223 likes - 182 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

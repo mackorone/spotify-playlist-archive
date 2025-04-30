@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, UrvTek and more
+> With Joshua Lanuarii, STYXVII, UrvTek and more
 
 146 songs - 6 hr 13 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,590 likes - 71 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,604 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 70 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 |
 | 71 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 
-Snapshot ID: `aA81kQAAAAD4zecOyETirXsM/sS1oq3t`
+Snapshot ID: `aBDyXgAAAADv5O3pmNlVdbFOvcHHGRKk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,406 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,407 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 |
 | 50 | [Julio](https://open.spotify.com/track/06mKlVJEJvUObtruuxQuKi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Street Runnaz 71](https://open.spotify.com/album/0DUanaQOnLsiDiMnSN2dwh) | 3:14 |
 
-Snapshot ID: `aA1zgAAAAABRez5wIAa6IIe32y7mM88O`
+Snapshot ID: `aA1zgAAAAACkxplAMEzh6uLxPnim2awW`

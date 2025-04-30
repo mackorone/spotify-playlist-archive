@@ -12656,7 +12656,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -14040,7 +14040,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -14358,7 +14358,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
@@ -15134,7 +15134,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -15636,7 +15636,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 297419,
       "name": "\u4f60\u6d41\u6dda\u6240\u4ee5\u6211\u6d41\u6dda",
       "url": "https://open.spotify.com/track/7p2E1uvLja1HScPYwa13Ho"
@@ -18122,10 +18122,28 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 206400,
       "name": "\u65e9\u77e5",
       "url": "https://open.spotify.com/track/7xdLlJHqhWRxK3WgVV5ROr"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2hqn6nnLAjG70UlxvKDbUV"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Tse",
+          "url": "https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206464,
+      "name": "\u65e9\u77e5",
+      "url": "https://open.spotify.com/track/3xeUxt70uSPDfzxCbX3jwz"
     },
     {
       "album": {
@@ -18346,7 +18364,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 236255,
       "name": "\u666e\u6e21\u773e\u751f - \u300a\u7834\uff0e\u5730\u7344\u300b THE LAST DANCE \u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3"
@@ -20876,7 +20894,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 273390,
       "name": "\u8a18\u61b6\u68c9",
       "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
@@ -22100,7 +22118,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

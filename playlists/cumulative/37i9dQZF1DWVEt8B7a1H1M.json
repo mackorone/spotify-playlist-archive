@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Singing For Hours",
+        "url": "https://open.spotify.com/album/1kpWbOWaf5K90Ql2IgrSSE"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Birds",
+          "url": "https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Singing For Hours",
+      "url": "https://open.spotify.com/track/77NfYBAa0Skbyna65Rz0D8"
+    },
+    {
+      "album": {
         "name": "180 Nature Sounds",
         "url": "https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 177290,
       "name": "Swedish Spring Birds",
       "url": "https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Lorde on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,348 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,338 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Phone Ring \(with Benny The Butcher and Maxo Kream\)](https://open.spotify.com/track/0ypqbEoW7tEKMCwZnSq079) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Phone Ring](https://open.spotify.com/album/2vjFRerPJlqKehVhStJPhn) | 2:31 |
 | 48 | [MONDAY](https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY](https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB) | 4:03 |
 | 49 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 |
-| 50 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Act Right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
+| 50 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 51 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
 | 52 | [On One](https://open.spotify.com/track/55hxnwxFlgo6ROVsv3AIYa) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [On One](https://open.spotify.com/album/43IeQ9VgfciGakTlsVZ4oq) | 2:43 |
 | 53 | [Bullet](https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Bullet](https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ) | 2:35 |

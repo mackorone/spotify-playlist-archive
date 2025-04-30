@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-425 songs - 18 hr 51 min
+427 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Imagined Narrative](https://open.spotify.com/track/0tZ2tSsFkABoh2pUSAiJmq) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Imagined Narrative](https://open.spotify.com/album/3RjnFeFcUqTj6I0afE0aQ9) | 2:33 | 2024-05-10 |  |
 | [Imperfect surface](https://open.spotify.com/track/1IwZ0a1rx9WhSRw2fsxVBy) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Imperfect surface](https://open.spotify.com/album/4jzA8qFhsy53HbwTziuZFg) | 2:34 | 2024-11-20 |  |
 | [In A Dream](https://open.spotify.com/track/1YZuQQr59Qyt8GDurB8ghX) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [In A Dream](https://open.spotify.com/album/0ztD5jQE1F3plYTyquXMTT) | 3:54 | 2024-11-11 |  |
+| [In Every Moment](https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [In Every Moment](https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7) | 2:51 | 2025-04-29 |  |
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-02-02 |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-03-10 | 2023-08-26 |
 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 | 2023-03-10 |
@@ -237,6 +238,7 @@
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
 | [Morning Gifts](https://open.spotify.com/track/0rzUmunEigDbc5oZJwjScg) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Morning Gifts](https://open.spotify.com/album/1fUdgeiqaGxHXoB2Xs5692) | 2:13 | 2023-05-26 | 2023-06-10 |
 | [Mother](https://open.spotify.com/track/5gaAuySZEHflS9lLLIEXkG) | [Sergio Sorrentino](https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN) | [Mother](https://open.spotify.com/album/4SEJYvpvBcKwRGS83ihp2f) | 2:22 | 2022-10-28 | 2024-05-10 |
+| [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 | 2025-04-29 |  |
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 | 2023-03-10 |
 | [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 | 2024-06-28 |
 | [Naufragados](https://open.spotify.com/track/7DrDuLNcpOX4Y5NKiFavUD) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Naufragados](https://open.spotify.com/album/5aq6xtIGXkL8Y13VhHNx4G) | 2:42 | 2024-02-23 |  |
@@ -373,7 +375,7 @@
 | [The Wind's Lullaby](https://open.spotify.com/track/59RRgYSHSvKlM9awfBm0hk) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Wind's Lullaby](https://open.spotify.com/album/4TeJFDFWCKMUocydiW9Pnv) | 2:26 | 2023-08-11 | 2024-05-10 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 | 2023-06-16 |
 | [Three\-Two](https://open.spotify.com/track/12crmTFG4QHnePz3KYMlD1) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [Veil Waltz](https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr) | 4:35 | 2021-12-10 | 2022-07-22 |
-| [Tides of Time](https://open.spotify.com/track/6bHB1PEW54dYJIR5oAbSmr) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Tides of Time](https://open.spotify.com/album/0uPPdqGv2a51MuKFuaDfjF) | 2:26 | 2025-03-25 |  |
+| [Tides of Time](https://open.spotify.com/track/6bHB1PEW54dYJIR5oAbSmr) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Tides of Time](https://open.spotify.com/album/0uPPdqGv2a51MuKFuaDfjF) | 2:26 | 2025-03-25 | 2025-04-30 |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2021-12-10 | 2022-04-06 |
 | [Tiffany Falls](https://open.spotify.com/track/64DGZauPKihie7TgNccWD3) | [Emilio Bonito](https://open.spotify.com/artist/2IfsWJpQDkbX21LUME6KvO) | [Tiffany Falls](https://open.spotify.com/album/7uwReBkPLCXlsRQW4XD9yz) | 3:32 | 2021-12-10 | 2022-05-27 |
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |

@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-304 songs - 18 hr 16 min
+305 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 | 2022-09-23 |  |
 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 | 2022-04-22 | 2023-12-15 |
 | [Enemies](https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Enemies](https://open.spotify.com/album/0KPN5WOiQslbx2XqFkL7E6) | 2:47 | 2022-04-22 | 2022-07-16 |
-| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 |  |
+| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 | 2025-04-30 |
 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 | 2023-08-11 |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
@@ -144,6 +144,7 @@
 | [I need to know](https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I need to know](https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd) | 2:18 | 2025-01-30 |  |
 | [I Only Smoke When I Drink \- Badger Remix](https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 2:11 | 2025-01-16 |  |
 | [I Want You Back](https://open.spotify.com/track/2bnpB2SaoYdnVCAxQbSAuO) | [Mr Virgo](https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU) | [I Want You Back](https://open.spotify.com/album/43TzjTz1lUfZ0J6hPDyu0g) | 2:59 | 2022-04-15 | 2022-07-28 |
+| [I Would Like \- Chad Harrison Remix](https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [I Would Like \(Chad Harrison Remix\)](https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s) | 3:07 | 2025-04-17 |  |
 | [Icon](https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN) | 2:37 | 2022-04-15 | 2022-07-27 |
 | [Icon](https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En) | 2:37 | 2023-04-04 | 2023-12-22 |
 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 | 2025-04-17 |  |

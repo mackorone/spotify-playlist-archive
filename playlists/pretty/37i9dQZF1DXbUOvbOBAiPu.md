@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lorde, Aaron Blommaert, Benson Boone and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,855 likes - 88 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,857 likes - 88 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

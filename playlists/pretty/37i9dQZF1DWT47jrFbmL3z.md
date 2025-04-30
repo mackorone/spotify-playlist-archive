@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 
 > Wrench your heart out with NIKI but she's letting go
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,557 likes - 76 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,016 likes - 76 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

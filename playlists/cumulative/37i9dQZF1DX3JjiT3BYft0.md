@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-446 songs - 1 day 7 hr 59 min
+447 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Hey\-day狂騒曲](https://open.spotify.com/track/74e82yQCZdXVsV9Xu5cSP1) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/album/3ZwXTeFex0cgJWCr4zk0RN) | 3:51 | 2022-06-23 | 2022-07-24 |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 3:53 | 2022-06-23 | 2022-10-02 |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 3:53 | 2022-09-20 | 2024-04-19 |
+| [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 |  |
 | [Home Street](https://open.spotify.com/track/67h29qIYN9QnBIPUiFw85z) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 3:48 | 2022-06-23 | 2022-07-26 |
 | [I knew it!](https://open.spotify.com/track/5dRxTWfQ3stQEMgyDu92dF) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:50 | 2022-05-17 | 2022-07-28 |
 | [I love your way!](https://open.spotify.com/track/3CHCUaI4DxBSZG6meYeDDV) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Sasanqua](https://open.spotify.com/album/6MrfLW4ZY0jpEDsWLVGsQv) | 4:23 | 2022-06-23 | 2022-07-04 |
@@ -212,7 +213,7 @@
 | [Symbol I : △](https://open.spotify.com/track/1rmra0guc6FngerjG8iE2O) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 5:12 | 2024-11-28 |  |
 | [Symbol II : Air](https://open.spotify.com/track/3VGF6a4goaJbVo03CaPXE0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:32 | 2024-11-28 |  |
 | [Symbol III : ▽](https://open.spotify.com/track/60pIkGRQ1VnpT0d8LDfb8U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:16 | 2024-11-28 |  |
-| [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 | 2024-11-28 |  |
+| [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 | 2024-11-28 | 2025-04-30 |
 | [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 | 2024-07-09 | 2025-02-05 |
 | [Takin' my Heart](https://open.spotify.com/track/47tG1WSeUrz0aEKFoTbxc6) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:46 | 2022-06-23 | 2022-06-26 |
 | [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 | 2024-07-16 | 2025-03-21 |

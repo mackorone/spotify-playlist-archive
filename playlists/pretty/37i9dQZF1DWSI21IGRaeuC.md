@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,588 likes - 125 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,639 likes - 125 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 37 | [D.A.N \(Dance All Night\)](https://open.spotify.com/track/28vNgcNGHNKoqnfljWnN26) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [D.A.N \(Dance All Night\)](https://open.spotify.com/album/5Gq5tHER64jRmIS4iHPDcC) | 3:19 |
 | 38 | [Monie](https://open.spotify.com/track/5iAtcHwZ9y3WJIR0AKR1RI) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT) | [Monie](https://open.spotify.com/album/3cp1JLeQB9uNH3aRFRLNXe) | 4:24 |
 | 39 | [Digital Flowers](https://open.spotify.com/track/6d9vx6rqk832pIo4bwO9Gp) | [Sirus Hood](https://open.spotify.com/artist/2lrYf4KiHcMPOYGUGhrzgs), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Robotic Moods](https://open.spotify.com/album/6M68ZhsrjjrxrW2UNWOAbK) | 3:40 |
-| 40 | [To The Rhythm \- Radio Edit](https://open.spotify.com/track/4OoSXPUgpu7tp7BWLVQkYL) | [Stuart Matheson](https://open.spotify.com/artist/3ww9l0O1eYkQEJHTyRhd6Q) | [To The Rhythm EP](https://open.spotify.com/album/65B0UAFS9zlSzUkRXvlxjT) | 3:47 |
+| 40 | [To The Rhythm](https://open.spotify.com/track/4OoSXPUgpu7tp7BWLVQkYL) | [Stuart Matheson](https://open.spotify.com/artist/3ww9l0O1eYkQEJHTyRhd6Q) | [To The Rhythm EP](https://open.spotify.com/album/65B0UAFS9zlSzUkRXvlxjT) | 3:47 |
 | 41 | [Someday](https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Someday](https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d) | 3:47 |
 | 42 | [Places & Faces](https://open.spotify.com/track/1Vj9rPok6oDaTXSZ0JM0AI) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [Places & Faces EP](https://open.spotify.com/album/0vxvCNpM6UPt6ytJqMiUfc) | 2:40 |
 | 43 | [We Got The Groove](https://open.spotify.com/track/5zi3pyDYDXq98RyXPMK7Qa) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [We Got The Groove](https://open.spotify.com/album/0kJgZL8oNXIcIWdQFNr81d) | 7:45 |

@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Zehr Vibe,  Gminxr, Tegi Pannu, and more!
 
-505 songs - 23 hr 24 min
+506 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Links](https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5) | [Jugnu](https://open.spotify.com/artist/15npeM86AY1blmqFunBx3C), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Links](https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY) | 2:19 | 2025-01-15 | 2025-02-12 |
 | [LKLG](https://open.spotify.com/track/0fkgAhvWsDOzQpLjJafDka) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [QUAKE World](https://open.spotify.com/artist/40U1tcKh3xQ2kLo2QNoYIQ), [Levl9ne](https://open.spotify.com/artist/2VRLihnvWF8a28nJBXfmdB) | [LKLG](https://open.spotify.com/album/2qUfXrDzmrfkvoUn7sJxn4) | 3:21 | 2024-01-24 | 2024-04-19 |
 | [LKLG](https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [QUAKE World](https://open.spotify.com/artist/40U1tcKh3xQ2kLo2QNoYIQ), [Levl9ne](https://open.spotify.com/artist/2VRLihnvWF8a28nJBXfmdB) | [LKLG](https://open.spotify.com/album/6pSyw1UabD2d7XUcffFuzN) | 3:21 | 2023-03-18 | 2024-08-31 |
+| [LMK](https://open.spotify.com/track/005VuwsJ7nIkFtoZnRxehn) | [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [LMK](https://open.spotify.com/album/3w2HCnZtc8WVVmiNSresh6) | 3:10 | 2025-04-29 |  |
 | [Love Notes](https://open.spotify.com/track/74HszKtY9vNFbmuBr8r40A) | [Astitva](https://open.spotify.com/artist/6tO9ia9y2efWO6yFSH4K5I), [Jassh](https://open.spotify.com/artist/4j0yFPOSu3vwaKxWtOWntI), [Kalash](https://open.spotify.com/artist/434HdejzZWLiCHmYxf3X16), [Ridham](https://open.spotify.com/artist/5Maz3EzwoyITVZQtNjDlG1) | [Love Notes](https://open.spotify.com/album/0TYTGzlXa6oGMfI8XZor6m) | 4:00 | 2025-02-25 | 2025-03-15 |
 | [LSD](https://open.spotify.com/track/5PT1znVzJhx4WUC9ezsSba) | [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX), [Mirroronly](https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej) | [LSD](https://open.spotify.com/album/6AFSLzgh1u7s7vpbBGsnjZ) | 2:11 | 2025-01-15 | 2025-03-05 |
 | [Lyrical Exercise](https://open.spotify.com/track/6CZ0hoJxvEWR8CtYtNZCrB) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Lyrical Exercise](https://open.spotify.com/album/0qtVZOgjldJUSWjf8oSFsX) | 1:40 | 2024-10-04 | 2024-11-22 |
@@ -331,7 +332,7 @@
 | [No Cap](https://open.spotify.com/track/0IP2Z1aAMIixHY5m2IK5eB) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [No Cap](https://open.spotify.com/album/7LHedoxvqFKnrkONnbuLHV) | 3:34 | 2025-03-28 |  |
 | [No Chance](https://open.spotify.com/track/6aYiEyi7wpPux3j9eyY60B) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [No Chance](https://open.spotify.com/album/6M2MOLQshIFQtdQ3RdViow) | 2:29 | 2025-02-06 | 2025-03-05 |
 | [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 | 2024-11-07 | 2024-12-05 |
-| [No Lies](https://open.spotify.com/track/1SCkkm7O2LMChTLj2HlTa9) | [NXS](https://open.spotify.com/artist/4NrlUQ2WgLRUGCYVvIG9bt), [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ) | [No Lies](https://open.spotify.com/album/3ilAsOAHtllYb1a9w0iUkE) | 2:29 | 2025-04-17 |  |
+| [No Lies](https://open.spotify.com/track/1SCkkm7O2LMChTLj2HlTa9) | [NXS](https://open.spotify.com/artist/4NrlUQ2WgLRUGCYVvIG9bt), [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ) | [No Lies](https://open.spotify.com/album/3ilAsOAHtllYb1a9w0iUkE) | 2:29 | 2025-04-17 | 2025-04-30 |
 | [No Long Talk](https://open.spotify.com/track/0auqSVNTl2drLonYr70tN5) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [No Long Talk](https://open.spotify.com/album/5pXSiChnqkDScro56IGcQa) | 2:31 | 2025-03-28 |  |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-05-26 | 2024-09-10 |
 | [No No](https://open.spotify.com/track/1qCOlasI5hzSRRrOL6adKm) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [For Girls](https://open.spotify.com/album/6KKYiDXrhNqxI9avC20INp) | 2:36 | 2025-03-28 | 2025-04-18 |

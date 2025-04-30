@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Jackson Wang & Number_i",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Vaundy",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -10625,6 +10625,28 @@
     },
     {
       "album": {
+        "name": "PAGE ONE",
+        "url": "https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ"
+      },
+      "artists": [
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199259,
+      "name": "PAGE ONE",
+      "url": "https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL"
+    },
+    {
+      "album": {
         "name": "Painting in the Dusk",
         "url": "https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v"
       },
@@ -13190,7 +13212,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 193533,
       "name": "Spacecraft",
       "url": "https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96"
@@ -23711,6 +23733,24 @@
     },
     {
       "album": {
+        "name": "\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz"
+    },
+    {
+      "album": {
         "name": "\u5922\u55b0",
         "url": "https://open.spotify.com/album/0ITHjOTVymCdDZiCryNms7"
       },
@@ -26278,7 +26318,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 265680,
       "name": "\u7247\u60f3\u3044",
       "url": "https://open.spotify.com/track/5RSFHD9l5WwdJJVuWkTgtq"

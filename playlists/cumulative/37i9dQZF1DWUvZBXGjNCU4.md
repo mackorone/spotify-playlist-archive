@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-388 songs - 17 hr 31 min
+391 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Moment To Arise](https://open.spotify.com/track/3122D1oPB9S7azLBXWBrtS) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 2:30 | 2022-05-13 | 2022-06-10 |
 | [A Pause in Time](https://open.spotify.com/track/0JsrO43QxoH9jVIZ5o0kZQ) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [A Pause in Time](https://open.spotify.com/album/3SourEMhZgyUDEkb9uMaE3) | 2:22 | 2025-03-18 |  |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-31 | 2023-06-10 |
+| [A Place to Rest](https://open.spotify.com/track/1WtOUuq0KJmZPauKfhLHtw) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [A Place to Rest](https://open.spotify.com/album/4XtjjoZREkxadMdGSyEgfI) | 2:39 | 2025-04-29 |  |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-04-28 | 2023-09-01 |
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 | 2023-06-23 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
@@ -261,7 +262,7 @@
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-05-13 | 2023-03-31 |
 | [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 |  |
 | [Rainy Window](https://open.spotify.com/track/7qtNQxxjeHjxZPszQWrpRW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:42 | 2022-05-13 | 2022-06-10 |
-| [Ravel’s Dream](https://open.spotify.com/track/4N2yJrCq7yl7ArlD3GbsWC) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Ravel’s Dream](https://open.spotify.com/album/1balSNUaDGLmZA8kspVEPE) | 2:25 | 2024-09-03 |  |
+| [Ravel’s Dream](https://open.spotify.com/track/4N2yJrCq7yl7ArlD3GbsWC) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Ravel’s Dream](https://open.spotify.com/album/1balSNUaDGLmZA8kspVEPE) | 2:25 | 2024-09-03 | 2025-04-30 |
 | [raven](https://open.spotify.com/track/5o6X2A8XqhphXjR5kpIQXy) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [raven](https://open.spotify.com/album/0XUjhMDUqt4OxUujlgZTgl) | 3:56 | 2022-05-13 | 2024-04-06 |
 | [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2022-05-13 | 2022-07-29 |
 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 | 2022-07-22 | 2023-04-28 |
@@ -335,6 +336,7 @@
 | [The Chestnut Tree](https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm) | [Amiyah Powell](https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl) | [The Chestnut Tree](https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb) | 3:00 | 2024-07-19 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
+| [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 | 2025-04-29 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 | 2024-05-25 |
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
@@ -348,6 +350,7 @@
 | [The Winding Roads](https://open.spotify.com/track/3iOUS5sk9qaMVK8oH3WK4D) | [John Parker Stones](https://open.spotify.com/artist/1sLvTJ8ABBKHmPQr2PDoU9) | [The Winding Roads](https://open.spotify.com/album/2zjuzlgf264Qm2Sul8Nzw3) | 1:45 | 2022-10-07 | 2023-09-16 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 |  |
 | [Thoughts](https://open.spotify.com/track/7HfFKtI0a6u8l4XE9QetHy) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Thoughts](https://open.spotify.com/album/58Tn036XqbSSbwRkgPfzoO) | 3:16 | 2022-05-13 | 2024-04-06 |
+| [Threads of Yesterday](https://open.spotify.com/track/0tg6xUhbmn5UE4LcUzDvW2) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Threads of Yesterday](https://open.spotify.com/album/6dBx1IrX3UUYzykyIkhGGH) | 2:38 | 2025-04-29 |  |
 | [Three Ravens](https://open.spotify.com/track/3bJrXNQwtHaQe2NtRDm1bj) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Oh Captain / Three Ravens](https://open.spotify.com/album/0H49T3o4RcStclBK5jJBD1) | 2:42 | 2022-05-13 | 2022-06-10 |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-05-13 | 2024-04-06 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 |  |

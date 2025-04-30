@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/6bKs2rxX1xwhNYdl1awII4"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274401,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/3hmUSYsilToQZyB9jzU6fY"
+    },
+    {
+      "album": {
         "name": "FIRST AMONG MISFITS",
         "url": "https://open.spotify.com/album/6MKpLfMW9tt0D9HitvVvTt"
       },

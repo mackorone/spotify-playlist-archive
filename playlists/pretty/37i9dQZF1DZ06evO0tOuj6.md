@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,783 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [ツバメ \- feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部](https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p), [長濱ねる](https://open.spotify.com/artist/7iDeYKknsBspvtbbC5kf4V), [東京都立片倉高等学校吹奏楽部](https://open.spotify.com/artist/7aF2lxzayrDdambGDmZ3Qk) | [ツバメ \(feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部\)](https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB) | 4:24 |
 | 50 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 |
 
-Snapshot ID: `aA1zgAAAAACX/ENnd3yQN04GBbZTLgrT`
+Snapshot ID: `aA1zgAAAAACX8RJLVo+lgNRjPQ8D9nto`

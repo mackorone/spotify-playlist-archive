@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-863 songs - 1 day 13 hr 14 min
+866 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 | 2022-11-18 |
 | [Bittersweet](https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Bittersweet](https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n) | 3:20 | 2024-11-26 |  |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-07-18 |
+| [Blond](https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Blond](https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel) | 2:52 | 2025-04-29 |  |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 | 2024-04-05 |
 | [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2022-11-18 | 2023-10-13 |
@@ -96,7 +97,7 @@
 | [Body And Soul](https://open.spotify.com/track/6DamCHDP65dAx5X9xkiqoQ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA), [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Body And Soul](https://open.spotify.com/album/77myUuQ0VpoOpS9tnXcuu7) | 2:21 | 2021-12-08 | 2022-10-29 |
 | [Bolero Del Sur](https://open.spotify.com/track/0KYaOK0iTCODMZBarRjRm4) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Bolero Del Sur](https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn) | 3:02 | 2021-12-08 | 2022-05-11 |
 | [bom futuro](https://open.spotify.com/track/77o3LZmP63pViKY4fPFeqF) | [Ilkay Lo](https://open.spotify.com/artist/4zSVCyUaupSJHF5sKlBIo3) | [Valdemossa](https://open.spotify.com/album/0cjTSUufuDFqDPvBA4O1ea) | 3:04 | 2021-12-08 | 2022-05-11 |
-| [Bonanza](https://open.spotify.com/track/3edohA9RKNNDPyKyAmc8tH) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Bonanza](https://open.spotify.com/album/7qtjwbttZC7u2JRg8y1cAO) | 2:48 | 2024-08-07 |  |
+| [Bonanza](https://open.spotify.com/track/3edohA9RKNNDPyKyAmc8tH) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Bonanza](https://open.spotify.com/album/7qtjwbttZC7u2JRg8y1cAO) | 2:48 | 2024-08-07 | 2025-04-30 |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 | 2024-05-25 |
 | [Bordeaux](https://open.spotify.com/track/7i0COnt9ofcnJ1bDF8TqMu) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:30 | 2022-04-05 | 2024-06-01 |
 | [Borgen \- Power & Glory \- Main Title Theme](https://open.spotify.com/track/3XMQoS5SqM3m3Gi6MI1fsc) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Borgen \- Power & Glory \- Main Title Theme](https://open.spotify.com/album/7H9f6A7les1SeFQTqvHR52) | 1:33 | 2022-07-22 | 2022-11-18 |
@@ -136,6 +137,7 @@
 | [Cherished](https://open.spotify.com/track/1rLMnQfT6ueI1yCOvZS9hN) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Cherished](https://open.spotify.com/album/61BmBejQR7R1whomReaRJc) | 1:58 | 2022-10-07 | 2023-08-19 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2022-12-09 | 2023-08-19 |
 | [Chords In D](https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Chords In D](https://open.spotify.com/album/2jZjzsKKH6LLi8tgsUPjWm) | 2:46 | 2025-02-19 | 2025-02-25 |
+| [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 | 2025-04-29 |  |
 | [Cinco](https://open.spotify.com/track/4pkFHpro2S9df35aesICL0) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Cinco](https://open.spotify.com/album/6ha71NRebIjPObIM3ZTrSx) | 1:52 | 2022-05-27 | 2022-09-09 |
 | [Cinema Paradiso \- Love Theme](https://open.spotify.com/track/3Zl7KSDYco84BdircFgR31) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Film favorites for acoustic guitar vol 1 \(EP\)](https://open.spotify.com/album/35UxgJAP2G4fzunaQUeW2V) | 1:59 | 2021-12-08 | 2022-04-22 |
 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2022-10-28 | 2024-06-08 |
@@ -295,6 +297,7 @@
 | [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 |  |
 | [Granada](https://open.spotify.com/track/2YRGpPruMS1BR0SDGzTmbB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Granada](https://open.spotify.com/album/3lc6rC1cQkCWp0IXkFMyYj) | 2:52 | 2022-01-11 | 2022-09-09 |
 | [Grande Amor](https://open.spotify.com/track/6RcwhPdGVFmMQG8rhAfItJ) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Grande Amor](https://open.spotify.com/album/5xNGa1OwkG4fgP45uZ85Ys) | 3:02 | 2021-12-08 | 2022-06-10 |
+| [Grandpa's Old Guitar](https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX) | [Mateo Morel](https://open.spotify.com/artist/6pzAMEBXNqLJF2lhG4lwgk) | [Grandpa's Old Guitar](https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo) | 2:22 | 2025-04-29 |  |
 | [Grateful](https://open.spotify.com/track/6wtMB4RZeLMECJJEa17Mms) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Grateful](https://open.spotify.com/album/7qYmbiSAHL28rE64WOXY5l) | 2:05 | 2022-10-07 | 2023-10-13 |
 | [Gratitude](https://open.spotify.com/track/6heaWdj72HhtXlW8Pmmj8L) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Gratitude](https://open.spotify.com/album/2QXINSxseULzXKeQG8UBXK) | 2:06 | 2022-06-03 | 2022-06-10 |
 | [Gratitude](https://open.spotify.com/track/6LocmjrIXZHU38U2KRoSwW) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Gratitude](https://open.spotify.com/album/2R8xpNMDH8MrEmv7u1UOXR) | 2:16 | 2022-11-18 | 2023-03-10 |
@@ -533,7 +536,7 @@
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2021-12-08 | 2024-04-05 |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2022-04-05 | 2024-06-08 |
-| [Northampton](https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Northampton](https://open.spotify.com/album/1ltXX0U0dMf2eGSDTogMIG) | 2:15 | 2024-12-10 |  |
+| [Northampton](https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Northampton](https://open.spotify.com/album/1ltXX0U0dMf2eGSDTogMIG) | 2:15 | 2024-12-10 | 2025-04-30 |
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-13 |
@@ -575,7 +578,7 @@
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 | 2024-10-10 |
 | [Patagonia Wind](https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Patagonia Wind](https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4) | 3:31 | 2021-12-08 | 2024-04-05 |
 | [Pavanas](https://open.spotify.com/track/3fc3Boou33c1h65A5EK0k0) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Pavanas](https://open.spotify.com/album/7aNculG2nCCrehRVP4N3Ya) | 2:19 | 2022-07-08 | 2022-07-15 |
-| [Pavane](https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pavane](https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v) | 2:25 | 2025-03-25 |  |
+| [Pavane](https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pavane](https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v) | 2:25 | 2025-03-25 | 2025-04-30 |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |
 | [Peace for Awhile](https://open.spotify.com/track/7rNGsE6Nrvld0AMel0QZMW) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure Guitar](https://open.spotify.com/album/3Kxw34FNunjYtq8fJ4HdCG) | 2:05 | 2022-05-27 | 2022-09-09 |
 | [Peaceful evenings](https://open.spotify.com/track/0nJgsQqeqEU6nYipv81Ttw) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Peaceful evenings](https://open.spotify.com/album/7irDIdlp7tl6TRe6JJdAwq) | 2:16 | 2023-12-15 |  |

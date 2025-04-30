@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Hi-Vision",
+        "url": "https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Hi-Vision",
+      "url": "https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30ba\u30ca\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u266a",
         "url": "https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8"
       },
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-30",
       "duration_ms": 239092,
       "name": "Symbol IV : Earth",
       "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"

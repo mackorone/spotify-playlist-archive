@@ -2,7 +2,7 @@
 
 ### [EDMéxico](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Deorro y Alex Favela en portada.
+> Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
 379 songs - 20 hr 59 min
 

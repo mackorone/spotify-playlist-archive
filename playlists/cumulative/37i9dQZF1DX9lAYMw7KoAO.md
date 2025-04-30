@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>
 
-450 songs - 1 day 15 hr 29 min
+451 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,8 +431,9 @@
 | [Xa Ndiyekelelwa \- Live](https://open.spotify.com/track/5MDmBimlxmvhDshNiV5fCa) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Collaborations, Vol\. 1](https://open.spotify.com/album/6FUPRNJO74x0fl6xphVQ3b) | 6:46 | 2020-05-15 | 2022-07-29 |
 | [Xorla \(Savior\)](https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Ps\. Helen Yawson](https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb) | [Xorla \(Savior\)](https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV) | 7:28 | 2022-03-17 | 2022-08-27 |
 | [YAH \- Spirit Chant](https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn) | [Eljoe onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [YAH \(Spirit Chant\)](https://open.spotify.com/album/5sR2Q9yzejaiMOdlelBVAi) | 5:37 | 2023-05-12 | 2023-06-23 |
+| [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-29 |  |
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2021-12-09 | 2023-04-01 |
-| [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 | 2024-10-18 |  |
+| [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 | 2024-10-18 | 2025-04-30 |
 | [Yesterdays \(feat\. The Joy\)](https://open.spotify.com/track/1okuNL7KUMVcsyQYP4opgS) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Yesterdays \(feat\. The Joy\)](https://open.spotify.com/album/3CzyMfuiSHJnFunWMMAyhy) | 3:36 | 2023-12-31 | 2024-01-04 |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2020-07-10 | 2023-04-14 |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2019-11-06 | 2023-04-01 |

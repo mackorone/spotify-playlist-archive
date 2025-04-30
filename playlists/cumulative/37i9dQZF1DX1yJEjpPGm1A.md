@@ -4,12 +4,12 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-61 songs - 4 hr 1 min
+62 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2024-12-19 |  |
-| [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2024-12-19 |  |
+| [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2024-12-19 | 2025-04-30 |
 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 | 2024-12-19 |  |
 | [All For You](https://open.spotify.com/track/0HNIIJzAVqPXmUOZFx03Av) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2CuDNaqMUHtQrt3B0hqfVb) | 4:08 | 2024-12-19 |  |
 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 | 2024-12-19 |  |
@@ -22,6 +22,7 @@
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
 | [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 |  |
 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 | 2024-12-19 |  |
+| [FOREVER](https://open.spotify.com/track/0IjaSeBp6SHXTELm4C9ifk) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Resident Playbook, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3QMQGg2xrPJ9FaxLJmfBQL) | 4:03 | 2025-04-29 |  |
 | [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 | 2025-04-15 |  |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2024-12-19 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |

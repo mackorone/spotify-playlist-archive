@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,811 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,810 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Rossini: Il barbiere di Siviglia, Act 1: "Una voce poco fa" \(Rosina\)](https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Alceo Galliera](https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 6:24 |
 | 50 | [Rigoletto, Act I: Gualtier Malde … Caro nome](https://open.spotify.com/track/6aRbgUJAGapYx74lks2Y8O) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Milan La Scala Chorus](https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57), [Tullio Serafin](https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq) | [Callas, Maria: Liebeslieder](https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1) | 7:32 |
 
-Snapshot ID: `aA1zgAAAAAAbv9msscZmhJPjLYuBoC1k`
+Snapshot ID: `aA1zgAAAAAB4M2+SfRk0ynvyaHYgrfUh`

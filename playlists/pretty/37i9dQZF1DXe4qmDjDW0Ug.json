@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 14729,
+  "num_followers": 14733,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "Parallax",
+        "url": "https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 221753,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "Hwayobi",
         "url": "https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 247333,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "Parallax",
-        "url": "https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 221753,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Let's start our love again",
-        "url": "https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL"
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
       },
       "artists": [
         {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
         }
       ],
-      "duration_ms": 267232,
-      "name": "Let's start our love again",
-      "url": "https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L"
+      "duration_ms": 297036,
+      "name": "I hope It would be that way now",
+      "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

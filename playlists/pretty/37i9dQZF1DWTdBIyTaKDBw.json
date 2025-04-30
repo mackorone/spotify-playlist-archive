@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 13522,
+  "num_followers": 13576,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Shinrin",
-      "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 186268,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Shinrin",
+      "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "rest & be thankful",
-        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "I Eat Plants for a Living",
-          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
-        }
-      ],
-      "duration_ms": 126430,
-      "name": "rest & be thankful",
-      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 163778,
       "name": "Road to Kiyomizu",
       "url": "https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
+        "name": "rest & be thankful",
+        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "I Eat Plants for a Living",
+          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
+        }
+      ],
+      "duration_ms": 126430,
+      "name": "rest & be thankful",
+      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
         "name": "Chinese Morning",
         "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 174545,
       "name": "Chinese Morning",
       "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+        "name": "Mountain Onsen",
+        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
       },
       "artists": [
         {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 219297,
-      "name": "to reach a person",
-      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
+      "duration_ms": 161123,
+      "name": "Mountain Onsen",
+      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Mountain Onsen",
-        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
         }
       ],
-      "duration_ms": 161123,
-      "name": "Mountain Onsen",
-      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
+      "duration_ms": 219297,
+      "name": "to reach a person",
+      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 221832,
-      "name": "rainy day",
-      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1283,34 +1283,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
       "artists": [
         {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
         }
       ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
-        "name": "heal",
-        "url": "https://open.spotify.com/album/0EY1QkbLqBHWAFvFLwDSdv"
-      },
-      "artists": [
-        {
-          "name": "cliffe",
-          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "heal",
-      "url": "https://open.spotify.com/track/3ks1KtZzApZuYcVSgEnfu5"
+      "duration_ms": 221832,
+      "name": "rainy day",
+      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
+        "name": "heal",
+        "url": "https://open.spotify.com/album/0EY1QkbLqBHWAFvFLwDSdv"
+      },
+      "artists": [
+        {
+          "name": "cliffe",
+          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "heal",
+      "url": "https://open.spotify.com/track/3ks1KtZzApZuYcVSgEnfu5"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
         "name": "Despair",
         "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Path Through the Tall Grass",
-        "url": "https://open.spotify.com/album/4YjBk03vufyDCOzAZ3uw7H"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Path Through the Tall Grass",
-      "url": "https://open.spotify.com/track/6NkMnnns8kLKfyC8CaIxMe"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
+        "name": "Path Through the Tall Grass",
+        "url": "https://open.spotify.com/album/4YjBk03vufyDCOzAZ3uw7H"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Path Through the Tall Grass",
+      "url": "https://open.spotify.com/track/6NkMnnns8kLKfyC8CaIxMe"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "isolation",
-        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
-      },
-      "artists": [
-        {
-          "name": "cliffe",
-          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
-        }
-      ],
-      "duration_ms": 117366,
-      "name": "muse",
-      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
-    },
-    {
-      "added_at": "2025-04-25 02:04:17",
-      "album": {
         "name": "Travel",
         "url": "https://open.spotify.com/album/2ZtFHkSh3IwuLUyxga7WKU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 175799,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+    },
+    {
+      "added_at": "2025-04-25 02:04:17",
+      "album": {
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
+      },
+      "artists": [
+        {
+          "name": "cliffe",
+          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+        }
+      ],
+      "duration_ms": 117366,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "Peaceful Soul",
-        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
+        "name": "cacti",
+        "url": "https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy"
       },
       "artists": [
         {
-          "name": "Wolf Schranze",
-          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
+          "name": "seasalt",
+          "url": "https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo"
         }
       ],
-      "duration_ms": 108963,
-      "name": "Peaceful Soul",
-      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
+      "duration_ms": 165003,
+      "name": "flowers at midnight",
+      "url": "https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC"
     },
     {
       "added_at": "2025-04-25 02:04:17",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-04-25 02:04:17",
       "album": {
-        "name": "cacti",
-        "url": "https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy"
+        "name": "Peaceful Soul",
+        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
       },
       "artists": [
         {
-          "name": "seasalt",
-          "url": "https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo"
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
         }
       ],
-      "duration_ms": 165003,
-      "name": "flowers at midnight",
-      "url": "https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC"
+      "duration_ms": 108963,
+      "name": "Peaceful Soul",
+      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
     },
     {
       "added_at": "2025-04-25 02:04:17",

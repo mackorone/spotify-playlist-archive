@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,993 songs - 18 day 4 hr 45 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,007 songs - 18 day 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7001,5 +7001,19 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6991 | [on](https://open.spotify.com/track/7HXs149WscOjEmnnfk0NSY) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [Unrest](https://open.spotify.com/album/1peYKUNIuPZk2yeuoYQcNt) | 5:05 |
 | 6992 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
 | 6993 | [Honey Caturra](https://open.spotify.com/track/6ec8TnXTEndhh2PI45dfkj) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [Honey Caturra](https://open.spotify.com/album/1dZUSyBy8hUd2LRd5Zp2Us) | 2:46 |
+| 6994 | [Rasheed](https://open.spotify.com/track/7w53AFGUt9Jft6ewcHsv6c) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Orange Wine](https://open.spotify.com/album/1gicsfJ56kJVSNoxKskESl) | 3:26 |
+| 6995 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 |
+| 6996 | [Truly Another Classic](https://open.spotify.com/track/4Cesp17kIKOhUwQnqzdbG6) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:33 |
+| 6997 | [Adjust](https://open.spotify.com/track/0k0oe0G4156h4526HZp8aM) | [HAEINSANE](https://open.spotify.com/artist/0zYGD15cyh6On3uFLtVxAz), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Adjust](https://open.spotify.com/album/0YgV7g7FMl680mfugdmFMa) | 2:55 |
+| 6998 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 |
+| 6999 | [California to London](https://open.spotify.com/track/29nuxYOeJ5geBSYJ5xvTlv) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Benjamin Totten](https://open.spotify.com/artist/2OBlRRwMOg7zJaU6U9TnLn) | [Reflections](https://open.spotify.com/album/63vYZUCuZYZhXQrxaztR0M) | 3:16 |
+| 7000 | [Avocado](https://open.spotify.com/track/7G4A6sxCGt31pfAoJM12SO) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Avocado](https://open.spotify.com/album/4sCUY2uA52MMOu57PtqfOm) | 3:15 |
+| 7001 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 |
+| 7002 | [Afterglow](https://open.spotify.com/track/1whJRwgctGGhBaT9O9sf1w) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 3:26 |
+| 7003 | [257](https://open.spotify.com/track/6Zv0ZBfBNB91SNHafArGAO) | [toby chick](https://open.spotify.com/artist/6ngrl52MHztm8MPG6L4Z8h), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [257](https://open.spotify.com/album/16KWKRdBVeH8oKQU0MA3fF) | 3:37 |
+| 7004 | [No Worries](https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN) | [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [No Worries](https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT) | 3:01 |
+| 7005 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 |
+| 7006 | [Move on Up \- Live](https://open.spotify.com/track/2D6h5ZmDn3tWMedcwZxJaA) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/3cTrVL0bBhwFtMloWqyACD) | 5:00 |
+| 7007 | ['Round Midnight \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:55 |
 
-Snapshot ID: `AAAFoZxPx7qVPb5i0+9SaxRMimY+abEQ`
+Snapshot ID: `AAAFry2AZ+hn/HBPJXeV7e4C1PRJEUy2`

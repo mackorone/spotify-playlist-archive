@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Anti-Superstar",
+        "url": "https://open.spotify.com/album/6c6elTfacYkOEcCIDzogmO"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Anti-Superstar",
+      "url": "https://open.spotify.com/track/4dxPEAvyLwARiIyfka6kha"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },

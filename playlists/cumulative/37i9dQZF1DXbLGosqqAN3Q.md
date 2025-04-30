@@ -4,7 +4,7 @@
 
 > Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-45 songs - 2 hr 43 min
+46 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [マッチョバトル](https://open.spotify.com/track/3oZqg3iSibs49HkyxLnuP3) | [保刈久明](https://open.spotify.com/artist/2XazeeCE2GUUuFa4EpAFKp) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 4:11 | 2021-05-26 |  |
 | [リーナのタンポポ](https://open.spotify.com/track/0vKhCi8BCHU0XJSx7s2j8q) | [Hiromi Sato](https://open.spotify.com/artist/7CXhT5Gvb8r8Kla2qXka6v) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 3:21 | 2021-05-26 |  |
 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 | 2021-05-26 |  |
+| [創聖のアクエリオン \- From THE FIRST TAKE](https://open.spotify.com/track/5zPIBUSLef3uZkDLpNp78G) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd) | [創聖のアクエリオン \- From THE FIRST TAKE](https://open.spotify.com/album/3Lh4QQRTOCaL6QRWDh5xRC) | 5:41 | 2025-04-29 |  |
 | [創聖のアクエリオン （エレメント合体Ver.台詞入り.）](https://open.spotify.com/track/5wswZcBAHza5AY8Wc5rEb8) | [アポロ\(寺島拓篤\)](https://open.spotify.com/artist/37ed5X4TwrEwbyfLaATf2J), [シルヴィア\(かかずゆみ\)](https://open.spotify.com/artist/5DC4cVpFHQIHj6k8mBw02z), [麗花\(小林沙苗\)](https://open.spotify.com/artist/1GbmwGAMawnxclWwR7dZfb) | [創聖のアクエリオン](https://open.spotify.com/album/2oIFx4B5bH8aPePcb2AmK5) | 4:42 | 2021-05-26 |  |
 | [創聖のアクエリオン　お兄さまと](https://open.spotify.com/track/3L03BbX18TMOXANsUlFDEH) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 4:42 | 2021-05-26 |  |
 | [星間連絡船](https://open.spotify.com/track/2oLqmX1dAjagbOBh7RFm1u) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 3:13 | 2021-05-26 |  |

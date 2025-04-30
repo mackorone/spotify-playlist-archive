@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,981 likes - 84 songs - 5 hr 18 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,982 likes - 88 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 82 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 |
 | 83 | [Caught In A Whirlwind](https://open.spotify.com/track/4NBCr2x879HC9pTJ8K1TcS) | [Richard Stepp](https://open.spotify.com/artist/2uEXs9genwyhKptQdbF8ew) | [Holiday In Hollywood](https://open.spotify.com/album/0JEEMfVta8HnNM1Ornuvb8) | 5:08 |
 | 84 | [Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO) | [Iain Matthews](https://open.spotify.com/artist/30yVqa41V5oNH00p6CBWB9) | [Stealin' Home](https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn) | 3:01 |
+| 85 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 |
+| 86 | [Rain Down \- Purelink's Say Less Mix](https://open.spotify.com/track/6Zl2cwzL5NRTXt2ZzAIzpZ) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 4:55 |
+| 87 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
+| 88 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 |
 
-Snapshot ID: `AAAMVCCrrPNRCJgTH4gAw9Wy0idWWTAn`
+Snapshot ID: `AAAMWKBb5OERF0T1reULW0/PIU12WfM9`

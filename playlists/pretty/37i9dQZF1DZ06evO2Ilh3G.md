@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [New To You \(with Normani, Tinashe & Offset\)](https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 5:02 |
 | 50 | [Patek Water \(feat\. Offset\)](https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 3:09 |
 
-Snapshot ID: `aA1zgAAAAAAgKGMMIkk95KjWXojfVtEV`
+Snapshot ID: `aA1zgAAAAABWUugDnVKl+LLzFlzs9scy`

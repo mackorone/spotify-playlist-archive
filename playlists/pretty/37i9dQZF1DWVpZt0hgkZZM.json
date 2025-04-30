@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 39377,
+  "num_followers": 39397,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
       "artists": [
         {
           "name": "The Latin Brothers",
           "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
         }
       ],
-      "duration_ms": 303680,
-      "name": "Fuma el Barco",
-      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
+      "duration_ms": 277636,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
       },
       "artists": [
         {
           "name": "The Latin Brothers",
           "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
         }
       ],
-      "duration_ms": 277636,
-      "name": "Busc\u00e1ndote",
-      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
+      "duration_ms": 303680,
+      "name": "Fuma el Barco",
+      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
-        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
-      },
-      "artists": [
-        {
-          "name": "Chico Cervantes Y Su Banda",
-          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
-        },
-        {
-          "name": "Pacho Tob\u00edo y Chico",
-          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
-        }
-      ],
-      "duration_ms": 342959,
-      "name": "Qui\u00e9reme, Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de la Sonora Cordobesa",
         "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 155719,
       "name": "La Mafafa",
       "url": "https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
+      },
+      "artists": [
+        {
+          "name": "Chico Cervantes Y Su Banda",
+          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
+        },
+        {
+          "name": "Pacho Tob\u00edo y Chico",
+          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
+        }
+      ],
+      "duration_ms": 342959,
+      "name": "Qui\u00e9reme, Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
     },
     {
       "added_at": "2024-07-12 23:11:55",

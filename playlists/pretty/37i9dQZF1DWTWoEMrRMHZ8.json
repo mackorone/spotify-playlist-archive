@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Vanessa da Mata",
-  "num_followers": 349990,
+  "num_followers": 350014,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "PALCO",
+        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 278736,
+      "name": "PALCO",
+      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -243,22 +263,6 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "Menino Amor",
-        "url": "https://open.spotify.com/album/6QvjsRTAEbTltaj0MXKTua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 238589,
-      "name": "Menino Amor",
-      "url": "https://open.spotify.com/track/499qmeZwVEyVs2ZS35mtaz"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -283,22 +287,18 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "PALCO",
-        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
+        "name": "Menino Amor",
+        "url": "https://open.spotify.com/album/6QvjsRTAEbTltaj0MXKTua"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 278736,
-      "name": "PALCO",
-      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
+      "duration_ms": 238589,
+      "name": "Menino Amor",
+      "url": "https://open.spotify.com/track/499qmeZwVEyVs2ZS35mtaz"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
+        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 186696,
+      "name": "Pra gente acordar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Praia do Futuro",
         "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 342150,
       "name": "Ela Une Todas as Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
-        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 186696,
-      "name": "Pra gente acordar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -703,7 +703,7 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "PAULA TOLLER TURNE AMOROSA (40 anos de carreira)",
+        "name": "AULA TOLLER - AO VIVO - AMOROSA (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
       "artists": [
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Corredeiras / Sobre N\u00f3s",
-        "url": "https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 172236,
-      "name": "Corredeiras",
-      "url": "https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Ponto De Oxum",
         "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 140000,
       "name": "Ponto De Oxum",
       "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Corredeiras / Sobre N\u00f3s",
+        "url": "https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 172236,
+      "name": "Corredeiras",
+      "url": "https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Ao Persistirem os Sintomas",
         "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 189374,
       "name": "Salto",
       "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "Chuva de Prata",
-        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
-      },
-      "artists": [
-        {
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Chuva de Prata",
-      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+        "name": "Parto",
+        "url": "https://open.spotify.com/album/2qEugO28U8bHum2Aj8N1KI"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+      "duration_ms": 159069,
+      "name": "Tempo Vai Devagar",
+      "url": "https://open.spotify.com/track/2Mc9zLRfiPcfzSKYyvdstJ"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Parto",
-        "url": "https://open.spotify.com/album/2qEugO28U8bHum2Aj8N1KI"
+        "name": "C\u00e9u da Boca",
+        "url": "https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Tempo Vai Devagar",
-      "url": "https://open.spotify.com/track/2Mc9zLRfiPcfzSKYyvdstJ"
+      "duration_ms": 240061,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Donatural (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Balan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Alma Turva",
         "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "C\u00e9u da Boca",
-        "url": "https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis"
+        "name": "Donatural (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
       },
       "artists": [
         {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         },
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
         }
       ],
-      "duration_ms": 240061,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD"
+      "duration_ms": 215173,
+      "name": "Balan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1299,6 +1299,26 @@
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Um Tempo S\u00f3",
+        "url": "https://open.spotify.com/album/5LneCBBTEFVazqLXQOv2bd"
+      },
+      "artists": [
+        {
+          "name": "Matheus Brant",
+          "url": "https://open.spotify.com/artist/07Xtdy703DqIthlmZzISHM"
+        },
+        {
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        }
+      ],
+      "duration_ms": 168378,
+      "name": "Um tempo S\u00f3",
+      "url": "https://open.spotify.com/track/1d4DlQ0sUnM5Q6eRb14143"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1387,26 +1407,6 @@
       "duration_ms": 222313,
       "name": "Abra\u00e7o dos Amantes",
       "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "Um Tempo S\u00f3",
-        "url": "https://open.spotify.com/album/5LneCBBTEFVazqLXQOv2bd"
-      },
-      "artists": [
-        {
-          "name": "Matheus Brant",
-          "url": "https://open.spotify.com/artist/07Xtdy703DqIthlmZzISHM"
-        },
-        {
-          "name": "Bruna Caram",
-          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
-        }
-      ],
-      "duration_ms": 168378,
-      "name": "Um tempo S\u00f3",
-      "url": "https://open.spotify.com/track/1d4DlQ0sUnM5Q6eRb14143"
     },
     {
       "added_at": "2025-04-28 23:26:36",

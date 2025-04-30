@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 70 | [Internetgf](https://open.spotify.com/track/62Nr3aP2VXVmNySZmiJyOY) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Internetgf/Limousine](https://open.spotify.com/album/4pOHBb9AIat9b5aXujaBzJ) | 2:38 |
 | 71 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
 | 72 | [Change Shapes](https://open.spotify.com/track/2o86nd5msNOHPGVHpaQQ9p) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 3:25 |
-| 73 | [Squirm](https://open.spotify.com/track/4iJnso92YFxxXW3qC1rNRH) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:01 |
-| 74 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
+| 73 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
+| 74 | [Squirm](https://open.spotify.com/track/4iJnso92YFxxXW3qC1rNRH) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:01 |
 | 75 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 |
 | 76 | [Internet Junkie](https://open.spotify.com/track/2a0fitf8tonP7KbQ9KrSDs) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Wallow in It](https://open.spotify.com/album/4X5cguwixSn1TppGbxdGRG) | 3:04 |
 | 77 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 92 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 93 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AbwBFAAAAAA8rNtby7SuQBTzVoCh9NUL`
+Snapshot ID: `AbwGtAAAAACpKNkbaXbQ4RTvg60IxuWC`

@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: 2hollis
 
-3,319 songs - 7 day 12 hr 49 min
+3,320 songs - 7 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-26 | 2022-05-21 |
 | [headstrong gunner](https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [headstrong gunner](https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt) | 1:55 | 2023-03-10 | 2024-01-11 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-02-05 | 2020-05-14 |
+| [Heart of Gold](https://open.spotify.com/track/3PyDLRIhkP5H8ox85fEwxb) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Heart of Gold](https://open.spotify.com/album/2ng2h7smH52oleaooKsCTV) | 3:07 | 2025-04-30 |  |
 | [Heart Of The Country \- Remastered 2012](https://open.spotify.com/track/5ZAfhAtEpgScJLzx7hHfLI) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 2:23 | 2021-07-17 | 2021-07-29 |
 | [Heartbeat](https://open.spotify.com/track/0YUt3MicxnPYcXmoErwqBO) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Heartbeat](https://open.spotify.com/album/6opMaSMh0n9uOEp069dj81) | 3:28 | 2020-10-13 | 2020-11-27 |
 | [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-15 | 2024-03-14 |

@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: John Wild
+> The best mix of today's Christian music, all genres, worldwide\. Cover: John Wilds
 
 1,069 songs - 3 day 1 hr 25 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Vale LP, Lil Jolie e IRBIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,898 likes - 110 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,905 likes - 110 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 18 | [Vacci Piano!](https://open.spotify.com/track/2oPHvqEaDmcO79oIGyHGQG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Vacci Piano!](https://open.spotify.com/album/3QoQq6of187AGPY3MYXV3q) | 3:20 |
 | 19 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
 | 20 | [Mi Fai Sentire](https://open.spotify.com/track/3GTuHlDQ0rch650sMsrtpv) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [Mi Fai Sentire](https://open.spotify.com/album/4M9K5B3GHD3NT288aCjugV) | 2:30 |
-| 21 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [Basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 21 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
 | 22 | [Tuffo ad angelo](https://open.spotify.com/track/3NnoexTFVW3dE2aFYi4JMV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Tuffo ad angelo](https://open.spotify.com/album/2kyW0TlpmYGmWLJQpvLw0t) | 3:05 |
 | 23 | [settimane](https://open.spotify.com/track/48wDQ3udjnszx2plJQjxuW) | [Luca Land](https://open.spotify.com/artist/2jm1zVWOscdOBrRNhntmdp), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [musicaxsensibili](https://open.spotify.com/album/5tji87Z4teIvoRVkW7qCiY) | 3:36 |
 | 24 | [si balla](https://open.spotify.com/track/74BwSf4chWpIK1Je1yY4mq) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [si balla](https://open.spotify.com/album/11cUhiW285mUK0BP6cjNVJ) | 3:16 |

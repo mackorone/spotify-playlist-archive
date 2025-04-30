@@ -4,7 +4,7 @@
 
 > 
 
-2,140 songs - 4 day 19 hr 1 min
+2,145 songs - 4 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2021-08-05 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2023-06-16 |  |
 | [Giving My All 2 U](https://open.spotify.com/track/4EkOA5QmlVDoq5JtSQMRxc) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Giving My All 2 U](https://open.spotify.com/album/7IjOfbF7Lb1L6i7wlHbE2Y) | 1:17 | 2022-12-30 |  |
+| [Glacier Pack](https://open.spotify.com/track/66QxkYu2FaOOwXwGozYUQe) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Glacier Pack](https://open.spotify.com/album/5TywaPIiadt6Oic1ApTij2) | 2:07 | 2025-04-29 |  |
 | [Glory to Arstotzka](https://open.spotify.com/track/1j8nEnYhowaJRq5aZD35mo) | [Lucas Pope](https://open.spotify.com/artist/78f89mbowbxt39ctuqX8bM) | [Papers, Please \(Original Game Soundtrack\)](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) | 1:43 | 2024-02-21 |  |
 | [Glue](https://open.spotify.com/track/07MLvbVrMGsjzOYjJlZFD5) | [P.H.F.](https://open.spotify.com/artist/73vzL36ohUDVI5YPT5rVze) | [I Hate Myself](https://open.spotify.com/album/5JzPoUSYx7B1YGVgv79n0i) | 3:15 | 2022-10-11 |  |
 | [GO\-GO](https://open.spotify.com/track/3CeuSxS0cJheMNzqB8jfep) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [LIMBO IS BORING](https://open.spotify.com/album/5mH2Y0GOCjIS6D4b0qmikP) | 1:29 | 2023-04-19 |  |
@@ -1075,7 +1076,9 @@
 | [La Mamá de la Mamá](https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:39 | 2024-10-24 |  |
 | [LA MuDANZA](https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:33 | 2025-01-10 |  |
 | [La Que Me Gusta](https://open.spotify.com/track/59HBsP5zIuEzDsrY9bB2NQ) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/47E8vMHuQF9PlXtac1uVW3) | 3:59 | 2021-08-05 |  |
+| [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 | 2025-04-29 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2024-06-29 |  |
+| [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 | 2025-04-29 |  |
 | [Lalalatte](https://open.spotify.com/track/5IjTpw72dT98mVjCX6rOab) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Latte and a Muffin](https://open.spotify.com/album/1r3Cw28qOUPLl8Qh7ibDlc) | 2:13 | 2023-01-06 |  |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2022-04-26 |  |
 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 | 2021-11-14 |  |
@@ -1410,6 +1413,7 @@
 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2021-08-24 |  |
 | [Parabola](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:03 | 2021-08-05 |  |
 | [Paradise](https://open.spotify.com/track/22vU1n5k6pOuY6VOnQo3oz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:37 | 2021-08-05 |  |
+| [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 | 2025-04-29 |  |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2021-08-05 |  |
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2021-08-05 |  |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-04-06 |  |
@@ -1740,6 +1744,7 @@
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-10-11 |  |
 | [Starry Cat](https://open.spotify.com/track/5KsZOcKZuVgu9bUlQtHXbi) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:41 | 2022-04-09 |  |
 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 | 2021-08-05 |  |
+| [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 | 2025-04-29 |  |
 | [STAY AWAY](https://open.spotify.com/track/3vDinFBFhPsTykopZhZuoi) | [6EJOU](https://open.spotify.com/artist/1k0U51DXyjFk4YnLZUIMP9) | [STAY AWAY](https://open.spotify.com/album/1cIhasMqR2uxzWLRYkRpzb) | 5:24 | 2024-10-06 |  |
 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 | 2023-08-09 |  |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2022-02-18 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, UrvTek and more
+> With Joshua Lanuarii, STYXVII, UrvTek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 568 likes - 50 songs - 2 hr 6 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [人気インフルエンサー☆](https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU), [Maruyama Yuki](https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 1:48 |
 | 50 | [narcissist](https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [forrest nelson](https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE) | [narcissist](https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH) | 2:50 |
 
-Snapshot ID: `aBBGngAAAAA+zkZvDojBs9/9xJdz/bST`
+Snapshot ID: `aBGVZwAAAAB8QMM84x0gVXPqK741fJrP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 48 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 48 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 47 | [Eu Avisei](https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slim Beats Beat](https://open.spotify.com/artist/1Fdh9nMoTOrtGmlZj9r07V) | [Eu Avisei](https://open.spotify.com/album/5ejkKJZfdzJxNFQGVn5pf9) | 5:18 |
 | 48 | [Taças](https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Taças](https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn) | 2:36 |
 
-Snapshot ID: `aA1zgAAAAABx1IIFu5PemykuoQkSELvw`
+Snapshot ID: `aA1zgAAAAACVmZGrVh10w/nrlQv4D7G5`

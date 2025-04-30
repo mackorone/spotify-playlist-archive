@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 137093,
+  "num_followers": 137123,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Mariana Nolasco Sessions 2",
-        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 138647,
-      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
-      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 190252,
       "name": "Don't Fade - Single Version",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "Mariana Nolasco Sessions 2",
+        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 138647,
+      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
+      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
       },
@@ -559,22 +543,18 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -595,6 +575,26 @@
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Ensolarada",
-        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 175659,
-      "name": "Ensolarada",
-      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "deixa que eu j\u00e1 vou",
         "url": "https://open.spotify.com/album/744yL93oUhidi5dTt32T7z"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219320,
       "name": "Seja Como For",
       "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "Ensolarada",
+        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 175659,
+      "name": "Ensolarada",
+      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
+        "name": "A Coisa Mais Bonita",
+        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "A Coisa Mais Bonita",
+      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
         "name": "DUDA BEAT & NANDO REIS",
         "url": "https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 262550,
       "name": "O Segundo Sol",
       "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
-        "name": "A Coisa Mais Bonita",
-        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "A Coisa Mais Bonita",
-      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "UM S\u00d3",
-        "url": "https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "Dia de Sorte",
-      "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "Sol-Te",
         "url": "https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 220141,
       "name": "CACHOEIRA",
       "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "Mesma Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 194547,
+      "name": "Mesma Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

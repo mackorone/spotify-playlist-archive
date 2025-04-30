@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,238 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,242 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Sit Down](https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:13 |
 | 50 | [Up Above My Head](https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [American Epic: The Soundtrack](https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ) | 2:58 |
 
-Snapshot ID: `aA1zgAAAAAClfPK4CxkWGuP+F4NxVD8N`
+Snapshot ID: `aA1zgAAAAAD7uoLijkYzWML8Cu/H1Nfv`

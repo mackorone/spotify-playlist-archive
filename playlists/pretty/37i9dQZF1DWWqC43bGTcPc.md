@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: LBI利比
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,063 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,182 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 5 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 |
 | 6 | [悔過書](https://open.spotify.com/track/1jPfJFrZn3AI9CPz4BErzy) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [林夕](https://open.spotify.com/artist/44z3XbvziSONKWahFuJ1qN) | [悔過書](https://open.spotify.com/album/0UJmBhckikK5kUTKj3PV7R) | 3:45 |
 | 7 | [消散对白](https://open.spotify.com/track/2u6IWBiX4p0Pl9N7gZ8iRn) | [丁禹兮](https://open.spotify.com/artist/3QsYgWFpxcaXgZLFWReamy) | [消散对白](https://open.spotify.com/album/1GCFufyEbtdsIXs84tf5Wd) | 3:31 |
-| 8 | [大不了就這樣吧](https://open.spotify.com/track/3Tc1NBgkwcRdZuD9CIvaPR) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [斑恩Ben](https://open.spotify.com/artist/5Y8y0AtqUfvt7BHhZ0LLAO) | [大不了就這樣吧](https://open.spotify.com/album/2SH0dF7sehismF4jWYGTUE) | 4:28 |
+| 8 | [大不了就這樣吧](https://open.spotify.com/track/3Tc1NBgkwcRdZuD9CIvaPR) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [大不了就這樣吧](https://open.spotify.com/album/2SH0dF7sehismF4jWYGTUE) | 4:28 |
 | 9 | [想念你想我](https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:00 |
 | 10 | [天空](https://open.spotify.com/track/7uZz8xyiFlmp5AWgo2q5Hb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [海螺記](https://open.spotify.com/album/6f4m2xgk0N2mDM7dhUTI6j) | 2:38 |
 | 11 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |

@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 37117,
+  "num_followers": 37478,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2025-04-25 06:04:54",
       "album": {
-        "name": "Ik Zal Er Zijn",
-        "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 196862,
-      "name": "Ik Zal Er Zijn",
-      "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
-    },
-    {
-      "added_at": "2025-04-25 06:04:54",
-      "album": {
         "name": "Dag & Nacht",
         "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
+    },
+    {
+      "added_at": "2025-04-25 06:04:54",
+      "album": {
+        "name": "Ik Zal Er Zijn",
+        "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 196862,
+      "name": "Ik Zal Er Zijn",
+      "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
     },
     {
       "added_at": "2025-04-25 06:04:54",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-04-25 06:04:54",
       "album": {
-        "name": "Altijd Weer Naar Huis",
-        "url": "https://open.spotify.com/album/58qB2y9tKCxrMVUQdnnoBZ"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 223024,
-      "name": "Altijd Weer Naar Huis",
-      "url": "https://open.spotify.com/track/6qA80aXMxio3VeSdp93wyd"
-    },
-    {
-      "added_at": "2025-04-25 06:04:54",
-      "album": {
         "name": "Dit Is Zo'n Dag",
         "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 207905,
       "name": "Dit Is Zo'n Dag",
       "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+    },
+    {
+      "added_at": "2025-04-25 06:04:54",
+      "album": {
+        "name": "Altijd Weer Naar Huis",
+        "url": "https://open.spotify.com/album/58qB2y9tKCxrMVUQdnnoBZ"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 223024,
+      "name": "Altijd Weer Naar Huis",
+      "url": "https://open.spotify.com/track/6qA80aXMxio3VeSdp93wyd"
     },
     {
       "added_at": "2025-04-25 06:04:54",
@@ -851,18 +851,22 @@
     {
       "added_at": "2025-04-25 06:04:54",
       "album": {
-        "name": "Je Weet Pas Wat Je Hebt",
-        "url": "https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER"
+        "name": "Tijd Genoeg",
+        "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
       },
       "artists": [
         {
-          "name": "Elieve",
-          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        },
+        {
+          "name": "Holly Mae Brood",
+          "url": "https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k"
         }
       ],
-      "duration_ms": 155142,
-      "name": "Je Weet Pas Wat Je Hebt",
-      "url": "https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL"
+      "duration_ms": 171759,
+      "name": "Tijd Genoeg",
+      "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"
     }
   ],
   "unique_name": "Helemaal NL",

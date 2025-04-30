@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 365267,
+  "num_followers": 365332,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,30 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
+      },
+      "artists": [
+        {
+          "name": "Max Sin\u00e0l",
+          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
+        },
+        {
+          "name": "KingCrowney",
+          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 235538,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
-      },
-      "artists": [
-        {
-          "name": "Max Sin\u00e0l",
-          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
-        },
-        {
-          "name": "KingCrowney",
-          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 235538,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Enchant\u00e9 (Remix)",
-        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 241961,
-      "name": "Enchant\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Enchant\u00e9 (Remix)",
+        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 241961,
+      "name": "Enchant\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Lucky U",
-        "url": "https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 170567,
-      "name": "Lucky U",
-      "url": "https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
@@ -1315,26 +1295,22 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk"
+        "name": "Lucky U",
+        "url": "https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ"
       },
       "artists": [
         {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq"
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1363,6 +1339,30 @@
       "duration_ms": 268442,
       "name": "Promised Me Love",
       "url": "https://open.spotify.com/track/6b5NKD3dNcwNs2RzMZvjE2"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq"
     },
     {
       "added_at": "2025-04-17 15:41:01",

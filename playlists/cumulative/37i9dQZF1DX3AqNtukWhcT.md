@@ -4,13 +4,14 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-216 songs - 11 hr 7 min
+220 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Brand New Day](https://open.spotify.com/track/5CXsOfxNl8GJjMQ31EGqgg) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [A Brand New Day](https://open.spotify.com/album/5JvZSiMZWf2wJ6botEHlNs) | 2:02 | 2022-09-02 |  |
 | [A Sleep Drum](https://open.spotify.com/track/0CtnsSp2crSjh8SiZbN5Hi) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Sleep Drum](https://open.spotify.com/album/4rKKjZqTjBlQDOxHDpVWVZ) | 2:15 | 2022-09-02 | 2022-10-26 |
 | [Ahimsa](https://open.spotify.com/track/6mJ1SPXpx8jF4B7EzEcjof) | [Siwan Sinan](https://open.spotify.com/artist/7bjiN7dkBWlV7MBGP0eTkP) | [Ahimsa](https://open.spotify.com/album/6uddxBZt9Q1dTSJPTlDYHG) | 2:34 | 2024-05-11 | 2025-02-14 |
+| [Ajna](https://open.spotify.com/track/6iJVbZDhFZnFqbugkf86pe) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Ajna](https://open.spotify.com/album/1XwOL2xWqSy7zeFlajSFWL) | 2:44 | 2025-04-29 |  |
 | [Akasha](https://open.spotify.com/track/1qrdd6j4T2EJFR9g9VH3Qj) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy Stone](https://open.spotify.com/album/7bLljlzayEIE59YxJ92qX2) | 2:47 | 2022-09-02 | 2023-06-22 |
 | [Akasha Flow Beat 1](https://open.spotify.com/track/1DyMzGdvln5pbPkMwnhark) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Akasha Beat](https://open.spotify.com/album/3yC5e0Sse4AMjgz1oSSE5W) | 3:11 | 2022-09-02 |  |
 | [Amelioration](https://open.spotify.com/track/3QEQmuqMxAAPOP54RrAEBF) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Amelioration](https://open.spotify.com/album/1OnNsodqKgXnXjYXaLUXdz) | 3:01 | 2022-10-25 | 2025-01-08 |
@@ -38,6 +39,7 @@
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-09-02 |  |
 | [Calm Night](https://open.spotify.com/track/72JSniZSFFQry3AQVYa8tB) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Calm Night](https://open.spotify.com/album/3lx9UDC30ijqxQpYWtBF2I) | 2:48 | 2022-12-22 |  |
 | [Calma En El Espacio](https://open.spotify.com/track/6YUVHsAqX6pku0lgWRur48) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 3:00 | 2022-09-02 | 2023-11-18 |
+| [Calming Pace](https://open.spotify.com/track/2etowVBHwxBk6LYedg45cg) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Calming Pace](https://open.spotify.com/album/0XAiphyLGKX3iRYjWQNACr) | 3:06 | 2025-04-29 |  |
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-09-02 |  |
 | [Castaway Island](https://open.spotify.com/track/5XtpIHoZM4EMlM1IAwa426) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Castaway Island](https://open.spotify.com/album/2Lhvnaxd2FxeExmEUavioW) | 3:55 | 2022-09-02 | 2022-10-26 |
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-09-02 | 2023-08-12 |
@@ -99,6 +101,7 @@
 | [Indian Sunset](https://open.spotify.com/track/6Oa6dSEDkopm9UsfZ6tVH8) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 3:40 | 2022-10-25 |  |
 | [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 | 2023-10-02 |  |
 | [Inner Intuition](https://open.spotify.com/track/2WNrn26PWJDLx5Gnjhb2Hy) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Inner intuition](https://open.spotify.com/album/0V5qQhB4oEjt1B24AAmWgw) | 2:33 | 2024-03-14 |  |
+| [Instant Sooth](https://open.spotify.com/track/5Gt7moAJorlOzJpZLWIJU0) | [Turtle Man.](https://open.spotify.com/artist/5Gib53WHQDHw7pCPbpH6Pb) | [Instant Sooth](https://open.spotify.com/album/5jLFKTdWA8WYYSHCD8fLEW) | 2:18 | 2025-04-29 |  |
 | [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-09-02 | 2023-08-12 |
 | [Isha Sky](https://open.spotify.com/track/1shogpgsW1zvMcHhlCM956) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Isha Sky](https://open.spotify.com/album/7CRuUGDr21CfLgHvalGwIg) | 2:10 | 2024-04-07 |  |
 | [Jewel of Sangha](https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H) | [Bringer of Zen](https://open.spotify.com/artist/17BokPLT01EqyONZ59QdqM) | [Jewel of Sangha](https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X) | 2:34 | 2022-09-22 |  |
@@ -125,6 +128,7 @@
 | [Morning sun](https://open.spotify.com/track/1WGkqt17bWJCmoOVdy5B23) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Morning sun](https://open.spotify.com/album/6ZWdDY9ScArTi6vWyEZgJa) | 3:08 | 2023-06-21 |  |
 | [Mountains](https://open.spotify.com/track/0H6JIWGyILocIhKM8ItOHC) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:52 | 2022-12-22 | 2025-01-08 |
 | [Muladhara Root Chakra](https://open.spotify.com/track/71yQPLmjT8pnhTOTXX3i1L) | [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c), [Instrumental Zone](https://open.spotify.com/artist/2n5ur2MSvLE1XOfGs1cYKX) | [Chakra Meditation](https://open.spotify.com/album/70i2hi6CzACmxg9LSdcLfh) | 3:08 | 2022-09-02 | 2025-02-14 |
+| [Mystic Sitar Breeze](https://open.spotify.com/track/3MR7G4AoBcBH1ebyhnZ62m) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Mystic Sitar Breeze](https://open.spotify.com/album/3gdxJkjide5KYt2PeB6oYB) | 3:04 | 2025-04-29 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-09-02 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2022-09-02 | 2024-09-07 |
 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2022-09-02 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 50 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 50 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 49 | [The War on the Poor](https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 8:30 |
 | 50 | [Bird of Paradise: Part 2](https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:34 |
 
-Snapshot ID: `aA1zgAAAAACOgfaTQmk5JNclHIJpovuC`
+Snapshot ID: `aA1zgAAAAACTsWaUgo1oMvsTOdPzo6+v`

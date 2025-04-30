@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,032 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,091 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 29 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
 | 30 | [Pirocada Quente](https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Pirocada Quente](https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16) | 3:15 |
 | 31 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
-| 32 | [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/37QloSdzrjx2xCH0m65800) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Nada Com Nada \(Ao Vivo\)](https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M) | 2:41 |
+| 32 | [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/65eE2tVTPgVXImU3mTYKbp) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Atemporal \(Ao Vivo / EP1\)](https://open.spotify.com/album/4p4SC0Oi6iBl21CPkgtwFt) | 2:41 |
 | 33 | [a última dança](https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [a última dança](https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E) | 2:06 |
 | 34 | [Cantada Boba \- Ao Vivo](https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 3:03 |
 | 35 | [Tipo Nino Abravanel](https://open.spotify.com/track/6XXqPj8USz1oebSmMPCBLC) | [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Tipo Nino Abravanel](https://open.spotify.com/album/3EaKsTixCNTN1L2FOU4uPV) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 |
 | 50 | [Proibido Terminar \- Ao Vivo](https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Proibido Terminar \(Ao Vivo\)](https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8) | 2:45 |
 
-Snapshot ID: `L6LxeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L6RC+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

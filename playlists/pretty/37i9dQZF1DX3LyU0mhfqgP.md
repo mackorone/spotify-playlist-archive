@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: MOONGA K.
+> Songs from LGBTQIA+ artists\.  Cover: Alessandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,569 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,545 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [hold on!](https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [hold on!](https://open.spotify.com/album/48VMqiCGrtac9dxZ8UVwlf) | 3:00 |
-| 2 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 |
-| 3 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 |
-| 4 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
-| 5 | [Grito 2.0](https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito 2.0](https://open.spotify.com/album/26AuLXCoMlC6mXe9DP4U8C) | 3:01 |
-| 6 | [Satellite \- Spotify Singles](https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Satellite \(Spotify Singles\)](https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T) | 2:12 |
-| 7 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
-| 8 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
-| 9 | [אוויר לנשימה](https://open.spotify.com/track/37UoK4f7ghXOirEorXNsqb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [תדר 4](https://open.spotify.com/album/1kVo6voTgPVOh6IDV2zLOI) | 3:03 |
-| 10 | [Ether](https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Ether](https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm) | 2:29 |
-| 11 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
-| 12 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 |
+| 1 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
+| 2 | [hold on!](https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [hold on!](https://open.spotify.com/album/48VMqiCGrtac9dxZ8UVwlf) | 3:00 |
+| 3 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
+| 4 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 |
+| 5 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 |
+| 6 | [Grito 2.0](https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito 2.0](https://open.spotify.com/album/26AuLXCoMlC6mXe9DP4U8C) | 3:01 |
+| 7 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
+| 8 | [Satellite \- Spotify Singles](https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Satellite \(Spotify Singles\)](https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T) | 2:12 |
+| 9 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
+| 10 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
+| 11 | [אוויר לנשימה](https://open.spotify.com/track/37UoK4f7ghXOirEorXNsqb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [תדר 4](https://open.spotify.com/album/1kVo6voTgPVOh6IDV2zLOI) | 3:03 |
+| 12 | [Ether](https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Ether](https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm) | 2:29 |
 | 13 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 14 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
 | 15 | [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 |
 | 50 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
 
-Snapshot ID: `aAcUYQAAAABWBRv+4lJtr6LWD47cOr8w`
+Snapshot ID: `aBBO4gAAAAAVNVjYiZaNqYQrWUZiT3iD`

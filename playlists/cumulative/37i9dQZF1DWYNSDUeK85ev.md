@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-469 songs - 1 day 3 hr 39 min
+470 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Cero Centimientos](https://open.spotify.com/track/3Lus7QM00IV2QfpK5XV54L) | [Matias Emmanuel](https://open.spotify.com/artist/4sWburFBVJuegn1Gs2jQko), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Cero Centimientos](https://open.spotify.com/album/2XFd3y1u8RmYe7vJOkjjfR) | 3:00 | 2022-09-09 | 2022-09-30 |
 | [Champagne Frances](https://open.spotify.com/track/43hWMUofCf0tT8aNxvyD3C) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Champagne Frances](https://open.spotify.com/album/5vR1XQmIrMuZudpTJzomwI) | 1:55 | 2022-11-08 | 2022-11-25 |
 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2022-06-07 | 2022-07-26 |
+| [CHICHIS](https://open.spotify.com/track/0mnN5pWOPwvVITTIui0WyM) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [CHICHIS](https://open.spotify.com/album/1kv6a3W8ErSSjtAZsRn8il) | 1:57 | 2025-04-29 |  |
 | [Chinax](https://open.spotify.com/track/6CRs2uNFau0JRFOYzK7BKt) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Chinax](https://open.spotify.com/album/0YtoqxPTLkluYIIrSKJfeJ) | 5:49 | 2022-05-13 | 2022-07-25 |
 | [Chivirica](https://open.spotify.com/track/2PjgJI3BKInMWtAld4djDo) | [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Chivirica](https://open.spotify.com/album/32nbXySy5WkipuCl29LDUb) | 1:57 | 2022-06-07 | 2022-07-09 |
 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 | 2024-05-10 | 2025-01-24 |
@@ -92,7 +93,7 @@
 | [Dale Activaa](https://open.spotify.com/track/6A8S10AECx3yqV2F5ExDnc) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Dale Activaa](https://open.spotify.com/album/1SoiS9BfdMszU4scw6ENQb) | 3:13 | 2022-06-09 | 2022-06-25 |
 | [Dance monkey](https://open.spotify.com/track/7vGju2O4LYSNwHVlTlxjh8) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Dance monkey](https://open.spotify.com/album/6YbfXZ583tbY3kuQoXhjgg) | 3:45 | 2022-06-17 | 2022-07-28 |
 | [De Ahí](https://open.spotify.com/track/59MN1aOpePepwrpmNdkVlA) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE) | [De Ahí](https://open.spotify.com/album/6BKiolA3MKFhps2rfKecmd) | 2:27 | 2022-05-13 | 2022-07-27 |
-| [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 |  |
+| [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 | 2025-04-30 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-02-10 | 2025-03-08 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR) | [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Deja de Llorar](https://open.spotify.com/album/0bSs0ly2sGFwLnokPatqRn) | 1:25 | 2022-05-13 | 2022-07-23 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-28 |  |
