@@ -1,13 +1,77 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238101,
+  "num_followers": 238100,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAD3LAAAAABdMQl0iqouyP5PBeyz7SYO",
+  "snapshot_id": "aBJuKQAAAAByHwmzxmkvBg3YBf1X226V",
   "tracks": [
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+    },
+    {
+      "added_at": "2025-04-30 18:38:32",
+      "album": {
+        "name": "Wunder gibt es immer wieder (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 161050,
+      "name": "Wunder gibt es immer wieder - Spotify Singles",
+      "url": "https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3"
+    },
     {
       "added_at": "2025-04-16 10:56:23",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Spacey Jane",
-  "num_followers": 127820,
+  "num_followers": 127863,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2025-04-24 14:00:12",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
     },
     {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Don\u2019t Happy, Be Worry",
+        "url": "https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Don\u2019t Happy, Be Worry",
+      "url": "https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "All I Am",
@@ -605,22 +621,6 @@
       "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "Don\u2019t Happy, Be Worry",
-        "url": "https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Don\u2019t Happy, Be Worry",
-      "url": "https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D"
-    },
-    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "DON WEST",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Electric Green Lambo",
-        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 155179,
-      "name": "Electric Green Lambo",
-      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+        "name": "Electric Green Lambo",
+        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+      "duration_ms": 155179,
+      "name": "Electric Green Lambo",
+      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -727,6 +727,22 @@
       "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
+    },
+    {
+      "added_at": "2025-04-17 14:00:17",
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 170256,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -759,38 +775,6 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
-      "added_at": "2025-04-17 14:00:17",
-      "album": {
-        "name": "The Actor",
-        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "The Actor",
-      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Golden Wolf",
-        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "Golden Wolf",
-      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -843,6 +827,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Spend My Nights",
         "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 150250,
       "name": "Spend My Nights",
       "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -877,6 +893,22 @@
       "url": "https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg"
     },
     {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "waltz",
+        "url": "https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "waltz",
+      "url": "https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "No Cure For Love",
@@ -897,22 +929,6 @@
       "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "waltz",
-        "url": "https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "waltz",
-      "url": "https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE"
-    },
-    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "Dance With Me",
@@ -927,22 +943,6 @@
       "duration_ms": 225204,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "How to Kill Houseplants",
-        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 208797,
-      "name": "How to Kill Houseplants",
-      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Clothes Off",
-        "url": "https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma"
-      },
-      "artists": [
-        {
-          "name": "aleksiah",
-          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
-        }
-      ],
-      "duration_ms": 188688,
-      "name": "Clothes Off",
-      "url": "https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "Slipper imp and shakaerator",
         "url": "https://open.spotify.com/album/2SArL4pMzLcKjHP4S7QWHV"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Old Mervs",
-        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
+        "name": "Clothes Off",
+        "url": "https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma"
       },
       "artists": [
         {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
         }
       ],
-      "duration_ms": 161511,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
+      "duration_ms": 188688,
+      "name": "Clothes Off",
+      "url": "https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ"
     },
     {
       "added_at": "2025-04-17 14:00:17",
@@ -1047,6 +1031,22 @@
       "duration_ms": 144802,
       "name": "Rush (Missing Out On Me)",
       "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Old Mervs",
+        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 161511,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "don't let me go",
-        "url": "https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh"
-      },
-      "artists": [
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        }
-      ],
-      "duration_ms": 155862,
-      "name": "don't let me go",
-      "url": "https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN"
-    },
-    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "boy",
@@ -1159,6 +1143,22 @@
       "duration_ms": 172000,
       "name": "Benny",
       "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "don't let me go",
+        "url": "https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh"
+      },
+      "artists": [
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        }
+      ],
+      "duration_ms": 155862,
+      "name": "don't let me go",
+      "url": "https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Peripheral Lover",
-        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 195486,
-      "name": "Peripheral Lover",
-      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "You're Still Mine",
         "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 147846,
       "name": "You're Still Mine",
       "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
       "added_at": "2025-04-08 14:00:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,516 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,555 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 47 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 48 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 49 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
-| 50 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
-| 51 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 50 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 51 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
 | 52 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 53 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
 | 54 | [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 58 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 | 59 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
 | 60 | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 |
-| 61 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
-| 62 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
+| 61 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
+| 62 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
 | 63 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
 | 64 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
 | 65 | [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 |

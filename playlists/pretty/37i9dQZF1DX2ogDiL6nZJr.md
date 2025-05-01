@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,555 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,847 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 52 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
 | 53 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 | 54 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
-| 55 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
-| 56 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
+| 55 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
+| 56 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
 | 57 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 |
 | 58 | [Rhizome](https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [No Fire in the Sand](https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ) | 4:17 |
-| 59 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
-| 60 | [I'm Trying](https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Library](https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE) | 3:15 |
+| 59 | [I'm Trying](https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Library](https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE) | 3:15 |
+| 60 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
 | 61 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 |
 | 62 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 |
 | 63 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 77 | [Where the Grass Grows High](https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Where the Grass Grows High](https://open.spotify.com/album/5zRkDPYfYzo5DTyg2BD6UP) | 3:35 |
 | 78 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 |
 | 79 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
-| 80 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 81 | [Drifting](https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Drifting](https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn) | 3:44 |
+| 80 | [Drifting](https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Drifting](https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn) | 3:44 |
+| 81 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 82 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 |
 | 83 | [Cars](https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q) | [A Tale of Golden Keys](https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY) | [The Only Thing That's Real](https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn) | 3:17 |
 | 84 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |

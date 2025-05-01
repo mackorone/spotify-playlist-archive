@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 207840,
       "name": "Do It For The Bass",
       "url": "https://open.spotify.com/track/7vvicpDycMPhX4RJjgipB8"
@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Kontrol EP",
+        "url": "https://open.spotify.com/album/0t8jdQT2gZ9PtOuUv5OwAq"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346478,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/5ts3NZta32JBTsMZiYT4qq"
+    },
+    {
+      "album": {
         "name": "LAVANDE",
         "url": "https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 393107,
       "name": "Magma",
       "url": "https://open.spotify.com/track/1RgoIFJ0tR56wWsKnBEjjA"

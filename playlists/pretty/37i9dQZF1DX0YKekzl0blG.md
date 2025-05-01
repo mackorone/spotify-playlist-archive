@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,469 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,534 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 20 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 21 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 22 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 23 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
-| 24 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 23 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 24 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
 | 25 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
 | 26 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 27 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 64 | [My Delirium](https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Edition\)](https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF) | 4:14 |
 | 65 | [Shoot the Runner](https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Empire](https://open.spotify.com/album/22cuBzNBEzMhitybh0WEIh) | 3:27 |
 | 66 | [Gold Lion](https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:07 |
-| 67 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
-| 68 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 |
+| 67 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 |
+| 68 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
 | 69 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
-| 70 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
-| 71 | [On Call](https://open.spotify.com/track/33YXSNBTg2KvbGur2E1XUw) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5xA2glxPh2OjEvvKiZXbR8) | 3:21 |
+| 70 | [On Call](https://open.spotify.com/track/33YXSNBTg2KvbGur2E1XUw) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5xA2glxPh2OjEvvKiZXbR8) | 3:21 |
+| 71 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
 | 72 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
 | 73 | [Pass It On](https://open.spotify.com/track/5uB85PzlWrnNnxL2A1TcKD) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Magic & Medicine](https://open.spotify.com/album/3vd7xfTaPLTZZFIfSOzxLp) | 2:19 |
 | 74 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |

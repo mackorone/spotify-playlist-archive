@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 76253,
+  "num_followers": 76274,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-04-29 16:49:25",
       "album": {
-        "name": "F\u00fcr immer",
-        "url": "https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9"
+        "name": "POPIGENIC",
+        "url": "https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4"
       },
       "artists": [
         {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
         }
       ],
-      "duration_ms": 244966,
-      "name": "Sage der Rosen",
-      "url": "https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP"
+      "duration_ms": 221426,
+      "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6XWdcMK2pfSjDkFbRtiwIk"
     },
     {
       "added_at": "2025-04-29 16:49:25",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-04-29 16:49:25",
       "album": {
-        "name": "POPIGENIC",
-        "url": "https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4"
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 221426,
-      "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/6XWdcMK2pfSjDkFbRtiwIk"
+      "duration_ms": 244966,
+      "name": "Sage der Rosen",
+      "url": "https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP"
     },
     {
       "added_at": "2025-04-29 16:49:25",
@@ -659,6 +659,54 @@
     {
       "added_at": "2025-04-29 16:49:25",
       "album": {
+        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
+        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "duration_ms": 234017,
+      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
+      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
+    },
+    {
+      "added_at": "2025-04-29 16:49:25",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E"
+    },
+    {
+      "added_at": "2025-04-29 16:49:25",
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+    },
+    {
+      "added_at": "2025-04-29 16:49:25",
+      "album": {
         "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
         "url": "https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l"
       },
@@ -703,54 +751,6 @@
       "duration_ms": 311233,
       "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
       "url": "https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr"
-    },
-    {
-      "added_at": "2025-04-29 16:49:25",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E"
-    },
-    {
-      "added_at": "2025-04-29 16:49:25",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
-    },
-    {
-      "added_at": "2025-04-29 16:49:25",
-      "album": {
-        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
-        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
-        }
-      ],
-      "duration_ms": 234017,
-      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
-      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
     },
     {
       "added_at": "2025-04-29 16:49:25",

@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Cover: Playboi Carti
 
-765 songs - 1 day 16 hr 6 min
+766 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2023-03-25 | 2023-04-27 |
 | [No Estuviste En Lo Malo \- REMIX](https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [No Estuviste En Lo Malo \(REMIX\)](https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5) | 4:28 | 2023-10-06 | 2024-01-19 |
 | [NO FINSTA](https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LET'S DO IT](https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK) | 1:58 | 2023-10-27 | 2024-01-15 |
+| [No lo sé](https://open.spotify.com/track/7CVQNimiTPLHTu4ZM7pv7s) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/6peJVbUHOoIA7mAzUmQypA) | 2:45 | 2025-04-30 |  |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-16 | 2023-06-06 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-12-05 |  |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 | 2023-12-08 |
@@ -704,7 +705,7 @@
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-27 | 2023-02-24 |
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 | 2024-07-29 |
 | [Tony Montana \(feat\. Drake\)](https://open.spotify.com/track/1IWXAWo4u0H1D0QvSpvldn) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pluto 3D](https://open.spotify.com/album/1MJ0UQh7nta4JGuFYW4gCg) | 4:05 | 2024-04-23 | 2024-05-07 |
-| [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-20 |  |
+| [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-20 | 2025-05-01 |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-08-04 | 2023-08-19 |
 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2023-01-06 | 2023-02-25 |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2023-12-08 |

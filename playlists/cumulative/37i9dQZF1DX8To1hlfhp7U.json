@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/7eDWLDuUcanG37D8UnlBmv"
+      },
+      "artists": [
+        {
+          "name": "Kotti",
+          "url": "https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "AFSRMUSIC",
+          "url": "https://open.spotify.com/artist/4782y51fIf7e1EGSxnfy35"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137044,
+      "name": "506",
+      "url": "https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w"
+    },
+    {
+      "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
       },
@@ -112,7 +138,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 164478,
       "name": "All Night",
       "url": "https://open.spotify.com/track/7aHK3g7UZfK1t1C6AMKEFF"
@@ -306,7 +332,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 132765,
       "name": "Bison",
       "url": "https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c"
@@ -464,7 +490,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 187636,
       "name": "Busy Getting Paid",
       "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
@@ -1436,10 +1462,36 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 141592,
       "name": "Machreya",
       "url": "https://open.spotify.com/track/7o5r7J6W8yZhqNotpggzRb"
+    },
+    {
+      "album": {
+        "name": "Maut",
+        "url": "https://open.spotify.com/album/4sH7Ak3nAbkPLgjnYt5QYO"
+      },
+      "artists": [
+        {
+          "name": "Maninder Saba",
+          "url": "https://open.spotify.com/artist/5ZF39JENYCqvzXiRkr9bxI"
+        },
+        {
+          "name": "Beats By Sengh",
+          "url": "https://open.spotify.com/artist/0c5ZXk3VSo7xRA2QjsCTkG"
+        },
+        {
+          "name": "King Darrous 29",
+          "url": "https://open.spotify.com/artist/4cvyo6h3aR9yXG5tUsjOXT"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Maut",
+      "url": "https://open.spotify.com/track/6SILyQawBX8rgsjwjwQqrD"
     },
     {
       "album": {
@@ -1638,7 +1690,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 179440,
       "name": "Nakhreya Mari",
       "url": "https://open.spotify.com/track/5ysIp2rJDfWkXVsYAMisa9"
@@ -1888,7 +1940,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 140331,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/72dpLcvlQNZdDecynf9t7Y"

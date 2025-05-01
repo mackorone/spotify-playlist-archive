@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,754 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,792 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 55 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
 | 56 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
 | 57 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
-| 58 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 |
-| 59 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
+| 58 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
+| 59 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 |
 | 60 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
 | 61 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 | 62 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |

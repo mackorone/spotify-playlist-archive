@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Sam Grey
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Konstantin Sibold &amp; Adam Sellouk
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 269,908 likes - 139 songs - 7 hr 7 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 269,887 likes - 139 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 |
-| 2 | [Day 'N' Night](https://open.spotify.com/track/1nXJn2Sy4d1fdu1VHeJOnd) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Day 'N' Night](https://open.spotify.com/album/0yxi7JGZDcbRFgIv6GzOsZ) | 3:36 |
+| 1 | [Day 'N' Night](https://open.spotify.com/track/1nXJn2Sy4d1fdu1VHeJOnd) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Day 'N' Night](https://open.spotify.com/album/0yxi7JGZDcbRFgIv6GzOsZ) | 3:36 |
+| 2 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 |
 | 3 | [Dominator](https://open.spotify.com/track/7oZ8KZELVocU8WY2Ye7b3x) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/4VZhDxvFCxnFQ5lPrZt9Np) | 3:59 |
 | 4 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
 | 5 | [Heat](https://open.spotify.com/track/0areojbnyM4jm0jQ6fU6ko) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Heat](https://open.spotify.com/album/2kYla7qUsfm8fHbS2ODxP0) | 2:30 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 138 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 |
 | 139 | [Free](https://open.spotify.com/track/7qprvBczTq7d2oOQisUdGy) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Armada Music Year Mix 2024](https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P) | 3:16 |
 
-Snapshot ID: `AADT68pU+jwC15h30iwKSmpUJyFESuP9`
+Snapshot ID: `AADT7X/nK1tcQrKMxhxLu7ZpIAy2g1t2`

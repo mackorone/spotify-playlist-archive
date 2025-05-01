@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,656 likes - 87 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,906 likes - 87 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 21 | [terjebak imajinasi \- acoustic version](https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi \(acoustic version\)](https://open.spotify.com/album/3UuteNNDPaFk8E5rp9qdlN) | 3:42 |
 | 22 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 23 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 24 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 24 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 25 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 26 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 |
 | 27 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |

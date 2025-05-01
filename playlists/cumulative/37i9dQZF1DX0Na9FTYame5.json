@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 135410,
       "name": "1402",
       "url": "https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 129136,
       "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
       "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
@@ -3776,6 +3776,24 @@
       "duration_ms": 178758,
       "name": "War das schon alles",
       "url": "https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT"
+    },
+    {
+      "album": {
+        "name": "Warum ich?",
+        "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144671,
+      "name": "Warum ich?",
+      "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
     },
     {
       "album": {

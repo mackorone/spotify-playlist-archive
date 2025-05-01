@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,598 likes - 70 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,629 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 59 | [Azadi \(Jinnah\)](https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc) | 4:35 |
 | 60 | [Nishaan](https://open.spotify.com/track/5K4yREYdmwEfIreEF67YKL) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 3:40 |
 | 61 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 |
-| 62 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |
+| 62 | [Rano](https://open.spotify.com/track/72pZNRX4pl2lNZpCuIVt7p) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Khiza](https://open.spotify.com/artist/5zkTvI8BqLcbNxzapM8oLd) | [Nara Sada Ishq Aye](https://open.spotify.com/album/2ejPAyZuv7eHBaVw2kb6uz) | 4:15 |
 | 63 | [Ajnabi](https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:21 |
-| 64 | [Rano](https://open.spotify.com/track/72pZNRX4pl2lNZpCuIVt7p) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Khiza](https://open.spotify.com/artist/5zkTvI8BqLcbNxzapM8oLd) | [Nara Sada Ishq Aye](https://open.spotify.com/album/2ejPAyZuv7eHBaVw2kb6uz) | 4:15 |
+| 64 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |
 | 65 | [Huqa Pani](https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
-| 66 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
-| 67 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
-| 68 | [Tum Mil Gaye](https://open.spotify.com/track/2D2o91sSKPo0s6TKAE0HGW) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 5:06 |
-| 69 | [Paimana Bitte](https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 4:38 |
+| 66 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
+| 67 | [Tum Mil Gaye](https://open.spotify.com/track/2D2o91sSKPo0s6TKAE0HGW) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 5:06 |
+| 68 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
+| 69 | [Chal Diye](https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 5:33 |
 | 70 | [Teri Yaad](https://open.spotify.com/track/4WP514flpoolRbY3n6osFI) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Teri Yaad \-The Collection](https://open.spotify.com/album/3k590uhpKMD17vW1DndOgQ) | 6:18 |
 
 Snapshot ID: `ZmG2ggAAAABC6pSQng7wiKqQeK1T88i0`

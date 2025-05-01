@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,976 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,055 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 |
 | 80 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 
-Snapshot ID: `aArQjAAAAACqqIDj7RptI0JKPfYK7zek`
+Snapshot ID: `AAAAANvG6VwBqdN9hcEdUh2NBl/QhklZ`

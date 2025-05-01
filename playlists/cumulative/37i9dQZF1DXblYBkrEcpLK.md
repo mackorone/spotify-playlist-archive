@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 星街すいせい Hoshimachi Suisei
 
-751 songs - 2 day 1 hr 48 min
+752 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-09 | 2022-07-08 |
 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 | 2022-07-28 | 2023-12-20 |
 | [Thank you for…](https://open.spotify.com/track/4ZJMCk1quBMI7IW6Puf2wz) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Thank you for…](https://open.spotify.com/album/1hrJFAHrzL1qTMuP0MeVUu) | 3:57 | 2022-06-14 | 2022-07-20 |
+| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-30 |  |
 | [Think Over](https://open.spotify.com/track/0jHfHfOmxnFP60OrDlSHLb) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Moments](https://open.spotify.com/album/3veL9VgutCTN2Z0MxjXwaV) | 3:23 | 2022-06-24 | 2022-07-27 |
 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 | 2023-06-14 |
 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-09 | 2023-01-11 |
@@ -752,7 +753,7 @@
 | [青一色](https://open.spotify.com/track/1HjJ6hhYHYFqzkpMmBritS) | [JELEE](https://open.spotify.com/artist/0MoyRRt294SPkAA4NU6Cf6) | [青一色](https://open.spotify.com/album/3EZNndkyK5IPCvb17pWaLT) | 3:37 | 2024-05-28 | 2024-07-08 |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-11-19 | 2024-02-14 |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-04-16 | 2025-01-31 |
-| [顔](https://open.spotify.com/track/0ZYgJq7TgMBm7Gp96A2nz0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [顔](https://open.spotify.com/album/4Y7Rhsbf0nroRenj7KWuV0) | 4:02 | 2025-04-22 |  |
+| [顔](https://open.spotify.com/track/0ZYgJq7TgMBm7Gp96A2nz0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [顔](https://open.spotify.com/album/4Y7Rhsbf0nroRenj7KWuV0) | 4:02 | 2025-04-22 | 2025-05-01 |
 | [風に吹かれて](https://open.spotify.com/track/6vjeETfOkmZ5jAGvPVXtMt) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/5vBoYEzniKotKOMLabgCYK) | 4:31 | 2022-06-14 | 2022-07-26 |
 | [風の音さえ聞こえない](https://open.spotify.com/track/32yZPsVMeF0KuuN07lWRKf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [風の音さえ聞こえない](https://open.spotify.com/album/08bbBD2AhdlytDaIxH3seZ) | 3:40 | 2022-06-14 | 2022-06-19 |
 | [風見鶏を見つけて](https://open.spotify.com/track/1D6gC3w9QMdYOXu2B9g2oE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/17ULC3MIHmbLWuOjcbTb1p) | 5:07 | 2022-06-14 | 2022-07-27 |

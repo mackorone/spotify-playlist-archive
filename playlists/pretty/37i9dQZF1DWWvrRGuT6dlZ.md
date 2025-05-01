@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: DUKES\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 105 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 105 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

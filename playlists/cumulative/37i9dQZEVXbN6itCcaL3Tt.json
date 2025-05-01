@@ -4109,6 +4109,36 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/1l58295uREa2T8qG0MWn8L"
+      },
+      "artists": [
+        {
+          "name": "Bajorson",
+          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
+        },
+        {
+          "name": "Dawid Obserwator",
+          "url": "https://open.spotify.com/artist/17TxUtKcfnsMuLJ7GF0gBC"
+        },
+        {
+          "name": "Dj Killer",
+          "url": "https://open.spotify.com/artist/5oxxdyb3stTvWUtlisvfyD"
+        },
+        {
+          "name": "David Tango",
+          "url": "https://open.spotify.com/artist/30AY4WR8v4YL1XN2mX1dzP"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222620,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
+    },
+    {
+      "album": {
         "name": "Bajka (K. K. Baczy\u0144ski)",
         "url": "https://open.spotify.com/album/6mu03OW0CS5DHNYZRkIdNX"
       },
@@ -28780,7 +28810,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 181714,
       "name": "NIE B\u0118D\u0118 ZA NIC PRZEPRASZA\u0106",
       "url": "https://open.spotify.com/track/6jDDdgpkPVZExdeh72Cc5v"
@@ -35558,7 +35588,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 183748,
       "name": "Przester",
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
@@ -38068,7 +38098,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"

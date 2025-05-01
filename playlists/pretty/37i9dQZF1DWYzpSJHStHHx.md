@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,437 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,501 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 43 | [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 |
 | 44 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 |
 | 45 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 |
-| 46 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
-| 47 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
+| 46 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
+| 47 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
 | 48 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
 | 49 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 50 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 59 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
 | 60 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
 | 61 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
-| 62 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
-| 63 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
+| 62 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 63 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
 | 64 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
-| 65 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 65 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 66 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 67 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 | 68 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
 | 69 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
-| 70 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
-| 71 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
+| 70 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
+| 71 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 72 | [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 |
 | 73 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
 | 74 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |

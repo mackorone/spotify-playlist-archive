@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,729 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,565 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 36 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
 | 37 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
 | 38 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
-| 39 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
-| 40 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
+| 39 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
+| 40 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
 | 41 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 42 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
 | 43 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 76 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |
 | 77 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
 | 78 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
-| 79 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
-| 80 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
+| 79 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
+| 80 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 81 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
 | 82 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
 | 83 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 86 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
 | 87 | [Even The Darkness Has Arms](https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 3:50 |
 | 88 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 |
-| 89 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 |
-| 90 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 |
-| 91 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
-| 92 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 |
-| 93 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
-| 94 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 |
-| 95 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
-| 96 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
-| 97 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
-| 98 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
-| 99 | [Shadow Bloom](https://open.spotify.com/track/0itvbqb82mfjGDzt7CbyAW) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Celebration](https://open.spotify.com/album/4wrez0RypQEvfS5qkc7ezd) | 3:40 |
-| 100 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
+| 89 | [In Agreement](https://open.spotify.com/track/5Mz9lPPBzEspDIvv5ihVky) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:47 |
+| 90 | [If The Creek Don’t Rise](https://open.spotify.com/track/1nJubUVBBLj2bU9KnpvwvM) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/6dXyHp7v65Wn7b2QKitcV2) | 3:24 |
+| 91 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 |
+| 92 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 |
+| 93 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
+| 94 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 |
+| 95 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
+| 96 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 |
+| 97 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
+| 98 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
+| 99 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
+| 100 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
 
 Snapshot ID: `ZsimzgAAAAD54youw+aXorp288OOlYli`

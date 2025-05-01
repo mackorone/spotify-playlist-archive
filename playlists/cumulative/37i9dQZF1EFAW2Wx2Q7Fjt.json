@@ -688,7 +688,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 202419,
       "name": "cowboy",
       "url": "https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ"
@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+    },
+    {
+      "album": {
         "name": "AWW!",
         "url": "https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8"
       },
@@ -3788,6 +3806,24 @@
       "duration_ms": 190059,
       "name": "want that too",
       "url": "https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T"
+    },
+    {
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173873,
+      "name": "weirdo",
+      "url": "https://open.spotify.com/track/3AvvjUGsfNrvdGt62W4xMN"
     },
     {
       "album": {

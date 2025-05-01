@@ -2,7 +2,7 @@
 
 ### [Instrumental Backdrop](https://open.spotify.com/playlist/37i9dQZF1DWYmSg58uBxin)
 
-> Soothing piano and strings to help you concentrate.
+> Sonidos relajantes de piano y cuerdas para que puedas concentrarte.
 
 311 songs - 14 hr 11 min
 

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
 
-88 songs - 4 hr 49 min
+89 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 |  |
+| [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 |  |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,340 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,585 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 29 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
 | 30 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 31 | [Plus Je T'embrasse](https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:29 |
-| 32 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
-| 33 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
+| 32 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
+| 33 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
 | 34 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 35 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
 | 36 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 49 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 |
 | 50 | [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 |
 | 51 | [Les jeux sont faits](https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:37 |
-| 52 | [Tu t'laissez aller](https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [L'Orchestre Paul Mauriat](https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy) | [Le monde de la chanson, Vol\. 27: Charles Aznavour, Vol\. 2 "O toi la vie!"](https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk) | 3:39 |
-| 53 | [Aimé](https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Jamais seule](https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY) | 3:07 |
+| 52 | [Aimé](https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Jamais seule](https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY) | 3:07 |
+| 53 | [Tu t'laissez aller](https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [L'Orchestre Paul Mauriat](https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy) | [Le monde de la chanson, Vol\. 27: Charles Aznavour, Vol\. 2 "O toi la vie!"](https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk) | 3:39 |
 | 54 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
 | 55 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
 | 56 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |

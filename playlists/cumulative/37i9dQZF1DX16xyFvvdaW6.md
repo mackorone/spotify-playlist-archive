@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-98 songs - 7 hr 10 min
+103 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 | 2022-12-04 |
 | [Almas Mecanicas](https://open.spotify.com/track/4t15P4sjW4v7OsaxvmD42k) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/3GkSk8MzVJjxBKSgCh4mfx) | 5:52 | 2022-10-25 | 2024-07-30 |
 | [Así Peleo Mis Batallas](https://open.spotify.com/track/4oOPe4cjevog1yEGOq9a7y) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Que La Música No Pare](https://open.spotify.com/album/0ygjAyH0Rxrco1LTCjJyzY) | 3:24 | 2024-07-29 |  |
+| [Año Zero](https://open.spotify.com/track/6qXTukTvuPOFFHWcmh4kqg) | [Amor Sin Fin](https://open.spotify.com/artist/1ueHUKL6L0bZ2AoYMx7wTC), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Año Zero](https://open.spotify.com/album/2zASpw1tV9u8b1Rl3LVdAp) | 5:39 | 2025-04-30 |  |
 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 | 2022-10-26 |
 | [Casita en el Cielo](https://open.spotify.com/track/67nH4fENqR57oYGpE6BNgy) | [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Casita en el Cielo](https://open.spotify.com/album/2Xdlf33WLjUgb9Pgxb1uHM) | 3:03 | 2024-07-29 |  |
 | [Cicatriz](https://open.spotify.com/track/0TpWtQlUdr9biLLEZjdIxQ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Skapaltata](https://open.spotify.com/artist/2TamkT4q1zJ6TAXMwZUvcs) | [Cicatriz](https://open.spotify.com/album/3OjM2PwrylF0BdAGLouWPR) | 2:13 | 2025-03-28 |  |
@@ -40,6 +41,7 @@
 | [Hagamos Fiesta](https://open.spotify.com/track/6Gik4A7UhOtr5KWgD5OCO4) | [Eliud Emmanuel Díaz](https://open.spotify.com/artist/1oJjdaBvEVBGCMzkkE2JPc) | [Hagamos Fiesta](https://open.spotify.com/album/1ipZ8fcwGnHRrNw8HnySTU) | 4:00 | 2024-12-11 | 2025-03-29 |
 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 | 2022-07-22 | 2024-04-19 |
 | [Harto](https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [Como Me Ves?](https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k) | 4:07 | 2022-10-25 |  |
+| [Indescriptible \(En Vivo\)](https://open.spotify.com/track/211EnQJYwxWX5idIIM3kLu) | [Alexis Peña](https://open.spotify.com/artist/3ipq6fbp9zjPgdJOSudAcb) | [Indescriptible \(En Vivo\)](https://open.spotify.com/album/2P2x0AkxoRj028vtoMgmPF) | 5:31 | 2025-04-30 |  |
 | [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 | 2022-10-25 |  |
 | [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 | 2022-07-22 | 2023-02-23 |
 | [La Bendición](https://open.spotify.com/track/6TLsEUOdntbYlNYzIC3FaG) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/61OVjCoGUuvjoFOkLwTf4J) | 3:49 | 2022-10-25 | 2024-04-19 |
@@ -70,9 +72,11 @@
 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 | 2022-07-22 |  |
 | [Por Ti Vivo](https://open.spotify.com/track/6PyNHGK10QnXSeW7zFFbAD) | [Fory The King](https://open.spotify.com/artist/4VPOAYBMbzhN6qIQzIGGPH), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Por Ti Vivo](https://open.spotify.com/album/1i149SOzOao1m4qZauUrtv) | 3:08 | 2025-02-28 |  |
 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 | 2022-07-22 |  |
+| [Preso De Tu Amor](https://open.spotify.com/track/5j2sr7PLGTn7FIrByKQpM8) | [Áaron Emanuel](https://open.spotify.com/artist/0q3zPjmbWZBCxePVcT6iue) | [Preso De Tu Amor](https://open.spotify.com/album/3hSiwuydPUA9nWiSBzji7H) | 3:24 | 2025-04-30 |  |
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/05svncfR2Vm8tFoQroiwq7) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gloria y Alabanza](https://open.spotify.com/album/1MqxlYyfhDAfqYt3Zpblve) | 4:08 | 2022-10-25 | 2022-11-13 |
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 | 2022-07-22 | 2024-04-19 |
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 | 2022-10-25 |  |
+| [Quiero que Sepas](https://open.spotify.com/track/6oCLDQgN8sA7dmlkVHQYkm) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Quiero que Sepas](https://open.spotify.com/album/5r0SSXFBcJGE38lZ1doQYc) | 2:20 | 2025-04-30 |  |
 | [Quisiera](https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72) | [Metamorffosis](https://open.spotify.com/artist/7616QQ7F8yuDKMztFdAe35) | [Escrito En Las Estrellas](https://open.spotify.com/album/4VnK8zGduksGF2LDyDnYRT) | 5:13 | 2022-07-22 |  |
 | [REFUGIO](https://open.spotify.com/track/13w7K9XrzSNWFFzhVrWE9Z) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB), [Anderson Rock](https://open.spotify.com/artist/3ynEqPsmMhLEEEdBJ1iHKL) | [REFUGIO](https://open.spotify.com/album/7pwbyqhkS69ZB6pDdSFixu) | 2:41 | 2025-02-28 |  |
 | [Revolución](https://open.spotify.com/track/1qrbboeBXxw2The5xq6OHp) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/1dgNP7NrxDBvuJwgxByvbU) | 3:43 | 2022-10-25 | 2024-12-12 |
@@ -99,6 +103,7 @@
 | [Tu Sangre Clama](https://open.spotify.com/track/6KIAEwwn8FKSr6hwxPE2mg) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/1sXHxIJeyvDQFSx4nDGH3Z) | 7:46 | 2022-10-25 | 2024-07-30 |
 | [Unico Digno](https://open.spotify.com/track/1uY5vSCLPH5h6ZHFDLBvmB) | [Mayo Music](https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Unico Digno](https://open.spotify.com/album/5BLfPLnSxwnRO8wfrJWzdc) | 9:05 | 2025-02-28 |  |
 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 | 2022-07-22 | 2024-07-30 |
+| [Verbo](https://open.spotify.com/track/7o0mP6frAihCT0mekq50SO) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Verbo](https://open.spotify.com/album/3dgzuWzgCZRWJvD0jjjNE2) | 3:26 | 2025-04-30 |  |
 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 | 2022-07-22 |  |
 | [victoria](https://open.spotify.com/track/0C71lTgtN5s1MFpJ2Ekk0g) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm), [Christy Corson](https://open.spotify.com/artist/35ouuu71O4IRvrx5OWk7xh) | [victoria](https://open.spotify.com/album/4o7R6DQ0V2JREcuihiEnDy) | 3:17 | 2024-12-11 |  |
 | [Viene](https://open.spotify.com/track/2hMTb8yNvkEp0J2UBVHIiF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Viene](https://open.spotify.com/album/4XvKh85x0M1xoYh78BhpnG) | 2:58 | 2024-07-29 |  |

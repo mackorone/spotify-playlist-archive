@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 172533,
+  "num_followers": 172560,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
         "name": "Groove it",
         "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 248098,
-      "name": "TOMODACHI",
-      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "PARAISO",
-        "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
-      },
-      "artists": [
-        {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
-        }
-      ],
-      "duration_ms": 244905,
-      "name": "Climax Night",
-      "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Season",
         "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "PARAISO",
+        "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 244905,
+      "name": "Climax Night",
+      "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
@@ -1671,34 +1671,6 @@
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "\u3044\u3048\u306a\u3044",
-        "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u5802\u6751\u7483\u7fbd",
-          "url": "https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp"
-        },
-        {
-          "name": "301",
-          "url": "https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr"
-        },
-        {
-          "name": "GeG",
-          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
-        }
-      ],
-      "duration_ms": 216204,
-      "name": "\u3044\u3048\u306a\u3044",
-      "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1731,6 +1703,34 @@
       "duration_ms": 231826,
       "name": "Let's FUJIWARA",
       "url": "https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u3044\u3048\u306a\u3044",
+        "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u5802\u6751\u7483\u7fbd",
+          "url": "https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp"
+        },
+        {
+          "name": "301",
+          "url": "https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr"
+        },
+        {
+          "name": "GeG",
+          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+        }
+      ],
+      "duration_ms": 216204,
+      "name": "\u3044\u3048\u306a\u3044",
+      "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

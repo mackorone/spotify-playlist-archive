@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,960 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,040 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 42 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 43 | [Fiz Esse Som Pra Você \- Double MZK Remix](https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Fiz Esse Som Pra Você \(Double MZK Remix\)](https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT) | 3:29 |
 | 44 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
-| 45 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 |
-| 46 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
+| 45 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
+| 46 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 |
 | 47 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
 | 48 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
 | 49 | [Sem Chão \(Malemolência\)](https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Sem Chão \(Malemolência\)](https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR) | 2:38 |

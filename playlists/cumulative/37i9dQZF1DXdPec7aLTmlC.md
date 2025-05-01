@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdPec7aLTmlC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPec7aLTmlC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdPec7aLTmlC)
 
-### [أفضل الأغاني التي تنشر السعادة!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC)
+### [Happy Hits!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC)
 
-> هذه الأغاني ستبث السعادة في قلبك وتحسِّن مزاجك بالتأكيد!
+> Hits to boost your mood and fill you with happiness!
 
 778 songs - 1 day 17 hr 3 min
 

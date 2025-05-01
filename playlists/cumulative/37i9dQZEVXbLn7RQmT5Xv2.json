@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 184196,
       "name": "333",
       "url": "https://open.spotify.com/track/4UBQg7ZxU1hrAaNFvzS10C"
@@ -4690,6 +4690,24 @@
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
+        "name": "FAWATER EL 3ETAB",
+        "url": "https://open.spotify.com/album/5DrNynojvPy7xP6YEwDxwo"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "FAWATER EL 3ETAB",
+      "url": "https://open.spotify.com/track/69KF73mPJG37guyLv98KuM"
     },
     {
       "album": {
@@ -17560,7 +17578,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 245818,
       "name": "\u0638\u0631\u0648\u0641 \u0645\u0639\u0646\u062f\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU"
@@ -17596,7 +17614,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 164123,
       "name": "\u0639\u0627\u0644\u0639\u0645\u0648\u0645",
       "url": "https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6"
@@ -17734,7 +17752,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 204817,
       "name": "\u0639\u0641\u0627\u0631\u064a\u062a \u0627\u0644\u0623\u0633\u0641\u0644\u062a",
       "url": "https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2"
@@ -19492,7 +19510,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 253894,
       "name": "\u0648 \u0627\u0641\u062a\u0643\u0631\u062a",
       "url": "https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o"

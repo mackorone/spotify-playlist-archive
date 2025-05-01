@@ -383,6 +383,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -895,18 +895,30 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
         }
       ],
-      "duration_ms": 602296,
-      "name": "Freudian",
-      "url": "https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO"
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
     }
   ],
   "unique_name": "Ziwe's Taste ",

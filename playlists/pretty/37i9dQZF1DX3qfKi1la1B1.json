@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 125441,
+  "num_followers": 125450,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,18 @@
     {
       "added_at": "2025-04-04 09:38:21",
       "album": {
-        "name": "light dark light",
-        "url": "https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 186976,
-      "name": "light dark light",
-      "url": "https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I"
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2025-04-04 09:38:21",
@@ -767,6 +763,26 @@
     {
       "added_at": "2025-04-04 09:38:21",
       "album": {
+        "name": "light dark light",
+        "url": "https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 186976,
+      "name": "light dark light",
+      "url": "https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I"
+    },
+    {
+      "added_at": "2025-04-04 09:38:21",
+      "album": {
         "name": "Perverts",
         "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 692000,
       "name": "Amber Waves",
       "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
-    },
-    {
-      "added_at": "2025-04-04 09:38:21",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2025-04-04 09:38:21",
@@ -903,42 +903,18 @@
     {
       "added_at": "2025-04-04 09:38:21",
       "album": {
-        "name": "SABLE,",
-        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+        "name": "3",
+        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 200589,
-      "name": "THINGS BEHIND THINGS BEHIND THINGS",
-      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
-    },
-    {
-      "added_at": "2025-04-04 09:38:21",
-      "album": {
-        "name": "SAGES",
-        "url": "https://open.spotify.com/album/07tE8zeYqXxyXsHjgJGRUp"
-      },
-      "artists": [
-        {
-          "name": "SAGES",
-          "url": "https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 211926,
-      "name": "Unknowing",
-      "url": "https://open.spotify.com/track/2sBMYrxfm5Ylx2sDAaram2"
+      "duration_ms": 364333,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
     },
     {
       "added_at": "2025-04-04 09:38:21",
@@ -967,18 +943,42 @@
     {
       "added_at": "2025-04-04 09:38:21",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
+        "name": "SAGES",
+        "url": "https://open.spotify.com/album/07tE8zeYqXxyXsHjgJGRUp"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "SAGES",
+          "url": "https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 364333,
-      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
+      "duration_ms": 211926,
+      "name": "Unknowing",
+      "url": "https://open.spotify.com/track/2sBMYrxfm5Ylx2sDAaram2"
+    },
+    {
+      "added_at": "2025-04-04 09:38:21",
+      "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
     },
     {
       "added_at": "2025-04-04 09:38:21",

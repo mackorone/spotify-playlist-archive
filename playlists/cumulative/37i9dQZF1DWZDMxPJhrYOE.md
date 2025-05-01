@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-520 songs - 1 day 2 hr 27 min
+521 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-04-01 |
 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 | 2025-02-24 | 2025-04-18 |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-24 | 2025-01-25 |
+| [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-24 |  |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-07-01 | 2024-08-01 |
 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 | 2025-03-27 |  |
 | [Company](https://open.spotify.com/track/6IQvWaVOykPkINlpdfULOr) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Company](https://open.spotify.com/album/6UGQ1xOA8bl8aSOqtfQk3Y) | 2:26 | 2024-07-31 | 2024-08-09 |
@@ -343,7 +344,7 @@
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-24 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-07-01 | 2024-08-27 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-07-01 | 2024-08-01 |
-| [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-04-10 |  |
+| [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-04-10 | 2025-05-01 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-07-01 | 2024-08-01 |
 | [Never the same](https://open.spotify.com/track/1mc9ZGd7tFDCdYS8EP6PqC) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Never the same](https://open.spotify.com/album/3GqagQDa9ynKUhlc5DNlr0) | 2:22 | 2024-07-01 | 2024-08-02 |
 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2025-01-24 | 2025-02-11 |

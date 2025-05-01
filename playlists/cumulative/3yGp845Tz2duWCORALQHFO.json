@@ -51271,6 +51271,24 @@
     },
     {
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/5ejwpKuhU44gGg4PZDXo8s"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/0M56ySHGgyE92rOtyHMEso"
+    },
+    {
+      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW"
       },

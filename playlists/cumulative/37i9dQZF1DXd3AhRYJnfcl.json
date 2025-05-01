@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Ahla Rasma",
+        "url": "https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216153,
+      "name": "Ahla Rasma",
+      "url": "https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp"
+    },
+    {
+      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 168979,
       "name": "El 3o2d El Loli",
       "url": "https://open.spotify.com/track/2Thmx3L6ucjH97QzDJfXiu"
@@ -1757,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Fostanek El Abyad",
+        "url": "https://open.spotify.com/album/4A3rKCk7hs12wnisY4YPSd"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293224,
+      "name": "Fostanek El Abyad",
+      "url": "https://open.spotify.com/track/0oapF7Y8c9TdHBw4BpZMNK"
+    },
+    {
+      "album": {
         "name": "Lehqt Nafsy",
         "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
       },
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"

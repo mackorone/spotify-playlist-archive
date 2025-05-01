@@ -1,13 +1,277 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Jake Marsh. Artwork by Paola Saliby",
-  "num_followers": 226416,
+  "description": "The best new pop music from new, independent artists.  Cover: Sarah Nimmo. Artwork by Paola Saliby",
+  "num_followers": 226452,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/814AAAAAA3cianDP92nOd7J0lhNwfS",
+  "snapshot_id": "aBGgXQAAAAA4wlHLEYiOngw4UxJTRc++",
   "tracks": [
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/1Juz6l0ygKU6WuW83C1rym"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nimmo",
+          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5D0zvrNrfFLibIXcm6uHC4"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Piggies",
+        "url": "https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9"
+      },
+      "artists": [
+        {
+          "name": "GAZAL",
+          "url": "https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU"
+        }
+      ],
+      "duration_ms": 154380,
+      "name": "Piggies",
+      "url": "https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "The First and Last of the Perfect Parties",
+        "url": "https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2"
+      },
+      "artists": [
+        {
+          "name": "Ren Martinez",
+          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
+        }
+      ],
+      "duration_ms": 248562,
+      "name": "The First and Last of the Perfect Parties",
+      "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "It Wasn't Me",
+        "url": "https://open.spotify.com/album/66MJakKrxiqewpKIu7O1h6"
+      },
+      "artists": [
+        {
+          "name": "Caleigh",
+          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Goddess of Orange County",
+        "url": "https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx"
+      },
+      "artists": [
+        {
+          "name": "Stella Smyth",
+          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
+        }
+      ],
+      "duration_ms": 174209,
+      "name": "Goddess of Orange County",
+      "url": "https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Popstar of Your Dreams",
+        "url": "https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 191488,
+      "name": "Popstar of Your Dreams",
+      "url": "https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "The Kicks",
+        "url": "https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "duration_ms": 143445,
+      "name": "The Kicks",
+      "url": "https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Eleanor Close",
+        "url": "https://open.spotify.com/album/3uBwyz9cflFhhsFABvuiNI"
+      },
+      "artists": [
+        {
+          "name": "Ava Joe",
+          "url": "https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj"
+        }
+      ],
+      "duration_ms": 203311,
+      "name": "Eleanor Close",
+      "url": "https://open.spotify.com/track/0TSezrWHvsZtBg1OqbkXDt"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "I'll be the death of us",
+        "url": "https://open.spotify.com/album/0jMv3ObVxDnANFmC9ASpQW"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "I'll be the death of us",
+      "url": "https://open.spotify.com/track/79OhK3B4zt8VwEe2wfnGw3"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/2ljJphtg5RLWQEcBdH2kDB"
+      },
+      "artists": [
+        {
+          "name": "TEARS & GEARZ",
+          "url": "https://open.spotify.com/artist/1eGwIFsaTh30TgTdCPubIq"
+        },
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        }
+      ],
+      "duration_ms": 168915,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/0M53FinaJ6IquC8dbrhyMn"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "You Make It Look Easy",
+        "url": "https://open.spotify.com/album/6A4n8S4H0drpfS2DW5VMJX"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "duration_ms": 210263,
+      "name": "You Make It Look Easy",
+      "url": "https://open.spotify.com/track/4A4NTBAgjfsqy8XH2wHoVg"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "kiss me blue",
+        "url": "https://open.spotify.com/album/2dlzA5WYWI0VZRIuhFgEMY"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "kiss me blue",
+      "url": "https://open.spotify.com/track/0At2oBBJxf4yAigXEpvUcI"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/7ofr5PfECQDuqdY6s1Ku2W"
+      },
+      "artists": [
+        {
+          "name": "Ana Garrow",
+          "url": "https://open.spotify.com/artist/3Uj9frkffmawt9xwKaQAGi"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5awA7XmPKnZV9wInToBOHv"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Metro Girl",
+        "url": "https://open.spotify.com/album/7J7KszHDQlMO9E8m5YlR7M"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
+        }
+      ],
+      "duration_ms": 192171,
+      "name": "Metro Girl",
+      "url": "https://open.spotify.com/track/4fpQr3EQasOJKiMtuTb9rB"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0cYhbUvI2rmK6gDkdS48Vu"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Mad Things",
+          "url": "https://open.spotify.com/artist/7pcAieoVahaJkAvKzWG2xS"
+        }
+      ],
+      "duration_ms": 196089,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/13wcjWPtlztqOfw6HsJeju"
+    },
+    {
+      "added_at": "2025-04-30 04:00:29",
+      "album": {
+        "name": "Sugar Baby",
+        "url": "https://open.spotify.com/album/6kO70yPJOPvXV5jXvPNyKs"
+      },
+      "artists": [
+        {
+          "name": "Amalia",
+          "url": "https://open.spotify.com/artist/7ucDImvm0vl1QXYNMbmoHB"
+        }
+      ],
+      "duration_ms": 213515,
+      "name": "Sugar Baby",
+      "url": "https://open.spotify.com/track/0SnAv1MFagMJF80jdmLEcD"
+    },
     {
       "added_at": "2025-04-16 04:00:26",
       "album": {
@@ -979,22 +1243,6 @@
     {
       "added_at": "2025-03-26 04:00:08",
       "album": {
-        "name": "5 More Minutes",
-        "url": "https://open.spotify.com/album/49vsMuNEs4tOu4GzBsQP0e"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/25qv6PvbHW0GMYk4kUMoYe"
-    },
-    {
-      "added_at": "2025-03-26 04:00:08",
-      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/4qQL53KydSk94CTfQHx4fq"
       },
@@ -1653,38 +1901,6 @@
       "url": "https://open.spotify.com/track/7hcaBE52IGte9DmvULYeY3"
     },
     {
-      "added_at": "2025-03-05 05:00:05",
-      "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/1xuX4ovI9QRy0ZkVjze53Y"
-      },
-      "artists": [
-        {
-          "name": "Trinity Lake",
-          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
-        }
-      ],
-      "duration_ms": 179847,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/1SjidMdNfl8f98Quvfg3kJ"
-    },
-    {
-      "added_at": "2025-03-05 05:00:05",
-      "album": {
-        "name": "Jars",
-        "url": "https://open.spotify.com/album/6ZHr5O5D4q7xfvLUIbASA5"
-      },
-      "artists": [
-        {
-          "name": "Joselin",
-          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "Jars",
-      "url": "https://open.spotify.com/track/590ecw84DmjMvGcK8rw5jb"
-    },
-    {
       "added_at": "2025-02-05 05:00:13",
       "album": {
         "name": "my one tru",
@@ -1733,70 +1949,6 @@
       "url": "https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ"
     },
     {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv"
-      },
-      "artists": [
-        {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
-        }
-      ],
-      "duration_ms": 184048,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL"
-    },
-    {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "CUT IT OFF!",
-        "url": "https://open.spotify.com/album/3IIyOoNvKVHS2FpweEmMKj"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "CUT IT OFF!",
-      "url": "https://open.spotify.com/track/1KadoakLQSvHKLPldMSOlm"
-    },
-    {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "grace, please",
-        "url": "https://open.spotify.com/album/0YC2Q2cAarFbKrD2QHEtrt"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 142056,
-      "name": "grace, please",
-      "url": "https://open.spotify.com/track/0ri5NpZPMI25f2FJjcAf7T"
-    },
-    {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "home",
-        "url": "https://open.spotify.com/album/0hyedLv0yGxBBGHsbtGrxB"
-      },
-      "artists": [
-        {
-          "name": "BLVCK VI\u00d8LET",
-          "url": "https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b"
-        }
-      ],
-      "duration_ms": 215803,
-      "name": "home",
-      "url": "https://open.spotify.com/track/1VdQlTBNO01Htm6IDVhz0Z"
-    },
-    {
       "added_at": "2025-02-19 05:00:13",
       "album": {
         "name": "What Does a Girl Gotta Do?",
@@ -1811,38 +1963,6 @@
       "duration_ms": 180583,
       "name": "What Does a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/2aaQ6IS4SMe6hEvSi5zHXT"
-    },
-    {
-      "added_at": "2025-02-19 05:00:13",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/2J6PtCQclErmWm4uccp9GK"
-      },
-      "artists": [
-        {
-          "name": "Akira Galaxy",
-          "url": "https://open.spotify.com/artist/7JZCkitZk0jBzOKOfV3LdC"
-        }
-      ],
-      "duration_ms": 237993,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/6JcAhigrVugctKvkr40WcN"
-    },
-    {
-      "added_at": "2025-02-19 05:00:13",
-      "album": {
-        "name": "Hold On (Psycho)",
-        "url": "https://open.spotify.com/album/36mNWebhhpTzp5wgi0n0g5"
-      },
-      "artists": [
-        {
-          "name": "ALBII",
-          "url": "https://open.spotify.com/artist/4P7vYb6Y3arHyqYTgeQEIx"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Hold On (Psycho)",
-      "url": "https://open.spotify.com/track/05qjxUIMAlfOJC3YhLXbuO"
     },
     {
       "added_at": "2025-02-05 05:00:13",

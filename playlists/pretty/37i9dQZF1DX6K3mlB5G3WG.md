@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Rocco Hunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,091 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,085 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

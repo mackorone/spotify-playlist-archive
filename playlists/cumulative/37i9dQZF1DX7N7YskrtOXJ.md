@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-234 songs - 14 hr 9 min
+235 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2024-02-27 | 2024-04-15 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 | 2024-03-29 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/3nMYIuXBMRMrZjxp7eLOgA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Ulises Piñeyro](https://open.spotify.com/artist/401588jVafLLnM1utmR0Gb) | [El Amor De Mi Vida](https://open.spotify.com/album/6ReApD38Z1LZXKJESAYflU) | 3:06 | 2024-11-15 |  |
-| [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 | 2023-08-25 |  |
+| [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 | 2023-08-25 | 2025-05-01 |
 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:01 | 2023-08-25 | 2024-02-28 |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2024-02-27 |  |
 | [El Menú](https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Moral Distraída](https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx) | 3:18 | 2023-08-25 |  |
@@ -196,6 +196,7 @@
 | [Si yo fuera él](https://open.spotify.com/track/2UFGsOAjNrQSoZwh5gZJs0) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 3:30 | 2024-02-27 | 2024-04-19 |
 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 | 2023-08-25 | 2024-02-28 |
 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 | 2023-09-15 |  |
+| [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 | 2025-01-17 |  |
 | [Solos Solitos](https://open.spotify.com/track/4oYdiPvx5diufwkMGVipSC) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Algún día sabremos como se llama](https://open.spotify.com/album/00Hc5ZVRt1CUnrP7VjFISx) | 3:56 | 2023-08-25 | 2023-12-23 |
 | [Somos](https://open.spotify.com/track/4KhzKBfSMmRj9xYrsD4UZX) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Somos](https://open.spotify.com/album/0o8fC6tDlWIBzcGtWHUIUF) | 3:13 | 2023-08-25 | 2024-02-28 |
 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 | 2023-08-25 |  |

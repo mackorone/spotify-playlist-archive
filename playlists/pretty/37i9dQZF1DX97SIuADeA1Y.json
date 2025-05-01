@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342280,
+  "num_followers": 342295,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Fantasy Girl",
-        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
-      },
-      "artists": [
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        },
-        {
-          "name": "Sarah Lahn",
-          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
-        }
-      ],
-      "duration_ms": 195247,
-      "name": "Fantasy Girl",
-      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Heaven (feat. Sofia Quinn)",
         "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
+      },
+      "artists": [
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        },
+        {
+          "name": "Sarah Lahn",
+          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
+        }
+      ],
+      "duration_ms": 195247,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
     }
   ],
   "unique_name": "SLAP!",

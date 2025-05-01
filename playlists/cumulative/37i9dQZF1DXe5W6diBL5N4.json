@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 190998,
       "name": "a starry night",
       "url": "https://open.spotify.com/track/1lOzhz1rMCuiwamXOtybFm"
@@ -12642,7 +12642,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 206075,
       "name": "ANYWAY ANYTHING",
       "url": "https://open.spotify.com/track/65Tfkss5VETxMHLizfYRiq"
@@ -38639,6 +38639,28 @@
     },
     {
       "album": {
+        "name": "Cool & Hot",
+        "url": "https://open.spotify.com/album/3bY0Puwc8EHRhnE9ldtrS1"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176705,
+      "name": "Cool & Hot (feat. HA SUNG WOON)",
+      "url": "https://open.spotify.com/track/2RnWF5CDKzjPmg4bOl13sL"
+    },
+    {
+      "album": {
         "name": "DEMO",
         "url": "https://open.spotify.com/album/7gIIAdLrq3UMz1tlovnRKf"
       },
@@ -58666,7 +58688,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 180980,
       "name": "Fallin into you",
       "url": "https://open.spotify.com/track/2Tnseb1mWuuKrruWv04LGW"
@@ -70025,6 +70047,24 @@
     },
     {
       "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA"
       },
@@ -79621,6 +79661,64 @@
     },
     {
       "album": {
+        "name": "HISTORY MEGAMIX",
+        "url": "https://open.spotify.com/album/5QRFdHOxa0tKtHVfGWEMKD"
+      },
+      "artists": [
+        {
+          "name": "Outsider",
+          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
+        },
+        {
+          "name": "Astral Swaggy",
+          "url": "https://open.spotify.com/artist/0EknkrUEjv2yEimso2BYE4"
+        },
+        {
+          "name": "Malkey",
+          "url": "https://open.spotify.com/artist/7mb1u1GuujGLo0rM93gDJu"
+        },
+        {
+          "name": "SAPO",
+          "url": "https://open.spotify.com/artist/0qKw4sSolB1MuXaUHD34KY"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        },
+        {
+          "name": "Sleepy",
+          "url": "https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR"
+        },
+        {
+          "name": "Be-all",
+          "url": "https://open.spotify.com/artist/5LeJMCnoUvIe6xY0SYnosb"
+        },
+        {
+          "name": "walo",
+          "url": "https://open.spotify.com/artist/3gaJRqGC11Wfp29AzyXJem"
+        },
+        {
+          "name": "\uc815\uc0c1\uc218",
+          "url": "https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4"
+        },
+        {
+          "name": "GoekChic",
+          "url": "https://open.spotify.com/artist/3SxdMu5DCRRYQJ8AKqOprD"
+        },
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633000,
+      "name": "HISTORY MEGAMIX (feat. Astral Swaggy, MALKEY, SAPO, Futuristic Swaver, Sleepy, Be-all, walo, Jung Sangsoo, GoekChic & Mc Sniper)",
+      "url": "https://open.spotify.com/track/1l7UePdBIEQIrcNrihlsEE"
+    },
+    {
+      "album": {
         "name": "Hit Me Up (feat. JMIN)",
         "url": "https://open.spotify.com/album/35BBVU36BxU5zZfHXST9cN"
       },
@@ -86268,7 +86366,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 192593,
       "name": "I got lucky",
       "url": "https://open.spotify.com/track/6MJ34XHdWNOiSq7djcKrP4"
@@ -102423,6 +102521,24 @@
     },
     {
       "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/3pmR0QFqsjV3CuYBmIDZuy"
+      },
+      "artists": [
+        {
+          "name": "Zamgolbers",
+          "url": "https://open.spotify.com/artist/5ZOPfXGBx6abXxg8ASoqSg"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215296,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/7gCv55scufeFI5OFYnTYu8"
+    },
+    {
+      "album": {
         "name": "karaoke love",
         "url": "https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM"
       },
@@ -102740,6 +102856,28 @@
       "duration_ms": 183226,
       "name": "Keep it (feat. 2SO)",
       "url": "https://open.spotify.com/track/2uEOpu0KW9UcKGdqhyendF"
+    },
+    {
+      "album": {
+        "name": "iMaGiNe #3",
+        "url": "https://open.spotify.com/album/7oEsfXso9lFYoHyAP5qR0T"
+      },
+      "artists": [
+        {
+          "name": "ANODE",
+          "url": "https://open.spotify.com/artist/6geDtQQ0NX4O2u6BxnU5Z6"
+        },
+        {
+          "name": "MOON SUA",
+          "url": "https://open.spotify.com/artist/3JYrF4xPpvNbgb9gV0z8bx"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "Keep It Raw (Feat. MOON SUA)",
+      "url": "https://open.spotify.com/track/0mFj3otl1w8GBwbHTfoMjP"
     },
     {
       "album": {
@@ -117797,6 +117935,28 @@
     },
     {
       "album": {
+        "name": "Loveholic",
+        "url": "https://open.spotify.com/album/0jylr6oqOhisVaRo07bJGA"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        },
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/2GmT097bJZk0ivdoIQs6DP"
+    },
+    {
+      "album": {
         "name": "I Live and Mourn, Thus Resketch You",
         "url": "https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem"
       },
@@ -123807,6 +123967,24 @@
     },
     {
       "album": {
+        "name": "THE ADAM",
+        "url": "https://open.spotify.com/album/2RKZ3F4GtpgNCrwYgajwCv"
+      },
+      "artists": [
+        {
+          "name": "ILHOON",
+          "url": "https://open.spotify.com/artist/7McwKT2tZl8LMXUQRH3YDM"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163857,
+      "name": "MICHAELANGELO",
+      "url": "https://open.spotify.com/track/7xjv0ubylDCB0MbRVm40w6"
+    },
+    {
+      "album": {
         "name": "PUMP COLLECTOR\u2019S EDITION",
         "url": "https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw"
       },
@@ -125892,7 +126070,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 188413,
       "name": "Moment",
       "url": "https://open.spotify.com/track/6wNhkwfJF2hMgp4CCblC3L"
@@ -128559,6 +128737,24 @@
     },
     {
       "album": {
+        "name": "Mrs. Nail",
+        "url": "https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "Mrs. Nail",
+      "url": "https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11"
+    },
+    {
+      "album": {
         "name": "MU",
         "url": "https://open.spotify.com/album/5On9NUfc4k7SxVHqxGBQkq"
       },
@@ -129632,7 +129828,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 164333,
       "name": "My Favorite (feat. Akita)",
       "url": "https://open.spotify.com/track/4XCSmkal5duRs95Y0PegH6"
@@ -137090,7 +137286,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 180992,
       "name": "Now it begins",
       "url": "https://open.spotify.com/track/1Z6XF9xWxFOvnVOHI2xxF6"
@@ -153383,6 +153579,28 @@
     },
     {
       "album": {
+        "name": "Rain reminds me of you",
+        "url": "https://open.spotify.com/album/6IUZy6x1CmcZIUhBg1WWYk"
+      },
+      "artists": [
+        {
+          "name": "Seong YouJin",
+          "url": "https://open.spotify.com/artist/0slHe2krXMLEWciNfnQoRp"
+        },
+        {
+          "name": "Hwang Wontae",
+          "url": "https://open.spotify.com/artist/4OZYBdJpEfemFwpj6S8GCW"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218595,
+      "name": "Rain reminds me of you",
+      "url": "https://open.spotify.com/track/05O4tBziZ1DNPXVEDjlCS1"
+    },
+    {
+      "album": {
         "name": "Rain road",
         "url": "https://open.spotify.com/album/7rPH5ZJHUfwzCU3oaCexDR"
       },
@@ -154589,7 +154807,7 @@
       "artists": [
         {
           "name": "UDTT",
-          "url": "https://open.spotify.com/artist/2MKMLrpRzbc4KqtJ0BLbYX"
+          "url": "https://open.spotify.com/artist/5MepLDNyvE91lO3yqJhMIx"
         }
       ],
       "date_added": "2025-04-29",
@@ -167155,6 +167373,28 @@
     },
     {
       "album": {
+        "name": "Show Must Go On",
+        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Show Must Go On",
+      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
+    },
+    {
+      "album": {
         "name": "Show Time",
         "url": "https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0"
       },
@@ -169728,7 +169968,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 176000,
       "name": "SLUTT WANT HOE",
       "url": "https://open.spotify.com/track/162VE85rm7zQbFJM6yJMuH"
@@ -173673,6 +173913,24 @@
     },
     {
       "album": {
+        "name": "UPSET",
+        "url": "https://open.spotify.com/album/1mUapSqiPxRoH3d2bF0Y0L"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134330,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/46sIBHNOtizWM7g6YQ9xXQ"
+    },
+    {
+      "album": {
         "name": "Spanish Restaurant",
         "url": "https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9"
       },
@@ -174758,6 +175016,28 @@
       "duration_ms": 185760,
       "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
       "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
+    },
+    {
+      "album": {
+        "name": "Spring Sonnet",
+        "url": "https://open.spotify.com/album/5O0x2R5y2rcUm2N470C9cE"
+      },
+      "artists": [
+        {
+          "name": "lunCHbox",
+          "url": "https://open.spotify.com/artist/4xC3jrwRyXJM63N1Pfe2s5"
+        },
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "Spring Sonnet (Feat. Hanna)",
+      "url": "https://open.spotify.com/track/3aY1bwgvLNoZkIIK7hTUEp"
     },
     {
       "album": {
@@ -195938,7 +196218,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 245120,
       "name": "To My Youth",
       "url": "https://open.spotify.com/track/4XUxqXlhtPes3uBsYjQFwg"
@@ -202047,6 +202327,24 @@
     },
     {
       "album": {
+        "name": "Untitled Youth",
+        "url": "https://open.spotify.com/album/6UINEg2FXlzPV4WEDyx4Tp"
+      },
+      "artists": [
+        {
+          "name": "RYE",
+          "url": "https://open.spotify.com/artist/1cxx3blWps3N86tFei5Yji"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Untitled Youth",
+      "url": "https://open.spotify.com/track/2seJWl70G8rJa4eNI2bef6"
+    },
+    {
+      "album": {
         "name": "The sword of Aramun, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6DCMycC9s7QEWpEAXE3UCT"
       },
@@ -205986,7 +206284,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 274286,
       "name": "WASD (Was A Sad Dream)",
       "url": "https://open.spotify.com/track/2tHgZfBptwM2Z0pCRDDXkr"
@@ -212142,7 +212440,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 291231,
       "name": "Where You Used to Be",
       "url": "https://open.spotify.com/track/40CqiI5iqTtZGgomchcJY6"
@@ -232444,7 +232742,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 216386,
       "name": "\uc778\uc5f0\uc774 \uc544\ub2c8\uc5c8\ub098 \ubd10",
       "url": "https://open.spotify.com/track/0kcsiEiliGnLXwL194BcJ3"
@@ -233398,7 +233696,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 232728,
       "name": "\ucc98\uc74c \uadf8 \uc790\ub9ac\uc5d0",
       "url": "https://open.spotify.com/track/4oKKkhEVGgYYL8olJC87fk"

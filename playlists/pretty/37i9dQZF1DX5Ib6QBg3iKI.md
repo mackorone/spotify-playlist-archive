@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,783 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,770 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 10 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
 | 11 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 12 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
-| 13 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 |
-| 14 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 13 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 14 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 |
 | 15 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
 | 16 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
 | 17 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 21 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 22 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 23 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
-| 24 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 |
-| 25 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
+| 24 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
+| 25 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 |
 | 26 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
 | 27 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
 | 28 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 61 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
 | 62 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 | 63 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
-| 64 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
-| 65 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
+| 64 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
+| 65 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
 | 66 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
 | 67 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 68 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,826 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,856 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 19 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
 | 20 | [It feels like I've forgotten something](https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [It feels like I've forgotten something](https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH) | 2:12 |
 | 21 | [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 |
-| 22 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
-| 23 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
+| 22 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
+| 23 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
 | 24 | [constellations](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [constellations](https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f) | 2:24 |
 | 25 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
 | 26 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 40 | [amnesia](https://open.spotify.com/track/3vYZ9IEqfFakxgfrJnxuPK) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [amnesia](https://open.spotify.com/album/3quW6PLhZ9D7Ex2nRsO47n) | 1:56 |
 | 41 | [Fireflies](https://open.spotify.com/track/3GFItUfLkiLY3x7jDAklZ1) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Fireflies](https://open.spotify.com/album/0gwN9YRYyiDSVQZdfoFjzl) | 2:15 |
 | 42 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 |
-| 43 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
-| 44 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
+| 43 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
+| 44 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
 | 45 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 | 46 | [Deep Breaths](https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Deep Breaths](https://open.spotify.com/album/1tDzraOZEOGevw4RcTLrS0) | 3:02 |
 | 47 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |

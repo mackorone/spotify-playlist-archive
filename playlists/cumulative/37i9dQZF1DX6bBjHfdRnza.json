@@ -10307,6 +10307,28 @@
     },
     {
       "album": {
+        "name": "CTX",
+        "url": "https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr"
+      },
+      "artists": [
+        {
+          "name": "Fonzo",
+          "url": "https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h"
+        },
+        {
+          "name": "Roaming Data",
+          "url": "https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320087,
+      "name": "CTX",
+      "url": "https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP"
+    },
+    {
+      "album": {
         "name": "Cuba Libre",
         "url": "https://open.spotify.com/album/1ZA7b0CUMPcK0l9o699jP2"
       },
@@ -10760,6 +10782,28 @@
       "duration_ms": 240110,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/1aDd5ioq8tzscMo3tYVLfU"
+    },
+    {
+      "album": {
+        "name": "Dancefloor (feat. efan)",
+        "url": "https://open.spotify.com/album/12LDQUojoGmz2U51jTEcpV"
+      },
+      "artists": [
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150209,
+      "name": "Dancefloor (feat. efan)",
+      "url": "https://open.spotify.com/track/14nCGStlD6HdA7ozTDv14y"
     },
     {
       "album": {
@@ -18216,7 +18260,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 243209,
       "name": "Funky Shit",
       "url": "https://open.spotify.com/track/5IMDW0iiQEeGNs5fnJ6Rol"
@@ -22688,7 +22732,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 316279,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR"
@@ -24303,6 +24347,24 @@
     },
     {
       "album": {
+        "name": "introvert",
+        "url": "https://open.spotify.com/album/54HHjKn4JFZJhkOiG7z4v7"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152940,
+      "name": "introvert",
+      "url": "https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK"
+    },
+    {
+      "album": {
         "name": "Ofrenda",
         "url": "https://open.spotify.com/album/0JyjoiR4Kvu5qEzvGVqqkv"
       },
@@ -25250,7 +25312,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 299076,
       "name": "Just You",
       "url": "https://open.spotify.com/track/5DVFwSCQgbmRZytrK16Udd"
@@ -27676,7 +27738,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 134528,
       "name": "Losing my mind <3",
       "url": "https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a"
@@ -27716,6 +27778,24 @@
       "duration_ms": 68000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5rMrBy75VhEL9b9hpip5RS"
+    },
+    {
+      "album": {
+        "name": "lost & found",
+        "url": "https://open.spotify.com/album/0ocEo2YNCWRsUPKzlbt1ux"
+      },
+      "artists": [
+        {
+          "name": "abelon",
+          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "lost & found",
+      "url": "https://open.spotify.com/track/5XjEi4MxmR57A2DQvTJwWL"
     },
     {
       "album": {
@@ -32795,6 +32875,24 @@
     },
     {
       "album": {
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/3jPKkteLJI9NQR5TSV9Y9S"
+      },
+      "artists": [
+        {
+          "name": "Ecstratone",
+          "url": "https://open.spotify.com/artist/0zs1lCf5GKJPcAora4CwLU"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111879,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/2482G0ta3S4ivPvJuTatBH"
+    },
+    {
+      "album": {
         "name": "North East Abode",
         "url": "https://open.spotify.com/album/0Mt6SMevxV5DBdMRvafdxo"
       },
@@ -33864,6 +33962,24 @@
       "duration_ms": 370647,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2fSiiXDRQRSTKWTKqXF9z4"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/7ku0qOHRNI8zkc9RlRLK3a"
+      },
+      "artists": [
+        {
+          "name": "PRESTi",
+          "url": "https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5bi4MdCBwPDPYMPU7ono7H"
     },
     {
       "album": {
@@ -35112,7 +35228,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 107716,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/2LTLtXlyHlGR4yNkJ91zFv"
@@ -39550,7 +39666,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 201428,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd"
@@ -42542,7 +42658,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 236917,
       "name": "Spring",
       "url": "https://open.spotify.com/track/6ya0A6j5EcVrVMVbnB7Kuk"
@@ -42582,7 +42698,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 204586,
       "name": "Sprout",
       "url": "https://open.spotify.com/track/3q9MsciynFSXY7bdrBrqOK"
@@ -49331,6 +49447,32 @@
     },
     {
       "album": {
+        "name": "VE LE NX",
+        "url": "https://open.spotify.com/album/0byePx13iSzVlzxhYHzCb2"
+      },
+      "artists": [
+        {
+          "name": "AbtomAL",
+          "url": "https://open.spotify.com/artist/0fhDqnBgVCdV1EuyeFNIpP"
+        },
+        {
+          "name": "Marlus",
+          "url": "https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ"
+        },
+        {
+          "name": "Raar",
+          "url": "https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "VE LE NX",
+      "url": "https://open.spotify.com/track/4fqn4B66cq2qmlaudZjcVT"
+    },
+    {
+      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -49958,6 +50100,24 @@
       "duration_ms": 153956,
       "name": "Wake up and Leave",
       "url": "https://open.spotify.com/track/4S2M8ptshVlXDpgsjVB5nJ"
+    },
+    {
+      "album": {
+        "name": "Walk It",
+        "url": "https://open.spotify.com/album/3stn12xzJNC8hD1mOlrRU8"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Walk It",
+      "url": "https://open.spotify.com/track/1r2BLx87xz7pETkSLqBBqP"
     },
     {
       "album": {

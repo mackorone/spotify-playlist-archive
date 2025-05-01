@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,819 likes - 120 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,998 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 15 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 |
 | 16 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 |
 | 17 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 |
-| 18 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
-| 19 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 |
+| 18 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 |
+| 19 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 20 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
 | 21 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 22 | [Don't You Worry Child \- Acoustic Version](https://open.spotify.com/track/4BpndTKEqpLgntffipC53q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 4:17 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 84 | [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 |
 | 85 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
 | 86 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
-| 87 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
-| 88 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
+| 87 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
+| 88 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
 | 89 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
-| 90 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
+| 90 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
 | 91 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
 | 92 | [Slow Hands \- Acoustic](https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo) | 2:40 |
 | 93 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 3:45 |

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-494 songs - 1 day 1 hr 11 min
+499 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Afterglow](https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao) | [Mike Fields](https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8) | [Afterglow](https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb) | 2:55 | 2022-01-12 | 2024-02-22 |
 | [Alcyone](https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Alcyone](https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl) | 3:56 | 2022-06-16 | 2024-11-22 |
 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 | 2022-01-12 | 2022-03-05 |
+| [Alignment 432 Hz](https://open.spotify.com/track/29Cgc4mfUunCzPvXF5Sftc) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Alignment 432 Hz](https://open.spotify.com/album/5f1Z4pgcJgBl74c6skLqQT) | 3:43 | 2025-04-30 |  |
 | [Alluvial](https://open.spotify.com/track/20DqGufkwM3Zy7l05GqtTO) | [Cosmologica](https://open.spotify.com/artist/3mtKH7qKSckjQ2tx3CaGCY) | [Alluvial](https://open.spotify.com/album/7hGQkINy88oomqyYo4mWYX) | 3:38 | 2024-05-20 |  |
 | [Along The Way](https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC) | [Yasmin Gough](https://open.spotify.com/artist/5uJl5aq7yzkO3yOE1CMCRW) | [Along The Way](https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM) | 3:18 | 2022-01-19 | 2023-07-29 |
 | [Alpha 10 Hz](https://open.spotify.com/track/7qULBKJPUl7W5yZ0rNFV34) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:27 | 2022-04-13 | 2022-04-17 |
@@ -51,10 +52,12 @@
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2022-01-12 | 2023-03-15 |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-18 | 2024-01-18 |
+| [Asalvo](https://open.spotify.com/track/01JtiW4ytXvUll4FW92ixP) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Asalvo](https://open.spotify.com/album/2qF0ZDM2WAzzPYqqjdBZQ6) | 2:48 | 2025-04-30 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 | 2024-12-18 |
 | [Astral Protection](https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Astral Protection](https://open.spotify.com/album/1B5vXAdBsulmfmcvVSTmPK) | 2:25 | 2024-11-21 |  |
 | [Atlas](https://open.spotify.com/track/2DRe9TGpWAUjWZDR1loVXO) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Atlas](https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl) | 2:31 | 2023-07-28 | 2024-06-17 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 |  |
+| [Aureol](https://open.spotify.com/track/2xnGngelGqW23MvEjwAkwK) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Aureol](https://open.spotify.com/album/71Y5DFyaJLZ1Lk76q5Gs7w) | 2:42 | 2025-04-30 |  |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2022-01-12 | 2024-05-21 |
 | [Aurora Dreams](https://open.spotify.com/track/4QVpPCFlzhPJSpsqufV8b4) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Aurora Dreams](https://open.spotify.com/album/29w4XUEuL1L2QuhVpdnCpp) | 3:10 | 2025-01-21 |  |
 | [Auspice](https://open.spotify.com/track/5MbKg6YZGi482yfmoVv5Hm) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Auspice](https://open.spotify.com/album/46WkfadLvsh5GhRxzLpuU9) | 3:19 | 2024-01-17 | 2024-05-21 |
@@ -234,6 +237,7 @@
 | [illecebrous](https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [illecebrous](https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD) | 2:25 | 2024-01-17 |  |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-01-12 | 2024-05-21 |
 | [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 | 2024-12-29 |
+| [in fields](https://open.spotify.com/track/77Ff622n4YLziBnmnsgLel) | [pkwy.](https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP) | [in fields](https://open.spotify.com/album/5VHKrbWvs4mP4iCDXEaa8W) | 2:59 | 2025-04-30 |  |
 | [In the Midst](https://open.spotify.com/track/3lQoTHU4TdBM3VGW70ZV1x) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [In the Midst](https://open.spotify.com/album/3yBxReys742ya4rB2ow3bt) | 3:29 | 2024-05-20 |  |
 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 |  |
 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 | 2024-05-11 |
@@ -413,6 +417,7 @@
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Sleep My Hero](https://open.spotify.com/track/1Q8UuQeBEWIQls4Kh1P3GQ) | [RasimF](https://open.spotify.com/artist/6B79bHQDu7fTxxujL0iSd5) | [Sleep My Hero](https://open.spotify.com/album/45tdM2Hwg7MKaN1BZ0k4Hr) | 2:03 | 2025-04-15 |  |
 | [Sleeping in Starlight](https://open.spotify.com/track/2eqUFsccea3ulMapCnPI1v) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Sleeping in Starlight](https://open.spotify.com/album/1AlIMbgk0QGi17BZ9toPwu) | 2:52 | 2024-01-17 |  |
+| [Sleeping Journey](https://open.spotify.com/track/4DpAoSHyiWV5m3cUKTcvjN) | [Wherewithal](https://open.spotify.com/artist/4nPbqrPiwJp1Zlrfvw2XIM) | [Sleeping Journey](https://open.spotify.com/album/3bWi4zMrLtceOUcubv6p01) | 2:29 | 2025-04-30 |  |
 | [Sleeping Upside Down](https://open.spotify.com/track/4QAX3ooet9ROIz3HsxPU1Z) | [Ad Tranquilitas](https://open.spotify.com/artist/2YeKERkk95AeVlbTay87hI) | [Sleeping Upside Down](https://open.spotify.com/album/03E5rWrYpb16rY7d3ozgjn) | 3:04 | 2024-01-17 |  |
 | [Slumber](https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Slumber](https://open.spotify.com/album/7uuEvVQ919w5vDNPCIiPfz) | 3:08 | 2022-01-12 | 2023-07-29 |
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-30 | 2025-03-26 |

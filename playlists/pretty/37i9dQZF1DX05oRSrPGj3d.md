@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,938 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,977 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 47 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 48 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
 | 49 | [Green](https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:36 |
-| 50 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
-| 51 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
+| 50 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
+| 51 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
 | 52 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 |
 | 53 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:07 |
 | 54 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 55 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 56 | [A Life Where We Work Out](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 |
-| 57 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 |
-| 58 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
+| 57 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
+| 58 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 |
 | 59 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 85 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 |
 | 86 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
 | 87 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 |
-| 88 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
+| 88 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
 | 89 | [I Been to Georgia on a Fast Train](https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Billy Joe Shaver](https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9) | 2:56 |
-| 90 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
+| 90 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
 | 91 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 92 | [Beer, Bait and Ammo](https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Beer, Bait and Ammo](https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T) | 5:15 |
 | 93 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |

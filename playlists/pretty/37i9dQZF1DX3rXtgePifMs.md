@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,821 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,827 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 33 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 34 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |
 | 35 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 |
-| 36 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
-| 37 | [there she goes](https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [there she goes](https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL) | 2:42 |
+| 36 | [there she goes](https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [there she goes](https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL) | 2:42 |
+| 37 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
 | 38 | [They Don't Love It](https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 1:53 |
 | 39 | [The Stranger](https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:42 |
 | 40 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 |

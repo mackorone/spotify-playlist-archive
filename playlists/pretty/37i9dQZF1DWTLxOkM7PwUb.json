@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9147,
+  "num_followers": 9159,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1363,6 +1363,42 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Adem\u00e1s de M\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 330040,
+      "name": "Adem\u00e1s de M\u00ed - Remix",
+      "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Calle 2 (Remix)",
         "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
       },
@@ -1399,42 +1435,6 @@
       "duration_ms": 219448,
       "name": "GRACIAS POR NADA",
       "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Adem\u00e1s de M\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 330040,
-      "name": "Adem\u00e1s de M\u00ed - Remix",
-      "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "HISTORIA",
+        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "HISTORIA",
+      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "JetLag",
         "url": "https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 177720,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "HISTORIA",
-        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "HISTORIA",
-      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Menos y M\u00e1s",
+        "url": "https://open.spotify.com/album/1pWl1yVDHSIArZASd1TbDk"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Naiky Unic",
+          "url": "https://open.spotify.com/artist/4RiS74hj1A525qvPs66MMP"
+        }
+      ],
+      "duration_ms": 200138,
+      "name": "Menos y M\u00e1s",
+      "url": "https://open.spotify.com/track/2bzyxGWb8qzoRH7slgD98t"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Es Hoy",
         "url": "https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o"
       },
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Menos y M\u00e1s",
-        "url": "https://open.spotify.com/album/1pWl1yVDHSIArZASd1TbDk"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Naiky Unic",
-          "url": "https://open.spotify.com/artist/4RiS74hj1A525qvPs66MMP"
-        }
-      ],
-      "duration_ms": 200138,
-      "name": "Menos y M\u00e1s",
-      "url": "https://open.spotify.com/track/2bzyxGWb8qzoRH7slgD98t"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "La Playita",
         "url": "https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Como Nadie",
-        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
-      },
-      "artists": [
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 136373,
-      "name": "Como Nadie",
-      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Si Tu Quieres",
         "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 136373,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1955,22 +1955,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Chernobyl",
-        "url": "https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn"
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
       },
       "artists": [
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Estani",
-          "url": "https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ"
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 143709,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A"
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
     }
   ],
   "unique_name": "Trap Luv",

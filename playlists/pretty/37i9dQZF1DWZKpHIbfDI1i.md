@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Natalia Lafourcade en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,489 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,527 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 69 | [Sin Ti](https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:45 |
 | 70 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |
 | 71 | [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 |
-| 72 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
+| 72 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 73 | [Tal Vez Fui Yo](https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Tal Vez Fui Yo](https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs) | 2:30 |
 | 74 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 75 | [Lado Frágil](https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:43 |

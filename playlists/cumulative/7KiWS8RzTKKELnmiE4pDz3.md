@@ -4,7 +4,7 @@
 
 > 
 
-959 songs - 1 day 23 hr 21 min
+963 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 | 2023-10-03 | 2024-04-24 |
 | [Party Girlz](https://open.spotify.com/track/6LQvGtDpDMTnn3zWOBQzOx) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:12 | 2023-01-20 | 2023-04-12 |
 | [Patience \(feat\. Don Toliver\)](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:22 | 2023-07-12 | 2023-12-14 |
+| [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 | 2025-04-30 |  |
 | [Pedestrian](https://open.spotify.com/track/30YhyUmaegqSxsBICCeVzY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:45 | 2023-08-28 | 2024-03-05 |
 | [Penthouse Shordy](https://open.spotify.com/track/3Ab6LCpjNI4GQZ5tXBpJkc) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/6x57aHz5UqOELrNukV6hoD) | 2:06 | 2022-09-09 | 2023-05-09 |
 | [Perfect Timing](https://open.spotify.com/track/0Tnvy0iwmoGBD0mq5MtgZF) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Sophomore Season](https://open.spotify.com/album/0AuGgD8nSb5Ct0sU6LGtiY) | 2:55 | 2022-10-28 | 2023-12-14 |
@@ -786,6 +787,7 @@
 | [Soul Doubt](https://open.spotify.com/track/1i0r2mb2SaHFjphF1dtizV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:00 | 2024-07-30 | 2024-11-06 |
 | [Sour Mango](https://open.spotify.com/track/6N5TKOIuVz6THKWrjK1neQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3QjaxGp6wfwMiZbYdIeOUO) | 4:19 | 2024-04-23 | 2024-11-06 |
 | [Southside](https://open.spotify.com/track/5lf3ajySox32qFvGEf2TFM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:53 | 2023-04-17 | 2023-12-14 |
+| [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 | 2025-05-01 |  |
 | [Spaceships](https://open.spotify.com/track/7AmqVM44urpAf2FCelEybg) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Ebenezer](https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn) | [Dear Annie](https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl) | 3:12 | 2025-03-04 |  |
 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 | 2023-03-20 | 2024-03-05 |
 | [Spend It](https://open.spotify.com/track/7zImtrjC17hbsbW2lqKqlt) | [Kankan](https://open.spotify.com/artist/7si09ku22hK6h4WQmvlVAb) | [B4 AMGs & SRTs 2](https://open.spotify.com/album/4SJcHr1KujoEmUSoSsdVAx) | 1:35 | 2022-12-21 | 2023-05-09 |
@@ -866,6 +868,7 @@
 | [Till the A M](https://open.spotify.com/track/3Bu1iBXJ5berdiHAY6CPiP) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Dedication](https://open.spotify.com/album/3yCR9McIWtVq4LwJSITQSc) | 2:33 | 2023-01-07 | 2023-05-09 |
 | [Time Flow](https://open.spotify.com/track/0bkoFNRkTWZiUP35ZwgnPz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:58 | 2022-12-23 | 2023-05-09 |
 | [To Be Honest](https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:39 | 2024-05-19 | 2024-11-06 |
+| [To Feel The Fire \- Alternate Gospel Version](https://open.spotify.com/track/2VMugoXue6h5emvnNlI9j6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Additional Singles & Rarities](https://open.spotify.com/album/0tprlYfYw9Y1fjq5SUFEQp) | 3:41 | 2025-05-01 |  |
 | [tokoyoto](https://open.spotify.com/track/28akW28raGpnoNwTuAHLRH) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [XO](https://open.spotify.com/album/4gQa9eWUzWe6XRYekLxfyD) | 2:10 | 2023-02-09 | 2023-12-14 |
 | [Tomorrow](https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:02 | 2024-11-05 |  |
 | [Tomorrow 'Til Infinity \(feat\. Gunna\)](https://open.spotify.com/track/6Zm6fxOVPzyArjrNPx9LRe) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:48 | 2024-09-18 | 2024-11-06 |
@@ -964,6 +967,7 @@
 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-07-12 | 2023-12-14 |
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-12-25 | 2023-05-09 |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
+| [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2025-05-01 |  |
 | [Zaza \(feat\. Future\)](https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:41 | 2023-12-27 | 2024-03-05 |
 | [Zero to 250](https://open.spotify.com/track/3uiG40OLahrpwMK1a7CuWa) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek \(Vol\. 7\)](https://open.spotify.com/album/2r8xWIxgtcUjqGlxpDOQX6) | 3:27 | 2025-04-16 |  |
 | [Zodiac](https://open.spotify.com/track/0jue0zxb5P4u3k55sFiuBK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Zodiac](https://open.spotify.com/album/7fK0Qd0BFVuJx1OQ1UIM2k) | 2:51 | 2025-02-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,163 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,257 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 14 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 15 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
 | 16 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
-| 17 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 18 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
+| 17 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
+| 18 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 19 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 |
 | 20 | [coffee](https://open.spotify.com/track/5h19kVLwkWQVU5vaVPsSU4) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [bluebluebird](https://open.spotify.com/album/5z4yV7s52BiaFdnla76kVL) | 1:56 |
 | 21 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 22 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 | 23 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Can I Love?](https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y) | 3:49 |
 | 24 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 |
-| 25 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
-| 26 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
-| 27 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
+| 25 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
+| 26 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
+| 27 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
 | 28 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
 | 29 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
 | 30 | [Pink cheeks](https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Pink cheeks](https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 47 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
 | 48 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 49 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
-| 50 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 |
+| 50 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 |
 
 Snapshot ID: `aA8ZoAAAAAANFjGIqyV5GjZkVEPuBu3K`

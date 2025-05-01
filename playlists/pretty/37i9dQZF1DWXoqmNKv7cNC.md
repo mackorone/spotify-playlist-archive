@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,608 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,748 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 21 | [Misión S\*\*\*\*\*\*](https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Misión S\*\*\*\*\*\*](https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR) | 1:47 |
 | 22 | [Estacionamiento](https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Estacionamiento](https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S) | 3:55 |
 | 23 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
-| 24 | [Quién Me Viera](https://open.spotify.com/track/6pbWgoTEF8P1ZycMXreUjz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Quién Me Viera](https://open.spotify.com/album/4MW7gQBGDfUH60VjKU5keT) | 3:18 |
-| 25 | [Marimba y Acordeón](https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Marimba y Acordeón](https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0) | 2:18 |
+| 24 | [Marimba y Acordeón](https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Marimba y Acordeón](https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0) | 2:18 |
+| 25 | [Quién Me Viera](https://open.spotify.com/track/6pbWgoTEF8P1ZycMXreUjz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Quién Me Viera](https://open.spotify.com/album/4MW7gQBGDfUH60VjKU5keT) | 3:18 |
 | 26 | [Más Libre Que En Casa](https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Más Libre Que En Casa](https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf) | 2:41 |
 | 27 | [BBTRUCOS](https://open.spotify.com/track/2FRMBN0FNaulDesgK1GIOp) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [BBTRUCOS](https://open.spotify.com/album/1S0qI6e4xbqhVSQhzS40x2) | 1:12 |
 | 28 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 55 | [Circo](https://open.spotify.com/track/7dWMsrAFKOzuluyKYgz6dG) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Circo](https://open.spotify.com/album/2SOUnVPONGuEtPVjRRhmsn) | 2:27 |
 | 56 | [NENA FINA](https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [25 \(B\)](https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi) | 3:49 |
 | 57 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
-| 58 | [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 |
-| 59 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
+| 58 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
+| 59 | [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 |
 | 60 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
 | 61 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
 | 62 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
-| 63 | [Palíndromo](https://open.spotify.com/track/3MtGANVwvIF6muc6AqziDp) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:36 |
-| 64 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
+| 63 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
+| 64 | [Palíndromo](https://open.spotify.com/track/3MtGANVwvIF6muc6AqziDp) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:36 |
 | 65 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |
 
-Snapshot ID: `Z+0+4QAAAADYovcWrqLxecLqFk7hbnpV`
+Snapshot ID: `AAAAAAFDPgzWMLP757Up54e1UwY+1pzq`

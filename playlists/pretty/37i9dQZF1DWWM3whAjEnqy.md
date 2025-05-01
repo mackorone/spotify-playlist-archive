@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 887 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 28 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 |
 | 29 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
 | 30 | [Better Than](https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Grand National](https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw) | 3:29 |
-| 31 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
-| 32 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 31 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 32 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
 | 33 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
 | 34 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 35 | [Lay It On Me](https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:35 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 62 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
 | 63 | [Youngblood](https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm) | 3:52 |
 | 64 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
-| 65 | [The Woods \(Acoustic\)](https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI) | 3:59 |
-| 66 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
-| 67 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 |
+| 65 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 66 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 |
+| 67 | [The Woods \(Acoustic\)](https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI) | 3:59 |
 | 68 | [Opportunity](https://open.spotify.com/track/64c45et47VnSv04LvzLt4C) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:37 |
 | 69 | [I Get Up](https://open.spotify.com/track/3clLiFEchrm0ElggigjADF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest \(Deluxe\)](https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe) | 4:23 |
 | 70 | [Morning Sun](https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Morning Sun](https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX) | 4:55 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 81 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
 | 82 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
 | 83 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
-| 84 | [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 |
-| 85 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
+| 84 | [Bail Me Out](https://open.spotify.com/track/7uOjc2bpeWSKhnqQKnPras) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:03 |
+| 85 | [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 |
 
 Snapshot ID: `Z2okmwAAAADpHVvanjTCF3spOS9pAZ9b`

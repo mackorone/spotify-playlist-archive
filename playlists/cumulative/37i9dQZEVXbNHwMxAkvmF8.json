@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 193398,
       "name": "3korty",
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
@@ -7656,7 +7656,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -18888,7 +18888,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 126930,
       "name": "Osztriga",
       "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
@@ -20696,7 +20696,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -21558,7 +21558,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 210186,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop"
@@ -21606,7 +21606,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 199719,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
@@ -22204,7 +22204,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 177526,
       "name": "SANDELA",
       "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
@@ -24930,10 +24930,32 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "album": {
+        "name": "Talpra Cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/5lRBdQrCOpNne800rdkUz7"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6rW8H4QVJy6oy97M1xKgwu"
+        },
+        {
+          "name": "Supermanagement",
+          "url": "https://open.spotify.com/artist/7bqaftvbtVLrygw8Tnlgb5"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138879,
+      "name": "Talpra Cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/76eQVql9BmSeP1yfemAtYv"
     },
     {
       "album": {
@@ -25454,7 +25476,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

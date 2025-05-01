@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,053 likes - 119 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,121 likes - 119 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 55 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 |
 | 56 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
 | 57 | [Preachers of Death](https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Strength in Numbers](https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN) | 4:55 |
-| 58 | [Built from War](https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Built from War](https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF) | 3:24 |
-| 59 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 58 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 59 | [Built from War](https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Built from War](https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF) | 3:24 |
 | 60 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
 | 61 | [Invidious](https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [The Level Above Human](https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN) | 4:18 |
 | 62 | [In The Court Of The Dragon](https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P) | 5:09 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 65 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 |
 | 66 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/1Vbmq7Tp3hRhrhUbDT7AME) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/album/2ZdKo8ZWbTBffLX0iVJ8y9) | 3:45 |
 | 67 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
-| 68 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
-| 69 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
+| 68 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
+| 69 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
 | 70 | [Curse Us](https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Curse Us](https://open.spotify.com/album/5M0HrALsh99LkP1xfz39cI) | 4:42 |
 | 71 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
 | 72 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
-| 73 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
-| 74 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
+| 73 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
+| 74 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
 | 75 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 |
 | 76 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
 | 77 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 113 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
 | 114 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
 | 115 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
-| 116 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
-| 117 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
+| 116 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
+| 117 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 | 118 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
 | 119 | [Rot](https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Come, Heavy Breath](https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi) | 2:50 |
 

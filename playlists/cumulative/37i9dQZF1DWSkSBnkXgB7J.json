@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Lella Fadda",
+  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Kawtar",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -1335,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "LEH",
+        "url": "https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p"
+      },
+      "artists": [
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160004,
+      "name": "LEH",
+      "url": "https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR"
+    },
+    {
+      "album": {
         "name": "LOVE DOCTOR",
         "url": "https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza"
       },
@@ -1470,6 +1492,24 @@
       "duration_ms": 182400,
       "name": "Maghror Feek",
       "url": "https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU"
+    },
+    {
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177115,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU"
     },
     {
       "album": {

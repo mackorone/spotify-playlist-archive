@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,675 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,679 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 20 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
 | 21 | [Jennifer Jennings](https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [80](https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy) | 2:46 |
 | 22 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 |
-| 23 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
-| 24 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Originale\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
+| 23 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Expanded Edition\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
+| 24 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
 | 25 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
 | 26 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
 | 27 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 37 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 38 | [Sol och vår](https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H) | [Inger Berggren](https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS) | [Sol och vår](https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE) | 3:08 |
 | 39 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
-| 40 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |
-| 41 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
+| 40 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
+| 41 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |
 | 42 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |
 | 43 | [Oh Oh Ik Heb Zorgen](https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [Het Beste Van Louis Neefs](https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O) | 2:25 |
 | 44 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 52 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
 | 53 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
 | 54 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
-| 55 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
-| 56 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
+| 55 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
+| 56 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 57 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
 | 58 | [Era](https://open.spotify.com/track/6rOWvMzDHtOUabr8TsDVrh) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB), [Wess](https://open.spotify.com/artist/1pXnYmLbedhz708gdE8zhe) | [Wess & Dori Ghezzi](https://open.spotify.com/album/13I0wj6y9uifqp1jYk8htl) | 2:53 |
 | 59 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 63 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
 | 64 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
 | 65 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
-| 66 | [Amanece](https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic) | [Jaime Morey](https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp) | [Jaime Morey: Todos Sus Exitos](https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L) | 3:03 |
+| 66 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
 | 67 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
-| 68 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
+| 68 | [Amanece](https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic) | [Jaime Morey](https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp) | [Jaime Morey: Todos Sus Exitos](https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L) | 3:03 |
 | 69 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |
 | 70 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 |
 

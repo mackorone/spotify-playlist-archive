@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,062 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,093 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 53 | [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 |
 | 54 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 55 | [Vengo](https://open.spotify.com/track/7vVgLKKzXDnuyw7it8SqpP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Polen](https://open.spotify.com/album/1rD9bUmZqj20KBJ4zmcfFN) | 3:00 |
-| 56 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
-| 57 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 56 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 57 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
 | 58 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 |
 | 59 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
 | 60 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 |

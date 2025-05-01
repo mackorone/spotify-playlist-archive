@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,368 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,412 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 21 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
 | 22 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 23 | [Player's Prayer](https://open.spotify.com/track/2rAuR0YXkWfg1lWI1g0n5j) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:11 |
-| 24 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
-| 25 | [Meeting in My Bedroom](https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:06 |
+| 24 | [Meeting in My Bedroom](https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:06 |
+| 25 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
 | 26 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
 | 27 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
 | 28 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 40 | [Yo Love \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 |
 | 41 | [The Way](https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:15 |
 | 42 | [These Are The Times](https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:08 |
-| 43 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
-| 44 | [Anything \(feat\. Next\)](https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:47 |
+| 43 | [Anything \(feat\. Next\)](https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:47 |
+| 44 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
 | 45 | [I Belong To You \(Every Time I See Your Face\)](https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2) | [Rome](https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef) | [Rome](https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja) | 4:33 |
 | 46 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 47 | [If You](https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:37 |

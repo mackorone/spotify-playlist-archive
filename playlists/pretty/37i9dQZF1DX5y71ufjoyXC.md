@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,050 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,980 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 | 6 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 |
 | 7 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 8 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
-| 9 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
+| 9 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 10 | [Se Vale Too](https://open.spotify.com/track/0r16JIpJB9ab78H2hqfxKn) | [This Is Mailo](https://open.spotify.com/artist/0VRYiHXeobY54b9Uvr3MOx), [Tavo the producer](https://open.spotify.com/artist/1rUfGkRuQpTouwaXKjJo1p), [JL Topo](https://open.spotify.com/artist/4UkbrZaOg71rPcSIMjrdc4), [Ketlino](https://open.spotify.com/artist/3bXk20SWBpUSWqFWTTb2Mw), [LOSDELAPIÑA](https://open.spotify.com/artist/2iBOGelkG71LdacVy7jztE), [DJ Jeffrey Sai](https://open.spotify.com/artist/6RRaQMr2lYtIXoF3YVvBjY) | [Se Vale Too](https://open.spotify.com/album/6ZwjhQXQcdlgqquLGJD6kO) | 3:54 |
 | 11 | [CAFé CON RON](https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:48 |
 | 12 | [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 |

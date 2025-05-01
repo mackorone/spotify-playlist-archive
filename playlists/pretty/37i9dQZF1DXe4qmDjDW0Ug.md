@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,733 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,738 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 39 | [It's Over](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:54 |
 | 40 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 41 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
-| 42 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
-| 43 | [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 |
+| 42 | [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 |
+| 43 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
 | 44 | [With Me](https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:31 |
 | 45 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 |
 | 46 | [If You Comeback](https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:48 |

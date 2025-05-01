@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-189 songs - 10 hr 45 min
+190 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 | 2022-05-11 | 2025-03-16 |
 | [BASS](https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4) | 3:20 | 2022-07-22 | 2024-04-19 |
 | [BASS](https://open.spotify.com/track/25UCHfNEklg7Eqng7ErjFp) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/4EC5TckDL3ChNIToRx3F52) | 3:20 | 2022-05-11 | 2022-07-29 |
+| [Be \(Vis ta Vie\) feat\. 20syl from Hocus Pocus](https://open.spotify.com/track/03QC3guhrYhFKkT3LGI6dl) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV) | [Found in Tokyo](https://open.spotify.com/album/1CLhqua3C3qKKJiM4gtIuj) | 4:17 | 2025-03-08 |  |
 | [been](https://open.spotify.com/track/07sIlvEYyot9HZ4BoDqg6Z) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:13 | 2022-05-11 | 2022-07-29 |
 | [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 | 2023-07-07 | 2024-04-19 |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-05-11 |  |
@@ -62,7 +63,7 @@
 | [Excuse \(feat\. Don Malik, DJ KENDRICKX\)](https://open.spotify.com/track/3YaDR5EtEODPedrpnXOft0) | [Kingchi Mane](https://open.spotify.com/artist/2SVuMSzTLK3koFQMbV5quj), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DJ Kendrickx](https://open.spotify.com/artist/5QGsnw046VJFphoOgNfsA5) | [Ω \(Omega\)](https://open.spotify.com/album/0GxJFaxQtBlTRyZtVk51Uc) | 4:22 | 2022-05-11 | 2022-06-07 |
 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-08 |  |
 | [Flower Cafe \(feat.Sam Ock, I.M\)](https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Flower Cafe](https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd) | 3:07 | 2023-05-31 |  |
-| [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 | 2022-05-11 |  |
+| [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 | 2022-05-11 | 2025-05-01 |
 | [Fontana di Trevi](https://open.spotify.com/track/52OV4RVYlYZiJpYV9m3WC8) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Maze Garden](https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk) | 4:24 | 2022-05-11 | 2022-07-10 |
 | [Getaway](https://open.spotify.com/track/5ZLoqS8BNKZzPdG1VoktCj) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 3:59 | 2022-06-20 | 2022-07-15 |
 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 | 2022-05-11 |  |

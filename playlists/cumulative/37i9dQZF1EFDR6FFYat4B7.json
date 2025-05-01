@@ -675,6 +675,32 @@
     },
     {
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213005,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
+    },
+    {
+      "album": {
         "name": "so sad so sexy",
         "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
       },
@@ -1044,6 +1070,24 @@
       "duration_ms": 207720,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/2R5MNcivvBdMqV5rFnVH3L"
+    },
+    {
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
     },
     {
       "album": {

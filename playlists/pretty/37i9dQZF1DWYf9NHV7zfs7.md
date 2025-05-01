@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Abel Pintos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,381 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,505 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 67 | [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 |
 | 68 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
 | 69 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
-| 70 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
-| 71 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
+| 70 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
+| 71 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
 | 72 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
 | 73 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
 | 74 | [Loco](https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Loco](https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ) | 3:35 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,953 songs - 5 day 1 hr 34 min
+1,954 songs - 5 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,6 +958,7 @@
 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 | 2022-08-23 | 2022-10-19 |
 | [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 | 2025-04-15 | 2025-04-30 |
 | [thaumazein \-theme from "Orb: On the Movements of the Earth"](https://open.spotify.com/track/4bAIeBjw6v2z3uxMS8dwuu) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [アニメ「チ。 ー地球の運動についてー」オリジナル・サウンドトラック](https://open.spotify.com/album/39wfmKWvJDJ71CUcSgeytz) | 3:16 | 2025-04-08 | 2025-04-23 |
+| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-30 |  |
 | [The Battle](https://open.spotify.com/track/2W1ZHJtr7vsn2AoUDJCNGv) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [The Battle](https://open.spotify.com/album/4WGyVLdOR7K7WynokIzsl1) | 3:07 | 2024-07-05 | 2024-07-31 |
 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 | 2023-07-13 | 2023-10-04 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |

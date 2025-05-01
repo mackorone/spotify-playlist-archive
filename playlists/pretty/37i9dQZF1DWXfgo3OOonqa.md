@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,034 likes - 110 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,028 likes - 110 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Håller Mig Själv](https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Håller Mig Själv](https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez) | 1:49 |
 | 2 | [Aldrig sett förut](https://open.spotify.com/track/061G4BWNLuJkAJWedFpoZm) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Aldrig sett förut](https://open.spotify.com/album/3beriMigFWONLo2lP3eyyQ) | 1:55 |
-| 3 | [Kontroversiell](https://open.spotify.com/track/7z2GpADNXu1Ml5BrnreLPD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kontroversiell](https://open.spotify.com/album/6cHgHK8oer5oNyfEJqf0ng) | 1:53 |
+| 3 | [Kontroversiell \(Intro\)](https://open.spotify.com/track/7z2GpADNXu1Ml5BrnreLPD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kontroversiell \(Intro\)](https://open.spotify.com/album/6cHgHK8oer5oNyfEJqf0ng) | 1:53 |
 | 4 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
 | 5 | [WIWÄÄ](https://open.spotify.com/track/0RmdKLmj6v4GfTuKmXNMy6) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [WIWÄÄ](https://open.spotify.com/album/69YnkysdFKKklpIePDhBkn) | 2:26 |
 | 6 | [Tillbaka](https://open.spotify.com/track/0v2GuMZM63Bah3nBJOTdAi) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Tillbaka](https://open.spotify.com/album/0IaojtiaBh36lZuLBKfylV) | 2:24 |

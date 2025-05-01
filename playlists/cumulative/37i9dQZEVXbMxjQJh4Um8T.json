@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3bE8SznOXJ990MK1ElQnfr"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -10010,7 +10010,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
@@ -11774,7 +11774,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 184615,
       "name": "NINFO",
       "url": "https://open.spotify.com/track/1CTTIrl42flqn1WYUoxl0H"
@@ -15382,7 +15382,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 131827,
       "name": "sobelove",
       "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
@@ -16488,7 +16488,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
@@ -19361,6 +19361,36 @@
     },
     {
       "album": {
+        "name": "X (feat. Maluma & Ozuna) [Remix]",
+        "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "X (feat. Maluma & Ozuna) - Remix",
+      "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
+    },
+    {
+      "album": {
         "name": "X'CLUSIVO",
         "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
       },
@@ -19458,7 +19488,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
@@ -19556,7 +19586,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
@@ -19626,6 +19656,24 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/3vsNteZn6E5qBSSBO78W7b"
     },
     {
       "album": {

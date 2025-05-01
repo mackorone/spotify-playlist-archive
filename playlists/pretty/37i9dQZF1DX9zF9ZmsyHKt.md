@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,893 likes - 63 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,934 likes - 63 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 58 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
 | 59 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |
 | 60 | [Grito Seu Nome](https://open.spotify.com/track/3JQLEtwCzTNwrjbbxoVDZE) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 3:03 |
-| 61 | [Príncipe Encantado](https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo que Conquistou o Brasil](https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr) | 3:45 |
-| 62 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
-| 63 | [Objeto de Desejo](https://open.spotify.com/track/5TnTDW5cgW23CCRb7RPUdZ) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Goiânia](https://open.spotify.com/album/5aWoIA9X1J0tabzygJbgCr) | 3:52 |
+| 61 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
+| 62 | [Objeto de Desejo](https://open.spotify.com/track/5TnTDW5cgW23CCRb7RPUdZ) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Goiânia](https://open.spotify.com/album/5aWoIA9X1J0tabzygJbgCr) | 3:52 |
+| 63 | [Príncipe Encantado](https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo que Conquistou o Brasil](https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr) | 3:45 |
 
 Snapshot ID: `aAuf7QAAAACiWI/XEfMRE8VmpiMeJNkU`

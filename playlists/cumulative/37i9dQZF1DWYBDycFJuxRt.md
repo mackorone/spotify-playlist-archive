@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: ちゃんみな\*👉 <a href="https://spice.eplus.jp/articles/337284">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: ちゃんみな\*👉 <a href="https://spice.eplus.jp/articles/337490">連動記事</a>をSPICEでチェック!
 
-10,355 songs - 26 day 21 hr 46 min
+10,357 songs - 26 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [2025/4/16 tuki.が初のドラマ主題歌をリリースしてカバーに！RIP SLYMEの約9年ぶりとなる5人そろっての新曲、Jackson WangとNumber\_iのコラボ作品も！バルーンによる企画アルバム、TK from 凛として時雨のニューアルバムもピックアップ！](https://open.spotify.com/episode/1BukHz0sbkVpvoOghHdYXo) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:23 | 2025-04-16 | 2025-04-23 |
 | [2025/4/2 LANAがカバー！HANAのメジャーデビューソングも！Young Cocoのニューアルバム、JO1のベスト・アルバム、デビュー45周年を迎えた松田聖子の新曲もリリースに！](https://open.spotify.com/episode/6A2CpC1KzxagbuS5DSzEnp) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:27 | 2025-04-02 | 2025-04-09 |
 | [2025/4/23 Teleがニューアルバムをリリースしてカバーに！星野源の新曲、\[Alexandros\]のニューアルバムもピックアップ！Ayumu ImazuとFurui Rihoのコラボ曲も！唾奇とKohjiyaのコラボ曲も到着！](https://open.spotify.com/episode/0hCluqJtnYFEz0I8AYBp1c) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:28 | 2025-04-23 | 2025-04-30 |
+| [2025/4/30 ちゃんみなが新曲をリリース！swetty×Elle TeresaのPOP YOURS楽曲も！muqueの『ONE PIECE』新エンディング主題歌や、⭐︎Taku Takahashi、Yackle、Aile The Shota、PORINによる新曲もピックアップ！ニューアルバム『あそび』をリリースしたいきものがかりのインタビューも！](https://open.spotify.com/episode/6aHYNCgI5c8XQQnjqawqfk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 42:23 | 2025-04-30 |  |
 | [2025/4/9 Mrs\. GREEN APPLEが新曲をリリースしてカバーに！Adoからメッセージも到着！！友成空、離婚伝説、幾田りらの新曲も！MC TYSONのニューEPもピックアップ！](https://open.spotify.com/episode/1ijtLjWEbFaAEOr8Z7rlog) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:17 | 2025-04-09 | 2025-04-16 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -2226,6 +2227,7 @@
 | [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 | 2025-02-12 | 2025-02-19 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2024-07-17 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-14 | 2023-02-22 |
+| [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-04-30 |  |
 | [GO](https://open.spotify.com/track/1Ui54Whd5iCFbpdkFwdFae) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [GO](https://open.spotify.com/album/4NVFXN8Hzc53QPggvt7Hb3) | 3:16 | 2023-04-25 | 2023-05-03 |
 | [Go](https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Go](https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN) | 3:50 | 2023-02-28 | 2023-03-08 |
 | [go](https://open.spotify.com/track/2phBtCPLYPfDbq4WIP7amU) | [naotohiroyama](https://open.spotify.com/artist/1wg2an5ZodHFA9yqsUv0Dk) | [go](https://open.spotify.com/album/2xh6bRd47JETeYh9M7ETg6) | 7:12 | 2024-12-25 | 2025-01-08 |

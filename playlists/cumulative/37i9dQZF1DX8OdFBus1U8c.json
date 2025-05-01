@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Adithatt",
+        "url": "https://open.spotify.com/album/6TFRw2ROX0ayXXUu9Ujw3a"
+      },
+      "artists": [
+        {
+          "name": "Who am i.?",
+          "url": "https://open.spotify.com/artist/2Z0DyNhHHSbpAmW8QpHAEw"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Adithatt",
+      "url": "https://open.spotify.com/track/48kTjVLdR8P0uNBajPDbFG"
+    },
+    {
+      "album": {
         "name": "Adithattu Cypher",
         "url": "https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 142956,
       "name": "Chaaver",
       "url": "https://open.spotify.com/track/6Uz9Ibr0zZDu1zTpHkCLVz"
@@ -3469,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "MAUNA LOA",
+        "url": "https://open.spotify.com/album/4ERE2IVowRMYYtNFnlAeBV"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "MAUNA LOA",
+      "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
+    },
+    {
+      "album": {
         "name": "Minnal Pinar (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/212I9yWYp3ytaW7hN3Zl2b"
       },
@@ -5326,7 +5366,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 160765,
       "name": "T SHIRT",
       "url": "https://open.spotify.com/track/0mxRgAGZjAgEtw4yvBnE9R"

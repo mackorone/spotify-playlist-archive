@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,632 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,644 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 44 | [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 |
 | 45 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
 | 46 | [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 |
-| 47 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 |
-| 48 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 |
+| 47 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 |
+| 48 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 |
 | 49 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 |
 | 50 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 |
 

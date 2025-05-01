@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lorde, PinkPantheress, Myles Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,598 likes - 128 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,625 likes - 128 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

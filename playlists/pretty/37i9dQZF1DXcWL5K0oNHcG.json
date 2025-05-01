@@ -1,13 +1,65 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Tyreek McDole. Artwork: Joy Yamusangie.",
-  "num_followers": 235432,
+  "num_followers": 235544,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/agfwAAAAD26FU81/cJC8c7ClL/+6DW",
+  "snapshot_id": "aBGgXgAAAADsFbsPNTFYSzeiPWUrWWhv",
   "tracks": [
+    {
+      "added_at": "2025-04-30 04:00:30",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5PFa6NUTgHV64U712umZq9"
+      },
+      "artists": [
+        {
+          "name": "Ofri Nehemya",
+          "url": "https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX"
+        }
+      ],
+      "duration_ms": 348216,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3XeppK1Ja55D2FdyRKJgVG"
+    },
+    {
+      "added_at": "2025-04-30 04:00:30",
+      "album": {
+        "name": "Things of That Nature",
+        "url": "https://open.spotify.com/album/2ibeABnUwOAxI8zNBp07xn"
+      },
+      "artists": [
+        {
+          "name": "Nitecap",
+          "url": "https://open.spotify.com/artist/53GLdZwW98q3178jrRHogu"
+        },
+        {
+          "name": "Collin Miller & the Brother Nature",
+          "url": "https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6"
+        }
+      ],
+      "duration_ms": 261909,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/5vSuRAa0BvbytTLeSJzKx2"
+    },
+    {
+      "added_at": "2025-04-30 04:00:30",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
     {
       "added_at": "2025-04-09 16:29:51",
       "album": {
@@ -543,22 +595,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "Marina del Rey",
-        "url": "https://open.spotify.com/album/6826yU0TTl1XpferIzYPAB"
-      },
-      "artists": [
-        {
-          "name": "Koteri",
-          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
-        }
-      ],
-      "duration_ms": 133065,
-      "name": "Marina del Rey",
-      "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Straying In Alpacas",
         "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
       },
@@ -807,42 +843,6 @@
       "duration_ms": 159769,
       "name": "YUMI",
       "url": "https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "More Purple Than Ever",
-        "url": "https://open.spotify.com/album/4vfrujJxu2c1N526aIUdIn"
-      },
-      "artists": [
-        {
-          "name": "Apifera",
-          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "More Purple Than Ever",
-      "url": "https://open.spotify.com/track/0J38E8bTJINcEzUQiTlbW2"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Hottest September",
-        "url": "https://open.spotify.com/album/370psCY0fv8Iw1ZtZ1sZVr"
-      },
-      "artists": [
-        {
-          "name": "Michael Benedikt",
-          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
-        },
-        {
-          "name": "Lukas Thoeni",
-          "url": "https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9"
-        }
-      ],
-      "duration_ms": 133558,
-      "name": "Hottest September",
-      "url": "https://open.spotify.com/track/3R0Kf4lFHJ9FBpAAEjjGep"
     },
     {
       "added_at": "2025-01-15 05:00:02",

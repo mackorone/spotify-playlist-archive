@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 108142,
+  "num_followers": 108169,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -899,58 +899,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Avichrom",
-        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 309051,
-      "name": "Blaumeise",
-      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Second Chance",
-        "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
-      },
-      "artists": [
-        {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "James Grant",
-          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
-        }
-      ],
-      "duration_ms": 270996,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -975,6 +923,58 @@
       "duration_ms": 241862,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
+      },
+      "artists": [
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "duration_ms": 270996,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Avichrom",
+        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 309051,
+      "name": "Blaumeise",
+      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
+        "name": "Afrodisia",
+        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 540340,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/5R4P6Oiuejf0SkL7qy2LH8"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 210000,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2Hk5lGsf7ItPiPkRuKGimb"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Afrodisia",
-        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
-      },
-      "artists": [
-        {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
-        }
-      ],
-      "duration_ms": 540340,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Multiplex",
-        "url": "https://open.spotify.com/album/0ZSVcbxKo3Dbm7mbIuJz6e"
-      },
-      "artists": [
-        {
-          "name": "Mark Van Hoen",
-          "url": "https://open.spotify.com/artist/7mEHndkM91rEPLkC8LfYx3"
-        }
-      ],
-      "duration_ms": 238447,
-      "name": "Multiplex",
-      "url": "https://open.spotify.com/track/1Kno2Q1ERfRnQCpTJET81C"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "D\u00cdA",
         "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 312282,
       "name": "ABRIR MONTE",
       "url": "https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Multiplex",
+        "url": "https://open.spotify.com/album/0ZSVcbxKo3Dbm7mbIuJz6e"
+      },
+      "artists": [
+        {
+          "name": "Mark Van Hoen",
+          "url": "https://open.spotify.com/artist/7mEHndkM91rEPLkC8LfYx3"
+        }
+      ],
+      "duration_ms": 238447,
+      "name": "Multiplex",
+      "url": "https://open.spotify.com/track/1Kno2Q1ERfRnQCpTJET81C"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Apertura",
-        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Flaco 92'",
-      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 413977,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Apertura",
+        "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Flaco 92'",
+      "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "no floor",
-        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+        "name": "ooo \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 o\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361( \u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u02dc\u0e31\u0e34\u0e35\u0e36\u0e37\u0e4c\u0e4e\u0e49\u0e47\u0e4b\u0e4a\u29810 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 \u0c20\u0c40\u0a42\u0ce7\u0eb9\u0fc3\u0942\u0a42",
+        "url": "https://open.spotify.com/album/7tZo2dx2IQc8FSKuGYhfJQ"
       },
       "artists": [
         {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
         }
       ],
-      "duration_ms": 357293,
-      "name": "the applebees outside kalamazoo, michigan",
-      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
+      "duration_ms": 102681,
+      "name": "\u0275\u0a42\u2262\u0fc3\u0942\u0a42\u0ce7\u0eb9\u0c20\u0c40\u0a42\u061e\u0619\u0616\u207d\u207e\u0627\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489",
+      "url": "https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1363,34 +1359,22 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "ooo \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 o\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361( \u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u02dc\u0e31\u0e34\u0e35\u0e36\u0e37\u0e4c\u0e4e\u0e49\u0e47\u0e4b\u0e4a\u29810 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 \u0c20\u0c40\u0a42\u0ce7\u0eb9\u0fc3\u0942\u0a42",
-        "url": "https://open.spotify.com/album/7tZo2dx2IQc8FSKuGYhfJQ"
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
       },
       "artists": [
         {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 102681,
-      "name": "\u0275\u0a42\u2262\u0fc3\u0942\u0a42\u0ce7\u0eb9\u0c20\u0c40\u0a42\u061e\u0619\u0616\u207d\u207e\u0627\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489",
-      "url": "https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+      "duration_ms": 357293,
+      "name": "the applebees outside kalamazoo, michigan",
+      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1423,6 +1407,22 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Dragon Bridge",
-        "url": "https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 225673,
-      "name": "Dragon Bridge",
-      "url": "https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 139184,
       "name": "Heterodina",
       "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Dragon Bridge",
+        "url": "https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 225673,
+      "name": "Dragon Bridge",
+      "url": "https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Kumquat",
-        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "Kumquat",
-      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 367841,
       "name": "Chaparral",
       "url": "https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
     },
     {
       "added_at": "2025-04-25 19:42:26",

@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 427717,
+  "num_followers": 427718,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "Only One Flo (Part 1)",
         "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 234560,
       "name": "Club Can't Handle Me (feat. David Guetta)",
       "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
     },
     {
       "added_at": "2024-06-25 10:54:39",

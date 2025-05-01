@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -6778,7 +6778,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
@@ -12004,7 +12004,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -12022,7 +12022,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -22162,10 +22162,36 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 124153,
       "name": "kuruta",
       "url": "https://open.spotify.com/track/6XPANimHsxSvrJUmcTHDeW"
+    },
+    {
+      "album": {
+        "name": "l\u00f5putu festival",
+        "url": "https://open.spotify.com/album/6ltt0dI4DBJZL49XF0RVAF"
+      },
+      "artists": [
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        },
+        {
+          "name": "Taavi-Peeter Liiv",
+          "url": "https://open.spotify.com/artist/0T299tQlc6XNlzJrF6xqlm"
+        },
+        {
+          "name": "Mattias Tirmaste",
+          "url": "https://open.spotify.com/artist/4Kc2Fkw80AeO0TMI5fEd2f"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191616,
+      "name": "KURVA MUUSIKA PIDU",
+      "url": "https://open.spotify.com/track/4UbWCWvxgqJ1wXoDp5EVRs"
     },
     {
       "album": {
@@ -25397,6 +25423,24 @@
     },
     {
       "album": {
+        "name": "l\u00f5putu festival",
+        "url": "https://open.spotify.com/album/6ltt0dI4DBJZL49XF0RVAF"
+      },
+      "artists": [
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "MA KASTAN LILLI",
+      "url": "https://open.spotify.com/track/0rE191sqLxFnELKnvKJqqn"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -27364,6 +27408,24 @@
       "duration_ms": 231706,
       "name": "Mine (Taylor's Version)",
       "url": "https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG"
+    },
+    {
+      "album": {
+        "name": "l\u00f5putu festival",
+        "url": "https://open.spotify.com/album/6ltt0dI4DBJZL49XF0RVAF"
+      },
+      "artists": [
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "MINI COOPER",
+      "url": "https://open.spotify.com/track/5OvAHk9sYYJIrSqZcP7Zec"
     },
     {
       "album": {
@@ -30038,7 +30100,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 116052,
       "name": "No Gletcher Gang 2",
       "url": "https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR"
@@ -34592,6 +34654,28 @@
       "duration_ms": 134296,
       "name": "PUSSY BOY",
       "url": "https://open.spotify.com/track/2CyGcy1HPxcFfmeUxKnAoe"
+    },
+    {
+      "album": {
+        "name": "l\u00f5putu festival",
+        "url": "https://open.spotify.com/album/6ltt0dI4DBJZL49XF0RVAF"
+      },
+      "artists": [
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        },
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "P\u00c4EVA PARIM J\u00dcRGENSON",
+      "url": "https://open.spotify.com/track/79hqKS7hRDhiewHS86Bl3J"
     },
     {
       "album": {
@@ -42400,7 +42484,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

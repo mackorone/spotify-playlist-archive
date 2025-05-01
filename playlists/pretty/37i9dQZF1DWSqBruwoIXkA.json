@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this. cover: Sydney Rose",
-  "num_followers": 2423742,
+  "num_followers": 2423682,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 218893,
       "name": "Water Fountain",
       "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -909,24 +909,20 @@
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
-      "added_at": "2025-03-21 04:06:34",
+      "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 189647,
-      "name": "Younger And Hotter Than Me",
-      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
+      "duration_ms": 181360,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -947,22 +943,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2025-03-21 04:06:34",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 189647,
+      "name": "Younger And Hotter Than Me",
+      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
     },
     {
       "added_at": "2024-12-13 05:00:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Hold the Rhythm",
-        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Hold the Rhythm",
+        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
+    },
+    {
       "added_at": "2025-02-21 05:00:26",
       "album": {
         "name": "So Close To What",
@@ -1167,6 +1183,22 @@
       "duration_ms": 161612,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "ILYSMIH",
+        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "ILYSMIH",
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -1225,38 +1257,6 @@
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "I GUESS I'M IN LOVE",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     },
     {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "THINK LATER",
@@ -1351,22 +1367,6 @@
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
-    },
-    {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-04-01 00:04:02",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "Will You Always Love Her?",
-        "url": "https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 185557,
-      "name": "Will You Always Love Her?",
-      "url": "https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "i wish u knew",
@@ -1679,6 +1663,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "Will You Always Love Her?",
+        "url": "https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 185557,
+      "name": "Will You Always Love Her?",
+      "url": "https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
     },
     {
       "added_at": "2024-09-13 04:05:55",

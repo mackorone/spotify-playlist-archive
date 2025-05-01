@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-3,783 songs - 8 day 6 hr 20 min
+3,786 songs - 8 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,6 +1035,7 @@
 | [FEEL 4 U](https://open.spotify.com/track/6AuwjTMV5MGYsJRYksr4VR) | [d4mon.](https://open.spotify.com/artist/5gyQjaEaGCOMlJYFJdTvUX) | [FEEL 4 U](https://open.spotify.com/album/1zCyLBEuvFSlHV3Ww8n2Eb) | 2:51 | 2025-03-21 |  |
 | [FEEL GOOD](https://open.spotify.com/track/4UFQQWs3ncoiiexDYFuQeg) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FEEL GOOD](https://open.spotify.com/album/4wZNmJws8kE6JTdnSaXP7L) | 3:25 | 2023-10-20 | 2023-12-09 |
 | [Feel Like a Woman](https://open.spotify.com/track/1VySVhLm3ozkzop6dpn18L) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 5:00 | 2023-10-13 | 2023-11-18 |
+| [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 | 2025-05-01 |  |
 | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX) | 1:37 | 2025-03-14 |  |
 | [Feel Your Love](https://open.spotify.com/track/4JUkJLpwMpqv6ZXdQf0O4H) | [The Code](https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S) | [Feel Your Love](https://open.spotify.com/album/76JEnC2avKDF8JkdkRvjqu) | 5:58 | 2023-12-22 | 2024-01-20 |
 | [Feelin \(with Maiya The Don\)](https://open.spotify.com/track/6tuXARskWZHSobMztd7Eq0) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Feelin \(with Maiya The Don\)](https://open.spotify.com/album/2xWtnQYywYlHESG8dhyvls) | 2:20 | 2024-11-08 | 2025-01-18 |
@@ -1207,6 +1208,7 @@
 | [Get Like Me](https://open.spotify.com/track/3ivYasa2BNXj94ULv8DHfI) | [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Jordan Year](https://open.spotify.com/album/0fioh6pN1PO09d2pj1pSNa) | 3:27 | 2023-09-22 | 2023-11-04 |
 | [Get Myself Together \- Louie Vega Radio Remix](https://open.spotify.com/track/3MgGvizDHuBbrWwpQWKbMA) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg) | [Never Too Much: Greatest Hits](https://open.spotify.com/album/3VtqvheUGTa4AXo2Rx2Ew0) | 3:47 | 2024-12-13 | 2025-02-15 |
 | [Get Together](https://open.spotify.com/track/4SNYTtR22PfL7UF0pouvFf) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Get Together](https://open.spotify.com/album/2ZwskA00mDrM1aGi1VTCai) | 2:44 | 2023-10-06 | 2023-12-09 |
+| [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d) | 3:12 | 2025-05-01 |  |
 | [Getting Late](https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Getting Late](https://open.spotify.com/album/3giodvWWNQIgilwpC9Fxfa) | 2:52 | 2022-09-30 | 2022-12-03 |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-06-28 | 2024-08-24 |
 | [Ghost](https://open.spotify.com/track/3AhjqljvTK2yuiMHSJXQyx) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Ghost](https://open.spotify.com/album/6jLmRQtbgeKWp0qJ9rlKuM) | 3:21 | 2025-03-21 |  |
@@ -1220,6 +1222,7 @@
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-04-25 |  |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-06 | 2022-06-11 |
 | [GIRL](https://open.spotify.com/track/1ct4ehJGrReKphrXtX4GkJ) | [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Girl](https://open.spotify.com/album/4Zl9Ub5gVeHLzzkS1354P3) | 2:21 | 2025-04-11 |  |
+| [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 | 2025-05-01 |  |
 | [Girl I Don't Mind](https://open.spotify.com/track/4Sbr1l1eDs1C5ihDicCzZp) | [Hone](https://open.spotify.com/artist/04RyeACiBbuXSvvhBOESLj), [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Girl I Don't Mind](https://open.spotify.com/album/4Jxi8IhNwLGZBA9iYzIb9S) | 2:33 | 2024-12-13 | 2025-01-11 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-12 | 2023-07-15 |
 | [Girlfriend](https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Girlfriend](https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy) | 2:47 | 2022-06-10 | 2022-07-16 |

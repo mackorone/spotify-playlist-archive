@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,894 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,960 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 18 | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 |
 | 19 | [לא לפנות אליי](https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לא לפנות אליי](https://open.spotify.com/album/3ThuGcYgtumB29FDqbJsmA) | 2:46 |
 | 20 | [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 |
-| 21 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Ben Zur](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 |
-| 22 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [Ben Zur](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 |
+| 21 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 |
+| 22 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 |
 | 23 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 24 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 |
 | 25 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 |

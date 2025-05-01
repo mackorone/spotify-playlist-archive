@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 356641,
+  "num_followers": 356720,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
-      },
-      "artists": [
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
-        }
-      ],
-      "duration_ms": 154277,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Mektup",
         "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 212615,
       "name": "Askim",
       "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
+      },
+      "artists": [
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "duration_ms": 154277,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
-      },
-      "artists": [
-        {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 172000,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1015,18 +995,22 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Jadal",
-        "url": "https://open.spotify.com/album/7aYJLmJnVLvJgcYDsSRxia"
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
       "artists": [
         {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
         }
       ],
-      "duration_ms": 198461,
-      "name": "Jadal",
-      "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1043,6 +1027,22 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Jadal",
+        "url": "https://open.spotify.com/album/7aYJLmJnVLvJgcYDsSRxia"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Jadal",
+      "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "CASABLANCA",
-        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "CASABLANCA",
-      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 206339,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
+        "name": "Sahra On The Moon",
+        "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        },
+        {
+          "name": "Feras Naddaf",
+          "url": "https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Sahra On The Moon",
+      "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -1183,6 +1203,26 @@
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1211,46 +1251,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
-        "name": "Sahra On The Moon",
-        "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        },
-        {
-          "name": "Feras Naddaf",
-          "url": "https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Sahra On The Moon",
-      "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Dahlia Girl",
         "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 197052,
       "name": "Dahlia Girl",
       "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Viraha",
         "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 171534,
       "name": "Viraha",
       "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Liya Snin (Omerar Nanda Remix)",
-        "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        },
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 395851,
-      "name": "Liya Snin - Omerar Nanda Remix",
-      "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Liya Snin (Omerar Nanda Remix)",
+        "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        },
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 395851,
+      "name": "Liya Snin - Omerar Nanda Remix",
+      "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1599,42 +1599,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1655,6 +1619,26 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1683,6 +1667,22 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
         "name": "Mitad De La Noche",
         "url": "https://open.spotify.com/album/2UzOerh1n51ZpCj1Ycs8BS"
       },
@@ -1803,22 +1823,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Assos",
-        "url": "https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 248744,
-      "name": "Assos",
-      "url": "https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -1839,22 +1843,18 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+        "name": "Assos",
+        "url": "https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3"
       },
       "artists": [
         {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
         }
       ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+      "duration_ms": 248744,
+      "name": "Assos",
+      "url": "https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut"
     },
     {
       "added_at": "2025-04-18 08:31:24",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-04-18 08:31:24",
       "album": {
-        "name": "Opa",
-        "url": "https://open.spotify.com/album/7AO9lx2lwoyeaaOh4icaOF"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 405916,
-      "name": "Opa",
-      "url": "https://open.spotify.com/track/4gOMUti3d3zMpCfOGkHlAC"
-    },
-    {
-      "added_at": "2025-04-18 08:31:24",
-      "album": {
         "name": "Oud Trip",
         "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 272901,
       "name": "Oud Trip",
       "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
+    },
+    {
+      "added_at": "2025-04-18 08:31:24",
+      "album": {
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
     }
   ],
   "unique_name": "mosaic",

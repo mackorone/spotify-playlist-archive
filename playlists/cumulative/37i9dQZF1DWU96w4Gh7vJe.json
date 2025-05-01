@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "SWABE",
+        "url": "https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277145,
+      "name": "A Little Bit",
+      "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
+    },
+    {
+      "album": {
         "name": "Abot Langit (Ricovered)",
         "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 192000,
       "name": "Delusyon",
       "url": "https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R"
@@ -1373,6 +1391,42 @@
     },
     {
       "album": {
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+    },
+    {
+      "album": {
+        "name": "Naiilang",
+        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247071,
+      "name": "Naiilang",
+      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
+    },
+    {
+      "album": {
         "name": "Ang Aking Awitin",
         "url": "https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ"
       },
@@ -1388,6 +1442,24 @@
       "duration_ms": 212840,
       "name": "Ngiti",
       "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
+    },
+    {
+      "album": {
+        "name": "No Violence",
+        "url": "https://open.spotify.com/album/5NwsBR70cGky5pfhNSIdl1"
+      },
+      "artists": [
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150585,
+      "name": "No Violence",
+      "url": "https://open.spotify.com/track/621v00G7yuBus1FV5H5Pdp"
     },
     {
       "album": {
@@ -1438,7 +1510,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 296714,
       "name": "Oh, Irog",
       "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
@@ -1510,7 +1582,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 237894,
       "name": "Pagsisisi",
       "url": "https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE"
@@ -1554,6 +1626,24 @@
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
+    },
+    {
+      "album": {
+        "name": "Palaging Masaya",
+        "url": "https://open.spotify.com/album/4R60jek85Uw3wF6Wq4RyXc"
+      },
+      "artists": [
+        {
+          "name": "John Sam",
+          "url": "https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Palaging Masaya",
+      "url": "https://open.spotify.com/track/4I7T76QWKWEjCpPTfGP6jq"
     },
     {
       "album": {
@@ -1622,7 +1712,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 266026,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/0wYLEZ4UAF7JuIDkbJfmH6"
@@ -1931,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "sh*t sobrang init",
+        "url": "https://open.spotify.com/album/3yYDFXBAptstNq40E5g4Cw"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182272,
+      "name": "sh*t sobrang init",
+      "url": "https://open.spotify.com/track/0P30Kh9Ye53cIib0q9j673"
+    },
+    {
+      "album": {
         "name": "Simula Pa Nung Una",
         "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
       },
@@ -2004,7 +2112,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 292312,
       "name": "Sungit",
       "url": "https://open.spotify.com/track/5QBB79bId5w7ZgWWgbDwsU"
@@ -2044,7 +2152,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 277905,
       "name": "Tabing-dagat",
       "url": "https://open.spotify.com/track/0rwQnbQw1NYR6viknHlhNI"
@@ -2152,7 +2260,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 218400,
       "name": "Telepono",
       "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
@@ -2232,6 +2340,24 @@
       "duration_ms": 264202,
       "name": "Torete",
       "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
+    },
+    {
+      "album": {
+        "name": "TORPE",
+        "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "TORPE",
+      "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
     },
     {
       "album": {

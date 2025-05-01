@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,286 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,284 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 38 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 39 | [Mobile](https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Mobile](https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO) | 4:16 |
 | 40 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
-| 41 | [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 |
-| 42 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
+| 41 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
+| 42 | [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 |
 | 43 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 44 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 |
 | 45 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 76 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
-| 79 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
-| 80 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 79 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 80 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 81 | [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 |
 | 82 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 |
 | 83 | [Horseback](https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 3:32 |

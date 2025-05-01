@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,156 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,176 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 36 | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR) | 5:26 |
 | 37 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
 | 38 | [Quiero Verte Bailar](https://open.spotify.com/track/19SPpzI7l7Aovt7AnoHqTw) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Quiero Verte Bailar](https://open.spotify.com/album/4ceIQJuUkphs5HfrQh9O63) | 3:07 |
-| 39 | [Mix Mario Luis](https://open.spotify.com/track/7KOxY0PLyGp4TX8AZYYgMp) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Mario Luis](https://open.spotify.com/album/3wCS6ofFvoetcmLFl84vhe) | 8:06 |
-| 40 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
+| 39 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
+| 40 | [Mix Mario Luis](https://open.spotify.com/track/7KOxY0PLyGp4TX8AZYYgMp) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Mario Luis](https://open.spotify.com/album/3wCS6ofFvoetcmLFl84vhe) | 8:06 |
 | 41 | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/track/5Ed4IftU2YrSPCjIbUfwQg) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/album/3SPUu8pxUz5yZsXXi1WjKM) | 5:40 |
 | 42 | [Deja de Llorar](https://open.spotify.com/track/3EVhUj00lPk3w3tCmzlZKR) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Deja de Llorar](https://open.spotify.com/album/5ZMaCmKr9te5lEgHPDp3BG) | 2:59 |
 | 43 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 78 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 |
 | 79 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
 | 80 | [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 |
-| 81 | [Violeta](https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [20 Grandes Exitos](https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C) | 3:09 |
-| 82 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 81 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 82 | [Violeta](https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [20 Grandes Exitos](https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C) | 3:09 |
 | 83 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
 | 84 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 |
 | 85 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |

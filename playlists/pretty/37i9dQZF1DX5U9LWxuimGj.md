@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Sammy Arriaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,694 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,716 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 12 | [Digas Lo Que Digas](https://open.spotify.com/track/4fU9fshN8bkL50700ci5tv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Digas Lo Que Digas](https://open.spotify.com/album/0B6yvJLElPicI1x4iPGKVK) | 3:46 |
 | 13 | [Qué Ganas](https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:37 |
 | 14 | [Brothers](https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Brothers](https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM) | 3:24 |
-| 15 | [La Niña](https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:35 |
+| 15 | [La Niña](https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:35 |
 | 16 | [A las 12 Te Olvidé](https://open.spotify.com/track/6u1UWAkgEhlGzYe24QNFxg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAASHVILLE](https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P) | 3:44 |
 | 17 | [La Que Bateaste](https://open.spotify.com/track/0K0bKMqTpHioTYqGm3xrCN) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [En Otra Vida](https://open.spotify.com/album/3TJFoKzARj4Zoz8BaTDqR8) | 2:19 |
 | 18 | [Cold Blooded](https://open.spotify.com/track/4FKURHEBJawl7Da2OIocSz) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Cold Blooded](https://open.spotify.com/album/5JosVPtHNfu2O4m0QTIfab) | 2:41 |

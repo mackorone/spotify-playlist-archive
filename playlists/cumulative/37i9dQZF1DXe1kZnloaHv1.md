@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-83 songs - 4 hr 27 min
+84 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,5 +91,6 @@
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
+| [퇴근송](https://open.spotify.com/track/3ng50xRbD3N6DQ4spEV95u) | [Mozzi Melody](https://open.spotify.com/artist/3lS7ikkk4ZZPpq2K2gbTCv), [서다람](https://open.spotify.com/artist/4LilDDUso3RAK8xYxOoDWB) | [퇴근송](https://open.spotify.com/album/2xxlleJJyP8gWA2wHhZ7tp) | 3:12 | 2025-04-30 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

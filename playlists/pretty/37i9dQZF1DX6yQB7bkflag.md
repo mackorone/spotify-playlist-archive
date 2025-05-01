@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,179 likes - 117 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,175 likes - 117 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 86 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 87 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 |
 | 88 | [No No No](https://open.spotify.com/track/5YhykvC5DZYGqxxq9OBdIA) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Adam Zeins](https://open.spotify.com/artist/5jG35LMoM4xAQLz2RBg4XQ) | [No No No](https://open.spotify.com/album/7J0Mq5b6iiHQQaAzNcpPVx) | 2:58 |
-| 89 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
+| 89 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
 | 90 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 |
 | 91 | [Tak Satu Cerita](https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Satu Cerita](https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv) | 3:46 |
 | 92 | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad) | 4:41 |

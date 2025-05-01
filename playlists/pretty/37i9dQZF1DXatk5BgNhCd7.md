@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  ELENA ROSE, Camilo & Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,233 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,232 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 95 | [Cosas Pendientes](https://open.spotify.com/track/1TVfQEk0GYwfgCyajd1bNC) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Cosas Pendientes](https://open.spotify.com/album/54GetTgDwtsTB1rFfJTWi3) | 3:04 |
 | 96 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 |
 | 97 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 |
-| 98 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
+| 98 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 99 | [Nuestra Canción](https://open.spotify.com/track/6lK0niJHknZWdogHBGQDSR) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Nuestra Canción](https://open.spotify.com/album/4RCkuee3gtodGWyP8vc9pG) | 3:31 |
 
 Snapshot ID: `aAvHmAAAAADRnAqRBTqc9FJsKSFTTw8Y`

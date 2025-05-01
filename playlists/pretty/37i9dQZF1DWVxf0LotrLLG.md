@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Cazzu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,593 likes - 147 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,613 likes - 147 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 36 | [MI LULI](https://open.spotify.com/track/7tTGV9vuAwhgOA8QpAHF6V) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 2:17 |
 | 37 | [FUE CULPA TUYA](https://open.spotify.com/track/71N3UjxfXEWljGkjBDcnNY) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:10 |
 | 38 | [POR EL EX NO SE LLORA](https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:04 |
-| 39 | [ARRUINAME LA VIDA](https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:10 |
+| 39 | [ARRUINAME LA VIDA](https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:10 |
 | 40 | [secuestro](https://open.spotify.com/track/4huJ0Fow4zyt0FggO1tBaJ) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z) | 3:14 |
 | 41 | [de la rose](https://open.spotify.com/track/3p8N6QWmzZxtBKmbT9kPy7) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [dile no a las drogas](https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z) | 3:13 |
 | 42 | [no soy 2.0](https://open.spotify.com/track/6QDP2lBtdNx3MtwCSO8gTB) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [no soy 2.0](https://open.spotify.com/album/7kJFDsA9D2mivO1ut2TqNq) | 4:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 265 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 265 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 62 | [Love Incredible \(feat\. Camila Cabello\)](https://open.spotify.com/track/6tLJ4T7PJPekOrQuSWuL0L) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 2:59 |
 | 63 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
 | 64 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
-| 65 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
-| 66 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 65 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 66 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
 | 67 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 |
 | 68 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 69 | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/track/1qJjofprTOxvqkIAdDixaP) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/album/2FOoa928JSQv3n6vQ5CKDY) | 4:28 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 264 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 265 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbwGyAAAAABc9VEtHA8EAat3yx59ykvT`
+Snapshot ID: `AbwMVAAAAAAK7B1jd5z3fCjTLkfpsMCR`

@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 31 | [Cómo Ves](https://open.spotify.com/track/578vuqrSQwvB0Kec4bTN1G) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 3:18 |
 | 32 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 33 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 |
-| 34 | [Tragos En Mi Mesa](https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4RmBffeqCWf8nG39vydGv7) | 3:17 |
-| 35 | [Examen de Tristeza](https://open.spotify.com/track/2SocElbfCrZro6TBLdfGpp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Examen de Tristeza](https://open.spotify.com/album/2rECZItHNLUi8lo1Qthke5) | 3:04 |
+| 34 | [Examen de Tristeza](https://open.spotify.com/track/2SocElbfCrZro6TBLdfGpp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Examen de Tristeza](https://open.spotify.com/album/2rECZItHNLUi8lo1Qthke5) | 3:04 |
+| 35 | [Tragos En Mi Mesa](https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4RmBffeqCWf8nG39vydGv7) | 3:17 |
 | 36 | [Mentira No Es](https://open.spotify.com/track/5FCgAX7k4f3FxlMWj7WIEw) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Mentira No Es](https://open.spotify.com/album/3ci1tvSNex0gbdl7JwiOSO) | 2:50 |
 | 37 | [A Ver Cómo Le Haces](https://open.spotify.com/track/7E3UrySjZ5OL5Xo5j72ayR) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amor Ranchero](https://open.spotify.com/album/6FvBBSD0Pdn5NCM28khRHS) | 3:59 |
 | 38 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 61 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 62 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `AbwGqgAAAADTdDGlhljdMVH2fWUwTe28`
+Snapshot ID: `AbwMfAAAAAAcyV/PcmQicnWrzVAjf1Sd`

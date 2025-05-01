@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,707 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,717 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 53 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
 | 54 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
 | 55 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 |
-| 56 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
+| 56 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
 | 57 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |
-| 58 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
+| 58 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
 | 59 | [Te Buscare](https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI) | [La Orquesta Joven](https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:19 |
 | 60 | [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 |
 | 61 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 74 | [Entre Tu Y Yo](https://open.spotify.com/track/2mInd0Utcfprbtb1k2U3ez) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:34 |
 | 75 | [El Negrito Del Batey](https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 3:18 |
 | 76 | [Me Tiene Amarrao](https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:26 |
-| 77 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
-| 78 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
+| 77 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
+| 78 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
 | 79 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
 | 80 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
 | 81 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |

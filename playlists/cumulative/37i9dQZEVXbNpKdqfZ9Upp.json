@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 249960,
       "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 143349,
       "name": "Bailalo Rocky",
       "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
@@ -10362,7 +10362,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF"
@@ -15226,7 +15226,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -18234,7 +18234,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 157974,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/0auX6W6oLjO9cHmx4UTaNj"
@@ -21483,6 +21483,24 @@
     },
     {
       "album": {
+        "name": "HEAVY LOVE",
+        "url": "https://open.spotify.com/album/6IPnW1tlA4tZ2RNP77STlv"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142261,
+      "name": "HEAVY LOVE",
+      "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
+    },
+    {
+      "album": {
         "name": "Hecha Pa' M\u00ed",
         "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
       },
@@ -21834,7 +21852,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
@@ -24204,7 +24222,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 143133,
       "name": "ITTY BITTY",
       "url": "https://open.spotify.com/track/6ho5dJJZp3z0dv4DnE34J5"
@@ -32402,7 +32420,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 196363,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/5NgOyGbjn1thsYFDaEsPk4"
@@ -33076,7 +33094,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
@@ -36774,7 +36792,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj"
@@ -37002,7 +37020,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 259497,
       "name": "One Dancehall",
       "url": "https://open.spotify.com/track/43XsZPGa1HOvmSW2stFROO"

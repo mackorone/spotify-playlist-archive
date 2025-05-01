@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 84 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,111 likes - 84 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
 | 2 | [Katuvalot](https://open.spotify.com/track/3m6zdX1SsKplLsLKIO8DH3) | [CVPRI](https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz) | [Katuvalot](https://open.spotify.com/album/0VQmiMRuOAQwGNCyggwpLh) | 3:21 |
 | 3 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
-| 4 | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/track/2IiddvoKy87vaUihFDhw0c) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/album/6qJNYMtP70JTJQUbwoqFoI) | 3:06 |
+| 4 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
 | 5 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
-| 6 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
-| 7 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
-| 8 | [Seitsemän Merta](https://open.spotify.com/track/4tbcC56wiZnNNJoxMwIFqx) | [Archie Cruz](https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ) | [Seitsemän Merta](https://open.spotify.com/album/02HsvDA4GPHkGgickLyei1) | 3:50 |
-| 9 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
+| 6 | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/track/2IiddvoKy87vaUihFDhw0c) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/album/6qJNYMtP70JTJQUbwoqFoI) | 3:06 |
+| 7 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
+| 8 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
+| 9 | [Seitsemän Merta](https://open.spotify.com/track/4tbcC56wiZnNNJoxMwIFqx) | [Archie Cruz](https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ) | [Seitsemän Merta](https://open.spotify.com/album/02HsvDA4GPHkGgickLyei1) | 3:50 |
 | 10 | [Liekki palaa!](https://open.spotify.com/track/56S56MXwKORuVdb0wVy9ZU) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Liekki palaa!](https://open.spotify.com/album/5aA86D8YDUITuuhvlC3uqH) | 3:19 |
 | 11 | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz) | 2:58 |
 | 12 | [Rakkaudesta](https://open.spotify.com/track/2O2TxG5yAhFUtED3PmRfLZ) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Rakkaudesta](https://open.spotify.com/album/7BNaFKfwhKJjb6UGn3Szvm) | 3:48 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 83 | [Tuli palaa siltojen alla](https://open.spotify.com/track/1TNO0iMLRJsdqLh0I8PJjX) | [Pyhät Nuket](https://open.spotify.com/artist/6pIwg2AXb0G7jrSsp25Fp3) | [Tuli palaa siltojen alla](https://open.spotify.com/album/2yZYW7aF8hj5RiHz9XjkUs) | 3:41 |
 | 84 | [Hellä sydän](https://open.spotify.com/track/4wzutrjgyi3Np245Bp38sc) | [MJ Kangasniemi](https://open.spotify.com/artist/6ZpIilfEvBMePnyOTFwdkj) | [Hellä sydän](https://open.spotify.com/album/7a2gHeWVoJdDPwkoxn5KxO) | 3:33 |
 
-Snapshot ID: `aAqmlAAAAACamYhXzJO6SMvhNLYxwdBb`
+Snapshot ID: `aBIOPAAAAAB5xBXcSMQMKil0ADw+ux4z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,905 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,909 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 43 | [Vroom Vroom](https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:36 |
 | 44 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
 | 45 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
-| 46 | [テレテレパシー](https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:13 |
+| 46 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 |
 | 47 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
-| 48 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 |
+| 48 | [テレテレパシー](https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:13 |
 | 49 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
 | 50 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 |
 

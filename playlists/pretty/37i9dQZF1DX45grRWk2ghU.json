@@ -1,6 +1,6 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 734215,
+  "num_followers": 734615,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -867,30 +867,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
-      "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Choose Your Fighter (From Barbie The Album)",
         "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 274766,
       "name": "YA YA",
       "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
+      "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
     },
     {
       "added_at": "2024-11-11 18:08:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Doctor Jones",
-      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146854,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 146854,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+      "duration_ms": 142265,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1235,22 +1251,6 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "added_at": "2024-08-03 15:31:45",

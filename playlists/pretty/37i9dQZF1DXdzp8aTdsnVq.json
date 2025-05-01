@@ -1,15 +1,123 @@
 {
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Peter Manjarr\u00e9s",
-  "num_followers": 368029,
-  "original_name": "Lo + del Vallenato",
+  "description": "Celebrando la 58a edici\u00f3n del Festival de la Leyenda Vallenata, con Omar Geles en portada.",
+  "num_followers": 368036,
+  "original_name": "Lo + del Festival Vallenato 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+91SgAAAABUtcoeuSDTbEslxw1gLn7F",
+  "snapshot_id": "aBKNaQAAAAAKJh33sy+bFMx9+sv0FTA/",
   "tracks": [
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Por Ellas",
+        "url": "https://open.spotify.com/album/4KBl8Rvd8SE9hHIptdxLTp"
+      },
+      "artists": [
+        {
+          "name": "Yohan Usuga",
+          "url": "https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ"
+        },
+        {
+          "name": "Hebert Vargas",
+          "url": "https://open.spotify.com/artist/5LIulxyhL1bYKZzThgO0zI"
+        },
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        },
+        {
+          "name": "Alex Manga",
+          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
+        },
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+        },
+        {
+          "name": "Churo Diaz",
+          "url": "https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey"
+        },
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        },
+        {
+          "name": "Wilfran Castillo",
+          "url": "https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Por Ellas",
+      "url": "https://open.spotify.com/track/3n0Jrxvy5Fo9eJt37Fhu4D"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "Una Hoja en Blanco",
+      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "'TA MALO",
+        "url": "https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 190076,
+      "name": "BACANO",
+      "url": "https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "El Nobel del Amor",
+        "url": "https://open.spotify.com/album/4mMDti7Fi3BQyLZUPuan7f"
+      },
+      "artists": [
+        {
+          "name": "Poncho Zuleta",
+          "url": "https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Amor a Siete Mares",
+      "url": "https://open.spotify.com/track/4kBzxVRXzabfSgojB9Go1r"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "La Jerarqu\u00eda",
         "url": "https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU"
@@ -29,7 +137,27 @@
       "url": "https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Volv\u00ed a So\u00f1ar",
+        "url": "https://open.spotify.com/album/2gdCnAEINrQFCGurm42HUr"
+      },
+      "artists": [
+        {
+          "name": "Beto Zabaleta",
+          "url": "https://open.spotify.com/artist/797OTNZjzrWCZnkRVY1Gtp"
+        },
+        {
+          "name": "Goyo Oviedo",
+          "url": "https://open.spotify.com/artist/6zWo2vISCPkSYCzUiCeWLy"
+        }
+      ],
+      "duration_ms": 288573,
+      "name": "La Formulita",
+      "url": "https://open.spotify.com/track/5Ak7Jko0c7hv4fDpX9rwIL"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "EL CANTOR",
         "url": "https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp"
@@ -49,167 +177,59 @@
       "url": "https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy"
     },
     {
-      "added_at": "2025-04-04 05:59:38",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
-        "name": "Campesino Parrandero",
-        "url": "https://open.spotify.com/album/1WivuSNJkMOOakpxNRGhDm"
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5"
       },
       "artists": [
         {
-          "name": "Jorge O\u00f1ate",
-          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Yo Comprendo - Merengue",
-      "url": "https://open.spotify.com/track/6UCuzKNdK8BMYAZIKvvwLp"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "No Damos Pa Olvidarnos",
-        "url": "https://open.spotify.com/album/6i0qg72tOuzobyy8TWNnjE"
-      },
-      "artists": [
-        {
-          "name": "Karen Lizarazo",
-          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+          "name": "Mono Zabaleta",
+          "url": "https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu"
         },
         {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+          "name": "Daniel Maestre",
+          "url": "https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202"
         }
       ],
-      "duration_ms": 216000,
-      "name": "No Damos Pa Olvidarnos",
-      "url": "https://open.spotify.com/track/2mhBxoWPpyp3vVofruuOCA"
+      "duration_ms": 240613,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
-        "name": "Sin Decir Con Quien",
-        "url": "https://open.spotify.com/album/2f96z3F2XtZvn3VBsdYJnk"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO"
       },
       "artists": [
         {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 261950,
-      "name": "Sin Decir Con Quien",
-      "url": "https://open.spotify.com/track/2pLgAAkotApT8ZIeD6CZ9o"
+      "duration_ms": 282827,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
-        "name": "Dos Horas",
-        "url": "https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq"
+        "name": "Continuando la Historia",
+        "url": "https://open.spotify.com/album/2f1sabcRf7G4woLvEmByFp"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Daniel Geles",
+          "url": "https://open.spotify.com/artist/0WkV2v3v3opDLJpvOri90b"
         }
       ],
-      "duration_ms": 218479,
-      "name": "Dos Horas",
-      "url": "https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE"
+      "duration_ms": 302607,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/4sOGuDdfYuKqldmhlG4NcB"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Acabaste Conmigo",
-        "url": "https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        },
-        {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Acabaste Conmigo",
-      "url": "https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "INALCANZABLE",
-        "url": "https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 218884,
-      "name": "INALCANZABLE",
-      "url": "https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Reina Hermosa",
-        "url": "https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 244478,
-      "name": "Reina Hermosa",
-      "url": "https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "La Juma",
-        "url": "https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE"
-      },
-      "artists": [
-        {
-          "name": "La Banda del 5",
-          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "La Juma",
-      "url": "https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "El Yoy\u00f3",
-        "url": "https://open.spotify.com/album/1BzebJAXtiPURHb0BvdFHN"
-      },
-      "artists": [
-        {
-          "name": "Ana del Castillo",
-          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
-        }
-      ],
-      "duration_ms": 212743,
-      "name": "El Yoy\u00f3",
-      "url": "https://open.spotify.com/track/1KmwTmGNFNhW4PF4KQCawj"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "A To' Timbal",
         "url": "https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO"
@@ -229,7 +249,131 @@
       "url": "https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Sin Decir Con Quien",
+        "url": "https://open.spotify.com/album/2f96z3F2XtZvn3VBsdYJnk"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        }
+      ],
+      "duration_ms": 261950,
+      "name": "Sin Decir Con Quien",
+      "url": "https://open.spotify.com/track/2pLgAAkotApT8ZIeD6CZ9o"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Dos Horas",
+        "url": "https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "Dos Horas",
+      "url": "https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Acabaste Conmigo",
+        "url": "https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Acabaste Conmigo",
+      "url": "https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "INALCANZABLE",
+        "url": "https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 218884,
+      "name": "INALCANZABLE",
+      "url": "https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "Reina Hermosa",
+        "url": "https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 244478,
+      "name": "Reina Hermosa",
+      "url": "https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "La Juma",
+        "url": "https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "La Juma",
+      "url": "https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
+      "album": {
+        "name": "El Yoy\u00f3",
+        "url": "https://open.spotify.com/album/1BzebJAXtiPURHb0BvdFHN"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "duration_ms": 212743,
+      "name": "El Yoy\u00f3",
+      "url": "https://open.spotify.com/track/1KmwTmGNFNhW4PF4KQCawj"
+    },
+    {
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Canta Vallenato Homenaje a los Compositores, Vol. 3",
         "url": "https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw"
@@ -249,23 +393,7 @@
       "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "'TA MALO",
-        "url": "https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 190076,
-      "name": "BACANO",
-      "url": "https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Para Ustedes",
         "url": "https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd"
@@ -285,7 +413,7 @@
       "url": "https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Diomedes Vive",
         "url": "https://open.spotify.com/album/19vByA1IlHGAogr4eeqier"
@@ -301,7 +429,7 @@
       "url": "https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "\u00danico",
         "url": "https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Se Va Formando",
         "url": "https://open.spotify.com/album/36jTX86gCCKfkKpzIPLQ7W"
@@ -341,7 +469,7 @@
       "url": "https://open.spotify.com/track/2aXgU9biHn0rIrBapROjNI"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/3rH6YMIS5KlgGrFRKumNrN"
@@ -361,7 +489,7 @@
       "url": "https://open.spotify.com/track/0rm6Ey3w4PrWdRac85vXN7"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Experiencias Vividas",
         "url": "https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq"
@@ -381,7 +509,7 @@
       "url": "https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Version Original",
         "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Esto Que Dice!",
         "url": "https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH"
@@ -417,7 +545,7 @@
       "url": "https://open.spotify.com/track/3Xb8tWqcrIDB3DjOIOEFrT"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1CYsPjcRZtBn8ncdOL5peO"
@@ -437,7 +565,7 @@
       "url": "https://open.spotify.com/track/4aGOjnyeBktqCHSk6otyqY"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
@@ -453,47 +581,7 @@
       "url": "https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Para Siempre, Rafael Orozco - Binomio de Oro",
-        "url": "https://open.spotify.com/album/2g8whhIgSFp5bb8m9RYE0h"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        },
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 281506,
-      "name": "Solo para Ti",
-      "url": "https://open.spotify.com/track/2dY4wa8NuS4zdHt41ahEkt"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Ella Es la Que Manda",
-        "url": "https://open.spotify.com/album/27eElNKt2w730nusrMyNyE"
-      },
-      "artists": [
-        {
-          "name": "Rafa Perez",
-          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
-        },
-        {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Ella Es la Que Manda",
-      "url": "https://open.spotify.com/track/2XS9SpugQuUoCbgc7BcPQw"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "La Solter\u00eda",
         "url": "https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT"
@@ -513,23 +601,7 @@
       "url": "https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Por un Beso de Tu Boca (Versi\u00f3n Vallenato)",
-        "url": "https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 186850,
-      "name": "Por un Beso de Tu Boca - Versi\u00f3n Vallenato",
-      "url": "https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Amor de Locos",
         "url": "https://open.spotify.com/album/2sw2LogRXON5MD6ilovWU6"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/5Jp8AQM4D8Poyxf7GsyC9W"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
         "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
@@ -577,27 +649,7 @@
       "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Esto Que Dice!",
-        "url": "https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH"
-      },
-      "artists": [
-        {
-          "name": "Diego Daza",
-          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
-        },
-        {
-          "name": "Carlos Rueda",
-          "url": "https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW"
-        }
-      ],
-      "duration_ms": 248183,
-      "name": "Diez Mil Veces T\u00fa",
-      "url": "https://open.spotify.com/track/2Kh0B090ELw2MrJd2SY1LR"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Lo Que T\u00fa Quer\u00edas, Un Vallenato",
         "url": "https://open.spotify.com/album/4kgRuOy42GJXD3tpRit3WZ"
@@ -649,7 +701,7 @@
       "url": "https://open.spotify.com/track/6Ip090WbSVb0OCM0EHFQ8v"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -665,7 +717,7 @@
       "url": "https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Poncho Zuleta 45 A\u00f1os",
         "url": "https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy"
@@ -701,7 +753,7 @@
       "url": "https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
@@ -717,7 +769,7 @@
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Las Inolvidables del Vallenato",
         "url": "https://open.spotify.com/album/1SdZM7xxAKZcRg9NaDAr5z"
@@ -733,7 +785,7 @@
       "url": "https://open.spotify.com/track/6xqTd417OZ5FDVSyX5R0wx"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Ni Un Paso Atr\u00e1s",
         "url": "https://open.spotify.com/album/2Tz1nzcBG9Ij3FbOib77cm"
@@ -753,7 +805,7 @@
       "url": "https://open.spotify.com/track/0Nkhz28DsrfoR4wbqrZV3l"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
@@ -769,7 +821,7 @@
       "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
@@ -785,7 +837,7 @@
       "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO"
@@ -801,7 +853,7 @@
       "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Serie Platino Estrellas Del Vallenato",
         "url": "https://open.spotify.com/album/5bjygLFtRwYCZMC2SGET99"
@@ -821,7 +873,7 @@
       "url": "https://open.spotify.com/track/2Rq6afZSpqismRLHVqEj2I"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -853,23 +905,7 @@
       "url": "https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
-      "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/1KbX1VuFIgsRa9JjnQtRYA"
-    },
-    {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
@@ -885,7 +921,7 @@
       "url": "https://open.spotify.com/track/6icuSHp83cy4GVtqKkohZq"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -901,7 +937,7 @@
       "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -917,7 +953,7 @@
       "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
@@ -937,7 +973,7 @@
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
@@ -953,7 +989,7 @@
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
@@ -973,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
@@ -993,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/6dYAG4yFuESDumbt1Ht8re"
@@ -1009,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4BiDQhwCSomDN7A6qGyY2r"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Jorge Celed\u00f3n S\u00f3lo Hits",
         "url": "https://open.spotify.com/album/67EsvtIlpTOT1ZT7blrORN"
@@ -1029,7 +1065,7 @@
       "url": "https://open.spotify.com/track/24ZveL4gIHiWd1xySBIlKU"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
@@ -1049,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Lo Mejor 17 Grandes Exitos",
         "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
@@ -1069,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -1085,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x"
     },
     {
-      "added_at": "2025-03-28 10:39:16",
+      "added_at": "2025-04-30 20:51:53",
       "album": {
         "name": "Ya No Me Duele M\u00e1s",
         "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
@@ -1101,6 +1137,6 @@
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
     }
   ],
-  "unique_name": "Lo + del Vallenato",
+  "unique_name": "Lo + del Festival Vallenato 2025",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq"
 }

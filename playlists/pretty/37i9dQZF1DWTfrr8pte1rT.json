@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: PhaseOne \\m/",
-  "num_followers": 340153,
+  "num_followers": 340163,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Skull n Bones",
-        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
-      },
-      "artists": [
-        {
-          "name": "Stileto",
-          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Skull n Bones",
-      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 161617,
       "name": "Seize the Power",
       "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "Skull n Bones",
+        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Skull n Bones",
+      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2171,26 +2171,18 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
+        "name": "OLDE GUARDE EP",
+        "url": "https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG"
       },
       "artists": [
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
         }
       ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+      "duration_ms": 250285,
+      "name": "OLDE GUARDE",
+      "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2255,18 +2247,26 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "OLDE GUARDE EP",
-        "url": "https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG"
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
       "artists": [
         {
-          "name": "MARAUDA",
-          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
         }
       ],
-      "duration_ms": 250285,
-      "name": "OLDE GUARDE",
-      "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2283,6 +2283,22 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2347,22 +2363,6 @@
       "duration_ms": 174797,
       "name": "Hold My Breath (Mazare Remix)",
       "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2025-04-18 13:36:41",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-04-18 13:36:41",
       "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
-      },
-      "artists": [
-        {
-          "name": "HOWL",
-          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
-    },
-    {
-      "added_at": "2025-04-18 13:36:41",
-      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 176516,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+    },
+    {
+      "added_at": "2025-04-18 13:36:41",
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     }
   ],
   "unique_name": "Rocktronic",

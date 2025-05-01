@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,743 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,771 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 23 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 24 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 25 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 |
-| 26 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
-| 27 | [Oblivion](https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oblivion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka) | 5:56 |
+| 26 | [Oblivion](https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oblivion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka) | 5:56 |
+| 27 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 28 | [Chocolate](https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:44 |
 | 29 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 30 | [Strong](https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:35 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 56 | [Reflektor](https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 7:30 |
 | 57 | [I Should Live in Salt](https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:08 |
 | 58 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
-| 59 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
-| 60 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
+| 59 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
+| 60 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
 | 61 | [The Walker](https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:53 |
 | 62 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
 | 63 | [Doses & Mimosas](https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 5:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 72 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
 | 73 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
 | 74 | [Cardiac Arrest](https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA) | 3:02 |
-| 75 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
-| 76 | [We Exist](https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:44 |
+| 75 | [We Exist](https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:44 |
+| 76 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
 | 77 | [Take It Or Leave It](https://open.spotify.com/track/4cAyxZSDlcVS6CYaeBYrIJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:27 |
 | 78 | [Forever](https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
 | 79 | [The Mother We Share](https://open.spotify.com/track/31AyUvMRDvZjyQI1N05lsT) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:11 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 84 | [Kangaroo Court](https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:43 |
 | 85 | [Recover](https://open.spotify.com/track/5lrKdr43SvPBt9evNOrULo) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:45 |
 | 86 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 |
-| 87 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 |
-| 88 | [Southern Sun](https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf) | 4:41 |
-| 89 | [Diamonds](https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Promises](https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8) | 4:02 |
+| 87 | [Southern Sun](https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf) | 4:41 |
+| 88 | [Diamonds](https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Promises](https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8) | 4:02 |
+| 89 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 |
 | 90 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 |
 | 91 | [Gun](https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:53 |
 | 92 | [Only](https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 4:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 94 | [Under The Pressure](https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 8:52 |
 | 95 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 96 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
-| 97 | [Line of Fire](https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP) | 5:39 |
-| 98 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 |
+| 97 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 |
+| 98 | [Line of Fire](https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP) | 5:39 |
 | 99 | [An Ocean In Between The Waves](https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 7:11 |
-| 100 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 |
+| 100 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 |
 
 Snapshot ID: `Z9QscwAAAAAmqqWBueEt9VsHHRkzq+yi`

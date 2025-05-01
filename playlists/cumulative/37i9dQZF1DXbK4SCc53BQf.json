@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Abatido",
+        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Makaco el Cerebro",
+          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289043,
+      "name": "Abatido",
+      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
+    },
+    {
+      "album": {
         "name": "Absoluto",
         "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
@@ -452,6 +474,24 @@
     {
       "album": {
         "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "album": {
+        "name": "Contigo",
         "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
       },
       "artists": [
@@ -708,6 +748,24 @@
       "duration_ms": 248213,
       "name": "El Gozo que tengo yo",
       "url": "https://open.spotify.com/track/233VjBHAD4cEbofjT7sGOn"
+    },
+    {
+      "album": {
+        "name": "El Gozo Que Yo Queria",
+        "url": "https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200650,
+      "name": "El Gozo Que Yo Queria",
+      "url": "https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6"
     },
     {
       "album": {
@@ -1056,7 +1114,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 206037,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/0cTmRYJz4RHabGnfJdqsPZ"
@@ -1190,6 +1248,24 @@
       "duration_ms": 178867,
       "name": "La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/5QDD1UPPDcwpB6u3Bk58lm"
+    },
+    {
+      "album": {
+        "name": "La Puerta Jubilar",
+        "url": "https://open.spotify.com/album/7fEHti6To6lppufr6Y5P71"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gael",
+          "url": "https://open.spotify.com/artist/3TifTnauGsDPu1cPGER7hv"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204461,
+      "name": "La Puerta Jubilar",
+      "url": "https://open.spotify.com/track/0XEv5UiFeT2HGv1sJ5RJuE"
     },
     {
       "album": {
@@ -1420,7 +1496,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 164271,
       "name": "Me Voy Pal Cielo",
       "url": "https://open.spotify.com/track/37yF6nTJkMBs0mmcKBqoa4"
@@ -1618,7 +1694,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 142165,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0MGskaT8GXb029IsD40jei"
@@ -2224,7 +2300,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 248944,
       "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
       "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"

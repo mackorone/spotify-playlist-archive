@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,538 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,607 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 73 | [Believe](https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Believe](https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O) | 3:57 |
 | 74 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
 | 75 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 |
-| 76 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
-| 77 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
+| 76 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
+| 77 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 | 78 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
 | 79 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
 | 80 | [On My Mind](https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [On My Mind](https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0) | 3:33 |
 | 81 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
-| 82 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
-| 83 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
+| 82 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
+| 83 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
 | 84 | [Better Broken](https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:29 |
 | 85 | [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 |
 | 86 | [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 |

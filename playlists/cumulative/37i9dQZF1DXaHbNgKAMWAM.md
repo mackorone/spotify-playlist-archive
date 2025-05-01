@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-285 songs - 16 hr 56 min
+286 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 | 2022-05-11 | 2022-07-03 |
 | [One Fine Summer Day!](https://open.spotify.com/track/7x2htaI0yOv0q0OBAsJD8n) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [One Fine Summer Day!](https://open.spotify.com/album/2eYcMwJAHkQqeAjMoljLld) | 4:08 | 2022-06-09 | 2022-06-13 |
 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 | 2023-02-24 |  |
+| [One Summer Night](https://open.spotify.com/track/4xxaW6GdasE4vYZZI1BmdZ) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [One Summer Night](https://open.spotify.com/album/5It37Xb5FJJbF8u7RkTXGT) | 3:28 | 2025-04-30 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2025-02-10 | 2025-03-27 |
 | [Only You](https://open.spotify.com/track/74KMxlbgchM6CxjMEFwKs0) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Only You](https://open.spotify.com/album/6OAjhnf8LCuUvUElAdEf6w) | 3:10 | 2022-06-20 | 2022-07-01 |
 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2022-05-11 | 2023-04-06 |
@@ -188,7 +189,7 @@
 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 | 2025-03-26 |  |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-11 | 2022-08-02 |
 | [Sea&U&I](https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9) | [polar](https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi) | [Sea&U&I](https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W) | 3:15 | 2024-03-08 |  |
-| [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 |  |
+| [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 | 2025-05-01 |
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-06-13 | 2022-07-03 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-20 |  |

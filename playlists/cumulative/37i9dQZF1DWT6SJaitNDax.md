@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Davido and Victoria Monét
 
-731 songs - 1 day 13 hr 43 min
+732 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-21 | 2024-01-26 |
 | [Shibebe](https://open.spotify.com/track/5Ujp7vES41Sc6YwN3m4GDq) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:43 | 2024-02-16 | 2024-04-06 |
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2022-03-25 | 2023-07-22 |
+| [Show Me Love \(with Tyla\)](https://open.spotify.com/track/3vuGwx5CP51j6c4xW1qD6y) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/0HzsKpnVf6iX03yfs4Cwsn) | 2:56 | 2025-04-30 |  |
 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 | 2024-03-15 |  |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-07-25 | 2023-05-15 |
 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 | 2024-01-26 | 2024-09-28 |

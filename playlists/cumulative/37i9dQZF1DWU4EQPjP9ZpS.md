@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-444 songs - 1 day 0 hr 42 min
+445 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Beijing](https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [Mine on the Street](https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk) | 3:20 | 2021-12-08 | 2025-02-15 |
 | [beta](https://open.spotify.com/track/2tyFFNffJS1ZjghWnktqR2) | [bbrainz](https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E) | [Crystal](https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU) | 1:44 | 2022-01-26 | 2024-06-05 |
 | [Better Than This](https://open.spotify.com/track/0xKwqVyNXbJhebBphoG6kT) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Sever](https://open.spotify.com/album/6K5SSoqA3aDUHjlxUgqnnt) | 3:33 | 2022-11-04 | 2023-10-31 |
-| [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 | 2021-12-08 |  |
+| [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 | 2021-12-08 | 2025-05-01 |
 | [Blackout](https://open.spotify.com/track/4IWOEuEFA50Y5ueruyzxyL) | [Liars Club 88](https://open.spotify.com/artist/1AnZycFby3I4T5gPZEcCJE) | [Dreamlapse](https://open.spotify.com/album/6ENImuNz3irkSPfg5Avmmv) | 2:43 | 2021-12-08 | 2022-07-26 |
 | [Blue](https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb) | [bl00dwave](https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH), [Riverwave](https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi) | [Blue](https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7) | 2:26 | 2022-06-06 | 2024-04-19 |
 | [Blue](https://open.spotify.com/track/550eMDZd8KgSxJLNwptidY) | [bl00dwave](https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH), [Riverwave](https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi) | [Blue](https://open.spotify.com/album/2PvVCVpRlhobpqHWICq92c) | 2:26 | 2021-12-08 | 2022-07-29 |
@@ -330,6 +330,7 @@
 | [Skytrot](https://open.spotify.com/track/75xQjEq9XI7xfDsX2p1NAF) | [Equip](https://open.spotify.com/artist/3IOhNbmcUbaMuJkmyfkfE0) | [I Dreamed of a Palace in the Sky](https://open.spotify.com/album/3ZT5yVm7HWx0XoOyMXe62h) | 2:40 | 2022-01-26 | 2022-04-13 |
 | [Slow Kiss](https://open.spotify.com/track/3vI4aXieRTOzduSpl3LQXM) | [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Slow Kiss](https://open.spotify.com/album/25K1dYGl92NxLBGzCW6L7P) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [SNAKE WAY](https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:07 | 2021-12-08 |  |
+| [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 | 2023-07-18 |  |
 | [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [glhf](https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 | 2023-07-18 |  |
 | [Sonic in the Holobeach](https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Sonic in the Holobeach](https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau) | 4:16 | 2021-12-08 |  |
 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 | 2022-04-11 |  |

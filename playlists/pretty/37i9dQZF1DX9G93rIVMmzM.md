@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,817 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,941 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 20 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
 | 21 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 22 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
-| 23 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
-| 24 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 23 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 24 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
 | 25 | [Overflow](https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:31 |
 | 26 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
 | 27 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 56 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 57 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |
 | 58 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
-| 59 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
-| 60 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
+| 59 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
+| 60 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
 | 61 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
 | 62 | [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 |
 | 63 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 | 64 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
 | 65 | [Ant In The Afterbirth \- feat\. Loathe](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
-| 66 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
-| 67 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
+| 66 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
+| 67 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
 | 68 | [Obsessed](https://open.spotify.com/track/4N2VXLqPf1WC9Pb2X4Tn4F) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Obsessed](https://open.spotify.com/album/17ujSCNWjqD1fcbMbvxUz7) | 3:09 |
 | 69 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 70 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 |

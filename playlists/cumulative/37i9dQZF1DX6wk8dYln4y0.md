@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: PinkPantheress
 
-476 songs - 1 day 1 hr 57 min
+477 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Cruel Summer \- triple j Like A Version](https://open.spotify.com/track/3KZmypTvRz05QxmJ3B07SU) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Cruel Summer \(triple j Like A Version\)](https://open.spotify.com/album/1SdA3KXjncfKUlPIcW5nOm) | 3:26 | 2024-02-08 | 2024-02-23 |
 | [Crush](https://open.spotify.com/track/0havv7ozSTF6wMHEDKdibs) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Crush](https://open.spotify.com/album/4RhbgW0hODMezXulWgbIBU) | 2:13 | 2025-03-27 |  |
 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2023-09-28 | 2024-06-04 |
-| [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 |  |
+| [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 | 2025-05-01 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-16 | 2023-04-04 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-13 | 2023-09-14 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-28 | 2024-02-09 |
@@ -203,6 +203,7 @@
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-22 | 2024-08-15 |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 |  |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-19 | 2025-01-12 |
+| [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-17 |  |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-05-15 | 2023-07-18 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2024-06-12 |
 | [Hounds](https://open.spotify.com/track/11YCHFUaBsofGaPFdiruzG) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Hounds](https://open.spotify.com/album/2FaOlceM6uGfvdpeEXvDFq) | 3:23 | 2025-02-13 | 2025-03-07 |

@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 155000,
       "name": "Ballerina Waltz",
       "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Coastlines",
+        "url": "https://open.spotify.com/album/0euO2gH26YsAa9UB893u9E"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144888,
+      "name": "Coastlines",
+      "url": "https://open.spotify.com/track/7of61zdicsdOIVMowtY6OJ"
+    },
+    {
+      "album": {
         "name": "Color Me Blue",
         "url": "https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF"
       },
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 164354,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE"
@@ -10564,7 +10582,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 129640,
       "name": "Ponceau",
       "url": "https://open.spotify.com/track/1qCrvHUu3jt5oSpvYaVrwH"
@@ -14321,6 +14339,24 @@
     },
     {
       "album": {
+        "name": "The Limestone",
+        "url": "https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0"
+      },
+      "artists": [
+        {
+          "name": "Maxim Slanov",
+          "url": "https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144041,
+      "name": "The Limestone",
+      "url": "https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi"
+    },
+    {
+      "album": {
         "name": "The Melody",
         "url": "https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo"
       },
@@ -14620,7 +14656,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 160124,
       "name": "The Time Remains",
       "url": "https://open.spotify.com/track/3epjWAlUkdNkDrpDL1wNPS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,932 likes - 230 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,177 likes - 230 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 229 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 |
 | 230 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 |
 
-Snapshot ID: `aAsI9wAAAAB5ppLKQVDQXqRWuUCD883X`
+Snapshot ID: `aAsI9wAAAADPnrY89xY7jPRTf6swxCBL`

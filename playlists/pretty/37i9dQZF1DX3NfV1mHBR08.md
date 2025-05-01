@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,718 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,703 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 6 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 |
 | 7 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 | 8 | [Enjoy This Moment](https://open.spotify.com/track/1cXgYnlavy0ZCPKVCSNL9K) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Cheer Up \(Original Soundtrack Part.4\) \- Single](https://open.spotify.com/album/11ZlYSJRPT7aRGcNRJd1rv) | 3:05 |
-| 9 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 9 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
 | 10 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
-| 11 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
+| 11 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 12 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 13 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
 | 14 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
@@ -32,19 +32,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 22 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [Mirae Yoon](https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |
 | 23 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 24 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
-| 25 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
-| 26 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
+| 25 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
+| 26 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
 | 27 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
-| 28 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
-| 29 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
-| 30 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
+| 28 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
+| 29 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 30 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
 | 31 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 32 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 33 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 |
 | 34 | [그렇더라고요](https://open.spotify.com/track/419Oc8GGyLPEpR6UNWgdqO) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/1zqzCp8Fa4R4IpYKN4wIkV) | 3:46 |
 | 35 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
-| 36 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
-| 37 | [I'm happy](https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 3:41 |
+| 36 | [I'm happy](https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 3:41 |
+| 37 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 38 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
 | 39 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 40 | [Happiness](https://open.spotify.com/track/23F5idO5E81O3VatxedjQM) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Happiness](https://open.spotify.com/album/54Or2CfKCxw4UK1U0Sbgc8) | 4:07 |

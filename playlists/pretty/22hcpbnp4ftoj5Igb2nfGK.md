@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 85 songs - 4 hr 40 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 83 | [On Sight](https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 2:36 |
 | 84 | [BLOOD.](https://open.spotify.com/track/1n4jwRVXdkK2U34nBDUKKT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 1:58 |
 | 85 | [Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:59 |
+| 86 | [ALICE.](https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:59 |
 
-Snapshot ID: `AAAF2wbnO6LyKvcd2eop9US4s79CLRQt`
+Snapshot ID: `AAAF3fEDJit/5o8Y3s/xM5HKdgUSooZO`

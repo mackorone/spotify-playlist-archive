@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,072 likes - 91 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,217 likes - 91 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

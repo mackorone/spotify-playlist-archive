@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,723 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,765 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soube que me Amava \(Supe que me Amabas\)](https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Amo Você Vol\. 13](https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t) | 4:23 |
 | 2 | [Tantos Mares](https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Gabriella Stehling](https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ) | [Tantos Mares](https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd) | 4:40 |
-| 3 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
-| 4 | [Que Bom Você Chegou](https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:25 |
+| 3 | [Que Bom Você Chegou](https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:25 |
+| 4 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
 | 5 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 |
 | 6 | [Só Você](https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:22 |
 | 7 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
 | 8 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
 | 9 | [Beijo no Altar](https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 4:21 |
-| 10 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
-| 11 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 10 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 11 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
 | 12 | [Um Verso de Amor](https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd) | [Pamela Falando de Amor](https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU) | 4:44 |
 | 13 | [Meu Eterno Namorado](https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Som Gospel](https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe) | 4:42 |
 | 14 | [Desde o Primeiro Sim](https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Desde o Primeiro Sim](https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y) | 4:28 |

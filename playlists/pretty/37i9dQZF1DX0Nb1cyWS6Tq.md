@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,804 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,954 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
 | 80 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 |
 
-Snapshot ID: `AAAAAKgEHUSP0Y9n1KhVD2w8p0n3a/H8`
+Snapshot ID: `Z7TVbQAAAAByl2vGXem4XZXqxq5TQEqt`

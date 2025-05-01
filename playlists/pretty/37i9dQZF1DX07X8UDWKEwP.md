@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luck Ra
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,939 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,952 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 18 | [Si Te Vas](https://open.spotify.com/track/6IOmsEyyewU3dYMBriWXJH) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Si Te Vas](https://open.spotify.com/album/6yPNExw8byy9ussXT7e08i) | 3:22 |
 | 19 | [Carito](https://open.spotify.com/track/4yAYtGDz2jO7a9o85sQ2xc) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Carito](https://open.spotify.com/album/38ezDtg7olJiCmHOKTDzR8) | 3:11 |
 | 20 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |
-| 21 | [Luna Llena](https://open.spotify.com/track/2YsCkvj5c0A0IZGgtX06TM) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ebenezer Guerra](https://open.spotify.com/artist/0N9CwW3fHFFwfaXpKR4Nrw) | [Luna Llena](https://open.spotify.com/album/63CHZBycpIymGZ6vaGwK1l) | 3:31 |
+| 21 | [Luna Llena](https://open.spotify.com/track/2YsCkvj5c0A0IZGgtX06TM) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ebenezer Guerra](https://open.spotify.com/artist/0N9CwW3fHFFwfaXpKR4Nrw) | [Luna Llena](https://open.spotify.com/album/63CHZBycpIymGZ6vaGwK1l) | 3:33 |
 | 22 | [Vuelve](https://open.spotify.com/track/7qG48IKqEo6XlwOuiIYlM7) | [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Loco Soñador](https://open.spotify.com/album/3sxr9xEE3vRzEYrsl3Juck) | 4:01 |
 | 23 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
 | 24 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 25 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
-| 26 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
+| 26 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 27 | [Sin Ti](https://open.spotify.com/track/2GNEArd59zAaf8oub51uB7) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Sin Ti](https://open.spotify.com/album/45fp0ZTkX3qUEElMKHS98L) | 4:10 |
 | 28 | [Loco Enamorao](https://open.spotify.com/track/2C9wgqVgp2a8mfYDy0cBdG) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Loco Enamorao](https://open.spotify.com/album/7CPL4wlEuAjNfubaCRrJlN) | 2:55 |
 | 29 | [Sobra y Falta](https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sobra y Falta](https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > este día del amor y la amistad enciende la llama de la pasión con El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,809 likes - 85 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,845 likes - 85 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 18 | [Azótame](https://open.spotify.com/track/08EMYv1x3pKAmO9MIrH1kj) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Poeta Callejero](https://open.spotify.com/album/55Klrd2xEAMoW0Vr5gKCJ1) | 2:38 |
 | 19 | [En Las Noches Frias](https://open.spotify.com/track/5ADrOgdsPV1BjT8RmlV6PC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Real G 4 Life](https://open.spotify.com/album/6oGXALVuSmMjwfXZeOCw7e) | 4:15 |
 | 20 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
-| 21 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 |
+| 21 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 |
 | 22 | [Déjala \(feat\. Duende\)](https://open.spotify.com/track/0k4UXBC9700xNV7P0bZgTR) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Duende](https://open.spotify.com/artist/2E3tmoNU7fIzncQ9DUI9Eh) | [Te Quiero](https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1) | 3:34 |
 | 23 | [Bachata Rosa](https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:17 |
 | 24 | [T.T.I.](https://open.spotify.com/track/4gPpYLervKt4cXmhUjpYLj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [T.T.I.](https://open.spotify.com/album/03YFpTGFMc4pr73yZ7vy6h) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-218 songs - 11 hr 48 min
+220 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 | 2023-12-08 | 2024-03-02 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-22 |  |
 | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 | 2024-07-13 |  |
+| [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-30 |  |
 | [Always Be Mine](https://open.spotify.com/track/7dG5PEETAeTTPGDBitMnOo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Always Be Mine](https://open.spotify.com/album/3JJQ2x9Egr2mHPlaeCFOUN) | 3:03 | 2024-07-06 | 2024-11-02 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-11-02 |  |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/1i07MlxQIuFSqNX3x3LkJH) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/album/0VzAK7qF5GcvFbNlCmt0YL) | 2:51 | 2024-03-19 |  |
@@ -34,6 +35,7 @@
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-02-04 |  |
 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 | 2024-07-22 | 2024-11-02 |
 | [Born](https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 4:12 | 2024-03-22 |  |
+| [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 | 2025-04-30 |  |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-09 | 2024-07-23 |
 | [Bye Bye Bye](https://open.spotify.com/track/7Izl4h5dmmcfZiWp75nPeA) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1BLiY39zlAqsAOslJFUWn6) | 2:29 | 2024-09-14 |  |
 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-12-08 | 2024-01-27 |

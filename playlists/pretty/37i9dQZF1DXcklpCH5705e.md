@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: 韋禮安& 東海
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,025 likes - 58 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,028 likes - 58 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

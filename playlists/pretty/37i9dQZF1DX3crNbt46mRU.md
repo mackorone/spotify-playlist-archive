@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Nemo, Lorde,  Benson Boone and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,986 likes - 120 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,994 likes - 120 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Bandalos Chinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,565 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,570 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 44 | [no sé de amor \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 3:15 |
 | 45 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
 | 46 | [Perdido](https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Dime Precioso](https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW) | 3:32 |
-| 47 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
-| 48 | [dejarse querer](https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [dejarse querer](https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV) | 3:02 |
+| 47 | [dejarse querer](https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [dejarse querer](https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV) | 3:02 |
+| 48 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
 | 49 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 |
 | 50 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
 | 51 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 55 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 56 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
 | 57 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 |
-| 58 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
-| 59 | [Feeling Low](https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feeling Low](https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j) | 3:41 |
+| 58 | [Feeling Low](https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feeling Low](https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j) | 3:41 |
+| 59 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
 | 60 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 |
 | 61 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
 | 62 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |

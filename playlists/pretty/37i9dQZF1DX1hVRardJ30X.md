@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko,  Feid, Cazzu and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,138 likes - 57 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,196 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

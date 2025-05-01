@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Katerina Lioliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,344 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,347 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 23 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
 | 24 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
 | 25 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
-| 26 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
-| 27 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
+| 26 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
+| 27 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
 | 28 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
 | 29 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
 | 30 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 34 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
 | 35 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 |
 | 36 | [Efyge?](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge?](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 3:21 |
-| 37 | [Alitheia](https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Alitheia](https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2) | 2:52 |
+| 37 | [To Pairno Pano Mou](https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [To Pairno Pano Mou](https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD) | 3:10 |
 | 38 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
-| 39 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
-| 40 | [To Pairno Pano Mou](https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [To Pairno Pano Mou](https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD) | 3:10 |
+| 39 | [Alitheia](https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Alitheia](https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2) | 2:52 |
+| 40 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
 | 41 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
 | 42 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
 | 43 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |

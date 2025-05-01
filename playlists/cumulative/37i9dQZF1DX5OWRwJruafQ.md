@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-606 songs - 1 day 5 hr 0 min
+607 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Gabru Da Naam](https://open.spotify.com/track/3EGPTsAzyW5HVuhcB7KdAV) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Gabru Da Naam](https://open.spotify.com/album/1umPYrCIxwJXAKpFJUs9Td) | 3:18 | 2023-11-06 | 2023-11-16 |
 | [Gaddi](https://open.spotify.com/track/7kKzZe40RUyKHWSIQxQehy) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Gaddi](https://open.spotify.com/album/6k6hDbaEZumhfTd9xplzVN) | 3:46 | 2023-04-21 | 2024-04-19 |
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-29 | 2023-07-15 |
+| [Galbat Boldi](https://open.spotify.com/track/6EcksI7ouzPgreQRnP2IN2) | [Jot Jamsher](https://open.spotify.com/artist/5ziUnPezHP9uUPzRuWnV0m) | [Galbat Boldi](https://open.spotify.com/album/1FtjXZGKD0FPRzuO0feJdW) | 2:06 | 2025-04-30 |  |
 | [Gallan Hundiyan \- From "Majhail"](https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gallan Hundiyan \(From "Majhail"\)](https://open.spotify.com/album/4eXHXXfO93us9UtOjbtpo1) | 2:02 | 2025-01-25 |  |
 | [Game](https://open.spotify.com/track/0TNB0RJsCi4WmeYtRqyAdt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Game](https://open.spotify.com/album/3yVTUGFUELk79kX3ahcULT) | 4:34 | 2025-03-19 |  |
 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 | 2025-02-12 |  |
@@ -586,7 +587,7 @@
 | [Wardaat 2](https://open.spotify.com/track/1m19oybJSfGtSrLrOZZ8EY) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Ellde Fazilka](https://open.spotify.com/artist/1d4aAalhBQWy4cyyorxNHc) | [Wardaat 2](https://open.spotify.com/album/3nF4DVZlZdOXBnmCQrZMSo) | 3:40 | 2025-02-04 | 2025-02-25 |
 | [Warriors Of Punjab](https://open.spotify.com/track/3zPf2zmCJQK3MbjAr1iU7Y) | [Jassi Sohal](https://open.spotify.com/artist/45fT4owqYRKTnrtLiAN9wZ) | [Warriors Of Punjab](https://open.spotify.com/album/2IhWbpmBN0yNCSQYpB3UKB) | 3:27 | 2024-11-20 | 2025-01-08 |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2023-11-12 | 2024-11-14 |
-| [Watchin'You](https://open.spotify.com/track/031OuGmiw1NmcmanAVU0Jg) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Watchin'You](https://open.spotify.com/album/6RL4EUVZIvUKOHl8ikahpY) | 2:17 | 2025-04-04 |  |
+| [Watchin'You](https://open.spotify.com/track/031OuGmiw1NmcmanAVU0Jg) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Watchin'You](https://open.spotify.com/album/6RL4EUVZIvUKOHl8ikahpY) | 2:17 | 2025-04-04 | 2025-05-01 |
 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2024-02-02 |  |
 | [WE COMIN](https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [WE COMIN](https://open.spotify.com/album/5VWb9LIu3gpoCHxEFxpMJY) | 3:08 | 2024-08-13 | 2024-09-03 |
 | [We Different](https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [We Different](https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e) | 2:25 | 2024-05-10 | 2024-07-19 |

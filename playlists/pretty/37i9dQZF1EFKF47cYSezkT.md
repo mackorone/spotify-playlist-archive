@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 48 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
 | 49 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
 | 50 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
-| 51 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
-| 52 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
+| 51 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
+| 52 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
 | 53 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
 | 54 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
 | 55 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 57 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 58 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbwGtAAAAACeT9OyfmihM8qbWKd9c8SN`
+Snapshot ID: `AbwMSgAAAACwSBsiSp375eEwje6f37F/`

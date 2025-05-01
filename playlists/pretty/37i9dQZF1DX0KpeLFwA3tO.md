@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Heart Attack Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,971 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,017 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 8 | [Ill at Ease](https://open.spotify.com/track/3359sTGFONdK9BmVsUzWpG) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Ill at Ease](https://open.spotify.com/album/3fpHEfrCtFDJt0y7iRtSoa) | 5:29 |
 | 9 | [Do Me Like That](https://open.spotify.com/track/1y6lq1wrAspWEgRJmYb11S) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do Me Like That](https://open.spotify.com/album/0K6JEVAdFzj7ZVT2raDeYr) | 3:31 |
 | 10 | [The Hogg](https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [The Hogg](https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA) | 3:20 |
-| 11 | [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 |
+| 11 | [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Pat Flynn](https://open.spotify.com/artist/0QSSTVzzZDsKY9ga5YFqtc) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 |
 | 12 | [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 |
 | 13 | [Who's Laughing Now](https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Who's Laughing Now](https://open.spotify.com/album/5SWP3r7Lw6ENV9EHsP4EBi) | 3:18 |
 | 14 | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/album/7D634spauV9sF64ndg5NgF) | 1:58 |

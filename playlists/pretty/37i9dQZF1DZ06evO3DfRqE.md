@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,283 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,285 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 15 | [Pianoforte](https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 2:51 |
 | 16 | [Find Yourself](https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:09 |
 | 17 | [Wai\` Alae](https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 2:28 |
-| 18 | [Aloha E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 |
+| 18 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 |
 | 19 | [タイム・アフター・タイム](https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:08 |
 | 20 | [Why Not](https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 |
 | 21 | [フラガール \- アコースティック・ヴァージョン](https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-792 songs - 1 day 9 hr 46 min
+794 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bittersweet](https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Bittersweet](https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n) | 3:20 | 2024-11-26 |  |
 | [Black eyed dog](https://open.spotify.com/track/2DENCfhn50slvRKvF9pqcI) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Black eyed dog](https://open.spotify.com/album/5hUgi7lXgzbk27XorSx4zk) | 3:02 | 2022-07-15 | 2022-09-17 |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-12-19 |
+| [Blond](https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Blond](https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel) | 2:52 | 2025-04-29 |  |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 | 2024-09-26 |
 | [Blue Bossa](https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Jazz Standards for Acoustic Guitar vol 1](https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC) | 1:44 | 2022-10-07 | 2023-04-22 |
@@ -284,6 +285,7 @@
 | [Golden Bridge](https://open.spotify.com/track/5vU0QZZeSA0lGBZiF9ZH1T) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Golden Bridge](https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ) | 2:21 | 2025-02-24 |  |
 | [Golden Hour](https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Golden Hour](https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY) | 2:45 | 2023-08-10 |  |
 | [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 | 2024-05-24 |
+| [Grandpa's Old Guitar](https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX) | [Mateo Morel](https://open.spotify.com/artist/6pzAMEBXNqLJF2lhG4lwgk) | [Grandpa's Old Guitar](https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo) | 2:22 | 2025-04-29 |  |
 | [Grateful](https://open.spotify.com/track/6wtMB4RZeLMECJJEa17Mms) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Grateful](https://open.spotify.com/album/7qYmbiSAHL28rE64WOXY5l) | 2:05 | 2023-04-21 | 2024-11-02 |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-07-15 | 2022-09-17 |
 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 | 2022-07-15 | 2024-04-06 |
@@ -353,7 +355,7 @@
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2022-07-15 | 2023-03-11 |
 | [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 | 2023-04-21 | 2023-05-05 |
 | [Kaelyn](https://open.spotify.com/track/1gjaqScZGsobRdXQv4WzUq) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/5lTjGbTDkbn0eD0Ai94i5l) | 2:09 | 2023-04-21 | 2023-11-10 |
-| [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2023-04-21 |  |
+| [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2023-04-21 | 2025-05-01 |
 | [Keep a light](https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Hummingbird](https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV) | 2:21 | 2023-06-02 | 2025-02-25 |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-31 | 2023-04-22 |
 | [Kenmore](https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv) | [Dax Warner](https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9) | [Kenmore](https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B) | 3:12 | 2023-08-10 |  |
@@ -485,7 +487,7 @@
 | [Night Swim](https://open.spotify.com/track/2jPVTEbM04iucPvHAVRENU) | [Paul Turner](https://open.spotify.com/artist/7i4VoTrDKrU8S5722Zpm0V) | [Night Swim](https://open.spotify.com/album/0gaimSRqZlpxeCgfQGkhZR) | 1:20 | 2023-04-21 | 2023-05-13 |
 | [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 |  |
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-02 | 2024-07-19 |
-| [Noir](https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Noir](https://open.spotify.com/album/5XsRJdQdwseM0CLvXMCpax) | 2:08 | 2025-03-05 |  |
+| [Noir](https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Noir](https://open.spotify.com/album/5XsRJdQdwseM0CLvXMCpax) | 2:08 | 2025-03-05 | 2025-05-01 |
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2023-04-21 |  |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2023-04-21 | 2025-04-08 |
 | [Northampton](https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Northampton](https://open.spotify.com/album/1ltXX0U0dMf2eGSDTogMIG) | 2:15 | 2024-12-10 |  |

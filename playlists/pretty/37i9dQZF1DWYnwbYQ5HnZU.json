@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Blake Shelton",
-  "num_followers": 2207110,
+  "num_followers": 2207276,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
-    },
-    {
-      "added_at": "2024-12-06 16:37:49",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 262280,
       "name": "Talladega",
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+    },
+    {
+      "added_at": "2024-12-06 16:37:49",
+      "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2024-12-06 16:37:49",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2024-12-06 16:37:49",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2024-12-06 16:37:49",
-      "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2024-12-06 16:37:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2024-12-06 16:37:49",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2024-12-06 16:37:49",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2024-12-06 16:37:49",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
-    },
-    {
-      "added_at": "2024-12-06 16:37:49",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166573,
       "name": "Hotel Key",
       "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2024-12-06 16:37:49",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2024-12-06 16:37:49",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+      "duration_ms": 243666,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2024-12-06 16:37:49",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-12-06 16:37:49",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 243666,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2024-12-06 16:37:49",

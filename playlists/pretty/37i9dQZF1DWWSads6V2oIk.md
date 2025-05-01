@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,533 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,580 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 54 | [Tropical Rain Thunderbirds](https://open.spotify.com/track/2UWkZeJs7eCis4gbWdyJ7p) | [Natural Rain Sounds for Sleeping](https://open.spotify.com/artist/3uisK8V5NgLCkg6KdYmVnr) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 3:16 |
 | 55 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
 | 56 | [Wet jungle birds, crickets, and wind](https://open.spotify.com/track/39PIA9wGZKSuPBADuLwhBk) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Wet jungle birds, crickets, and wind](https://open.spotify.com/album/2w5AsB1dec413V8rHgwY6Q) | 3:41 |
-| 57 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 |
-| 58 | [Rain Falling On Tree](https://open.spotify.com/track/0obt0uwGoJXkktxoSylXVz) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:23 |
+| 57 | [Rain Falling On Tree](https://open.spotify.com/track/0obt0uwGoJXkktxoSylXVz) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:23 |
+| 58 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 |
 | 59 | [Humid Trail](https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:30 |
 | 60 | [Sierra Nevada Dawn after Rain](https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Sierra Nevada Dawn after Rain](https://open.spotify.com/album/7tpj7GkDDjYietM3PHPM4c) | 2:03 |
 | 61 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 81 | [Rainforest Dreaming](https://open.spotify.com/track/1SrBrcJ4GfJqabZyM8WoNo) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
 | 82 | [What Does The Bird Say?](https://open.spotify.com/track/1reaGaSxvi0wjAjKyzvDfX) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:32 |
 | 83 | [Rain Forest Ambience with Medium Distant Bird Chirps and Crickets with Sporadic Close up Exotic Bird Calls and Distant Howler Monkey](https://open.spotify.com/track/2znPXY4YpOqHMrmEUlcTL1) | [The Hollywood Edge Sound Effects Library](https://open.spotify.com/artist/45dR66czwTjbWT4VaTNP8l) | [Nature Ambiences, Vol\. 2](https://open.spotify.com/album/5e7gIIAYQGCJEoMHjUZYAs) | 2:51 |
-| 84 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
-| 85 | [Insects and Jungle Rain](https://open.spotify.com/track/4Fq1o5T3jMFTewig8vzd0H) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Jungle and African Wildlife](https://open.spotify.com/album/2Z7ALtog5KfzKCjwiSDsSc) | 3:00 |
+| 84 | [Insects and Jungle Rain](https://open.spotify.com/track/4Fq1o5T3jMFTewig8vzd0H) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Jungle and African Wildlife](https://open.spotify.com/album/2Z7ALtog5KfzKCjwiSDsSc) | 3:00 |
+| 85 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
 | 86 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 |
 | 87 | [The River at Night](https://open.spotify.com/track/0eXRhSS8XSELnpvJjuAybh) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [The River at Night](https://open.spotify.com/album/27d3vW77Je3b8vKAVEoEXc) | 2:42 |
 | 88 | [Forest At Sleep \- Seamless](https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Forest At Sleep](https://open.spotify.com/album/3zjxQ9nSOaUo6h8z8f6hKU) | 2:56 |

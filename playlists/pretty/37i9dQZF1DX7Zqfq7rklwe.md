@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,840 likes - 88 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,853 likes - 88 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
-| 2 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
-| 3 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
-| 4 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
-| 5 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 2 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 3 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
+| 4 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 5 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 6 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
 | 7 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
 | 8 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 87 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 88 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
 
-Snapshot ID: `aA4BjgAAAAD3LqWp1rC0AKGj2MbQ3YkQ`
+Snapshot ID: `aBIMWgAAAADY4AQfpSz485BirP7FehBR`

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,003 songs - 2 day 11 hr 20 min
+1,004 songs - 2 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-04-11 | 2023-04-13 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 |  |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-10-20 | 2023-01-13 |
-| [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-17 |  |
+| [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-17 | 2025-05-01 |
 | [jelly](https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [jelly](https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT) | 2:46 | 2024-08-14 | 2024-09-19 |
 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 | 2023-01-19 | 2023-02-03 |
 | [Juice](https://open.spotify.com/track/2jczgWXgooAYHhiIPvCCTQ) | [Smartt](https://open.spotify.com/artist/34zufPEBGYUlXneG4VQ2SI), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [Juice](https://open.spotify.com/album/1WNT8iIQEFN0V06gac5m4K) | 2:55 | 2024-09-04 | 2024-09-19 |
@@ -806,6 +806,7 @@
 | [Too good to be true](https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Too good to be true/Nightmare](https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR) | 5:12 | 2023-04-25 | 2023-05-24 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-23 | 2024-07-03 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-14 | 2024-09-01 |
+| [Touch](https://open.spotify.com/track/3Enf1N7W0iSEmOmz69rOGa) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Teje](https://open.spotify.com/artist/3iYMTXRSWCYXgm2V1adNIP) | [Touch](https://open.spotify.com/album/7kvxweSFMV87GObTzbFEo6) | 2:33 | 2025-04-30 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-23 | 2024-06-08 |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-04-16 | 2024-10-23 |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-08-31 | 2023-10-11 |

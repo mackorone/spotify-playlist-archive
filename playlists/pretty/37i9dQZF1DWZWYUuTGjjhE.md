@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,301 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,314 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 13 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
 | 14 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\) \- Single Version](https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [San Francisco](https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez) | 2:58 |
 | 15 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
-| 16 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
-| 17 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
+| 16 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
+| 17 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 18 | [Rhythm of the Rain](https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP) | [The Cascades](https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o) | [Rhythm Of The Rain](https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17) | 2:26 |
 | 19 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |
 | 20 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 55 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 |
 | 56 | [You Never Can Tell](https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [You Never Can Tell: His Complete Chess Recordings 1960 \-1966](https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM) | 2:41 |
 | 57 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
-| 58 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
-| 59 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
+| 58 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
+| 59 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 60 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 61 | [Iko Iko](https://open.spotify.com/track/2xZPpUIcajScKX99PH0fD9) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Chapel of Love](https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin) | 2:02 |
 | 62 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |

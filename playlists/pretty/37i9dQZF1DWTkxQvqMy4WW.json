@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3424905,
+  "num_followers": 3425206,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9s2p+OVSlpfuXmj5UxgOUtAdg2",
+  "snapshot_id": "aAsI7AAAAAD+gMGB1aeyDevgt5V9tRWY",
   "tracks": [
     {
       "added_at": "2025-04-25 04:00:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 205200,
       "name": "Heartache On The Dance Floor",
       "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 167426,
       "name": "Barefoot Blue Jean Night",
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "On The Rocks",
-        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/7yrJnekdlwWARt5lmVqJ6L"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Live Like You Were Dying",
         "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 300333,
       "name": "Live Like You Were Dying",
       "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/7yrJnekdlwWARt5lmVqJ6L"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Life At Best",
-        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Crazy Girl",
-      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Life At Best",
+        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Crazy Girl",
+      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 193320,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Do I Make You Wanna",
-      "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Do I Make You Wanna",
+      "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2025-04-25 04:00:44",

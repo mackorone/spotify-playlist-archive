@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,275 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,335 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 14 | [Dime](https://open.spotify.com/track/4CA51u5DLzwF9rJkQ7gbLQ) | [Lyana](https://open.spotify.com/artist/7JxGCVEB7utWxunkzzQ4zT), [Adryano](https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk) | [Dime](https://open.spotify.com/album/5snS3fYIqN05Gg6CKssxgf) | 2:41 |
 | 15 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 16 | [UN TRIO](https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [UN TRIO](https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8) | 2:37 |
-| 17 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
+| 17 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 18 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 |
 | 19 | [Comernos](https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Comernos](https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY) | 3:41 |
 | 20 | [Tus Besos \- French Version](https://open.spotify.com/track/4m589UyBjAZ9YNQmA9Y2TU) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Tus Besos \(French Version\)](https://open.spotify.com/album/0eiQhIdvIfNfUvZIQdHbUo) | 2:26 |

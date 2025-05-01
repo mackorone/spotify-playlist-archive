@@ -4,13 +4,14 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-798 songs - 1 day 19 hr 25 min
+799 songs - 1 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1) | 3:25 | 2021-12-07 | 2022-07-28 |
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-12-07 |  |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-03-24 | 2022-04-10 |
+| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-30 |  |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-11-23 | 2024-10-08 |
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2021-12-07 | 2022-07-29 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-20 |  |
@@ -706,7 +707,7 @@
 | [TIPPY TOE](https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:14 | 2023-04-07 | 2023-05-03 |
 | [To](https://open.spotify.com/track/1U4iZNR4mFlT4J7rfV85kq) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Ex](https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx) | 2:53 | 2021-12-07 | 2022-04-06 |
 | [Together](https://open.spotify.com/track/66dUJM4UG2GSYD1DBFtMlX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 4:04 | 2021-12-07 | 2022-07-24 |
-| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-24 |  |
+| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-24 | 2025-05-01 |
 | [TOMBOY](https://open.spotify.com/track/6iEmphADpJy3pQaG83SB7Q) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [TOMBOY](https://open.spotify.com/album/4vlX820NC8uvVfOxtaxK5r) | 3:00 | 2022-03-24 | 2022-04-18 |
 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 | 2023-04-07 | 2023-05-03 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-04-03 |  |

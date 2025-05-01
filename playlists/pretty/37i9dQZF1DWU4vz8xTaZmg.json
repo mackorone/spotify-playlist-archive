@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 73064,
+  "num_followers": 73073,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 149040,
       "name": "Bad Bad Bad (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Lalala",
-        "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
-      },
-      "artists": [
-        {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
+      },
+      "artists": [
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 250141,
       "name": "WHAT TO DO? (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "ARRANC\u00c1RMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 183547,
       "name": "ARRANC\u00c1RMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 176394,
+      "name": "MEL\u00d3N VINO",
+      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 176394,
-      "name": "MEL\u00d3N VINO",
-      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Bonus Trap",
         "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 133880,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+        "name": "POST MORTEM",
+        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+      "duration_ms": 176568,
+      "name": "220",
+      "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1235,22 +1251,6 @@
       "duration_ms": 199391,
       "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
       "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "POST MORTEM",
-        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 176568,
-      "name": "220",
-      "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "TRES PUNTOS SUSPENSIVOS",
         "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 173913,
       "name": "ALMA DINAMITA",
       "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "Herstory in the Making",
         "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 250357,
       "name": "Personalmente",
       "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "Panini",
         "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "A Trav\u00e9s del Mar de los Sargazos",
         "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 272480,
       "name": "Oda a la Sin Nombre",
       "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Goin Baby",
+      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "Dirt Bag",
         "url": "https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 151146,
       "name": "Daddy (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Goin Baby",
-      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+      "duration_ms": 273026,
+      "name": "It Might Be Time",
+      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
     }
   ],
   "unique_name": "Antidomingo",

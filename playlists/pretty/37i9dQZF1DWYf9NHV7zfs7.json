@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Abel Pintos.",
-  "num_followers": 61381,
+  "num_followers": 61505,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-04-29 14:48:47",
       "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
+    },
+    {
+      "added_at": "2025-04-29 14:48:47",
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
-    },
-    {
-      "added_at": "2025-04-29 14:48:47",
-      "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
       "added_at": "2025-04-29 14:48:47",

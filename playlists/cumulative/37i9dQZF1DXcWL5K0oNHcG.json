@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "album": {
         "name": "Gradient",
         "url": "https://open.spotify.com/album/3R6lwQeTUGOuJVCOjZyNLi"
       },
@@ -7595,6 +7613,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5PFa6NUTgHV64U712umZq9"
+      },
+      "artists": [
+        {
+          "name": "Ofri Nehemya",
+          "url": "https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348216,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3XeppK1Ja55D2FdyRKJgVG"
+    },
+    {
+      "album": {
         "name": "Driving Me Insane",
         "url": "https://open.spotify.com/album/1KdOIAlsYVusOFSM17TU1y"
       },
@@ -11810,7 +11846,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 133558,
       "name": "Hottest September",
       "url": "https://open.spotify.com/track/3R0Kf4lFHJ9FBpAAEjjGep"
@@ -16442,7 +16478,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 133065,
       "name": "Marina del Rey",
       "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
@@ -17686,7 +17722,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 178500,
       "name": "More Purple Than Ever",
       "url": "https://open.spotify.com/track/0J38E8bTJINcEzUQiTlbW2"
@@ -25728,6 +25764,28 @@
       "duration_ms": 435280,
       "name": "Sun Streak",
       "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
+    },
+    {
+      "album": {
+        "name": "Things of That Nature",
+        "url": "https://open.spotify.com/album/2ibeABnUwOAxI8zNBp07xn"
+      },
+      "artists": [
+        {
+          "name": "Nitecap",
+          "url": "https://open.spotify.com/artist/53GLdZwW98q3178jrRHogu"
+        },
+        {
+          "name": "Collin Miller & the Brother Nature",
+          "url": "https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261909,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/5vSuRAa0BvbytTLeSJzKx2"
     },
     {
       "album": {

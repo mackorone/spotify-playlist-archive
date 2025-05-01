@@ -244,10 +244,6 @@
         {
           "name": "MikkyZia",
           "url": "https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3"
-        },
-        {
-          "name": "F4dli",
-          "url": "https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX"
         }
       ],
       "date_added": "2025-03-19",
@@ -1978,7 +1974,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
@@ -3228,7 +3224,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -3965,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Kaset",
+        "url": "https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC"
+      },
+      "artists": [
+        {
+          "name": "KRU",
+          "url": "https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229969,
+      "name": "Remaja Selamanya",
+      "url": "https://open.spotify.com/track/1GaPhwDdtZuLaTWOy9xM2c"
+    },
+    {
+      "album": {
         "name": "Kepala Batu EP",
         "url": "https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY"
       },
@@ -3994,7 +4008,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
@@ -5499,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
       },
@@ -5608,6 +5640,24 @@
       "duration_ms": 188332,
       "name": "XO (Only If You Say Yes)",
       "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
+    },
+    {
+      "album": {
+        "name": "You'll Be In My Heart",
+        "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241776,
+      "name": "You'll Be in My Heart",
+      "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {
       "album": {

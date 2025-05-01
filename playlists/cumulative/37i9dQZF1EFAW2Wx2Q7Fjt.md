@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 10 hr 53 min
+212 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Couldn't Forget You \(from the Original Motion Picture "Paws of Fury"\)](https://open.spotify.com/track/07A8lZBHyKDEmFAk7oLm5Z) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Couldn't Forget You \(from the Original Motion Picture "Paws of Fury"\)](https://open.spotify.com/album/6BJBfiI8Ee7JFGdyc4uEEm) | 3:17 | 2024-02-07 |  |
 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 | 2025-02-18 |  |
 | [Cover Me In Sunshine](https://open.spotify.com/track/0UKUfxIkDAMZz7hMdiVX3m) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [All I Know So Far: Setlist](https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn) | 2:18 | 2024-02-07 |  |
-| [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 | 2025-01-09 | 2025-04-12 |
+| [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 | 2025-01-09 |  |
 | [Criminal](https://open.spotify.com/track/3eorMV6czNJXcThtrtVpxf) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Criminal](https://open.spotify.com/album/3y6qzQ5ff1yK45AhmZqIuf) | 2:28 | 2025-01-09 | 2025-04-12 |
 | [Cupid \(Twin Ver.\) \- Live Studio Version OT4](https://open.spotify.com/track/4gXHG9domIKO6FIViDISA4) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C) | 2:54 | 2024-08-14 | 2024-08-31 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-04-07 | 2024-08-15 |
@@ -167,6 +167,7 @@
 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 | 2025-03-18 | 2025-03-20 |
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2024-02-07 |  |
 | [Real Life Stuff \(feat\. Julia Michaels & Clever\)](https://open.spotify.com/track/7bzITVONB47YcJIwLbpBGP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:13 | 2024-02-07 |  |
+| [reason to forgive](https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:44 | 2025-04-30 |  |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2024-02-07 |  |
 | [roses](https://open.spotify.com/track/2g46efmE9mpxnkXP7sNkdh) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:33 | 2024-02-07 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-02-07 |  |
@@ -211,6 +212,7 @@
 | [Vicious](https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:29 | 2024-02-07 |  |
 | [Vulnerable](https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:12 | 2024-02-07 |  |
 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 | 2024-02-07 |  |
+| [weirdo](https://open.spotify.com/track/3AvvjUGsfNrvdGt62W4xMN) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:53 | 2025-04-30 |  |
 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 | 2024-02-07 |  |
 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 | 2024-02-07 |  |
 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 | 2024-02-07 |  |

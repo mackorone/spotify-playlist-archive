@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > For skating and grooving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,557 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,655 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 74 | [1991](https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:30 |
 | 75 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
 
-Snapshot ID: `Z5eh5QAAAAD2a1YhH8mjaVWjScrYcgmg`
+Snapshot ID: `AAAAALKDWSSn9OuXqwNsRKw0HRDCV8cM`

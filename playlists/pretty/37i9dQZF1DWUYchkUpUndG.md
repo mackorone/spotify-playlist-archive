@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=\_\-xB6ep\_Syuvr8Ip1dJfIg>Limoblaze.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,751 likes - 102 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,769 likes - 102 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

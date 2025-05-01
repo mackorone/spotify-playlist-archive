@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Lella Fadda
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Kawtar
 
-159 songs - 8 hr 25 min
+161 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Layli](https://open.spotify.com/track/5GWLrhnqDDGyjbwbweY8FT) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Layli](https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5) | 3:16 | 2025-01-29 |  |
 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 | 2025-01-29 |  |
 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 | 2022-06-24 | 2022-11-09 |
+| [LEH](https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LEH](https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p) | 2:40 | 2025-04-30 |  |
 | [LOVE DOCTOR](https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza) | 2:01 | 2024-01-09 | 2024-04-19 |
 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 | 2022-06-24 | 2025-01-30 |
 | [Ma Bansak](https://open.spotify.com/track/6MphGwh3Oa0AcCGoRiQG4g) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ma Bansak](https://open.spotify.com/album/6nclujWYoBILoSWMsidMrb) | 3:03 | 2024-05-14 |  |
@@ -84,6 +85,7 @@
 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 | 2025-02-10 |  |
 | [Mafish](https://open.spotify.com/track/1q5n5MjozgaxLUBBAAcfMt) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mafish](https://open.spotify.com/album/1pmFD1yEW5scNazsPtKLG1) | 2:35 | 2025-02-10 |  |
 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 | 2022-07-14 | 2025-01-30 |
+| [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 | 2025-04-30 |  |
 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 | 2022-11-03 | 2025-01-30 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2022-06-24 | 2022-11-09 |
 | [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 | 2025-01-29 |  |

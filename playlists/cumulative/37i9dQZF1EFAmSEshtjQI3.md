@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-41 songs - 2 hr 6 min
+42 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [No Voy a Ser Yo](https://open.spotify.com/track/3wY4usAdkaG7oviB6kOHxH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:55 | 2023-12-13 |  |
 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 | 2023-12-13 |  |
 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 | 2023-12-13 |  |
-| [Placebo](https://open.spotify.com/track/6rsjtGqye3l0ItzLzooMlm) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:14 | 2023-12-13 |  |
+| [Placebo](https://open.spotify.com/track/6rsjtGqye3l0ItzLzooMlm) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:14 | 2023-12-13 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 | 2024-05-31 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Recuerdo contigo </3](https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s) | 3:08 | 2023-12-13 | 2024-06-01 |
 | [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 | 2023-12-13 |  |
@@ -40,6 +40,7 @@
 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 | 2023-12-13 |  |
 | [Toy Story](https://open.spotify.com/track/5NYWJiGd4Qnej6kvPnH1sR) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:59 | 2023-12-13 |  |
 | [Transparente](https://open.spotify.com/track/3F4B12TBnGu947FgeabHGP) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:19 | 2023-12-13 |  |
+| [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 | 2025-04-30 |  |
 | [Tú Me Delatas](https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Me Delatas](https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT) | 3:17 | 2023-12-13 |  |
 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 | 2023-12-13 |  |
 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 | 2023-12-13 |  |

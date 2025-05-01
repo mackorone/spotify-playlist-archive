@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PUN
 
-391 songs - 23 hr 40 min
+391 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-27 | 2024-09-20 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-10-18 | 2024-11-02 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-01-25 |
-| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 0:47 | 2025-04-24 |  |
+| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 3:24 | 2025-04-24 |  |
 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-11-01 | 2024-11-16 |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-10-04 | 2024-10-19 |
 | [twilight zone](https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:18 | 2025-04-02 |  |

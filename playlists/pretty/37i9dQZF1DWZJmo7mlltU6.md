@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Nafeesisboujee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,694 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,678 likes - 104 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 30 | [Ladyland](https://open.spotify.com/track/3Yc8eu6mpZvxepzL6C6hmW) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [brkfstblend](https://open.spotify.com/album/1S7wp3ksMvPD97H6t1BHfl) | 4:25 |
 | 31 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
 | 32 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 |
-| 33 | [Te Hago Un Resumen](https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Te Hago Un Resumen](https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f) | 3:06 |
+| 33 | [Te Hago Un Resumen](https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Te Hago Un Resumen](https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f) | 3:06 |
 | 34 | [Cold Rain](https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Cold Rain](https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf) | 2:50 |
 | 35 | [Throw A Fit](https://open.spotify.com/track/3tazpHY9P91agm3vmKyzeG) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Throw A Fit](https://open.spotify.com/album/4XvaLxTkk1jSJjzCWIPEOm) | 3:43 |
 | 36 | [Room Service](https://open.spotify.com/track/19yzA9PaNcxNBDTddBIfpC) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Room Service](https://open.spotify.com/album/69rgOLzzSqS3ILNesy5mrJ) | 3:25 |

@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 157653,
       "name": "Baby Supreme",
       "url": "https://open.spotify.com/track/1YmiIGgmqWApEBLS1KT5ek"
@@ -12100,7 +12100,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 186212,
       "name": "FANTAS\u00cdA",
       "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
@@ -32434,7 +32434,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
@@ -33302,6 +33302,24 @@
       "duration_ms": 178128,
       "name": "sweetheart",
       "url": "https://open.spotify.com/track/1ZvEv7igMXuahXxf1P3txq"
+    },
+    {
+      "album": {
+        "name": "The 2nd Mini Album 'SWICY'",
+        "url": "https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "SWICY",
+      "url": "https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ"
     },
     {
       "album": {
@@ -37900,7 +37918,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 259333,
       "name": "WOAHH (feat. Clarent)",
       "url": "https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm"

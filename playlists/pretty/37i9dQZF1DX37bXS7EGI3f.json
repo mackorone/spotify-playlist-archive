@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 798074,
+  "num_followers": 798127,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 261480,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199000,
       "name": "Feed the Fire",
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 261480,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dance Till We Sink",
-        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
-      },
-      "artists": [
-        {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Dance Till We Sink",
-      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
@@ -967,22 +951,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Secrets Of The American Gods",
-        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 397026,
-      "name": "Secrets Of The American Gods - Single Edit",
-      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 226128,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Dance Till We Sink",
+        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
+      },
+      "artists": [
+        {
+          "name": "A Wildheart's Tale",
+          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Dance Till We Sink",
+      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Secrets Of The American Gods",
+        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 397026,
+      "name": "Secrets Of The American Gods - Single Edit",
+      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Light up the Sky",
-        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "REXORIA",
-          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Light up the Sky",
-      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Hear My Voice",
         "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 198997,
       "name": "Hear My Voice",
       "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Total T-Rex Terror",
         "url": "https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Steel And Gold",
         "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 247978,
       "name": "Steel And Gold",
       "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "A Fortress Called Home",
         "url": "https://open.spotify.com/album/6o0UiW267q52P3LtHCtJfa"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 267240,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2024-09-20 04:24:16",

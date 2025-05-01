@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover:  Ariana Grande
 
-199 songs - 11 hr 57 min
+200 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Tell Her](https://open.spotify.com/track/5Z0WrP05lXzIDFmq104Knq) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [13: The Musical \(Soundtrack From the Netflix Film\)](https://open.spotify.com/album/1gvMZVaVH0AWCzoaXBMc9h) | 2:58 | 2022-08-12 | 2025-03-04 |
 | [The Anonymous Ones \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5bOLF8govy2D7heVI0mfuu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [The Anonymous Ones \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/164VJE1gedqrVwULmGODs9) | 4:09 | 2022-08-12 | 2022-10-29 |
 | [The Bitch Of Living \- Rise Cast Version](https://open.spotify.com/track/7nT69eL3oUi37U8Q9oqK5U) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P) | [The Bitch Of Living \(Rise Cast Version\)](https://open.spotify.com/album/57xDyXKRSYtU3ESXxWX1pN) | 2:53 | 2023-07-21 | 2023-09-13 |
+| [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-04-25 |  |
 | [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hanging Tree \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn) | 2:23 | 2023-11-20 |  |
 | [The Least](https://open.spotify.com/track/1yuHXM3jAS4Te3o1qrXAY2) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [Songs of the Great Hill](https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19) | 2:20 | 2023-02-17 | 2023-11-21 |
 | [The Least](https://open.spotify.com/track/2nlvhe6y2NMYhNcEy6SFDl) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [The Least](https://open.spotify.com/album/6bLKcMg4Be8TmJprOjQXRE) | 2:20 | 2022-08-12 | 2023-03-02 |
@@ -203,7 +204,7 @@
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-11 |  |
 | [You Don't Own Me \(Feat\. Ariana Grande\)](https://open.spotify.com/track/1By0EoZgkP7shwWfokVzfW) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [For The Girls](https://open.spotify.com/album/3G0p3xfGbInA8msyvrntEC) | 3:08 | 2022-08-12 | 2024-06-08 |
 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 | 2022-08-12 | 2025-04-12 |
-| [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-03 |  |
+| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-03 |  |
 | [You're A Good Man, Charlie Brown](https://open.spotify.com/track/794T0lJ2Sc1jU5gnA91XZX) | [Clark Gesner](https://open.spotify.com/artist/5fDRGh13isGtX8Myr02GCa), [Barbara Minkus](https://open.spotify.com/artist/0mMTwqqMAaOVKyuUbT2AXm) | [You're A Good Man, Charlie Brown](https://open.spotify.com/album/2nprV770V4gyXUYuOQ7jPz) | 1:36 | 2023-07-21 | 2023-09-13 |
 | [You're The Top](https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 2:49 | 2022-08-12 | 2024-11-23 |
 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 | 2022-08-12 | 2025-03-04 |

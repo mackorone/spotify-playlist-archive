@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,314 likes - 103 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,288 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

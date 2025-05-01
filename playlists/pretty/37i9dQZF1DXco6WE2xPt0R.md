@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,366 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,391 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 29 | [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 |
 | 30 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 31 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
-| 32 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
-| 33 | [Anytime \(feat\. Kehlani & ROMderful\)](https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Empathy](https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm) | 4:16 |
-| 34 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
-| 35 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
+| 32 | [Anytime \(feat\. Kehlani & ROMderful\)](https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Empathy](https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm) | 4:16 |
+| 33 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
+| 34 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
+| 35 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 36 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 |
 | 37 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 38 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 |

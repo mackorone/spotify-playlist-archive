@@ -4,7 +4,7 @@
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Paulina Rubio & David Bisbal en portada.
 
-63 songs - 3 hr 50 min
+64 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ave María](https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:29 | 2023-03-10 | 2024-04-19 |
 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 | 2023-03-10 |  |
 | [Baila Morena \(with Luny Tunes, Noriega\) \- Remix](https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL) | [Baila Morena \(Reggaeton Mix\)](https://open.spotify.com/album/106R30c82nUmpln49yR9zs) | 3:07 | 2023-04-21 |  |
+| [Buleria](https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:11 | 2024-06-07 |  |
 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 | 2023-03-10 |  |
 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 | 2023-03-10 |  |
 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 | 2023-03-10 |  |
@@ -40,7 +41,7 @@
 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 | 2023-03-10 | 2025-03-30 |
 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 | 2023-03-10 |  |
 | [Me Enamora](https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:12 | 2023-04-21 | 2024-04-19 |
-| [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 | 2023-03-10 |  |
+| [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 | 2023-03-10 | 2025-05-01 |
 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 | 2023-03-10 |  |
 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 | 2023-03-10 |  |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 | 2023-03-10 |  |

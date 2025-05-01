@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,269 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,285 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
 | 2 | [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 |
 | 3 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 |
-| 4 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 4 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 5 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 6 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 7 | [Dance with Somebody](https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Western Pleasure](https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C) | 3:32 |

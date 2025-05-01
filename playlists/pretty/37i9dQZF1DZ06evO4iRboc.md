@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,416 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,589 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

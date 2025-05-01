@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,152,543 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,153,156 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 39 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
 | 40 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |
 | 41 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
-| 42 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 42 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 43 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 |
 | 44 | [August 10](https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Broken Girl](https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI) | 2:58 |
 | 45 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 |

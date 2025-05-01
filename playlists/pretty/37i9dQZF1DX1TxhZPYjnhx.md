@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,580 likes - 158 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 158 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 33 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 34 | [MEDIEVAL](https://open.spotify.com/track/0z12poTulxXrzPHnspnrTX) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [MEDIEVAL](https://open.spotify.com/album/4DChfxtC6EnksoKQWmcC8R) | 2:53 |
 | 35 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
-| 36 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 36 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 37 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 |
 | 38 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
 | 39 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 |

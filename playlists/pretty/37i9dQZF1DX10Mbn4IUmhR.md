@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT?si=z0ZFR4gFTXKbyQumY7trlA"> Nafeesisboujee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,099 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

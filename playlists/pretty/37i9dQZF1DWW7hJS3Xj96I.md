@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 
 > ¡Baila con los mejores éxitos de los 90! Ricky Martin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,794 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,548 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 39 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
 | 40 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
 | 41 | [Mírame a los Ojos](https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 4:22 |
-| 42 | [TBC](https://open.spotify.com/track/2UAz1uQZR4OKfa55uBPmwl) | [Ragazzi](https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA) | [TBC](https://open.spotify.com/album/7nJmyuc1bf8ek6kd2hBsQu) | 4:01 |
-| 43 | [Oye Mi Amor](https://open.spotify.com/track/2VDBHPv9uXrBS50WnwrERY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Las Clasicas Rock Pop en Espanol](https://open.spotify.com/album/1U0V7DcnyILGqhtYjwfgqi) | 4:23 |
+| 42 | [Oye Mi Amor](https://open.spotify.com/track/2VDBHPv9uXrBS50WnwrERY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Las Clasicas Rock Pop en Espanol](https://open.spotify.com/album/1U0V7DcnyILGqhtYjwfgqi) | 4:23 |
+| 43 | [TBC](https://open.spotify.com/track/2UAz1uQZR4OKfa55uBPmwl) | [Ragazzi](https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA) | [TBC](https://open.spotify.com/album/7nJmyuc1bf8ek6kd2hBsQu) | 4:01 |
 | 44 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
 | 45 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
 | 46 | [¿Donde Están?](https://open.spotify.com/track/3LIOqIGge9NmgXuzbkOmIf) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Historias De Amor: Lo Mejor De Sentidos Opuestos](https://open.spotify.com/album/1ve3pQBkzBRbTRR36PH0Tv) | 4:27 |

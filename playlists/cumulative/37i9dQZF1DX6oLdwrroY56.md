@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: ena mori
 
-178 songs - 11 hr 25 min
+179 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Paano Tayo](https://open.spotify.com/track/42EXYGjRYIv9qFcej1BUXC) | [End Street](https://open.spotify.com/artist/1tDu9QYGiRTIVCnw5tn2pE) | [Paano Tayo](https://open.spotify.com/album/1OwOrNjmoRpCDXCd37cx0m) | 3:13 | 2025-04-25 |  |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-03-06 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
+| [Palaging Masaya](https://open.spotify.com/track/4I7T76QWKWEjCpPTfGP6jq) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Palaging Masaya](https://open.spotify.com/album/4R60jek85Uw3wF6Wq4RyXc) | 3:58 | 2025-04-30 |  |
 | [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2025-01-17 |
 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 | 2023-10-13 | 2025-01-17 |
 | [Pangako](https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr) | [joem](https://open.spotify.com/artist/0pUq7G8WZUhDM3hqe1fWSS) | [Pangako](https://open.spotify.com/album/1kuVZdA4fLLaBwNLwK4ElQ) | 3:19 | 2023-10-13 | 2024-02-10 |

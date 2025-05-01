@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Bad Brain",
+        "url": "https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163042,
+      "name": "Bad Brain",
+      "url": "https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq"
+    },
+    {
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 190127,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA"
@@ -3214,6 +3232,24 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106753,
+      "name": "FINE SHIT",
+      "url": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
     },
     {
       "album": {
@@ -7462,7 +7498,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 139013,
       "name": "PRICETAG/BEVERLYWOOD (with Lido)",
       "url": "https://open.spotify.com/track/3qFjwP0AxlMO5oUuMAcfW2"
@@ -8210,7 +8246,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
@@ -8970,6 +9006,28 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193883,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
     },
     {
       "album": {

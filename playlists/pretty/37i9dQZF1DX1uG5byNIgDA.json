@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 219301,
+  "num_followers": 219305,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-04-25 04:27:11",
       "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2025-04-25 04:27:11",
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2025-04-25 04:27:11",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
       "added_at": "2025-04-25 04:27:11",
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-04-25 04:27:11",
       "album": {
-        "name": "SPOT!",
-        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "SPOT!",
-      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
-    },
-    {
-      "added_at": "2025-04-25 04:27:11",
-      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2025-04-25 04:27:11",
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
       "added_at": "2025-04-25 04:27:11",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-04-25 04:27:11",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2025-04-25 04:27:11",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2025-04-25 04:27:11",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2025-04-25 04:27:11",
@@ -571,8 +571,8 @@
     {
       "added_at": "2025-04-25 04:27:11",
       "album": {
-        "name": "Adult Swim",
-        "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 144640,
-      "name": "Adult Swim",
-      "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
+      "duration_ms": 193053,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
     },
     {
       "added_at": "2025-04-25 04:27:11",
@@ -719,8 +719,8 @@
     {
       "added_at": "2025-04-25 04:27:11",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+        "name": "Adult Swim",
+        "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
+      "duration_ms": 144640,
+      "name": "Adult Swim",
+      "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
     },
     {
       "added_at": "2025-04-25 04:27:11",

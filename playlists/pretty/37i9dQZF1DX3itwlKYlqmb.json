@@ -1,12 +1,12 @@
 {
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
-  "num_followers": 99038,
+  "num_followers": 99088,
   "original_name": "La Albercada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Zi1AAAAABzJ7rIe7SfPaTyQFwSugiV",
+  "snapshot_id": "AAAAAO9ribt0oJVu0LUCYistdPixTn4S",
   "tracks": [
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1468,7 +1468,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "name": "Kenia OS",
+          "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 168511,
       "name": "Entre las de 20",
       "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Se Volvieron Locos",
-        "url": "https://open.spotify.com/album/4LvndqvFdW4HsmC93jEeqY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Se Volvieron Locos",
-      "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "Desnudate - Remix",
         "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 243999,
       "name": "Desnudate - Remix",
       "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Se Volvieron Locos",
+        "url": "https://open.spotify.com/album/4LvndqvFdW4HsmC93jEeqY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
         "name": "Modo DND",
         "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
       },
@@ -2075,22 +2091,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -2143,6 +2143,26 @@
       "duration_ms": 150665,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Sin Querer Queriendo",
+        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 206077,
+      "name": "Sin Querer Queriendo",
+      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -2267,8 +2287,8 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Sin Querer Queriendo",
-        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
       "artists": [
         {
@@ -2276,13 +2296,13 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Sin Querer Queriendo",
-      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -2367,26 +2387,6 @@
       "duration_ms": 200061,
       "name": "No Es Mentira (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": "2024-11-27 00:07:48",

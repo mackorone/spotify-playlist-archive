@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,677 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,838 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 24 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
 | 25 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
 | 26 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
-| 27 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 28 | [Decode \- Acoustic Version](https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2) | 4:27 |
+| 27 | [Decode \- Acoustic Version](https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2) | 4:27 |
+| 28 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 29 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 30 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 31 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
-| 32 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 |
-| 33 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
+| 32 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
+| 33 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 |
 | 34 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
 | 35 | [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 |
 | 36 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |

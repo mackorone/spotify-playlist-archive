@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Alemán y A.CHAL en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,162 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,149 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 19 | [TEKEDA](https://open.spotify.com/track/5hpFzQgSEfZtDcQdvGLYLx) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc) | [TEKEDA](https://open.spotify.com/album/3A840ofJL45Pv7gvdB7yOa) | 3:04 |
 | 20 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 |
 | 21 | [Calles De Madrid](https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [Calles De Madrid](https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4) | 2:59 |
-| 22 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
+| 22 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
 | 23 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 24 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
 | 25 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 |

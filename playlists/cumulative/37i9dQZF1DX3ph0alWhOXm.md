@@ -4,7 +4,7 @@
 
 > Let these country songs get your tailgate going!
 
-222 songs - 12 hr 33 min
+223 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Beer Me Up](https://open.spotify.com/track/5S43ssynwmOntzVvXSluh5) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Beer Me Up](https://open.spotify.com/album/4aQoWE9uSB7ZP13VWo4D2n) | 2:57 | 2021-10-08 | 2022-07-25 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2021-02-03 |  |
 | [Beer Thirty](https://open.spotify.com/track/1F3s1BbWYoCBa8I84GhzZB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Tight Rope](https://open.spotify.com/album/5B9PdR9B1YsmpOxnS4pHWL) | 2:36 | 2021-02-03 | 2023-07-14 |
-| [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2023-09-22 |  |
+| [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2023-09-22 | 2025-05-01 |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2023-09-22 |  |
 | [Billy's Got His Beer Goggles On](https://open.spotify.com/track/18J8Yx5SSjRF8QYkT9bRVx) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That's Life](https://open.spotify.com/album/6lo6cK2DfcdLhsE3Ra58Fs) | 3:38 | 2021-02-03 | 2022-07-29 |
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-01-27 |  |
@@ -184,6 +184,7 @@
 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 | 2021-04-22 | 2023-09-23 |
 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 | 2022-07-24 | 2023-09-23 |
 | [Smoke A Little Smoke](https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 3:11 | 2021-02-03 | 2022-07-29 |
+| [Snapback](https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:26 | 2025-01-27 |  |
 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 | 2023-09-22 | 2023-10-02 |
 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2023-09-22 |  |
 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2021-02-03 | 2024-11-26 |

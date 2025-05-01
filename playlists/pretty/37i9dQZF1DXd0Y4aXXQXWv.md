@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,112 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,132 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 22 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
 | 23 | [Ella, elle l'a \- Remasterisé en 2004](https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 4:51 |
 | 24 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
-| 25 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
-| 26 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 25 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 26 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 27 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 28 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
 | 29 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 34 | [Quand la musique est bonne](https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:52 |
 | 35 | [La lettre](https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:17 |
 | 36 | [Il jouait du piano debout \- Remasterisé en 2004](https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Paris, France \(Remasterisé en 2004\)](https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7) | 4:33 |
-| 37 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
-| 38 | [Un homme debout](https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Claudio Capéo \(Version deluxe\)](https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1) | 3:26 |
+| 37 | [Un homme debout](https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Claudio Capéo \(Version deluxe\)](https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1) | 3:26 |
+| 38 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 39 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 40 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
-| 41 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
-| 42 | [Désolé pour hier soir](https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:39 |
+| 41 | [Désolé pour hier soir](https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:39 |
+| 42 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 | 43 | [beau\-papa](https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 3:17 |
 | 44 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
 | 45 | [Nous](https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [aimée](https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,873 likes - 47 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,894 likes - 47 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 41 | [music for indigo](https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [instrumentals](https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk) | 21:12 |
 | 42 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 |
 | 43 | [i do love you \- live](https://open.spotify.com/track/7tR3N0yG18IhOHV4A8dYAh) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 5:08 |
-| 44 | [indiana & sneezing \- live](https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 1:32 |
+| 44 | [indiana & sneezing](https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 1:32 |
 | 45 | [cut my hair \- live](https://open.spotify.com/track/30Q5yODrRv9oF1Ek4Y0QjR) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:01 |
 | 46 | [time escaping & wild whistling \- live](https://open.spotify.com/track/4KbwWlD5WZj0rzjGI1Ykri) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:32 |
 | 47 | [cattails & soundcheck](https://open.spotify.com/track/4Cu9vJHOJy6d6XCA3rV0Mq) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 3:16 |

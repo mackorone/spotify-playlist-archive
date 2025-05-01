@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 
 > Hear all of TAEYANG's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,033 likes - 68 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,042 likes - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 | 61 | [Rich](https://open.spotify.com/track/16jg76zHuYHMPghRdMfHeL) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:17 |
 | 62 | [Eyes Nose Lips](https://open.spotify.com/track/2UMmoa8MP15tHnTFpO6A1E) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 3:33 |
 | 63 | [Go Crazy](https://open.spotify.com/track/3DgwkV1Gmt8mUfwTjMPl2p) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [UNIVERSE](https://open.spotify.com/album/1crq8WbybWZziBnYSOMa4I) | 4:50 |
-| 64 | [Tomorrow](https://open.spotify.com/track/0ksaKAzzFwB3h70h1Z5PRb) | [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Fever's End \(열꽃\) Pt\. 2 \- EP](https://open.spotify.com/album/6bcvEP3490ouA7PW2DD168) | 4:12 |
+| 64 | [Tomorrow](https://open.spotify.com/track/0ksaKAzzFwB3h70h1Z5PRb) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Fever's End \(열꽃\) Pt\. 2 \- EP](https://open.spotify.com/album/6bcvEP3490ouA7PW2DD168) | 4:12 |
 | 65 | [Warigari](https://open.spotify.com/track/0Kov3heCgcnLdC5QlKgQe9) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Kush](https://open.spotify.com/artist/1BKVGMxyIBqU3CqMJxUvWC), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WALKIN', Vol.2](https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc) | 3:32 |
 | 66 | [Korean Dream \(Feat\. TAEYANG\)](https://open.spotify.com/track/3lShYM0Ts3HfEDFpfkGO5z) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [태양](https://open.spotify.com/artist/0BeIulKOpcvsabwlt4u8qp) | [Shine A Light](https://open.spotify.com/album/1VNgOZM0hpFdeivdpoD5k6) | 3:33 |
 | 67 | [Fall in Love](https://open.spotify.com/track/04HoJpRNBQ98naXqeroSHB) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [UP BEAT](https://open.spotify.com/album/6juujVdPaWjy066P9ZOXvJ) | 4:15 |

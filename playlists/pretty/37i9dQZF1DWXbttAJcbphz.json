@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1726333,
+  "num_followers": 1726515,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+    },
+    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -1215,22 +1231,6 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 197854,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Sonder Son",
@@ -1337,20 +1321,20 @@
       "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 241773,
-      "name": "my mine",
-      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1371,6 +1355,22 @@
       "duration_ms": 197573,
       "name": "Talk (feat. Disclosure)",
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1511,26 +1511,6 @@
       "duration_ms": 217386,
       "name": "You",
       "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-09-17 04:26:15",
@@ -1597,22 +1577,6 @@
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "A Seat at the Table",
@@ -1627,6 +1591,26 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1667,22 +1651,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },
@@ -1703,22 +1671,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
@@ -1735,6 +1687,38 @@
       "duration_ms": 211610,
       "name": "Shea Butter Baby (with J. Cole)",
       "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1767,6 +1751,26 @@
       "duration_ms": 377466,
       "name": "Dance for You",
       "url": "https://open.spotify.com/track/7cvkXf3AwPGT041PyOi5VX"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Think Like A Man - Music From & Inspired By The Film",
+        "url": "https://open.spotify.com/album/45EKCe8Ji8HI8mgqQMN4KJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/17zF2ISrDrQdaULA8cxReK"
     }
   ],
   "unique_name": "I Love My '10s R&B",

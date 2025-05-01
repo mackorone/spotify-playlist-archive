@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,703 likes - 139 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,705 likes - 139 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 77 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 78 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
 | 79 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
-| 80 | [Oscar Winning Tears\. \(feat\. Flames Collective\) \- Live at the Royal Albert Hall](https://open.spotify.com/track/29lljQQOZikL3BwRX2ekDC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx), [Flames Collective](https://open.spotify.com/artist/7CrMgMVd8fYaJWMFr3xYdI) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 3:20 |
-| 81 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 80 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 81 | [Oscar Winning Tears\. \(feat\. Flames Collective\) \- Live at the Royal Albert Hall](https://open.spotify.com/track/29lljQQOZikL3BwRX2ekDC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx), [Flames Collective](https://open.spotify.com/artist/7CrMgMVd8fYaJWMFr3xYdI) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 3:20 |
 | 82 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
 | 83 | [x2](https://open.spotify.com/track/0k79twDYBMpqqjVLuEnYkh) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:42 |
 | 84 | [The Fruits](https://open.spotify.com/track/5VvnRNKALQhnfDcbslgk3h) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 3:10 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 138 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 139 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbwGqgAAAADCjsaXfixBTQMjn7BNh9RD`
+Snapshot ID: `AbwMSgAAAADZByVyabiMYaih+KMZgGkD`

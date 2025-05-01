@@ -4,7 +4,7 @@
 
 > Vibes on ice
 
-201 songs - 10 hr 48 min
+202 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 | 2025-02-21 |  |
 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 | 2025-03-14 |  |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-03-24 |  |
-| [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2025-02-21 |  |
+| [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2025-02-21 | 2025-05-01 |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-20 | 2024-08-20 |
 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 | 2024-06-20 | 2025-02-22 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2024-06-20 | 2025-02-22 |
@@ -191,6 +191,7 @@
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-08-02 | 2025-03-14 |
 | [Twenty Something](https://open.spotify.com/track/6M8mr5ekV1fLfPC3cqAIMP) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Twenty Something](https://open.spotify.com/album/6ssPolXqmHmBlHoguitL5g) | 2:24 | 2025-04-28 |  |
 | [Unknowing](https://open.spotify.com/track/2sBMYrxfm5Ylx2sDAaram2) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [SAGES](https://open.spotify.com/album/07tE8zeYqXxyXsHjgJGRUp) | 3:31 | 2025-04-28 |  |
+| [Us Three](https://open.spotify.com/track/7HaQ4rnOsOBUqiXRwGGnQA) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Us Three](https://open.spotify.com/album/15vCjJpuaFZJRszhcNhzJJ) | 2:54 | 2025-04-28 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-20 | 2025-04-29 |
 | [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 | 2025-04-28 |  |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-06-20 | 2025-02-22 |

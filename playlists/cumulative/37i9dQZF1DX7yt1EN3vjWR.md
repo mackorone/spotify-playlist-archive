@@ -4,7 +4,7 @@
 
 > 2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-698 songs - 1 day 13 hr 5 min
+699 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [I DONT KNOW](https://open.spotify.com/track/0o3cqGULoX8R5nWDnVnARk) | [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mi Yama](https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa) | 2:51 | 2024-01-24 | 2025-01-24 |
 | [i have a wing](https://open.spotify.com/track/210KJALjlNU0gWvWg7VfNS) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [i have a wing](https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14) | 3:00 | 2024-03-07 | 2024-04-19 |
 | [i have a wing](https://open.spotify.com/track/3RxKJNtEaUyVxr8forgUDd) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [i have a wing](https://open.spotify.com/album/4nNQr2bpjeZ8jtVXO0ArJL) | 3:00 | 2024-04-09 | 2025-01-24 |
+| [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 | 2025-04-30 |  |
 | [I Know What](https://open.spotify.com/track/1p2vebJkC6lfPo6FtZrmdl) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 2:51 | 2023-06-07 | 2024-01-25 |
 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2025-01-23 |  |
 | [I Wanna Be Rich](https://open.spotify.com/track/2cy2jcLZ6I8O6g1Ep36j6E) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [X\-FACTOR 3](https://open.spotify.com/album/5KnOyCLJHa2Tag5kZYUk1v) | 2:29 | 2025-02-20 |  |

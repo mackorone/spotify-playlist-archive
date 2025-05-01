@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Sam Grey
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Konstantin Sibold &amp; Adam Sellouk
 
 1,377 songs - 3 day 1 hr 22 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,106 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,114 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 3 | [La Tortuga Del Arenal](https://open.spotify.com/track/5V8IZrjVa4ocSeEC9W7UWs) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Llegó La Marimba](https://open.spotify.com/album/1O47TD5M3rkH8rCyC56qbK) | 2:13 |
 | 4 | [Ferrocarril de los Altos](https://open.spotify.com/track/3y3s7XuGugRqRe8MbTGVzN) | [Marimba Chapinlandia](https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S) | [Chapinlandia \- Marimba Music of Guatemala](https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG) | 3:39 |
 | 5 | [Perfume de Gardenias \(Bolero en Marimba\)](https://open.spotify.com/track/7D7LbBOAgmnHpScZIH2kTs) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Boleros en Marimba](https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4) | 3:14 |
-| 6 | [El Cable](https://open.spotify.com/track/4wEamhOETbihGJoAuAePeo) | [Marimba Estrella De Chiapas](https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1) | [Marimba para Bailar](https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT) | 3:31 |
-| 7 | [Sones Chiapanecos](https://open.spotify.com/track/2UivhTv8Gsqy7qI6sr8qbV) | [Marimba Niluyarilo](https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ) | [Sones Chiapanecos](https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r) | 7:03 |
+| 6 | [Sones Chiapanecos](https://open.spotify.com/track/2UivhTv8Gsqy7qI6sr8qbV) | [Marimba Niluyarilo](https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ) | [Sones Chiapanecos](https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r) | 7:03 |
+| 7 | [El Cable](https://open.spotify.com/track/4wEamhOETbihGJoAuAePeo) | [Marimba Estrella De Chiapas](https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1) | [Marimba para Bailar](https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT) | 3:31 |
 | 8 | [Noche de Luna Entre Ruinas](https://open.spotify.com/track/5lg7celfyPvBI5hXzPz2S6) | [Internacionales Conejos](https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf) | [El Super Baile del 2004\. Música de Guatemala para los Latinos](https://open.spotify.com/album/6TKQYiJBTLjD9HofnyVLKM) | 4:55 |
 | 9 | [Las Morenas](https://open.spotify.com/track/5qxIUBqG6wnhmrvWDCGoc8) | [Fidel Funes Y Su Marimba Orquesta](https://open.spotify.com/artist/1xcedy1ZFkXIQcobLl0S6t) | [Los Mejores Exitos Bailables Vol\. 2\. Música de Guatemala para los Latinos](https://open.spotify.com/album/4WmKl5Vu0UVQ0xa1osHlZw) | 3:17 |
 | 10 | [Mis Blancas Mariposas](https://open.spotify.com/track/4KDmH7zn9unOHOxB9wZtrY) | [Marimba Flor De Playas](https://open.spotify.com/artist/2psYEwkmQvoMxarUWGy9g4) | [Tabasqueño](https://open.spotify.com/album/76uEGqGyv1nLthr02G3TZt) | 2:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 64 | [Mambo No\. 5](https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 3:13 |
 | 65 | [Yo No Fui](https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Exitos Con Marimba](https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9) | 5:22 |
 | 66 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
-| 67 | [20 de Enero](https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3) | [Flor del Manzano](https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:42 |
-| 68 | [Rabin Ajau, Marimba de Guatemala](https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc) | [Maderas Chapinas](https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2) | [World Music Guatemala, Danzas Mayas, Mayan Dances](https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq) | 2:19 |
+| 67 | [Rabin Ajau, Marimba de Guatemala](https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc) | [Maderas Chapinas](https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2) | [World Music Guatemala, Danzas Mayas, Mayan Dances](https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq) | 2:19 |
+| 68 | [20 de Enero](https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3) | [Flor del Manzano](https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:42 |
 | 69 | [Tonalá](https://open.spotify.com/track/6ibiktFdAAQLaRMbOpcIwd) | [Marimba Orquestal Virreynal De Hugo Reyes](https://open.spotify.com/artist/73G5dvHWU7Nq0A14Bq0jEO) | [Recordando a Hugo Reyes, Con Lo Mejor de Irma Ventura](https://open.spotify.com/album/3E5vkzHGNY42XLddOs1vlV) | 3:04 |
 | 70 | [Amar y Vivir](https://open.spotify.com/track/3BP8NoR5uw7r2zkP7IEUpS) | [Marimba Reyna Fraylescana](https://open.spotify.com/artist/0azP4Z0bX5S7z83xvlRwGq) | [Así Suena la Marimba](https://open.spotify.com/album/02OCBXcHA4rkSGmU128kj1) | 2:54 |
 | 71 | [Obertura indigena \(Marimba version\)](https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw) | [Marimba de Concierto de Chichicastenango](https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV) | [Música de Guatemala en Marimba](https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC) | 7:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,668 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,659 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 75 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 | 76 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 77 | [Christmas Eve](https://open.spotify.com/track/5XfVRHoVYasTImnbhjoq94) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:16 |
-| 78 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
-| 79 | [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 |
+| 78 | [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 |
+| 79 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
 | 80 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/72LocLBQn2IZVoiiP0F3o8) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/677DoK1InjZA0D6zEeisw4) | 2:52 |
 | 81 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
 | 82 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/7Ivelh8N9J25Yj9KKxYj6w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:51 |

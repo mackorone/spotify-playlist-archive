@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Kelly 陳慧琳
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,884 likes - 481 songs - 1 day 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,882 likes - 481 songs - 1 day 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

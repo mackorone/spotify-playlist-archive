@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 
 > Las canciones de pop latino más escuchadas del año\. Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,570 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,592 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 3 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
 | 4 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 5 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
-| 6 | [Kitty](https://open.spotify.com/track/0c5f00BApTq2iH0nHwfw2Z) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Kitty](https://open.spotify.com/album/7p4UU8OpGtFiHe0h9LfEbj) | 2:38 |
+| 6 | [Kitty](https://open.spotify.com/track/0c5f00BApTq2iH0nHwfw2Z) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Kitty](https://open.spotify.com/album/7p4UU8OpGtFiHe0h9LfEbj) | 2:38 |
 | 7 | [Alegría](https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:45 |
 | 8 | [Espectacular](https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Espectacular](https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS) | 3:05 |
 | 9 | [SI SABE FERXXO](https://open.spotify.com/track/2B1S3g2M4qObq4pTzuEYGD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE FERXXO](https://open.spotify.com/album/6stiuKcmwiRK2JccwoGnhn) | 2:32 |

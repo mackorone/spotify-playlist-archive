@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 153165,
       "name": "#OET",
       "url": "https://open.spotify.com/track/442WPlDTRneEns7knaacHK"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9430,7 +9430,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -14594,7 +14594,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 231941,
       "name": "Ideal Petroff",
       "url": "https://open.spotify.com/track/5MGmv3ACa5ODkh80fvKXRc"
@@ -21052,7 +21052,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -25670,7 +25670,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 252893,
       "name": "S men da varvish",
       "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
@@ -26694,6 +26694,24 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "album": {
+        "name": "Shape of You 2k25 (Radio Edit)",
+        "url": "https://open.spotify.com/album/173eKKjZv7hPMab3AkhcVb"
+      },
+      "artists": [
+        {
+          "name": "Max!m",
+          "url": "https://open.spotify.com/artist/6TDsiUTcNv7uyXIVoybGE4"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154108,
+      "name": "Shape of You 2k25 - Radio Edit",
+      "url": "https://open.spotify.com/track/7tu73l18FCRZAgkqnQmzFM"
     },
     {
       "album": {
@@ -29816,6 +29834,36 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
+        "name": "Tchu Tcha Tcha",
+        "url": "https://open.spotify.com/album/7LPSQ52fgULOmq5wyr4x7Q"
+      },
+      "artists": [
+        {
+          "name": "Mr. Melo",
+          "url": "https://open.spotify.com/artist/1TRIsAhdyjtScfOMhVKj4D"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        },
+        {
+          "name": "DM'Boys",
+          "url": "https://open.spotify.com/artist/2KSVjEHwaeSYPK6g8eGfGG"
+        },
+        {
+          "name": "Dj Pedrito",
+          "url": "https://open.spotify.com/artist/5g3zvemQIQKLi0cBfdLmfh"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179192,
+      "name": "Tchu Tcha Tcha",
+      "url": "https://open.spotify.com/track/3GfokQhcdBZlsH86PbsbK8"
     },
     {
       "album": {
@@ -35958,7 +36006,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -36766,7 +36814,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 198580,
       "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
@@ -36912,7 +36960,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 168800,
       "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
@@ -39014,7 +39062,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
@@ -39098,7 +39146,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI"
@@ -39658,7 +39706,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 197608,
       "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
       "url": "https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM"
@@ -39986,7 +40034,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 194666,
       "name": "\u0421\u043d\u0430\u0439\u043f\u0435\u0440\u0430",
       "url": "https://open.spotify.com/track/34nRREax6dS5rV7QJO3q9K"
@@ -40140,7 +40188,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
@@ -40722,7 +40770,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 221243,
       "name": "\u0427\u0430\u043b\u0433\u0430",
       "url": "https://open.spotify.com/track/0yUj55Q6bb9r9wFaSV2Mql"

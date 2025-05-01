@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 663448,
+  "num_followers": 663480,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+vnlgAAAABTMg9poZG267tl4bTMam2+",
+  "snapshot_id": "AAAAAOg+V1Wdjn/HEc+Hs8u15nvhdckh",
   "tracks": [
     {
       "added_at": "2025-04-01 13:18:14",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
+        "name": "Fluorescence",
+        "url": "https://open.spotify.com/album/4fzzRQhFJyQt7G00exxIh9"
+      },
+      "artists": [
+        {
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Fluorescence",
+      "url": "https://open.spotify.com/track/4bK0DJ8FLzKXFiauUUWA8I"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
         "name": "S\u00f3lestur",
         "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 179509,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
-        "name": "Fluorescence",
-        "url": "https://open.spotify.com/album/4fzzRQhFJyQt7G00exxIh9"
-      },
-      "artists": [
-        {
-          "name": "La Luce",
-          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Fluorescence",
-      "url": "https://open.spotify.com/track/4bK0DJ8FLzKXFiauUUWA8I"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Surrounded By Clouds",
-        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
-      },
-      "artists": [
-        {
-          "name": "Albert Lockwood",
-          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "Surrounded By Clouds",
-      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
         "name": "Sampadan",
         "url": "https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 201938,
       "name": "Sampadan",
       "url": "https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
+        "name": "Surrounded By Clouds",
+        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Surrounded By Clouds",
+      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Muons",
-        "url": "https://open.spotify.com/album/5ioCD8xo3Ns2wnHc6nNvUh"
-      },
-      "artists": [
-        {
-          "name": "Lux Alba",
-          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
-        }
-      ],
-      "duration_ms": 206507,
-      "name": "Muons",
-      "url": "https://open.spotify.com/track/2oXcDZVCuyHKCMilAxom25"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
         "name": "Aurora Sky",
         "url": "https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Downing",
-        "url": "https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM"
+        "name": "Muons",
+        "url": "https://open.spotify.com/album/5ioCD8xo3Ns2wnHc6nNvUh"
       },
       "artists": [
         {
-          "name": "Dreamscaper",
-          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Downing",
-      "url": "https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg"
+      "duration_ms": 206507,
+      "name": "Muons",
+      "url": "https://open.spotify.com/track/2oXcDZVCuyHKCMilAxom25"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -743,6 +727,22 @@
       "duration_ms": 165392,
       "name": "Definite",
       "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
+        "name": "Downing",
+        "url": "https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM"
+      },
+      "artists": [
+        {
+          "name": "Dreamscaper",
+          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Downing",
+      "url": "https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
+        "name": "South Winds",
+        "url": "https://open.spotify.com/album/75AdVWU0pDFPrWMHgvRkjW"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "duration_ms": 129899,
+      "name": "South Winds",
+      "url": "https://open.spotify.com/track/1WuHbK7rH9xKLAtpAYm3gY"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf"
-      },
-      "artists": [
-        {
-          "name": "Jasper van Dijk",
-          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
-        }
-      ],
-      "duration_ms": 205698,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
-        "name": "South Winds",
-        "url": "https://open.spotify.com/album/75AdVWU0pDFPrWMHgvRkjW"
-      },
-      "artists": [
-        {
-          "name": "Medtones",
-          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
-        }
-      ],
-      "duration_ms": 129899,
-      "name": "South Winds",
-      "url": "https://open.spotify.com/track/1WuHbK7rH9xKLAtpAYm3gY"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
         "name": "Gilded Stillness",
         "url": "https://open.spotify.com/album/0GBMdZT0ebGrlxwtnfAcGC"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 734620,
       "name": "Gilded Stillness",
       "url": "https://open.spotify.com/track/1hsjIfSPcvsCxq7AJgJBEZ"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "duration_ms": 205698,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Rugare",
-        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
-      },
-      "artists": [
-        {
-          "name": "Tendai Marwan",
-          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Rugare",
-      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
         "name": "Our Powers",
         "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 156795,
       "name": "Our Powers",
       "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
+      },
+      "artists": [
+        {
+          "name": "Deep Vibrations",
+          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
         "name": "Eruptive Love",
         "url": "https://open.spotify.com/album/6vLBNsXnG8LT8e6hJ0IgCr"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Lumiere",
-        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
+        "name": "Sighflow",
+        "url": "https://open.spotify.com/album/1avfK96H7mThKNJaFTfD9L"
       },
       "artists": [
         {
-          "name": "Deep Vibrations",
-          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
+          "name": "Ra Kuyou",
+          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Lumiere",
-      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+      "duration_ms": 230552,
+      "name": "Sighflow",
+      "url": "https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1359,22 +1375,6 @@
       "duration_ms": 193269,
       "name": "Drifting Together",
       "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
-        "name": "Sighflow",
-        "url": "https://open.spotify.com/album/1avfK96H7mThKNJaFTfD9L"
-      },
-      "artists": [
-        {
-          "name": "Ra Kuyou",
-          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
-        }
-      ],
-      "duration_ms": 230552,
-      "name": "Sighflow",
-      "url": "https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
-        "name": "Quiet Shores",
-        "url": "https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i"
-      },
-      "artists": [
-        {
-          "name": "S\u00f6mngrus",
-          "url": "https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Quiet Shores",
-      "url": "https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
         "name": "Behind Your Eyes",
         "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2025-04-01 13:18:14",
       "album": {
+        "name": "Quiet Shores",
+        "url": "https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6mngrus",
+          "url": "https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Quiet Shores",
+      "url": "https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
         "name": "Radiant Refractor",
         "url": "https://open.spotify.com/album/6vHEwJU7RQuGeVosC53Qd8"
       },
@@ -1567,26 +1567,6 @@
       "duration_ms": 192052,
       "name": "Radiant Refractor",
       "url": "https://open.spotify.com/track/2vTDJRlpG9YXqphJea4Wwi"
-    },
-    {
-      "added_at": "2025-04-01 13:18:14",
-      "album": {
-        "name": "Dawning of a New Age",
-        "url": "https://open.spotify.com/album/13RJqouOZFbkINg35pHskE"
-      },
-      "artists": [
-        {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
-        },
-        {
-          "name": "Center of Attention",
-          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
-        }
-      ],
-      "duration_ms": 180292,
-      "name": "Dawning of a New Age",
-      "url": "https://open.spotify.com/track/4xG9jPm8cwoojFXDkfXDwd"
     },
     {
       "added_at": "2025-04-01 13:18:14",
@@ -1619,6 +1599,26 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2025-04-01 13:18:14",
+      "album": {
+        "name": "Dawning of a New Age",
+        "url": "https://open.spotify.com/album/13RJqouOZFbkINg35pHskE"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        },
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        }
+      ],
+      "duration_ms": 180292,
+      "name": "Dawning of a New Age",
+      "url": "https://open.spotify.com/track/4xG9jPm8cwoojFXDkfXDwd"
     }
   ],
   "unique_name": "DayDreamer",

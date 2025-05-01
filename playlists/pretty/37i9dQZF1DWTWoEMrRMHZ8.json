@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Vanessa da Mata",
-  "num_followers": 350014,
+  "num_followers": 350035,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "PERDURAR (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 143812,
       "name": "Ainda Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Alegoria",
-        "url": "https://open.spotify.com/album/0qqFpxoxCmuImc6GZbsjKv"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 246494,
-      "name": "Alegoria",
-      "url": "https://open.spotify.com/track/205PhA7GIY9gCbAGqEXmYz"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "PALCO",
         "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
@@ -247,22 +231,18 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
+        "name": "Alegoria",
+        "url": "https://open.spotify.com/album/0qqFpxoxCmuImc6GZbsjKv"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 205915,
-      "name": "Mutir\u00e3o de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
+      "duration_ms": 246494,
+      "name": "Alegoria",
+      "url": "https://open.spotify.com/track/205PhA7GIY9gCbAGqEXmYz"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -283,6 +263,26 @@
       "duration_ms": 236618,
       "name": "Voando (Nel Blu Dipinto Di Blu)",
       "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 205915,
+      "name": "Mutir\u00e3o de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -315,26 +315,6 @@
       "duration_ms": 139658,
       "name": "Se Acaso Voc\u00ea Chegasse",
       "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        }
-      ],
-      "duration_ms": 268364,
-      "name": "S\u00f3 Quem Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -427,6 +407,26 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Quem dir\u00e1?",
-        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 172580,
-      "name": "Quem dir\u00e1?",
-      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Menina da Pomp\u00e9ia",
         "url": "https://open.spotify.com/album/26hFaJEcvg8iPaoJ1X2NVL"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 209432,
       "name": "Menina da Pomp\u00e9ia",
       "url": "https://open.spotify.com/track/1MlzqEZcme3f8AixwdJciR"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Quem dir\u00e1?",
+        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 172580,
+      "name": "Quem dir\u00e1?",
+      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
+        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 186696,
+      "name": "Pra gente acordar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -587,18 +603,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
-        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
+        "name": "JV30 Tour Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 186696,
-      "name": "Pra gente acordar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
+      "duration_ms": 342150,
+      "name": "Ela Une Todas as Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -623,26 +643,6 @@
       "duration_ms": 321115,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "JV30 Tour Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 342150,
-      "name": "Ela Une Todas as Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "AULA TOLLER - AO VIVO - AMOROSA (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 204680,
       "name": "Nada Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/1mVrGsjVhqWGqLia5c0XN0"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Rivo III e a F\u00e9",
-        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Piquete",
-      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Rivo III e a F\u00e9",
+        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Piquete",
+      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Corredeiras / Sobre N\u00f3s",
-        "url": "https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 172236,
-      "name": "Corredeiras",
-      "url": "https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Eu Vivendo Nossa Vida",
         "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Corredeiras / Sobre N\u00f3s",
+        "url": "https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 172236,
+      "name": "Corredeiras",
+      "url": "https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Parto",
         "url": "https://open.spotify.com/album/2qEugO28U8bHum2Aj8N1KI"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 159069,
       "name": "Tempo Vai Devagar",
       "url": "https://open.spotify.com/track/2Mc9zLRfiPcfzSKYyvdstJ"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+        "name": "C\u00e9u da Boca",
+        "url": "https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+      "duration_ms": 240061,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1119,6 +1123,22 @@
       "duration_ms": 224908,
       "name": "Um Triz",
       "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1151,26 +1171,6 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
-        "name": "C\u00e9u da Boca",
-        "url": "https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD"
     },
     {
       "added_at": "2025-04-28 23:26:36",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
         "name": "Pote D'\u00c1gua",
         "url": "https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "50 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 263014,
-      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Um Tempo S\u00f3",
         "url": "https://open.spotify.com/album/5LneCBBTEFVazqLXQOv2bd"
       },
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-04-28 23:26:36",
       "album": {
-        "name": "CORAL",
-        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        },
-        {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
-        }
-      ],
-      "duration_ms": 269374,
-      "name": "Iy\u00e1 Mesan",
-      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
-    },
-    {
-      "added_at": "2025-04-28 23:26:36",
-      "album": {
         "name": "Ponto de Nan\u00e3",
         "url": "https://open.spotify.com/album/5ooAjrq436xsLwvBDGDjIp"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 105000,
       "name": "Ponto de Nan\u00e3",
       "url": "https://open.spotify.com/track/2ig89NtTkl5HJglRtCnnLb"
+    },
+    {
+      "added_at": "2025-04-28 23:26:36",
+      "album": {
+        "name": "CORAL",
+        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 269374,
+      "name": "Iy\u00e1 Mesan",
+      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
     },
     {
       "added_at": "2025-04-28 23:26:36",

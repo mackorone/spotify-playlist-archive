@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93291,
+  "num_followers": 93286,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
         "name": "Fan f\u00f6r dig",
         "url": "https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 221560,
       "name": "Lake Geneva",
       "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -727,6 +711,38 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "Where Flowers Grow",
+        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
         "name": "Alla Tittar P\u00e5 Mig",
         "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 235705,
       "name": "East River Park Song",
       "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
-        "name": "Where Flowers Grow",
-        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
-        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Han lever (Himmelsf\u00e4rden)",
-      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Han lever (Himmelsf\u00e4rden)",
+      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Psalmer fr\u00e5n sjunde himlen",
-        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Hit men inte l\u00e4ngre",
-      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
         "name": "Solens alla \u00e4nglar",
         "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Den jag aldrig kunde va",
-        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
+        "name": "Psalmer fr\u00e5n sjunde himlen",
+        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 169301,
-      "name": "Den jag aldrig kunde va",
-      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
+      "duration_ms": 178826,
+      "name": "Hit men inte l\u00e4ngre",
+      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -995,6 +979,22 @@
       "duration_ms": 136306,
       "name": "Opening Act",
       "url": "https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "Den jag aldrig kunde va",
+        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Den jag aldrig kunde va",
+      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "All I See Is You",
-        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
         "name": "En s\u00e5ng till Selma",
         "url": "https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp"
       },
@@ -1195,6 +1163,38 @@
       "duration_ms": 238226,
       "name": "H\u00f6r mig!",
       "url": "https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 192148,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "All I See Is You",
+        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Back To The Sea",
-        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Back To The Sea",
-      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
         "name": "Country Tack Vare Er",
         "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
+        "name": "Back To The Sea",
+        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Back To The Sea",
+      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
         "name": "L\u00f6ften",
         "url": "https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO"
       },
@@ -1395,18 +1395,26 @@
     {
       "added_at": "2025-04-24 22:00:40",
       "album": {
-        "name": "Whiskey Tears II",
-        "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
+        "name": "Ansiktenas mystik",
+        "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
       },
       "artists": [
         {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        },
+        {
+          "name": "Annika Norlin",
+          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
+        },
+        {
+          "name": "Frostviksk\u00f6ren",
+          "url": "https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Whiskey Tears II",
-      "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
+      "duration_ms": 200946,
+      "name": "Ansiktenas mystik",
+      "url": "https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -1423,6 +1431,22 @@
       "duration_ms": 226034,
       "name": "Mars Venus",
       "url": "https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw"
+    },
+    {
+      "added_at": "2025-04-24 22:00:40",
+      "album": {
+        "name": "Whiskey Tears II",
+        "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Whiskey Tears II",
+      "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
     },
     {
       "added_at": "2025-04-24 22:00:40",
@@ -1455,30 +1479,6 @@
       "duration_ms": 189250,
       "name": "R\u00e4dda mig - Akustisk Version",
       "url": "https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN"
-    },
-    {
-      "added_at": "2025-04-24 22:00:40",
-      "album": {
-        "name": "Ansiktenas mystik",
-        "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Annika Norlin",
-          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
-        },
-        {
-          "name": "Frostviksk\u00f6ren",
-          "url": "https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "Ansiktenas mystik",
-      "url": "https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Giallorenzo in cover con il nuovo album INNI E CANTI
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,417 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,407 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

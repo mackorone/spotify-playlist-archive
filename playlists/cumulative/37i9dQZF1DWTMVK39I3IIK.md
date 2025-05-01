@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Karla Korsbak
 
-201 songs - 10 hr 34 min
+202 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Kender Du Følelsen](https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Trampoliner](https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4) | 2:31 | 2024-06-27 | 2025-02-21 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-21 |  |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2024-10-10 |  |
-| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
+| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 | 2025-05-01 |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 |  |
@@ -180,6 +180,7 @@
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
 | [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-11 | 2024-10-12 |
 | [Sådan nogen som os](https://open.spotify.com/track/2rcPLBGIR2ZeXkcKuuTgwN) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q), [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Martin Johannes Larsen](https://open.spotify.com/artist/5MRuy6GE6v6wUrCrvrF6mt) | [Sådan nogen som os](https://open.spotify.com/album/15PAmqov9dExYI5756SSfl) | 3:08 | 2025-04-17 |  |
+| [Sæson](https://open.spotify.com/track/65Nq6t6JmdfVOf2IIkCIgX) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Sæson](https://open.spotify.com/album/0rjKYgUC4EPdh7uJz338XZ) | 3:10 | 2025-04-24 |  |
 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 | 2024-10-24 |  |
 | [Tag Mig Som Jeg Er](https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Tag Mig Som Jeg Er](https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH) | 3:15 | 2025-01-06 |  |
 | [Tandlæge](https://open.spotify.com/track/44RZ2zrp3rfeUL9yrboOxB) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Tandlæge](https://open.spotify.com/album/39knlRfz425t69wjmm0por) | 2:54 | 2025-01-30 |  |

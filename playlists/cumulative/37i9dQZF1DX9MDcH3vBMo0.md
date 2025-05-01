@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-813 songs - 1 day 11 hr 20 min
+814 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 | 2022-07-20 | 2025-03-19 |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-04-21 | 2022-07-21 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-04-21 | 2024-03-26 |
+| [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 | 2025-04-30 |  |
 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 | 2024-02-13 |  |
 | [Lost in Trees](https://open.spotify.com/track/4OKxyAfD6CQaMM8NiJlIPm) | [Quinn Richman](https://open.spotify.com/artist/6kUZujYelwuZqTBiSagcrn) | [Lost in Trees](https://open.spotify.com/album/7yy0RGH5aj74t0EYBeLZHE) | 2:54 | 2022-04-21 | 2022-10-21 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-21 | 2024-08-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Dere
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,240 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,263 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 40 | [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 |
 | 41 | [Setunggal](https://open.spotify.com/track/3rImeC1HHwYVd0e2ZBxR7J) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Setunggal](https://open.spotify.com/album/40IGg90IOZuMFtQLRTvfpV) | 4:48 |
 | 42 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 |
-| 43 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
+| 43 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
 | 44 | [Elegi Esok Pagi](https://open.spotify.com/track/4NuTMOmnKTWBsYh2vn9Rey) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC), [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Elegi Esok Pagi](https://open.spotify.com/album/7hQBSVBwUgEq8brOZxSy3N) | 3:44 |
 | 45 | [Sedihku Bahagiamu](https://open.spotify.com/track/2ul3AD4XozdTPUPujnWtzw) | [GITA](https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q) | [Sedihku Bahagiamu](https://open.spotify.com/album/1TkWhA4CsWl0TVoiL8go09) | 3:49 |
 | 46 | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/track/4Ep077zYziACE6aJBN6w7L) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW) | 4:07 |

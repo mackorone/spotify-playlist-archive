@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 76799,
+  "num_followers": 76814,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Waters of Nazareth (The Remixes)",
-        "url": "https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Erol Alkan",
-          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
-        }
-      ],
-      "duration_ms": 372600,
-      "name": "Waters of Nazareth - Erol Alkan Remix",
-      "url": "https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Drunk Girls (Holy Ghost! Remix)",
         "url": "https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 450546,
       "name": "Drunk Girls - Holy Ghost! Remix",
       "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Waters of Nazareth (The Remixes)",
+        "url": "https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Erol Alkan",
+          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
+        }
+      ],
+      "duration_ms": 372600,
+      "name": "Waters of Nazareth - Erol Alkan Remix",
+      "url": "https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj"
     },
     {
       "added_at": "2024-08-08 18:53:25",

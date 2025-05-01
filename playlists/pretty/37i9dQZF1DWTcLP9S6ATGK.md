@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakira Jasmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,338 likes - 95 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,346 likes - 95 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

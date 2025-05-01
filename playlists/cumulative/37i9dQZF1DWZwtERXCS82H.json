@@ -6761,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "Lost in Motion",
+        "url": "https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192742,
+      "name": "Lost in Motion",
+      "url": "https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx"
+    },
+    {
+      "album": {
         "name": "Lost In The Bookstore",
         "url": "https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT"
       },

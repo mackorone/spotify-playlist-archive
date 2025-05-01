@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Snow White.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,203 likes - 156 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,306 likes - 156 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 9 | [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 |
 | 10 | [When Will My Life Begin? \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:32 |
 | 11 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 |
-| 12 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 12 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 13 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 |
 | 14 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:44 |
 | 15 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 |

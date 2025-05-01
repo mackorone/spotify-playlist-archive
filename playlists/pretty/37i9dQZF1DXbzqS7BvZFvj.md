@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,802 likes - 78 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,806 likes - 78 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 36 | [Fake Names](https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Fake Names](https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX) | 2:39 |
 | 37 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 |
 | 38 | [Nothing Really Matters](https://open.spotify.com/track/39WrHcSaHfV38HRUJOid1K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:37 |
-| 39 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
-| 40 | [Deep](https://open.spotify.com/track/3oYFqF7jwJp4sxZ0WQworY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:22 |
-| 41 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
+| 39 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
+| 40 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
+| 41 | [Deep](https://open.spotify.com/track/3oYFqF7jwJp4sxZ0WQworY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:22 |
 | 42 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
 | 43 | [To The Men That Love Women After Heartbreak](https://open.spotify.com/track/64yNVFQSll4Sl2Vfe4G1di) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:52 |
 | 44 | [WEATHER](https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:54 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 71 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
 | 72 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 
-Snapshot ID: `AbwGyAAAAACD60V/kLMnrgGok9pysZUE`
+Snapshot ID: `AbwMVAAAAABJSVdXmEiBB4RkyM0jWfr1`

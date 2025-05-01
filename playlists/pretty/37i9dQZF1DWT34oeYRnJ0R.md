@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,569 likes - 200 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,637 likes - 200 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 140 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
 | 141 | [soso \(with Ozuna\)](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso \(with Ozuna\)](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 |
 | 142 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
-| 143 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
+| 143 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
 | 144 | [Tarde](https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Tarde](https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu) | 3:25 |
 | 145 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 146 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |

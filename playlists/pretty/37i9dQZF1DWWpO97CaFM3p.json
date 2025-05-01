@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1019961,
+  "num_followers": 1019943,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 232618,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
@@ -359,8 +343,24 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+      "duration_ms": 232618,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Lebanon",
-      "url": "https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Lebanon",
+      "url": "https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Drivin (feat. Field Medic)",
-        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Drivin (feat. Field Medic)",
-      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Drivin (feat. Field Medic)",
+        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Drivin (feat. Field Medic)",
+      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
     },
     {
       "added_at": "2025-01-10 05:00:40",

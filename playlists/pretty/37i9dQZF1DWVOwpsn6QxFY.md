@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,985 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,050 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 20 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 21 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
 | 22 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 |
-| 23 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
-| 24 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 |
+| 23 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 |
+| 24 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
 | 25 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 26 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 27 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 30 | [Bonnet Of Pins](https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Bonnet Of Pins](https://open.spotify.com/album/4yNVLDb15XthYKBzMq2sy1) | 4:47 |
 | 31 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 32 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 |
-| 33 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
-| 34 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
+| 33 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
+| 34 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
 | 35 | [Garden of Eden](https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:55 |
 | 36 | [Clean Heart](https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 3:52 |
 | 37 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 46 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 47 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 |
 | 48 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
-| 49 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
-| 50 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
+| 49 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
+| 50 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
 | 51 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 52 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 |
-| 53 | [Listen2me](https://open.spotify.com/track/1xdms5iZAK3cUGB4pSrU5y) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Listen2me](https://open.spotify.com/album/4GmCtWI0Qc8rO0dIJktM92) | 2:43 |
-| 54 | [Maybe it Takes Time](https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX) | [EARTHBREAKS](https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs) | 3:05 |
+| 53 | [Maybe it Takes Time](https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX) | [EARTHBREAKS](https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs) | 3:05 |
+| 54 | [Listen2me](https://open.spotify.com/track/1xdms5iZAK3cUGB4pSrU5y) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Listen2me](https://open.spotify.com/album/4GmCtWI0Qc8rO0dIJktM92) | 2:43 |
 | 55 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 56 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 57 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |

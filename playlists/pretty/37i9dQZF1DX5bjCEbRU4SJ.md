@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,443 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,493 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 27 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
 | 28 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 29 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 |
-| 30 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
-| 31 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
-| 32 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
-| 33 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
+| 30 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
+| 31 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
+| 32 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
+| 33 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
 | 34 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
-| 35 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
-| 36 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
-| 37 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
-| 38 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
-| 39 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
-| 40 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
-| 41 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |
-| 42 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
-| 43 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 35 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 36 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
+| 37 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
+| 38 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 39 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
+| 40 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
+| 41 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
+| 42 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |
+| 43 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 44 | [Something](https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 3:52 |
 | 45 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
 | 46 | [Gospel](https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer \(Standard Version\)](https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX) | 4:29 |

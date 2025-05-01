@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: kanekoayano
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,181 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,268 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 73 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
 | 74 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
 | 75 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
-| 76 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
+| 76 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 77 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
-| 78 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
+| 78 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 79 | [やってみよう](https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 2:49 |
 | 80 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 81 | [キミシダイ列車](https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [残響リファレンス](https://open.spotify.com/album/46tySm112BCkEkfssfPODv) | 4:14 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 97 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
 | 98 | [Zetsubou Billy](https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:44 |
 | 99 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
-| 100 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
+| 100 | [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 |
 
 Snapshot ID: `aBEYnQAAAAD1ELx7iy53UIEJYQkATQc/`

@@ -8825,7 +8825,7 @@
     },
     {
       "album": {
-        "name": "Kontroversiell",
+        "name": "Kontroversiell (Intro)",
         "url": "https://open.spotify.com/album/6cHgHK8oer5oNyfEJqf0ng"
       },
       "artists": [
@@ -8842,7 +8842,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 113333,
-      "name": "Kontroversiell",
+      "name": "Kontroversiell (Intro)",
       "url": "https://open.spotify.com/track/7z2GpADNXu1Ml5BrnreLPD"
     },
     {
@@ -12410,7 +12410,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
@@ -14768,6 +14768,28 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        },
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Eme Malafe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,307 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,452 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 6 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 |
 | 7 | [Amé](https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amé](https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY) | 3:26 |
 | 8 | [Tiffany](https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 4:24 |
-| 9 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
+| 9 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 10 | [Jacobo Grinberg](https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Jacobo Grinberg](https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t) | 4:41 |
 | 11 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 |
 | 12 | [La Novena Maravilla \- En Vivo](https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 2:53 |

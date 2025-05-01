@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Lorde, Zara Larsson, Benson Boone og mörgum fleiri!
 
-5,563 songs - 12 day 10 hr 57 min
+5,564 songs - 12 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-06 | 2024-09-13 |
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2025-03-14 | 2025-03-21 |
 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 | 2025-03-14 | 2025-03-21 |
+| [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-04-25 |  |
 | [All That Matters](https://open.spotify.com/track/1CpRmYozOKinQpQ7SXB4T8) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [All That Matters](https://open.spotify.com/album/5bN0t7gKY1LAYMQJOPAqQt) | 3:27 | 2024-09-13 | 2024-09-20 |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-14 | 2025-02-21 |
 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 | 2025-03-07 | 2025-03-14 |
@@ -1406,7 +1407,7 @@
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-08 | 2024-11-15 |
 | [Embawe](https://open.spotify.com/track/7Intk4aQEztM8OQ14anpyg) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP) | [Embawe](https://open.spotify.com/album/2qPAdfsMZFRD4xTx9AsoX2) | 3:01 | 2024-06-14 | 2024-06-21 |
 | [Embers](https://open.spotify.com/track/7KgBD9s7Jl2rs1Gs4OQMM8) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Embers](https://open.spotify.com/album/0VIa7h8DSdt4iQQmr8C94z) | 4:15 | 2025-02-14 | 2025-02-21 |
-| [Eminence](https://open.spotify.com/track/4sVEmYLNcOKghRVsimleWR) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Eminence](https://open.spotify.com/album/6ykfvqtbiyHRpFTH6rkwzE) | 4:43 | 2025-04-25 |  |
+| [Eminence](https://open.spotify.com/track/4sVEmYLNcOKghRVsimleWR) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Eminence](https://open.spotify.com/album/6ykfvqtbiyHRpFTH6rkwzE) | 4:43 | 2025-04-25 | 2025-05-01 |
 | [Emotion](https://open.spotify.com/track/31bNcIqLXkYb75hHZFpHLO) | [Skotte](https://open.spotify.com/artist/5GDfELQRat65DAU2FvjTPb) | [Emotion](https://open.spotify.com/album/2FQel893gCTURYMwFVEt4T) | 2:52 | 2024-09-27 | 2024-09-29 |
 | [Emotion Overload](https://open.spotify.com/track/7EqFx2b0yW3WTlzcwtW557) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [You Are The Sun, I Am The Sky](https://open.spotify.com/album/0JaZ85yJFrNJAsUNzkJeNl) | 3:42 | 2025-02-14 | 2025-02-21 |
 | [emotions](https://open.spotify.com/track/2l8B1YWKrfRvAgNCvj5OQ9) | [Meltone](https://open.spotify.com/artist/1dUCNPeKalY47gZ7DKOLQI), [deneb](https://open.spotify.com/artist/7Jro097UIKHEzMEWWiio5P), [Ella Myrell](https://open.spotify.com/artist/6oGuEd043CynT5pq8Mb1fa) | [emotions](https://open.spotify.com/album/5n81vET3vriCG05vDAw5dt) | 2:31 | 2024-06-14 | 2024-06-17 |

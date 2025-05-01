@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 다비치\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-600 songs - 1 day 15 hr 15 min
+601 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [BREATHE](https://open.spotify.com/track/4ndTICyCegkTXsgB4WWgnV) | [Kim Yong Jin](https://open.spotify.com/artist/0ElqbFfqoh0j4IfNUfv04v) | [BREATHE](https://open.spotify.com/album/0yvpF9zpvQKg38gFUKCicr) | 4:27 | 2022-03-24 | 2022-04-19 |
 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 | 2022-07-25 | 2024-04-19 |
 | [BREATHE](https://open.spotify.com/track/7iXL8WCagyp9aoWTWF1Tn8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk) | 4:48 | 2021-12-20 | 2022-07-29 |
+| [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-04-30 |  |
 | [Bruising](https://open.spotify.com/track/1fA5Eiu5GgHvJN5YogiAIa) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 2:43 | 2021-12-20 | 2022-07-26 |
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 |  |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-04-27 | 2022-07-04 |
@@ -386,7 +387,7 @@
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-09-11 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-20 |  |
 | [Only You](https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Only You](https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24) | 4:31 | 2024-11-05 | 2025-01-31 |
-| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 |  |
+| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 | 2025-05-01 |
 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 | 2021-12-27 | 2022-07-13 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-20 | 2022-07-28 |
 | [Orpheus \(Feat\. Jo Gwangil\)](https://open.spotify.com/track/77pO7md3F2lmlXioPzNY0q) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [First of all](https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1) | 3:51 | 2022-11-23 | 2022-12-25 |

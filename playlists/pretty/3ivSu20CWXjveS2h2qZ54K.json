@@ -1,28 +1,44 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6792,
+  "num_followers": 6795,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAC1JM//iBjjlE02iUa0tbgKenirL6qE",
+  "snapshot_id": "AAC1O0CQ2viOU79M9z+9oSwSLrvj9igG",
   "tracks": [
     {
-      "added_at": "2025-04-29 19:42:09",
+      "added_at": "2025-04-30 14:13:57",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
+        "name": "ICU2",
+        "url": "https://open.spotify.com/album/5z7cEAqIEkYHlTBy9w2Ktj"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
         }
       ],
-      "duration_ms": 225726,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+      "duration_ms": 162010,
+      "name": "ICU2",
+      "url": "https://open.spotify.com/track/07w8xsvAWdaJzJcC524QHH"
+    },
+    {
+      "added_at": "2025-04-30 07:52:50",
+      "album": {
+        "name": "Find Xanadu",
+        "url": "https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Find Xanadu",
+      "url": "https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b"
     },
     {
       "added_at": "2025-04-29 20:23:11",
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
     },
     {
+      "added_at": "2025-04-29 19:42:09",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 225726,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
+    },
+    {
+      "added_at": "2025-04-30 13:00:08",
+      "album": {
+        "name": "El mayo florido de Karmento",
+        "url": "https://open.spotify.com/album/30kcQLcdbo3hwlX7MA9B49"
+      },
+      "artists": [
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "El mayo florido de Karmento",
+      "url": "https://open.spotify.com/track/6F3FIj2H1JFXRTB9BoqeAL"
+    },
+    {
       "added_at": "2025-04-29 19:42:19",
       "album": {
         "name": "Melodie Is A Wound",
@@ -55,6 +103,118 @@
       "duration_ms": 457063,
       "name": "Melodie Is A Wound",
       "url": "https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz"
+    },
+    {
+      "added_at": "2025-04-30 13:24:40",
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 189607,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
+    },
+    {
+      "added_at": "2025-04-30 13:00:31",
+      "album": {
+        "name": "Alg\u00fa vol un flam?",
+        "url": "https://open.spotify.com/album/43MjODhGhP0FH73Qla6m3p"
+      },
+      "artists": [
+        {
+          "name": "BERNARDA",
+          "url": "https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW"
+        }
+      ],
+      "duration_ms": 91166,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6LqwOMWdGMTmkfkB7dZe9P"
+    },
+    {
+      "added_at": "2025-04-30 07:53:24",
+      "album": {
+        "name": "Feisty",
+        "url": "https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp"
+    },
+    {
+      "added_at": "2025-04-30 14:59:52",
+      "album": {
+        "name": "Death With Dignity (Demo)",
+        "url": "https://open.spotify.com/album/2kokDBIZdKZt75wWDwSTPt"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 242633,
+      "name": "Death with Dignity - Demo",
+      "url": "https://open.spotify.com/track/0JTyN48NOWQPDurLmdRamX"
+    },
+    {
+      "added_at": "2025-04-29 19:42:44",
+      "album": {
+        "name": "The Catastrophe (Good Luck With That, Man)",
+        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 328052,
+      "name": "The Catastrophe (Good Luck With That, Man)",
+      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
+    },
+    {
+      "added_at": "2025-04-30 15:00:36",
+      "album": {
+        "name": "Ste The Beautiful Martyr 1st Attempt",
+        "url": "https://open.spotify.com/album/55QB0uS2Bp83KLN1qW5UGB"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 176115,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu"
+    },
+    {
+      "added_at": "2025-04-30 15:00:20",
+      "album": {
+        "name": "Pink Sky",
+        "url": "https://open.spotify.com/album/1DF7F5mTMONPQ74nnHURmt"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "Pink Sky",
+      "url": "https://open.spotify.com/track/1NnkLQ54VZnzmd9z4rzOwa"
     },
     {
       "added_at": "2025-04-29 19:43:02",
@@ -73,20 +233,24 @@
       "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
     },
     {
-      "added_at": "2025-04-29 19:42:44",
+      "added_at": "2025-04-30 09:10:31",
       "album": {
-        "name": "The Catastrophe (Good Luck With That, Man)",
-        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
+        "name": "Dictado 1 \u2013 obertura",
+        "url": "https://open.spotify.com/album/04qj6WA23cr49dhuTvARLi"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Roc\u00edo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ"
+        },
+        {
+          "name": "Pedro Rojas Og\u00e1yar",
+          "url": "https://open.spotify.com/artist/7KUXAiLy4mN3ZOpW8ykJR6"
         }
       ],
-      "duration_ms": 328052,
-      "name": "The Catastrophe (Good Luck With That, Man)",
-      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
+      "duration_ms": 141399,
+      "name": "Dictado 1 \u2013 obertura",
+      "url": "https://open.spotify.com/track/23Q5TWbdUIrbl0Yc2UwnLA"
     },
     {
       "added_at": "2025-04-29 19:44:31",
@@ -119,6 +283,26 @@
       "duration_ms": 251813,
       "name": "Possession",
       "url": "https://open.spotify.com/track/1Izk4abuGJ6cFtJgKBl21z"
+    },
+    {
+      "added_at": "2025-04-30 15:01:14",
+      "album": {
+        "name": "The First Time Ever I Saw Your Face (with Hozier)",
+        "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 273748,
+      "name": "The First Time Ever I Saw Your Face (with Hozier)",
+      "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
     },
     {
       "added_at": "2025-04-24 08:06:47",

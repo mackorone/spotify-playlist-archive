@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 228188,
       "name": "GOOD4U",
       "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
@@ -4462,6 +4462,24 @@
       "duration_ms": 127802,
       "name": "My Man",
       "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
+    },
+    {
+      "album": {
+        "name": "My My My",
+        "url": "https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "My My My",
+      "url": "https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii"
     },
     {
       "album": {

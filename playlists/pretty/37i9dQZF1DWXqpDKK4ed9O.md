@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,630,887 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,631,166 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 72 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
 | 73 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
 | 74 | [Back At One](https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm) | 4:22 |
-| 75 | [I Do \(Cherish You\)](https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/5QmzvShOSXdLds65q3jbxx) | 3:48 |
+| 75 | [When You Say Nothing At All](https://open.spotify.com/track/6DVHR8Qf58fDMH6JZNK7Ur) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan \(New EU Version\)](https://open.spotify.com/album/0hbJRqlyoBgjR4Sml5r3TV) | 4:18 |
 
 Snapshot ID: `ZpGEhQAAAADgSIqXzPX73HSmjDJ32AVh`

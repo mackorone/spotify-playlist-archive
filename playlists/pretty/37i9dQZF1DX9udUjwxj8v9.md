@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,143 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,145 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 10 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 11 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
 | 12 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 |
-| 13 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
-| 14 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
+| 13 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
+| 14 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 15 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 16 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 17 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |

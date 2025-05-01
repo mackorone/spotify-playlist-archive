@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa paluun tehnyt Tiisu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,606 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/track/2IiddvoKy87vaUihFDhw0c) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Vaikee voittaa \(jollei viitsi koittaa\)](https://open.spotify.com/album/6qJNYMtP70JTJQUbwoqFoI) | 3:06 |
 | 2 | [Kevätjuhla](https://open.spotify.com/track/4WIdjjqpJV09zBLu8mmfvR) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kevätjuhla](https://open.spotify.com/album/2t69MAz2OvViQYBvP8NbNR) | 3:10 |
-| 3 | [Lippissukupolven joutsenlaulu](https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Lippissukupolven joutsenlaulu](https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM) | 4:27 |
-| 4 | [Kyynia](https://open.spotify.com/track/0RFY1O3kNs4cR5f29BogOO) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Freeman](https://open.spotify.com/artist/0GB63Taq59i582Lr9z3K2f) | [Kyynia](https://open.spotify.com/album/71cbUz8t74nKc8R1jlj8Yk) | 3:47 |
-| 5 | [Dusty](https://open.spotify.com/track/1JBXeDtk85Bt94DGd502tk) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Dusty](https://open.spotify.com/album/60aUHME0C9tz4HY8nI1ViZ) | 3:41 |
-| 6 | [Tuolileikki](https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Tuolileikki](https://open.spotify.com/album/5TwY7Bs9WqD0LgNFOKJnOj) | 3:17 |
-| 7 | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz) | 2:58 |
-| 8 | [Minä ja kuu](https://open.spotify.com/track/2ODjk1AMq1UmauuxyTJYi3) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Minä ja kuu](https://open.spotify.com/album/6M0dimKuPiLf2IKiw7jwcP) | 4:09 |
-| 9 | [Lasipalatsi](https://open.spotify.com/track/6rFjlvQDwemt0u7q4aSCh5) | [Krypta](https://open.spotify.com/artist/4zRDU0LpP6xtY3Owx6ttMl) | [Lasipalatsi](https://open.spotify.com/album/1oIemitjIcARr4dBbWEJ9h) | 4:11 |
-| 10 | [Kuumeisen unta](https://open.spotify.com/track/0Hmp3uiHMsvpYgj0RXkFkR) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx), [Janne Laurila](https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU) | [Kuumeisen unta](https://open.spotify.com/album/5CBMSBe8VRDAPZhqdeqcCo) | 3:00 |
-| 11 | [Leijutte Eetterissä](https://open.spotify.com/track/77jRVMrsPepJnbl3PMjLcz) | [Tove Johnson](https://open.spotify.com/artist/72bjR59xkm5PXi20ubpEsA) | [Päättymättömän Elämän Salaisuus](https://open.spotify.com/album/5hEIiQ7XPyTKgfRKGP0OG6) | 3:57 |
-| 12 | [Pahat tavat](https://open.spotify.com/track/6sniQycPpkszFlnk7QgJVN) | [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Pahat tavat](https://open.spotify.com/album/19W0WirLkEj7c2fJbB6xIN) | 2:57 |
-| 13 | [Kaikki](https://open.spotify.com/track/6Y2Uece6jhbUllTUXnymkA) | [Kirsikkapuu](https://open.spotify.com/artist/0e9IBdj2kYHrIMUb5vvrXb) | [Kaikki](https://open.spotify.com/album/1szL1yGImlxB0ID16bfHnq) | 2:52 |
-| 14 | [Yks muista](https://open.spotify.com/track/5BejtDzb0Y0SiU368CNmxm) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Yks muista](https://open.spotify.com/album/3gg37qn7NWSLNJLBN6XFiT) | 2:48 |
-| 15 | [Sunday, Sunday](https://open.spotify.com/track/2rGgBq1U7MTE5RX50Ob0av) | [Pastis](https://open.spotify.com/artist/7FfiiGVEj2XvMjC4U4L4Yk) | [Sunday, Sunday / Into the Wild](https://open.spotify.com/album/1weFlEsWm1tgDK4HPpZk2G) | 3:04 |
-| 16 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
+| 3 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
+| 4 | [Lippissukupolven joutsenlaulu](https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Lippissukupolven joutsenlaulu](https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM) | 4:27 |
+| 5 | [Kyynia](https://open.spotify.com/track/0RFY1O3kNs4cR5f29BogOO) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Freeman](https://open.spotify.com/artist/0GB63Taq59i582Lr9z3K2f) | [Kyynia](https://open.spotify.com/album/71cbUz8t74nKc8R1jlj8Yk) | 3:47 |
+| 6 | [Dusty](https://open.spotify.com/track/1JBXeDtk85Bt94DGd502tk) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Dusty](https://open.spotify.com/album/60aUHME0C9tz4HY8nI1ViZ) | 3:41 |
+| 7 | [Tuolileikki](https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Tuolileikki](https://open.spotify.com/album/5TwY7Bs9WqD0LgNFOKJnOj) | 3:17 |
+| 8 | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz) | 2:58 |
+| 9 | [Minä ja kuu](https://open.spotify.com/track/2ODjk1AMq1UmauuxyTJYi3) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Minä ja kuu](https://open.spotify.com/album/6M0dimKuPiLf2IKiw7jwcP) | 4:09 |
+| 10 | [Lasipalatsi](https://open.spotify.com/track/6rFjlvQDwemt0u7q4aSCh5) | [Krypta](https://open.spotify.com/artist/4zRDU0LpP6xtY3Owx6ttMl) | [Lasipalatsi](https://open.spotify.com/album/1oIemitjIcARr4dBbWEJ9h) | 4:11 |
+| 11 | [Kuumeisen unta](https://open.spotify.com/track/0Hmp3uiHMsvpYgj0RXkFkR) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx), [Janne Laurila](https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU) | [Kuumeisen unta](https://open.spotify.com/album/5CBMSBe8VRDAPZhqdeqcCo) | 3:00 |
+| 12 | [Leijutte Eetterissä](https://open.spotify.com/track/77jRVMrsPepJnbl3PMjLcz) | [Tove Johnson](https://open.spotify.com/artist/72bjR59xkm5PXi20ubpEsA) | [Päättymättömän Elämän Salaisuus](https://open.spotify.com/album/5hEIiQ7XPyTKgfRKGP0OG6) | 3:57 |
+| 13 | [Yks muista](https://open.spotify.com/track/5BejtDzb0Y0SiU368CNmxm) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Yks muista](https://open.spotify.com/album/3gg37qn7NWSLNJLBN6XFiT) | 2:48 |
+| 14 | [Pahat tavat](https://open.spotify.com/track/6sniQycPpkszFlnk7QgJVN) | [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Pahat tavat](https://open.spotify.com/album/19W0WirLkEj7c2fJbB6xIN) | 2:57 |
+| 15 | [Kaikki](https://open.spotify.com/track/6Y2Uece6jhbUllTUXnymkA) | [Kirsikkapuu](https://open.spotify.com/artist/0e9IBdj2kYHrIMUb5vvrXb) | [Kaikki](https://open.spotify.com/album/1szL1yGImlxB0ID16bfHnq) | 2:52 |
+| 16 | [Sunday, Sunday](https://open.spotify.com/track/2rGgBq1U7MTE5RX50Ob0av) | [Pastis](https://open.spotify.com/artist/7FfiiGVEj2XvMjC4U4L4Yk) | [Sunday, Sunday / Into the Wild](https://open.spotify.com/album/1weFlEsWm1tgDK4HPpZk2G) | 3:04 |
 | 17 | [Ei tarvii pystyä](https://open.spotify.com/track/5GF7wTp4dtTXUaBJgkT9zC) | [Pekka Tapani](https://open.spotify.com/artist/2S793yJciLKt7JWMCiINpy) | [Ei tarvii pystyä](https://open.spotify.com/album/7iBVKEKZyiJ5CRFr3R3NI9) | 4:46 |
 | 18 | [Juon mun kyyneliin](https://open.spotify.com/track/0xMSYUiybH7d1e87Unqf3q) | [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG) | [Juon mun kyyneliin](https://open.spotify.com/album/18GeyJkbfkMLVrRyBfgsn7) | 2:43 |
 | 19 | [Land of Cold](https://open.spotify.com/track/3YApT4j37dN6gSz899FHJh) | [Ada Aik](https://open.spotify.com/artist/5dZ31Ks9aZoFZ2CWF9mkRT) | [5 Hours of Light](https://open.spotify.com/album/4xH9lV2K21Bkvcydf5cBYx) | 4:32 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 81 | [Mitä Jos](https://open.spotify.com/track/3Zz8k4CBzApCU2Smo8DcuY) | [Alia Selene](https://open.spotify.com/artist/5tfPE6p57No6EgjzfV5Tyc) | [Mitä Jos](https://open.spotify.com/album/6N4FzCnyV961lRkn9tArNu) | 4:19 |
 | 82 | [Oma napa](https://open.spotify.com/track/5W6jrVSwtkVoPbXayfJWJD) | [Joku puhuu](https://open.spotify.com/artist/0KFVMp09QQYB1SOuCwpRQA) | [Oma napa](https://open.spotify.com/album/1cKHl9DDLHCwy47QA81bze) | 3:19 |
 
-Snapshot ID: `aA4BswAAAACYncyOo+nQXT6k9YY8SO0E`
+Snapshot ID: `aBISKAAAAAAeI9upt1MiHsM0LkHUoJsq`

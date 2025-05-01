@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Tim Godfrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,901 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,935 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 26 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 27 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 28 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 29 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
-| 30 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 29 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 30 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 31 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 32 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 33 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |

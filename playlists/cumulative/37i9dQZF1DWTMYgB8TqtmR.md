@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-909 songs - 1 day 21 hr 41 min
+910 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 | 2023-02-24 | 2023-04-28 |
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-19 | 2022-08-19 |
 | [Konstnärer](https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Konstnärer](https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4) | 2:30 | 2023-09-28 | 2023-11-10 |
-| [Kontroversiell](https://open.spotify.com/track/7z2GpADNXu1Ml5BrnreLPD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kontroversiell](https://open.spotify.com/album/6cHgHK8oer5oNyfEJqf0ng) | 1:53 | 2025-04-22 |  |
+| [Kontroversiell \(Intro\)](https://open.spotify.com/track/7z2GpADNXu1Ml5BrnreLPD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kontroversiell \(Intro\)](https://open.spotify.com/album/6cHgHK8oer5oNyfEJqf0ng) | 1:53 | 2025-04-22 |  |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-06-01 | 2023-07-07 |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-09 | 2022-09-23 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-31 | 2022-10-28 |
@@ -641,7 +641,7 @@
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2025-01-17 |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-11-10 | 2022-11-18 |
 | [Revolution](https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Revolution](https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy) | 3:00 | 2025-02-26 | 2025-04-04 |
-| [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 |  |
+| [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 | 2025-05-01 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-01-06 |
 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 | 2023-06-30 | 2023-09-09 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2022-10-28 |
@@ -761,6 +761,7 @@
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-02 | 2022-09-02 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2021-12-16 | 2022-02-25 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-11 | 2022-09-30 |
+| [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 | 2025-04-30 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-18 | 2022-07-29 |
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-17 | 2023-08-15 |
 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 | 2025-04-17 |  |

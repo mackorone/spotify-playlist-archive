@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ELLIMEI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,973 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,986 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 2 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
 | 3 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 |
 | 4 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
-| 5 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
-| 6 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 7 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
-| 8 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 9 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
+| 5 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
+| 6 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
+| 7 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
+| 8 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
+| 9 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 10 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 11 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 |
 | 12 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 86 | [Rikki mutta riittävä](https://open.spotify.com/track/3QT7f1k2dDjmSbOC3kc8CA) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Rikki mutta riittävä](https://open.spotify.com/album/1bK8gzhKWIfhVHXzUHAR8e) | 3:01 |
 | 87 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 
-Snapshot ID: `aA4BOgAAAAB7Vt9vDFMiaVnQqp2IOduy`
+Snapshot ID: `aBH6EwAAAAD7bBZYvamMKZe9rrJhv0vj`

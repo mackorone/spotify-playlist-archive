@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,596 likes - 256 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,594 likes - 256 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 117 | [Empire Line](https://open.spotify.com/track/7sE9UKlqaAyMC4B9er9Z1d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 5:23 |
 | 118 | [New Order T\-Shirt](https://open.spotify.com/track/0o9AwotmTahKoEOHZTtgIk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:56 |
 | 119 | [Stoned \- Bonus Track](https://open.spotify.com/track/5M12X6gQDoMMqqlRDg5Bfo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:17 |
-| 120 | [Secret Meeting](https://open.spotify.com/track/6QzNlWknrAEOYPNNAFY1x5) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:44 |
-| 121 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 |
+| 120 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 |
+| 121 | [Secret Meeting](https://open.spotify.com/track/6QzNlWknrAEOYPNNAFY1x5) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:44 |
 | 122 | [I'll Still Destroy You](https://open.spotify.com/track/5L6YfOfsBnaKJHpgsxVgsV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 5:15 |
 | 123 | [All the Wine](https://open.spotify.com/track/3ozTt0Quc33a8ZyD8a44xC) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:15 |
 | 124 | [I Am Easy To Find](https://open.spotify.com/track/6RhmpJYWxzJu16nLgd8lZD) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:30 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 214 | [Sugar Wife \- 2021 Remaster](https://open.spotify.com/track/0di1Z1ucLBhrJxIib52b9O) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers \(2021 Remaster\)](https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt) | 2:21 |
 | 215 | [Bitters & Absolut \- 2021 Remaster](https://open.spotify.com/track/3naQRfduG9PCzvaM44vXGV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 4:00 |
 | 216 | [Hutch](https://open.spotify.com/track/3PGKwZQ6HOl01t2qZjOkJW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt), [Shara Nova](https://open.spotify.com/artist/48scskxHFIigHFEvAiNVb1) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:55 |
-| 217 | [8:22am](https://open.spotify.com/track/7eGxfhhUYXbq8OMupzkDLZ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:24 |
-| 218 | [The Strange Last Flight of Richard Russell](https://open.spotify.com/track/6t3feTQ4ZTTr3Ljn6Tmzl8) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:23 |
+| 217 | [The Strange Last Flight of Richard Russell](https://open.spotify.com/track/6t3feTQ4ZTTr3Ljn6Tmzl8) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:23 |
+| 218 | [8:22am](https://open.spotify.com/track/7eGxfhhUYXbq8OMupzkDLZ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:24 |
 | 219 | [Make Arrangements](https://open.spotify.com/track/56F67C3NPQgld1ePuwCYGu) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:25 |
 | 220 | [Easy to Sabotage](https://open.spotify.com/track/0FZIXdypqLAwZL4PjZExZx) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Naeem](https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:50 |
 | 221 | [Magnolia](https://open.spotify.com/track/7HuXOli9Hy79PSr0zrGMbA) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:55 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 255 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 256 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AbwGtAAAAAAUmQFu0rBB355Clt0lcxac`
+Snapshot ID: `AbwMSgAAAAAp4CE2hXqdkKlFCMqh61ST`

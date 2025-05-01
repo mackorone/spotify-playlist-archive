@@ -4,7 +4,7 @@
 
 > 
 
-2,145 songs - 4 day 19 hr 15 min
+2,147 songs - 4 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [bad idea](https://open.spotify.com/track/5Il6Oe7lr5XM7A0cWbVQtr) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:27 | 2021-08-05 |  |
 | [bad idea!](https://open.spotify.com/track/12fCqKoz3XXUgB5P8YWwOI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 2](https://open.spotify.com/album/7A8meGDqKo7DqqYgILTnUy) | 3:39 | 2021-08-05 |  |
 | [Bad Things](https://open.spotify.com/track/2NIilE0tYXjvQMY2jVfrnL) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:25 | 2022-04-26 |  |
+| [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 | 2025-04-30 |  |
 | [BAD!](https://open.spotify.com/track/22An65gG31JLf9n18qjdhZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:34 | 2021-08-05 |  |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-10-30 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2021-08-05 |  |
@@ -1361,6 +1362,7 @@
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2021-08-05 |  |
 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 | 2022-02-04 |  |
 | [Oedo 808](https://open.spotify.com/track/29vBqbsSx0PaDc7e8SZwqm) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 5:28 | 2022-02-04 |  |
+| [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 | 2025-04-30 |  |
 | [Off the Wall!](https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 3:23 | 2021-08-05 |  |
 | [Off To The Races](https://open.spotify.com/track/5IyblF777jLZj1vGHG2UD3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:59 | 2021-08-05 |  |
 | [Oh Ana](https://open.spotify.com/track/45i70K1PefHafKui2WxH0M) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 3:17 | 2021-08-05 |  |

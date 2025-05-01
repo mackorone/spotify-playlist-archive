@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,466 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,510 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 22 | [Pra Melhorar](https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Pra Melhorar](https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv) | 4:16 |
 | 23 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
 | 24 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
-| 25 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
-| 26 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
-| 27 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
-| 28 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
+| 25 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
+| 26 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 27 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
+| 28 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
 | 29 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
 | 30 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 |
 | 31 | [De Tanto Amor](https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Não Sou Nenhum Roberto, Mas às Vezes Chego Perto](https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh) | 3:31 |

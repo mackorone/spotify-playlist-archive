@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Rolo Sartoro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,299 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,306 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 61 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
 | 62 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |
 | 63 | [Certezas de cartón](https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:38 |
-| 64 | [La llave](https://open.spotify.com/track/1DIAaTZ9Gc0o37SaQ3v0qX) | [La Covacha](https://open.spotify.com/artist/2RVhAjf6JBMPZaIiD39UZm), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La llave](https://open.spotify.com/album/2gPpAi7l115nnS7swaYOQs) | 3:50 |
-| 65 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
+| 64 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
+| 65 | [La llave](https://open.spotify.com/track/1DIAaTZ9Gc0o37SaQ3v0qX) | [La Covacha](https://open.spotify.com/artist/2RVhAjf6JBMPZaIiD39UZm), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La llave](https://open.spotify.com/album/2gPpAi7l115nnS7swaYOQs) | 3:50 |
 | 66 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 67 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 68 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,860 likes - 119 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,873 likes - 119 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 | 46 | [The Family Madrigal](https://open.spotify.com/track/21GMtDlD4pvi7JN2hRM5Qv) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 3:02 |
 | 47 | [Kiss the Girl](https://open.spotify.com/track/5WQaJnGiwJYHvRkfmWtDde) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:10 |
 | 48 | [A Whole New World](https://open.spotify.com/track/57EzImH75KL4o1UD2JZvv9) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:15 |
-| 49 | [Aloha E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 |
+| 49 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 |
 | 50 | [Colors of the Wind](https://open.spotify.com/track/46l660Z7ma1xMccyKG8zak) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 3:41 |
 | 51 | [Winnie the Pooh](https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:42 |
 | 52 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我還是放不下你 真的可惜 我在也無能為力 繼續愛你。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,363 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,367 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 16 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
 | 17 | [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 |
 | 18 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
-| 19 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
-| 20 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
+| 19 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
+| 20 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
 | 21 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
 | 22 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 |
 | 23 | [失落沙洲](https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk) | 4:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 47 | [祝我生日快樂](https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫式效應](https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7) | 4:18 |
 | 48 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
 | 49 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
-| 50 | [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 |
+| 50 | [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 |
 
 Snapshot ID: `Z6C8YQAAAADC4OiU+SlbJT25G6rtxnTv`

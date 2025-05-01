@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,813 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,837 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 73 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
 | 74 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
 | 75 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
-| 76 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
-| 77 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
+| 76 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
+| 77 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
 | 78 | [Adiós Amor Mío](https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Adiós Amor Mío](https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt) | 2:29 |
 | 79 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 80 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 85 | [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 |
 | 86 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 | 87 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
-| 88 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
-| 89 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
+| 88 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
+| 89 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 | 90 | [Entrega de Amor](https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Entrega de Amor](https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq) | 3:05 |
 
 Snapshot ID: `ZzYqWgAAAABhWJS2xg7yxIIwlFb0Pifs`

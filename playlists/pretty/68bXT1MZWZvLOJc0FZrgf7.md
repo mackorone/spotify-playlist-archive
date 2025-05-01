@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Clean Bandit, Tiësto, &amp; Leony
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 97,990 likes - 100 songs - 5 hr 6 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 97,977 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 99 | [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 |
 | 100 | [Lost In Paradise](https://open.spotify.com/track/2F7w7kDFmUuMtyTR3TyLVC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Moonlight](https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka) | 2:36 |
 
-Snapshot ID: `AAARDRkIV5bXGsgMtJIKr5KDk4+QUP/s`
+Snapshot ID: `AAARDtjVTSSQT1uRu+vUtXxOyjbSCsIx`

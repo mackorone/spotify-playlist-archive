@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "when angels cry",
+        "url": "https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179366,
+      "name": "ALICE.",
+      "url": "https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc"
+    },
+    {
+      "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
       },

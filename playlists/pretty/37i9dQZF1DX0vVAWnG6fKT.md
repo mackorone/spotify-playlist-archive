@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,492 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,507 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 10 | [Slipping Around \- 1949 Single](https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [The Complete Capitol Hits Of Margaret Whiting](https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm) | 2:11 |
 | 11 | [Blue Moon of Kentucky](https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe \(1945\-1949\)](https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98) | 3:00 |
 | 12 | [Dark As A Dungeon](https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:47 |
-| 13 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
-| 14 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
+| 13 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
+| 14 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
 | 15 | [Can the Circle Be Unbroken](https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:07 |
 | 16 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
 | 17 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Look What Thoughts Will Do](https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx) | 2:53 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 49 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 50 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 51 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
-| 52 | [Steel Guitar Rag](https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Legend of Merle Travis](https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu) | 2:10 |
-| 53 | [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 |
+| 52 | [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 |
+| 53 | [Steel Guitar Rag](https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Legend of Merle Travis](https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu) | 2:10 |
 | 54 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
 | 55 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 56 | [One Kiss Too Many](https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Headin' Down The Wrong Highway](https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 1:38 |
 | 70 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |
 
-Snapshot ID: `Z7PVbAAAAAA3zi5pEQjW9Yi51oSjPeiU`
+Snapshot ID: `AAAAAA40XRqJ5R+n/9kvpR/32ZoQtaV3`

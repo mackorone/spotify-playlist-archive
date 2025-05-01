@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,554 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,598 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 7 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
 | 8 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 |
 | 9 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 10 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
-| 11 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
+| 10 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
+| 11 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
 | 12 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
 | 13 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
 | 14 | [Les filles d'aujourd'hui](https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Une place pour moi](https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD) | 4:22 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 35 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 |
 | 36 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 37 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
-| 38 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
-| 39 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
+| 38 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
+| 39 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
 | 40 | [La tendresse](https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [La Tendresse](https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd) | 2:17 |
 | 41 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
 | 42 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |

@@ -4,7 +4,7 @@
 
 > Wiosna state of mind 🌷
 
-465 songs - 1 day 2 hr 6 min
+466 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-27 | 2024-11-22 |
 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 | 2024-08-20 | 2024-11-22 |
 | [jakby co, to dzwoń](https://open.spotify.com/track/0C3PjVD7octHIivBMmHKSS) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [jakby co, to dzwoń](https://open.spotify.com/album/2o0THpAArDAx3lVksJ58Sn) | 3:25 | 2024-10-25 | 2024-11-09 |
+| [JAKBY JUTRA MIAŁO NIE BYĆ](https://open.spotify.com/track/32RXEFUIE21OJkIy57jOTU) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:48 | 2025-04-25 |  |
 | [Jeden smutek](https://open.spotify.com/track/0embiNjtOdlKEkZHiKoC8f) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Paplajki](https://open.spotify.com/artist/5Pu1wcbGGN9l55I6LbwePQ) | [Jeden smutek](https://open.spotify.com/album/2cEkuEzeBK1gtHVKTtZsMr) | 2:43 | 2024-12-19 | 2025-01-11 |
 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 | 2025-04-25 |  |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2024-09-15 |
@@ -224,7 +225,7 @@
 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 | 2025-02-21 | 2025-04-27 |
 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 | 2024-11-21 | 2024-12-20 |
 | [Lubię](https://open.spotify.com/track/1ASfj6C4aPEDtjPgtTnUBs) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [Lubię](https://open.spotify.com/album/0Y3llFy8Y6DtwoONFMoP8w) | 2:43 | 2024-08-23 | 2024-09-13 |
-| [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-21 |  |
+| [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-21 | 2025-05-01 |
 | [MAMONY MILION](https://open.spotify.com/track/53camPfa0Fd8y1WzUcRjkP) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [MAMONY MILION](https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70) | 3:19 | 2025-02-28 |  |
 | [Margarita](https://open.spotify.com/track/5o7MZIUDv8oiexfavyli66) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 1:57 | 2024-08-03 | 2024-09-13 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-11-29 | 2025-03-01 |

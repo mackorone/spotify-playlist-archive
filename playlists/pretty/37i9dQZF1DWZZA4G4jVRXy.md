@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,776 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,786 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 22 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
 | 23 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
 | 24 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
-| 25 | [Hana Maui \- Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
-| 26 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
+| 25 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
+| 26 | [Hana Maui \- Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 27 | [Deep Night/Softly As In A Morning Sunrise \- Medley](https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5) | [Terry Snyder & The All\-Stars](https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6) | [Ultra\-Lounge: Bongoland](https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO) | 5:41 |
 | 28 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
 | 29 | [Too Young Cha Cha](https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS) | [Enoch Light And His Orchestra](https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc) | [Vintage Dance Orchestras No\. 304 \- EP: Provocative Cha Cha Cha](https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM) | 2:41 |
 | 30 | [Head Hunter](https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1) | [Don Ralke](https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3) | [The Savage And The Sensuous Bongos](https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8) | 3:03 |
 | 31 | [Aquellos Ojos Verdes](https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu) | [Al Romero And His Orchestra](https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0) | [Vintage Jazz Nº 32 \- EPs Collectors "Aquellos Ojos Verdes"](https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs) | 2:42 |
-| 32 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
-| 33 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
+| 32 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
+| 33 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
 | 34 | [Blue Hawaii](https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 2:18 |
 | 35 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
 | 36 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |

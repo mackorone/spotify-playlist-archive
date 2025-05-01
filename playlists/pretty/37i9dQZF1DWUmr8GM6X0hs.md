@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,941 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,969 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 4 | [Quizas Quizas Quizas](https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 2:52 |
 | 5 | [Cien años](https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Colección Mitos Pedro Infante](https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5) | 3:22 |
 | 6 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
-| 7 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |
+| 7 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 8 | [Contigo](https://open.spotify.com/track/4TEKGpctXNdZwWJ4VB7hby) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [50 Años, Vol\. I](https://open.spotify.com/album/4VrnbiBSa9sBm66iNobVBv) | 2:50 |
-| 9 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
+| 9 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |
 | 10 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 11 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
 | 12 | [En la orilla del mar \(Bolero version\)](https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Cuba: Bienvenido Granda](https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt) | 2:50 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 35 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
 | 36 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 37 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
-| 38 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
-| 39 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
+| 38 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
+| 39 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
 | 40 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
 | 41 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 | 42 | [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 |

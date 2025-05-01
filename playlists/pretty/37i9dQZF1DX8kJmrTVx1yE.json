@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 135082,
+  "num_followers": 135112,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
-        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+      "duration_ms": 236506,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Vente Pa' Ca (feat. Maluma)",
         "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 259195,
       "name": "Vente Pa' Ca (feat. Maluma)",
       "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
       "artists": [
         {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 327240,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1111,6 +1095,22 @@
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Deja Que Te Bese",
         "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 193699,
       "name": "ADMV",
       "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2024-06-12 22:54:20",

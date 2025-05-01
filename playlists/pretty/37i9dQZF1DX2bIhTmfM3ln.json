@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 43212,
+  "num_followers": 43232,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Viva Lavida",
         "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 173858,
       "name": "Free of Charge",
       "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -383,18 +383,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "GOD DESIGN",
+        "url": "https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+      "duration_ms": 215514,
+      "name": "GOD DESIGN",
+      "url": "https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -431,6 +435,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "GOD DESIGN",
-        "url": "https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "GOD DESIGN",
-      "url": "https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -927,38 +927,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 190641,
-      "name": "Despasito",
-      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Disciple",
         "url": "https://open.spotify.com/album/2FRkIxUMIHqsRQk1IYPTEe"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 166736,
       "name": "Disciple",
       "url": "https://open.spotify.com/track/4DBtobSUafnM8j3cMO8SYX"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 190641,
+      "name": "Despasito",
+      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "ROZEY",
-        "url": "https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4"
-      },
-      "artists": [
-        {
-          "name": "Rose May Alaba",
-          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 160508,
-      "name": "OMN",
-      "url": "https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "DID I LIE",
         "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
@@ -1127,26 +1107,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "London Girl",
-        "url": "https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju"
-      },
-      "artists": [
-        {
-          "name": "M3lon",
-          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 134791,
-      "name": "London Girl",
-      "url": "https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "France Feeling",
         "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
       },
@@ -1163,6 +1123,46 @@
       "duration_ms": 169444,
       "name": "France Feeling",
       "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "ROZEY",
+        "url": "https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "OMN",
+      "url": "https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "London Girl",
+        "url": "https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju"
+      },
+      "artists": [
+        {
+          "name": "M3lon",
+          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 134791,
+      "name": "London Girl",
+      "url": "https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 175257,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Beg For It",
         "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 138010,
       "name": "JIGGY BABE",
       "url": "https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 175257,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Wetin (Remix)",
-        "url": "https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        },
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 120170,
-      "name": "Wetin - Remix",
-      "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Clingy",
         "url": "https://open.spotify.com/album/0n5DbGWxP7DokcO5e9RlRV"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 163383,
       "name": "Clingy",
       "url": "https://open.spotify.com/track/47T1ubQyQImtj2kZ0WRWd9"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Wetin (Remix)",
+        "url": "https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 120170,
+      "name": "Wetin - Remix",
+      "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
     },
     {
       "added_at": "2025-04-18 00:01:31",

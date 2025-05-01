@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Apr 18:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 May 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARfECaTGU3iwMSlQ7fPCL/a8hZXf1n",
+  "snapshot_id": "AAARgrNJK9F+hyYPXcYiz1//NKk2Nsbt",
   "tracks": [
+    {
+      "added_at": "2025-04-30 22:04:03",
+      "album": {
+        "name": "Death With Dignity (Demo)",
+        "url": "https://open.spotify.com/album/2kokDBIZdKZt75wWDwSTPt"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 242633,
+      "name": "Death with Dignity - Demo",
+      "url": "https://open.spotify.com/track/0JTyN48NOWQPDurLmdRamX"
+    },
+    {
+      "added_at": "2025-04-30 08:03:51",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2025-05-01 03:04:21",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 193141,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
+    },
     {
       "added_at": "2025-04-29 18:03:56",
       "album": {
@@ -763,54 +811,6 @@
       "duration_ms": 161807,
       "name": "A Reptile Dysfunction",
       "url": "https://open.spotify.com/track/79Jk7hWBcAgGrUZdAKs5A1"
-    },
-    {
-      "added_at": "2025-04-24 03:04:19",
-      "album": {
-        "name": "Come Pick Me Up",
-        "url": "https://open.spotify.com/album/2nXVO15dvChXGp1zVe9Xq1"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 295238,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/6aTCN6Z3a08H7QlR8u2j8b"
-    },
-    {
-      "added_at": "2025-04-23 22:04:33",
-      "album": {
-        "name": "Sounds from the Heart of the Woods",
-        "url": "https://open.spotify.com/album/6yzkiWF8Xl3gLjJ8wNpk0o"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 1267333,
-      "name": "Sounds from the Heart of the Woods",
-      "url": "https://open.spotify.com/track/4pMh4kNH7W3oTCBT5QdaD9"
-    },
-    {
-      "added_at": "2025-04-26 03:03:38",
-      "album": {
-        "name": "Darkness Always Wins",
-        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 290309,
-      "name": "Darkness Always Wins",
-      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,333 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,491 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 54 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 55 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 |
 | 56 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
-| 57 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
-| 58 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 |
+| 57 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 |
+| 58 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 59 | [bad luck](https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [bad luck](https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y) | 4:05 |
 | 60 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 |
 | 61 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 64 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 |
 | 65 | [Separate Ways \(Worlds Apart\) \- Bryce Miller/Alloy Tracks Remix](https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt), [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Separate Ways \(Worlds Apart\) \[Bryce Miller/Alloy Tracks Remix\]](https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K) | 2:45 |
 | 66 | [BETTER HELL \(Thicc boi\)](https://open.spotify.com/track/0ZTMohAj0uQlpRcl8a6SHD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:22 |
-| 67 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
-| 68 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
+| 67 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
+| 68 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
 | 69 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
 | 70 | [Brave New World](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Brave New World](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
 | 71 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 91 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 92 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
 | 93 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
-| 94 | [Say My Name](https://open.spotify.com/track/6w7Jb4kTmOPkoewZgk40gY) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Say My Name](https://open.spotify.com/album/5NZD1UjdYp9kGGGz6GdT2z) | 4:08 |
-| 95 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
-| 96 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
-| 97 | [Fire](https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Fire](https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk) | 3:21 |
+| 94 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
+| 95 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
+| 96 | [Fire](https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Fire](https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk) | 3:21 |
+| 97 | [Say My Name](https://open.spotify.com/track/6w7Jb4kTmOPkoewZgk40gY) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Say My Name](https://open.spotify.com/album/5NZD1UjdYp9kGGGz6GdT2z) | 4:08 |
 | 98 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
 | 99 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
 | 100 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 |

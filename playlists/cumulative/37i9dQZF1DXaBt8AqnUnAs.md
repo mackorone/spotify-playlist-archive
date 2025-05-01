@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-665 songs - 1 day 8 hr 28 min
+666 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Ladra de Moletom](https://open.spotify.com/track/4GvMezy9QsvAfNfkazPdyy) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Ladra de Moletom](https://open.spotify.com/album/6jA3l0XIWZkcY0vVZByq7T) | 3:08 | 2022-03-07 | 2022-10-08 |
 | [LANCE E ROMANCE](https://open.spotify.com/track/0glvPz8JrA2HQBh25mBgKT) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thomaz](https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [DEPOIS DAS 5](https://open.spotify.com/album/4uQpRSLrhpypuSZun8RsMG) | 2:33 | 2023-08-18 | 2023-10-14 |
 | [Lares](https://open.spotify.com/track/1iIg8oHDiAdZ3bCRfAba9h) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [Lares](https://open.spotify.com/album/3btWcR2QL8AReqKp8TL7Gw) | 2:19 | 2025-02-21 |  |
+| [Latino Americano](https://open.spotify.com/track/5p02vl3X0p227XS6Lro9sI) | [Drinho Sp](https://open.spotify.com/artist/5WN4qyNrnrDosMqrczBxuo) | [Latino Americano](https://open.spotify.com/album/06bOKhOjYZe7OGjA5XK6tt) | 4:36 | 2025-04-30 |  |
 | [Lembro de Você](https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Lembro de Você](https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko) | 3:05 | 2022-12-30 | 2023-01-21 |
 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 | 2023-10-13 |  |
 | [LEVE](https://open.spotify.com/track/2lbZJaSw3cvebmk76LCIw7) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Pedrix](https://open.spotify.com/artist/6Kvajdlb4SCfkEuajloA3q), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [LEVE](https://open.spotify.com/album/5rcNa01tiq0EpOQbzw4DgX) | 3:05 | 2024-12-13 | 2025-02-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,471 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,462 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 96 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 | 97 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
 | 98 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |
-| 99 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
-| 100 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m), [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
+| 99 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m), [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
+| 100 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 
 Snapshot ID: `Z1xjcgAAAAB7QOXwJxbCdz/LfLVTYip7`

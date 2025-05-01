@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-209 songs - 9 hr 29 min
+210 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 Lieder](https://open.spotify.com/track/3YzN8rggzWjdDEkK2WTUEx) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [100 Lieder](https://open.spotify.com/album/6SLMRhvaIObL1M45i7WtPT) | 2:37 | 2024-11-11 |  |
 | [100.000](https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [100.000](https://open.spotify.com/album/1zK2tmCjG873OQ9UrbKjd1) | 4:03 | 2025-01-16 | 2025-03-25 |
 | [1000 Sterne](https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [1000 Sterne](https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc) | 2:03 | 2024-06-28 | 2025-03-25 |
-| [1402](https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [1402](https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK) | 2:15 | 2025-02-27 |  |
+| [1402](https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [1402](https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK) | 2:15 | 2025-02-27 | 2025-05-01 |
 | [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 |  |
 | [2 Meter tiefer](https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [2 Meter tiefer](https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu) | 3:54 | 2025-03-24 |  |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2024-06-28 |  |
@@ -45,7 +45,7 @@
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 |  |
 | [Du bist das Beste](https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist das Beste](https://open.spotify.com/album/01qisonHMpguE3K1JddI4a) | 2:27 | 2025-04-10 |  |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 | 2025-03-25 |
-| [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl) | 2:09 | 2024-06-28 |  |
+| [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl) | 2:09 | 2024-06-28 | 2025-05-01 |
 | [Du liebst mich nicht](https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Du liebst mich nicht](https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC) | 2:40 | 2024-06-28 | 2024-10-31 |
 | [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 | 2024-09-23 |
 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 | 2024-10-24 | 2024-11-12 |
@@ -143,7 +143,7 @@
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
 | [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |
-| [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 | 2025-04-30 |
+| [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 |  |
 | [Normal ist](https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Normal ist](https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1) | 1:41 | 2024-06-28 | 2024-11-12 |
 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 | 2024-06-28 | 2024-10-11 |
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |
@@ -195,6 +195,7 @@
 | [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [VORBEI](https://open.spotify.com/track/2dESh9c89uVcszcd7TcUBz) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [VORBEI](https://open.spotify.com/album/1v3Spz88JnZRm9y9tzGe1Q) | 2:34 | 2025-02-06 | 2025-04-09 |
 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 | 2024-06-28 | 2024-09-30 |
+| [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 | 2025-04-24 |  |
 | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8) | 2:31 | 2024-06-28 |  |
 | [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-11-11 | 2025-03-04 |
 | [Was wäre wenn du nicht wärst?](https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Was wäre wenn du nicht wärst?](https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe) | 2:47 | 2024-07-25 |  |

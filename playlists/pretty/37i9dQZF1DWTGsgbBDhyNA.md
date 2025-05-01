@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Playlist oficial del podcast <a href="spotify:show:1MAoOdM2Xx9TayWrXQ2MCj"> Momentos Chingones</a> donde tendrás las noticias más frescas y los hits del momento de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,776 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,793 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 25 | [Sin Querer Queriendo](https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Sin Querer Queriendo](https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O) | 3:26 |
 | 26 | [Sin Pagar Renta](https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sin Pagar Renta](https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9) | 3:22 |
 | 27 | [México fuera del regional](https://open.spotify.com/episode/1TJ7cwSZaAOecVI6WDmAY4) | [Momentos Chingones ](https://open.spotify.com/show/1MAoOdM2Xx9TayWrXQ2MCj) | [Momentos Chingones ](https://open.spotify.com/album/1MAoOdM2Xx9TayWrXQ2MCj) | 5:13 |
-| 28 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
+| 28 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 29 | [XT4S1S](https://open.spotify.com/track/3snQoH7rfd9ho1sejpFeJ1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:39 |
 | 30 | [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 |
 | 31 | [La Motora](https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Motora](https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8) | 3:23 |

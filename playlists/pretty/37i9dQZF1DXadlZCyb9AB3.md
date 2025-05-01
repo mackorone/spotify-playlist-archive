@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,269 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,333 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 58 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 |
 | 59 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
 | 60 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 |
-| 61 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
-| 62 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
+| 61 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
+| 62 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 63 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
 | 64 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
 | 65 | [Complicated](https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 6:24 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 73 | [Watchmaker](https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC) | [Excuse 17](https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR) | [Such Friends Are Dangerous](https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B) | 3:08 |
 | 74 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
 | 75 | [Kung Fu on the Internet](https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz) | [Lung Leg](https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN) | [Hello Sir](https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r) | 1:25 |
-| 76 | [I'll Take You Down](https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv) | [Autoclave](https://open.spotify.com/artist/6ZwMw7VXJyHQmn03eHt6jg) | [Autoclave](https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO) | 3:48 |
-| 77 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
+| 76 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
+| 77 | [I'll Take You Down](https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv) | [Autoclave](https://open.spotify.com/artist/6ZwMw7VXJyHQmn03eHt6jg) | [Autoclave](https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO) | 3:48 |
 | 78 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 79 | [Love Is the Slug \- Bargainous Longerer Mix](https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK) | [Fuzzbox](https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat) | [Bostin' Steve Austin \(Splendiferous Edition\)](https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ) | 3:57 |
 | 80 | [Let Go of the Past](https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 3:14 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 83 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 |
 | 84 | [Driver](https://open.spotify.com/track/7gOYD1NhmTnB7nuIqDE1FT) | [Perfect Pussy](https://open.spotify.com/artist/1xvC1JOx3XYXNk2WqfFLxC) | [Say Yes To Love](https://open.spotify.com/album/4uNJjBFW2Wdu8l9rp2AbNj) | 2:16 |
 | 85 | [Any Resemblance...](https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 2:04 |
-| 86 | [Dead Man](https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Dead Man](https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X) | 2:45 |
-| 87 | [Drive](https://open.spotify.com/track/1Bu4dpaiLJBugBfI2yrmJ7) | [Mere Women](https://open.spotify.com/artist/3VhrdhymJTzDnVEbXwkkJb) | [Drive](https://open.spotify.com/album/3b9w0oFof58xtgknc3wMPW) | 3:13 |
+| 86 | [Drive](https://open.spotify.com/track/1Bu4dpaiLJBugBfI2yrmJ7) | [Mere Women](https://open.spotify.com/artist/3VhrdhymJTzDnVEbXwkkJb) | [Drive](https://open.spotify.com/album/3b9w0oFof58xtgknc3wMPW) | 3:13 |
+| 87 | [Dead Man](https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Dead Man](https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X) | 2:45 |
 | 88 | [Half Girl Half Rant](https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT) | [Chloe Le Fay](https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16) | [Riot Grrrls and Kinder Whores](https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp) | 2:27 |
 | 89 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 |
 | 90 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |

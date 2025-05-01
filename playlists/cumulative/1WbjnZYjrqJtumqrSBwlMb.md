@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,077 songs - 2 day 18 hr 7 min
+1,081 songs - 2 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2020-02-13 |  |
 | [Brian's Movie](https://open.spotify.com/track/2B8A2Ww4nBypZqhRZVqJPV) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:53 | 2020-04-02 |  |
 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 | 2021-08-20 |  |
+| [BROKEN ROAD](https://open.spotify.com/track/6zNbjGO87XDGVaRdq2wXXm) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 1:40 | 2025-04-30 |  |
 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2024-01-29 |  |
 | [Burfict!](https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:21 | 2023-03-24 |  |
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-10 |  |
@@ -496,6 +497,7 @@
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 | 2023-08-01 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-26 |  |
 | [Keep On Lying](https://open.spotify.com/track/2UYHP0RQqPFvue0Ygs5Amm) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:53 | 2020-05-09 |  |
+| [KEEP THE FLOWERS](https://open.spotify.com/track/0UTxQjSYyL7mpZSppNIlL4) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:51 | 2025-04-30 |  |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-03 |  |
 | [KEYS TO MY LIFE](https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:54 | 2024-02-10 | 2024-05-20 |
 | [KID AGAIN](https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [KID AGAIN](https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d) | 3:19 | 2024-09-29 |  |
@@ -972,6 +974,7 @@
 | [To The Island \- Tame Impala Remix](https://open.spotify.com/track/5oY6OqGZYMENBeP3qNVsZI) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [To The Island \(Tame Impala Remix\)](https://open.spotify.com/album/1Q1oSbvgkLUIo4diiRAyLd) | 4:13 | 2021-04-08 |  |
 | [Toast](https://open.spotify.com/track/24T3pT2TQsqx9RN5US9ZeT) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 4:09 | 2022-04-06 |  |
 | [Tomorrow's Dust](https://open.spotify.com/track/666PdikRnUzdvjT9p5wWND) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 5:26 | 2020-02-13 |  |
+| [TOO EASY](https://open.spotify.com/track/4uxn2XuLHdZ3IDWpLG1VMQ) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:57 | 2025-04-30 |  |
 | [Too Late](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:44 | 2022-12-10 |  |
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 | 2023-02-13 |  |
 | [Too Much To Ask](https://open.spotify.com/track/1LSwssG5oIAMXYcvpOoPLC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 3:03 | 2020-09-03 |  |
@@ -981,6 +984,7 @@
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2021-11-28 |  |
 | [Trees](https://open.spotify.com/track/1yf97yL1ll8FYXC27c9VTw) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2022-05-19 |  |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-19 |  |
+| [TRUE LOVE](https://open.spotify.com/track/3J7qBp4P6hPBwkAQNLMj3t) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:17 | 2025-04-30 |  |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-12-19 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 | 2023-10-11 |  |
 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2fjm2JmjN0CI26E9MUCfbn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:29 | 2024-02-16 |  |

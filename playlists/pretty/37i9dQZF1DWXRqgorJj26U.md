@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: Queen
+> Rock legends & epic songs that continue to inspire generations\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,513,287 likes - 200 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,514,482 likes - 200 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 199 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
 | 200 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 
-Snapshot ID: `AAAAADikgCjxoOa1DBoLH80yuEU5jcDZ`
+Snapshot ID: `Z/l0JgAAAAA0c/v5Xd8B1M2edEyc48L3`

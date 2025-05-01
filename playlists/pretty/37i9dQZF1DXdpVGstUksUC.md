@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,479 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,484 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 33 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
 | 34 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 |
 | 35 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
-| 36 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
-| 37 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
+| 36 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
+| 37 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
 | 38 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
 | 39 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 40 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 78 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
 | 79 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
 | 80 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
-| 81 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
-| 82 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
+| 81 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
+| 82 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
 | 83 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |
 | 84 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
 | 85 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 93 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 94 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 95 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
-| 96 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
-| 97 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
+| 96 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
+| 97 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
 | 98 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
-| 99 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 100 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
+| 99 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
+| 100 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
 
 Snapshot ID: `ZpnkwAAAAACgkb2hHoN4vC2vMI2uOwO/`

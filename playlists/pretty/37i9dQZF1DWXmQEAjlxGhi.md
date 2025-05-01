@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,154 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,170 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 71 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 72 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 73 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
-| 74 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
-| 75 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 |
+| 74 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 |
+| 75 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
 | 76 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 77 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
 | 78 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |

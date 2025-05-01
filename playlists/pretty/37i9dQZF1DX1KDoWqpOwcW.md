@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > \#M1S7ONcumplida \#HicimosH1S7ORIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,546 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,550 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 6 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
 | 7 | [El Caminante](https://open.spotify.com/track/3Hv6acH4mKhpohJ7fKOX5v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:20 |
 | 8 | [The Pursuit of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
-| 9 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
+| 9 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 10 | [Blitzkrieg Bop](https://open.spotify.com/track/22ea9e9wspXjaR7qfqfsdS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hey Ho Let's Go](https://open.spotify.com/album/6Fqbn50OIzVdlKYqWjyHdD) | 2:13 |
 | 11 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
 | 12 | [Fiesta En La Playa](https://open.spotify.com/track/52szO2POvp0hk3VnfWioib) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:56 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,725 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,728 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 2 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 |
-| 3 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 3 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 4 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 |
 | 5 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 |
 | 6 | [Putri Iklan](https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:00 |

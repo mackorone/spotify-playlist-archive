@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 
 > ¡AY MAMÁ! Y pura Dinastía Laija 🍾✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,967 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,591 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 | 54 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 |
 | 55 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
 | 56 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
-| 57 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
+| 57 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 58 | [Sin Tanto Royo](https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:28 |
 | 59 | [DELTAS](https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DELTAS](https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf) | 2:22 |
 | 60 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 | 73 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 |
 | 74 | [MALA](https://open.spotify.com/track/5PbK9N675eK6ZyvezMgbQR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:52 |
 
-Snapshot ID: `Z9RSzgAAAADwzxJPAPAX5yzH6bezIZLE`
+Snapshot ID: `Z9RSzgAAAABy5GON/kDQ/7vZf6JzS0hP`

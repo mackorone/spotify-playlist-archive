@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Lorde, Rkomi, Rocco Hunt, Luchè, Tony Boy, Carl Brave con Sarah Toscano e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,932 likes - 95 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,944 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

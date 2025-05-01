@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 120935,
+  "num_followers": 120990,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "All Kinds Of Weather",
+        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Largo",
         "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "All Kinds Of Weather",
-        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "My Spanish Heart",
         "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 347826,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Jazz p\u00e5 svenska",
-        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
       "artists": [
         {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 114693,
-      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
-      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The John Lewis Piano",
-        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
+      "duration_ms": 114693,
+      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
+      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 170306,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
       "artists": [
         {
-          "name": "Bobby Timmons Trio",
-          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
         }
       ],
-      "duration_ms": 407306,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
+      "duration_ms": 374093,
+      "name": "A Blue Time",
+      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
       },
       "artists": [
         {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+          "name": "Bobby Timmons Trio",
+          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
         }
       ],
-      "duration_ms": 374093,
-      "name": "A Blue Time",
-      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
+      "duration_ms": 407306,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1543,26 +1543,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "This Here Is Bobby Timmons / Easy Does It",
-        "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
+        "name": "Fatha",
+        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
       "artists": [
         {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 308573,
-      "name": "Moanin'",
-      "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
+      "duration_ms": 248600,
+      "name": "St. James Infirmary Blues",
+      "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1599,18 +1591,26 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Fatha",
-        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
+        "name": "This Here Is Bobby Timmons / Easy Does It",
+        "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
       },
       "artists": [
         {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 248600,
-      "name": "St. James Infirmary Blues",
-      "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
+      "duration_ms": 308573,
+      "name": "Moanin'",
+      "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Sonny's Crib",
         "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 449160,
       "name": "Come Rain Or Come Shine - Remastered 1998",
       "url": "https://open.spotify.com/track/60sUnEBfXTFQJ25htHi8ty"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
     }
   ],
   "unique_name": "Jazz Piano Classics",

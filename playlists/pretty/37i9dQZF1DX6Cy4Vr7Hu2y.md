@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: LE SSERAFIM\(르세라핌\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,452 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,527 likes - 64 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 61 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 | 62 | [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 |
 | 63 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 |
-| 64 | [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 |
+| 64 | [Only cry in the rain](https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Only cry in the rain](https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a) | 3:04 |
 
-Snapshot ID: `AAAAAM+ppVWpM4GusfEdh9qFPWZTYhCK`
+Snapshot ID: `aBBNkwAAAADwgYY4ntgzVbDNGg41W1c/`

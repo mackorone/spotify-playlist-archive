@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,056 songs - 2 day 16 hr 53 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,060 songs - 2 day 17 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1064,5 +1064,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1054 | [Hero](https://open.spotify.com/track/6lg8POBTkaNP3QziiL2Wa1) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:14 |
 | 1055 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 |
 | 1056 | [Drawn Away](https://open.spotify.com/track/3NipzSKSELraJND5tcVlGV) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:32 |
+| 1057 | [TRUE LOVE](https://open.spotify.com/track/3J7qBp4P6hPBwkAQNLMj3t) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:17 |
+| 1058 | [BROKEN ROAD](https://open.spotify.com/track/6zNbjGO87XDGVaRdq2wXXm) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 1:40 |
+| 1059 | [KEEP THE FLOWERS](https://open.spotify.com/track/0UTxQjSYyL7mpZSppNIlL4) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:51 |
+| 1060 | [TOO EASY](https://open.spotify.com/track/4uxn2XuLHdZ3IDWpLG1VMQ) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:57 |
 
-Snapshot ID: `AAAI5eCKbKDqKsXrSNhJmX3PeCNwY2cA`
+Snapshot ID: `AAAI6edMeJt8mdi6+By28qLLTflGGCr9`

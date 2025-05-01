@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,971 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,045 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 37 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
 | 38 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 |
 | 39 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
-| 40 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
-| 41 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
+| 40 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
+| 41 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 | 42 | [Gracias Cristo](https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:47 |
 | 43 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
 | 44 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 89 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
 | 90 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 |
 | 91 | [Me Dice Que Me Ama](https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE) | 4:01 |
-| 92 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE) | 6:50 |
+| 92 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 |
 | 93 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
 | 94 | [Mi Esperanza Está en Jesús \- Live](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
 | 95 | [Toda la Gloria](https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9) | 6:00 |

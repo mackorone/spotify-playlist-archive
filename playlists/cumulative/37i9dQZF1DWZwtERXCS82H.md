@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-808 songs - 1 day 10 hr 57 min
+809 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-15 | 2022-05-14 |
 | [Lost For Words](https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Miles Away](https://open.spotify.com/album/4Kl1CFQxhyCcdGB32jfSN8) | 2:47 | 2022-04-15 | 2022-05-14 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2022-04-15 | 2023-05-04 |
+| [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 | 2025-04-30 |  |
 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 | 2024-02-13 |  |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2022-04-15 | 2022-05-27 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-15 | 2022-07-29 |

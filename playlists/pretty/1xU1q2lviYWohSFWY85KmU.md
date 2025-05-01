@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から元気が出るパワフル＆ポップなボカロ曲選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 144 likes - 40 songs - 2 hr 18 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 145 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 | 39 | [春のレプリカ \(feat\. GUMI\)](https://open.spotify.com/track/5YPg3TUR7A6WoJKaYSgNJV) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [春のレプリカ](https://open.spotify.com/album/5dN1p6LRNosfPY72QkIcvz) | 3:05 |
 | 40 | [ティータイムオーバー \(feat\. 初音ミク\)](https://open.spotify.com/track/16b6b7qMYyTrltwwkGgsDH) | [きさら](https://open.spotify.com/artist/6UBD36BDxz7W53HaZcK4yT), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ティータイムオーバー](https://open.spotify.com/album/1A3LyHkZJ4BI0tlYSv9f35) | 2:59 |
 
-Snapshot ID: `AAAFOpByKl7WRERM/gjE+Uk/oA9eFjRh`
+Snapshot ID: `AAAFPHPpe4kiOFnrVjkvtu19jZ8YW5oQ`

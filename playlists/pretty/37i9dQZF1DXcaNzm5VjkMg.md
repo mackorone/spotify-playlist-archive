@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 1 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 2 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
 | 3 | [Anugerah Terindah](https://open.spotify.com/track/1nc4oXLc3slDMDgl3DMRtJ) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Anugerah Terindah](https://open.spotify.com/album/35IqtcK73WJLJsU6L6GTOu) | 4:42 |
 | 4 | [Soulmate](https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Soulmate](https://open.spotify.com/album/12UUzKlYnWUZtmlX41geSZ) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,037 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,076 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 60 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 61 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
 | 62 | [Cancion Pacifico\-Violenta](https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr) | [Sexual Democracia](https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7) | [Buscando Chilenos Vol\. 1](https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax) | 4:44 |
-| 63 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
+| 63 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 |
 | 64 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
 | 65 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 |
-| 66 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 |
+| 66 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 | 67 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
 | 68 | [Sólo Le Pido A Dios](https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w) | 4:08 |
 | 69 | [Rompan Todo](https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:57 |

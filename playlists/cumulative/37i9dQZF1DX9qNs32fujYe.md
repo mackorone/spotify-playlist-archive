@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-1,041 songs - 3 day 4 hr 8 min
+1,042 songs - 3 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Eye to Eye](https://open.spotify.com/track/3ojlZUEkinb7XA4tZuvx3y) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Eye to Eye](https://open.spotify.com/album/1qzFtzzRawXfGTKHCgaCBG) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-03-08 | 2024-07-27 |
 | [Face of a Stranger](https://open.spotify.com/track/5YAsSHVStxtvvwV00I5YS1) | [Dirkschneider & The Old Gang](https://open.spotify.com/artist/73DIu6RIaKNp8t620RoMmX), [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Face of a Stranger](https://open.spotify.com/album/2dCDKEr7baSxy6M8ougCDx) | 4:57 | 2021-12-17 | 2022-07-27 |
-| [Fall In Line](https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Fall in Line](https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT) | 4:44 | 2024-06-21 |  |
+| [Fall In Line](https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Fall in Line](https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT) | 4:44 | 2024-06-21 | 2025-05-01 |
 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 | 2023-03-03 | 2023-06-14 |
 | [Fall to Ascend](https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4) | [Sons Of Apollo](https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f) | [Fall to Ascend](https://open.spotify.com/album/4mQXlEaXmCJ7o3Tlyv644R) | 5:06 | 2022-03-22 | 2022-04-21 |
 | [Fangoria](https://open.spotify.com/track/1om3yBKqAZJmwfYq24VUra) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Limited Deadition](https://open.spotify.com/album/3Q5fhKQDoLgW2xA4XOmtWt) | 3:41 | 2025-03-21 |  |
@@ -512,6 +512,7 @@
 | [Live Forever](https://open.spotify.com/track/7oMcV2D2R56RtqmRIkCrrY) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [A Journey into the Unknown](https://open.spotify.com/album/0irkEOaKunQdxX1lbcetfI) | 8:09 | 2022-01-21 | 2022-04-20 |
 | [Living Pyre](https://open.spotify.com/track/7HK1HXXSc8Mxgkbb4rin5b) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Living Pyre](https://open.spotify.com/album/4EDlB1BRG6mo0EDNmVtDf1) | 5:12 | 2021-12-29 | 2022-05-28 |
 | [Long Live Rock N Roll](https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock 'n' Roll](https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE) | 4:24 | 2022-08-19 | 2024-03-09 |
+| [Lost In Isolation](https://open.spotify.com/track/4yHU8GXDmorOZ6eZfd8TGu) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi), [God Forbid](https://open.spotify.com/artist/2OgQ0tvf2ldbdlm8sXyx3M) | [NINE](https://open.spotify.com/album/48doH9nnym0XhIm1587p3F) | 4:01 | 2025-04-25 |  |
 | [Lost in the Dark](https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Lost in the Dark](https://open.spotify.com/album/40jVhBsza03byS968oOfi3) | 3:18 | 2024-04-19 |  |
 | [Lot Lizard](https://open.spotify.com/track/70WEa9Zr8g28Qe2nZRueQ3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Lot Lizard](https://open.spotify.com/album/1jM2ATJEA1K1LKqMBVfXqH) | 2:24 | 2025-04-25 |  |
 | [Love is Gonna Get You Killed](https://open.spotify.com/track/4BopOUl5fmRZHrjKIR2L3S) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Love is Gonna Get You Killed](https://open.spotify.com/album/2eKvO8SeApDc4id1XahaiC) | 3:59 | 2021-12-29 | 2022-04-20 |

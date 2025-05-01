@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZeKCadgRdKQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZeKCadgRdKQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZeKCadgRdKQ)
 
-### [Deep Focus](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
+### [Concentración profunda](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
 
-> Keep calm and focus with ambient electric guitar.
+> Relájate y concéntrate con música ambient con guitarra eléctrica.
 
 866 songs - 1 day 20 hr 8 min
 

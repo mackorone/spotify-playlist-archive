@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Dariell Cano, Yng Naz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,397 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,785 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

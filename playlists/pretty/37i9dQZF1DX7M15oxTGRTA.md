@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,847 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,926 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 36 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
 | 37 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
 | 38 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
-| 39 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 40 | [Come Get To This](https://open.spotify.com/track/622DQPLumfjBW0sDd7XGFO) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 2:41 |
-| 41 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
+| 39 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
+| 40 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
+| 41 | [Come Get To This](https://open.spotify.com/track/622DQPLumfjBW0sDd7XGFO) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 2:41 |
 | 42 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
-| 43 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 |
-| 44 | [I Want to Be Your Man \- Remastered Version](https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Unlimited!](https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux) | 4:11 |
+| 43 | [I Want to Be Your Man \- Remastered Version](https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Unlimited!](https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux) | 4:11 |
+| 44 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 |
 | 45 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
 | 46 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 47 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 71 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
 | 72 | [Tonight Is the Night \- Live](https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 8:18 |
 | 73 | [Your Song](https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Glow](https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL) | 5:38 |
-| 74 | [Come Back To Me](https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE) | 5:32 |
-| 75 | [Angel](https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [The Songstress](https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj) | 5:00 |
-| 76 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
+| 74 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
+| 75 | [Come Back To Me](https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE) | 5:32 |
+| 76 | [Angel](https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [The Songstress](https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj) | 5:00 |
 | 77 | [Caravan of Love](https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:41 |
 | 78 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
 | 79 | [Silky Soul](https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 6:45 |

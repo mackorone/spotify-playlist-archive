@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-313 songs - 15 hr 23 min
+314 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Blame It All On Me](https://open.spotify.com/track/3ejCZjWzREeFTV7KKlXEdC) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Blame It All On Me](https://open.spotify.com/album/1A19iUDkVNB3umdt5xo36D) | 2:17 | 2024-04-05 | 2025-03-28 |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-07-03 |  |
 | [Blue Razz](https://open.spotify.com/track/124GIso7hUD9of584dOOIo) | [Versatile](https://open.spotify.com/artist/6K0yc6ZGiwc7sSwrWra0UT) | [Blue Razz](https://open.spotify.com/album/1Z8E32UdqAbYAV3VB2Lyl0) | 3:36 | 2023-07-31 | 2024-03-07 |
-| [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 | 2024-04-05 |  |
+| [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 | 2024-04-05 | 2025-05-01 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2024-01-04 | 2024-06-14 |
 | [Broken Heart](https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Broken Heart](https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr) | 2:58 | 2025-02-07 |  |
 | [Burning](https://open.spotify.com/track/0V57QFckwEBwz3R5iMOH7V) | [Kattison](https://open.spotify.com/artist/5D8rbwXVM9QblBu9XGtBUI) | [Burning](https://open.spotify.com/album/579lk6zNnmru1n40ftAXm4) | 3:13 | 2024-03-06 | 2024-10-25 |
@@ -102,6 +102,7 @@
 | [For You](https://open.spotify.com/track/4H4O2bVxkax5ZCFiqZyzLZ) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/1AFhCDtL1DKRhcEGLsimcE) | 2:17 | 2023-02-27 | 2023-06-03 |
 | [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-05-30 | 2023-06-19 |
 | [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 | 2023-06-12 | 2024-01-05 |
+| [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-04-30 |  |
 | [Friendly Pressure \- Into The Sunshine Sped Up Version](https://open.spotify.com/track/3DUUvtlC6oMFlIdRHzyLPp) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Into The Sunshine Mixes\)](https://open.spotify.com/album/4uJHAEPP4Lhwev1hC7lBKl) | 5:12 | 2024-06-28 |  |
 | [Get Busy](https://open.spotify.com/track/2I0WGckwuCYRoFK1TdkhJ0) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Get Busy](https://open.spotify.com/album/2ZY7jEqHWHymruFSfIihyK) | 2:33 | 2024-03-22 | 2025-03-14 |
 | [Get up and Go](https://open.spotify.com/track/0OoQjR7xNwUEhjOIhg6kSA) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Get up and Go](https://open.spotify.com/album/2OV8pf8cUFEbNEmhNrNZ0i) | 3:48 | 2024-11-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,678 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,799 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 83 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 84 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
 | 85 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
-| 86 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 87 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
+| 86 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
+| 87 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 88 | [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 |
 | 89 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
 | 90 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |

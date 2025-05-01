@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "BUZZKILL",
+        "url": "https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "buzzkill",
+      "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
+    },
+    {
+      "album": {
         "name": "By Your Side (In My Mind) Part II",
         "url": "https://open.spotify.com/album/4a0DSORIOQog6KZZ9i5l3Y"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 170519,
       "name": "death wish",
       "url": "https://open.spotify.com/track/0syhM7efawK9yseurhzPmN"

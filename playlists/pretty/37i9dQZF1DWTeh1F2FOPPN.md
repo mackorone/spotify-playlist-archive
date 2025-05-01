@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,023 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,063 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 15 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 16 | [Special Affair](https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:56 |
 | 17 | [You Send Me](https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:29 |
-| 18 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
-| 19 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
+| 18 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
+| 19 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
 | 20 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
 | 21 | [Water Runs Dry](https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:21 |
 | 22 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |

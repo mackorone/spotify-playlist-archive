@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Terra & Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,104 likes - 122 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,189 likes - 122 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-285 songs - 18 hr 31 min
+286 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 | 2022-05-06 |  |
 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 | 2024-04-26 |  |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2022-04-22 |  |
+| [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-04-30 |  |
 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2023-04-14 | 2025-04-12 |
 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 | 2023-04-20 | 2023-10-01 |
 | [FROM KALLI WITH LOVE](https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [MOOD RING](https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP) | 2:49 | 2024-05-31 | 2024-06-29 |
@@ -263,7 +264,7 @@
 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 | 2022-12-09 |  |
 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 | 2021-08-18 |  |
 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 | 2024-05-24 |  |
-| [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-10-04 |  |
+| [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-10-04 | 2025-05-01 |
 | [The Lure \(Main Theme\) \(with Mike Dean\)](https://open.spotify.com/track/0OajXvsbkfhx5CTn4gsAdB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 4:37 | 2023-06-09 | 2023-07-27 |
 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 | 2021-08-18 |  |
 | [The Way](https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:15 | 2021-08-18 | 2022-05-07 |

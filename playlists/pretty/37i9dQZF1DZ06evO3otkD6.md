@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,323 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,381 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 2 | [Amor a Primera Vista](https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor a Primera Vista](https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY) | 3:40 |
 | 3 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
-| 4 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
+| 4 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 5 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 |
 | 6 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 |
 | 7 | [Bella Traicion](https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:45 |

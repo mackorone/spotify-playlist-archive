@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,918 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,958 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 59 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
 | 60 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 61 | [Coplillas de las Divisas \(Americanos\)](https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0) | [Lolita Sevilla](https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja) | [Raices de la Canción Española, Vol\. 4](https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr) | 2:44 |
-| 62 | [La Violetera](https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF), [Juan Quintero](https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM), [Greg Segura](https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7) | [La Violetera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp) | 3:45 |
+| 62 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
 | 63 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 |
 | 64 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
 | 65 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 67 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
 | 68 | [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 |
 | 69 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/5T36LSYng6duYxOi1U6WCI) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Sin Tí No Puedo Vivir](https://open.spotify.com/album/2Tx1eChHyxj0zC8ALRPFzl) | 3:53 |
-| 70 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
+| 70 | [La Violetera](https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF), [Juan Quintero](https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM), [Greg Segura](https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7) | [La Violetera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp) | 3:45 |
 | 71 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 |
 | 72 | [El Relicario](https://open.spotify.com/track/5tmITkfdgcnqsVIsC5pMLT) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El Ultimo Cuplé \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/758MDONBlZBcpl7ipTESj9) | 3:48 |
 | 73 | [Atrévete Otra Vez](https://open.spotify.com/track/0pSE8F90YFpOFeUM4jzWCc) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Purísimo Sara](https://open.spotify.com/album/4DA9Khggt2SPrKLYHGYOQm) | 4:27 |

@@ -4,7 +4,7 @@
 
 > 🚨
 
-312 songs - 13 hr 40 min
+313 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Let's Go](https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Let's Go](https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY) | 2:28 | 2024-09-05 |  |
 | [Leve](https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Leve](https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER) | 2:44 | 2024-03-21 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-02-09 |
+| [Liker deg](https://open.spotify.com/track/5hhztY40LYDWEBTEJO9N9F) | [KingSkurkOne](https://open.spotify.com/artist/0GJpcPq3tHjeDUB8I05Wxc), [chingo](https://open.spotify.com/artist/6uB2C3tOVQdG7igI7cDQ1w) | [Fornøyelser og hånelser](https://open.spotify.com/album/3zq8UYhhJKcwKvllnSqGn8) | 3:11 | 2025-04-24 |  |
 | [Lillehammer](https://open.spotify.com/track/5FlKZlea7PxMv7PmQ4dssD) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Lillehammer](https://open.spotify.com/album/2ijFzqpjw5NiVA0DIgSq8w) | 2:25 | 2025-04-10 | 2025-04-20 |
 | [LONELY](https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [LONELY](https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT) | 2:00 | 2025-01-16 | 2025-02-09 |
 | [Lover](https://open.spotify.com/track/6omD0gsauEeZobNuJJMWfz) | [Charlie Skien](https://open.spotify.com/artist/561E5AG2FI0jbTbOrxp8qF) | [Lover](https://open.spotify.com/album/4YKK8NeOdlxEvVe4LY5cKQ) | 3:40 | 2024-05-06 | 2024-05-24 |
@@ -300,7 +301,7 @@
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 |  |
 | [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 | 2024-12-19 | 2025-03-28 |
-| [Venner & Fiender](https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 3:41 | 2025-03-27 |  |
+| [Venner & Fiender](https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 3:41 | 2025-03-27 | 2025-05-01 |
 | [Vet hva du vet feat\. Lars Vaular](https://open.spotify.com/track/6EYFs6imqcD1K5UJ4mLw2D) | [KingSkurkOne](https://open.spotify.com/artist/0GJpcPq3tHjeDUB8I05Wxc), [chingo](https://open.spotify.com/artist/6uB2C3tOVQdG7igI7cDQ1w), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [Fornøyelser og hånelser](https://open.spotify.com/album/3zq8UYhhJKcwKvllnSqGn8) | 3:01 | 2025-04-24 |  |
 | [Vi](https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Vi](https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd) | 1:48 | 2025-01-30 |  |
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 | 2025-04-20 |

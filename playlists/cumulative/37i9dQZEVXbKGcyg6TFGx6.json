@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -12042,7 +12042,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -13742,7 +13742,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 160394,
       "name": "Doeu Mas N\u00e3o Matou",
       "url": "https://open.spotify.com/track/5sriJHk3fFhQ0tqlMDKkpM"
@@ -16734,7 +16734,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 110173,
       "name": "Feel the Rush",
       "url": "https://open.spotify.com/track/5jEjoVvK34x6w2sLNFRmTW"
@@ -22623,6 +22623,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Radio",
+        "url": "https://open.spotify.com/album/5t8X2yivFt8tHZisLHFqB9"
+      },
+      "artists": [
+        {
+          "name": "GenoDa1",
+          "url": "https://open.spotify.com/artist/4TNxOwPek4flpsgpjlItgA"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137157,
+      "name": "I needed peace sorry i had to go",
+      "url": "https://open.spotify.com/track/6mWJmqxdE4ZYIE8WMQ6IgV"
+    },
+    {
+      "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
         "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
       },
@@ -25254,7 +25272,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 176780,
       "name": "Kichta Walk",
       "url": "https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz"
@@ -27170,7 +27188,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -33426,6 +33444,28 @@
       "duration_ms": 168728,
       "name": "No Return (with The Kid LAROI & Lil Durk)",
       "url": "https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1"
+    },
+    {
+      "album": {
+        "name": "No time for you",
+        "url": "https://open.spotify.com/album/1A5mkP92wr7f96sGA3pp3Z"
+      },
+      "artists": [
+        {
+          "name": "Boobieblood",
+          "url": "https://open.spotify.com/artist/3HKIDddgriLdqFMzl66e48"
+        },
+        {
+          "name": "Kam Nasty",
+          "url": "https://open.spotify.com/artist/4pb67vgceOqeyeuix0SSbn"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "No time for you",
+      "url": "https://open.spotify.com/track/4CTaUI4k2OQm7xVHBrVlGE"
     },
     {
       "album": {
@@ -48025,6 +48065,24 @@
     },
     {
       "album": {
+        "name": "Touch\u00e9",
+        "url": "https://open.spotify.com/album/6lMqIsBS9087QdFSF9KhZr"
+      },
+      "artists": [
+        {
+          "name": "ADH",
+          "url": "https://open.spotify.com/artist/4k99IWQOcwyNhLJMBMU6wh"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/0WHrkyqJQomwlTY4N2Edz0"
+    },
+    {
+      "album": {
         "name": "TOUCH\u00c9",
         "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
       },
@@ -48740,6 +48798,24 @@
       "duration_ms": 217933,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/6LdyWtehPeHI3Nsy9Wg1f7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Millin",
+          "url": "https://open.spotify.com/artist/3sYwZYp6HXumQzQ24i6etC"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178055,
+      "name": "Ttyl",
+      "url": "https://open.spotify.com/track/5FMSAO34BUi0UTcK89CJHB"
     },
     {
       "album": {
@@ -51504,7 +51580,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
@@ -52060,7 +52136,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

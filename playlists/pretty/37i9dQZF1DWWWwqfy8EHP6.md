@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 
 > LeeHi's here for you, Hice Creams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,803 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,825 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 | 43 | [LOVE IS OVER](https://open.spotify.com/track/0ktVFAvj5AAZSATLv7D3zj) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:37 |
 | 44 | [Killing Me Softly with His Song](https://open.spotify.com/track/1rsXKUmP6vYdBm8LvQKZyp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 2](https://open.spotify.com/album/4jpc8Az4xiJUoGN1jkafi8) | 2:58 |
 | 45 | [MY STAR](https://open.spotify.com/track/2MAoyFo5GnR6MlX6VZbTNI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:41 |
-| 46 | [UP ALL NIGHT](https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 |
+| 46 | [UP ALL NIGHT](https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 |
 | 47 | [HAPPEN ENDING \- JAPANESE MIX](https://open.spotify.com/track/2JjuzRm1d3k4W9rv0OKn54) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [LEE HI JAPAN DEBUT ALBUM](https://open.spotify.com/album/6hYSa9oKq0RJ9GXx11vWZi) | 4:23 |
 | 48 | [Fool For Love](https://open.spotify.com/track/66Ghfp5KCWdp8QTGBoiCjB) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:05 |
 | 49 | [VIDEO](https://open.spotify.com/track/71vXgkxUvxRrqbyQM15nEO) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Bobby](https://open.spotify.com/artist/7Ca2iJ7BxIjFwgt26PPGwY) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 |

@@ -8701,6 +8701,28 @@
     },
     {
       "album": {
+        "name": "Loveholic",
+        "url": "https://open.spotify.com/album/0jylr6oqOhisVaRo07bJGA"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        },
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/2GmT097bJZk0ivdoIQs6DP"
+    },
+    {
+      "album": {
         "name": "The 1st Mini Album 'Lovender'",
         "url": "https://open.spotify.com/album/646nLsVkP1hqVp24mYyg53"
       },
@@ -16880,7 +16902,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"

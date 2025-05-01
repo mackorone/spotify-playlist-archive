@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,753 songs - 4 day 0 hr 19 min
+1,754 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Cosmic](https://open.spotify.com/track/2H7euNHOF7uADN6dfsWoZa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK) | 3:45 | 2024-08-03 | 2024-08-05 |
 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 | 2022-05-14 | 2022-05-16 |
 | [Countdown \(3, 2, 1\)](https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:34 | 2021-05-12 | 2021-05-16 |
-| [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 | 2025-04-25 | 2025-04-27 |
+| [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 | 2025-04-25 |  |
 | [COUNTER](https://open.spotify.com/track/0oDDoTLcHPMnHJNmB2Ts40) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:58 | 2024-09-04 | 2024-09-06 |
 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 | 2021-12-14 | 2022-03-30 |
 | [Crash Landing](https://open.spotify.com/track/66eZq38bO1ofzmpNa02XiL) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:24 | 2022-09-17 | 2022-09-19 |
@@ -630,6 +630,7 @@
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-22 | 2023-10-26 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/2eOXb8aSpBUQLSk1sTBPEK) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 3:04 | 2025-03-27 | 2025-03-29 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-08 | 2025-04-05 |
+| [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-04-30 |  |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-05-22 | 2021-05-23 |
 | [HAPPEN](https://open.spotify.com/track/1jRYyE9MEg7nxUgWEtsqFp) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4LAzCi5DD57BNekWGXptHY) | 3:13 | 2021-05-23 | 2021-11-06 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-09-10 |
@@ -662,7 +663,7 @@
 | [Help Me Rock&Roll](https://open.spotify.com/track/61Jmp8gGCF2pZDlGZ3d9D2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:36 | 2024-09-04 | 2024-09-06 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-20 |
 | [Here With Me](https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl) | 4:02 | 2024-10-11 | 2025-04-29 |
-| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2024-10-07 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2024-10-07 | 2025-05-01 |
 | [HERO](https://open.spotify.com/track/43u5DDtK4vQ1coWXb4S5a8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [HERO](https://open.spotify.com/album/7lSbnSqrOfg2aSOLaJHDsL) | 3:36 | 2023-10-23 | 2024-02-21 |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-12 | 2023-04-14 |
 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 | 2021-07-28 | 2021-08-18 |
@@ -1004,7 +1005,7 @@
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-19 | 2024-12-28 |
 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-08-01 |
 | [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:36 | 2025-03-15 | 2025-03-18 |
-| [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-22 |  |
+| [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-22 | 2025-05-01 |
 | [Monet](https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:38 | 2023-07-04 | 2023-07-13 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-12 | 2022-03-13 |
 | [Monster](https://open.spotify.com/track/3nSyllwWNp9XuLKqCWswVv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:36 | 2024-09-03 | 2024-09-07 |

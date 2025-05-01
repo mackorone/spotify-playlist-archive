@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA"
       },

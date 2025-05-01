@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Clave Especial
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,590,554 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,591,735 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 21 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
 | 22 | [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 |
 | 23 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
-| 24 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
+| 24 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 25 | [COMO CAPO](https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [COMO CAPO](https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E) | 2:45 |
 | 26 | [Vita Fer](https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Vita Fer](https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4) | 3:04 |
 | 27 | [EN LA CITY](https://open.spotify.com/track/5NlrtCVHsBEPDo3HaMgMJb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [EN LA CITY](https://open.spotify.com/album/3if74jhB1zzEZpVIoTdP4n) | 2:56 |

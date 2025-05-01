@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,895 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,922 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 61 | [The Other Line](https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
 | 62 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
 | 63 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
-| 64 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
-| 65 | [I Think Bad Thoughts](https://open.spotify.com/track/0jnTz7CcNUjCx5nrEfT7wx) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:31 |
+| 64 | [I Think Bad Thoughts](https://open.spotify.com/track/0jnTz7CcNUjCx5nrEfT7wx) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:31 |
+| 65 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
 | 66 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
 | 67 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
 | 68 | [The Last Garrison](https://open.spotify.com/track/5zZ79IgPs6vOWf7NRwC1d2) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Mindsweep](https://open.spotify.com/album/3q8PS1Zkx3a0Zo6Ld2L1d7) | 3:42 |

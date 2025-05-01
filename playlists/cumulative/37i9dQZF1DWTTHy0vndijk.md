@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: FIFTY FIFTY\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-475 songs - 1 day 2 hr 5 min
+476 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Candy Boy](https://open.spotify.com/track/0SY4Q05g5eazjmgr3Dxr5y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 2:46 | 2022-01-04 | 2022-07-12 |
 | [Candy Crush](https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 3 : Candy Crush>](https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX) | 3:00 | 2024-04-26 | 2024-06-17 |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-07-04 | 2023-02-04 |
-| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 |  |
+| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 | 2025-05-01 |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
@@ -364,6 +364,7 @@
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 |  |
+| [SOURPATCH](https://open.spotify.com/track/6fuMhofxOh5ZmDWUYZnfaO) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [The 1st Single Album \- Things we love : H](https://open.spotify.com/album/3ioR7gHeadrflzwM5oGqu4) | 2:49 | 2025-04-30 |  |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Special](https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Special](https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO) | 4:17 | 2024-05-24 | 2024-06-13 |
 | [Spotlight](https://open.spotify.com/track/1fMCp60Wtrv6jqmp7awVXR) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [Dream](https://open.spotify.com/album/3vM1AXKOPmsUJYV8RF8fM8) | 3:01 | 2023-02-23 | 2023-03-29 |

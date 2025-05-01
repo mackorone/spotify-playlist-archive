@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Ansh4sure",
+          "url": "https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174065,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
+    },
+    {
+      "album": {
         "name": "Bewajah",
         "url": "https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN"
       },
@@ -3062,7 +3084,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 222121,
       "name": "Mere Ranjhana",
       "url": "https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH"
@@ -3939,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Rozaana",
+        "url": "https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "Rozaana",
+      "url": "https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp"
+    },
+    {
+      "album": {
         "name": "Ruko Na",
         "url": "https://open.spotify.com/album/1WfBql1CYo4QBP28RoxS3v"
       },
@@ -4352,7 +4392,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 165640,
       "name": "Simti",
       "url": "https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 241495,
+  "num_followers": 241580,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,38 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Se Me Fu\u00e9",
+      "url": "https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Sexy Salsa",
         "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
       },
@@ -703,38 +735,6 @@
       "duration_ms": 300533,
       "name": "A Fuego Lento",
       "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Se Me Fu\u00e9",
-      "url": "https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
     },
     {
       "added_at": "2024-07-11 00:51:42",

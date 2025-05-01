@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,874 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,879 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 18 | [Nightmare](https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [More ASH](https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD) | 1:55 |
 | 19 | [Think About You](https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 3:15 |
 | 20 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
-| 21 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
+| 21 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
 | 22 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 |
-| 23 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
+| 23 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
 | 24 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
 | 25 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
 | 26 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 47 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 |
 | 48 | [Sunshine](https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sunshine](https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr) | 3:15 |
 | 49 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
-| 50 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 |
+| 50 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 
 Snapshot ID: `Z/X+6gAAAABVkP55h1st+X6sUpRmraGT`

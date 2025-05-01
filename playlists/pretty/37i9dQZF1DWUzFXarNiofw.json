@@ -1,13 +1,61 @@
 {
   "description": "The newest r&b drops, every week. Cover: Sasha Keable",
-  "num_followers": 1084705,
+  "num_followers": 1084752,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsyZgAAAACZ7nDzsYA8Ht2RiaLhtmtx",
+  "snapshot_id": "aBK9zAAAAABnu1JR55yQySs+D4GfZqdD",
   "tracks": [
+    {
+      "added_at": "2025-05-01 00:18:20",
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "added_at": "2025-05-01 00:18:20",
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+    },
+    {
+      "added_at": "2025-05-01 00:18:20",
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
+    },
     {
       "added_at": "2025-04-25 04:13:07",
       "album": {

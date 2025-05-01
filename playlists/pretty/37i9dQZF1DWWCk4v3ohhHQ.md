@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,073 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,103 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 37 | [Wherever I Go](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 2:49 |
 | 38 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
 | 39 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
-| 40 | [Revolution](https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:51 |
-| 41 | [Animal](https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits \(Spotify\)](https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT) | 3:32 |
+| 40 | [Animal](https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits \(Spotify\)](https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT) | 3:32 |
+| 41 | [Revolution](https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:51 |
 | 42 | [Love Runs Out](https://open.spotify.com/track/3cOO5IQtOYs7huq4Z6lYfr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:44 |
 | 43 | [Shot At The Night](https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 4:02 |
 | 44 | [Say Amen \(Saturday Night\)](https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:09 |

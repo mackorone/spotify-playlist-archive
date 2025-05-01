@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-391 songs - 20 hr 15 min
+392 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Boy Don't \(feat\. Natalie Gray\)](https://open.spotify.com/track/4SIJ1jXfWqqsJ93fTQttP6) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [Natalie Gray](https://open.spotify.com/artist/047rvCsEJLIKpbhzi4nHi4) | [Boy Don't \(feat\. Natalie Gray\)](https://open.spotify.com/album/4lRwKz3LEHslb90zTmCSOp) | 2:52 | 2024-10-18 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2024-04-26 | 2024-08-03 |
 | [Break Through](https://open.spotify.com/track/582SrUOUUD8cLT3H63dK0y) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Break Through](https://open.spotify.com/album/17l30Pmbml7kAyGRdXdF5Y) | 2:16 | 2023-08-17 | 2024-05-01 |
+| [Break Your Heart](https://open.spotify.com/track/5QJqPXHPCa9NJryHaY3iK3) | [Ollie Crowe](https://open.spotify.com/artist/1JkxFjMhqCQw1Lg9xUH1GJ) | [Break Your Heart](https://open.spotify.com/album/4wtvB7PLmvE2l4t3dx3gKK) | 2:29 | 2025-04-30 |  |
 | [Breathe \(feat\. No/Me\)](https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Breathe \(feat\. No/Me\)](https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL) | 4:19 | 2023-08-17 | 2024-03-14 |
 | [Bring The Noise](https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [Bring The Noise / Stutter](https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy) | 3:04 | 2023-10-30 | 2024-03-14 |
 | [Burning](https://open.spotify.com/track/1v5QAFDP7deRYWIwNMuw5l) | [Goldistic](https://open.spotify.com/artist/7001FsssrtApPHEqAMg22Y), [Zamu](https://open.spotify.com/artist/6Zvo1qESlk0v2vgUhGtBRf), [CyberFox](https://open.spotify.com/artist/0cjCwMkEJEyqdmYXTa6zBm) | [Burning](https://open.spotify.com/album/7knm6v9UY1EJ2s5xjSGk7e) | 2:33 | 2024-02-15 | 2024-03-14 |

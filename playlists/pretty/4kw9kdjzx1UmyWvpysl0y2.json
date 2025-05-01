@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125367,
+  "num_followers": 125361,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUBXdQidI4reY363jL2RuiVy0qydvC",
+  "snapshot_id": "AAAUBx8yADPSH1411kgYk5dCel4k+zJz",
   "tracks": [
+    {
+      "added_at": "2025-04-30 15:52:23",
+      "album": {
+        "name": "Threats",
+        "url": "https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Versa",
+          "url": "https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Threats",
+      "url": "https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e"
+    },
     {
       "added_at": "2025-04-29 13:57:38",
       "album": {
@@ -1139,250 +1159,6 @@
       "duration_ms": 186000,
       "name": "Feel Ur Luv",
       "url": "https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN"
-    },
-    {
-      "added_at": "2025-02-06 14:49:57",
-      "album": {
-        "name": "Love You for the Summer (Kohen Remix)",
-        "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Love You for the Summer - Kohen Remix",
-      "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
-    },
-    {
-      "added_at": "2025-02-11 18:57:38",
-      "album": {
-        "name": "Foul (RAIZHELL Remix)",
-        "url": "https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU"
-      },
-      "artists": [
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
-        },
-        {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
-        },
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 157636,
-      "name": "Foul - RAIZHELL Remix",
-      "url": "https://open.spotify.com/track/3Ui6VUzyd1j7WXCP4koUaf"
-    },
-    {
-      "added_at": "2025-02-04 15:33:36",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/372JR44CZxw21zfaM9UeFa"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/5BeE7O0DuaWZKo3TOly1qz"
-    },
-    {
-      "added_at": "2025-02-03 15:06:13",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw"
-    },
-    {
-      "added_at": "2025-01-31 16:10:49",
-      "album": {
-        "name": "Monstercat x Hospital Records",
-        "url": "https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 179129,
-      "name": "99 Octane",
-      "url": "https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN"
-    },
-    {
-      "added_at": "2025-01-30 16:02:13",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/6o9JVjW0gznZ4Dzd34pbLZ"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        },
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        },
-        {
-          "name": "Degs",
-          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
-        }
-      ],
-      "duration_ms": 224827,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/0Tc7wokiNSXzOkaQrakz57"
-    },
-    {
-      "added_at": "2025-01-29 15:34:51",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p"
-    },
-    {
-      "added_at": "2025-01-28 15:59:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3JhgEfWrrI90Z8tznIOdlt"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 167062,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/4fDyof5931djLxKgeYcXSW"
-    },
-    {
-      "added_at": "2025-01-28 15:58:51",
-      "album": {
-        "name": "Find Peace",
-        "url": "https://open.spotify.com/album/4mEiJ27tKr9qzVqO8QaaPp"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "SOLAH",
-          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Find Peace",
-      "url": "https://open.spotify.com/track/7y51ESqrsj7cVC8jot2vBP"
-    },
-    {
-      "added_at": "2025-01-27 14:39:49",
-      "album": {
-        "name": "What Are We Proving",
-        "url": "https://open.spotify.com/album/7c2Mz03qiwZJuhqTSevtZL"
-      },
-      "artists": [
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 278620,
-      "name": "What Are We Proving",
-      "url": "https://open.spotify.com/track/5J0WnlrYHDUzglZzyq3Rpn"
-    },
-    {
-      "added_at": "2025-01-24 15:59:51",
-      "album": {
-        "name": "CHAOS WILL BRING PEACE",
-        "url": "https://open.spotify.com/album/4cBCMwA1k3oOwFd1RSGs7r"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CHAOS WILL BRING PEACE",
-      "url": "https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,495 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,580 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 38 | [Amame en Camara Lenta](https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Salvaje! 88](https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1) | 6:29 |
 | 39 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
 | 40 | [Mi Mundo](https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:44 |
-| 41 | [A Fuego Lento](https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ) | [Mario Ortiz Y Su Orquesta](https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO), [Anthony Cruz](https://open.spotify.com/artist/23XjDf1pxXEUzkfoLg6oXr), [Luigui Valentin](https://open.spotify.com/artist/0YvHEDgHZq5KnDCEf9xCbc), [Nelson Rodriguez](https://open.spotify.com/artist/1zL7uW1Irj5r3kHTtwikfb), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Primi Cruz](https://open.spotify.com/artist/7cLvr0L2gwaooIkr31AfSa) | [Sexy Salsa](https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv) | 5:00 |
+| 41 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
 | 42 | [Se Me Fué](https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:52 |
-| 43 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
+| 43 | [A Fuego Lento](https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ) | [Mario Ortiz Y Su Orquesta](https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO), [Anthony Cruz](https://open.spotify.com/artist/23XjDf1pxXEUzkfoLg6oXr), [Luigui Valentin](https://open.spotify.com/artist/0YvHEDgHZq5KnDCEf9xCbc), [Nelson Rodriguez](https://open.spotify.com/artist/1zL7uW1Irj5r3kHTtwikfb), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Primi Cruz](https://open.spotify.com/artist/7cLvr0L2gwaooIkr31AfSa) | [Sexy Salsa](https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv) | 5:00 |
 | 44 | [A Mi](https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Dueno del Soneo](https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq) | 5:38 |
 | 45 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
 | 46 | [Te Vas De Mi](https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 6:38 |

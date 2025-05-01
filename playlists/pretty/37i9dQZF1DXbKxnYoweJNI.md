@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 163 braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,761 likes - 133 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,764 likes - 133 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 36 | [厝鳥仔崽](https://open.spotify.com/track/7g6DMvlgdAYUXDKZltOj4T) | [江念庭](https://open.spotify.com/artist/1YDAhxjMkyaHb9CdnEOVtH) | [厝鳥仔崽](https://open.spotify.com/album/0bk2shAetiVvE6wt08CnbK) | 4:05 |
 | 37 | [新郎](https://open.spotify.com/track/1AwHhS0vQrc2vzSpW7m7GH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [新郎](https://open.spotify.com/album/20F3ek2ax9tCi0XeUarWiF) | 3:42 |
 | 38 | [沒有終點的旅程](https://open.spotify.com/track/3zVioOgk7Ny6gNaKXJBJ8s) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol), [楊淨宇](https://open.spotify.com/artist/6vzKW5EhkqIiFD3hoxU9Vb) | [沒有終點的旅程](https://open.spotify.com/album/4lnwaTudIbefL2Y5gt1oHY) | 2:43 |
-| 39 | [You & Me（你和我\)](https://open.spotify.com/track/02OOrtXfEJxMp0wPDHfFIU) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Leon Markcus](https://open.spotify.com/artist/2hP2HXNHEfCyQ6MSqqxKRl) | [You & Me](https://open.spotify.com/album/64kybB57BnM0tBfvx9YhVU) | 3:00 |
+| 39 | [You & Me（你和我\)](https://open.spotify.com/track/02OOrtXfEJxMp0wPDHfFIU) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Leon Markcus](https://open.spotify.com/artist/2v6uzRepK0kPxlazqL0xBv) | [You & Me](https://open.spotify.com/album/64kybB57BnM0tBfvx9YhVU) | 3:00 |
 | 40 | [没道理](https://open.spotify.com/track/2VlfseFIBz9B8JrC20PBDa) | [HEAT J](https://open.spotify.com/artist/7aRat9LIj97d8GiNfKtoLB) | [没道理](https://open.spotify.com/album/5FTBR0B5cEjpxB069U4JPp) | 2:35 |
 | 41 | [starting](https://open.spotify.com/track/1nCz11eBnzvinyL8RUgPnR) | [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3) | [dud](https://open.spotify.com/album/1EpbhBGgemz33r1PNMw1CF) | 2:37 |
 | 42 | [為何你的追蹤比我還多 Mr\. Insecure](https://open.spotify.com/track/3S2Jjo3rhZfi7sTHneNh5o) | [Ak Benjamin](https://open.spotify.com/artist/2HKoCosZXnxWKI7p1w0thI) | [為何你的追蹤比我還多 Mr\. Insecure](https://open.spotify.com/album/4ljVXsBIaCud2NrQINlhkh) | 2:51 |

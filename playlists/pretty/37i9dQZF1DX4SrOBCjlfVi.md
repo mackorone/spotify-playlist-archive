@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Young Thug, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,769 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,877 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 32 | [STREET RULES](https://open.spotify.com/track/2AKn0ikZzm6AYIPMEuFhzD) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Tuesday In LA 3](https://open.spotify.com/album/071SbfJ6VbRo61aaJv2Wbg) | 2:39 |
 | 33 | [You Got It \(feat\. Nueve Lio\)](https://open.spotify.com/track/0RBQUkNJgXGaYfGwU3b22Z) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Nueve Lio](https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI) | [Perfect Timing](https://open.spotify.com/album/0BqijlBuYCKh90YtUn823A) | 1:52 |
 | 34 | [Benjamin Crew](https://open.spotify.com/track/1HIvyqkOaH8uV6xH1hZxwN) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Visionplay Ent](https://open.spotify.com/artist/3yS6o3i90qqAhjbVAAJWip) | [Benjamin Crew](https://open.spotify.com/album/77YmCGKzz10mOWM383gYOX) | 3:20 |
-| 35 | [B2A](https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [B2A](https://open.spotify.com/album/4c3uikJdDRMI4JXP0cUGs0) | 2:50 |
+| 35 | [B2A \(belt 2 ass\)](https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [B2A \(belt 2 ass\)](https://open.spotify.com/album/4c3uikJdDRMI4JXP0cUGs0) | 2:50 |
 | 36 | [Wild Story \(PT 3\)](https://open.spotify.com/track/2qmEjhRccP0pAtEBXO0yv4) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Wild Story \(PT 3\)](https://open.spotify.com/album/7kRv5NdWuKBslxmePFJFK7) | 2:31 |
 | 37 | [U Need 2 Leave](https://open.spotify.com/track/1qIaEYGRacHs4VHBocGBx8) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [THE STREETS IS YOURS](https://open.spotify.com/album/6Jehr1sN2f7tcZrIa2dP8Y) | 1:46 |
 | 38 | [Back Up On My Shit \(feat\. STAR BANDZ\)](https://open.spotify.com/track/3T19H3fuligqE4FDPWxBdA) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Back Up On My Shit \(feat\. STAR BANDZ\)](https://open.spotify.com/album/4k26A62InMc6m1HS3v0nsE) | 2:57 |

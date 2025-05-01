@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Galdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,414 likes - 97 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,889 likes - 97 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 |
 | 2 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 |
-| 3 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 3 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 4 | [Stecu Stecu](https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7) | [Faris Adam](https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX) | [Stecu Stecu](https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg) | 3:43 |
-| 5 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
+| 5 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
 | 6 | [Dengar Hatimu \(Original Soundtrack From "JUMBO"\)](https://open.spotify.com/track/3ZmszxZwwu17V4BC121aQN) | [Prince Poetiray](https://open.spotify.com/artist/4rRUtosj3LsgTt3bgwWPBF), [Quinn Salman](https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP) | [Dengar Hatimu \(Original Soundtrack From "JUMBO"\)](https://open.spotify.com/album/3y0Qi6Xn2aWIefS1Vq7UCi) | 2:54 |
 | 7 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
 | 8 | [Multo](https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:57 |

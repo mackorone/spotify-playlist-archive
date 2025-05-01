@@ -2,7 +2,7 @@
 
 ### [Los 80 México](https://open.spotify.com/playlist/37i9dQZF1DX8idxeA9K8sJ)
 
-> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
+> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Luis Miguel en portada.
 
 166 songs - 10 hr 42 min
 

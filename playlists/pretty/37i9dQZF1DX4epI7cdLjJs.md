@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain]
 
 > Enjoy the soundtrack of Business Proposal! \(드라마 사내 맞선의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,896 likes - 35 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,899 likes - 35 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain]
 | 4 | [Sun Shower](https://open.spotify.com/track/6mgMKlpruxqFBWGBGtrOmw) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 4:16 |
 | 5 | [Melting](https://open.spotify.com/track/0QKOCQ3LJSmTSDLBVxiXun) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:04 |
 | 6 | [Love, Maybe](https://open.spotify.com/track/2hbFM866nfLphLKKZNhnsW) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:05 |
-| 7 | [Fall In Love](https://open.spotify.com/track/5gWr7mzkXFPFDfY0pD8a6Q) | [Jihan](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park Soeun](https://open.spotify.com/artist/5mRaQUiwWOrJGSsC2TM1K0) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:19 |
+| 7 | [Fall In Love](https://open.spotify.com/track/5gWr7mzkXFPFDfY0pD8a6Q) | [Han Jihyo](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park Soeun](https://open.spotify.com/artist/5mRaQUiwWOrJGSsC2TM1K0) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:19 |
 | 8 | [Closer](https://open.spotify.com/track/1h1Cr0879UYdOFE2AwVIns) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:58 |
 | 9 | [Whatever You Want](https://open.spotify.com/track/4dgs4D8qKznSSzME2POXRN) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 4:16 |
 | 10 | [Spring Breeze](https://open.spotify.com/track/6O47mAbHvhLxCTVkBFLFhr) | [NEW \(THE BOYZ\)](https://open.spotify.com/artist/67pva3FofOzEWZ3dSAItPL) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 3:44 |

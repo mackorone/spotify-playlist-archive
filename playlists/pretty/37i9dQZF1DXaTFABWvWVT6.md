@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,146 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,153 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 6 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 |
 | 7 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 8 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 |
-| 9 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
-| 10 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
+| 9 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
+| 10 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
 | 11 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
 | 12 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 |
 | 13 | [Bussin'](https://open.spotify.com/track/7o7Bd4gXTMMEWjGshr0pkH) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Bussin'](https://open.spotify.com/album/7Ly4erXy2nfDMwRpey9z3h) | 2:39 |

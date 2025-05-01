@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: KAI(\uce74\uc774)) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: MEOVV) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -1257,6 +1257,32 @@
     },
     {
       "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -1428,7 +1454,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 199133,
       "name": "BURN",
       "url": "https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB"
@@ -3635,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192467,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+    },
+    {
+      "album": {
         "name": "Don't Call Me - The 7th Album",
         "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
       },
@@ -4282,7 +4326,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 168026,
       "name": "If I\u2019m S, Can You Be My N?",
       "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
@@ -8059,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+    },
+    {
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
       },
@@ -9458,7 +9520,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"

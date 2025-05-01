@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sleep Token
 
-1,561 songs - 3 day 17 hr 53 min
+1,562 songs - 3 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Down \- 2023](https://open.spotify.com/track/37ilbELMZjESxLK1mbU978) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Down](https://open.spotify.com/album/6Ev3C9gcsowvSvX0jhIfnb) | 3:24 | 2023-08-17 | 2023-08-25 |
 | [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 | 2023-07-06 | 2023-07-14 |
 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 | 2023-04-13 | 2023-04-28 |
+| [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-25 |  |
 | [Drag Me Down](https://open.spotify.com/track/3gaBzfwXHucIPYESXsV73c) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Drag Me Down](https://open.spotify.com/album/116sA1mfbXdz1TmkHffJX4) | 3:16 | 2023-08-10 | 2023-08-18 |
 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-06 | 2023-04-14 |
 | [Drifting](https://open.spotify.com/track/6dZ0nsuT3rtAnhl9b93IEY) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Drifting](https://open.spotify.com/album/3lt2n3wIE0XIRT2XXgo9nn) | 3:07 | 2024-02-08 | 2024-02-16 |
@@ -689,7 +690,7 @@
 | [IDGAF](https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [IDGAF](https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt) | 2:22 | 2023-11-23 | 2023-12-01 |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-06 | 2025-04-04 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-16 | 2023-04-07 |
-| [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-03 |  |
+| [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-03 | 2025-05-01 |
 | [If You Build It](https://open.spotify.com/track/1zCvex13DIndjHZqIuxF9Q) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [If You Build It](https://open.spotify.com/album/4xCD3eNJv1bKODePEvbtyF) | 3:57 | 2023-03-23 | 2023-03-31 |
 | [If You're Blue](https://open.spotify.com/track/0GcYrixlyRkIVsR0IczzDP) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [If You're Blue](https://open.spotify.com/album/13i41KdYRgeDRSnGDjri2j) | 3:15 | 2023-05-18 | 2023-05-26 |
 | [Immortal](https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:10 | 2023-08-17 | 2023-08-25 |

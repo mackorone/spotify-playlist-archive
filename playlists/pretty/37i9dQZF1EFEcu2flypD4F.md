@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,207 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,208 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 116 | [Cellophane](https://open.spotify.com/track/6hWG9YfOhxlZyIf4EnbA97) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:25 |
 | 117 | [Now or Never](https://open.spotify.com/track/2gPM5iXzORTiUUyCD3eqxQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 5th Mini Album \[ Sensuous \]](https://open.spotify.com/album/7MAqtgwyn1KTCdmnAoSUfx) | 3:32 |
 | 118 | [If You Say So](https://open.spotify.com/track/7x9nRizCCQRCGkCrLaQ8Tk) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:15 |
-| 119 | [Sweet Design](https://open.spotify.com/track/5B5sLwwW45tLXW2CYzK8QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 2:25 |
-| 120 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
+| 119 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
+| 120 | [Sweet Design](https://open.spotify.com/track/5B5sLwwW45tLXW2CYzK8QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 2:25 |
 | 121 | [Radioactive](https://open.spotify.com/track/1p72DhSVCYhdO5Or2Nd11I) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:11 |
 | 122 | [Magic](https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:29 |
 | 123 | [Deer In Headlights](https://open.spotify.com/track/0YGu5VbKdxYOB9FSfbweX3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:25 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AbwGtAAAAAAbfMimCYrcUT5Q2SfVYfgj`
+Snapshot ID: `AbwMVAAAAAApUWjbVKqG9tI6KjH8vPhh`

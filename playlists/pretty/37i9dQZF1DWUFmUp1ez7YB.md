@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,812 likes - 90 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,259 likes - 90 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 56 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
 | 57 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 58 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 |
-| 59 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
-| 60 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
+| 59 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
+| 60 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
 | 61 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
 | 62 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 63 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |

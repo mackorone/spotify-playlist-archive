@@ -8827,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
         "name": "The Highest",
         "url": "https://open.spotify.com/album/74WrPce0YrZGCBYazUApO7"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 246761,
+  "num_followers": 246836,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+        }
+      ],
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
         "name": "Afro Choro",
         "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 298014,
       "name": "Afro Choro",
       "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
-        }
-      ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1087,22 +1087,34 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
-        "name": "M\u00fasicas para Travessia",
-        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
       "artists": [
         {
-          "name": "Haroldo Bontempo",
-          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
-        },
-        {
-          "name": "Lina Lanna",
-          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
         }
       ],
-      "duration_ms": 124088,
-      "name": "Na Casa do Jornalista",
-      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1131,50 +1143,22 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+        "name": "M\u00fasicas para Travessia",
+        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
       "artists": [
         {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
-      },
-      "artists": [
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+        },
         {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+          "name": "Lina Lanna",
+          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
         }
       ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
-        "name": "Tin Tin Por Tin Tin",
-        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 140112,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
+      "duration_ms": 124088,
+      "name": "Na Casa do Jornalista",
+      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
+        "name": "Tin Tin Por Tin Tin",
+        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 140112,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
         "name": "Parti Capuri",
         "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 240400,
       "name": "Parti Capuri",
       "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Chuvas De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1291,6 +1275,22 @@
       "duration_ms": 157268,
       "name": "Muito \u00e0 Vontade",
       "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
-        "name": "Na Palavra",
-        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Gardel",
-          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Musa em Fuga",
-      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
         "name": "entre o mar e o c\u00e9u",
         "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 222496,
       "name": "entre o mar e o c\u00e9u",
       "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
+        "name": "Na Palavra",
+        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gardel",
+          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Musa em Fuga",
+      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
     },
     {
       "added_at": "2025-03-28 04:54:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-03-28 04:54:36",
       "album": {
-        "name": "Autoral",
-        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
-      },
-      "artists": [
-        {
-          "name": "Hamleto Stamato",
-          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Cris",
-      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2025-03-28 04:54:36",
-      "album": {
         "name": "No Jeito",
         "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 221300,
       "name": "No Gurufim do Tio Sam",
       "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
+    },
+    {
+      "added_at": "2025-03-28 04:54:36",
+      "album": {
+        "name": "Autoral",
+        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
+      },
+      "artists": [
+        {
+          "name": "Hamleto Stamato",
+          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Cris",
+      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
     },
     {
       "added_at": "2025-03-28 04:54:36",

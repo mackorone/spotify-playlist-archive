@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Dayseeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,288 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,359 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Black Mamba](https://open.spotify.com/track/31INWASDAVj7l1smhUNunx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Black Mamba](https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9) | 4:57 |
 | 27 | [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 |
 | 28 | [Lo Que Vale](https://open.spotify.com/track/2HqHzE7DUcDHpPHsdwJb9Z) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Lo Que Vale](https://open.spotify.com/album/0OmaRkCuDkQrzOi1q7CwKc) | 3:23 |
-| 29 | [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 |
+| 29 | [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Pat Flynn](https://open.spotify.com/artist/0QSSTVzzZDsKY9ga5YFqtc) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 |
 | 30 | [New World](https://open.spotify.com/track/0zSMor08K3jyDOzwCEnDMB) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [New World](https://open.spotify.com/album/7L7Rz6d1cwZkIP3UL4SuyL) | 3:06 |
 | 31 | [No Apologies \(feat\. Taime Downe\)](https://open.spotify.com/track/6uYrjE5G4bv1XpMpNhOgRU) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo), [Taime Downe](https://open.spotify.com/artist/0GNvw9fFzF0NwjzDmlI5Bl) | [No Apologies](https://open.spotify.com/album/6QQ1rR8yxIZaGJ1oTaqahF) | 3:46 |
 | 32 | [Let It In](https://open.spotify.com/track/1iO5GSYoB2TvrSgqDcDVKM) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [I Am the Way to Oblivion](https://open.spotify.com/album/4ISvYM6VUZqQXBd0fMclza) | 3:16 |

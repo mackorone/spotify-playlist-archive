@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,016 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,537 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 46 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
 | 47 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
 | 48 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 |
-| 49 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
+| 49 | [Max Don't Have Sex With Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:30 |
 | 50 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y), [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
-| 51 | [Max Don't Have Sex With Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:30 |
-| 52 | [Captain Jack \- Short Mix](https://open.spotify.com/track/09uma8kvpf699ailOSlzds) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [Captain Jack](https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww) | 4:08 |
+| 51 | [Captain Jack \- Short Mix](https://open.spotify.com/track/09uma8kvpf699ailOSlzds) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [Captain Jack](https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww) | 4:08 |
+| 52 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
 | 53 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
 | 54 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
 | 55 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |

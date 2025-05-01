@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,569 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,577 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,21 +61,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 51 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 52 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 53 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
-| 54 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
-| 55 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
+| 54 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
+| 55 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
 | 56 | [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 |
 | 57 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 58 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
-| 59 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
-| 60 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 61 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
+| 59 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
+| 60 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
+| 61 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
 | 62 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
 | 63 | [NOT RN!](https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [NOT RN!](https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3) | 2:40 |
 | 64 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 65 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
-| 66 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
-| 67 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
-| 68 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
+| 66 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
+| 67 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
+| 68 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
 | 69 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 |
 | 70 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 71 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |

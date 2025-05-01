@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,133 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,168 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 72 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 73 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
 | 74 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
-| 75 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
-| 76 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
+| 75 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
+| 76 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
 | 77 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 | 78 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 79 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |

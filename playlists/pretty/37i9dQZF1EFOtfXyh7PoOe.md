@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827 likes - 126 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 126 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 22 | [100 Ways](https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha) | 2:48 |
 | 23 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
 | 24 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 |
-| 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
-| 26 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 25 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 26 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
 | 27 | [Always](https://open.spotify.com/track/5poevcmYCOZ8uZQnUuOPxC) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Always](https://open.spotify.com/album/1u3ETW11Uysr6UF6din8CG) | 3:13 |
 | 28 | [Lonely \(feat\. MAX\)](https://open.spotify.com/track/7w9L0X5hoJi5cSqL68IR6s) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 2:47 |
 | 29 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 125 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 126 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AbwGtAAAAABLO0m/ZZLXJnFG+tVIFaOg`
+Snapshot ID: `AbwMfAAAAAA9USICE92c2JAJkdNkE+66`

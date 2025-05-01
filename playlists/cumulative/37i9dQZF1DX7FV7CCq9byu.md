@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-767 songs - 1 day 15 hr 11 min
+768 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 | 2025-01-10 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-23 |
 | [Do It For Love](https://open.spotify.com/track/1gepEl8sp9BHMGiwLBMNeR) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Do It For Love](https://open.spotify.com/album/4iEd1xGjteZK1UgoOVlAcj) | 3:07 | 2024-06-27 | 2024-08-02 |
+| [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 | 2025-04-30 |  |
 | [Don't F!!k Your Friends](https://open.spotify.com/track/0HFXYeTSAEbx58GsANBSC5) | [Mia Sandem](https://open.spotify.com/artist/5Bf52Ig2jthWUxEnIOEjEd) | [Don't F!!k Your Friends](https://open.spotify.com/album/7KPAPsZnTdvPvxvrFVAHYC) | 3:02 | 2025-03-13 | 2025-04-04 |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-04-29 |  |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-11 |

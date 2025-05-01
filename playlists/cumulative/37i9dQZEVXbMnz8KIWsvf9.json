@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
@@ -7759,6 +7759,28 @@
     },
     {
       "album": {
+        "name": "Sound of Music pt.1",
+        "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        },
+        {
+          "name": "KARINA",
+          "url": "https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
+      "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
+    },
+    {
+      "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
@@ -9466,7 +9488,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -9694,7 +9716,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei"
@@ -10648,7 +10670,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -13426,7 +13448,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 166640,
       "name": "UP - KARINA Solo",
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
@@ -14518,7 +14540,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 286191,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe"
@@ -15559,6 +15581,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c",
+        "url": "https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB"
+      },
+      "artists": [
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206416,
+      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c",
+      "url": "https://open.spotify.com/track/6SAcZT7H44417uxybshTEy"
+    },
+    {
+      "album": {
         "name": "I\u2019M GOING TO KEEP RUNNING AWAY",
         "url": "https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM"
       },
@@ -15806,6 +15846,24 @@
       "duration_ms": 235790,
       "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
       "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
+    },
+    {
+      "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+        "url": "https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200076,
+      "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+      "url": "https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz"
     },
     {
       "album": {
@@ -17414,7 +17472,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
@@ -17882,7 +17940,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 229520,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e2b\u0e31\u0e27\u0e17\u0e34\u0e48\u0e21\u0e1a\u0e48\u0e2d",
       "url": "https://open.spotify.com/track/22A3EEXoniinp3n7BlVlxT"
@@ -19964,7 +20022,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 246973,
       "name": "\u0e40\u0e25\u0e48\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e39\u0e07",
       "url": "https://open.spotify.com/track/5ILPWem0xm3v85WeXqrTKP"

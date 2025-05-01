@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-38 songs - 1 hr 54 min
+39 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,5 +46,6 @@
 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 | 2024-08-23 |  |
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 | 2023-08-21 |  |
 | [Won Da Mo](https://open.spotify.com/track/3dQBUVzA9qw3iUOfzRla8T) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 4:07 | 2023-08-21 |  |
+| [You](https://open.spotify.com/track/6UTaZl983phRG1xrf9B7Je) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 3:33 | 2025-04-30 |  |
 
 \*This playlist was first scraped on 2023-08-22. Prior content cannot be recovered.

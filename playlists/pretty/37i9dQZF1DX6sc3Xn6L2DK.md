@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,293 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,300 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 35 | [Dream of You](https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Dream of You](https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR) | 3:57 |
 | 36 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 37 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
-| 38 | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P) | 3:40 |
-| 39 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 38 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 39 | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P) | 3:40 |
 | 40 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
-| 41 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
-| 42 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
+| 41 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
+| 42 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
 | 43 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
 | 44 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 45 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 63 | [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 |
 | 64 | [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 |
 | 65 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 |
-| 66 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
-| 67 | [I'll Be Around](https://open.spotify.com/track/3e0OEfibR6MA2BYjhIaNI0) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 5:20 |
+| 66 | [I'll Be Around](https://open.spotify.com/track/3e0OEfibR6MA2BYjhIaNI0) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 5:20 |
+| 67 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
 | 68 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 |
 | 69 | [All American Singer](https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [All American Singer](https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY) | 3:57 |
 | 70 | [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 |
 | 71 | [Track 1](https://open.spotify.com/track/3MCL9D4nelPpNMLTT4fKC4) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Prequel](https://open.spotify.com/album/79cEd6PLap7uBwJrPeSW4s) | 11:56 |
-| 72 | [Our Love Is a Fire](https://open.spotify.com/track/20lcS77F1O036phxW1XkoA) | [The High Divers](https://open.spotify.com/artist/4kEnncENM0eEkmZgbY4hVv) | [Ride With You](https://open.spotify.com/album/6i25hu7Ucnu7Ek4RFahn0l) | 3:29 |
-| 73 | [If I Had Wings](https://open.spotify.com/track/5G2h3SmlMFhSGCbHugDWAU) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [If I Had Wings](https://open.spotify.com/album/6JPBDsRgTZFhBKbeBBtlj1) | 4:33 |
+| 72 | [If I Had Wings](https://open.spotify.com/track/5G2h3SmlMFhSGCbHugDWAU) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [If I Had Wings](https://open.spotify.com/album/6JPBDsRgTZFhBKbeBBtlj1) | 4:33 |
+| 73 | [Our Love Is a Fire](https://open.spotify.com/track/20lcS77F1O036phxW1XkoA) | [The High Divers](https://open.spotify.com/artist/4kEnncENM0eEkmZgbY4hVv) | [Ride With You](https://open.spotify.com/album/6i25hu7Ucnu7Ek4RFahn0l) | 3:29 |
 | 74 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
 | 75 | [Looking at the Fish](https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:18 |
 

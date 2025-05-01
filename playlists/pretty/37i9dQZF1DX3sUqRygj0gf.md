@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,086 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 7 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 |
 | 8 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 |
 | 9 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
-| 10 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 |
-| 11 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
-| 12 | [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 |
-| 13 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
+| 10 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 11 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
+| 12 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 |
+| 13 | [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 |
 | 14 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 |
 | 15 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
 | 16 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 21 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 |
 | 22 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 23 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 |
-| 24 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
-| 25 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 |
+| 24 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 |
+| 25 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
 | 26 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |
 | 27 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
 | 28 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |

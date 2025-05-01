@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 129199,
+  "num_followers": 129210,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Alma Peque\u00f1a",
+        "url": "https://open.spotify.com/album/6hlznNMsSsIpUdz6PiKnaj"
+      },
+      "artists": [
+        {
+          "name": "Flor de Lava",
+          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
+        }
+      ],
+      "duration_ms": 234675,
+      "name": "Alma Peque\u00f1a",
+      "url": "https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "LA CONSTANCIA",
         "url": "https://open.spotify.com/album/7dE81OdWeZphh6dPHE7WHW"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 209882,
       "name": "De coraz\u00f3n",
       "url": "https://open.spotify.com/track/0XUvzRrneiwKkblOoER6uH"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Alma Peque\u00f1a",
-        "url": "https://open.spotify.com/album/6hlznNMsSsIpUdz6PiKnaj"
-      },
-      "artists": [
-        {
-          "name": "Flor de Lava",
-          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
-        }
-      ],
-      "duration_ms": 234675,
-      "name": "Alma Peque\u00f1a",
-      "url": "https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Te quiero mucho",
-        "url": "https://open.spotify.com/album/1Cta6gwFzmPj3zz03Fdkh1"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 228936,
-      "name": "Te quiero mucho",
-      "url": "https://open.spotify.com/track/38WhH8wM1VR8LElrFLdLbK"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Ser\u00e9 Guitarra",
         "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 215082,
       "name": "Ser\u00e9 Guitarra",
       "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+        "name": "Te quiero mucho",
+        "url": "https://open.spotify.com/album/1Cta6gwFzmPj3zz03Fdkh1"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
         }
       ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+      "duration_ms": 228936,
+      "name": "Te quiero mucho",
+      "url": "https://open.spotify.com/track/38WhH8wM1VR8LElrFLdLbK"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -819,26 +819,6 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "la alegr\u00eda de vivir",
-        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 167063,
-      "name": "la alegr\u00eda de vivir",
-      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -883,22 +863,42 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Ventura (Live)",
-        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
+        "name": "la alegr\u00eda de vivir",
+        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
       },
       "artists": [
         {
-          "name": "Santero y Los Muchachos",
-          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
         },
         {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
         }
       ],
-      "duration_ms": 295328,
-      "name": "Ventura - Live",
-      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
+      "duration_ms": 167063,
+      "name": "la alegr\u00eda de vivir",
+      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Pude verte",
+        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "Pude verte",
+      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -923,22 +923,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Pude verte",
-        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
+        "name": "Ventura (Live)",
+        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
       "artists": [
         {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
         },
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
         }
       ],
-      "duration_ms": 195882,
-      "name": "Pude verte",
-      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
+      "duration_ms": 295328,
+      "name": "Ventura - Live",
+      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Traigo un canto guardado",
         "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Me lo merezco",
-        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
       },
       "artists": [
         {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Me lo merezco",
-      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+        "name": "Me lo merezco",
+        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
         }
       ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+      "duration_ms": 158306,
+      "name": "Me lo merezco",
+      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Cenicientes del carb\u00f3n",
-        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 244742,
-      "name": "Cenicientes del carb\u00f3n",
-      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1327,6 +1311,38 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Cenicientes del carb\u00f3n",
+        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 244742,
+      "name": "Cenicientes del carb\u00f3n",
+      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
+    },
+    {
+      "added_at": "2025-04-24 22:00:44",
+      "album": {
+        "name": "Una Vida para M\u00ed",
+        "url": "https://open.spotify.com/album/2hGB7ernv82nlZ6rEvyak3"
+      },
+      "artists": [
+        {
+          "name": "Chiki Lora",
+          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Una Vida para M\u00ed",
+      "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Y YA NADA",
         "url": "https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ"
       },
@@ -1387,18 +1419,18 @@
     {
       "added_at": "2025-04-24 22:00:44",
       "album": {
-        "name": "Una Vida para M\u00ed",
-        "url": "https://open.spotify.com/album/2hGB7ernv82nlZ6rEvyak3"
+        "name": "Te quiere todo el mundo",
+        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
       },
       "artists": [
         {
-          "name": "Chiki Lora",
-          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
+          "name": "Pablo Und Destruktion",
+          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
         }
       ],
-      "duration_ms": 193475,
-      "name": "Una Vida para M\u00ed",
-      "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
+      "duration_ms": 200998,
+      "name": "La reacci\u00f3n sexual",
+      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1419,22 +1451,6 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1491,6 +1507,26 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "ella calma mi tormenta",
         "url": "https://open.spotify.com/album/44CwAlsxFhvJixQZfFtmcV"
       },
@@ -1519,26 +1555,6 @@
       "duration_ms": 189605,
       "name": "Cerca cerca",
       "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1579,22 +1595,6 @@
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
-    },
-    {
-      "added_at": "2025-04-24 22:00:44",
-      "album": {
-        "name": "Te quiere todo el mundo",
-        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
-      },
-      "artists": [
-        {
-          "name": "Pablo Und Destruktion",
-          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
-        }
-      ],
-      "duration_ms": 200998,
-      "name": "La reacci\u00f3n sexual",
-      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
     },
     {
       "added_at": "2025-04-10 22:00:20",

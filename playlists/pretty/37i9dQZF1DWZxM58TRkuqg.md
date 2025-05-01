@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Yovie Widianto, Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,208 likes - 88 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,310 likes - 88 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319611,
+  "num_followers": 319612,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "You Take Me Higher",
         "url": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 187142,
       "name": "You Take Me Higher",
       "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Bota Bota",
-        "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "MC Buzzz",
-          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
-        }
-      ],
-      "duration_ms": 192923,
-      "name": "Bota Bota",
-      "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
       },
@@ -1507,18 +1487,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sugar Baby",
-        "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
+        "name": "Bota Bota",
+        "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
       },
       "artists": [
         {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
         }
       ],
-      "duration_ms": 156363,
-      "name": "Sugar Baby",
-      "url": "https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ"
+      "duration_ms": 192923,
+      "name": "Bota Bota",
+      "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1543,22 +1527,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+        "name": "Sugar Baby",
+        "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
         }
       ],
-      "duration_ms": 150987,
-      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
+      "duration_ms": 156363,
+      "name": "Sugar Baby",
+      "url": "https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1603,6 +1583,26 @@
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "added_at": "2024-09-19 23:00:00",

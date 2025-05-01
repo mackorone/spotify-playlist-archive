@@ -3707,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "The First Time Ever I Saw Your Face (with Hozier)",
+        "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273748,
+      "name": "The First Time Ever I Saw Your Face (with Hozier)",
+      "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
+    },
+    {
+      "album": {
         "name": "The Hanging Tree (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn"
       },
@@ -4599,7 +4621,7 @@
     },
     {
       "album": {
-        "name": "Spotify Singles",
+        "name": "You'll Be In My Heart",
         "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
       },
       "artists": [
@@ -4612,7 +4634,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241776,
-      "name": "You'll Be in My Heart - Spotify Singles",
+      "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {

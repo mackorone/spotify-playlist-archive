@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 274 songs - 14 hr 29 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 278 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,5 +282,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 272 | [WeFight/WeLove](https://open.spotify.com/track/3SNNkt4dsdqkWpJwxdGNs6) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 4:47 |
 | 273 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 |
 | 274 | [Shaka](https://open.spotify.com/track/737vdNsatvMD6td0pvDKV4) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 3:32 |
+| 275 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
+| 276 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 |
+| 277 | [To Feel The Fire \- Alternate Gospel Version](https://open.spotify.com/track/2VMugoXue6h5emvnNlI9j6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Additional Singles & Rarities](https://open.spotify.com/album/0tprlYfYw9Y1fjq5SUFEQp) | 3:41 |
+| 278 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 
-Snapshot ID: `AAAeM6y4lniifZSmRUdYkamJJjVBWQR+`
+Snapshot ID: `AAAeN50ET9Egtmh3OAGgDFU6SJs9iNEm`

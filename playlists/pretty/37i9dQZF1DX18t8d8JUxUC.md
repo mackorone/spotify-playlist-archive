@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Gonza Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,776 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,793 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 34 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 35 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
 | 36 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
-| 37 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
-| 38 | [La Casa de Mis Papás](https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Casa de Mis Papás](https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG) | 2:56 |
+| 37 | [La Casa de Mis Papás](https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Casa de Mis Papás](https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG) | 2:56 |
+| 38 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
 | 39 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 |
-| 40 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
-| 41 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
+| 40 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
+| 41 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
 | 42 | [julia](https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [julia](https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu) | 3:12 |
 | 43 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 |
 | 44 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 46 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
 | 47 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
 | 48 | [hastalamadre](https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [André Beltrán](https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D) | [hastalamadre](https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ) | 3:55 |
-| 49 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
-| 50 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
+| 49 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
+| 50 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
 | 51 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 |
 | 52 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 53 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 83 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 84 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 85 | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 |
-| 86 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 |
+| 86 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 87 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 |
-| 88 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
+| 88 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 |
 | 89 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 | 90 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
 | 91 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |

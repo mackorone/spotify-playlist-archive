@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > The ☀️ is beginning to put his hat on
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,494 likes - 43 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,543 likes - 43 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

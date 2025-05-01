@@ -1,13 +1,61 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Destin Conrad",
-  "num_followers": 2387048,
+  "description": "Chill r&b. Celebrating 25 Years of R&B with Sasha Keable, Lekan, and WESLEYFRANKLIN.",
+  "num_followers": 2387044,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAspiQAAAADPgLIVGCtPnAuXIxYkfALz",
+  "snapshot_id": "aBK9iQAAAAC1Q8622NGCvM1SWe+M3TnY",
   "tracks": [
+    {
+      "added_at": "2025-05-01 00:17:13",
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "added_at": "2025-05-01 00:17:13",
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+    },
+    {
+      "added_at": "2025-05-01 00:17:13",
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
+    },
     {
       "added_at": "2025-04-25 06:19:53",
       "album": {

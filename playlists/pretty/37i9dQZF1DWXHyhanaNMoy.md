@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & party vibes ✨  Cover: ILLIE & Jinho 9
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,139 likes - 71 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,144 likes - 71 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

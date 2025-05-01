@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46243,
+  "num_followers": 46253,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Jazz Samba",
@@ -127,6 +111,22 @@
       "duration_ms": 349080,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -199,26 +199,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 283626,
-      "name": "Samba Triste",
-      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -231,6 +211,22 @@
       "duration_ms": 187266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -251,18 +247,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 283626,
+      "name": "Samba Triste",
+      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -339,26 +339,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
@@ -379,6 +359,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Anita O'Day And The Three Sounds",
         "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
       },
@@ -395,22 +391,6 @@
       "duration_ms": 176840,
       "name": "Whisper Not",
       "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -451,6 +431,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 333200,
       "name": "Just One Of Those Things - Take 8 - Master Take",
       "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -567,22 +583,6 @@
       "duration_ms": 181812,
       "name": "My Baby Just Cares For Me - Live At Vine St. Bar & Grill, 1987",
       "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1061,6 +1061,22 @@
       "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Gettin' To It",
+      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Decca Singles 1949-1958",
@@ -1079,22 +1095,6 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 330760,
-      "name": "Gettin' To It",
-      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1147,6 +1147,22 @@
       "duration_ms": 439866,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1217,22 +1233,6 @@
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 351266,
-      "name": "You Need To Rock",
-      "url": "https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Wholly Earth",
@@ -1249,20 +1249,20 @@
       "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
       },
       "artists": [
         {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
         }
       ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+      "duration_ms": 351266,
+      "name": "You Need To Rock",
+      "url": "https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz"
     },
     {
       "added_at": "2019-10-04 16:01:14",

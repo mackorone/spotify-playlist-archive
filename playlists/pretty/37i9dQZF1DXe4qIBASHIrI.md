@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,319 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,353 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Lo Blondo](https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 |
 | 2 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 3 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 |
-| 4 | [Únicos](https://open.spotify.com/track/4IMBNHCtJWAAqEoOktyl3a) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Únicos](https://open.spotify.com/album/2WdHl1k6TfiQ7UUT4HSsPP) | 4:12 |
-| 5 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
+| 4 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
+| 5 | [Únicos](https://open.spotify.com/track/4IMBNHCtJWAAqEoOktyl3a) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Únicos](https://open.spotify.com/album/2WdHl1k6TfiQ7UUT4HSsPP) | 4:12 |
 | 6 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
 | 7 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 8 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 13 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 14 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 15 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
-| 16 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
-| 17 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
+| 16 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
+| 17 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 18 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 |
 | 19 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 |
 | 20 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 79 | [Lluvia](https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI) | [Baltazar](https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW) | [Lluvia](https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy) | 4:14 |
 | 80 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
 | 81 | [Amorfos](https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 4:09 |
-| 82 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
-| 83 | [Dejé de Ser Yo](https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 2:54 |
+| 82 | [Dejé de Ser Yo](https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 2:54 |
+| 83 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
 | 84 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
 | 85 | [Fumemos un cigarrillo \- Soundtrack Original de la Película](https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Fumemos un cigarrillo \(Soundtrack Original de la Película\)](https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz) | 4:01 |
 | 86 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 96 | [Copycat](https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Out of Place](https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k) | 3:05 |
 | 97 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
 | 98 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
-| 99 | [G A Y O](https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG) | [Vicente Gayo](https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch) | [Vicente Gayo](https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q) | 2:02 |
-| 100 | [Natsuko](https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g) | [Los Plastics Revolution](https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V) | [Natsuko](https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u) | 4:19 |
+| 99 | [Natsuko](https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g) | [Los Plastics Revolution](https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V) | [Natsuko](https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u) | 4:19 |
+| 100 | [G A Y O](https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG) | [Vicente Gayo](https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch) | [Vicente Gayo](https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q) | 2:02 |
 
 Snapshot ID: `ZpB8owAAAABr47FLhXzj/2tBopu78V5o`

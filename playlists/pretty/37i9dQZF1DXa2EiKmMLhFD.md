@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Rony Parulian,  NIKI serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395,846 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396,051 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 1 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 2 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 |
-| 3 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
+| 3 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 |
 | 4 | [Stecu Stecu](https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7) | [Faris Adam](https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX) | [Stecu Stecu](https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg) | 3:43 |
 | 5 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 |
 | 6 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,029 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,086 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 65 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 66 | [I swear to god](https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [I swear to god](https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY) | 2:35 |
 | 67 | [ASAP](https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [ASAP](https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB) | 3:03 |
-| 68 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 |
-| 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 68 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 69 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 |
 | 70 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
 
 Snapshot ID: `aAsydgAAAAAKMGW8cwaOSYxoPOmtj8cb`

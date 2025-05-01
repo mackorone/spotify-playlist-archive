@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Ed Sheeran
 
-2,038 songs - 4 day 16 hr 22 min
+2,039 songs - 4 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1723,6 +1723,7 @@
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-01-12 | 2025-01-25 |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:46 | 2023-04-21 | 2023-05-13 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-06-09 | 2023-09-30 |
+| [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-04-25 |  |
 | [The Flood](https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Flood](https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv) | 4:29 | 2025-04-04 | 2025-04-26 |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-04-24 | 2022-02-05 |
 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 | 2024-12-06 | 2025-01-18 |

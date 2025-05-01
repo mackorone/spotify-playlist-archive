@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Junior H, Gael Valenzuela  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,883 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,043 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

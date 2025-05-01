@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 38 | [úm ba la xì bùa](https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:33 |
 | 39 | [Leo Thăng](https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt) | [Leo Thăng](https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN) | 2:43 |
 | 40 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
-| 41 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
-| 42 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
+| 41 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
+| 42 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
 | 43 | [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 |
 | 44 | [hắt xì hơi](https://open.spotify.com/track/3aEs5WVHT8oBPA95izGmIi) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [hắt xì hơi](https://open.spotify.com/album/1fiCWNNHDB9Fb4fhWN8KzE) | 3:35 |
 | 45 | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD) | 3:30 |

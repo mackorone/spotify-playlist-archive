@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,536 likes - 107 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,655 likes - 107 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 4 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 |
 | 5 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 |
 | 6 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 |
-| 7 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 7 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 8 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
 | 9 | [Tell Me It's You](https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az) | [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Tiffany Boone](https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 2:27 |
 | 10 | [I Won't Say \(I'm In Love\)](https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi) | [Susan Egan](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,908 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,922 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 44 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 45 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
 | 46 | [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 |
-| 47 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 |
-| 48 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
+| 47 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
+| 48 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 |
 | 49 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
 | 50 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
 | 51 | [I See You](https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [I See You](https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8) | 3:20 |
-| 52 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 |
-| 53 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
-| 54 | [Bomb Squad \- Bou Remix](https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Bomb Squad \(Bou Remix\)](https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk) | 4:48 |
+| 52 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
+| 53 | [Bomb Squad \- Bou Remix](https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Bomb Squad \(Bou Remix\)](https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk) | 4:48 |
+| 54 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 |
 | 55 | [Told You \(Soundboy\)](https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1) | [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y) | [Told You \(Soundboy\)](https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS) | 2:58 |
 
 Snapshot ID: `aAEjFQAAAABsMTVE2mxBdv6Jmd7fkWOE`

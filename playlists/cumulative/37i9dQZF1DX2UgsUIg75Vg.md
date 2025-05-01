@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chill r&b vibes for your most relaxed moods\. Cover: Destin Conrad
+> Chill r&b\. Celebrating 25 Years of R&B with Sasha Keable, Lekan, and WESLEYFRANKLIN.
 
-1,212 songs - 2 day 19 hr 11 min
+1,215 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Favorite Shirt](https://open.spotify.com/track/7LTQuLHQSOhQZ69qRYNF5w) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:21 | 2023-02-24 | 2023-11-04 |
 | [Favourite](https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Favourite](https://open.spotify.com/album/0MOXOTpfhSdr2sOUg1EZcQ) | 2:56 | 2023-08-18 | 2024-06-08 |
 | [Feel A Way \(feat\. Don Toliver\)](https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 | 2024-06-07 | 2025-03-15 |
+| [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 | 2025-05-01 |  |
 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 | 2022-07-22 | 2023-04-22 |
 | [Fetish](https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv) | [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc), [Niko Oroc](https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Fetish](https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N) | 3:02 | 2023-05-19 | 2023-07-22 |
 | [Fight for You](https://open.spotify.com/track/479acVfQ74icOy772hE1ba) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Even Kings Die](https://open.spotify.com/album/4kxWVrBysQS9lEmv9fDap6) | 3:52 | 2019-07-10\* | 2019-09-25 |
@@ -411,10 +412,12 @@
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-17 |  |
 | [Get High, Get By](https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get High, Get By](https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD) | 4:33 | 2022-04-15 | 2022-08-22 |
 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 | 2020-02-19 | 2020-07-31 |
+| [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d) | 3:12 | 2025-05-01 |  |
 | [Getting Late](https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Getting Late](https://open.spotify.com/album/3giodvWWNQIgilwpC9Fxfa) | 2:52 | 2022-09-30 | 2023-05-20 |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-06-28 | 2024-08-17 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2021-02-26 | 2021-09-18 |
 | [Ginny](https://open.spotify.com/track/6i5a50hEuC7FtJoBVqKpcT) | [Sylo Nozra](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Ginny](https://open.spotify.com/album/4gfvIgJNU3zyImfv8uimWc) | 3:15 | 2020-03-14 | 2020-09-11 |
+| [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 | 2025-05-01 |  |
 | [Girl Of My Dreams](https://open.spotify.com/track/5I9JpRapHDULuFxOqkjP5m) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:22 | 2019-07-10\* | 2020-02-20 |
 | [Girls Like You](https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Girls Like You](https://open.spotify.com/album/3DqlptGG7VBb3CXxIxHbtz) | 2:53 | 2023-06-30 | 2023-09-30 |
 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 | 2023-10-20 | 2024-05-18 |

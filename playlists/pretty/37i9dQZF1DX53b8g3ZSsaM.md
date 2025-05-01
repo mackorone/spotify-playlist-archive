@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53b8g3ZSsaM.md) - [plain]
 
 > Las canciones de reggaeton que marcaron el año\. Foto: FloyyMenor & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,930 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,015 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53b8g3ZSsaM.md) - [plain]
 | 22 | [GODIVA](https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GODIVA](https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9) | 3:39 |
 | 23 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 |
 | 24 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |
-| 25 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
+| 25 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 26 | [Dime](https://open.spotify.com/track/6L7sFLx38jSDx5WFVbmL2x) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 2:53 |
 | 27 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 |
 | 28 | [Brickell](https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:00 |

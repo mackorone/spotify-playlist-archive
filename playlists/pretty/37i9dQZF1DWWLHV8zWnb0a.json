@@ -1,6 +1,6 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 139487,
+  "num_followers": 139558,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 289000,
       "name": "Black Sunshine",
       "url": "https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Obsolete (Special Edition)",
-        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 276506,
-      "name": "Descent",
-      "url": "https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Obsolete (Special Edition)",
+        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Descent",
+      "url": "https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+        "name": "The Mind Is a Terrible Thing to Taste",
+        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 252853,
-      "name": "Demanufacture",
-      "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
+      "duration_ms": 301426,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "The Mind Is a Terrible Thing to Taste",
-        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 301426,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+      "duration_ms": 252853,
+      "name": "Demanufacture",
+      "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Obsolete (Special Edition)",
-        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Cars - Remix",
-      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 190333,
       "name": "Romeo Had Juliette",
       "url": "https://open.spotify.com/track/6tM8cMX9S4AyRd5sDDrzhN"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
+      },
+      "artists": [
+        {
+          "name": "Unwound",
+          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
+        }
+      ],
+      "duration_ms": 185467,
+      "name": "Corpse Pose",
+      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     }
   ],
   "unique_name": "Oscuros 90",

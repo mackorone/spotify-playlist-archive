@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect romantic dinner.",
-  "num_followers": 141311,
+  "num_followers": 141303,
   "original_name": "Romantic Dinner",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Then You Can Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Then You Can Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210280,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
         "name": "Inspiration Information/ Wings Of Love",
         "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 224546,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "The Essential Patti LaBelle",
-        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 300120,
-      "name": "Love, Need And Want You",
-      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 148240,
       "name": "Let's Take a Walk",
       "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "The Essential Patti LaBelle",
+        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300120,
+      "name": "Love, Need And Want You",
+      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5iFIpmGqLp9pebNUpQLdzU"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "100 Yard Dash",
-      "url": "https://open.spotify.com/track/7jFwAShOiIVSva2rrXbzpr"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Sunday's Best",
         "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 166816,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5iFIpmGqLp9pebNUpQLdzU"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "100 Yard Dash",
+      "url": "https://open.spotify.com/track/7jFwAShOiIVSva2rrXbzpr"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Traffic Jam",
-      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 208293,
       "name": "Brother Louie",
       "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Traffic Jam",
+      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Patches",
         "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 159040,
       "name": "Your Love Lifted Me",
       "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
         "name": "Blue Note Trip: Jazzanova - Lookin' Back / Movin' On",
         "url": "https://open.spotify.com/album/5xAymHaEllHdMWol6Fl5Wq"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 369226,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/6V0xxNmBP6lurDkTigzMnp"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Not Guilty",
         "url": "https://open.spotify.com/album/5N1n0iLL8IWYBzqAZ9eWsR"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 360830,
       "name": "Suspicious",
       "url": "https://open.spotify.com/track/4kmjsi97KPdrn83uyF6UCQ"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-04-08 07:25:12",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-04-08 07:25:12",
       "album": {
-        "name": "I Want to Be Loved",
-        "url": "https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X"
-      },
-      "artists": [
-        {
-          "name": "Ann Sexton",
-          "url": "https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Keep On Holding On",
-      "url": "https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M"
-    },
-    {
-      "added_at": "2025-04-08 07:25:12",
-      "album": {
         "name": "Short Stax, Vol. 7",
         "url": "https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 211973,
       "name": "Respect Yourself - Single Edit",
       "url": "https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff"
+    },
+    {
+      "added_at": "2025-04-08 07:25:12",
+      "album": {
+        "name": "I Want to Be Loved",
+        "url": "https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X"
+      },
+      "artists": [
+        {
+          "name": "Ann Sexton",
+          "url": "https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Keep On Holding On",
+      "url": "https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M"
     },
     {
       "added_at": "2025-04-08 07:25:12",

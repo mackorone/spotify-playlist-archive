@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,355 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,385 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 24 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
 | 25 | [Don't Haffi Dread](https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Don't Haffi Dread](https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb) | 3:58 |
 | 26 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
-| 27 | [Fisherman](https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD) | [The Congos](https://open.spotify.com/artist/4vFvHM1qzuAj0bUGiZb0zC) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 5:28 |
-| 28 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
+| 27 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
+| 28 | [Fisherman](https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD) | [The Congos](https://open.spotify.com/artist/4vFvHM1qzuAj0bUGiZb0zC) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 5:28 |
 | 29 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 30 | [Stay With Me](https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 3:37 |
 | 31 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 43 | [No Letting Go](https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:21 |
 | 44 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 | 45 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
-| 46 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
-| 47 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
+| 46 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
+| 47 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
 | 48 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
 | 49 | [She's Royal](https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 4:10 |
 | 50 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |

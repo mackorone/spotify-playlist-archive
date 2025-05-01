@@ -2,9 +2,9 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Laufey's coming over to do ROLE MODEL's dishes  🍽️
+> 💜 Junia's first playlist cover 👯💜
 
-2,070 songs - 4 day 11 hr 57 min
+2,071 songs - 4 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1235,6 +1235,7 @@
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2024-05-24 | 2024-09-21 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-16 | 2024-09-07 |
 | [MYSTERIOUS](https://open.spotify.com/track/1ZJ132YkFHStjw75gkMNVg) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MYSTERIOUS](https://open.spotify.com/album/2It2erMLSqbCHqP7afhAXa) | 2:58 | 2024-09-20 | 2024-10-19 |
+| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-30 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 | 2022-09-26 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-20 | 2024-07-09 |
 | [Naturally](https://open.spotify.com/track/1YaVmBh7EAeR54FIjuFcb5) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [Kiss & Tell](https://open.spotify.com/album/5lm8loAsSpprr19lwSY16V) | 3:22 | 2024-12-12 | 2024-12-28 |
@@ -1459,7 +1460,7 @@
 | [Remember \- Acoustic / Sped Up](https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:34 | 2022-10-26 | 2023-03-04 |
 | [Rewrite the Stars](https://open.spotify.com/track/6ihNhG9Ne3Vc3fIX8wQgSf) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 2:31 | 2024-02-26 | 2024-03-09 |
 | [Rewrite The Stars](https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:37 | 2024-03-01 | 2024-06-29 |
-| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-04-19 | 2022-05-20 |
+| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-04-19 |  |
 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 | 2025-04-11 |  |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-03 | 2022-07-30 |
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-11 | 2024-10-26 |
@@ -2059,7 +2060,7 @@
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-05 | 2022-08-27 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-06-04 |
 | [You Wish](https://open.spotify.com/track/5tzbD11UzKCkOc6B5BOVaa) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv) | 2:00 | 2023-07-21 | 2023-08-26 |
-| [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-21 |  |
+| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-03-21 |  |
 | [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 | 2025-03-26 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-03-10 | 2023-10-16 |
 | [You've Never Had Chocolate Like This](https://open.spotify.com/track/3lsGSsT7qt3XLnnkEEPlFe) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [The Cast of Wonka](https://open.spotify.com/artist/31L4YQDSTiISRYoBVWUPt2) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:48 | 2023-12-08 | 2023-12-12 |

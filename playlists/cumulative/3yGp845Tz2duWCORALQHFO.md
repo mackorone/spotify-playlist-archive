@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,707 songs - 6 day 2 hr 38 min
+2,708 songs - 6 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2397,6 +2397,7 @@
 | [The Way I Are](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [The Way I Are](https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW) | 3:06 | 2025-02-28 | 2025-03-08 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-09-13 |
 | [Thinking About You](https://open.spotify.com/track/1UzByE5dIKKbiFmhQ71Qre) | [Damian Ray](https://open.spotify.com/artist/5liX0vRbvORENzGrNlmJ4J) | [Thinking About You](https://open.spotify.com/album/7paFKG0nvrLAEh4pCGz3zX) | 3:21 | 2024-06-21 | 2024-06-29 |
+| [Thinking About You](https://open.spotify.com/track/0M56ySHGgyE92rOtyHMEso) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Thinking About You](https://open.spotify.com/album/5ejwpKuhU44gGg4PZDXo8s) | 3:45 | 2025-04-30 |  |
 | [Thinking of You](https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Thinking of You](https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW) | 3:22 | 2024-08-09 | 2024-08-16 |
 | [This Feeling](https://open.spotify.com/track/7ySspri9YFr7vh152CLQu7) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3) | [This Feeling](https://open.spotify.com/album/41BlvpHTWEXARKBuxcO7en) | 3:22 | 2025-02-21 | 2025-03-01 |
 | [This Groove is Crazy](https://open.spotify.com/track/1h8ob2eHXpG911xD5XudtX) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [This Groove is Crazy](https://open.spotify.com/album/3hIngv3IPHV0eOvtO71HzE) | 3:05 | 2024-05-22 | 2024-05-25 |

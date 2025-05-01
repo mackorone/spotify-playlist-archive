@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MAR, Sleepytheprince
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,176 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,187 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
 | 57 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 58 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 |
-| 59 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 59 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 60 | [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 |
-| 61 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
+| 61 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
 | 62 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 | 63 | [Ride or Die](https://open.spotify.com/track/1ZBsMNJbdCaAVdzk0P4PV2) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Ride or Die](https://open.spotify.com/album/1ZCksR7ShWHGFFpVWhofcM) | 3:48 |
 | 64 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 73 | [culpada](https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [SOZINHA E MAL ACOMPANHADA](https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi) | 3:10 |
 | 74 | [Quem És Tu?](https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Quem És Tu?](https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI) | 2:40 |
-| 75 | [Dimas](https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk) | [Ne Jah](https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Dimas](https://open.spotify.com/album/01Wyo9AKgokjUqMISROMEj) | 3:29 |
+| 75 | [Falei](https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [Dj Verigal](https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI), [Kastro Songz](https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr) | [Falei](https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4) | 2:57 |
 
 Snapshot ID: `aArCkAAAAADpfVFRK00y4hQB50M2jGRq`

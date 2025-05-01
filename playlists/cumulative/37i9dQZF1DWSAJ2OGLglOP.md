@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-214 songs - 12 hr 1 min
+215 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 | 2025-04-04 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-10-12 |  |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-08 | 2024-12-01 |
-| [Dear](https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Dear](https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL) | 5:11 | 2024-06-07 | 2025-04-21 |
+| [Dear](https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Dear](https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL) | 5:11 | 2024-06-07 |  |
 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 | 2024-06-03 | 2024-08-25 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-26 | 2025-01-14 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-07 | 2024-01-19 |
@@ -71,12 +71,13 @@
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-10-12 | 2024-01-11 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2024-11-28 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-15 |  |
+| [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 | 2025-05-01 |  |
 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 | 2024-12-14 | 2025-01-14 |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2023-12-07 | 2024-04-13 |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-11 | 2024-10-27 |
 | [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 | 2024-11-30 | 2025-01-25 |
 | [Irie](https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 3:00 | 2024-01-10 | 2024-03-08 |
-| [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 |  |
+| [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 | 2025-05-01 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-01-14 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-07 | 2024-05-24 |
 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-21 |  |
@@ -205,7 +206,7 @@
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 | 2024-07-05 |
 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-13 | 2025-03-22 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-04 | 2024-12-15 |
-| [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2024-08-08 |  |
+| [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2024-08-08 | 2025-05-01 |
 | [泥だらけの純粋](https://open.spotify.com/track/4FQleqtiBoMcMzztGVXkmP) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [泥だらけの純粋](https://open.spotify.com/album/3g4yqwEncWpu08qEGmzNG3) | 5:01 | 2023-10-12 | 2023-11-17 |
 | [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-01-24 | 2025-03-08 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-21 |  |

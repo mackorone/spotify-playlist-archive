@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,800 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,797 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 15 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 16 | [Panorama](https://open.spotify.com/track/7fBlPG0Yp0HDlosXjoQswL) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Panorama](https://open.spotify.com/album/6jtGpfZKBee8GtCpZeckPD) | 2:28 |
 | 17 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
-| 18 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 18 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 19 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 |
-| 20 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
+| 20 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 21 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 |
 | 22 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 23 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 93 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
 | 94 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 |
 | 95 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
-| 96 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
-| 97 | [Giro con te](https://open.spotify.com/track/7v4C0Bh0UUIr54Y7h86GPW) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:24 |
+| 96 | [Giro con te](https://open.spotify.com/track/7v4C0Bh0UUIr54Y7h86GPW) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:24 |
+| 97 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 98 | [Bohémien](https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:13 |
 | 99 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
 | 100 | [Freed from Desire](https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life](https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ) | 3:34 |

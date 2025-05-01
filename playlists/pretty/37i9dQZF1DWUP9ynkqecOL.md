@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,344 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,353 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 24 | [A la Mañanita](https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:37 |
 | 25 | [Juana Azurduy](https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Estela de Carlotto](https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32) | [Juana Azurduy](https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH) | 3:38 |
 | 26 | [La Maza](https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:50 |
-| 27 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 28 | [Fuego](https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Fuego](https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH) | 2:59 |
+| 27 | [Fuego](https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Fuego](https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH) | 2:59 |
+| 28 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 29 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 |
 | 30 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
 | 31 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |

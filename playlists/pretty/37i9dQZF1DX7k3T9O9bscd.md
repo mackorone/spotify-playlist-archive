@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Mdou Moctar on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,522 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,584 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 47 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 48 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 49 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
-| 50 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
-| 51 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
+| 50 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
+| 51 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 52 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
 | 53 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 54 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
 | 55 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
 | 56 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
 | 57 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 58 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 |
-| 59 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 58 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 59 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 |
 | 60 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
 | 61 | [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 |
 | 62 | [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 69 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 |
 | 70 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 |
 | 71 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
-| 72 | [Breathe in, Breathe Out](https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Breathe in, Breathe Out](https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G) | 2:50 |
-| 73 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
+| 72 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
+| 73 | [Breathe in, Breathe Out](https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Breathe in, Breathe Out](https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G) | 2:50 |
 | 74 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 |
 | 75 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 |
 | 76 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 83 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 84 | [Golden Dawn](https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i) | 2:50 |
 | 85 | [Static Resistance](https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY) | [Hookworms](https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj) | [Microshift](https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA) | 3:48 |
-| 86 | [attention](https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD) | 7:05 |
-| 87 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 |
-| 88 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 |
-| 89 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
+| 86 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 |
+| 87 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
+| 88 | [attention](https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD) | 7:05 |
+| 89 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 |
 | 90 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |
 | 91 | [Fire In The Blood \- Live Masterlink Session](https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA) | [Jade Like The Stone](https://open.spotify.com/artist/0Kh6HlsJJeA2N3Zaol5plH), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Fire In The Blood \(Live Masterlink Session\)](https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2) | 4:17 |
 | 92 | [Pain](https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Pain](https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG) | 8:26 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 97 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 |
 | 98 | [Saku Saku \(サクサク）](https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 3:34 |
 | 99 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
-| 100 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
+| 100 | [Azure](https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV) | [Kaleydo](https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur) | [Azure](https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv) | 2:35 |
 
 Snapshot ID: `Z50hLwAAAABiLULRu1vl3jSQtek4LEKt`

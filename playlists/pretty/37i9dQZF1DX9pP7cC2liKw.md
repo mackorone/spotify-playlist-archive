@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,923 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,409 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 47 | [Amor Entre Mujer](https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Amor Entre Mujer](https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO) | 4:32 |
 | 48 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 49 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 |
-| 50 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
-| 51 | [Jäjtä´äky](https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 7:28 |
+| 50 | [Jäjtä´äky](https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 7:28 |
+| 51 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 52 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
 | 53 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
 | 54 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |

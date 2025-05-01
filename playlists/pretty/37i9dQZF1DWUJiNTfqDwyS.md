@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,715 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,770 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 14 | [Bad Romance](https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate: The CoVeRs eP](https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D) | 4:08 |
 | 15 | [Land of Confusion](https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:47 |
 | 16 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
-| 17 | [They Don't Care About Us](https://open.spotify.com/track/2yhpa4tgc5SeM6ErBm26fK) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Love, Lies & Therapy](https://open.spotify.com/album/0SbjYvhuq1ItBiZzkrNmYQ) | 4:04 |
-| 18 | [Wicked Game](https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 3:53 |
+| 17 | [Wicked Game](https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 3:53 |
+| 18 | [They Don't Care About Us](https://open.spotify.com/track/2yhpa4tgc5SeM6ErBm26fK) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Love, Lies & Therapy](https://open.spotify.com/album/0SbjYvhuq1ItBiZzkrNmYQ) | 4:04 |
 | 19 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 |
 | 20 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
 | 21 | [Summer Breeze](https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 4:49 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 32 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
 | 33 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
 | 34 | [Toxic](https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Rattlesnake!](https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu) | 3:20 |
-| 35 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 36 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 35 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 36 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 37 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
 | 38 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
-| 39 | [Simple Man \- 2005 Remaster](https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 6:20 |
-| 40 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
+| 39 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
+| 40 | [Simple Man \- 2005 Remaster](https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 6:20 |
 | 41 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 | 42 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 43 | [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 |

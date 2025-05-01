@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Surusinghe. Artwork by Rewina Beshue.",
-  "num_followers": 198782,
+  "num_followers": 198924,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAvbagAAAAClxpV+MFJhMjAyQwMEmW/s",
+  "snapshot_id": "aBJLagAAAAB5leugNhazJNMEI9lA0Wi7",
   "tracks": [
     {
       "added_at": "2025-04-25 18:58:50",
@@ -23,6 +23,22 @@
       "duration_ms": 251322,
       "name": "FTRW!",
       "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+    },
+    {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "lost & found",
+        "url": "https://open.spotify.com/album/0ocEo2YNCWRsUPKzlbt1ux"
+      },
+      "artists": [
+        {
+          "name": "abelon",
+          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "lost & found",
+      "url": "https://open.spotify.com/track/5XjEi4MxmR57A2DQvTJwWL"
     },
     {
       "added_at": "2025-04-09 17:39:45",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2"
     },
     {
-      "added_at": "2025-04-11 04:00:35",
+      "added_at": "2025-04-30 16:10:18",
       "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0"
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/3jPKkteLJI9NQR5TSV9Y9S"
       },
       "artists": [
         {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+          "name": "Ecstratone",
+          "url": "https://open.spotify.com/artist/0zs1lCf5GKJPcAora4CwLU"
         }
       ],
-      "duration_ms": 169464,
-      "name": "Modern Life",
-      "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
+      "duration_ms": 111879,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/2482G0ta3S4ivPvJuTatBH"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -89,6 +105,70 @@
       "url": "https://open.spotify.com/track/67P8gf3dsZ9pK72GPcxXno"
     },
     {
+      "added_at": "2025-04-11 04:00:35",
+      "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 169464,
+      "name": "Modern Life",
+      "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
+    },
+    {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "introvert",
+        "url": "https://open.spotify.com/album/54HHjKn4JFZJhkOiG7z4v7"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "duration_ms": 152940,
+      "name": "introvert",
+      "url": "https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK"
+    },
+    {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "Collect 200",
+        "url": "https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Collect 200",
+      "url": "https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6"
+    },
+    {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "Walk It",
+        "url": "https://open.spotify.com/album/3stn12xzJNC8hD1mOlrRU8"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Walk It",
+      "url": "https://open.spotify.com/track/1r2BLx87xz7pETkSLqBBqP"
+    },
+    {
       "added_at": "2025-04-04 19:00:45",
       "album": {
         "name": "groove that never stops",
@@ -103,6 +183,82 @@
       "duration_ms": 247384,
       "name": "groove that never stops",
       "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+    },
+    {
+      "added_at": "2025-04-23 18:13:10",
+      "album": {
+        "name": "The Drip",
+        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "What Would It Profit",
+      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+    },
+    {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "VE LE NX",
+        "url": "https://open.spotify.com/album/0byePx13iSzVlzxhYHzCb2"
+      },
+      "artists": [
+        {
+          "name": "AbtomAL",
+          "url": "https://open.spotify.com/artist/0fhDqnBgVCdV1EuyeFNIpP"
+        },
+        {
+          "name": "Marlus",
+          "url": "https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ"
+        },
+        {
+          "name": "Raar",
+          "url": "https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "VE LE NX",
+      "url": "https://open.spotify.com/track/4fqn4B66cq2qmlaudZjcVT"
+    },
+    {
+      "added_at": "2025-01-21 20:16:13",
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
+      },
+      "artists": [
+        {
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-03-12 20:03:32",
+      "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "K.E.T. - Amine Mix",
+      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
       "added_at": "2025-04-23 18:13:10",
@@ -161,6 +317,26 @@
       "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
     },
     {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "CTX",
+        "url": "https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr"
+      },
+      "artists": [
+        {
+          "name": "Fonzo",
+          "url": "https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h"
+        },
+        {
+          "name": "Roaming Data",
+          "url": "https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz"
+        }
+      ],
+      "duration_ms": 320087,
+      "name": "CTX",
+      "url": "https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP"
+    },
+    {
       "added_at": "2025-04-25 18:58:50",
       "album": {
         "name": "What\u2019s The Time?",
@@ -191,22 +367,6 @@
       "duration_ms": 171363,
       "name": "SIDE2SIDE",
       "url": "https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN"
-    },
-    {
-      "added_at": "2025-01-21 20:16:13",
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
     },
     {
       "added_at": "2025-04-25 18:58:50",
@@ -245,6 +405,26 @@
       "url": "https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u"
     },
     {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "Dancefloor (feat. efan)",
+        "url": "https://open.spotify.com/album/12LDQUojoGmz2U51jTEcpV"
+      },
+      "artists": [
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "duration_ms": 150209,
+      "name": "Dancefloor (feat. efan)",
+      "url": "https://open.spotify.com/track/14nCGStlD6HdA7ozTDv14y"
+    },
+    {
       "added_at": "2025-04-18 05:11:16",
       "album": {
         "name": "Latinos en Nueva York EP",
@@ -261,22 +441,6 @@
       "url": "https://open.spotify.com/track/4EaNaFmx33V6Satk0FJnBa"
     },
     {
-      "added_at": "2025-04-25 18:58:50",
-      "album": {
-        "name": "Collect 200",
-        "url": "https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Collect 200",
-      "url": "https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6"
-    },
-    {
       "added_at": "2025-03-21 15:54:40",
       "album": {
         "name": "Gotta Move",
@@ -291,26 +455,6 @@
       "duration_ms": 179125,
       "name": "Gotta Move",
       "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
-    },
-    {
-      "added_at": "2025-03-12 20:03:32",
-      "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "K.E.T. - Amine Mix",
-      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
       "added_at": "2025-04-25 18:58:50",
@@ -351,22 +495,6 @@
     {
       "added_at": "2025-04-23 18:13:10",
       "album": {
-        "name": "The Drip",
-        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
-      },
-      "artists": [
-        {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "What Would It Profit",
-      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
-    },
-    {
-      "added_at": "2025-04-23 18:13:10",
-      "album": {
         "name": "Do It",
         "url": "https://open.spotify.com/album/00OTCansoVGdiA2UXYjXKB"
       },
@@ -383,6 +511,22 @@
       "duration_ms": 180000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/7td690UTGcq7Fvonz5QgB1"
+    },
+    {
+      "added_at": "2025-04-30 16:10:18",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/7ku0qOHRNI8zkc9RlRLK3a"
+      },
+      "artists": [
+        {
+          "name": "PRESTi",
+          "url": "https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5bi4MdCBwPDPYMPU7ono7H"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -449,6 +593,22 @@
       "url": "https://open.spotify.com/track/5st3ybOfKZgsW4LavOnhCd"
     },
     {
+      "added_at": "2025-03-05 19:21:56",
+      "album": {
+        "name": "just a feeling",
+        "url": "https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "just a feeling",
+      "url": "https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0"
+    },
+    {
       "added_at": "2025-04-11 04:00:35",
       "album": {
         "name": "Westside",
@@ -511,22 +671,6 @@
       "duration_ms": 284343,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/3o1XSBd0EcC8TRLcZolwIn"
-    },
-    {
-      "added_at": "2025-03-05 19:21:56",
-      "album": {
-        "name": "just a feeling",
-        "url": "https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv"
-      },
-      "artists": [
-        {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "just a feeling",
-      "url": "https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0"
     },
     {
       "added_at": "2025-04-18 05:11:16",
@@ -829,22 +973,6 @@
       "url": "https://open.spotify.com/track/5pvPlaDdrJSCGxoH29Vhnf"
     },
     {
-      "added_at": "2025-04-18 05:11:16",
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/5OhajbspOLZ4OyE6AZqktu"
-      },
-      "artists": [
-        {
-          "name": "Ladler",
-          "url": "https://open.spotify.com/artist/4OY4FsKwDOt1NxIjV2WuNh"
-        }
-      ],
-      "duration_ms": 236917,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/6ya0A6j5EcVrVMVbnB7Kuk"
-    },
-    {
       "added_at": "2025-04-04 19:00:45",
       "album": {
         "name": "Happiness",
@@ -895,26 +1023,6 @@
       "duration_ms": 174883,
       "name": "Energy",
       "url": "https://open.spotify.com/track/2nO2Pmv90puM60ERb0TdJ3"
-    },
-    {
-      "added_at": "2025-04-03 15:31:30",
-      "album": {
-        "name": "Funky Shit",
-        "url": "https://open.spotify.com/album/0DEPCvCKyMtTBQC65wRseL"
-      },
-      "artists": [
-        {
-          "name": "Goosey",
-          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
-        }
-      ],
-      "duration_ms": 243209,
-      "name": "Funky Shit",
-      "url": "https://open.spotify.com/track/5IMDW0iiQEeGNs5fnJ6Rol"
     },
     {
       "added_at": "2025-04-09 17:39:45",
@@ -1037,26 +1145,6 @@
       "url": "https://open.spotify.com/track/2UZGi1zMvI35fPwy5iG5JS"
     },
     {
-      "added_at": "2025-04-04 19:00:45",
-      "album": {
-        "name": "In This Together",
-        "url": "https://open.spotify.com/album/6YFmSitE69TW9mDozCJ51A"
-      },
-      "artists": [
-        {
-          "name": "oqbqbo",
-          "url": "https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw"
-        },
-        {
-          "name": "Scandinavian Star",
-          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sprout",
-      "url": "https://open.spotify.com/track/3q9MsciynFSXY7bdrBrqOK"
-    },
-    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Do You Wrong",
@@ -1087,26 +1175,6 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
-    },
-    {
-      "added_at": "2025-04-04 19:00:45",
-      "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        },
-        {
-          "name": "STRAWBRY",
-          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd"
     },
     {
       "added_at": "2025-04-03 15:31:30",
@@ -1473,22 +1541,6 @@
       "url": "https://open.spotify.com/track/07oXqtzd08pZJgzkY5Swoj"
     },
     {
-      "added_at": "2025-03-21 15:54:40",
-      "album": {
-        "name": "Just You",
-        "url": "https://open.spotify.com/album/4LQgjcNiRUXfbLa90j0f5J"
-      },
-      "artists": [
-        {
-          "name": "Move 37",
-          "url": "https://open.spotify.com/artist/5SB6n50KieWSrfIYesc2Ta"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/5DVFwSCQgbmRZytrK16Udd"
-    },
-    {
       "added_at": "2025-03-19 18:26:41",
       "album": {
         "name": "Block Rockin Beats",
@@ -1535,22 +1587,6 @@
       "duration_ms": 231117,
       "name": "Don't Wanna Leave You",
       "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
-    },
-    {
-      "added_at": "2025-03-21 15:54:40",
-      "album": {
-        "name": "I Feel EP",
-        "url": "https://open.spotify.com/album/3ejftaZR7ToCHPjcoE3KTr"
-      },
-      "artists": [
-        {
-          "name": "Tal Fussman",
-          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "I Feel",
-      "url": "https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR"
     },
     {
       "added_at": "2025-03-14 04:00:26",
@@ -1639,46 +1675,6 @@
       "duration_ms": 164544,
       "name": "Force",
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
-    },
-    {
-      "added_at": "2025-03-19 18:26:41",
-      "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/2DUYMddf7YNdmbSrCtxvX1"
-      },
-      "artists": [
-        {
-          "name": "PXRKX",
-          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
-        },
-        {
-          "name": "Zynyx",
-          "url": "https://open.spotify.com/artist/1ILD1NHBNPbPjN0wKExuOM"
-        },
-        {
-          "name": "Phantom Records",
-          "url": "https://open.spotify.com/artist/1dHcunJQkysyrXIhVS7rOE"
-        }
-      ],
-      "duration_ms": 107716,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2LTLtXlyHlGR4yNkJ91zFv"
-    },
-    {
-      "added_at": "2025-03-07 05:00:41",
-      "album": {
-        "name": "Losing my mind <3",
-        "url": "https://open.spotify.com/album/22wkwu6ew3HcIN7rZlhIgp"
-      },
-      "artists": [
-        {
-          "name": "devin",
-          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
-        }
-      ],
-      "duration_ms": 134528,
-      "name": "Losing my mind <3",
-      "url": "https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a"
     },
     {
       "added_at": "2025-02-28 13:21:20",

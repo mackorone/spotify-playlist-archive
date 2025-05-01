@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 44 min
+66 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,11 @@
 | [Autoerótica](https://open.spotify.com/track/09rt2KQeRT2GlHZ6MDjvvy) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria En Vivo \(Deluxe Edition\)](https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR) | 3:36 | 2022-06-04 |  |
 | [Bipolar](https://open.spotify.com/track/2YKYIyZrAF1RszG0Eihx2G) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:16 | 2022-06-04 |  |
 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 | 2022-06-04 |  |
-| [Cobardía](https://open.spotify.com/track/6ytpDlOTSlyFioKfSvExCZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Cobardía](https://open.spotify.com/album/7rDhsYayebsbXQJo1125io) | 3:03 | 2025-04-01 |  |
+| [Cobardía](https://open.spotify.com/track/6ytpDlOTSlyFioKfSvExCZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Cobardía](https://open.spotify.com/album/7rDhsYayebsbXQJo1125io) | 3:03 | 2025-04-01 | 2025-05-01 |
+| [Cobardía](https://open.spotify.com/track/6z8AtxXDLKj3Q4rgzxJTtt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:03 | 2025-04-30 |  |
 | [Como Si Fuera La Primera Vez Aka La Primera Vez](https://open.spotify.com/track/2pgrKsTEqeKrNlN1fZqs7c) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:32 | 2022-06-04 |  |
-| [Cueste Lo Que Cueste](https://open.spotify.com/track/2l5uzRxRaNDFCdpSI6y186) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Cueste Lo Que Cueste](https://open.spotify.com/album/7oqd5XNbWxZbgM0Oz8IkLS) | 3:50 | 2025-04-01 |  |
+| [Cueste Lo Que Cueste](https://open.spotify.com/track/6SZGS7NU7fDKzPx9xOAGor) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:50 | 2025-04-30 |  |
+| [Cueste Lo Que Cueste](https://open.spotify.com/track/2l5uzRxRaNDFCdpSI6y186) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Cueste Lo Que Cueste](https://open.spotify.com/album/7oqd5XNbWxZbgM0Oz8IkLS) | 3:50 | 2025-04-01 | 2025-05-01 |
 | [Cómo Nace el Universo](https://open.spotify.com/track/61iFl8BwgJz0YhJBuChRGV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Como Nace El Universo](https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en) | 4:52 | 2022-06-04 |  |
 | [De Película](https://open.spotify.com/track/6p1lIWNu4l8QEx6ybjo74l) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:23 | 2022-06-04 |  |
 | [Despiértame](https://open.spotify.com/track/7qzvFgCueFG0T3qJDC4GlV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:20 | 2022-06-04 |  |
@@ -36,7 +38,7 @@
 | [Lo Que Una Chica Por Amor Es Capaz](https://open.spotify.com/track/6DNZig6OeXqhRuSrbYuFmZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:49 | 2022-06-04 |  |
 | [Mañana](https://open.spotify.com/track/4r6BNw3N1FQ4tx74w1QNv7) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 4:11 | 2025-04-01 |  |
 | [Me Lloras](https://open.spotify.com/track/3xAmaJcOkvRvnyghbg8BfX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:34 | 2022-06-04 |  |
-| [Medusa](https://open.spotify.com/track/21hzG2GBL2RIOZhAUBv008) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Medusa](https://open.spotify.com/album/2piw4fI88xU29RTvuMyttR) | 3:08 | 2025-01-09 | 2025-04-12 |
+| [Medusa](https://open.spotify.com/track/21hzG2GBL2RIOZhAUBv008) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Medusa](https://open.spotify.com/album/2piw4fI88xU29RTvuMyttR) | 3:08 | 2025-01-09 |  |
 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 | 2025-04-01 |  |
 | [Mudanza de Hormiga](https://open.spotify.com/track/5k380k6DE6SbYlYBKMRd9m) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 2:31 | 2022-06-04 |  |
 | [Mujer Maravilla](https://open.spotify.com/track/4Fhow7Gjagr9vtwtp4vUVx) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 | 2022-06-04 |  |
@@ -49,7 +51,8 @@
 | [Psicofonía](https://open.spotify.com/track/593jvsVjjnD2ufgxf0aRs1) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:45 | 2022-06-04 |  |
 | [Puede Ser Amor](https://open.spotify.com/track/4FrlpHVNDoCJGwlwlh3SUa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:17 | 2022-06-04 |  |
 | [Punto G](https://open.spotify.com/track/5mySwJzWiPvld6hk2P9eYH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria En Vivo \(Deluxe Edition\)](https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR) | 2:52 | 2022-06-04 |  |
-| [Q.E.P.D.](https://open.spotify.com/track/1dp0tV6jbgzuLqlM0whyDY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Q.E.P.D.](https://open.spotify.com/album/1s2eYtYR0E6uTWUSI8JDHZ) | 2:36 | 2025-04-01 |  |
+| [Q.E.P.D.](https://open.spotify.com/track/1dp0tV6jbgzuLqlM0whyDY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Q.E.P.D.](https://open.spotify.com/album/1s2eYtYR0E6uTWUSI8JDHZ) | 2:36 | 2025-04-01 | 2025-05-01 |
+| [Q.E.P.D.](https://open.spotify.com/track/1nZU8WqaCNG0FprwG3r0QV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 2:37 | 2025-04-30 |  |
 | [Que Emane](https://open.spotify.com/track/4smt7R9eqj7Tayae2ELEvU) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [6 Super Hits](https://open.spotify.com/album/3Hpql8w5zpptxGHF7d5fpi) | 3:52 | 2022-06-04 |  |
 | [Qué Voy A Hacer Sin El?](https://open.spotify.com/track/2C0JSxStREzKhqthOmP0uo) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:23 | 2025-04-01 |  |
 | [Quítame La Ropa](https://open.spotify.com/track/4kUMlxewJpjYuopLClp38R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Inmortal \(En Vivo/Deluxe\)](https://open.spotify.com/album/7hStMz0Ez50koiBxtzfmRL) | 3:00 | 2022-06-04 |  |

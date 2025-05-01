@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-167 songs - 9 hr 30 min
+169 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [D.R.E.A.M\. \(feat\. Ghostface Killah\)](https://open.spotify.com/track/5tykM1AFEOrm51CkDPOxPC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:48 | 2024-02-27 |  |
 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 | 2024-02-27 |  |
 | [Day Drinking \(feat\. Heymous Molly\)](https://open.spotify.com/track/3GfuzCkO8ufIvEA56DVV52) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Heymous Molly](https://open.spotify.com/artist/5M2gxYpF3uzcsyifR9WEgE) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:08 | 2024-02-27 | 2024-07-06 |
+| [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 | 2025-04-30 |  |
 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 | 2024-02-27 |  |
 | [Disarm You \(feat\. Ilsey\)](https://open.spotify.com/track/3xQjivjUZ4KnUslduTEYKC) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Automatic](https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj) | 3:41 | 2024-02-27 |  |
 | [Doll House](https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:11 | 2024-02-27 |  |
@@ -59,6 +60,7 @@
 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 | 2024-02-27 |  |
 | [Flame](https://open.spotify.com/track/4yzqNnq8DtgttvQDooboBA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Joyride \(Japan Version\)](https://open.spotify.com/album/78awGdD8XzM86ZCvWRLR4y) | 3:07 | 2024-02-27 |  |
 | [Freak Of Nature](https://open.spotify.com/track/2R5MNcivvBdMqV5rFnVH3L) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Mark Ronson Presents The Music Of "Spies In Disguise"](https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk) | 3:27 | 2024-02-27 |  |
+| [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-30 |  |
 | [Glitter & Honey](https://open.spotify.com/track/4Ar1E0HhDOUwQyGzzHsED3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:07 | 2024-07-31 |  |
 | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/track/6ZXO2ZFcAFmkFoJpMIwzGa) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5) | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/album/2xNyHrIBEJynLhUMtylDYZ) | 2:42 | 2024-02-27 |  |
 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 | 2024-10-17 |  |

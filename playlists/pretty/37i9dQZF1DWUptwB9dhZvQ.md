@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,231 likes - 75 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,247 likes - 75 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 59 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
 | 60 | [Interval Fight \- Background Score](https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 2:10 |
 | 61 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
-| 62 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 |
-| 63 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 |
+| 62 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 |
+| 63 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 |
 | 64 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 |
-| 65 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
-| 66 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
+| 65 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
+| 66 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
 | 67 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 |
 | 68 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
 | 69 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |

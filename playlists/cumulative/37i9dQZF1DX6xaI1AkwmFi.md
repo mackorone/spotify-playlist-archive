@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-421 songs - 1 day 0 hr 26 min
+423 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-10 | 2025-04-05 |
 | [hot lemon](https://open.spotify.com/track/1ZTpqhGR9UeBpBVyoBFEXf) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [hot lemon](https://open.spotify.com/album/5dtQd5fuVHnFs0Siny4eD6) | 2:33 | 2023-11-23 | 2024-01-11 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-13 |  |
+| [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 | 2025-05-01 |  |
 | [I LOVE ME!](https://open.spotify.com/track/0gOtVv1eQGRMDHmYhTGGb9) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [I LOVE ME!](https://open.spotify.com/album/3U5kiFrgkzdiUM4VOZf2Qb) | 3:19 | 2024-03-12 | 2024-04-03 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-05-08 |  |
 | [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 | 2024-12-03 | 2025-01-24 |
@@ -121,12 +122,13 @@
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2024-01-10 | 2024-01-28 |
 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 | 2024-10-23 | 2024-11-15 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2024-07-03 |
+| [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-05-01 |  |
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2023-12-05 |  |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-04 | 2024-08-16 |
 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-11-23 | 2023-12-02 |
 | [Mix](https://open.spotify.com/track/4VroMacNKHZjmi2OruZzmO) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:30 | 2023-11-30 | 2023-12-15 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-03 | 2024-03-06 |
-| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-11-23 |  |
+| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-11-23 | 2025-05-01 |
 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 | 2024-02-27 | 2024-04-19 |
 | [Moshi Moshi](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 | 2024-04-17 | 2024-07-31 |
 | [Ms\. U](https://open.spotify.com/track/4pnqlhfJhGMVOY72NZdqaq) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Ms\. U](https://open.spotify.com/album/78mbgmakgs35BkiafqFNSU) | 3:34 | 2024-03-12 | 2024-04-03 |
@@ -388,7 +390,7 @@
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-06-04 | 2024-08-30 |
 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 | 2023-11-23 | 2023-11-29 |
 | [涙の正体](https://open.spotify.com/track/3AfPOViUt21wiNRz3AZq2b) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [涙の正体](https://open.spotify.com/album/5qT4PfsqQOTE7vhSursTqL) | 4:04 | 2025-01-29 | 2025-02-26 |
-| [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-01-08 |  |
+| [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-01-08 | 2025-05-01 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-11-23 | 2024-04-19 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-18 |  |
 | [片想い](https://open.spotify.com/track/5RSFHD9l5WwdJJVuWkTgtq) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [片想い / 涙の正体](https://open.spotify.com/album/59GwSQ2YeTlVi10iNfj3gt) | 4:25 | 2025-03-11 | 2025-03-27 |

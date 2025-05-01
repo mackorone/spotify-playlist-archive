@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-1,057 songs - 2 day 8 hr 19 min
+1,058 songs - 2 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [30 Grados](https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56) | 2:31 | 2024-06-15 | 2024-09-25 |
 | [30 GRADOS RKT](https://open.spotify.com/track/1cG1zGCrsLOz5HL1tJwYUj) | [RUNE](https://open.spotify.com/artist/6cPEhvTTOyvNb3dL3ZkdHb), [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [30 GRADOS RKT](https://open.spotify.com/album/6JUpn1Fg1B39BUiLBgYa7f) | 2:34 | 2024-06-13 | 2024-06-15 |
 | [33](https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [33](https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE) | 3:44 | 2025-04-26 | 2025-04-28 |
+| [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2025-04-30 |  |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2021-04-30 | 2021-09-05 |
 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 | 2023-05-30 | 2023-10-07 |
 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 | 2021-03-27\* | 2021-04-17 |
@@ -544,7 +545,7 @@
 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 | 2021-03-27\* | 2021-06-01 |
 | [Mal Acostumbrao](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2021-09-05 | 2022-04-09 |
 | [Mala Mía](https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:10 | 2021-08-22 | 2021-12-19 |
-| [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 | 2025-04-26 |  |
+| [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 | 2025-04-26 | 2025-05-01 |
 | [Malbec](https://open.spotify.com/track/6KEb17S00Inf0v1qYDgUAj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:55 | 2021-04-26 | 2021-09-24 |
 | [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2021-08-22 | 2021-12-06 |
 | [Malianteo 420](https://open.spotify.com/track/6NKrW1a2OYNwAXuN4MgwXi) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Malianteo 420](https://open.spotify.com/album/7xdPNbwpkvpVSllF4CRcyT) | 3:15 | 2021-03-27\* | 2021-04-28 |

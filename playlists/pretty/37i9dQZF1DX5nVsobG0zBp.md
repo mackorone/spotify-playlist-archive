@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto:Mizzy Miles, Slow J, Gson
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,651 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,676 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,17 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 47 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
 | 48 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 49 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
-| 50 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
+| 50 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 51 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
-| 52 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 52 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
 | 53 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 54 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 55 | [Como É Que 'Tás](https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Como É Que 'Tás](https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW) | 1:59 |
 | 56 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
-| 57 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
+| 57 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 58 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 59 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
-| 60 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 60 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
 | 61 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 62 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
 | 63 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |

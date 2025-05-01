@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,483 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,489 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 24 | [사랑이 싫다구요](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 3:41 |
 | 25 | [HANA](https://open.spotify.com/track/1b2p57Q3RtuSYkmLIHs3jl) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [DIMENSION](https://open.spotify.com/album/2C4tl17a4f1oXbUPl2fymv) | 3:18 |
 | 26 | [Comment from XIA 1](https://open.spotify.com/track/6y6vzQG18ySFkoSHXHOW0i) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:41 |
-| 27 | [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 |
+| 27 | [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 |
 | 28 | [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 |
 | 29 | [나비](https://open.spotify.com/track/38UAq2jcb35mYuIHmFJ2qN) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 4:00 |
 | 30 | [Comment from XIA 2](https://open.spotify.com/track/5EAOJF3xHz5gIcAHarEsGu) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 3:48 |

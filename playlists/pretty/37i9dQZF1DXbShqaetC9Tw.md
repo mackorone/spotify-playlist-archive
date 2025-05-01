@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,292 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,298 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 |
 | 2 | [Loser](https://open.spotify.com/track/49uQ4IE8mdDekBDW8tG849) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:50 |
 | 3 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 |
-| 4 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
+| 4 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 5 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 |
 | 6 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 7 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 47 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 |
 | 48 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 | 49 | [Inspiration](https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Painting](https://open.spotify.com/album/4Zx38ejP18CMzsmOnIUMtp) | 2:49 |
-| 50 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
+| 50 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 
 Snapshot ID: `Z/YniQAAAABKMOLILiJnIXGII/PdFYXA`

@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38357,
+  "num_followers": 38363,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -467,30 +467,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg/Sibelius: Cello Sonatas",
-        "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Truls M\u00f8rk",
-          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 606493,
-      "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
-      "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 406666,
       "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
       "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg/Sibelius: Cello Sonatas",
+        "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 606493,
+      "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
+      "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
     },
     {
       "added_at": "2022-09-30 04:01:00",

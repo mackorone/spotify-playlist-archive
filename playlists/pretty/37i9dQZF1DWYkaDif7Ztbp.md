@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663,557 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,663,975 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
 | 50 | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/album/4bhZZ9oHQ6wb8Lpke7nQql) | 6:21 |
 
-Snapshot ID: `aAuJZgAAAACZRJHOwpwjOlnTHtqF1vt2`
+Snapshot ID: `aAuJZgAAAAAbVwPS4fKWJCfwDRYGv8S8`

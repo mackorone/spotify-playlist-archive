@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 
 > This is Harry Styles\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,722 likes - 21 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,728 likes - 21 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

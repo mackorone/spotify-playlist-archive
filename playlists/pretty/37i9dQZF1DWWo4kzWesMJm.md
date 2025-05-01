@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,935 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,657 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
-| 2 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
-| 3 | [Tous les mêmes](https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:30 |
+| 2 | [Tous les mêmes](https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:30 |
+| 3 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 4 | [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 |
 | 5 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 |
 | 6 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 16 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
 | 17 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
 | 18 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
-| 19 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
-| 20 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
+| 19 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
+| 20 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 21 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
 | 22 | [Ma philosophie](https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Un Jour D'été](https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w) | 3:23 |
 | 23 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 47 | [Partons vite](https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA) | [Kaolin](https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr) | [Mélanger les couleurs](https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0) | 4:01 |
 | 48 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 |
 | 49 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
-| 50 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
-| 51 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 50 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 51 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
 | 52 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 |
 | 53 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 | 54 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
 | 55 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 |
-| 56 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
-| 57 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 56 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 57 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 58 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
-| 59 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
+| 59 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
 | 60 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le Vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
 
 Snapshot ID: `aBDrsgAAAAA6y4bx9nL3p/W/4qF0ZfY5`

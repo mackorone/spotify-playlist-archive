@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,245 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,307 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 5 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 |
 | 6 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 |
 | 7 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 |
-| 8 | [Little Red Rooster \- Mono Version](https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones, Now!](https://open.spotify.com/album/592dKHbXtiglWyt8AEet23) | 3:05 |
-| 9 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 8 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 9 | [Little Red Rooster \- Mono Version](https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones, Now!](https://open.spotify.com/album/592dKHbXtiglWyt8AEet23) | 3:05 |
 | 10 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
 | 11 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
 | 12 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 27 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
 | 28 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
 | 29 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
-| 30 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
-| 31 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
+| 30 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
+| 31 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 32 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 33 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
 | 34 | [In the Mood](https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:45 |

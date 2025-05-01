@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,540 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,532 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 56 | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/7sjy4zFpKblSZ5xCHKlxlQ) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [in.corpo.ração](https://open.spotify.com/album/4l2RvWh3gQVWLJPZa6W2Wf) | 2:56 |
 | 57 | [ARROCHA O NÓ](https://open.spotify.com/track/5ixl6ksErzwIkmSHZ2LAA2) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [ARROCHA O NÓ](https://open.spotify.com/album/74o7mwocj2QW0ZM1rFlQV6) | 2:12 |
 | 58 | [Me Bate](https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw), [lia mersi](https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze) | [Me Bate](https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx) | 1:51 |
-| 59 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
-| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [Candy Mel](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
+| 59 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [Candy Mel](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
+| 60 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
 
 Snapshot ID: `ZwU3wAAAAABc7t+e7Vymc6FVxgkiGuRG`

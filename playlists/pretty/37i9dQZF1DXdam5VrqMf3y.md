@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,677 likes - 88 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,657 likes - 88 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 69 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 |
 | 70 | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 |
 | 71 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
-| 72 | [Blanca Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Blanca Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH) | 2:39 |
+| 72 | [Blanca Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Blanca Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH) | 2:39 |
 | 73 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Driving Home for Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a) | 3:41 |
 | 74 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 75 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |

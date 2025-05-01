@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Selin x Sertab Erener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,904 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,916 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 17 | [Diyemedim Elveda](https://open.spotify.com/track/18DQRizhEniEsTJZBpjDdm) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Çağın](https://open.spotify.com/artist/7rsySRY2k3zuplBFX14KvT) | [Diyemedim Elveda](https://open.spotify.com/album/7mcmtRBCAZPytWEK9wECUR) | 2:05 |
 | 18 | [Şimdi Böyle Biriymiş](https://open.spotify.com/track/79PkjCJWeNnTx7UB9D55w3) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Demet Özdemir](https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q) | [Şimdi Böyle Biriymiş](https://open.spotify.com/album/7384jiqVU39gp3KzNmCVDm) | 3:09 |
 | 19 | [Sen Ağlama](https://open.spotify.com/track/1i92qGNMBsoBsBzUbROsQC) | [Özgün](https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f) | [Sen Ağlama](https://open.spotify.com/album/3ESce6chJko5PsILPRky3L) | 3:11 |
-| 20 | [Küçük Sevgilim \- SAYGI1, Remix](https://open.spotify.com/track/4Y5WDvbBG3g1R34CfKwUSP) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT), [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Küçük Sevgilim \(SAYGI1, Remix\)](https://open.spotify.com/album/71xsPyusr0Bm6qY0owtR5I) | 2:59 |
+| 20 | [Küçük Sevgilim \- Saygi1](https://open.spotify.com/track/4Y5WDvbBG3g1R34CfKwUSP) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT), [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Küçük Sevgilim \(Saygi1\)](https://open.spotify.com/album/71xsPyusr0Bm6qY0owtR5I) | 2:59 |
 | 21 | [Çıplak Kral](https://open.spotify.com/track/5zdxDddZnw1UBuirDXpGvP) | [Sattas](https://open.spotify.com/artist/0VWRXoE547qHGpUemsl1ge) | [Çıplak Kral](https://open.spotify.com/album/277MjVe9vmIs4ZWE6EUO2s) | 2:52 |
 | 22 | [Müsaadenle Gidicem](https://open.spotify.com/track/2Ae2BtoOlaH1bYmwuFkfI7) | [Gökçe](https://open.spotify.com/artist/6EkoCL5oWSht8mekRNBWAn) | [Müsaadenle Gidicem](https://open.spotify.com/album/07PLkFP4ciiGvBRtI95ZQ2) | 3:16 |
 | 23 | [Bergüzarım](https://open.spotify.com/track/43ku3E4jFdccOLg7fllJeb) | [maNga](https://open.spotify.com/artist/7rEIUw67hRTgievwuKQGSj) | [Bergüzarım](https://open.spotify.com/album/6bV8EndQkDUy7fWehIqCSm) | 3:24 |

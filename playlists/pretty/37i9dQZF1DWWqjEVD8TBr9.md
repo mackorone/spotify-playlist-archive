@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443,973 likes - 219 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,444,226 likes - 219 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 8 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 9 | [Walkin On Water \(Sleigh Ver.\)](https://open.spotify.com/track/6rqGIYO69ODExagzUlFwfJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Walkin On Water \(Remixes\)](https://open.spotify.com/album/4qQODn0BzLIHJXOqwNKgoR) | 2:35 |
 | 10 | [Bounce Back](https://open.spotify.com/track/18sepgfG5z7htRLPeFk6RA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 3:03 |
-| 11 | [U](https://open.spotify.com/track/2i8ccVGWNGHuJ13Yh997ni) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:43 |
+| 11 | [U](https://open.spotify.com/track/2i8ccVGWNGHuJ13Yh997ni) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:43 |
 | 12 | [Walkin On Water \(HIP Version\)](https://open.spotify.com/track/3ZZ6o9wK1Rzz521MJfI5ul) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:55 |
 | 13 | [Railway \(Bang Chan\)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:53 |
 | 14 | [Unfair \(Felix\)](https://open.spotify.com/track/04vneFKe8iMdaA4d2zxgjb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,367 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,397 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 81 | [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 |
 | 82 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 |
 | 83 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 |
-| 84 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
-| 85 | [Marie Laveau](https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [The Essential Bobby Bare](https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH) | 3:09 |
-| 86 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 |
-| 87 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |
+| 84 | [Marie Laveau](https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [The Essential Bobby Bare](https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH) | 3:09 |
+| 85 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
+| 86 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |
+| 87 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 |
 | 88 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
 | 89 | [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 |
 | 90 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 |

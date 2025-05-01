@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,337 songs - 11 day 13 hr 53 min
+7,339 songs - 11 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [As The Cycle Begins](https://open.spotify.com/track/1EjH4DwmMQUypmXeQemIRl) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [As The Cycle Begins](https://open.spotify.com/album/5SvUvNhy36OOyItsP2P7PZ) | 2:30 | 2022-02-14 | 2022-09-09 |
 | [as the mist clears](https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [as the mist clears](https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE) | 2:54 | 2024-12-06 | 2025-04-12 |
 | [As Time Goes By](https://open.spotify.com/track/0xh8FDAOAhaUh5R090cNwR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [As Time Goes By](https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h) | 1:27 | 2022-12-23 | 2023-08-11 |
+| [Ascend](https://open.spotify.com/track/1YGbC4Pw93CXms4a0UloVP) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Ascend](https://open.spotify.com/album/6xlGe1URmFFpaiEvoAOTRj) | 2:18 | 2025-04-25 |  |
 | [Ascension](https://open.spotify.com/track/5GYVPAZ4BOSjp6OcST1gAu) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Ascension](https://open.spotify.com/album/0f9Z4iB2eWqtNvwf13TmYk) | 2:08 | 2024-10-04 | 2024-11-30 |
 | [Ash & Echoes](https://open.spotify.com/track/4RvxAZ9aYCmxGhnmQVowLd) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Ash & Echoes](https://open.spotify.com/album/34DW9SCu4W31XhVNC3IdhF) | 1:58 | 2025-04-11 | 2025-04-19 |
 | [ashy keyboard](https://open.spotify.com/track/18rW4znR6LblkBDzKLKvD9) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [autumn](https://open.spotify.com/album/57Fa1enzowCC6BKxI8juGH) | 1:47 | 2021-01-18 | 2022-03-12 |
@@ -3914,6 +3915,7 @@
 | [Mavi](https://open.spotify.com/track/7coDhLiscfVjtFbiZbh7Ym) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Mavi](https://open.spotify.com/album/0nkrrheLGz9sccTtHoFOpi) | 1:58 | 2022-08-12 | 2022-11-18 |
 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 | 2022-10-07 | 2023-01-13 |
 | [Maya](https://open.spotify.com/track/1cOskEECLPMl1A81dsRke4) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Maya](https://open.spotify.com/album/1RPX3Ae7En5gDyLn39zlmn) | 3:15 | 2021-11-20 | 2022-06-10 |
+| [maybe](https://open.spotify.com/track/6sEWSVZuwTQIBxWuZnhSif) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [maybe](https://open.spotify.com/album/3B7uHpu2Zwzpqa5XJgGyhd) | 2:02 | 2025-04-25 |  |
 | [Maybe Forever?](https://open.spotify.com/track/6TSJh3wkwcQsxXDXUPPIoi) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Maybe Forever?](https://open.spotify.com/album/5RRUGZqd4QrESVRs79Woug) | 2:09 | 2022-07-15 | 2022-11-11 |
 | [Maze](https://open.spotify.com/track/22rN9B1hyxCkmqqbgi7ag4) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Moving Sidewalks](https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc) | 1:24 | 2022-07-01 | 2022-07-16 |
 | [Maze](https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Maze](https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW) | 2:12 | 2024-09-20 | 2024-11-16 |
@@ -4280,7 +4282,7 @@
 | [Myjazztic](https://open.spotify.com/track/5sAE3XGXrl5gh5rzO2enOe) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Myjazztic](https://open.spotify.com/album/3neYI0NXwl3Zol9xB4rYLZ) | 2:09 | 2022-03-11 | 2022-08-12 |
 | [Myrtle](https://open.spotify.com/track/0fFKtQhqwjjZHRNHAv5HN8) | [Haines](https://open.spotify.com/artist/6d83Nr90bKcyvC2rmLF3z6) | [Myrtle](https://open.spotify.com/album/0CGVo2DwADDbBZbq0bChte) | 2:31 | 2021-10-20 | 2022-04-24 |
 | [Myself \(with Channel Tres\)](https://open.spotify.com/track/7fTbT3JvxSBsS610WALcyo) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Myself \(with Channel Tres\)](https://open.spotify.com/album/7mRPKY5204PFNo4TRTrViC) | 1:49 | 2022-12-23 | 2023-02-11 |
-| [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 |  |
+| [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 | 2025-05-01 |
 | [Mysteries](https://open.spotify.com/track/4Gs49fzepEtYLIlGDvHP7U) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Mysteries](https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT) | 1:55 | 2022-04-08 | 2022-09-02 |
 | [Mystery](https://open.spotify.com/track/2of6R8mZp83uLt8YXpsX5r) | [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Mystery](https://open.spotify.com/album/2D8GCtiWJSmWSAUzQ7F8S6) | 2:47 | 2023-03-16 | 2023-03-25 |
 | [Mystery](https://open.spotify.com/track/4TrDWJJ196lKl3yW5Saiqk) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Mystery](https://open.spotify.com/album/6iWDRYbT2Xyz6pRwlEG6Fr) | 2:37 | 2022-04-08 | 2022-09-02 |
@@ -5566,7 +5568,7 @@
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-05 | 2022-11-18 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2021-07-11 | 2022-03-12 |
 | [shores](https://open.spotify.com/track/6WLWFfS4axtFwyVflguh4T) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [shores](https://open.spotify.com/album/12stHW1u0kvas8ZOx2JMRS) | 1:45 | 2024-11-29 | 2025-02-01 |
-| [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-20 |  |
+| [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-20 | 2025-05-01 |
 | [short run](https://open.spotify.com/track/45tQjnqMygB3NfLbkq3cIC) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Kushed Down](https://open.spotify.com/album/38EvL0BXMMcw9knOWRg0bq) | 1:30 | 2023-02-13 | 2024-03-22 |
 | [Should've Been On The EP.](https://open.spotify.com/track/7CDRfGAxSZ40lZMjwVVKQl) | [CO/\\CH](https://open.spotify.com/artist/2AJIjqxm6flalfI7hmMlTk), [Srae Lla Mi](https://open.spotify.com/artist/3QwrSguIxxR0orDdkH0bUC) | [Should've Been On The EP.](https://open.spotify.com/album/0YgSezRPNYw9fgBxpCGiBQ) | 2:07 | 2021-11-20 | 2022-05-27 |
 | [Show Me How Good It Can Get](https://open.spotify.com/track/6oXmftIjSNes0BS1s4xHHI) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Show me how good it can get](https://open.spotify.com/album/51pm8RProx32idqbwg34n0) | 2:14 | 2022-08-26 | 2023-01-07 |

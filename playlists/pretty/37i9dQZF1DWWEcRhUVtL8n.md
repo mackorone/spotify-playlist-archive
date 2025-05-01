@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,874 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687,819 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,19 +58,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 48 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
 | 49 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 50 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 51 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 |
-| 52 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
-| 53 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
+| 51 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
+| 52 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 |
+| 53 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
 | 54 | [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 |
 | 55 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 56 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
 | 57 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
 | 58 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
 | 59 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 |
-| 60 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
+| 60 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 61 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 |
-| 62 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
-| 63 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 62 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
+| 63 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 64 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 65 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 |
 | 66 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 85 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 | 86 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 87 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 88 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
-| 89 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
+| 88 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
+| 89 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
 | 90 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 |
 | 91 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 |
 | 92 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
 | 93 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 94 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 |
 | 95 | [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 1:56 |
-| 96 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
-| 97 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 98 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 |
+| 96 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
+| 97 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 |
+| 98 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
 | 99 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
-| 100 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
+| 100 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 |
 
 Snapshot ID: `aAsI9QAAAAAkK5Hk6dg/q/bz/tsckhM6`

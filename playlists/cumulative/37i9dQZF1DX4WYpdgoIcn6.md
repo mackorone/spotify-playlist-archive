@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4WYpdgoIcn6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4WYpdgoIcn6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WYpdgoIcn6)
 
-### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
+### [Éxitos para relajarse](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Kick back to the best new and recent chill hits.
+> Disfruta de los mejores éxitos relajantes más recientes.
 
 952 songs - 2 day 3 hr 46 min
 

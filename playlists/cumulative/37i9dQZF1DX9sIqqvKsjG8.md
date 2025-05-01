@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-942 songs - 1 day 16 hr 16 min
+944 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Babirusa](https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Babirusa](https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM) | 2:32 | 2021-12-07 | 2022-06-08 |
 | [Back There](https://open.spotify.com/track/4sav44BLXb9QUdI4Bul1OV) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Back There](https://open.spotify.com/album/1PyZKZTIQJxYEA7nx32kDx) | 2:18 | 2022-08-09 | 2024-12-12 |
 | [Ballad](https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 2:51 | 2022-12-21 | 2025-01-29 |
-| [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 | 2024-08-13 |  |
+| [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 | 2024-08-13 | 2025-05-01 |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 | 2024-04-10 |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-06 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 | 2023-09-23 |
@@ -161,6 +161,7 @@
 | [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-02-26 |  |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2021-12-07 | 2022-05-06 |
 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-05 |  |
+| [Coastlines](https://open.spotify.com/track/7of61zdicsdOIVMowtY6OJ) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Coastlines](https://open.spotify.com/album/0euO2gH26YsAa9UB893u9E) | 2:24 | 2025-04-30 |  |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2021-12-07 | 2022-05-06 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2023-09-26 |
 | [Come to Peace](https://open.spotify.com/track/4hCGv1Y79lu6FaMeXIVRdP) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Come to Peace](https://open.spotify.com/album/5wL2Tir48QLh3pUpUIykjX) | 2:31 | 2024-11-26 |  |
@@ -194,7 +195,7 @@
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2022-09-24 |
 | [Dark Skies, Bright Stars](https://open.spotify.com/track/2d6TuppzOeiaMHuaddPO9K) | [Elke Fischer](https://open.spotify.com/artist/6TSeTJYdnpkR0LBtg3AmoI) | [Dark Skies, Bright Stars](https://open.spotify.com/album/5Y0tdMVlsomtFC6HqXmahk) | 2:00 | 2021-12-07 | 2022-05-06 |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-13 | 2023-03-21 |
-| [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 | 2025-04-01 |  |
+| [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 | 2025-04-01 | 2025-05-01 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2022-07-20 |
 | [Deep Blue](https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Deep Blue](https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l) | 2:37 | 2025-03-21 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
@@ -592,7 +593,7 @@
 | [Plethora](https://open.spotify.com/track/4LfQBA00ulFCsOn8KU7Kun) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Plethora](https://open.spotify.com/album/6m9imWHxW8RviFXfygdo6z) | 2:18 | 2025-03-25 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-04-25 |  |
 | [Poema](https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Poema](https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX) | 2:01 | 2023-04-25 |  |
-| [Ponceau](https://open.spotify.com/track/1qCrvHUu3jt5oSpvYaVrwH) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Ponceau](https://open.spotify.com/album/3j3xtTJJmUqWW4g4ZocnsD) | 2:09 | 2024-05-29 |  |
+| [Ponceau](https://open.spotify.com/track/1qCrvHUu3jt5oSpvYaVrwH) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Ponceau](https://open.spotify.com/album/3j3xtTJJmUqWW4g4ZocnsD) | 2:09 | 2024-05-29 | 2025-05-01 |
 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 | 2021-12-07 | 2022-08-13 |
 | [Postcards](https://open.spotify.com/track/6CpwzWJVFzXbh1QRYeogzK) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 2:35 | 2022-08-09 | 2023-09-23 |
 | [Pour tes yeux](https://open.spotify.com/track/6FYGyPEvb8g6toIfTwZTOH) | [Genevieve Beaumont](https://open.spotify.com/artist/0h1CKc837hgJJGRRUxP3dJ) | [Pour tes yeux](https://open.spotify.com/album/16Yn1gBuk3U4lzs7siFNzK) | 1:57 | 2021-12-07 | 2022-08-26 |
@@ -800,6 +801,7 @@
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-15 |  |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
+| [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 | 2025-04-30 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-03-06 |  |
 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2023-07-19 |
@@ -816,7 +818,7 @@
 | [The Spiral Staircase](https://open.spotify.com/track/6G7zgeFrYKMrZMUmH0sJxq) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [The Spiral Staircase](https://open.spotify.com/album/79rReG8Rx4cZoQAFNgErco) | 2:33 | 2025-04-23 |  |
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-04-03 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 | 2022-10-25 |
-| [The Time Remains](https://open.spotify.com/track/3epjWAlUkdNkDrpDL1wNPS) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [The Time Remains](https://open.spotify.com/album/2f5bbjS8nhLHdcVBOhyoxs) | 2:40 | 2024-12-11 |  |
+| [The Time Remains](https://open.spotify.com/track/3epjWAlUkdNkDrpDL1wNPS) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [The Time Remains](https://open.spotify.com/album/2f5bbjS8nhLHdcVBOhyoxs) | 2:40 | 2024-12-11 | 2025-05-01 |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 | 2022-06-08 |
 | [The What If](https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The What If](https://open.spotify.com/album/2wgsNYjUj2zE2K6WdK9AFj) | 3:30 | 2022-09-12 | 2023-09-30 |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 | 2025-04-10 |

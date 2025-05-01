@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 215 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 215 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 5 | [Love To Hate Me](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:51 |
 | 6 | [if we never met](https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:25 |
 | 7 | [S.L.U.T.](https://open.spotify.com/track/6h3lMAmmpQDFqoHk9F99IR) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:59 |
-| 8 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
-| 9 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
+| 8 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
+| 9 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 10 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 |
 | 11 | [Roaring 20s](https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:06 |
 | 12 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 158 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 |
 | 159 | [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 |
 | 160 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 |
-| 161 | [Party Trick](https://open.spotify.com/track/4srByK7V18CGHfGUzdXIvq) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:26 |
-| 162 | [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 |
+| 161 | [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 |
+| 162 | [Party Trick](https://open.spotify.com/track/4srByK7V18CGHfGUzdXIvq) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:26 |
 | 163 | [Cry](https://open.spotify.com/track/0IdaqHIUoLiupO6Hc0Y8CO) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:31 |
 | 164 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
 | 165 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 214 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 215 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbwGqgAAAAB5e/Qb+XnYQ52h/W9ikecS`
+Snapshot ID: `AbwMfAAAAACffi/AgoZglv26/UR9GPX0`

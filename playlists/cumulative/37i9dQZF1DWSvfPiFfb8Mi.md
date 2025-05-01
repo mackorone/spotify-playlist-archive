@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-370 songs - 1 day 0 hr 22 min
+371 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 |  |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
-| [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 |  |
+| [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-05-01 |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
 | [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 | 2024-08-30 | 2024-09-19 |
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-21 |  |
@@ -294,6 +294,7 @@
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-11-24 | 2024-04-19 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-15 |  |
+| [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 | 2025-04-25 |  |
 | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp) | 3:13 | 2024-09-06 |  |
 | [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 | 2023-05-24 |
 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 | 2023-09-22 | 2024-02-13 |

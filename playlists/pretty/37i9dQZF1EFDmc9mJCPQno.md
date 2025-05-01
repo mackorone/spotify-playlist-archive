@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 12 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 |
 | 13 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 |
 | 14 | [LUCID](https://open.spotify.com/track/44pTnE1Z3yw1YgYxLwn8Ba) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 3:38 |
-| 15 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 |
-| 16 | [BILLIONAIRE](https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 2:37 |
+| 15 | [BILLIONAIRE](https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 2:37 |
+| 16 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 |
 | 17 | [Maybe It Was Me](https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Maybe It Was Me](https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP) | 2:59 |
 | 18 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 |
 | 19 | [Poppin' Star](https://open.spotify.com/track/1i0bQAt6igTir6azhpn2Ri) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5g58Gtd4i0KtJxNeC56Mus) | 3:13 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 79 | [Lovers Or Liars](https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:54 |
 | 80 | [Warning Sign](https://open.spotify.com/track/2nBGVekdWfakwlKWYzc5mI) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 5:02 |
 | 81 | [What Are You Hungry For?](https://open.spotify.com/track/5uMisLlk3BbM2vK4Y3DjVH) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [What Are You Hungry For?](https://open.spotify.com/album/3s4u9GIC3K7AUrnVs8hZTS) | 3:00 |
-| 82 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 |
-| 83 | [Do You Even Think About Me?](https://open.spotify.com/track/3NJnIRaWen01KswFmcCxX6) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:16 |
+| 82 | [Do You Even Think About Me?](https://open.spotify.com/track/3NJnIRaWen01KswFmcCxX6) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:16 |
+| 83 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 |
 | 84 | [Tears In My Pocket](https://open.spotify.com/track/76jEQxi2ZTcfMhJXkwnUtE) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 2:57 |
 | 85 | [Hurt Any Less](https://open.spotify.com/track/2djUFakeHHNfmpMj907vZ6) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:22 |
 | 86 | [Anyway](https://open.spotify.com/track/4BJQYSYHW2DWJ0DVFKBbQ1) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Anyway](https://open.spotify.com/album/0UMuE9NyLHNs64AHsnvNgF) | 2:41 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 103 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 104 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AbwGqgAAAACb6hl32Pq4PfoGbS8/U1rT`
+Snapshot ID: `AbwMfAAAAAAyqjmalUXWwYp6decJsz9X`

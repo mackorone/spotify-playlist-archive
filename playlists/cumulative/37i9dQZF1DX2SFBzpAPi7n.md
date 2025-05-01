@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 크라잉넛 \(CRYING NUT\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-937 songs - 2 day 9 hr 14 min
+938 songs - 2 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2024-05-09 | 2024-11-07 |
 | [Love, Spark, Kiss](https://open.spotify.com/track/3gEEX6hcU6Qm2VU0TieZFV) | [SSunder](https://open.spotify.com/artist/1J32y4hGK3ovIslMNGuKDR) | [Love, Spark, Kiss](https://open.spotify.com/album/5UopY0OnaSKW3Cis5BJxQM) | 3:22 | 2022-06-03 | 2022-07-19 |
 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 | 2025-03-17 |  |
+| [Loveholic](https://open.spotify.com/track/2GmT097bJZk0ivdoIQs6DP) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Loveholic](https://open.spotify.com/album/0jylr6oqOhisVaRo07bJGA) | 3:39 | 2025-04-30 |  |
 | [Lovender](https://open.spotify.com/track/1HPdA41RCEcADEwiwjLic2) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [The 1st Mini Album 'Lovender'](https://open.spotify.com/album/646nLsVkP1hqVp24mYyg53) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:40 | 2022-04-22 | 2022-07-24 |
 | [Loving You](https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [sunoa](https://open.spotify.com/artist/6N67hO98Q9C9Iam30gpcqQ) | [Loving You](https://open.spotify.com/album/4wUTMXz0OvkPtLXrbmsoA8) | 3:27 | 2024-11-06 | 2024-12-06 |
@@ -920,7 +921,7 @@
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 | 2024-11-07 |
-| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 |  |
+| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 | 2025-05-01 |
 | [그녀가 날 깨웠다](https://open.spotify.com/track/0ZiqukZrA8LLP4CTA7VSsS) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/38HdDPMgvczUFfSddkW9R3) | 3:02 | 2025-02-18 | 2025-03-18 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |

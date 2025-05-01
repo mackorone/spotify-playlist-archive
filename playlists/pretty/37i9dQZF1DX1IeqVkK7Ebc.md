@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Vibes on ice
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,292 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,305 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 39 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
 | 40 | [Greenlight](https://open.spotify.com/track/56LQyaXsYWQZ2b7OPLAKEO) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 |
 | 41 | [Signs](https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Signs](https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq) | 3:19 |
-| 42 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
-| 43 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/08dD8Lk7VUea38YnsMzOP7) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/album/2Qbx0u9RrEQjJDGZ7dCnh6) | 3:04 |
+| 42 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/08dD8Lk7VUea38YnsMzOP7) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/album/2Qbx0u9RrEQjJDGZ7dCnh6) | 3:04 |
+| 43 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 44 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 45 | [LAUREL CANYON](https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SOCIALITE RODEO](https://open.spotify.com/album/3sAzc8Kh3uH4lva8kw6ifU) | 2:20 |
 | 46 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 53 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 |
 | 54 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 55 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 56 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
-| 57 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
+| 56 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
+| 57 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
 | 58 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
 | 59 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 60 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 |
 | 61 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 |
 | 62 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
-| 63 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 |
-| 64 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
+| 63 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
+| 64 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 |
 | 65 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 |
 | 66 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 67 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 71 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 72 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 |
 | 73 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
-| 74 | [when i'm with you](https://open.spotify.com/track/5TmEaC9CEjPjn9flj0B4i2) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [when i'm with you](https://open.spotify.com/album/2l53ZpaVXvnQ95kgCJBg1t) | 3:27 |
-| 75 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 74 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 75 | [when i'm with you](https://open.spotify.com/track/5TmEaC9CEjPjn9flj0B4i2) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [when i'm with you](https://open.spotify.com/album/2l53ZpaVXvnQ95kgCJBg1t) | 3:27 |
 | 76 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 |
 | 77 | [Rinse & Repeat](https://open.spotify.com/track/3tRKHCjHvLEo5xdfnuRa0Q) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Rinse & Repeat / See Ya Later](https://open.spotify.com/album/3V0D354PkeylO9fMGy5f37) | 2:32 |
-| 78 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 |
-| 79 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
-| 80 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
+| 78 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
+| 79 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 |
+| 80 | [Us Three](https://open.spotify.com/track/7HaQ4rnOsOBUqiXRwGGnQA) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Us Three](https://open.spotify.com/album/15vCjJpuaFZJRszhcNhzJJ) | 2:54 |
 
 Snapshot ID: `aA+vTAAAAADBvuuNN1MOLNqJYdE0dHAV`

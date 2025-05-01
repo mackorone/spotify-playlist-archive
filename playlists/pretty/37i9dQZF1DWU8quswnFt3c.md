@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Hsien Ching
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,001 likes - 77 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,075 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,21 +45,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
 | 36 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 |
 | 37 | [Hening Rindu](https://open.spotify.com/track/78407B74rCuif4YYE4SRUv) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Hening Rindu](https://open.spotify.com/album/1cPlyNOK1dziSnIkjNweS4) | 3:56 |
-| 38 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |
-| 39 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
+| 38 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
+| 39 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |
 | 40 | [Yok Dönüş Geri](https://open.spotify.com/track/1mIouPOhVg9BlT5Eg5gK5d) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Yok Dönüş Geri](https://open.spotify.com/album/6aTH2QhYICBn4XsG3XpLBi) | 2:40 |
 | 41 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
 | 42 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 43 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
-| 44 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
-| 45 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
+| 44 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
+| 45 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
 | 46 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
 | 47 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
 | 48 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
 | 49 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 |
 | 50 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
-| 51 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
-| 52 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 51 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 52 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
 | 53 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
 | 54 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 |
 | 55 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |

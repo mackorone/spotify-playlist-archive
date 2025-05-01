@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Esau Ortiz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,009 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,027 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 54 | [SRT](https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SRT](https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt) | 2:54 |
 | 55 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 56 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
-| 57 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
-| 58 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
+| 57 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
+| 58 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
 | 59 | [A LA ORDEN](https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [A LA ORDEN](https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD) | 2:55 |
 | 60 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 |
 | 61 | [La P\-90](https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [La P\-90](https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We) | 1:55 |

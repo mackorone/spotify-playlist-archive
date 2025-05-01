@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino con Snow Tha Product y Yeri Mua en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,638,119 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,638,130 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 24 | [Abrázame Fuerte](https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 3:28 |
 | 25 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 26 | [CLICKBAIT](https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [CLICKBAIT](https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP) | 2:40 |
-| 27 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
+| 27 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 28 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 |
 | 29 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 30 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:07 |

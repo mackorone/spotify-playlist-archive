@@ -1,33 +1,13 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa?si=d6TsqJb3TYKKH67MXzzxmg\">DESIREE</a>",
-  "num_followers": 77360,
+  "num_followers": 77466,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBCK7gAAAACxuVWxQ7ieAEquxfek+XdG",
+  "snapshot_id": "aBHnvAAAAAD7KhWHx9WU7FKExC6dIl5P",
   "tracks": [
-    {
-      "added_at": "2025-04-18 02:42:12",
-      "album": {
-        "name": "Caiiro",
-        "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 315116,
-      "name": "Ndisize",
-      "url": "https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO"
-    },
     {
       "added_at": "2025-04-29 08:16:46",
       "album": {
@@ -55,6 +35,26 @@
     {
       "added_at": "2025-04-18 02:42:12",
       "album": {
+        "name": "Caiiro",
+        "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 315116,
+      "name": "Ndisize",
+      "url": "https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO"
+    },
+    {
+      "added_at": "2025-04-18 02:42:12",
+      "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
       },
@@ -75,6 +75,38 @@
       "duration_ms": 327451,
       "name": "Vuka (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
+    },
+    {
+      "added_at": "2025-04-30 09:05:00",
+      "album": {
+        "name": "031 Studio Camp 2.0",
+        "url": "https://open.spotify.com/album/5aSsTgC8eB50naiNwpxeBw"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "Masuda",
+          "url": "https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl"
+        }
+      ],
+      "duration_ms": 394576,
+      "name": "Muthi",
+      "url": "https://open.spotify.com/track/77DVbEGHnExzOPm6dEueC1"
     },
     {
       "added_at": "2025-04-29 08:16:46",

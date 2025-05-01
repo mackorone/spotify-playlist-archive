@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Peyton Parrish",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Disciple",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 203171,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/6FKMfNgLra01edW4dPpGat"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 200176,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB"
@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Skeleton Psalms (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZoGRhrtfEksvamNtvB52y"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Make War",
+      "url": "https://open.spotify.com/track/5WTEEft8Gx5LVqt1O65Nye"
+    },
+    {
+      "album": {
         "name": "Melancholy Machines",
         "url": "https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4"
       },
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 257746,
       "name": "Resurrecting Reasons (feat. Decypher Down)",
       "url": "https://open.spotify.com/track/5havO3Edwyy7qn748NYcfY"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 214315,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 266503,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/4sR3VyYFteDqBCFlBfxHhI"

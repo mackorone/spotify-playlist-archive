@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,207 likes - 84 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,259 likes - 84 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 11 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 |
 | 12 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 13 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
-| 14 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
+| 14 | [Mark Of My Sins](https://open.spotify.com/track/2NCjHF264ecPXqOrcgp8Da) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Mark Of My Sins](https://open.spotify.com/album/4yoXS8P9Ejz8co7Wkugba4) | 3:19 |
 | 15 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 |
 | 16 | [Stand My Ground](https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:27 |
 | 17 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 36 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
 | 37 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 |
 | 38 | [Live and Let Go](https://open.spotify.com/track/6wOVBNhRUwIjAlcOSp0MvK) | [The Gems](https://open.spotify.com/artist/735eXziB2hC9TFcx6wjBsf) | [Live and Let Go](https://open.spotify.com/album/2GNOyTgQdUcLc7yAG4g01K) | 2:46 |
-| 39 | [Mark Of My Sins](https://open.spotify.com/track/2NCjHF264ecPXqOrcgp8Da) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Mark Of My Sins](https://open.spotify.com/album/4yoXS8P9Ejz8co7Wkugba4) | 3:19 |
-| 40 | [Light As a Feather](https://open.spotify.com/track/1jDU5Runo5URHe48jMMlgJ) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP), [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Light as a Feather](https://open.spotify.com/album/32Fd1rVoH1MKhdlUZ4KoaO) | 3:58 |
-| 41 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
+| 39 | [Light As a Feather](https://open.spotify.com/track/1jDU5Runo5URHe48jMMlgJ) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP), [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Light as a Feather](https://open.spotify.com/album/32Fd1rVoH1MKhdlUZ4KoaO) | 3:58 |
+| 40 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
+| 41 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
 | 42 | [Dead Weight](https://open.spotify.com/track/29vy57r5gJtWrpUpFpbfiS) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Dead Weight](https://open.spotify.com/album/4xfDCq11r0Kka6CG1hhgp6) | 3:37 |
 | 43 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
 | 44 | [Don't Let Me Bring You Down](https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Overdriver](https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7) | 3:15 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 83 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 4:00 |
 | 84 | [The World Belongs To Me](https://open.spotify.com/track/4IMFeclMZPanzmyx5m9mZr) | [Battering Ram](https://open.spotify.com/artist/5ZE8smCT2oR50Kq9yLZ3GW) | [The World Belongs To Me](https://open.spotify.com/album/7GD749YVkYURBaBGLuT4lW) | 3:51 |
 
-Snapshot ID: `aA8gmQAAAAAVWDd/TcN+9NDVaY0vdUsr`
+Snapshot ID: `aBINIwAAAADCgZajXU813MqVTPTwyXTl`

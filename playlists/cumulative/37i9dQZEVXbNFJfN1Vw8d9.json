@@ -7454,7 +7454,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -9702,7 +9702,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 121417,
       "name": "Exotica",
       "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
@@ -13052,7 +13052,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -15806,7 +15806,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-01",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -22881,6 +22881,24 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200526,
+      "name": "Resentia",
+      "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
+    },
+    {
+      "album": {
         "name": "Residente: Bzrp Music Sessions, Vol. 49",
         "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
       },
@@ -27974,6 +27992,28 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "VAN CLEEF (feat. Pirlo)",
+      "url": "https://open.spotify.com/track/1v6gyuulWDLqR3BKa6QcdT"
     },
     {
       "album": {

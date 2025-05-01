@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,043 likes - 81 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,048 likes - 81 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 17 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 18 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
 | 19 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
-| 20 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
+| 20 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
 | 21 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 |
 | 22 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 |
-| 23 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
+| 23 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
 | 24 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 |
 | 25 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
 | 26 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 51 | [Glad You Came](https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV) | 2:25 |
 | 52 | [Lying \(feat\. Dylan Sinclair\)](https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 4:41 |
 | 53 | [Space and Pussy](https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Space and Pussy](https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw) | 2:34 |
-| 54 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
-| 55 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 54 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 55 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
 | 56 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
 | 57 | [Disaster](https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Forest Fire](https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL) | 3:23 |
 | 58 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > the home of pop's evolutionary spirit ± cover: zara larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,818 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,795 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

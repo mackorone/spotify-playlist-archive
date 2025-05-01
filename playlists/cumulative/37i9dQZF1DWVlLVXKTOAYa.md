@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,134 songs - 2 day 10 hr 45 min
+1,135 songs - 2 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 | 2021-12-16 | 2022-07-28 |
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-20 |  |
 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 | 2021-12-16 | 2022-05-12 |
+| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-24 |  |
 | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/track/0Lql4L7NyAKnZHBUKYVI26) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/album/4a0DSORIOQog6KZZ9i5l3Y) | 2:43 | 2025-03-13 | 2025-04-05 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-10-06 | 2022-11-17 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 |  |
@@ -246,7 +247,7 @@
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2024-05-23 | 2024-09-30 |
 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 | 2025-03-13 | 2025-03-27 |
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-03-31 |
-| [death wish](https://open.spotify.com/track/0syhM7efawK9yseurhzPmN) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [death wish](https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH) | 2:50 | 2025-04-04 |  |
+| [death wish](https://open.spotify.com/track/0syhM7efawK9yseurhzPmN) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [death wish](https://open.spotify.com/album/2sGHtKgkeGmn5d8gpznBoH) | 2:50 | 2025-04-04 | 2025-05-01 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-23 | 2024-08-05 |
 | [Deja Vu](https://open.spotify.com/track/12e5rUktNoga7mdtziCw33) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:03 | 2022-01-27 | 2022-01-29 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-03-20 | 2025-04-18 |

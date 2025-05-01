@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: d4vd
 
-2,100 songs - 4 day 15 hr 12 min
+2,101 songs - 4 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [California](https://open.spotify.com/track/3bwmdeu8SFFPyvyZ7ekshz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [California](https://open.spotify.com/album/2S7UGA5rk8XmxqKMBQgup2) | 3:18 | 2020-10-20 | 2020-10-21 |
 | [California](https://open.spotify.com/track/2nBKc6tiMagmwJR8P6bXqs) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0QVGIcTbPFeiArrgwRKKtG) | 4:08 | 2021-10-10 | 2021-10-12 |
 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 | 2020-10-13\* | 2021-05-27 |
-| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-04-09 |  |
+| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-04-09 | 2025-05-01 |
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2020-10-13\* | 2021-10-14 |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-04-05 |  |
 | [Calls](https://open.spotify.com/track/5RzEyrxL09e1D80CXHmFAx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/2LNjaaGyhhMomXZOzqGgTw) | 2:51 | 2021-05-10 | 2021-06-02 |
@@ -1080,6 +1080,7 @@
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 | 2023-05-03 |
 | [laurel](https://open.spotify.com/track/7rzkDmONjg7i8vkoATsW8f) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [laurel](https://open.spotify.com/album/554EELvFi0hyJGwv2tvZ54) | 2:09 | 2022-05-13 | 2022-06-29 |
 | [Lazy Love](https://open.spotify.com/track/7IrkGTwDPicWAnCflbeicD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Lazy Love](https://open.spotify.com/album/2FMsm3iooQQOMJGIgNR2Op) | 3:02 | 2022-01-28 | 2022-04-17 |
+| [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 | 2025-04-25 |  |
 | [LEAVE ME](https://open.spotify.com/track/1ljQ8uKlwqJeyb007xeH8i) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [LEAVE ME](https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH) | 2:14 | 2021-03-08 | 2022-04-16 |
 | [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 | 2023-01-23 | 2023-03-06 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 
 > You know\. Epik High Is Here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,078 likes - 77 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,087 likes - 77 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 | 63 | [바보 \(Feat\. Bumkey\)](https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 4:02 |
 | 64 | [PEOPLE SCARE ME](https://open.spotify.com/track/7qLvwgaoM9L3FflkaJT0Dt) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0) | 3:08 |
 | 65 | [Kill This Love](https://open.spotify.com/track/3Cu2cZW292bhfGEl7j6plB) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [99](https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO) | 3:53 |
-| 66 | [Map the Soul \(Worldwide Version\) \[feat\. Tablo, MYK & Kero One\]](https://open.spotify.com/track/5D1vzchjH805WYLLVpeUjr) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1), [Myk](https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [魂 Map the Soul](https://open.spotify.com/album/1e8oyAuXoF4DTtycaUGd7Z) | 4:33 |
+| 66 | [Map the Soul \(Worldwide Version\) \[feat\. Tablo, MYK & Kero One\]](https://open.spotify.com/track/5D1vzchjH805WYLLVpeUjr) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1), [Myk](https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [魂 Map the Soul](https://open.spotify.com/album/1e8oyAuXoF4DTtycaUGd7Z) | 4:33 |
 | 67 | [Wordkill](https://open.spotify.com/track/6MuZfRhS5xIUiKRBFYax8j) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 3:18 |
 | 68 | [부르즈 할리파 Burj Khalifa](https://open.spotify.com/track/0rQNYBCP3CjYgQpGfrLa50) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Yankie](https://open.spotify.com/artist/5VKDE1ShT61vB7dgyiNDoE), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH) | 4:25 |
 | 69 | [버려진 우산 Broken Umbrella \(feat\. 리사 Lisa\)](https://open.spotify.com/track/0pUOaT3hfXUFWuNONhGzdm) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [리사 Lisa](https://open.spotify.com/artist/5320fgiEJtdnlVa1GxW6gg) | [Remixing the Human Soul \(Remixed By Planet Shiver\)](https://open.spotify.com/album/58VVHvydGyNwBNnBQq2mvA) | 5:21 |

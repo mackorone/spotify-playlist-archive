@@ -183,7 +183,7 @@
 | [Your Love](https://open.spotify.com/track/2Y09wzrCxNqG94UiIjPvIu) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:48 | 2023-06-01 | 2023-06-24 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-06-01 | 2023-06-24 |
 | [괴짜 \(Freak\)](https://open.spotify.com/track/61aMk6VH8dNYFxKLrQRiH6) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/7hV6jCNOCQP17ZKFywnf3h) | 2:49 | 2023-06-26 |  |
-| [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 | 2023-06-23 |  |
+| [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 | 2023-06-23 |  |
 | [나비](https://open.spotify.com/track/38UAq2jcb35mYuIHmFJ2qN) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 4:00 | 2023-06-23 |  |
 | [사랑이 싫다구요](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 3:41 | 2023-06-23 |  |
 

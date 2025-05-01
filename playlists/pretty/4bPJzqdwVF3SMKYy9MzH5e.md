@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,128 songs - 4 day 18 hr 12 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,130 songs - 4 day 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2136,5 +2136,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2126 | [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 |
 | 2127 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
 | 2128 | [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 |
+| 2129 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
+| 2130 | [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 |
 
-Snapshot ID: `AAAEI3KsLSrum/gj9NJhyaaYcJdOZiZE`
+Snapshot ID: `AAAEJfQxPDHRq1zzHstN92E44b4kgiC9`

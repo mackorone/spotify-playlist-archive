@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 ### [Charros de Oro](https://open.spotify.com/playlist/37i9dQZF1DWYC7hFn0j2HC)
 
-> ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
+> ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,980 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,083 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 |
 | 70 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
 
-Snapshot ID: `ZuN4igAAAABxCLGNnCKHJJg/EKAtg143`
+Snapshot ID: `AAAAAOpq5DhdX0yXa0nlARs6IoTNAqoQ`

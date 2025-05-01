@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-231 songs - 15 hr 8 min
+232 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 | 2022-06-16 | 2022-08-13 |
 | [DUKE NUKEM](https://open.spotify.com/track/1MbDJQVfQAeCTWMUeXvrDB) | [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs), [ROMA JONSON](https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a) | [DUKE NUKEM](https://open.spotify.com/album/0OzvI11qM6D82gtA7iMqLz) | 2:09 | 2022-12-15 | 2024-04-24 |
 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2022-06-16 | 2024-04-19 |
+| [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 | 2025-04-30 |  |
 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 | 2022-06-16 |  |
 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 | 2022-05-17 | 2023-04-21 |
 | [Fallen Torches](https://open.spotify.com/track/42iSlpI9hVVDk79EK86rvP) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Fallen Torches](https://open.spotify.com/album/4a9l7A6bfpvsP66918MmUb) | 4:22 | 2022-04-28 | 2022-07-29 |
@@ -134,7 +135,7 @@
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-05-12 | 2022-06-02 |
 | [Metality \- The Vitality Anthem](https://open.spotify.com/track/2rfJ2HBOtQmfiS5sllrgpG) | [Kiichi Chaos](https://open.spotify.com/artist/76s6Ffg2kAhwp9i9ayMhfz) | [Metality \(The Vitality Anthem\)](https://open.spotify.com/album/5Q3XnMwNq0alVnGo0KsSvI) | 5:00 | 2022-11-16 | 2024-04-24 |
 | [Moon Over the Castle \- from GRAN TURISMO 7](https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Moon Over the Castle \(from GRAN TURISMO 7\)](https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya) | 3:07 | 2022-04-28 | 2024-04-24 |
-| [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2024-04-24 |  |
+| [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2024-04-24 | 2025-05-01 |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-05-12 |  |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-05-17 |  |
 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-24 |  |
