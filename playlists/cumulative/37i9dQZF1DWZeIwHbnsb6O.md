@@ -2,7 +2,7 @@
 
 ### [Los 70 México](https://open.spotify.com/playlist/37i9dQZF1DWZeIwHbnsb6O)
 
-> Recuerda la década de los acampanados, patillas y cuellos picudos\. José José en portada.
+> Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
 84 songs - 4 hr 43 min
 

@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. © King Record Co., Ltd\. All rights reserved.
 
-256 songs - 1 day 21 hr 47 min
+257 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [イケブクロ・ディビジョン Buster Bros!!! Drama Track1](https://open.spotify.com/track/7HChYAp3GIgzxZ6ny2AnUk) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Buster Bros!!! Generation](https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra) | 14:12 | 2022-06-09 | 2024-09-18 |
 | [イケブクロ・ディビジョン Buster Bros!!! Drama Track2](https://open.spotify.com/track/7Gw4FM3cnHl223uicaFIam) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Buster Bros!!! Generation](https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra) | 6:21 | 2022-06-09 | 2024-09-18 |
 | [キズアトがキズナとなる](https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 4:11 | 2022-06-09 |  |
+| [ケリツケルSkill](https://open.spotify.com/track/7eiYkYZsWpMbfdK24HDw6V) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(M.T.C & D.H feat\. D.D All Cast\)](https://open.spotify.com/artist/7MQoDttg42qLan80g7eIEe) | [ケリツケルSkill](https://open.spotify.com/album/7lfnVAGyjCxfVatCSPWxQT) | 5:25 | 2025-05-01 |  |
 | [コメディアン・ラプソディ](https://open.spotify.com/track/3YupjQlzxemTLQdZKUskzf) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(白膠木簓\)](https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 3:37 | 2022-09-01 |  |
 | [シナリオライアー](https://open.spotify.com/track/1ur4nuxIY0LWcdfyum2hFC) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(夢野幻太郎\)](https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG) | [Fling Posse \-F.P.S.M\-](https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm) | 3:47 | 2022-06-09 |  |
 | [シノギ\(Dead Pools\)](https://open.spotify.com/track/0hR5O9ZVwaLppArJsl9sUm) | [ヒプノシスマイク \-D.R.B\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 3:20 | 2022-06-09 |  |

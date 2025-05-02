@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,729 likes - 20 songs - 1 hr 5 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,728 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 6 | [and party](https://open.spotify.com/track/6nLqL4G4MgE4mNC5Mtw28B) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [and party](https://open.spotify.com/album/7nZAVyal9oWJTegSUxnxaJ) | 2:44 |
 | 7 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
 | 8 | [Detox](https://open.spotify.com/track/3PuBs99KN0nSj8Qsp4Ed2t) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Detox EP](https://open.spotify.com/album/3BLXXj6LmuTmG5Yht2bbgU) | 2:56 |
-| 9 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
+| 9 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
 | 10 | [Enemies](https://open.spotify.com/track/6PoGuEaFg26ZtjNZZGJ9Jf) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Enemies](https://open.spotify.com/album/5a7KXbTOh5NceGVYPHmgeU) | 2:27 |
 | 11 | [Keep On Jumpin'](https://open.spotify.com/track/3sgBPUpu1UvGdDbdX55NeI) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Keep On Jumpin'](https://open.spotify.com/album/3ZpY73BVRvS2pAto9QITMd) | 2:52 |
 | 12 | [Umami](https://open.spotify.com/track/2gLSA0nDTcLkmNm4IbDeHv) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Umami](https://open.spotify.com/album/3pH0Pwav8pSDjx6sskJWpN) | 5:26 |

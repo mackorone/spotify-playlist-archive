@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Uchu Yurei 宇宙幽靈
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  SOPHY
 
-258 songs - 15 hr 0 min
+259 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2023-11-23 | 2024-03-29 |
 | [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 | 2023-10-27 | 2024-03-29 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-05-26 | 2023-04-14 |
+| [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 | 2025-05-01 |  |
 | [NOISY](https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [NOISY](https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm) | 3:25 | 2023-05-11 | 2024-03-29 |
 | [NOT OVER YOU \- Demo](https://open.spotify.com/track/0NAKaGZeBHWYXOEFwDahb5) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [NOT OVER YOU \(Demo\)](https://open.spotify.com/album/4syqsrCwBHxiAoAILBEPyG) | 3:45 | 2024-05-30 | 2025-03-28 |
 | [November 12](https://open.spotify.com/track/5tiZ8wO38MV7XnEnnpylli) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [November 12](https://open.spotify.com/album/18Pk2bESF2TOLTEdHaBIIb) | 3:22 | 2023-02-16 | 2023-05-12 |

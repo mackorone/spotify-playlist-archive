@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -4028,7 +4028,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 224213,
       "name": "Baugar",
       "url": "https://open.spotify.com/track/5HalGUbUQRMJvAKuupeD1M"
@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -12157,6 +12157,24 @@
     },
     {
       "album": {
+        "name": "Englar",
+        "url": "https://open.spotify.com/album/1N7pCSiKe8LdO9ZPXkiXr7"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241690,
+      "name": "Englar",
+      "url": "https://open.spotify.com/track/4ac5PlafxyXfb9qBJBSKq6"
+    },
+    {
+      "album": {
         "name": "Englar alheimsins (feat. Huginn)",
         "url": "https://open.spotify.com/album/4buVZ7yDldxdZFyTbt7UuE"
       },
@@ -15834,7 +15852,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
@@ -16632,6 +16650,24 @@
       "duration_ms": 186452,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/5qhe3h1glA4vW4DCMjpduA"
+    },
+    {
+      "album": {
+        "name": "Gold Digger",
+        "url": "https://open.spotify.com/album/53CA0WPfSCS00LwsvsmdYs"
+      },
+      "artists": [
+        {
+          "name": "Kirz",
+          "url": "https://open.spotify.com/artist/1mJLXUIVwhc5gD250DLUYs"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/0OUgKGkr8aUoKJjsu3bHy3"
     },
     {
       "album": {
@@ -19264,7 +19300,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 176645,
       "name": "Hope",
       "url": "https://open.spotify.com/track/70K0clwpcuJyl7clT28lSs"
@@ -27920,7 +27956,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 177473,
       "name": "Missi stj\u00f3rn",
       "url": "https://open.spotify.com/track/2EdGMV4CVi5rw2E6C1cxLR"
@@ -33785,6 +33821,28 @@
     },
     {
       "album": {
+        "name": "Street Songs Project",
+        "url": "https://open.spotify.com/album/5qkQBb42M7BA48NqXwFMrE"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russell",
+          "url": "https://open.spotify.com/artist/3quYSu4f5Iu9UddctUEXdv"
+        },
+        {
+          "name": "Daniel grace",
+          "url": "https://open.spotify.com/artist/5V8zPCXyt9r9iWcVBBFLHv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220144,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0FZVDGWkUe51K0bMeqPRHM"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
       },
@@ -35150,7 +35208,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 195932,
       "name": "Rhythm Until Sunrise",
       "url": "https://open.spotify.com/track/58pzsaMN6uqq2yYzNu3j9P"
@@ -35510,7 +35568,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 100749,
       "name": "Rockstah",
       "url": "https://open.spotify.com/track/0iLxX47Nf2GcXYyFsls6qw"
@@ -40642,7 +40700,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 225107,
       "name": "Subtext (feat. Amber Ogechi)",
       "url": "https://open.spotify.com/track/6Rv0jgwmzOI8yQGd0VwO7t"
@@ -44000,7 +44058,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 139200,
       "name": "TONY STARK",
       "url": "https://open.spotify.com/track/5VCUt5pX9fGXvcJd2FdEid"

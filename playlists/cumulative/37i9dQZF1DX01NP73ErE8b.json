@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat \ud83d\udd01 Achille Lauro in cover",
+  "description": "I brani italiani che abbiamo on repeat \ud83d\udd01 Fedez e CLARA in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 178000,
       "name": "'A 'MBASCIATA",
       "url": "https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe"
+    },
+    {
+      "album": {
+        "name": "MI AMI MI ODI",
+        "url": "https://open.spotify.com/album/2DyqXtkT9eESK7W7deh9sZ"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "1 ora",
+      "url": "https://open.spotify.com/track/0b54d3bmW5cKbntB5Rrp1H"
     },
     {
       "album": {
@@ -724,7 +742,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 162176,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/31EmbdSqvWvBMZUFWySeC9"
@@ -836,6 +854,24 @@
       "duration_ms": 153070,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw"
+    },
+    {
+      "album": {
+        "name": "Casomai",
+        "url": "https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "Casomai",
+      "url": "https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt"
     },
     {
       "album": {
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 204421,
       "name": "DI TUTTI",
       "url": "https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK"
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 160408,
       "name": "empatia",
       "url": "https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf"
@@ -1934,7 +1970,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
@@ -2080,6 +2116,32 @@
       "duration_ms": 190107,
       "name": "Immagina (feat. Tredici Pietro, Francesca Michielin & Mecna)",
       "url": "https://open.spotify.com/track/61JX1tmCPidoTJiKqieFb5"
+    },
+    {
+      "album": {
+        "name": "In auto alle 6:00 (feat. Lazza)",
+        "url": "https://open.spotify.com/album/0mlweBLcmpcETOH9OubY9o"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167283,
+      "name": "In auto alle 6:00 (feat. Lazza)",
+      "url": "https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6"
     },
     {
       "album": {
@@ -2492,7 +2554,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 173192,
       "name": "luci allo xeno",
       "url": "https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ"
@@ -3212,6 +3274,46 @@
       "duration_ms": 174673,
       "name": "Non Lo So (feat. chiello)",
       "url": "https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc"
+    },
+    {
+      "album": {
+        "name": "Non sono io",
+        "url": "https://open.spotify.com/album/5236ysAzQAdy67A3fM6etk"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172377,
+      "name": "Non sono io",
+      "url": "https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n"
+    },
+    {
+      "album": {
+        "name": "NON X SOLDI",
+        "url": "https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg"
+      },
+      "artists": [
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159894,
+      "name": "Non x Soldi",
+      "url": "https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz"
     },
     {
       "album": {
@@ -4089,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "SCELTE STUPIDE",
+        "url": "https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179802,
+      "name": "SCELTE STUPIDE",
+      "url": "https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7"
+    },
+    {
+      "album": {
         "name": "Se t'innamori muori",
         "url": "https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8"
       },
@@ -4944,7 +5068,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"

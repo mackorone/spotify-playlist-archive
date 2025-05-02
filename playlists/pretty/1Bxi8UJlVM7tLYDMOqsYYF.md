@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeff Satur",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "I love you a latte",
+        "url": "https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233103,
+      "name": "I love you a latte",
+      "url": "https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 161252,
       "name": "intro (end of the world) - extended",
       "url": "https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S"
@@ -1969,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv"
       },
@@ -2207,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164398,
+      "name": "Seoul City",
+      "url": "https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR"
+    },
+    {
+      "album": {
         "name": "Situationship",
         "url": "https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd"
       },
@@ -2418,6 +2476,24 @@
       "duration_ms": 196250,
       "name": "SUPER SECRET",
       "url": "https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
       "album": {
@@ -2894,7 +2970,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
@@ -3286,7 +3362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 212343,
       "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
       "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
@@ -3594,7 +3670,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 283921,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e27\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e25\u0e48\u0e32 (Emptiness)",
       "url": "https://open.spotify.com/track/6Ehxi6eNF6jNBF1nlJ9pnn"
@@ -3738,7 +3814,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 249230,
       "name": "\u0e08\u0e33\u0e19\u0e19",
       "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
@@ -4186,7 +4262,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 248250,
       "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
@@ -5148,6 +5224,24 @@
       "duration_ms": 197250,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
     },
     {
       "album": {
@@ -6725,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) [Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series]",
+        "url": "https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230847,
+      "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) - Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e19\u0e37\u0e48\u0e2d\u0e22\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (SOMEONE LIKE ME) - Single",
         "url": "https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ"
       },
@@ -6826,7 +6938,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 278313,
       "name": "\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e41\u0e04\u0e48\u0e19\u0e31\u0e49\u0e19 (NO MATTER WHAT)",
       "url": "https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv"
@@ -6928,6 +7040,24 @@
       "duration_ms": 217714,
       "name": "\u0e41\u0e25\u0e01\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e2a\u0e07\u0e14\u0e32\u0e27",
+        "url": "https://open.spotify.com/album/6MmLyMbQMNKYnGPMxtZZOL"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252537,
+      "name": "\u0e41\u0e2a\u0e07\u0e14\u0e32\u0e27",
+      "url": "https://open.spotify.com/track/1iAAhFn93RLWwxGczKBAvV"
     },
     {
       "album": {

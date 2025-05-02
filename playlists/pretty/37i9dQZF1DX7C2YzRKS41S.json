@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 137149,
+  "num_followers": 137241,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -527,38 +527,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 274870,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -575,6 +543,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -599,6 +583,22 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
         "name": "A Encomenda da Minha Vida",
         "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Flagra",
-        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Flagra",
-      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+        "name": "Flagra",
+        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+      "duration_ms": 196946,
+      "name": "Flagra",
+      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -731,38 +731,6 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
-      },
-      "artists": [
-        {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Seja Como For",
-      "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
-        "name": "Ensolarada",
-        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 175659,
-      "name": "Ensolarada",
-      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+      },
+      "artists": [
+        {
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Seja Como For",
+      "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
+        "name": "Ensolarada",
+        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 175659,
+      "name": "Ensolarada",
+      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 177665,
+      "name": "Eu Sou Sentimental",
+      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
+    },
+    {
+      "added_at": "2025-04-18 06:05:08",
+      "album": {
         "name": "DUDA BEAT & NANDO REIS",
         "url": "https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 262550,
       "name": "O Segundo Sol",
       "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
-    },
-    {
-      "added_at": "2025-04-18 06:05:08",
-      "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 177665,
-      "name": "Eu Sou Sentimental",
-      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
     },
     {
       "added_at": "2025-04-18 06:05:08",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2025-04-18 06:05:08",
       "album": {
-        "name": "CACHOEIRA",
-        "url": "https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3"
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT"
       },
       "artists": [
         {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 220141,
-      "name": "CACHOEIRA",
-      "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
+      "duration_ms": 193136,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

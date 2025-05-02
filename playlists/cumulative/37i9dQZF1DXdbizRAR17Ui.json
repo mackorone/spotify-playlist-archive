@@ -235,6 +235,28 @@
     },
     {
       "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241998,
+      "name": "After",
+      "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 265101,
       "name": "Chlorine (Bodhi remix)",
       "url": "https://open.spotify.com/track/5C6J6VrTlEiWUidDZGnHsq"
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 293800,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/76E3jFhT2wW6OkAEGAyM7H"
@@ -2778,7 +2800,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 323000,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF"
@@ -3027,6 +3049,36 @@
     },
     {
       "album": {
+        "name": "In The Sound Of Breathing (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk"
+      },
+      "artists": [
+        {
+          "name": "SAGES",
+          "url": "https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289641,
+      "name": "In The Sound Of Breathing - George FitzGerald Remix",
+      "url": "https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD"
+    },
+    {
+      "album": {
         "name": "CARE4LIFE",
         "url": "https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c"
       },
@@ -3078,6 +3130,24 @@
       "duration_ms": 252062,
       "name": "Incomplete Dreaming",
       "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
+    },
+    {
+      "album": {
+        "name": "ineedu",
+        "url": "https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145515,
+      "name": "ineedu",
+      "url": "https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8"
     },
     {
       "album": {
@@ -3518,7 +3588,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 167142,
       "name": "Leave Me Slowly",
       "url": "https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ"
@@ -4662,7 +4732,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 261333,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
@@ -5181,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3"
+    },
+    {
+      "album": {
         "name": "Promises (VIP)",
         "url": "https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf"
       },
@@ -5478,7 +5566,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 158429,
       "name": "Rose On A Stone",
       "url": "https://open.spotify.com/track/3Ml3CIaOpDBYcJNmIR96Py"
@@ -5656,6 +5744,28 @@
       "duration_ms": 353684,
       "name": "Save My Day - DJ Python \u2018Nice\u2019 Remix",
       "url": "https://open.spotify.com/track/38aH0p1D6IbK3w3g3LTrVz"
+    },
+    {
+      "album": {
+        "name": "Say Tell Me (Maya Jane Coles Remix)",
+        "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298426,
+      "name": "Say Tell Me - Maya Jane Coles Remix",
+      "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
     },
     {
       "album": {
@@ -7304,6 +7414,24 @@
       "duration_ms": 244250,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/525muhPHktund0e6sy9IeL"
+    },
+    {
+      "album": {
+        "name": "Without U",
+        "url": "https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh"
+      },
+      "artists": [
+        {
+          "name": "LuvLess",
+          "url": "https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209752,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 💜 Junia's first playlist cover 👯💜
 
-2,071 songs - 4 day 12 hr 0 min
+2,072 songs - 4 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1452,6 +1452,7 @@
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2023-10-07 |
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-06-06 |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-16 |  |
+| [Red \(Taylor's Version\)](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 | 2025-05-01 |  |
 | [Red \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Alex Boniello](https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Red \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s) | 3:08 | 2024-06-21 | 2024-06-29 |
 | [Red Flag](https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Red Flag](https://open.spotify.com/album/0W7ODmyAtlwYQB6pkY4iwb) | 2:59 | 2024-11-15 | 2025-01-25 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 | 2023-03-18 |

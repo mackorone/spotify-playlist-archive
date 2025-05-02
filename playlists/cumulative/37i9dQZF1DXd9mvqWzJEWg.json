@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=ybtIU6xvQZGGZowQbG5Vxg\">DJ Lag</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr?si=MVpEWfhRSoqR5KFx9XZn1A\">Campmasters</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 306000,
       "name": "Drift",
       "url": "https://open.spotify.com/track/12vhyaUqdgWDbReVCardcR"
@@ -3331,6 +3331,32 @@
     },
     {
       "album": {
+        "name": "Ismokolo",
+        "url": "https://open.spotify.com/album/50T7uasAfWdkq3KbK3GwtU"
+      },
+      "artists": [
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "Captain",
+          "url": "https://open.spotify.com/artist/5UcsPC18QWPz4WKvuzaanA"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316446,
+      "name": "Ismokolo",
+      "url": "https://open.spotify.com/track/0BaVjIwoVL951oBOkgMyCp"
+    },
+    {
+      "album": {
         "name": "iSthin' iStory 2.0",
         "url": "https://open.spotify.com/album/432ipGgv1T6zBkiXMGK80O"
       },
@@ -3674,6 +3700,28 @@
       "duration_ms": 336437,
       "name": "Izithunywa",
       "url": "https://open.spotify.com/track/2hhNFJZMSpFvbAU9WLMya7"
+    },
+    {
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/72BUfmPRabnndB9n2P57U7"
+      },
+      "artists": [
+        {
+          "name": "Bosslife Fam Cpt",
+          "url": "https://open.spotify.com/artist/0cyi6YgAkraJY4qrbI1AMf"
+        },
+        {
+          "name": "Trole Vieslik",
+          "url": "https://open.spotify.com/artist/6Xhkv3amSSo3fr2aLAv0Tr"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223152,
+      "name": "JAPAN TOE",
+      "url": "https://open.spotify.com/track/6jEMCRYXs6s6EPu776TbIW"
     },
     {
       "album": {
@@ -6058,7 +6106,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 330048,
       "name": "Senzeni",
       "url": "https://open.spotify.com/track/15uXQZuiztpiC5zWPXWv9o"
@@ -7626,6 +7674,24 @@
       "duration_ms": 325176,
       "name": "uZosala",
       "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
+        "name": "Gqom Remake Pack",
+        "url": "https://open.spotify.com/album/1SGtrCtlBDOsIg8s9MXezb"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405786,
+      "name": "Uzwizwa Kanjani - Gqom Instrumental",
+      "url": "https://open.spotify.com/track/429W5vbJWGPPyUGndvjx0M"
     },
     {
       "album": {

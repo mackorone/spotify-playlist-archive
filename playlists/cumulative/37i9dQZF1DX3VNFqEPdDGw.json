@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/7eDWLDuUcanG37D8UnlBmv"
+      },
+      "artists": [
+        {
+          "name": "Kotti",
+          "url": "https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "AFSRMUSIC",
+          "url": "https://open.spotify.com/artist/4782y51fIf7e1EGSxnfy35"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137044,
+      "name": "506",
+      "url": "https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w"
+    },
+    {
+      "album": {
         "name": "8 Raflaan (feat. Gurlez Akhtar)",
         "url": "https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw"
       },
@@ -2136,7 +2162,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 197250,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/2ZZbkTY3HQXPHlOn7cnz7h"
@@ -2714,6 +2740,24 @@
       "duration_ms": 207209,
       "name": "Jinni Sohni",
       "url": "https://open.spotify.com/track/5CPKjWskwfyV2sl59DoxzS"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g"
+      },
+      "artists": [
+        {
+          "name": "Panjabi MC",
+          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191120,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/3IsXkCbvdN0cIuNKGTJsq4"
     },
     {
       "album": {
@@ -3860,7 +3904,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 216774,
       "name": "NO MORE SHADA",
       "url": "https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ"

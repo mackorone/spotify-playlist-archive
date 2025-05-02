@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "BYOD",
+        "url": "https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201858,
+      "name": "BYOD",
+      "url": "https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo"
+    },
+    {
+      "album": {
         "name": "Aquarian",
         "url": "https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue"
       },
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
@@ -2481,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "LightBulb",
+        "url": "https://open.spotify.com/album/2o10K3y7a0yF1wwbKvFyIu"
+      },
+      "artists": [
+        {
+          "name": "Ladi6",
+          "url": "https://open.spotify.com/artist/6zZvfMW6XSPQcIeIdjHccY"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231033,
+      "name": "LightBulb",
+      "url": "https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57"
+    },
+    {
+      "album": {
         "name": "Loline",
         "url": "https://open.spotify.com/album/6ApXM9SJJDq9eu2jEqIm0x"
       },
@@ -2716,7 +2752,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
@@ -2866,6 +2902,24 @@
       "duration_ms": 150520,
       "name": "Memories (feat. Mikeyy)",
       "url": "https://open.spotify.com/track/7DKJ8KgtH0ucRjGABVvDZK"
+    },
+    {
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "album": {
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"

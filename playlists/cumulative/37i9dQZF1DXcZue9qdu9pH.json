@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 147473,
       "name": "Restore",
       "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
@@ -1918,6 +1918,24 @@
       "duration_ms": 176703,
       "name": "Spend My Money",
       "url": "https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2"
+    },
+    {
+      "album": {
+        "name": "Spoils",
+        "url": "https://open.spotify.com/album/1FJRlLYSvXvf75AbJ6iRQR"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Spoils",
+      "url": "https://open.spotify.com/track/6p2GZQ2XvtzY1y02AvsA0J"
     },
     {
       "album": {

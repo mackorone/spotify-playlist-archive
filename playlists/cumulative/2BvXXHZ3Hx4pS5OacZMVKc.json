@@ -2863,6 +2863,28 @@
     },
     {
       "album": {
+        "name": "Ghost In The Wall",
+        "url": "https://open.spotify.com/album/3wvgkQafH7J6Ekb5uMg786"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Gaash",
+          "url": "https://open.spotify.com/artist/6GB2Qfxc1dqkStjzIdJtg2"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Ghost In The Wall",
+      "url": "https://open.spotify.com/track/5pHfVokEQi99RAUGiazHj0"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv"
       },

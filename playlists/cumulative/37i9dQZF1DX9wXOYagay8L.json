@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=puY3KbZrT7-ZMexy_sjrKQ\"> Ringo Madlingozi</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO?si=Wx5rh6lxSO2mP8kmzkRFSA\"> Airic</a>, <a href=\"https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr?si=dFsOaEDeQwuqKshmsyj_hQ\"> Mjolisi</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -779,6 +779,32 @@
     },
     {
       "album": {
+        "name": "Soft Spot EP",
+        "url": "https://open.spotify.com/album/5AC3c0IjBTak4f0gJjj35j"
+      },
+      "artists": [
+        {
+          "name": "Airic",
+          "url": "https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "Navigator Gcwensa",
+          "url": "https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Amaphilisi",
+      "url": "https://open.spotify.com/track/3Hz09bfRknUSICtEUet4QT"
+    },
+    {
+      "album": {
         "name": "Isibane Selali",
         "url": "https://open.spotify.com/album/0dfYUSlAXQ45wCowCf4Mda"
       },
@@ -914,6 +940,36 @@
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
+    },
+    {
+      "album": {
+        "name": "Amazwe",
+        "url": "https://open.spotify.com/album/1uB79d9Uf7t7H4pMoTOESq"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0ZdG01zFFM38qFgZmZPE9y"
+        },
+        {
+          "name": "Sfundo",
+          "url": "https://open.spotify.com/artist/0op0566RVAkuZQQ76RWxLG"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        },
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Amazwe",
+      "url": "https://open.spotify.com/track/06hXLzosnqOCy6dn8BPQaT"
     },
     {
       "album": {
@@ -2062,6 +2118,28 @@
       "duration_ms": 341937,
       "name": "Control",
       "url": "https://open.spotify.com/track/7mQzeMtJyWbRxhQyxLZyKM"
+    },
+    {
+      "album": {
+        "name": "Dabawo (Rakgadi)",
+        "url": "https://open.spotify.com/album/5ulrxSaGyvsVbmybTy8h3f"
+      },
+      "artists": [
+        {
+          "name": "Wav Gardn",
+          "url": "https://open.spotify.com/artist/5ICrK2OM6TBc2tgc3uK9rY"
+        },
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Dabawo (Rakgadi)",
+      "url": "https://open.spotify.com/track/5lHkT9RhO8obiD45fsYzqI"
     },
     {
       "album": {
@@ -5332,7 +5410,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 288052,
       "name": "Ithuba (feat. Zuko SA)",
       "url": "https://open.spotify.com/track/2Yhth6rSLmO0VBzgGniUmw"
@@ -9287,6 +9365,28 @@
     },
     {
       "album": {
+        "name": "Nomalanga",
+        "url": "https://open.spotify.com/album/5PY38FrzPp4lqy6GQEpeOg"
+      },
+      "artists": [
+        {
+          "name": "OB Magik",
+          "url": "https://open.spotify.com/artist/6s0VwjzW908utVk7neCYnT"
+        },
+        {
+          "name": "Olefied Khetha",
+          "url": "https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242436,
+      "name": "Nomalanga",
+      "url": "https://open.spotify.com/track/0A8loTbNljPlT2yP1oEvFV"
+    },
+    {
+      "album": {
         "name": "Nomalizo",
         "url": "https://open.spotify.com/album/0lrN0sE96nmWQARcESCze2"
       },
@@ -9328,7 +9428,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 395453,
       "name": "NOMSA",
       "url": "https://open.spotify.com/track/00M97ICmXgguOVlRJcs1YP"
@@ -11369,6 +11469,28 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/0KhexLdklmETR6LM23OPxG"
+      },
+      "artists": [
+        {
+          "name": "Airic",
+          "url": "https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262633,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/13Q6fqU5O7I7sNc1DmDbfA"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/52B7HXnplI4J2d5pF88Jti"
       },
@@ -11758,7 +11880,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 391213,
       "name": "Thando",
       "url": "https://open.spotify.com/track/3m6jLnrCigN1miiRr3JQN5"
@@ -11920,7 +12042,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 222346,
       "name": "Thatha (feat. Daliwonga)",
       "url": "https://open.spotify.com/track/3m3HaFgD2knHOviqKFnZ6s"
@@ -13176,7 +13298,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 410763,
       "name": "Umuntwami (feat. Annabelle)",
       "url": "https://open.spotify.com/track/0713Kw18x2V92LdSRCeuIw"

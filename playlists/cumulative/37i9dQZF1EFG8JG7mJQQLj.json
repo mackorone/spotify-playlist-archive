@@ -4396,24 +4396,6 @@
     {
       "album": {
         "name": "HEAT",
-        "url": "https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171666,
-      "name": "I Want That",
-      "url": "https://open.spotify.com/track/2oGscqSTag2iNgQYNn1dhg"
-    },
-    {
-      "album": {
-        "name": "HEAT",
         "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
       },
       "artists": [
@@ -4428,6 +4410,24 @@
       "duration_ms": 171666,
       "name": "I Want That",
       "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "I Want That",
+      "url": "https://open.spotify.com/track/2oGscqSTag2iNgQYNn1dhg"
     },
     {
       "album": {

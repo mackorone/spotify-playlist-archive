@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EIWfhQkRVjOnZ.md) - [plain]
 | 49 | [A Mountain So Big, A Question So Small](https://open.spotify.com/track/1vF7UqFlXmPS18N9cCaX2h) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 4:32 |
 | 50 | [Subverse](https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH) | [This Or The Apocalypse](https://open.spotify.com/artist/3V5HSi5V8ivCbmIkQUW5nO) | [Haunt What's Left](https://open.spotify.com/album/6U7EVwixbRMZ6CVu4B10S2) | 4:30 |
 
-Snapshot ID: `AAAAAAAAAACkNgfy3brarae4aji4XYdQ`
+Snapshot ID: `AAAAAAAAAAC3lMUyn+jB1GAgF5Nb4Kqd`

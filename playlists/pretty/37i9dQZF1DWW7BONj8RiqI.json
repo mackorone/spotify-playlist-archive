@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 227227,
+  "num_followers": 227308,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6SMvwAAAAAn/OT6582/I/H0QGUujtkA",
+  "snapshot_id": "AAAAAHkPPndI570nG19y2rFTIoBzET4F",
   "tracks": [
     {
       "added_at": "2025-02-06 10:19:43",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Studio B Presents Crop Over Hits 2014",
+        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
+      },
+      "artists": [
+        {
+          "name": "Fadda Fox",
+          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
+        }
+      ],
+      "duration_ms": 233563,
+      "name": "Ducking",
+      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 244578,
       "name": "Dear Promoter",
       "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Studio B Presents Crop Over Hits 2014",
-        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
-      },
-      "artists": [
-        {
-          "name": "Fadda Fox",
-          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
-        }
-      ],
-      "duration_ms": 233563,
-      "name": "Ducking",
-      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Shake The Place",
         "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 227642,
       "name": "Shake The Place",
       "url": "https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Mas",
-        "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Freetown Collective",
-          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
-        }
-      ],
-      "duration_ms": 210238,
-      "name": "Mas",
-      "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 238400,
       "name": "Carnival Contract",
       "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Mas",
+        "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Freetown Collective",
+          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
+        }
+      ],
+      "duration_ms": 210238,
+      "name": "Mas",
+      "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Engine Room",
-        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 201594,
-      "name": "Engine Room",
-      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Alien Head Riddim",
         "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 258864,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Engine Room",
+        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 201594,
+      "name": "Engine Room",
+      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 211874,
-      "name": "Oh Yay",
-      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 237131,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 211874,
+      "name": "Oh Yay",
+      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 158917,
       "name": "Carnival Jumbie",
       "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
       "artists": [
         {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
         }
       ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Retro Fete Riddim",
         "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 152624,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2025-02-06 10:19:43",

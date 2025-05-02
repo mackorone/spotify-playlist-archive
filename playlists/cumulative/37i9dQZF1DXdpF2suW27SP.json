@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Myles 6ix entra na zona. ",
+  "description": "T-Rex entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -336,6 +336,24 @@
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
+    },
+    {
+      "album": {
+        "name": "35",
+        "url": "https://open.spotify.com/album/4lxCLRaPTyDbMo1yrzMOX0"
+      },
+      "artists": [
+        {
+          "name": "Young Double",
+          "url": "https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "35",
+      "url": "https://open.spotify.com/track/1w0g8RAtMkPfqjnsHyDOcg"
     },
     {
       "album": {
@@ -2477,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "CAMINHO",
+        "url": "https://open.spotify.com/album/1kF4vuNHW3PSB4yjCxprbt"
+      },
+      "artists": [
+        {
+          "name": "PiMP WiLLIAM",
+          "url": "https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "CAMINHO",
+      "url": "https://open.spotify.com/track/6RBXW3uCwhNTLD93otZxxa"
+    },
+    {
+      "album": {
         "name": "CAMISA 10",
         "url": "https://open.spotify.com/album/5YYGon907kqPU1cX4yk26X"
       },
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 178306,
       "name": "Covarde",
       "url": "https://open.spotify.com/track/46eQeBAfMd4YHmSqPRUMvh"
@@ -4244,7 +4280,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 172509,
       "name": "Despertador",
       "url": "https://open.spotify.com/track/4rTczM6uL7w3tJKjTIUzza"
@@ -8221,6 +8257,24 @@
     },
     {
       "album": {
+        "name": "MACARENA",
+        "url": "https://open.spotify.com/album/7ty9Xxv3eKUbV8T0GgHkYk"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179491,
+      "name": "MACARENA",
+      "url": "https://open.spotify.com/track/6RaAAkvAtTumYtXU5RfgUM"
+    },
+    {
+      "album": {
         "name": "Made in West",
         "url": "https://open.spotify.com/album/2EbisW5bGVU1EGJlfKY2qy"
       },
@@ -9128,7 +9182,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 153065,
       "name": "Monumentos",
       "url": "https://open.spotify.com/track/08q46DVWUmo3YqzoigFatO"
@@ -10597,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "O Tal",
+        "url": "https://open.spotify.com/album/3FrmXjEhqHZiu7Ijmvge5Y"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111538,
+      "name": "O Tal",
+      "url": "https://open.spotify.com/track/6yoxi6tqWQFJR45OAuIpLZ"
+    },
+    {
+      "album": {
         "name": "Oito Cinco Stilo #5",
         "url": "https://open.spotify.com/album/106e5P9QTJ7CWsNum1o5qe"
       },
@@ -11002,7 +11074,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 264727,
       "name": "Pai Nosso",
       "url": "https://open.spotify.com/track/2Wt9Xg5ANi2brf6MMFZCVG"
@@ -11238,10 +11310,6 @@
         {
           "name": "Pta",
           "url": "https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA"
-        },
-        {
-          "name": "Dbraz",
-          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
         },
         {
           "name": "Phenom",
@@ -11796,7 +11864,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 210256,
       "name": "Povo",
       "url": "https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3"
@@ -14306,7 +14374,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 148500,
       "name": "Teu",
       "url": "https://open.spotify.com/track/5HdMSx8j5VOxgMs8ckghnf"
@@ -15395,6 +15463,28 @@
     },
     {
       "album": {
+        "name": "VIDA RASA",
+        "url": "https://open.spotify.com/album/2Q8MefBLYO7ZIvp03qD9Ab"
+      },
+      "artists": [
+        {
+          "name": "PK",
+          "url": "https://open.spotify.com/artist/59hToCjzX8t2d3Xa4y069d"
+        },
+        {
+          "name": "STEF4N",
+          "url": "https://open.spotify.com/artist/00tCanu6d5DwGrp8adzYf9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166415,
+      "name": "VIDA RASA",
+      "url": "https://open.spotify.com/track/44B0mpzmcDlq3xsJJJznBa"
+    },
+    {
+      "album": {
         "name": "Vim do Norte",
         "url": "https://open.spotify.com/album/5nl2suSuueLFypTEAph2Vf"
       },
@@ -15864,6 +15954,28 @@
       "duration_ms": 204444,
       "name": "\u00c1gua do Crime",
       "url": "https://open.spotify.com/track/25UEoprN5VsvSzdFX3wBO5"
+    },
+    {
+      "album": {
+        "name": "\u00c1lcool & Prazer",
+        "url": "https://open.spotify.com/album/0XeovriAuYVi3f2yyHGv70"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "\u00c1lcool & Prazer",
+      "url": "https://open.spotify.com/track/2qBcNRJBCID8n68NZWbh1S"
     },
     {
       "album": {

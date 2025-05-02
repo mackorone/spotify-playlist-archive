@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 189428,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
@@ -7808,10 +7808,32 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 223124,
       "name": "Miku",
       "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
+    },
+    {
+      "album": {
+        "name": "Mind Of A Warrior",
+        "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172922,
+      "name": "Mind Of A Warrior",
+      "url": "https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ"
     },
     {
       "album": {
@@ -8522,7 +8544,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 133600,
       "name": "OIIA OIIA (Spinning Cat)",
       "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
@@ -9698,7 +9720,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 154285,
       "name": "Redline",
       "url": "https://open.spotify.com/track/1EGvXMXx8SGLJKTuJ4MJcK"
@@ -10090,6 +10112,24 @@
       "duration_ms": 148244,
       "name": "RUN!",
       "url": "https://open.spotify.com/track/5TuIVd6zQpH5BPBq21ALpQ"
+    },
+    {
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "album": {

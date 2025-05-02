@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Tiwa Savage",
+  "description": "Tracks popping off in the Afro scene. Cover:  Emma'a",
   "name": "Afro Station",
   "tracks": [
+    {
+      "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/6ebZCGvcdZ1YG8kGygdahG"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/3nSqcUglgyOF0sE7e0fF4U"
+    },
     {
       "album": {
         "name": "R2 Sept 12",
@@ -712,7 +730,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 152472,
       "name": "Andale",
       "url": "https://open.spotify.com/track/5AB3axTwvYRnL0XpXVKL6v"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 172873,
       "name": "Ay\u00e9y\u00e9 (Nous aussi)",
       "url": "https://open.spotify.com/track/5plaS1KMurXqa2YdgaTSo2"
@@ -1441,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Balade",
+        "url": "https://open.spotify.com/album/5cZOvoT5waPwUnBRIxChVZ"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175591,
+      "name": "Balade",
+      "url": "https://open.spotify.com/track/4RmmGIxSv82Tr9Bi5lkOQh"
+    },
+    {
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/5kcBkleDp2ajk9SknSxZo9"
       },
@@ -1636,7 +1672,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 182000,
       "name": "Behind (with Joshua Baraka)",
       "url": "https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP"
@@ -1990,7 +2026,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 161280,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/44BwZ1yRDa8hWt5hFXAkwb"
@@ -4151,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/3j7sqSA1OoIP7QLFvexIgD"
+      },
+      "artists": [
+        {
+          "name": "KODEE",
+          "url": "https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154966,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/5KjvqlMzuCa3FoMJmco5eI"
+    },
+    {
+      "album": {
         "name": "D\u00e8s l'matin",
         "url": "https://open.spotify.com/album/6YLuPziACioeJsxR9VC1Fw"
       },
@@ -5014,7 +5068,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 166468,
       "name": "Felonie - Remix",
       "url": "https://open.spotify.com/track/1dCTL1OPCijWyB1QLQZg2R"
@@ -6311,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "ROOKIES don\u2019t sound this good",
+        "url": "https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139363,
+      "name": "How Much",
+      "url": "https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT"
+    },
+    {
+      "album": {
         "name": "I Dey Slide",
         "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
       },
@@ -7279,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "KiLELE",
+        "url": "https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158944,
+      "name": "KiLELE",
+      "url": "https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT"
+    },
+    {
+      "album": {
         "name": "Young Kingz II",
         "url": "https://open.spotify.com/album/7Il92ktSZCVhB1LIyViwn4"
       },
@@ -7704,7 +7794,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 134782,
       "name": "Libert\u00e9",
       "url": "https://open.spotify.com/track/41MzmggjPNkHXHQDHB2PwA"
@@ -7886,6 +7976,24 @@
       "duration_ms": 168000,
       "name": "LIL BOOTYS MATTER (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb"
+    },
+    {
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/5Uk5oD7ERsOZ05QpV5i6bH"
+      },
+      "artists": [
+        {
+          "name": "Faydon",
+          "url": "https://open.spotify.com/artist/7B38UkvovXdPVzCsKel6zg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5hswX3BbAnas7QLGuSSRqH"
     },
     {
       "album": {
@@ -9682,6 +9790,24 @@
       "duration_ms": 186484,
       "name": "M\u00e9lodie c\u00e9leste",
       "url": "https://open.spotify.com/track/218nzWjXyhtYlAlUXT329G"
+    },
+    {
+      "album": {
+        "name": "Naboyi",
+        "url": "https://open.spotify.com/album/2t7iShbt1jUTDg9sZBKyrp"
+      },
+      "artists": [
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/44ga4npdjaqD4WGUt8oXXV"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128606,
+      "name": "Naboyi",
+      "url": "https://open.spotify.com/track/41yq0KkAIAbNPFJ7IhnJw3"
     },
     {
       "album": {
@@ -12244,7 +12370,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 153355,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK"
@@ -12674,6 +12800,28 @@
       "duration_ms": 128034,
       "name": "Simba",
       "url": "https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"
+    },
+    {
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/6CKRtVzH77QIb6FFXPQIlb"
+      },
+      "artists": [
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        },
+        {
+          "name": "AMANi",
+          "url": "https://open.spotify.com/artist/1sQLw35hDRaCMyfWODi2vl"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Sixth Sense Ft. AMANi",
+      "url": "https://open.spotify.com/track/6mwss5opb48PmLi1wf9H2I"
     },
     {
       "album": {
@@ -14580,7 +14728,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
@@ -15098,7 +15246,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 168894,
       "name": "YA BABA",
       "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
@@ -15316,6 +15464,24 @@
       "duration_ms": 157894,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
+    },
+    {
+      "album": {
+        "name": "\u00c7a m'a laiss\u00e9",
+        "url": "https://open.spotify.com/album/7k8wa4qkm15nGIIgojJA9B"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136520,
+      "name": "\u00c7a m'a laiss\u00e9",
+      "url": "https://open.spotify.com/track/2Eq1F0m1GNynZRHFBA8fOJ"
     },
     {
       "album": {

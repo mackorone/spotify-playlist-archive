@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara, Gilga Sahid",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 286891,
       "name": "Aku Po Dek e",
       "url": "https://open.spotify.com/track/1VQ7j2h4iH6eUdHncaUebz"
@@ -635,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Ayang Ayang (Live)",
+        "url": "https://open.spotify.com/album/32Yxv4vAU9FSrNV4fSeMGY"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468000,
+      "name": "Ayang Ayang - Live",
+      "url": "https://open.spotify.com/track/613grHxBpiCDL5Z1B6HJnO"
+    },
+    {
+      "album": {
         "name": "Ayang-Ayang",
         "url": "https://open.spotify.com/album/2rlMRT348VvboFHosOk1Wf"
       },
@@ -896,7 +918,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 364800,
       "name": "Blong",
       "url": "https://open.spotify.com/track/104yDSU2OaFlguR4VSQHNk"
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 235846,
       "name": "Kapusan",
       "url": "https://open.spotify.com/track/3wSdgNJVOdyc00wE1Cn1V4"
@@ -3370,6 +3392,24 @@
       "duration_ms": 255508,
       "name": "Korban Janji",
       "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
+    },
+    {
+      "album": {
+        "name": "Koyo Jogja Istimewa",
+        "url": "https://open.spotify.com/album/08gRcFKWMKnfJStsR2JtA1"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Koyo Jogja Istimewa",
+      "url": "https://open.spotify.com/track/1gFZA3oXbbApLCzQKEu6z5"
     },
     {
       "album": {
@@ -5736,7 +5776,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 285120,
       "name": "Padahal Aku Tulus",
       "url": "https://open.spotify.com/track/19BTVbtFnDAzb9BqDlQdJA"

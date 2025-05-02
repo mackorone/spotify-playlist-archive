@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,186 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,338 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 17 | [The Underground](https://open.spotify.com/track/725XQpVXQxik8j47abPZqC) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [The Underground](https://open.spotify.com/album/12oFVkkviJ2Zq4nF6e5fDH) | 3:36 |
 | 18 | [K.E.T\. \- Amine Mix](https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 2:42 |
 | 19 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 |
-| 20 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
+| 20 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
 | 21 | [Malfunktion](https://open.spotify.com/track/1rNUdaRCaO0ibxHBac9IAk) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Malfunktion](https://open.spotify.com/album/7Hm8E2Z9NkBAUSGhjycF1H) | 3:01 |
 | 22 | [At Ya](https://open.spotify.com/track/5jIVm6J1OZZKuBom69BsaK) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [At Ya](https://open.spotify.com/album/4z0xuZlj0MGgBqB7pmCUUQ) | 3:04 |
 | 23 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |

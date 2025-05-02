@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-849 songs - 1 day 12 hr 51 min
+851 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Fading Away](https://open.spotify.com/track/7jQ1vlGPE6FzQSNCnCsM2v) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Fading Away](https://open.spotify.com/album/1f7mXbl2NCkRqZlDGyxD4l) | 2:10 | 2023-09-22 | 2024-07-31 |
 | [Fading Away](https://open.spotify.com/track/6U8OBu33l76fnBTVJZOd6G) | [Toutounji](https://open.spotify.com/artist/1QDg1LnUhhUMyU4re9ol0K), [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Fading Away](https://open.spotify.com/album/5Ac28BVOrQEfj0kR0oMsBL) | 2:28 | 2025-04-21 | 2025-04-28 |
 | [Fairytale](https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Fairytale](https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy) | 2:18 | 2024-05-27 | 2024-06-23 |
+| [Falling Down](https://open.spotify.com/track/585iQsbWPJXB23K9YAeWQS) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [bayme](https://open.spotify.com/artist/4HKpzTZHxjzhpAJxEZu5Oc) | [Falling Down](https://open.spotify.com/album/3SN52u4Qa6j2b77E9wUrPm) | 2:42 | 2025-05-01 |  |
 | [Falling For U](https://open.spotify.com/track/6rCxqr2pNnYjED5fjPxCsy) | [Jeramah](https://open.spotify.com/artist/2Yi9vHsxsd29sWGr9Jj0e2) | [Falling For U](https://open.spotify.com/album/2IhbdPQaMMmVY4qVyxQx9J) | 2:52 | 2024-06-24 | 2024-07-22 |
 | [Falling For You](https://open.spotify.com/track/2ftHuVrHLl4HkBQfdBmj59) | [Gobi](https://open.spotify.com/artist/7HVeJy9nWQU8jtIxV7poaF) | [Falling For You](https://open.spotify.com/album/14panjJnZTXVIxMwxQ8eHX) | 2:30 | 2024-08-18 | 2024-09-09 |
 | [Falling In Love](https://open.spotify.com/track/2a8Pzj0iurArPqFrig3op9) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Matthew Abapo](https://open.spotify.com/artist/3x9F6VXefKXbu0iNEChJvb) | [Falling In Love](https://open.spotify.com/album/74Azuc2PrBMthPSWUtQN7c) | 3:08 | 2023-12-04 | 2025-03-15 |
@@ -414,6 +415,7 @@
 | [light on](https://open.spotify.com/track/6L0ofQJUzCgcKGojFR4xl1) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [light on](https://open.spotify.com/album/5HO1TtZm5RlnnjyzwmamB0) | 3:05 | 2024-02-04 | 2024-05-13 |
 | [Light The Fire](https://open.spotify.com/track/3dsZxg7aSfVf1N5s5FERKq) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Cession](https://open.spotify.com/artist/6jQxnDzHiCsFrLlH5gV5Uh) | [Light The Fire](https://open.spotify.com/album/2nmW2yRtovKadm6Yak2TiH) | 2:32 | 2025-04-21 |  |
 | [Light Up](https://open.spotify.com/track/3gMOvvmQCVwhdHZREkBSMn) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Light Up](https://open.spotify.com/album/6tyv8yEMeYQfL3M1Srnw7l) | 2:12 | 2024-06-23 | 2024-07-29 |
+| [Lighthouse](https://open.spotify.com/track/37axu2VsGoqx22HlmgjymG) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [BYANCA](https://open.spotify.com/artist/1q5vU0S7GQvakzOZt0bQ2P) | [Lighthouse](https://open.spotify.com/album/6mUi5YKEEUm0NgbuPPooHY) | 2:07 | 2025-05-01 |  |
 | [Lights](https://open.spotify.com/track/4l1XdASpI6Tx8i9dPPthD0) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E) | [Lights](https://open.spotify.com/album/1aVEoGdNrgYwyVl2srt9qi) | 2:40 | 2025-04-21 |  |
 | [Lights Go Out](https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD) | [We Architects](https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Lights Go Out](https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm) | 2:36 | 2024-11-10 |  |
 | [Like a Mystery](https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Like a Mystery](https://open.spotify.com/album/2A56tnGbitndWfuakU2QKU) | 2:18 | 2023-09-22 | 2025-04-28 |

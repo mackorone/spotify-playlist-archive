@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=5E7M0TMXRR2r60CuEAlLEQ\">Riaan Benad\u00e9</a> en <a href=\"https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=XXAWBmfvTKOXvYpAdhh9zA\">Ricus Nel</a>",
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=9iNevV4ARmypHnmJy8YQhw\">Brendan Peyper</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Bitterblou",
+        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212095,
+      "name": "Bitterblou",
+      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
+    },
+    {
+      "album": {
         "name": "Boer In My Hart",
         "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
       },
@@ -598,6 +616,24 @@
       "duration_ms": 203000,
       "name": "Braaibroodjies",
       "url": "https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz"
+    },
+    {
+      "album": {
+        "name": "Brand",
+        "url": "https://open.spotify.com/album/31NYcCU26A7NutXOIsfM2q"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Brand",
+      "url": "https://open.spotify.com/track/0n8AJV8zUCY9NX4z2DMq9z"
     },
     {
       "album": {
@@ -1548,6 +1584,24 @@
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
+    },
+    {
+      "album": {
+        "name": "Haar Naam Is Afrikaans",
+        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Haar Naam Is Afrikaans",
+      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
     },
     {
       "album": {
@@ -4119,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Skud",
+        "url": "https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179195,
+      "name": "Skud",
+      "url": "https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM"
+    },
+    {
+      "album": {
         "name": "OASE",
         "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
       },
@@ -5020,6 +5092,24 @@
       "duration_ms": 230581,
       "name": "Wat De Hel",
       "url": "https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e"
+    },
+    {
+      "album": {
+        "name": "Wat Ek Wil Hoor",
+        "url": "https://open.spotify.com/album/5CAqw8LhiLMVgldhcGUU04"
+      },
+      "artists": [
+        {
+          "name": "Ryk Kleinhans",
+          "url": "https://open.spotify.com/artist/7Mqa0OsJfdlr4CrKGah5NV"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208260,
+      "name": "Wat Ek Wil Hoor",
+      "url": "https://open.spotify.com/track/4Ru287GBQTvVF7PJ9ydWQO"
     },
     {
       "album": {

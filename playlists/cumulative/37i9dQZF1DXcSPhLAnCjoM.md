@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Reflet" de M\. Pokora est le Grand Hit de la semaine.
+> "Hallelujah" de Vianney est le Grand Hit de la semaine.
 
-247 songs - 12 hr 40 min
+248 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Le jeu](https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Le jeu](https://open.spotify.com/album/2v6gZqCcuHtBtk9FTx9adP) | 3:21 | 2025-01-16 |  |
 | [Le monde demain \- Version radio](https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Le monde demain \(Version radio\)](https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz) | 3:18 | 2025-01-23 |  |
 | [Le Sel](https://open.spotify.com/track/43rdMqCH841Sm8g134ml7n) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [Le Sel](https://open.spotify.com/album/5X7DBWG3PvhoOzpXaT3YBQ) | 3:26 | 2024-03-07 | 2024-05-10 |
-| [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 | 2025-01-09 |  |
+| [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 | 2025-01-09 | 2025-05-02 |
 | [Le tour du monde](https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Le tour du monde](https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim) | 2:30 | 2024-06-06 | 2024-09-13 |
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-25 | 2024-10-04 |
 | [Les bougies](https://open.spotify.com/track/4VqILOLkQsyp2ZLvTQpouZ) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 3:38 | 2024-01-25 | 2024-03-08 |
@@ -253,6 +253,7 @@
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |
 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 | 2024-01-25 | 2024-03-01 |
+| [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 |  |
 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-08-01 | 2024-09-13 |
 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-10-24 | 2025-03-07 |
 

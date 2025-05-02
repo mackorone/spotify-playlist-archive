@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-265 songs - 14 hr 25 min
+266 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Under the starlight \(feat\. gayon1mo, Leff\)](https://open.spotify.com/track/4Q4HGuQn3hl9jmYCJXPX9H) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [gayon1mo](https://open.spotify.com/artist/1oZXmOiAhf8LDBooBpUyHY), [Leff](https://open.spotify.com/artist/43JfM0mbZHC2iw9SJYqqPy) | [2021 Works: 02](https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK) | 3:12 | 2022-05-03 | 2022-07-15 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [VANESSA](https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:18 | 2022-05-03 | 2022-07-12 |
-| [Victoria′s Secret 2 \(Feat\. Hash Swan\)](https://open.spotify.com/track/6djMf53RfyNS75YJ39El6T) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Buck Foys Only](https://open.spotify.com/album/3f4uZC5fLYa6WvMge09yr3) | 2:55 | 2025-03-04 |  |
+| [Victoria′s Secret 2 \(Feat\. Hash Swan\)](https://open.spotify.com/track/6djMf53RfyNS75YJ39El6T) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Buck Foys Only](https://open.spotify.com/album/3f4uZC5fLYa6WvMge09yr3) | 2:55 | 2025-03-04 | 2025-05-02 |
 | [VLACK N VLUE](https://open.spotify.com/track/2ymij4pGcq8mL1NyGIpAGw) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 3:24 | 2022-06-09 | 2022-07-24 |
 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 | 2022-05-03 | 2024-08-11 |
 | [Walk along](https://open.spotify.com/track/5Sv8HzkZnp3L7oBOHTPvKb) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Walk along](https://open.spotify.com/album/0hT3EUgHkR9uks37SlT7bI) | 3:23 | 2022-05-03 | 2022-07-14 |
@@ -268,6 +268,7 @@
 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2022-07-08 | 2023-12-11 |
 | [You and I](https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1) | 2:40 | 2022-05-03 | 2022-07-24 |
 | [YOU KNOW \(Feat\. Okasian\)](https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:04 | 2022-07-08 | 2024-04-19 |
+| [You're Sexy I'm Sexy](https://open.spotify.com/track/3fuFU8XFpSUKmcwnx78IpP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Before We Begin](https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW) | 3:07 | 2025-05-02 |  |
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-08-10 |  |
 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 | 2024-03-08 | 2024-08-28 |
 | [밤밤밤 2:30 am](https://open.spotify.com/track/2Jt5DoVuJ4PIBiBlg8fUXM) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [밤밤밤 2:30 am](https://open.spotify.com/album/5n0TI35HW4A42CqPtbcQoj) | 3:11 | 2022-05-03 | 2022-07-29 |

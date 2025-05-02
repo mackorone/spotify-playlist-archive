@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-563 songs - 1 day 8 hr 25 min
+564 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 | 2024-04-13 | 2024-05-16 |
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
 | [Blimps Go 90](https://open.spotify.com/track/6HuETBwV7SXoJueNMWVMBE) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:40 | 2025-04-30 |  |
+| [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 | 2025-05-01 |  |
 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 | 2025-04-02 |  |
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 | 2024-07-12 |
 | [Breaking](https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Breaking](https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm) | 3:24 | 2024-06-17 | 2024-07-12 |

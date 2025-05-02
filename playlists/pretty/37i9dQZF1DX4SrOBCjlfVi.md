@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Young Thug, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,877 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,000 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 9 | [ITS A FEE](https://open.spotify.com/track/5uGLdWkqGSE2DPDPasVp0k) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [ITS A FEE](https://open.spotify.com/album/6FVOnrqhJCtkCbVL8V79Iq) | 2:20 |
 | 10 | [IMMA RIDE 4 YOU](https://open.spotify.com/track/1JPKeahg89aOPJYGa0JDFC) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [IMMA RIDE 4 YOU](https://open.spotify.com/album/4zxAi0dtCJUamEPfMxEtGn) | 2:26 |
 | 11 | [Dead Body](https://open.spotify.com/track/7yT8OCnOJ9oFajVE6RVPm4) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Dead Body](https://open.spotify.com/album/3CmdAlFQ7GR1xZdsIi2ULD) | 2:42 |
-| 12 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
+| 12 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
 | 13 | [Phone Ring \(with Benny The Butcher and Maxo Kream\)](https://open.spotify.com/track/0ypqbEoW7tEKMCwZnSq079) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Phone Ring](https://open.spotify.com/album/2vjFRerPJlqKehVhStJPhn) | 2:31 |
 | 14 | [Do Sum With It](https://open.spotify.com/track/715jl4rMm36KxLa2o5rubV) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Do Sum With It](https://open.spotify.com/album/2Esif4QEmiw6PQ3O6qdYNl) | 3:31 |
 | 15 | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ) | 3:05 |

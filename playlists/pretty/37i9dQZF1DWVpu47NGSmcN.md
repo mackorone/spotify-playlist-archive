@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Avolia
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,842 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,844 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 30 | [Adam & Eve](https://open.spotify.com/track/5txWStKQL5pHbFFiNfZFmB) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:25 |
 | 31 | [Pada Suatu Hari](https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 3:53 |
 | 32 | [Sesal](https://open.spotify.com/track/6i3uftr9aQf4u2R8szaD9y) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 4:54 |
-| 33 | [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 33 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 34 | [Bahagia Tanpaku](https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Bahagia Tanpaku](https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK) | 4:12 |
 | 35 | [Tak Istimewa](https://open.spotify.com/track/6qOo1WwuLQOzByhHeUdnZi) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Menata](https://open.spotify.com/album/1YnC9MS79GmZqLQ7YHElCW) | 4:21 |
 | 36 | [Seribu Pelukan](https://open.spotify.com/track/1hJTAqeobG7hQEavj8PUjO) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Seribu Pelukan](https://open.spotify.com/album/2l6X7rCdAjVmUG0KzbfhEW) | 3:53 |

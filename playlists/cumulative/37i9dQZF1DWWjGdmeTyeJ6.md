@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: Stuzzi, Artwork: Isu Kim
 
-8,130 songs - 18 day 8 hr 49 min
+8,131 songs - 18 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3994,6 +3994,7 @@
 | [LAMBO + NIC](https://open.spotify.com/track/6POc3AEMEl3jXMe90cFY1t) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [Your Stepdad](https://open.spotify.com/album/2NpZdzeE7qiT1irfRkA3IO) | 1:31 | 2024-05-15 | 2024-05-23 |
 | [Land of the Living](https://open.spotify.com/track/53SeSYTpjW2jBzDdrqEk9D) | [Jackie Lee](https://open.spotify.com/artist/25MYbTsDB9aQ70l6VqNKOR) | [Land of the Living](https://open.spotify.com/album/5TFXCJSrunPQO9xqrzQvMq) | 3:26 | 2024-04-10 | 2024-04-25 |
 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 | 2024-10-23 | 2024-12-05 |
+| [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 | 2025-05-01 |  |
 | [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-22 | 2024-06-20 |
 | [Landslide](https://open.spotify.com/track/7tTiA7pLQxG48C6Q38wON4) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Is that all there is?](https://open.spotify.com/album/3WA9g8iYSTJQm2FuBM75p3) | 2:59 | 2023-04-12 | 2023-04-27 |
 | [Landslide](https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr), [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Landslide](https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD) | 2:54 | 2024-09-11 | 2024-10-03 |
@@ -6278,7 +6279,7 @@
 | [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-10 |  |
 | [Signs](https://open.spotify.com/track/7AvTPx8xgskqHbtqttWwqT) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Signs / 22](https://open.spotify.com/album/2MM43V9DGUGU3ownGsT0c2) | 5:16 | 2022-10-12 | 2022-10-20 |
 | [Silencios](https://open.spotify.com/track/0Xt5hYcMixcTvxRohl5pxj) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Naranja Agria](https://open.spotify.com/artist/3FVK9kOu1fGKGYuAuzOEeu) | [Silencios](https://open.spotify.com/album/0OQflUunTrh7VUSRgt1p9h) | 2:45 | 2024-11-06 | 2025-01-16 |
-| [Silent Corners](https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Silent Corners](https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH) | 4:06 | 2025-03-28 |  |
+| [Silent Corners](https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Silent Corners](https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH) | 4:06 | 2025-03-28 | 2025-05-02 |
 | [Silent Movie](https://open.spotify.com/track/6W85fbQbVmKkEQs1W88vQK) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Silent Movie](https://open.spotify.com/album/1ZeT3LQu8fgK6Qc3BZX3CY) | 2:16 | 2022-04-06 | 2022-04-14 |
 | [Silent Talking](https://open.spotify.com/track/2iA8xytD9YOCHLwb0Gyjl7) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [Silent Talking / White Divide](https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm) | 5:36 | 2022-01-12 | 2022-01-20 |
 | [Silly Heaux](https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr) | [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Silly Heaux](https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA) | 2:10 | 2023-05-03 | 2023-05-11 |

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: 韋禮安& 東海
+> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
 
-183 songs - 12 hr 12 min
+187 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2022-03-10 | 2022-07-29 |
 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 | 2022-03-10 | 2023-02-03 |
+| [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 |  |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-03 |  |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-04-03 |  |
 | [但願人長久](https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 4:19 | 2023-02-02 | 2025-04-04 |
@@ -77,6 +78,7 @@
 | [嗵嗵](https://open.spotify.com/track/2XP3hbbZKRhrlSBf8POjuA) | [DOUDOU](https://open.spotify.com/artist/0ctojL7wBYi3YJ4mNWeXcC) | [嗵嗵](https://open.spotify.com/album/4N0gVumgPBUJ135KBrmQyM) | 4:23 | 2025-04-03 |  |
 | [囍帖街](https://open.spotify.com/track/4Bftk2JcO5Ul017BCmcBL4) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 4:27 | 2024-04-04 | 2025-04-04 |
 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 | 2025-04-03 |  |
+| [多少人](https://open.spotify.com/track/7cnqWJpFd6S9m4d3k9o0mX) | [David Lui](https://open.spotify.com/artist/6CexlJ1wj79N50NMxRBfUa) | [多少人](https://open.spotify.com/album/1Ad4LjykfjgGUsn5EsjXtK) | 4:28 | 2025-05-01 |  |
 | [夢伴](https://open.spotify.com/track/1CrRwZz4ODSKQhhUIuy27K) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [All Time Favourites](https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp) | 3:26 | 2024-04-04 | 2025-04-04 |
 | [失戀太少 \(伊館紀念版\)](https://open.spotify.com/track/4zmqKCo5p7DIAZtSEfeizu) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [失戀太少 \(伊館紀念版\)](https://open.spotify.com/album/3xskNhnybwHl4oMOgl2OzZ) | 4:15 | 2023-02-02 | 2025-04-04 |
 | [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2022-03-10 | 2023-02-03 |
@@ -85,6 +87,7 @@
 | [如果每天都可以 happy happy 誰想要sad:\)\)](https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 4:28 | 2025-04-03 |  |
 | [妳的名字我的姓氏](https://open.spotify.com/track/2mmmlbh573ldSbEIHM16gf) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 3:45 | 2023-02-02 | 2025-04-04 |
 | [完美的大人呐](https://open.spotify.com/track/2ABTH5CySaSPE8VRVQ9VCM) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [完美的大人呐](https://open.spotify.com/album/1ZOcpGeEqHRbgA1qQ2fIr9) | 3:02 | 2025-04-24 |  |
+| [寫未來的日記](https://open.spotify.com/track/1RLEvfI0JQSXq1eMpZDIEV) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [寫未來的日記](https://open.spotify.com/album/6YIHCpy7HvduSrx7FA03tp) | 3:58 | 2025-05-01 |  |
 | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/track/0Q3KCpiyisGcVyEh4I5LBT) | [黃劍文](https://open.spotify.com/artist/7ttdhAuwRlmHaRDUU4WRk2) | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/album/2GQFBMygsXGKDE6ZVyhLNb) | 4:07 | 2022-03-10 | 2023-02-03 |
 | [小黑與我](https://open.spotify.com/track/2vD2zwXVdGrF7ZaSK7XcF3) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Infinity Journey](https://open.spotify.com/album/43A14wOfi59SPQGbIoRCia) | 3:53 | 2023-02-02 | 2025-04-04 |
 | [彩虹桥](https://open.spotify.com/track/5g9oMoqEjZ6r55WPEenymW) | [MAD](https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze) | [彩虹桥](https://open.spotify.com/album/7wLSWh0Hcjuk17ULOnPbb9) | 4:08 | 2025-04-03 |  |
@@ -147,6 +150,7 @@
 | [爱错](https://open.spotify.com/track/1B0fMGDb0AT5gajmcyxG3Z) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [爱错](https://open.spotify.com/album/30nOH9BMN0LM4MSXYnQU43) | 3:27 | 2025-04-03 |  |
 | [牆紙 \- Dear Jane Studio Live](https://open.spotify.com/track/7rML5aT5sPdTpiQsc8CVnU) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:33 | 2024-04-04 | 2025-04-04 |
 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 | 2023-02-02 | 2025-04-04 |
+| [生命線 \- 電視劇《院長爸爸》片頭曲](https://open.spotify.com/track/3ZuyyfGJqx9qhWTVtdMCWz) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [生命線 \(電視劇《院長爸爸》片頭曲\)](https://open.spotify.com/album/1LKR2MjbBCC7oemVqEVcGv) | 3:30 | 2025-05-01 |  |
 | [當我們的手勇敢緊握 \-《戀愛無名氏2》主題曲 \(同志音樂愛情故事系列\)](https://open.spotify.com/track/7caHK6TGgZNCPAwKtGWYtq) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [當我們的手勇敢緊握 \-《戀愛無名氏2》主題曲 \(同志音樂愛情故事系列\)](https://open.spotify.com/album/4dZzEDQdvx3KE0OVv4rqBy) | 3:15 | 2022-03-10 | 2023-02-03 |
 | [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 | 2025-04-03 |  |
 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 | 2022-03-10 | 2023-02-03 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,954 songs - 5 day 1 hr 37 min
+1,955 songs - 5 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 | 2022-07-08 |
 | [AXCLUSION](https://open.spotify.com/track/3IoEPFAuWiKLQNsp3m8tER) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [AXCLUSION](https://open.spotify.com/album/1nsAZF1G9RM9PUsJ0xfyVN) | 3:53 | 2025-04-24 |  |
 | [AYAKASHI](https://open.spotify.com/track/40D40mGv2lXuzfYQZ31Sbi) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [AYAKASHI](https://open.spotify.com/album/497ObhZCX5eRkc0oWFGDhY) | 3:56 | 2023-07-04 | 2023-07-26 |
-| [Baby Baby Baby](https://open.spotify.com/track/5OoXJNn3yWExdzcdndyGCc) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU), [Bonjour Suzuki](https://open.spotify.com/artist/3DNuPdlD8aYL6F9WqYsIN1) | [Baby Baby Baby](https://open.spotify.com/album/57JDFTIX9i1ivAmd3UayiQ) | 4:18 | 2025-04-03 |  |
+| [Baby Baby Baby](https://open.spotify.com/track/5OoXJNn3yWExdzcdndyGCc) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU), [Bonjour Suzuki](https://open.spotify.com/artist/3DNuPdlD8aYL6F9WqYsIN1) | [Baby Baby Baby](https://open.spotify.com/album/57JDFTIX9i1ivAmd3UayiQ) | 4:18 | 2025-04-03 | 2025-05-02 |
 | [Backbone](https://open.spotify.com/track/42muqtulD0P6wVTDXdBI24) | [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [.MAD TRIGGER CREW](https://open.spotify.com/album/3BChtlUGl3RGIjMSp5MLul) | 3:11 | 2024-07-23 | 2024-08-14 |
 | [Bad Kids All Bet](https://open.spotify.com/track/0y5QgAAEZoqStDtz5XGJlV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Bad Kids All Bet](https://open.spotify.com/album/2Yb6OebNGpCjyTf4dddU7A) | 3:48 | 2025-01-07 | 2025-02-12 |
 | [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 | 2023-07-11 | 2023-07-28 |
@@ -218,7 +218,7 @@
 | [Dear](https://open.spotify.com/track/4W9BxUfU79YRBFoXNcKIEW) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [デビュー5周年記念3rdフルアルバム Dear](https://open.spotify.com/album/43ybT5CpdqElqvYXvmxvFO) | 5:01 | 2023-04-11 | 2023-04-13 |
 | [Dear](https://open.spotify.com/track/6S0iISRQW7TK8OM3gN3NyE) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 5:01 | 2023-04-11 | 2023-06-21 |
 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 | 2023-01-10 | 2023-04-09 |
-| [Dear my Soleil](https://open.spotify.com/track/2YCWbquAFlXQEXxFNGVRF0) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Dear my Soleil](https://open.spotify.com/album/63oujAbKWvxJ1BmcHX4HoF) | 3:37 | 2025-04-15 |  |
+| [Dear my Soleil](https://open.spotify.com/track/2YCWbquAFlXQEXxFNGVRF0) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Dear my Soleil](https://open.spotify.com/album/63oujAbKWvxJ1BmcHX4HoF) | 3:37 | 2025-04-15 | 2025-05-02 |
 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 | 2024-01-07 | 2024-04-05 |
 | [Dear sunrise](https://open.spotify.com/track/57mopUqNsZnzq1ZCxFvGjz) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/4XNHEY7YCECYRoQ0ESgpsu) | 3:41 | 2024-04-10 | 2024-07-08 |
 | [Decided \- TV Ver.](https://open.spotify.com/track/5rynUgMeny61eYuypw44eG) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Decided \(TV Ver.\)](https://open.spotify.com/album/2bpsGGYNMrK0Iw2dDN2eyQ) | 1:31 | 2023-03-28 | 2023-04-09 |
@@ -1630,6 +1630,7 @@
 | [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/2wN2axCnXxq2QuVzySGCb5) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 | 2024-01-23 | 2024-02-07 |
 | [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 | 2024-01-25 |
 | [夜が明けるまで](https://open.spotify.com/track/7eM3NkGhnQnABZegom9RYB) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [夜が明けるまで](https://open.spotify.com/album/2i8dEumFe1lh5RpCrN92gm) | 4:14 | 2024-07-03 | 2024-10-04 |
+| [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 | 2025-05-01 |  |
 | [夜の隨](https://open.spotify.com/track/0IF5BsLOfAci36XV4bRmUm) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [夜の隨](https://open.spotify.com/album/72ih6FEHpARwnU03LMtA00) | 3:34 | 2024-07-03 | 2024-07-31 |
 | [夜明けのバス停](https://open.spotify.com/track/155LBRYos91aUEQ4cR1Xfd) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [文学少女の歌集Ⅲ\-文学少女と夜明けのバス停\-](https://open.spotify.com/album/47889iRswOSEolfMkkxYUg) | 3:35 | 2024-07-03 | 2024-07-19 |
 | [夜明けの歌](https://open.spotify.com/track/5rvMFj7eDWPG5kv8yjoBMs) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [夜明けの歌](https://open.spotify.com/album/1crURksRxJP5uQuuH55m0w) | 3:49 | 2025-01-14 | 2025-01-22 |

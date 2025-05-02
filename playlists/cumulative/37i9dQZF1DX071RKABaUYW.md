@@ -2,9 +2,9 @@
 
 ### [The Basement](https://open.spotify.com/playlist/37i9dQZF1DX071RKABaUYW)
 
-> Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Cloth
+> Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Getdown Services
 
-197 songs - 11 hr 7 min
+201 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 | 2024-06-27 | 2025-03-25 |
 | [Dreembaby](https://open.spotify.com/track/6gdAcXYkLZ3zjNf25rlgyG) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Chase Alex](https://open.spotify.com/artist/7cih7BnULkMapW0ddpZywb), [Frescia Belmar](https://open.spotify.com/artist/5Br9mDjd5tgrXrMc4p6z1Y), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Dreembaby](https://open.spotify.com/album/7k2WfJH49S7Qz44477BS5N) | 3:42 | 2024-06-27 | 2024-07-27 |
 | [Dugout](https://open.spotify.com/track/1PIBttOCpRWSYCeJc3cdhc) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Mythomania](https://open.spotify.com/album/3qxzjhDwn0MTFeZmGwjAYV) | 2:00 | 2024-08-22 | 2025-03-25 |
+| [Eat Quiche, Sleep, Repeat](https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi) | 3:53 | 2025-05-01 |  |
 | [Energy](https://open.spotify.com/track/4DjgMXBAdGWwLMyMUXzg80) | [Kumbi](https://open.spotify.com/artist/0AVWv0DycxPoNr2kdOyXjS) | [Energy](https://open.spotify.com/album/2kaQio8ZLQKXSvW06EnWIS) | 2:32 | 2024-06-27 | 2025-03-25 |
 | [everybody must have a fantasy](https://open.spotify.com/track/5T4QzsRE4hSwayRaWljy3n) | [DROZ](https://open.spotify.com/artist/3hg8GIwLfQ60sx8lAunT3S) | [everybody must have a fantasy](https://open.spotify.com/album/4mhhigDgz0HT3x1UVVMgXH) | 3:18 | 2024-08-29 | 2024-11-29 |
 | [Fallen Tree](https://open.spotify.com/track/4zJATlQwsas32VCPwVeOKs) | [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Fallen Tree](https://open.spotify.com/album/3hsEyJ2W1c0RPxpkweiifN) | 3:30 | 2024-11-29 | 2025-04-15 |
@@ -76,6 +77,7 @@
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-27 | 2024-08-23 |
 | [for frank forever](https://open.spotify.com/track/1wZuowFZLyCntcmK9x2R7f) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3c9aCVlawpqzWAKgkEN7P6) | 3:49 | 2024-11-29 | 2024-12-17 |
 | [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-04 | 2025-03-25 |
+| [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 | 2025-05-01 |  |
 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 | 2024-06-27 | 2025-03-25 |
 | [Go](https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Go](https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ) | 2:49 | 2024-06-27 | 2025-03-25 |
 | [Go Easy](https://open.spotify.com/track/7FYNFxoemYwjqcHZuWZOm3) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Go Easy](https://open.spotify.com/album/75RzNNHdffGWRJJ3YAjpGY) | 2:25 | 2024-10-10 | 2025-04-15 |
@@ -94,6 +96,7 @@
 | [I'D DIE](https://open.spotify.com/track/0yNcoilFgen7BHgCTrorLT) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [I'D DIE](https://open.spotify.com/album/48yu1lLl9Rx5HwbojU4dTK) | 4:07 | 2024-11-29 | 2025-03-25 |
 | [I'd Rather Not Think About It](https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Felix](https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 4:23 | 2024-11-29 | 2025-04-15 |
 | [Impression](https://open.spotify.com/track/22XNkzGxNaaCG1j0MpMKvG) | [max ware](https://open.spotify.com/artist/1oExNGd4yweQu0NAIlslIF), [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [Impression](https://open.spotify.com/album/0P4XF0PSbe2T4hEs1nB9sb) | 2:42 | 2025-03-24 |  |
+| [INNOCENCE](https://open.spotify.com/track/00lj6s89hCf56DCHo0MJOi) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [INNOCENCE](https://open.spotify.com/album/2ZGsvIKP7Qtv6GNzMyzxzn) | 1:54 | 2025-05-01 |  |
 | [Insect](https://open.spotify.com/track/5WJwcBZqGwh1i5I2exHkxI) | [ELLiS·D](https://open.spotify.com/artist/6IYbOpElhnPpPnEQncHaxQ) | [Spill](https://open.spotify.com/album/7y5q8q6FvRttgsTlOSzJiL) | 3:37 | 2025-03-24 |  |
 | [Jealousy](https://open.spotify.com/track/6HicdIESnZ6itrt8JFk3ed) | [Victory Lap](https://open.spotify.com/artist/3LO8O36e8JYRVnb95M4d44) | [Jealousy](https://open.spotify.com/album/4JbBt99bWo8EdOKjivVUNu) | 3:45 | 2024-06-27 | 2024-07-27 |
 | [JOYRIDE](https://open.spotify.com/track/13kjJQW6XzMQqOgb2j1sBr) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [JOYRIDE](https://open.spotify.com/album/4szI3mnv9vjwoNtZi3zZWu) | 3:43 | 2024-06-27 | 2024-10-11 |
@@ -198,6 +201,7 @@
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-03-24 |  |
 | [white knuckles](https://open.spotify.com/track/5cIGVczqgwq9JKB2MfgyUU) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [white knuckles](https://open.spotify.com/album/7kwRJAcFWvJ6rCSVEPP18d) | 3:41 | 2024-10-10 | 2025-03-25 |
 | [why won't you notice me?](https://open.spotify.com/track/2sZV0XcAOZKHQKqflmwGnM) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [why won't you notice me?](https://open.spotify.com/album/6dPrna8kGUvzY5hZe5pnhe) | 2:30 | 2024-11-29 | 2025-04-15 |
+| [words](https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [words](https://open.spotify.com/album/0wV2RsQZbMRVH1MynpbBSD) | 2:17 | 2025-05-01 |  |
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-06-27 | 2025-03-25 |
 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-24 |  |
 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 | 2025-03-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover:  OneRepublic",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Benson Boone",
   "name": "Next Up",
   "tracks": [
     {
@@ -350,6 +350,24 @@
       "duration_ms": 187000,
       "name": "100",
       "url": "https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4"
+    },
+    {
+      "album": {
+        "name": "1000 days of moments",
+        "url": "https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203380,
+      "name": "1000 days of moments",
+      "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
     },
     {
       "album": {
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -5378,7 +5396,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -6178,7 +6196,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 159080,
       "name": "BE CLASSIC",
       "url": "https://open.spotify.com/track/6qactUdK4Lql5d31ow4669"
@@ -17952,7 +17970,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
@@ -18678,6 +18696,28 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
+        "name": "Shuffle",
+        "url": "https://open.spotify.com/album/2qEahHuZoBQndhd3YO1X3g"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        },
+        {
+          "name": "Satoshi Fujihara",
+          "url": "https://open.spotify.com/artist/2iIhTPUMr5dxVXNs5TblZC"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236878,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4nowBQ444BfHkyG6IzUvHI"
     },
     {
       "album": {
@@ -31640,7 +31680,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
@@ -41624,7 +41664,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 173413,
       "name": "MUSE",
       "url": "https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv"
@@ -45595,6 +45635,24 @@
     },
     {
       "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+    },
+    {
+      "album": {
         "name": "OLD ROOKIE EP.1",
         "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
@@ -46726,6 +46784,28 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
+    },
+    {
+      "album": {
+        "name": "OTONA MODE",
+        "url": "https://open.spotify.com/album/4dEsmMMXBfoaiRNy07ymbu"
+      },
+      "artists": [
+        {
+          "name": "PES",
+          "url": "https://open.spotify.com/artist/7LjwJY093gH5dJHUSidPih"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204282,
+      "name": "OTONA MODE",
+      "url": "https://open.spotify.com/track/05yRDhMU9RuE0Q5ocI43yP"
     },
     {
       "album": {
@@ -49580,6 +49660,28 @@
       "duration_ms": 200449,
       "name": "Price On Fun",
       "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
+    },
+    {
+      "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "album": {
@@ -56572,7 +56674,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 248778,
       "name": "Somebody help us",
       "url": "https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i"
@@ -60793,6 +60895,28 @@
     },
     {
       "album": {
+        "name": "I Said I Love You First... And You Said It Back",
+        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132539,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
+    },
+    {
+      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -63489,6 +63613,24 @@
     },
     {
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
+    },
+    {
+      "album": {
         "name": "TIME",
         "url": "https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq"
       },
@@ -66066,7 +66208,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
@@ -68586,7 +68728,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
@@ -69622,6 +69764,24 @@
       "duration_ms": 240132,
       "name": "Window",
       "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
+    },
+    {
+      "album": {
+        "name": "WINDSDAY",
+        "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185094,
+      "name": "WINDSDAY",
+      "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
     },
     {
       "album": {
@@ -77782,7 +77942,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 185093,
       "name": "\u30ca\u30cf\u30c8",
       "url": "https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5"
@@ -83017,6 +83177,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u56fd",
+        "url": "https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323665,
+      "name": "\u5929\u56fd",
+      "url": "https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj"
+    },
+    {
+      "album": {
         "name": "\u5929\u6c17\u96e8 -Still love me- (feat. \u3072\u304b\u308a) [Vantage Remix]",
         "url": "https://open.spotify.com/album/4onMga0cEQ0CwZQqWipjaX"
       },
@@ -83726,7 +83904,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 191075,
       "name": "\u5f98\u5f8a",
       "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
@@ -84088,6 +84266,24 @@
       "duration_ms": 269093,
       "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "album": {
+        "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217988,
+      "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
     },
     {
       "album": {
@@ -85176,6 +85372,24 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "album": {
+        "name": "\u6700&\u5f37",
+        "url": "https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "\u6700&\u5f37",
+      "url": "https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET"
     },
     {
       "album": {

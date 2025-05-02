@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Feisty",
+        "url": "https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160452,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp"
+    },
+    {
+      "album": {
         "name": "Suntub",
         "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
       },
@@ -832,6 +850,24 @@
       "duration_ms": 241147,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu"
+    },
+    {
+      "album": {
+        "name": "Strange Serenity",
+        "url": "https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy"
+      },
+      "artists": [
+        {
+          "name": "YULLOLA",
+          "url": "https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Honey Scented Soul",
+      "url": "https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD"
     },
     {
       "album": {
@@ -1078,6 +1114,24 @@
       "duration_ms": 244770,
       "name": "L.O.V.E",
       "url": "https://open.spotify.com/track/2tscMbvEl8Zur5gyYwf7bC"
+    },
+    {
+      "album": {
+        "name": "Lay down",
+        "url": "https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256217,
+      "name": "Lay down",
+      "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
     },
     {
       "album": {
@@ -1331,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Should've known better (choices)",
+        "url": "https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207616,
+      "name": "Should've known better (choices)",
+      "url": "https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF"
+    },
+    {
+      "album": {
         "name": "where it melts away",
         "url": "https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl"
       },
@@ -1346,6 +1418,24 @@
       "duration_ms": 164307,
       "name": "sinking stone",
       "url": "https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W"
+    },
+    {
+      "album": {
+        "name": "Something in the way you move",
+        "url": "https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK"
+      },
+      "artists": [
+        {
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299784,
+      "name": "Something in the way you move",
+      "url": "https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc"
     },
     {
       "album": {
@@ -1382,7 +1472,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"

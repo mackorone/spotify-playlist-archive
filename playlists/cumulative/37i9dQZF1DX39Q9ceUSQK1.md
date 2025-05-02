@@ -4,10 +4,11 @@
 
 > Nieuwe alternative & rock releases\. Cover: TAPE TOY
 
-400 songs - 23 hr 13 min
+406 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2016 Souvenir](https://open.spotify.com/track/5NU4wuMNc1cmmU1Hz7bAS6) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [2016 Souvenir](https://open.spotify.com/album/39vTbO74E9x89LBkZqh6xp) | 2:53 | 2025-05-01 |  |
 | [23's A Baby](https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [23's A Baby](https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt) | 4:13 | 2025-04-04 |  |
 | [a craving](https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a craving](https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB) | 3:14 | 2024-10-22 | 2025-01-07 |
 | [A Distant Life](https://open.spotify.com/track/4HUdjdUl6IGFXadkwc3W0A) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Blindness](https://open.spotify.com/album/6iHeiGA6OWYJ4RVkvby44P) | 2:40 | 2025-02-23 |  |
@@ -43,6 +44,7 @@
 | [Baby, if it’s toxic](https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Punch the clock, smile and wave](https://open.spotify.com/album/12J3q62nNerYGgv1CZgw7I) | 2:42 | 2024-12-02 | 2025-02-08 |
 | [Back of the Bus](https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Back of the Bus](https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m) | 3:00 | 2025-04-17 |  |
 | [BADMAN](https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [BADMAN](https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt) | 2:48 | 2024-07-26 | 2024-10-05 |
+| [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 |  |
 | [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 | 2025-04-17 |  |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-08-30 | 2024-10-23 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2024-11-07 | 2025-01-24 |
@@ -114,6 +116,7 @@
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-09 | 2024-10-23 |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-04 |  |
 | [Evenfall](https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:14 | 2025-01-16 | 2025-02-18 |
+| [Event of a Fire](https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Event of a Fire](https://open.spotify.com/album/0YkFwRdulcXdf0hNWScqIt) | 3:55 | 2025-05-01 |  |
 | [Faint Of Heart](https://open.spotify.com/track/2csUY4IGUWm8b8mWbBybjc) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Faint Of Heart](https://open.spotify.com/album/3mpkO4KFbEzzz0lFJxY2IH) | 6:05 | 2024-07-26 | 2024-09-25 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-11-07 | 2025-01-24 |
 | [Falling Off The Earth](https://open.spotify.com/track/4c2uVNjG8aUKa3Edjc5Jem) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Falling Off The Earth](https://open.spotify.com/album/76Ie7JxlZaoGOZjSB58IRH) | 3:30 | 2024-11-07 | 2025-01-24 |
@@ -196,7 +199,9 @@
 | [Killing For Fun \- Single Edit](https://open.spotify.com/track/5VN8BPVTVm6lK0cYbIb4SJ) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Killing For Fun](https://open.spotify.com/album/2qcREVAnFhP7lxMCbz1UsX) | 3:20 | 2024-06-24 | 2024-09-19 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-26 | 2024-11-08 |
 | [L.O.V.E.](https://open.spotify.com/track/36vaGZOM3HBsxTYYqDneLO) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Welcome To The GUNMOLL Family](https://open.spotify.com/album/2GwB5Kd4BTPXKQarCFtmy4) | 4:02 | 2025-02-17 | 2025-04-18 |
+| [LADY](https://open.spotify.com/track/4NnzbyoBka1NqyUlZSaLeS) | [Loyk](https://open.spotify.com/artist/018KlCBuuEPsRQRWu2AJ27) | [LADY](https://open.spotify.com/album/21nX0HyL9OpgIgsdThmCq4) | 2:25 | 2025-05-01 |  |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-11 |  |
+| [Lay Me Down](https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Lay Me Down](https://open.spotify.com/album/645V6oHukUxcSpbigA72Bb) | 3:44 | 2025-05-01 |  |
 | [Lay Of The Land](https://open.spotify.com/track/0w4WtvDDRsKdQQhFcBhUuu) | [Das Pop](https://open.spotify.com/artist/6HvBsTSctQ8SGUzzfnMPcV) | [Lay Of The Land](https://open.spotify.com/album/2rTw8vmn4RQsg7ZOSD7mEa) | 3:26 | 2025-02-17 | 2025-04-26 |
 | [LCA](https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [LCA](https://open.spotify.com/album/5kp76qchpeMxS0EmeOdNkv) | 2:39 | 2025-04-04 |  |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-26 | 2024-11-08 |
@@ -228,6 +233,7 @@
 | [Melancholy Moon](https://open.spotify.com/track/0ZOHCQY8uKX5u4ml3z6OnV) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Asphodels](https://open.spotify.com/album/2TXHLshWzfcUwkP9Xxng9v) | 3:46 | 2025-01-23 | 2025-04-05 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-24 | 2024-09-14 |
 | [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 | 2024-06-24 | 2024-09-06 |
+| [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 | 2025-05-01 |  |
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-24 | 2024-11-23 |
 | [MMMami Mami](https://open.spotify.com/track/54CzAk7fpqqOGVgkQTCs7M) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [MMMami Mami](https://open.spotify.com/album/084uPuidGS0aaLFZ654bAb) | 2:33 | 2024-06-24 | 2024-07-27 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-24 | 2024-09-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Charles Dor\u00e9",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Suzane",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 155186,
       "name": "Ce qui me va",
       "url": "https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP"
@@ -1874,6 +1874,24 @@
       "duration_ms": 187586,
       "name": "J\u2019ai chang\u00e9",
       "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
+    },
+    {
+      "album": {
+        "name": "L'amour",
+        "url": "https://open.spotify.com/album/4jsKIXopurrKjHzMqzQE94"
+      },
+      "artists": [
+        {
+          "name": "Leonie",
+          "url": "https://open.spotify.com/artist/0oHobVIFdzypUfTGTalD0X"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156638,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/0aMuziK1neN0U0EoiCsrzF"
     },
     {
       "album": {
@@ -3741,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Si j'pouvais",
+        "url": "https://open.spotify.com/album/2Fw1bNmKVq208kNjKnZfwR"
+      },
+      "artists": [
+        {
+          "name": "Alexy Large",
+          "url": "https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142038,
+      "name": "Si j'pouvais",
+      "url": "https://open.spotify.com/track/4tTfUZz1UxYpw5DKCbbCz4"
+    },
+    {
+      "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
       },
@@ -4452,7 +4488,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 139500,
       "name": "Vide",
       "url": "https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5"

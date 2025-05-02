@@ -562,7 +562,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
@@ -6513,6 +6513,24 @@
     },
     {
       "album": {
+        "name": "The 2nd Mini Album 'SWICY'",
+        "url": "https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "SWICY",
+      "url": "https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ"
+    },
+    {
+      "album": {
         "name": "3RD DESIRE [Reve]",
         "url": "https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY"
       },
@@ -7378,6 +7396,24 @@
       "duration_ms": 193053,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
+    },
+    {
+      "album": {
+        "name": "WAJANGCHANG",
+        "url": "https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160109,
+      "name": "Wakey Wakey",
+      "url": "https://open.spotify.com/track/7ie3z8INSG550mxkjOqavT"
     },
     {
       "album": {

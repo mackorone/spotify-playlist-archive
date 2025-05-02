@@ -2,14 +2,14 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover:  Bella Shmurda
+> The future hits of today\. <br/>Cover:  Kaestyle
 
-362 songs - 16 hr 49 min
+363 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 | 2025-04-01 |
-| [247](https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [247](https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN) | 3:25 | 2025-03-14 |  |
+| [247](https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [247](https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN) | 3:25 | 2025-03-14 | 2025-05-02 |
 | [365](https://open.spotify.com/track/04E8u3YScYYjwOoMzTm19T) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [KAUTION](https://open.spotify.com/album/5pCpOoJ3fVv0FkPfaIl8SW) | 2:11 | 2024-09-13 | 2024-11-29 |
 | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc) | 3:23 | 2024-09-06 | 2025-01-31 |
 | [64 °C](https://open.spotify.com/track/7CVTkhet8Si18yfTHtgVuS) | [Homa Homa](https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [64 °C](https://open.spotify.com/album/1MGRqLJfMviTuEBrgszK1d) | 2:30 | 2024-09-13 | 2024-09-26 |
@@ -155,6 +155,7 @@
 | [Hi Grade](https://open.spotify.com/track/5C7Pu84ay7TUD24G0y7JJc) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:18 | 2024-11-08 | 2025-03-07 |
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-28 | 2024-09-06 |
 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-04-18 |  |
+| [How Much](https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [ROOKIES don’t sound this good](https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW) | 2:19 | 2025-05-02 |  |
 | [I Do](https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [First of My Kind EP](https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1) | 2:37 | 2024-10-12 | 2025-03-07 |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 |  |
 | [I'll Be There](https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [I'll Be There](https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS) | 3:21 | 2025-01-31 |  |

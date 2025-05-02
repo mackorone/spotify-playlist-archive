@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,063 songs - 3 day 4 hr 38 min
+1,064 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-04-15 |  |
 | [Common Ground](https://open.spotify.com/track/2QsMIusYv7LSVnFVPbe7Bd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:52 | 2019-07-25 | 2020-10-21 |
 | [Common Land](https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Common Land](https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr) | 5:21 | 2023-02-17 | 2023-09-14 |
+| [Compact](https://open.spotify.com/track/2vxTjVGMjLjkRs2OgS5GNY) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Scanners](https://open.spotify.com/album/34FmAA4EuuLWZojGnrPokh) | 7:06 | 2025-05-02 |  |
 | [Complet](https://open.spotify.com/track/5dO9Q7Nc6yl9RhQg4QbfpZ) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW) | [Vazio](https://open.spotify.com/album/1WTZwgYpE1rk96LphsMLiw) | 2:17 | 2019-06-19\* | 2022-04-20 |
 | [Connected \- Original Mix](https://open.spotify.com/track/0moaUKScPf9pFxgd3ThIKK) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Connected](https://open.spotify.com/album/4kYYZMZ3ytcqSVLq4ZN40A) | 5:25 | 2019-05-26\* | 2019-06-19 |
 | [Constelación](https://open.spotify.com/track/4sqP2Dq2ATZg255culXEQU) | [Plato](https://open.spotify.com/artist/4mvTxzyBjXb0ml6xxlhfDQ), [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Controforma pt.2](https://open.spotify.com/album/0QCEj9tNwFC4BLSFbWui90) | 4:48 | 2023-04-28 | 2024-07-27 |
@@ -466,7 +467,7 @@
 | [Interlude](https://open.spotify.com/track/0AV6NavKfgyIe7z8tU4sdy) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Territory](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:23 | 2019-06-19\* | 2020-10-22 |
 | [Into The Glare](https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Into The Glare](https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG) | 2:21 | 2025-02-14 | 2025-04-26 |
 | [Into The Woods](https://open.spotify.com/track/3p0FMD7f0kh4IcuucbB2My) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:02 | 2024-02-23 | 2024-04-19 |
-| [Into The Woods](https://open.spotify.com/track/7ucNYWVodda3jLa7vaOM77) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2025-02-14 |  |
+| [Into The Woods](https://open.spotify.com/track/7ucNYWVodda3jLa7vaOM77) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2025-02-14 | 2025-05-02 |
 | [Intro](https://open.spotify.com/track/4bjeltvdBsWvyGDsZ0QwvH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 2:21 | 2019-05-26\* |  |
 | [Intro](https://open.spotify.com/track/1E39TDobp2cxLvsJDivz36) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Gravity](https://open.spotify.com/album/5CaTHgZaRvb2vCK1mVbCR1) | 1:57 | 2019-12-20 | 2020-10-22 |
 | [Intro](https://open.spotify.com/track/7ISreWAUq3CMXWWJHfmPzP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Summer's Gone](https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1) | 0:34 | 2019-07-25 | 2020-10-19 |

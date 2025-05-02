@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Flo Milli",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Key Glock",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -76,6 +76,28 @@
       "duration_ms": 178950,
       "name": "06 Gucci (feat. DaBaby & 21 Savage)",
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+    },
+    {
+      "album": {
+        "name": "10 Second Phone Call",
+        "url": "https://open.spotify.com/album/1y96Gsamv6ZILInp13tAEo"
+      },
+      "artists": [
+        {
+          "name": "Badius",
+          "url": "https://open.spotify.com/artist/6BuRJR75o95H52H3jycRjD"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161806,
+      "name": "10 Second Phone Call",
+      "url": "https://open.spotify.com/track/6aW3v9Y9h5Ml5zWRiUdopK"
     },
     {
       "album": {
@@ -642,7 +664,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 133768,
       "name": "ACTIN UP",
       "url": "https://open.spotify.com/track/1Nk1kQx3HmUaobcAu9S26f"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 166618,
       "name": "Arc de Triomphe",
       "url": "https://open.spotify.com/track/5THdCNXFd7JK1ayDYYvzwB"
@@ -3051,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Glockaveli",
+        "url": "https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139860,
+      "name": "Blue Devil",
+      "url": "https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3"
+    },
+    {
+      "album": {
         "name": "Bluffin (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP"
       },
@@ -3807,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "BUTTERFLY KISSES",
+        "url": "https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122933,
+      "name": "BUTTERFLY KISSES",
+      "url": "https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY"
+    },
+    {
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -4328,7 +4386,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 237133,
       "name": "Checkers",
       "url": "https://open.spotify.com/track/2OTNi09G4bYMxQv04ltzC6"
@@ -4882,7 +4940,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 223658,
       "name": "CRESCENT MOON",
       "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
@@ -5432,6 +5490,28 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
+        "name": "Different (with 42 Dugg)",
+        "url": "https://open.spotify.com/album/1yDFI8tYzHuFuuZ7Y0L8iq"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178359,
+      "name": "Different (with 42 Dugg)",
+      "url": "https://open.spotify.com/track/3CXFeHHhNvwHsgAMdnPCve"
     },
     {
       "album": {
@@ -8784,7 +8864,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190693,
       "name": "Hell Woods 2",
       "url": "https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc"
@@ -9322,7 +9402,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 202105,
       "name": "Home",
       "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
@@ -9348,6 +9428,28 @@
       "duration_ms": 209751,
       "name": "Home Alone (with J. Cole)",
       "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
+    },
+    {
+      "album": {
+        "name": "HOME?",
+        "url": "https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O"
     },
     {
       "album": {
@@ -9833,6 +9935,28 @@
     },
     {
       "album": {
+        "name": "I JUST",
+        "url": "https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170557,
+      "name": "I JUST",
+      "url": "https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln"
       },
@@ -10160,7 +10284,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 187397,
       "name": "IDGDS",
       "url": "https://open.spotify.com/track/0qNjO1Do0Mgdf1Pg5vX86O"
@@ -12138,7 +12262,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 201226,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3"
@@ -14464,8 +14588,8 @@
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         },
         {
-          "name": "SIMIEN",
-          "url": "https://open.spotify.com/artist/0IzBfoIbXMYXpBFV7oCsCm"
+          "name": "SIMI3N",
+          "url": "https://open.spotify.com/artist/4dS6GlLsrqLFMaTkzbbrAe"
         }
       ],
       "date_added": "2025-03-17",
@@ -15018,7 +15142,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 155754,
       "name": "No Sweat",
       "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
@@ -15770,7 +15894,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 136120,
       "name": "ON THE LOW",
       "url": "https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd"
@@ -16312,6 +16436,28 @@
       "duration_ms": 170097,
       "name": "Passionate (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/13StpQUXexaBvQdiggUNCj"
+      },
+      "artists": [
+        {
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181187,
+      "name": "Passions (feat. Loopy)",
+      "url": "https://open.spotify.com/track/4qd6x4TKwxpRKTmIwlyuR6"
     },
     {
       "album": {
@@ -19040,6 +19186,24 @@
       "duration_ms": 140000,
       "name": "SELL ME SICKNESS SELL ME HEALTH (EAZY T)",
       "url": "https://open.spotify.com/track/4hfL2OhLXOOqrLzvJyZbOD"
+    },
+    {
+      "album": {
+        "name": "Send Help",
+        "url": "https://open.spotify.com/album/5E1bIESFwNH1KqEKozMAr3"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Send Help",
+      "url": "https://open.spotify.com/track/5IDXS1drdwEeikRtT2dZAS"
     },
     {
       "album": {
@@ -22889,6 +23053,24 @@
     },
     {
       "album": {
+        "name": "Vacay",
+        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142962,
+      "name": "Vacay",
+      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
+    },
+    {
+      "album": {
         "name": "Saint Michael",
         "url": "https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw"
       },
@@ -23422,6 +23604,24 @@
       "duration_ms": 266076,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/4pVPS1gBYlaBrIO4KbZiDT"
+    },
+    {
+      "album": {
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "album": {
@@ -24242,6 +24442,28 @@
       "duration_ms": 137640,
       "name": "WUACV",
       "url": "https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv"
+    },
+    {
+      "album": {
+        "name": "WYC4",
+        "url": "https://open.spotify.com/album/2XPqrnrYQO4USMaC2yINKO"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110113,
+      "name": "WYC4",
+      "url": "https://open.spotify.com/track/3gZl6aBoXI8WyatJwE9aGv"
     },
     {
       "album": {

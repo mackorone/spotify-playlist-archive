@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 177 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 177 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 108 | [Play Me](https://open.spotify.com/track/2jSctWpG0oCXfIgeP2oHQP) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Progression 2: A Young Texas Playa](https://open.spotify.com/album/7CD4LgKZWKAUB3NMudm27b) | 3:06 |
 | 109 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
 | 110 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
-| 111 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
-| 112 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 111 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 112 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
 | 113 | [Birthday](https://open.spotify.com/track/3v3TREGncEqFVExadkOhtY) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:16 |
 | 114 | [Control Of The Knife](https://open.spotify.com/track/2BA8K7pvwK8BRir61JBhpf) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw) | 3:49 |
 | 115 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 176 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 177 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbwMVAAAAADH6IgmJyGrfAsrktsYvWl6`
+Snapshot ID: `AbwR9AAAAACqBGJrxgDT8kHmLdutt4vB`

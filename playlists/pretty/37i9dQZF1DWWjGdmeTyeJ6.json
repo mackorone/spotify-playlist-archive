@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: Stuzzi, Artwork: Isu Kim",
-  "num_followers": 1221612,
+  "num_followers": 1221709,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBGkPAAAAAAn5rC7pmEI12ANkfRNDmNM",
+  "snapshot_id": "aBQKwgAAAAAQdc0FjrP5BCQ0eNFxKili",
   "tracks": [
     {
       "added_at": "2025-04-30 04:00:30",
@@ -87,6 +87,26 @@
       "duration_ms": 147492,
       "name": "Bunna Summa",
       "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
+    },
+    {
+      "added_at": "2025-05-01 23:58:58",
+      "album": {
+        "name": "LANDMiNE",
+        "url": "https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr"
+      },
+      "artists": [
+        {
+          "name": "Skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        },
+        {
+          "name": "Lillith",
+          "url": "https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "LANDMiNE",
+      "url": "https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz"
     },
     {
       "added_at": "2025-04-30 04:17:00",
@@ -3159,22 +3179,6 @@
       "duration_ms": 180000,
       "name": "COMPLEJO",
       "url": "https://open.spotify.com/track/5a9Ptai9hH3MQtZXdynPrs"
-    },
-    {
-      "added_at": "2025-03-28 18:46:40",
-      "album": {
-        "name": "Silent Corners",
-        "url": "https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH"
-      },
-      "artists": [
-        {
-          "name": "pencil",
-          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
-        }
-      ],
-      "duration_ms": 246196,
-      "name": "Silent Corners",
-      "url": "https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0"
     },
     {
       "added_at": "2025-03-26 16:09:50",

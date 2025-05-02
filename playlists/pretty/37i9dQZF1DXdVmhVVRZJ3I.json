@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 310998,
+  "num_followers": 311117,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "LOthief",
-          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -495,26 +495,22 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
       "artists": [
         {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Yass",
-          "url": "https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8"
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
         }
       ],
-      "duration_ms": 197276,
-      "name": "Rhythm of the Night",
-      "url": "https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq"
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -543,22 +539,26 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+        "name": "Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
         },
         {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Yass",
+          "url": "https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8"
         }
       ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+      "duration_ms": 197276,
+      "name": "Rhythm of the Night",
+      "url": "https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Doin Nottin",
-        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
-      },
-      "artists": [
-        {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
-        },
-        {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Doin Nottin",
-      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
+        "name": "Doin Nottin",
+        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Doin Nottin",
+      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
         "name": "Adrenalina (Minha Gasolina)",
         "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -1083,26 +1083,22 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
-        "name": "Meditatiohm",
-        "url": "https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
       },
       "artists": [
         {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Major7",
-          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
-        },
-        {
-          "name": "Rexalted",
-          "url": "https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         }
       ],
-      "duration_ms": 346285,
-      "name": "Meditatiohm",
-      "url": "https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ"
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

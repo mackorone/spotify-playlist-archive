@@ -4,7 +4,7 @@
 
 > Home to Pakistani Hits\. Cover: Afusic
 
-209 songs - 14 hr 13 min
+212 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-04 |  |
 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 | 2023-05-04 | 2023-11-30 |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-05-04 | 2023-11-30 |
+| [Judai](https://open.spotify.com/track/2wZvpX0owdzYg8e8HSfIgV) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Judai](https://open.spotify.com/album/3IZe3XakLgSYMVsVcF4XlX) | 3:00 | 2025-05-01 |  |
 | [Jurmana](https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Jurmana](https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj) | 2:53 | 2024-01-12 | 2024-08-10 |
 | [Just Us](https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo) | [Just Us](https://open.spotify.com/album/1s5gQHicm3JMqyyia8YcpF) | 2:48 | 2024-06-14 | 2024-12-29 |
 | [Kabhi Mein Kabhi Tum](https://open.spotify.com/track/3Sz9b5LuyZ48AFgc37Db8v) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Kabhi Mein Kabhi Tum](https://open.spotify.com/album/59GXnJVnXGqQHza4Cy2Gdo) | 3:33 | 2024-06-14 | 2024-06-22 |
@@ -143,6 +144,7 @@
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2023-05-04 |  |
 | [Mushk](https://open.spotify.com/track/2r83dnQ5g2gwF87Tph6AF9) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Mushk](https://open.spotify.com/album/0TqLMqmG2Gp3W6QhsCGQCJ) | 4:22 | 2023-12-21 |  |
 | [Na Cher Malangaan Nu](https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Na Cher Malangaan Nu](https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG) | 3:50 | 2023-05-04 | 2023-11-30 |
+| [Na Milay](https://open.spotify.com/track/3scQvCTpXolMZfuvuUXlv5) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4), [Afifa Moin](https://open.spotify.com/artist/6FoTXbkeKubWuMDdcUZCRg), [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2), [Haider Abbas](https://open.spotify.com/artist/687nlgJvmRUlJyPENN7Wd1) | [Na Milay](https://open.spotify.com/album/56BiMNi1KulyoOrVJSXrum) | 4:45 | 2025-05-01 |  |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2023-07-17 |  |
 | [O Saathi](https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [O Saathi \(From "Baaghi 2"\)](https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A) | 4:11 | 2023-05-04 | 2024-04-27 |
 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-12 |  |
@@ -174,6 +176,7 @@
 | [Sajna da Dil Torya](https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Sajna da Dil Torya](https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p) | 4:13 | 2024-10-23 |  |
 | [Same Beef](https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Same Beef](https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk) | 4:50 | 2023-11-29 | 2024-12-20 |
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2023-09-26 | 2023-11-30 |
+| [Saza](https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Saza](https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd) | 3:07 | 2025-05-01 |  |
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-05-04 |  |
 | [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-12 | 2024-01-26 |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-01-25 |  |

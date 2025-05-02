@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Pop'un sevilen isimleri\. Kapak: M Lisa
+> Pop'un sevilen isimleri\. Kapak: Eftalya Yağcı
 
-252 songs - 12 hr 35 min
+253 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |
 | [derdim var](https://open.spotify.com/track/2BDFcXV23UANGAQ0J3kisZ) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [derdim var](https://open.spotify.com/album/71bmrClM3TxVThhDdxj2Xj) | 2:28 | 2025-04-17 |  |
 | [DERMANIM](https://open.spotify.com/track/1FMbDJd4OAYIyNbvcBxIDr) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [DERMANIM](https://open.spotify.com/album/5ZlbCE0T5trgtEBO8RHgX6) | 2:34 | 2024-11-14 | 2025-01-05 |
-| [Destan](https://open.spotify.com/track/1drBEGaK3CihcJ8gfiUIxu) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Destan](https://open.spotify.com/album/07XKjpskzqsLROESqm9b57) | 2:43 | 2025-02-13 |  |
+| [Destan](https://open.spotify.com/track/1drBEGaK3CihcJ8gfiUIxu) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Destan](https://open.spotify.com/album/07XKjpskzqsLROESqm9b57) | 2:43 | 2025-02-13 | 2025-05-02 |
 | [Dilber](https://open.spotify.com/track/6BUrQUxtozqxQkZExslTen) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Dilber](https://open.spotify.com/album/4aLPDVWvyKVjnUiRPz9KBB) | 2:13 | 2024-06-27 | 2024-07-10 |
 | [DİZGİ HATASI](https://open.spotify.com/track/1aY8XeGD9zP21IxZYqeY3f) | [Keremcem](https://open.spotify.com/artist/3GfMoNg8qvtTuarY4ILTzm) | [6](https://open.spotify.com/album/0dil3PgPqEqQDSaaKfdZEb) | 3:22 | 2024-07-11 | 2024-07-24 |
 | [Drama](https://open.spotify.com/track/48tlVF8yalrTqnikmO1p1O) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [DRAMA](https://open.spotify.com/album/4WFyH3e9a02OlEwHaYcbax) | 2:34 | 2025-02-20 | 2025-03-11 |
@@ -201,6 +201,7 @@
 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 | 2024-07-18 | 2024-09-07 |
 | [Sevmek Yordu](https://open.spotify.com/track/3m9g9R4KE3LzBBKipOLet8) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [Sevmek Yordu](https://open.spotify.com/album/3XSiXe8FbfZ4UVXazgmrCP) | 2:38 | 2025-03-27 | 2025-04-02 |
 | [sga](https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt) | [Berrin Keklikler](https://open.spotify.com/artist/64Cq76lbrG6XZOZPo5Giwl) | [sga](https://open.spotify.com/album/4uLmsJzWa3hzkWJCZN6rMY) | 2:23 | 2024-06-27 | 2025-04-02 |
+| [SİYAH](https://open.spotify.com/track/1lOyPGanKDx22bX2R2PFGt) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [SİYAH](https://open.spotify.com/album/2qokghXkZ2eCOgPmQC2MqN) | 3:09 | 2025-05-01 |  |
 | [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 | 2024-12-04 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
 | [Tanrıçalar Memleketi \- Yenge](https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Sana Rağmen](https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE) | 3:14 | 2025-02-06 | 2025-03-03 |

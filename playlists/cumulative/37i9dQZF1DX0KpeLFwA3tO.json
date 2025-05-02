@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Heart Attack Man",
+  "description": "The best new music from the wide world of punk. Cover: PUP",
   "name": "All New Punk",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 221193,
       "name": "'Bout To Lose It",
       "url": "https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto"
@@ -172,6 +172,24 @@
       "duration_ms": 137209,
       "name": "100 MPH",
       "url": "https://open.spotify.com/track/0JTEMK4Mqtk8VoYicuNu6Q"
+    },
+    {
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
     },
     {
       "album": {
@@ -2345,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6TF4YZhNGumdvBul3MgBeJ"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2Z9vZPuoXphxUAl88gSPsZ"
+    },
+    {
+      "album": {
         "name": "Animal Death Already Breathing",
         "url": "https://open.spotify.com/album/2Ts2zLCzEWBnu2wTfcGgpA"
       },
@@ -2956,7 +2992,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 233971,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/1RCzGsb8Mg2y848NgwMK6Z"
@@ -3468,6 +3504,24 @@
       "duration_ms": 293362,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/3Gccxg5pQQQsAQddATbCE1"
+    },
+    {
+      "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "album": {
@@ -4290,6 +4344,24 @@
       "duration_ms": 166000,
       "name": "Big Sleep",
       "url": "https://open.spotify.com/track/1u5prQkmTzUuLGzeItIo1W"
+    },
+    {
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "BIRDS",
+      "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
     },
     {
       "album": {
@@ -5694,7 +5766,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 128558,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6UXIScRY89NR8BmwZ8pCyu"
@@ -6114,7 +6186,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 141081,
       "name": "BYD",
       "url": "https://open.spotify.com/track/5kjdSY3Obth9z4khYPg9Kz"
@@ -6760,6 +6832,24 @@
       "duration_ms": 233626,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k"
+    },
+    {
+      "album": {
+        "name": "Car Song",
+        "url": "https://open.spotify.com/album/1woPZptONPwinpPukcX7KT"
+      },
+      "artists": [
+        {
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Car Song",
+      "url": "https://open.spotify.com/track/2bM3PJxNWCQi5LGMCv9iOg"
     },
     {
       "album": {
@@ -8770,6 +8860,24 @@
       "duration_ms": 161461,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/1fAqYPbtz7ljMn6q24Zadx"
+    },
+    {
+      "album": {
+        "name": "Crashing Cars",
+        "url": "https://open.spotify.com/album/0zwOSIoylUVVCY9kFOkguU"
+      },
+      "artists": [
+        {
+          "name": "Powerplant",
+          "url": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217496,
+      "name": "Crashing Cars",
+      "url": "https://open.spotify.com/track/2nXaNugCLSPrAOz52F6MCI"
     },
     {
       "album": {
@@ -12918,7 +13026,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 107141,
       "name": "Exactly As They Wanted You",
       "url": "https://open.spotify.com/track/7gn6wOesBVkK2sDRiFGTvu"
@@ -15117,6 +15225,24 @@
     },
     {
       "album": {
+        "name": "Germaphobe / Tears In The Club",
+        "url": "https://open.spotify.com/album/74OpVVoTrzoqVv2BCC3HbY"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Germaphobe",
+      "url": "https://open.spotify.com/track/2Nnz3wRWRkusmp5XdXD3PZ"
+    },
+    {
+      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -15428,6 +15554,24 @@
       "duration_ms": 226772,
       "name": "Gimme A Call",
       "url": "https://open.spotify.com/track/0TKWSyue1lOfrSPHcFrPKf"
+    },
+    {
+      "album": {
+        "name": "Girl Band Starter Pack",
+        "url": "https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be"
+      },
+      "artists": [
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183917,
+      "name": "Girl Band Starter Pack",
+      "url": "https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ"
     },
     {
       "album": {
@@ -22482,7 +22626,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 231834,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/6x1xKHkuGepbfjpDkSuUIk"
@@ -23246,7 +23390,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 191822,
       "name": "Living Bridge",
       "url": "https://open.spotify.com/track/0nxSoazdLknFrdfbyyefaN"
@@ -26648,7 +26792,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 174346,
       "name": "NEW TATTOO",
       "url": "https://open.spotify.com/track/5azhtuDKm8YUNfeKsWloBK"
@@ -26938,6 +27082,24 @@
       "duration_ms": 124120,
       "name": "No Guilt",
       "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
+    },
+    {
+      "album": {
+        "name": "No Longer Young",
+        "url": "https://open.spotify.com/album/3P5u2du5gv7RVsHAvIORW2"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153851,
+      "name": "No Longer Young",
+      "url": "https://open.spotify.com/track/2QgRR2igdWsqymmUy0FSza"
     },
     {
       "album": {
@@ -27410,7 +27572,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 182234,
       "name": "nosebleeds",
       "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
@@ -27948,6 +28110,24 @@
       "duration_ms": 199812,
       "name": "Oldest Daughter",
       "url": "https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi"
+    },
+    {
+      "album": {
+        "name": "Olive Garden",
+        "url": "https://open.spotify.com/album/1oy21LUiIIuVIyMgY3WrJK"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112165,
+      "name": "Olive Garden",
+      "url": "https://open.spotify.com/track/20Kzilqp35aMDqOSLdRvKb"
     },
     {
       "album": {
@@ -29316,7 +29496,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 199040,
       "name": "people person",
       "url": "https://open.spotify.com/track/2F9u9MfIpAh8U6cvlX087r"
@@ -29478,7 +29658,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 241628,
       "name": "Pesambre",
       "url": "https://open.spotify.com/track/79uTN9yqWuXnfU9yybyS0B"
@@ -29532,7 +29712,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 158027,
       "name": "Petty",
       "url": "https://open.spotify.com/track/2HyUK3mdLvnrz8e55LI0Yn"
@@ -29702,6 +29882,24 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & The Serpent)",
       "url": "https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto"
+    },
+    {
+      "album": {
+        "name": "Plagiarist",
+        "url": "https://open.spotify.com/album/4Yf80mJqwGm3WzcCaIgTez"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193592,
+      "name": "Plagiarist",
+      "url": "https://open.spotify.com/track/0SPj7B6r2PYezxF0KyIYDb"
     },
     {
       "album": {
@@ -36990,7 +37188,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 198367,
       "name": "Supermodels",
       "url": "https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy"
@@ -39330,7 +39528,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 131677,
       "name": "The Sham! The Sham! The Sham!",
       "url": "https://open.spotify.com/track/1XkkYWC4CpHZmjpcRolLKw"
@@ -39954,7 +40152,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 125391,
       "name": "Those Who Know Know Why",
       "url": "https://open.spotify.com/track/0xxymmSLKBicHAVa1yz0ZD"
@@ -41675,6 +41873,24 @@
     },
     {
       "album": {
+        "name": "Untitled (Remixed/Remastered)",
+        "url": "https://open.spotify.com/album/7D5Tqo18WMyvR93Lc4f9I0"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471660,
+      "name": "Untitled - Remixed/Remastered",
+      "url": "https://open.spotify.com/track/7MhXsiPOLAJGKnyAOtK0aL"
+    },
+    {
+      "album": {
         "name": "Unwavering Vow",
         "url": "https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ"
       },
@@ -42043,6 +42259,24 @@
     },
     {
       "album": {
+        "name": "Vista Verde (So Far, So Good)",
+        "url": "https://open.spotify.com/album/1hiAnITVXm9jFUUvTfc8aK"
+      },
+      "artists": [
+        {
+          "name": "Stateside",
+          "url": "https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166894,
+      "name": "Vista Verde (So Far, So Good)",
+      "url": "https://open.spotify.com/track/7mbiumH5NqG4DqTUa6EeIO"
+    },
+    {
+      "album": {
         "name": "Voice in Your Head",
         "url": "https://open.spotify.com/album/0vnaNn4Yw8gTH8nwhUOreU"
       },
@@ -42148,6 +42382,24 @@
       "duration_ms": 194833,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
+    },
+    {
+      "album": {
+        "name": "Live at The Forum London UK 11/04/02_FLS1045",
+        "url": "https://open.spotify.com/album/27gphwVg2rg6hAhwaVG9gD"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163787,
+      "name": "Waiting Room - London UK 11/04/02_FLS1045 - Live",
+      "url": "https://open.spotify.com/track/5saEkNMVOF4JdeDWa1AZQd"
     },
     {
       "album": {
@@ -42935,6 +43187,24 @@
     },
     {
       "album": {
+        "name": "Laughing",
+        "url": "https://open.spotify.com/album/2dJq4xCzuqSjHLehcNdA7Q"
+      },
+      "artists": [
+        {
+          "name": "Cucamaras",
+          "url": "https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136509,
+      "name": "Western",
+      "url": "https://open.spotify.com/track/4Y6jhXyA9NOezpq5pQvtBK"
+    },
+    {
+      "album": {
         "name": "As BG as They Wanna Be",
         "url": "https://open.spotify.com/album/1y3rE2ZfOeO3cCwc8qGGXD"
       },
@@ -43706,7 +43976,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 122000,
       "name": "Wild Imagination",
       "url": "https://open.spotify.com/track/77k9kl2WiBMXDw8KNI2XU3"

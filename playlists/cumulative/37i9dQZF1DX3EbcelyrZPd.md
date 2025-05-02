@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
 
-535 songs - 1 day 6 hr 35 min
+536 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Jela](https://open.spotify.com/track/7xmYLGUy5kzd9DeRIE1WP6) | [Ruby](https://open.spotify.com/artist/0WZGAVZxeoQ1fQywauk3S5) | [Jela](https://open.spotify.com/album/01yo9hQXVmd7SrMPGK5bp0) | 4:15 | 2021-11-25 | 2022-02-11 |
 | [Jeshi](https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jeshi](https://open.spotify.com/album/0F99MTbWxyLZbXLtcgfYg5) | 3:17 | 2021-06-25 | 2022-02-05 |
 | [Jipinde](https://open.spotify.com/track/66Y7mdsIOB9o6VrAJjdJGU) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Jipinde](https://open.spotify.com/album/4JMCOqbKas506lkTUtGGOq) | 2:40 | 2021-09-02 | 2022-07-15 |
+| [Jirani](https://open.spotify.com/track/0U6Fg4SXr3bl5nLwaQz5Hd) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Jirani](https://open.spotify.com/album/0vhSd0LwSYdq8FssIsGq8Q) | 3:02 | 2025-05-01 |  |
 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 | 2023-04-21 |
 | [Juju \(feat\. Marioo\)](https://open.spotify.com/track/0HsI0Uo4iQnYpCAiBQuIQg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Juju \(feat\. Marioo\)](https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk) | 3:30 | 2025-04-11 |  |
 | [Juluka](https://open.spotify.com/track/4wPZNhlSMqyKtdPG20Zt6f) | [Matutu Nyabange](https://open.spotify.com/artist/0eT1Ko0Tt6T5Bk927HJrsD), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Juluka](https://open.spotify.com/album/5d6q85ACjQVZGtzOzShpQc) | 3:38 | 2024-08-15 | 2025-01-10 |
@@ -476,7 +477,7 @@
 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 |  |
 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 | 2024-01-18 | 2024-11-22 |
 | [Unachezaje](https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Unachezaje](https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4) | 2:41 | 2021-12-16 | 2022-06-10 |
-| [UNANCHEKESHA \(Move On\)](https://open.spotify.com/track/0SEeJFBZhAo4u9IpG03bLX) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [UNANCHEKESHA \(Move On\)](https://open.spotify.com/album/1L5NOPux4D5m7hYSXJl4IU) | 2:53 | 2024-10-24 |  |
+| [UNANCHEKESHA \(Move On\)](https://open.spotify.com/track/0SEeJFBZhAo4u9IpG03bLX) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [UNANCHEKESHA \(Move On\)](https://open.spotify.com/album/1L5NOPux4D5m7hYSXJl4IU) | 2:53 | 2024-10-24 | 2025-05-02 |
 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 | 2024-06-20 | 2024-10-25 |
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-04 | 2023-02-24 |
 | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/track/6MyvdhuOqOJUQHeYouJF2K) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s) | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/album/67KiGdStO7M5oL2xiTuxkV) | 2:52 | 2023-09-07 | 2023-12-08 |

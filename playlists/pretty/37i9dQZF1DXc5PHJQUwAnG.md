@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Adán Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,349 likes - 86 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,356 likes - 86 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

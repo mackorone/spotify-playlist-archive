@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse pop! Cover: Emma Heesters
+> De nieuwste Nederlandse pop! Cover: Zoë Tauran
 
-929 songs - 1 day 20 hr 35 min
+933 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bel me niet](https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl) | [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [Levensdraden](https://open.spotify.com/album/6arLkm6MoS93r5rE50uNQJ) | 4:06 | 2023-10-12 | 2023-11-10 |
 | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/track/70kfXjOOXt41h6c2zSj051) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/album/2Q6t4oJAbaTjWOFyXXBVGi) | 4:22 | 2023-02-23 | 2023-06-09 |
 | [Ben Je Wakker?](https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ben Je Wakker?](https://open.spotify.com/album/6IVj4qgirdMuRZC70CAmc4) | 2:17 | 2023-02-23 | 2023-06-23 |
+| [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 | 2025-05-01 |  |
 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 | 2025-03-20 |  |
 | [Beschadigd](https://open.spotify.com/track/49IckSI3lJFl8ur1FdVFDj) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Beschadigd](https://open.spotify.com/album/2F1IuKpXFCGinGjbJbyFTC) | 2:18 | 2023-05-11 | 2023-07-21 |
 | [Beter Af Alleen](https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 2:48 | 2023-08-24 | 2023-09-29 |
@@ -233,6 +234,7 @@
 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 | 2023-06-29 | 2023-10-13 |
 | [dit mag niet het einde zijn](https://open.spotify.com/track/4zBpvWSw6X50smDFsI73XE) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [dit mag niet het einde zijn](https://open.spotify.com/album/28FN3zM6EAyr2lylX4B9xV) | 2:38 | 2024-05-09 | 2024-07-05 |
 | [Dit Moet Verliefd Zijn](https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dit Moet Verliefd Zijn](https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq) | 3:27 | 2023-03-30 | 2023-06-30 |
+| [Dochters](https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Dochters](https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp) | 2:23 | 2025-05-01 |  |
 | [Doe Het Licht Maar Uit](https://open.spotify.com/track/4VW5IbDYlGoMf4lmYC5r9B) | [Dominique](https://open.spotify.com/artist/1ZsK3mltVHS1cjtIghy0UT) | [Doe Het Licht Maar Uit](https://open.spotify.com/album/0ZYY3EH6Kap7PhFg8gKPwC) | 2:38 | 2023-06-15 | 2023-06-30 |
 | [Doe Maar](https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Doe Maar](https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY) | 2:30 | 2024-04-18 | 2024-07-27 |
 | [Doodsbang](https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [FLEMMING](https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy) | 3:02 | 2023-02-23 | 2023-03-18 |
@@ -360,7 +362,9 @@
 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 | 2024-05-30 | 2024-09-13 |
 | [Hoe Gaat Het Met Je Dromen](https://open.spotify.com/track/1bhO0NZP6TvRKZ5P0kGXCj) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Hoe Gaat Het Met Je Dromen](https://open.spotify.com/album/74BWJXWyVpAJz7Nqe2qoCW) | 2:38 | 2024-10-24 | 2025-01-07 |
 | [Hoe Minder Je Weet](https://open.spotify.com/track/0nzO7opgxBudBTawZPao5X) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Hoe Minder Je Weet](https://open.spotify.com/album/5O3MEZgD5ePlwZXQmBahcy) | 2:29 | 2023-05-25 | 2023-08-18 |
+| [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-05-01 |  |
 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 | 2024-04-04 | 2024-06-28 |
+| [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-05-01 |  |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-08-01 | 2024-09-27 |
 | [Hoger](https://open.spotify.com/track/4m4tKwymIWnZn2UEUIz7ld) | [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [Hoger](https://open.spotify.com/album/3EPSzFm41wZfk95Ju8OpSO) | 2:11 | 2023-05-11 | 2023-08-11 |
 | [Hollywood](https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Hollywood](https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH) | 2:34 | 2023-07-27 | 2023-11-10 |
@@ -389,7 +393,7 @@
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4QxCCHF8fViAhGXU6Omezh) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Hypnose](https://open.spotify.com/album/5wTzEj0AQzPg2ss3ohEfqR) | 2:41 | 2024-11-07 | 2025-01-24 |
 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 | 2025-04-03 |  |
-| [Idioot](https://open.spotify.com/track/7EtZ5dueTkf7KwTOeexNkO) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Idioot](https://open.spotify.com/album/5IpWpAW3wTtKquyZtQowCX) | 2:19 | 2025-02-13 |  |
+| [Idioot](https://open.spotify.com/track/7EtZ5dueTkf7KwTOeexNkO) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Idioot](https://open.spotify.com/album/5IpWpAW3wTtKquyZtQowCX) | 2:19 | 2025-02-13 | 2025-05-02 |
 | [Idool](https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Idool](https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE) | 3:02 | 2024-11-04 | 2025-01-17 |
 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 | 2025-01-06 | 2025-03-28 |
 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 | 2025-03-13 |  |
@@ -844,7 +848,7 @@
 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 | 2025-03-06 | 2025-03-28 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-05-26 |
 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-03-04 | 2024-05-17 |
-| [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-02-13 |  |
+| [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-02-13 | 2025-05-02 |
 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 | 2023-09-21 | 2024-02-09 |
 | [Vuur = Blauw](https://open.spotify.com/track/3IVW3imj7fGBxLDXEU3uNZ) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Vuur = Blauw](https://open.spotify.com/album/2i2xHpgNQfsGHWBuBfgpVP) | 3:10 | 2023-02-23 | 2023-04-07 |
 | [Waar Ben Je Bang Voor](https://open.spotify.com/track/3wIsia7eAooBiChieqIOs2) | [Emmy Eve](https://open.spotify.com/artist/0eA3GIgzZiKukkzphXJbu5) | [Wat Ik Bedoel Te Zeggen](https://open.spotify.com/album/0jiQXkXsViYvsACHqi2l4n) | 3:57 | 2023-11-16 | 2023-12-08 |

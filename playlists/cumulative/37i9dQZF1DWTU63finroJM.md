@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,983 songs - 4 day 11 hr 18 min
+1,985 songs - 4 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 | 2024-05-31 | 2024-10-19 |
 | [forever.](https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [forever.](https://open.spotify.com/album/0LTob0bsx3Ehb2BsJhaEab) | 2:49 | 2024-09-27 | 2024-10-16 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 | 2024-08-17 |
+| [Forgive Me](https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Forgive Me](https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y) | 3:06 | 2025-04-25 |  |
 | [formula](https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [formula](https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW) | 2:49 | 2025-03-21 |  |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-02-09 | 2024-07-29 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-02 | 2025-01-26 |
@@ -999,6 +1000,7 @@
 | [Mama Aren't You Angry](https://open.spotify.com/track/3W6MVfrJbgHzRC1VrzMSSl) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Mama Aren't You Angry](https://open.spotify.com/album/7FOnySoIGCkJ5WZPhCWqNH) | 2:43 | 2024-05-03 | 2024-05-26 |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-12-07 | 2024-03-16 |
 | [MANIAC](https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [MANIAC](https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9) | 2:52 | 2025-01-31 | 2025-04-05 |
+| [MANZANA](https://open.spotify.com/track/4omg9ZG0HsLPcIRCTej50K) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [MANZANA](https://open.spotify.com/album/6A3D49y6i0GnIGShUm5oUC) | 2:08 | 2025-04-25 |  |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2022-02-03 | 2022-03-18 |
 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-21 | 2025-04-26 |
 | [Maria, Maria](https://open.spotify.com/track/34OmSPO09C9BiDXBv1xGzL) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 3:02 | 2022-03-24 | 2022-04-19 |
@@ -1332,7 +1334,7 @@
 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-06-21 | 2024-06-25 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2022-03-03 | 2023-01-28 |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-05-18 |
-| [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-04-18 |  |
+| [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-04-18 | 2025-05-02 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-27 | 2024-05-04 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2022-08-27 |
 | [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 | 2025-04-27 |
@@ -1469,7 +1471,7 @@
 | [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 | 2024-08-02 | 2025-02-09 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-10-05 | 2024-03-16 |
 | [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 | 2024-11-01 |
-| [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 | 2025-04-04 |  |
+| [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 | 2025-04-04 | 2025-05-02 |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-29 | 2022-08-02 |
 | [SOTTOVUOTO](https://open.spotify.com/track/199Svha19bRqiXZZmjELF6) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SOTTOVUOTO](https://open.spotify.com/album/4rlD5BCaW8ZybnIcxsrOx1) | 3:23 | 2022-03-24 | 2022-04-17 |
 | [SOUL](https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [HIGHLY SPIRITUAL](https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B) | 2:44 | 2024-04-19 | 2024-08-31 |

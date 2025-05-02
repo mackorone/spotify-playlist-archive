@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from K.O, Young Stunna, Priddy Prince, Riky Rick, Quavo and more.
+> Only the hottest Hip Hop from Moozlie, K.O, Young Stunna, Priddy Prince, Riky Rick, and more.
 
-377 songs - 20 hr 14 min
+378 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [GET DRIP](https://open.spotify.com/track/7Cv4OoYTPOkX9vCnsoTqvc) | [BRITE GVNG](https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv), [MY OWN VESSELS](https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr) | [GET DRIP](https://open.spotify.com/album/6F0Jl8VK8kPB8ZwuBdNO29) | 2:18 | 2022-11-10 | 2022-12-13 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-11-11 |
 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 | 2022-11-14 | 2022-11-18 |
+| [Go Getter](https://open.spotify.com/track/4X63AKHcEIV43wkcDke0GI) | [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Go Getter](https://open.spotify.com/album/6Udojl7Yze5b1gsKSxNrrK) | 2:45 | 2025-05-01 |  |
 | [GOD DID \(feat\. Rick Ross, Lil Wayne, Jay\-Z, John Legend & Fridayy\)](https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 8:21 | 2022-08-29 | 2024-04-05 |
 | [GODS TIMING](https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Steveisfrench](https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB) | [THANK GOD FOR THE SUN](https://open.spotify.com/album/2bsEx0B5XsrmBrQCx0DEue) | 3:05 | 2024-05-31 | 2024-08-23 |
 | [GRATITUDE](https://open.spotify.com/track/0SmGhDR2VnkG8betDNPu5j) | [Uncle Partytime](https://open.spotify.com/artist/0RB4t74uP0kkC8jCaaENWn), [BELO SALO](https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Crush!](https://open.spotify.com/artist/2AueMr7d3EbVe8GMFsNMRg), [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP) | [GRATITUDE](https://open.spotify.com/album/1FY6fC4JtvdTFiKY2D7qqz) | 3:55 | 2023-03-06 | 2023-03-11 |

@@ -154,6 +154,6 @@
 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 | 2024-10-01 | 2025-03-05 |
 | [Waktunya Sendiri](https://open.spotify.com/track/5XmrCaFEvjgf2dbTpW2697) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Jangan Sampai Pasrah](https://open.spotify.com/album/2Pg6WSInKX2n84hA7Hqw4i) | 4:18 | 2024-06-04 | 2024-07-03 |
 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 | 2024-06-04 | 2024-10-02 |
-| [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-04-01 |  |
+| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-04-01 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

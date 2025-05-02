@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MAR, Sleepytheprince",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
   "name": "Seda",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190434,
       "name": "culpada",
       "url": "https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp"
@@ -3530,6 +3530,24 @@
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
+    },
+    {
+      "album": {
+        "name": "DERROTAS",
+        "url": "https://open.spotify.com/album/2GP2aqBWD7KVLjgi6mi8QY"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "DERROTAS",
+      "url": "https://open.spotify.com/track/5A2vEPhvdyR8n6cbPgPGw7"
     },
     {
       "album": {
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 165209,
       "name": "Done Playing",
       "url": "https://open.spotify.com/track/3DTlk6xaPJmhw5VD6Ej2GU"
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 177073,
       "name": "Falei",
       "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
@@ -9367,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "O Dia",
+        "url": "https://open.spotify.com/album/4AAO1WbVR98GTIpkFZammc"
+      },
+      "artists": [
+        {
+          "name": "kaako",
+          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
+        },
+        {
+          "name": "LIMA TK",
+          "url": "https://open.spotify.com/artist/5MJKgAdvkzQp3fL0LQcLth"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "O Dia",
+      "url": "https://open.spotify.com/track/0Xcvnzu3hF3mnJqjQr3EIn"
+    },
+    {
+      "album": {
         "name": "O Que N\u00f3s Fomos",
         "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
@@ -9400,6 +9440,24 @@
       "duration_ms": 175609,
       "name": "O Rosto Que Pintei",
       "url": "https://open.spotify.com/track/0cx5OGK0zwSrDucutxkxfT"
+    },
+    {
+      "album": {
+        "name": "O Tal",
+        "url": "https://open.spotify.com/album/3FrmXjEhqHZiu7Ijmvge5Y"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111538,
+      "name": "O Tal",
+      "url": "https://open.spotify.com/track/6yoxi6tqWQFJR45OAuIpLZ"
     },
     {
       "album": {
@@ -10563,6 +10621,28 @@
     },
     {
       "album": {
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM"
+    },
+    {
+      "album": {
         "name": "Quem Tu Mereces",
         "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
       },
@@ -10600,7 +10680,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 160601,
       "name": "Quem \u00c9s Tu?",
       "url": "https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl"
@@ -11300,7 +11380,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"

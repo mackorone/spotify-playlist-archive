@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Foxwarren
 
-1,147 songs - 2 day 20 hr 55 min
+1,148 songs - 2 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-03-09 |
 | [Down in the Willow Garden \(feat\. Brandi Carlile\)](https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Down in the Willow Garden \(feat\. Brandi Carlile\)](https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46) | 3:05 | 2023-03-10 | 2023-04-15 |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-10 | 2024-09-28 |
+| [Dreams](https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Dreams](https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud) | 3:42 | 2025-05-01 |  |
 | [Drive](https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Drive](https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk) | 3:27 | 2025-04-11 |  |
 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 | 2023-04-21 | 2023-10-07 |
 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 | 2023-05-05 | 2023-06-17 |
@@ -1109,7 +1110,7 @@
 | [Whiskey & Cigarettes](https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Whiskey & Cigarettes](https://open.spotify.com/album/4Caa4NGOiaczGbgRUak4QL) | 1:47 | 2022-11-11 | 2023-01-21 |
 | [Whiskey Angel](https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Ever\-Shifting, Continual Blossoming](https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB) | 2:50 | 2024-09-13 | 2025-01-25 |
 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 | 2024-01-12 | 2024-06-01 |
-| [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 | 2025-03-14 |  |
+| [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 | 2025-03-14 | 2025-05-02 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-09-14 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2024-08-24 |
 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 | 2023-04-21 | 2023-04-30 |

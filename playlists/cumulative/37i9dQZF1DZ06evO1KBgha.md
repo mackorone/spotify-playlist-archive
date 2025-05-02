@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1KBgha.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1KBgha) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1KBgha)
 
-### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
+### [This Is Kenia Os](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This is Kenia OS\. The essential tracks, all in one playlist.
+> This is Kenia Os\. The essential tracks, all in one playlist.
 
 76 songs - 3 hr 35 min
 

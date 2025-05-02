@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-389 songs - 21 hr 13 min
+390 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 | 2024-01-26 | 2024-04-27 |
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 | 2023-11-11 |
 | [Donde Estas](https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Donde Estas](https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F) | 2:52 | 2024-03-01 | 2024-05-21 |
-| [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 | 2025-02-14 |  |
+| [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 | 2025-02-14 | 2025-05-02 |
 | [Dura](https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ) | [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4) | [Dura](https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH) | 2:43 | 2024-08-09 | 2024-09-26 |
 | [E Baixo](https://open.spotify.com/track/2zIosuEKWuayV6gWSQ9zCN) | [JB Martinz](https://open.spotify.com/artist/3ppRzj5DrR9my3t6GiBtEr), [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [E Baixo](https://open.spotify.com/album/3bvPNbSHHEgnE4nah7R2TG) | 3:12 | 2025-01-10 |  |
 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 | 2023-11-10 | 2024-04-19 |
@@ -330,6 +330,7 @@
 | [Somos Libres](https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Somos Libres](https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV) | 3:10 | 2024-05-24 | 2024-07-12 |
 | [Sopa De Caracol](https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc) | [Sopa De Caracol](https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120) | 2:34 | 2024-09-30 | 2025-01-11 |
 | [Soy Candela](https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Soy Candela](https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y) | 2:39 | 2024-03-15 | 2024-05-05 |
+| [Subala Y Bajo](https://open.spotify.com/track/3WZKhEwTQG6rh698gUPJI0) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Johnnie Ernest](https://open.spotify.com/artist/0vOLy5xwqdnViGxCIVs0J8), [JEEN SEIGO](https://open.spotify.com/artist/22WxLwTHDlHFTtNzwhjWp7) | [Subala Y Bajo](https://open.spotify.com/album/6YgXs4pIId28YE63yHWzCD) | 2:23 | 2025-04-25 |  |
 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 | 2021-10-08 | 2023-11-11 |
 | [São Paulo](https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [São Paulo EP](https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4) | 3:00 | 2025-01-17 |  |
 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 | 2024-11-15 |  |

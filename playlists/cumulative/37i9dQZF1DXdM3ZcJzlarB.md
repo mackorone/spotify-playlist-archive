@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros.
 
-238 songs - 23 hr 31 min
+239 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 | 2023-11-17 | 2024-05-11 |
 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 | 2024-02-02 |  |
 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 | 2020-09-04 | 2023-11-18 |
+| [The Hanging Tree](https://open.spotify.com/track/0VPJnjF2TEshtyEwNxBcAA) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [The Hanging Tree](https://open.spotify.com/album/12mgeUhTHMNaWcMxNG5xnP) | 3:14 | 2025-05-02 |  |
 | [The Illusion](https://open.spotify.com/track/5bVb0wK6MbEcfUYLXlXdcw) | [Joan Retamero](https://open.spotify.com/artist/5DgoJDVafztIO8Q2RGpGuh) | [The Illusion](https://open.spotify.com/album/4u8kiomTCLb4WXrQQi4q5H) | 7:20 | 2025-03-19 |  |
 | [The Raveolution](https://open.spotify.com/track/0fTXTxCAk94ZUEjqoUvb1d) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 6:14 | 2025-03-19 |  |
 | [The Realest](https://open.spotify.com/track/7pVOQ63wXi6ZBoJMLrIddW) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [The Realest](https://open.spotify.com/album/1eIFDwfwiiMZHwU0N8fzoF) | 3:38 | 2025-03-19 |  |

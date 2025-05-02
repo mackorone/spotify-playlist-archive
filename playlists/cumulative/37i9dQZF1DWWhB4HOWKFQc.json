@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Galdive",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Sheila on 7",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 332000,
       "name": "Berhenti Berharap",
       "url": "https://open.spotify.com/track/1iGHggtU4xSgY2HJCGn5k9"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190304,
       "name": "BTG",
       "url": "https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE"
@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
         "name": "Catalyst.",
         "url": "https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp"
       },
@@ -3446,6 +3464,28 @@
       "duration_ms": 234125,
       "name": "Cintanya Aku",
       "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
+    },
+    {
+      "album": {
+        "name": "CLBK (Cinta Lama Bersemi Kembali)",
+        "url": "https://open.spotify.com/album/5a7oMY6nGpi112A4QsD7u7"
+      },
+      "artists": [
+        {
+          "name": "Divalova",
+          "url": "https://open.spotify.com/artist/26EEUm0ytwlPcEJ9fG4v6C"
+        },
+        {
+          "name": "Bayu G2B",
+          "url": "https://open.spotify.com/artist/3am86z1IFeNbmRwDhWGyfb"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "CLBK - Cinta Lama Bersemi Kembali",
+      "url": "https://open.spotify.com/track/4t5BuZnJ29lEtiEMqeRMnO"
     },
     {
       "album": {
@@ -7230,7 +7270,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
@@ -8317,6 +8357,24 @@
     },
     {
       "album": {
+        "name": "Thank You (Deluxe Version)",
+        "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Just a Friend to You",
+      "url": "https://open.spotify.com/track/2f4FDuRjuV1yXfpoG49ABM"
+    },
+    {
+      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -9012,6 +9070,24 @@
       "duration_ms": 282675,
       "name": "Kita Ke Sana",
       "url": "https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW"
+    },
+    {
+      "album": {
+        "name": "Kita Usahakan Lagi",
+        "url": "https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233916,
+      "name": "Kita Usahakan Lagi",
+      "url": "https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF"
     },
     {
       "album": {
@@ -10437,6 +10513,28 @@
     },
     {
       "album": {
+        "name": "Nalar",
+        "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261048,
+      "name": "Mangu",
+      "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
+    },
+    {
+      "album": {
         "name": "The 4th Mini Album 'VERSUS'",
         "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
       },
@@ -10962,7 +11060,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 209776,
       "name": "Menunggu Cinta",
       "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
@@ -10984,7 +11082,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 218214,
       "name": "Menunggu Giliran",
       "url": "https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq"
@@ -13179,6 +13277,24 @@
     },
     {
       "album": {
+        "name": "Pernah Dicinta",
+        "url": "https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ"
+      },
+      "artists": [
+        {
+          "name": "Elsa Japasal",
+          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256825,
+      "name": "Pernah Dicinta",
+      "url": "https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V"
+    },
+    {
+      "album": {
         "name": "Doves, '25 on Blank Canvas",
         "url": "https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU"
       },
@@ -13412,6 +13528,24 @@
       "duration_ms": 188160,
       "name": "pocket locket",
       "url": "https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Ponte Bonita",
+      "url": "https://open.spotify.com/track/50tfayMP8ZnSiV1sPM48qD"
     },
     {
       "album": {
@@ -17930,6 +18064,24 @@
       "duration_ms": 196090,
       "name": "Teruntuk Mia",
       "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
+    },
+    {
+      "album": {
+        "name": "Tetap Baik",
+        "url": "https://open.spotify.com/album/6oylM1U237hJrCKyw3Thhl"
+      },
+      "artists": [
+        {
+          "name": "Goodfriends Community",
+          "url": "https://open.spotify.com/artist/6e7E3dlppRwt3vsSE2VHpS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315500,
+      "name": "Tetap Baik",
+      "url": "https://open.spotify.com/track/7cbfUDPN18KmRGq9JEl1GW"
     },
     {
       "album": {

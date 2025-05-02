@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-126 songs - 7 hr 6 min
+127 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Pineapple Drink](https://open.spotify.com/track/3EiV7BXmyIEJbUYpulc7Kj) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Katelyn Skye](https://open.spotify.com/artist/32GN439n6P2c3lwfWJMYi2) | [The Lost Tapes](https://open.spotify.com/album/5gKtx3nrdXfYNrZPI4b42h) | 3:04 | 2023-06-30 | 2024-02-23 |
 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 | 2024-07-16 |
-| [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 |  |
+| [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 | 2025-05-02 |
 | [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 | 2024-11-09 |
 | [River](https://open.spotify.com/track/5xLc7raaqvmNZjtZ9KdoHR) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [River](https://open.spotify.com/album/0xqaMa5dhwsrXR589RB561) | 4:24 | 2024-07-15 | 2025-03-07 |
 | [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 | 2024-02-09 |
@@ -104,6 +104,7 @@
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-06-30 | 2024-06-01 |
 | [Songea](https://open.spotify.com/track/1hTWAB6y3eshiUXXDEMiZH) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Songea](https://open.spotify.com/album/1NszeKpCZuw1DSBBWQAPi0) | 3:26 | 2024-09-26 | 2025-03-14 |
 | [Spend My Money](https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Spend My Money](https://open.spotify.com/album/7a2QwjWVQQOD1O6M2zBDvq) | 2:56 | 2023-06-30 | 2024-07-03 |
+| [Spoils](https://open.spotify.com/track/6p2GZQ2XvtzY1y02AvsA0J) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Spoils](https://open.spotify.com/album/1FJRlLYSvXvf75AbJ6iRQR) | 3:16 | 2025-05-01 |  |
 | [Still Ain't Free](https://open.spotify.com/track/4TFvHFpvWHFhP9TDt02ppl) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Still Ain't Free](https://open.spotify.com/album/7gC5LgjRmFhaqdJt2o0B2R) | 2:12 | 2025-03-07 |  |
 | [Sucky Place](https://open.spotify.com/track/0IxYhLVxCsjKR5Mv5ZWis4) | [Sichangi](https://open.spotify.com/artist/2DftdJfk5hxZfnnRETvXtE), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Soundtrack to a Heartbreak](https://open.spotify.com/album/5emRSeXmDV77latJDtwIM3) | 2:40 | 2023-06-30 |  |
 | [Sunny Everyday](https://open.spotify.com/track/7r8z2NTBdx2euV2pSJkhOW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [mphilo](https://open.spotify.com/artist/5CJTRMHq8aukAtFyoleRIF) | [Whispers of the Soul](https://open.spotify.com/album/4XZaOuCDoQ5igRDBnxqD71) | 1:39 | 2024-02-22 | 2024-10-18 |

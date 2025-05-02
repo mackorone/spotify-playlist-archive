@@ -382,7 +382,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1686,24 +1686,6 @@
     {
       "album": {
         "name": "I DO",
-        "url": "https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2025-01-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190113,
-      "name": "I DO",
-      "url": "https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X"
-    },
-    {
-      "album": {
-        "name": "I DO",
         "url": "https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN"
       },
       "artists": [
@@ -1718,6 +1700,24 @@
       "duration_ms": 190113,
       "name": "I DO",
       "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
+    },
+    {
+      "album": {
+        "name": "I DO",
+        "url": "https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190113,
+      "name": "I DO",
+      "url": "https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X"
     },
     {
       "album": {
@@ -3458,7 +3458,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],

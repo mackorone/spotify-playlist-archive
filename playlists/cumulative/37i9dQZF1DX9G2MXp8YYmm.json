@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: M Lisa",
+  "description": "Pop'un sevilen isimleri. Kapak: Eftalya Ya\u011fc\u0131",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 163728,
       "name": "Destan",
       "url": "https://open.spotify.com/track/1drBEGaK3CihcJ8gfiUIxu"
@@ -3660,6 +3660,24 @@
       "duration_ms": 143693,
       "name": "sga",
       "url": "https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt"
+    },
+    {
+      "album": {
+        "name": "S\u0130YAH",
+        "url": "https://open.spotify.com/album/2qokghXkZ2eCOgPmQC2MqN"
+      },
+      "artists": [
+        {
+          "name": "Eftalya Ya\u011fc\u0131",
+          "url": "https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189607,
+      "name": "S\u0130YAH",
+      "url": "https://open.spotify.com/track/1lOyPGanKDx22bX2R2PFGt"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Raluka
+> Cele mai noi hituri pop românești\. Cover: Alex Velea, Connect\-R,Smiley.
 
-232 songs - 11 hr 0 min
+233 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Apari în vise](https://open.spotify.com/track/5JA2h10ZUi5vAEZViXJamz) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [VANILLA BOY](https://open.spotify.com/album/206zVYtuYhyAV3JdVyVoPv) | 2:48 | 2024-08-08 | 2024-08-23 |
 | [Apă și Pământ](https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Apă și Pământ](https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG) | 2:40 | 2024-09-26 | 2024-12-20 |
 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 | 2024-12-12 | 2025-03-21 |
+| [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 | 2025-05-01 |  |
 | [Așa, cum ești tu](https://open.spotify.com/track/6ESlixRsvSuqBdm5y60njA) | [Elena](https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq), [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Așa, cum ești tu](https://open.spotify.com/album/7lOJpV3hrFUslhp8gmLEQo) | 3:21 | 2024-06-27 | 2024-09-13 |
 | [Ba e soare, ba e ploaie](https://open.spotify.com/track/7ffVzMf2rW26TlWkPhYvPk) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Ba e soare, ba e ploaie](https://open.spotify.com/album/2QNvNrO1u2o7hLJJ8lfhap) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Bahebek](https://open.spotify.com/track/5Ks0xMrdqAQhzTEoRKrDDv) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Bahebek](https://open.spotify.com/album/7wwHJYVoehYIp6IZvopzjy) | 2:13 | 2024-10-31 | 2025-04-05 |
@@ -221,7 +222,7 @@
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |
 | [Tu n\-ai avut curaj \- Roton 3.0 / Sessions](https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Tu n\-ai avut curaj \(Roton 3.0 / Sessions\)](https://open.spotify.com/album/59qrjWlCwK9AYC099Y47iD) | 3:21 | 2024-06-27 | 2024-07-25 |
 | [Tu, Omule](https://open.spotify.com/track/7xbSg9L3XUoSR6vBCKWF3D) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Tu, Omule](https://open.spotify.com/album/1u1T3GULAzl3VO8OtwhQYR) | 3:21 | 2024-11-07 | 2024-11-22 |
-| [Ultima](https://open.spotify.com/track/47uguUF6h9NSOLexfbrgep) | [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC) | [Ultima](https://open.spotify.com/album/3Sl6dC3dAyRghTITCG89YD) | 3:30 | 2024-11-14 |  |
+| [Ultima](https://open.spotify.com/track/47uguUF6h9NSOLexfbrgep) | [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC) | [Ultima](https://open.spotify.com/album/3Sl6dC3dAyRghTITCG89YD) | 3:30 | 2024-11-14 | 2025-05-02 |
 | [Ultima](https://open.spotify.com/track/55YHieBnYTYuibyvYv0aRr) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Ultima](https://open.spotify.com/album/6b9q2TXJSXn9Pjr3BHMB7S) | 2:46 | 2025-03-27 | 2025-04-18 |
 | [Ultima Baladă](https://open.spotify.com/track/3Y58pJSJZOCfKENlSSJfL9) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Ultima Baladă](https://open.spotify.com/album/3X7P65KaLa4IgYe4eTTNT5) | 3:02 | 2024-10-03 | 2024-10-25 |
 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 | 2024-12-19 | 2025-03-14 |

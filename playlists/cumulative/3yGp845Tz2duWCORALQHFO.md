@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,708 songs - 6 day 2 hr 42 min
+2,709 songs - 6 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2589,6 +2589,7 @@
 | [We Gather](https://open.spotify.com/track/51ZJKRJYzrFNX0MTFoQbPN) | [Adam Ellis](https://open.spotify.com/artist/5tGHR2wsaFZhRzRPRZDFds), [Dettech](https://open.spotify.com/artist/6wsiBgyCb7uaxvav9zLM1p), [Kate Louise Smith](https://open.spotify.com/artist/1oTc5uL1Jrp1VwqdJrW7TT) | [We Gather](https://open.spotify.com/album/59hXjdFSCZ7hun77tOUMTt) | 3:37 | 2025-02-21 | 2025-03-01 |
 | [We Will Never Change](https://open.spotify.com/track/2nd2RnXbaAM2DiFf2RKppI) | [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ), [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD), [JVZEL](https://open.spotify.com/artist/1YGqQWe9iOGuA9QwYab3LE) | [We Will Never Change](https://open.spotify.com/album/4ZORrv6sq9J4p2BLINLQDy) | 2:50 | 2024-10-24 | 2024-11-01 |
 | [We'll Never Say Goodbye \- Roman Messer Remix](https://open.spotify.com/track/1WFSQpNWvnDt1gcdpjy7R4) | [Kevin](https://open.spotify.com/artist/4M74psBIDmFyv4ZkuFjSf4), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa), [Tom Holmes](https://open.spotify.com/artist/0TPZaMq1V4Q5RPEOYub4lI), [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [We’ll Never Say Goodbye \(Roman Messer Remix\)](https://open.spotify.com/album/5rAmnbqUgt7JAg3ns4NT7x) | 3:13 | 2025-01-31 | 2025-02-07 |
+| [We're Done](https://open.spotify.com/track/5Wc2RVItaJHLFg20v6rLh8) | [Dehko](https://open.spotify.com/artist/1xV2xLgsPO74FavF7Tz083), [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ) | [Tektroit, Vol\. 2](https://open.spotify.com/album/1Q6F6KzSpJw8FD6fwgSIEj) | 2:46 | 2025-05-01 |  |
 | [We've Talked Enough](https://open.spotify.com/track/6fPgvyZUKU9fuaqwWUVLjv) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J) | [We’ve Talked Enough](https://open.spotify.com/album/6Bp0ZQ4TAwK3QU4LQDCo7d) | 3:53 | 2025-02-28 | 2025-03-08 |
 | [We.Are \- Markus Schulz In Search of Sunrise Remix](https://open.spotify.com/track/2gljWji20bIJ5LaagI9k7j) | [Bart Claessen](https://open.spotify.com/artist/6E5ESwox3QUQ4ewUKo9D2c), [Who.is](https://open.spotify.com/artist/1egg8tEQa2akD2Bop07rhB), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [We.Are \(Markus Schulz In Search of Sunrise Remix\)](https://open.spotify.com/album/5XFEBV8yeogui0rigmCA2Y) | 3:19 | 2024-12-05 | 2024-12-14 |
 | [Wearing the Darkness](https://open.spotify.com/track/45Bjok6aIH7VCFQQX1jyFW) | [Leon Bolier](https://open.spotify.com/artist/4iqg3LlZiqAElJOXJtC11H), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0) | [Wearing the Darkness](https://open.spotify.com/album/1Xdpnl18VMTF5ABxrKqbbd) | 3:06 | 2024-11-15 | 2024-11-23 |

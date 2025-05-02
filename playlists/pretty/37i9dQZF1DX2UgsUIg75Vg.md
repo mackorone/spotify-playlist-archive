@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Celebrating 25 Years of R&B with Sasha Keable, Lekan, and WESLEYFRANKLIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,387,044 likes - 178 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,386,989 likes - 178 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 177 | [Love Is](https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives: The Gallery](https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh) | 2:42 |
 | 178 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 
-Snapshot ID: `aBK9iQAAAAC1Q8622NGCvM1SWe+M3TnY`
+Snapshot ID: `AAAAADQtZJyTN/7sODlrvy044Q+Ol9c9`

@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Josh Ross",
-  "num_followers": 451411,
+  "num_followers": 451439,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-04-23 19:46:30",
       "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 158634,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
-    },
-    {
-      "added_at": "2025-04-23 19:46:30",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2025-04-23 19:46:30",
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
       "added_at": "2025-04-23 19:46:30",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-04-23 19:46:30",
       "album": {
-        "name": "Friends Like That",
-        "url": "https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA"
-      },
-      "artists": [
-        {
-          "name": "John Morgan",
-          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Friends Like That",
-      "url": "https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO"
-    },
-    {
-      "added_at": "2025-04-23 19:46:30",
-      "album": {
         "name": "Called Crazy",
         "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 186520,
       "name": "Broken Heart Thing (feat. Dustin Lynch)",
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
+    },
+    {
+      "added_at": "2025-04-23 19:46:30",
+      "album": {
+        "name": "Friends Like That",
+        "url": "https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Friends Like That",
+      "url": "https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO"
     },
     {
       "added_at": "2025-04-23 19:46:30",

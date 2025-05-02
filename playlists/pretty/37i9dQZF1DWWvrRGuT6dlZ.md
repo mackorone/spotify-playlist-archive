@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lagu Tiga](https://open.spotify.com/track/6ViVTewgOgggJVvbcj6piB) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Lagu Tiga](https://open.spotify.com/album/5HGWtmDAeMPZNzKr9pAqyv) | 3:31 |
-| 2 | [RASA](https://open.spotify.com/track/49PiLsHb2OrcOho7FFahf1) | [Fiza Thomas](https://open.spotify.com/artist/2lIxUA1U8LCa5Ig7mKQ9nW) | [RASA](https://open.spotify.com/album/6V65zdqjsvTBXjP17KsjW5) | 3:45 |
+| 2 | [RASA](https://open.spotify.com/track/49PiLsHb2OrcOho7FFahf1) | [Fiza Thomas](https://open.spotify.com/artist/6vRDobHB49LMjVXre0mN7e) | [RASA](https://open.spotify.com/album/6V65zdqjsvTBXjP17KsjW5) | 3:45 |
 | 3 | [Tinggalkan Luka](https://open.spotify.com/track/1Id2FlmtDzWU9l3XjO7kJI) | [Roziana Cindy](https://open.spotify.com/artist/1LiIxFB0LGjLU6F8sklLdh) | [Tinggalkan Luka](https://open.spotify.com/album/5Vw5hQUkNu7QQaIoPalSHp) | 4:31 |
 | 4 | [So Much Better](https://open.spotify.com/track/6olWSvLxuCeo42OTIhKJ23) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [So Much Better](https://open.spotify.com/album/6n6mtqICJVs59feWQELG2A) | 3:50 |
 | 5 | [Cinta](https://open.spotify.com/track/2UsOt9uH7xWfyGu1bzgNPg) | [GRUV](https://open.spotify.com/artist/4T6L9YXh2OcAZhxiqx5WwG) | [Cinta](https://open.spotify.com/album/5Z27iu7vTYewIsMwu5tfBe) | 3:55 |

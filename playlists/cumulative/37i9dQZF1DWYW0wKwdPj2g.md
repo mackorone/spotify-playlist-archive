@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
 
-219 songs - 1 day 4 hr 48 min
+221 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 | 2025-02-07 |
 | [He Reigns](https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [He Reigns](https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa) | 5:41 | 2024-10-04 | 2025-01-31 |
 | [Head In The Sky \- Live](https://open.spotify.com/track/02nPHOHMGfUKTmqjrILtHZ) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rewind It \(Live\)](https://open.spotify.com/album/4tqreI2rZSuBxjOEBqEwT9) | 3:02 | 2025-04-25 |  |
+| [Higher oh \- Live](https://open.spotify.com/track/6vOiTgozU5X0lWRoasn35p) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q) | [Higher oh \(Live\)](https://open.spotify.com/album/6ty3mbgv5Y6Bc2yp294hRN) | 3:46 | 2025-05-02 |  |
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-03-29 | 2024-04-12 |
 | [Hold On](https://open.spotify.com/track/01H2VrG6M1Mi6NQGvSZqNK) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE) | [Gratitude](https://open.spotify.com/album/3JSITBuRn2vwJ5I0fwWIic) | 6:47 | 2025-01-03 | 2025-01-31 |
 | [Holy You Are \- Live](https://open.spotify.com/track/5HmakaEgMBfCCaLgWtyJvc) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Holy You Are \(Live\)](https://open.spotify.com/album/7hpWv6FmCNAP2dbNqY7qCg) | 13:42 | 2024-09-13 | 2024-11-08 |
@@ -204,6 +205,7 @@
 | [We Lift You High \- Live](https://open.spotify.com/track/6rm0BbPPEKc9vYvdBIdrS7) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Eunice Ojo](https://open.spotify.com/artist/4NNB6zlRndbf7fkwBix5Un) | [We Lift You High \(Live\)](https://open.spotify.com/album/1Or8OQZyIuEaftRgQAMaaj) | 6:54 | 2024-12-20 | 2025-04-11 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Want More](https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD) | [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [We Want More](https://open.spotify.com/album/1AiXWLmThkIw2jF9e1RPWd) | 17:03 | 2024-09-06 | 2024-12-20 |
+| [What A Beauty To Behold \- Live](https://open.spotify.com/track/6BcRgQXx99DNv6BFEQwmgZ) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [What A Beauty To Behold \(Live\)](https://open.spotify.com/album/5Jpn86ta1C3jne9e3Gy9Kx) | 7:54 | 2025-05-02 |  |
 | [When We Praise \- Live](https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [When We Praise \(Live\)](https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ) | 5:44 | 2024-08-30 | 2024-11-15 |
 | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/track/60Rryc6TaQNDQRbiWBXfd1) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/album/4W0qjKFeLkJU4i1VYM0A4s) | 6:08 | 2025-04-25 |  |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 |  |

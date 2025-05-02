@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-1,649 songs - 4 day 2 hr 12 min
+1,650 songs - 4 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Anytime](https://open.spotify.com/track/5gKWqMjX5zfvXGJSjv5hzi) | [Cameron Sonnier](https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw) | [Synchronicity](https://open.spotify.com/album/6dg3Pb9zzm3iopIPoeceMZ) | 4:52 | 2024-12-04 | 2025-01-16 |
 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 | 2023-05-03 | 2023-06-29 |
 | [Apathy](https://open.spotify.com/track/3LvULhkMInjjfKdaOpl6nP) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [Quitting Season](https://open.spotify.com/album/1BMa8nQywkOL6p9OPiIUPQ) | 4:00 | 2023-01-11 | 2023-02-23 |
+| [aphrodite](https://open.spotify.com/track/3WcsPLlO3IgQbgWn6OBVFi) | [Eden J Howells](https://open.spotify.com/artist/6y07TVZtZy3CGkeJts7cJL) | [aphrodite](https://open.spotify.com/album/1LqOX264tv3WIVCJNqZWFo) | 3:17 | 2025-05-01 |  |
 | [apocalypse](https://open.spotify.com/track/4kZE6pMgi6rzyxgjVF9Usx) | [Virens](https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW) | [apocalypse](https://open.spotify.com/album/4ykIzkOUqdl7RGOssVVgK2) | 2:52 | 2024-04-10 | 2024-06-13 |
 | [apologize](https://open.spotify.com/track/66l6cS1PQwrFjAkuhXyJG8) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm) | [apologize](https://open.spotify.com/album/1ca2uRh8OJXogVO3dWQfye) | 3:53 | 2024-01-17 | 2024-03-07 |
 | [Apology From Hades](https://open.spotify.com/track/1z8OSNeSVGqlJ3jiqKLc3R) | [Mother Juniper](https://open.spotify.com/artist/0shJpWV36dxbXdniaiXDm8) | [Apology From Hades](https://open.spotify.com/album/5Tbe6BM9sHpbI1cJ5vHOu1) | 2:33 | 2023-04-05 | 2023-05-18 |

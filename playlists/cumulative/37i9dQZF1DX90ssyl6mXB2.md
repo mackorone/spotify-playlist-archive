@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-207 songs - 9 hr 35 min
+208 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BLUSH](https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLUSH](https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K) | 1:46 | 2024-08-30 |  |
 | [Bodies](https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST \(Deluxe\)](https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI) | 2:02 | 2024-02-02 |  |
 | [body2body](https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [body2body](https://open.spotify.com/album/1bGOog5wRSuYtXR4pYxggJ) | 2:43 | 2024-12-20 |  |
+| [Breathe](https://open.spotify.com/track/0TJDXaB0yYkfJogxqa7ilA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Breathe](https://open.spotify.com/album/1jt5IPhxTMUvnXBC4KHzKW) | 3:08 | 2025-04-25 |  |
 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 | 2024-10-18 |  |
 | [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-03-22 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |

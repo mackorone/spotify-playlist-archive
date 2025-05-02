@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "1000 vragen",
+        "url": "https://open.spotify.com/album/2shhEsmp7pBWIdCzcS0sZR"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166091,
+      "name": "1000 vragen",
+      "url": "https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT"
+    },
+    {
+      "album": {
         "name": "Aan Van Jou",
         "url": "https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 152893,
       "name": "Hobbel Hobbel",
       "url": "https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW"
@@ -1814,6 +1832,42 @@
       "duration_ms": 178571,
       "name": "Hoe Ik Leven Moet",
       "url": "https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr"
+    },
+    {
+      "album": {
+        "name": "Hoe Kan Ik Je Vergeten",
+        "url": "https://open.spotify.com/album/5a1vpmPUaHoxrtXhnFYCfj"
+      },
+      "artists": [
+        {
+          "name": "Jesse Prins",
+          "url": "https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241534,
+      "name": "Hoe Kan Ik Je Vergeten",
+      "url": "https://open.spotify.com/track/33ObrsMkQH0rKqjscJrgfY"
+    },
+    {
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "album": {
@@ -2377,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Ja Dat Is Mooi",
+        "url": "https://open.spotify.com/album/6ZWYhf8ihb6LM6lzs4k0re"
+      },
+      "artists": [
+        {
+          "name": "Matthijs Koning",
+          "url": "https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175585,
+      "name": "Ja Dat Is Mooi",
+      "url": "https://open.spotify.com/track/1mymXqBh9m7FrRJWjNVSI6"
+    },
+    {
+      "album": {
         "name": "Jaimy",
         "url": "https://open.spotify.com/album/5KlSbTSWDtk6qLbEAHLdBI"
       },
@@ -2614,7 +2686,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 160857,
       "name": "Kan Het Ook Later",
       "url": "https://open.spotify.com/track/4UvEz0QvMjhGTvCgkMNGAG"
@@ -3406,7 +3478,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 216071,
       "name": "My Boy / Mijn Zoon",
       "url": "https://open.spotify.com/track/5oY2F1gLkA5sbbY0BWx1ne"
@@ -4444,7 +4516,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 177893,
       "name": "Vandaag Ben Ik Van Jou",
       "url": "https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9"
@@ -4968,7 +5040,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 171793,
       "name": "We Gaan Vanavond Naar De Kroeg",
       "url": "https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op"
@@ -5073,6 +5145,36 @@
     },
     {
       "album": {
+        "name": "Wereldwonder",
+        "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Wereldwonder",
+      "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
+    },
+    {
+      "album": {
         "name": "Where Is The Love",
         "url": "https://open.spotify.com/album/3RODDNkWybjxj2b1zD6Iwc"
       },
@@ -5106,7 +5208,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190582,
       "name": "Wie Denk Jij Wel Dat Je Bent",
       "url": "https://open.spotify.com/track/1dYIhe01nUVnbLBb6jVjLE"
@@ -5360,6 +5462,24 @@
       "duration_ms": 145866,
       "name": "Zij Is Van Mij",
       "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
+    },
+    {
+      "album": {
+        "name": "Zing-Vecht-Huil-Bid-Lach-Werk En Bewonder",
+        "url": "https://open.spotify.com/album/0hdOHDSa6uMN4KP4NSMCzw"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165238,
+      "name": "Zing-Vecht-Huil-Bid-Lach-Werk En Bewonder",
+      "url": "https://open.spotify.com/track/134bcIldqv7c83g9OoEbkM"
     },
     {
       "album": {

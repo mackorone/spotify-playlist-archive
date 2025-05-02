@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-240 songs - 13 hr 28 min
+242 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Loco](https://open.spotify.com/track/01uAcS4mXpOqstNRUKA7gs) | [Gambo](https://open.spotify.com/artist/4neYBnBpddvie2eAxU7p20), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [1Mb](https://open.spotify.com/album/1OoTv336eyujX9fkneitdN) | 3:15 | 2024-06-27 | 2024-11-08 |
 | [Long dayz](https://open.spotify.com/track/3iSrds7rKPjoA2HP5LbzZd) | [Akim Rubi](https://open.spotify.com/artist/2jUNGiVgRjY50lUHQFxWQ8) | [Long dayz](https://open.spotify.com/album/5Q0DUwjq4rO62SD35MJR8Y) | 1:50 | 2023-04-14 | 2023-10-27 |
 | [Long Time](https://open.spotify.com/track/6xzeAvRTs0uI4TPPmCzJBp) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [Shapsin](https://open.spotify.com/artist/2hhKsVs6RH4zIo3uHzSi0p) | [Long Time](https://open.spotify.com/album/5BMup50cKvhd1AM1yWnbQ2) | 3:11 | 2024-02-09 | 2024-07-27 |
+| [LOVE ZONE](https://open.spotify.com/track/4xIMvGLSBYCGNyV8JRWLPK) | [Daddy Cham](https://open.spotify.com/artist/0l5fvQ2K3BtCkIt5EPWQtD) | [LOVE ZONE](https://open.spotify.com/album/2n7F7XT4RW9pKqb2Gm5RjN) | 3:16 | 2025-05-01 |  |
 | [Loverboy Chronicles \(I.D.I.S\)](https://open.spotify.com/track/5fksMgr5uKN7brQRvUJDcP) | [Junny Blvck](https://open.spotify.com/artist/3IySB7seMHNwldN3EClfLf), [Dushyboy](https://open.spotify.com/artist/0hAjJjIxvybstEYK5Lnwzv) | [Loverboy Chronicles \(I.D.I.S\)](https://open.spotify.com/album/59LDvaec15rQlKO8ku30Uc) | 4:49 | 2022-08-19 | 2022-12-10 |
 | [Makasia](https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Makasia](https://open.spotify.com/album/0aqYnaWyJmbT2vBkUtO09c) | 2:49 | 2022-10-21 | 2023-09-22 |
 | [Mali Safi](https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Mali Safi](https://open.spotify.com/album/4052FovkK8LYyRyZ6cJ5Rl) | 2:43 | 2024-01-19 | 2024-10-25 |
@@ -179,6 +180,7 @@
 | [Pull up](https://open.spotify.com/track/3E3niL8NqvGoerOJyYzw6G) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [KG OG KUSH](https://open.spotify.com/artist/6yhz6DTQE8XiTp2jU70it3) | [Pull up](https://open.spotify.com/album/4j2truHj2SPA15iAecfIl8) | 2:38 | 2024-01-19 | 2024-04-06 |
 | [Put Em](https://open.spotify.com/track/6mb4OtLmnltkPkIMcyr3SB) | [The Holyday](https://open.spotify.com/artist/221TPEmJ1UUqZB6SQrx0PC), [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k) | [S.V](https://open.spotify.com/album/3ntZ2rPZ93OhhYpc7DKULv) | 3:07 | 2022-07-08 | 2023-09-22 |
 | [Putin](https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Putin](https://open.spotify.com/album/7Ieceym17LPKTFTBkPDxE2) | 3:32 | 2023-05-11 | 2024-06-14 |
+| [Raha](https://open.spotify.com/track/3Dn4qr5Ga3gb0aPBOCZtMZ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Nazizi](https://open.spotify.com/artist/4qgXjB39nKC8esWw9eEmYO) | [Raha](https://open.spotify.com/album/6dHmRwh7sHI5Xwu4xbk7sh) | 3:19 | 2025-05-01 |  |
 | [Ramadhani Kareem](https://open.spotify.com/track/2J0fR5BWLj3W1WyvCImhfj) | [Sanja Kong](https://open.spotify.com/artist/55q78Mg6CQqciS0WHDwaEs) | [Ramadhani Kareem](https://open.spotify.com/album/71Lja5G9XJkfFlN0bMpLQr) | 2:44 | 2024-03-07 | 2024-10-12 |
 | [Rap Like Me](https://open.spotify.com/track/7tWk2k290JeSHkZQGOl5Bf) | [Joe Marley](https://open.spotify.com/artist/5yemOF9FLJ8q9bbZbSYbvQ), [Trecta Rapper](https://open.spotify.com/artist/4VF9gAVsZpFe2hjWen9Pet) | [Rap Like Me](https://open.spotify.com/album/201TiEXUZZRfyJdfPy1p7y) | 3:16 | 2024-08-22 |  |
 | [Respect](https://open.spotify.com/track/5CUGnryFUGZlgamALD3Byz) | [Mullah The Matrix](https://open.spotify.com/artist/5cJlgowzlwV94rbRcaYxmr) | [Future Is Now](https://open.spotify.com/album/5VaHyRaWNiuUBHsFuQWOSY) | 3:10 | 2022-07-08 | 2023-12-09 |

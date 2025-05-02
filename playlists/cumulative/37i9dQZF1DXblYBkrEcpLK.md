@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 星街すいせい Hoshimachi Suisei
 
-752 songs - 2 day 1 hr 52 min
+753 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Paradoxes](https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Paradoxes](https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2) | 4:36 | 2024-05-28 | 2024-07-02 |
 | [Parallel World feat\. Ayasa](https://open.spotify.com/track/0zDhjdrcqEMggm0Atc6CL3) | [Lonesome\_Blue](https://open.spotify.com/artist/0RJTzBuPtpWubOBc2XUz95), [AYASA](https://open.spotify.com/artist/0NuwqSXiHKqdHbHpuz1jsI) | [First Utterance](https://open.spotify.com/album/0m5EcD8X9xRz03sTDSvcZ0) | 5:29 | 2022-07-07 | 2022-07-23 |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-06-09 | 2022-07-22 |
-| [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 | 2024-02-13 |  |
+| [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 | 2024-02-13 | 2025-05-02 |
 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 | 2023-10-03 | 2023-11-02 |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-06-14 | 2022-07-23 |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2023-09-26 | 2023-10-04 |
@@ -608,6 +608,7 @@
 | [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/2wN2axCnXxq2QuVzySGCb5) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 | 2024-01-23 | 2024-02-14 |
 | [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 | 2024-01-25 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-09 | 2025-01-31 |
+| [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 | 2025-05-01 |  |
 | [夜明けのバス停](https://open.spotify.com/track/155LBRYos91aUEQ4cR1Xfd) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [文学少女の歌集Ⅲ\-文学少女と夜明けのバス停\-](https://open.spotify.com/album/47889iRswOSEolfMkkxYUg) | 3:35 | 2024-07-03 | 2024-07-10 |
 | [夜空](https://open.spotify.com/track/7q1QFyrWDoUsTUq9NZV7XL) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [2nd アルバム 上ミノ](https://open.spotify.com/album/7pcXlp17zWFKLfsgc791fO) | 4:35 | 2022-06-24 | 2022-07-21 |
 | [夢が僕らの太陽さ](https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:26 | 2022-06-14 | 2022-07-09 |

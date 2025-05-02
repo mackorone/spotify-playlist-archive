@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,393 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,392 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 16 | [Slomo](https://open.spotify.com/track/0KYOthr76o5GlmYLEfp9OX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 6:53 |
 | 17 | [Uga Buga](https://open.spotify.com/track/2vZWCXzDSVGEgJKspXjh0O) | [Demencia Infantil](https://open.spotify.com/artist/1ONfyqqsW6Y86ioE8iLoMg) | [Uga Buga](https://open.spotify.com/album/0tqmRtr1LlJB1iqXUKbLu5) | 5:26 |
 | 18 | [Le voyage de Pénélope](https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:10 |
-| 19 | [Vapour \- Live from South Channel Island](https://open.spotify.com/track/5xXgz2vZDsYQLILFtSQyMI) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Live from South Channel Island](https://open.spotify.com/album/4YrrCUUCI1hoyG649xybYR) | 4:34 |
+| 19 | [Our Bodies Weren't Wrong](https://open.spotify.com/track/3FocMwesNwyFbNl3abYX5J) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Becoming Undone](https://open.spotify.com/album/4msHrvIuGrBAL76i6i6LCx) | 3:39 |
 | 20 | [Más de una Vez](https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 4:39 |
-| 21 | [Our Bodies Weren't Wrong](https://open.spotify.com/track/3FocMwesNwyFbNl3abYX5J) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Becoming Undone](https://open.spotify.com/album/4msHrvIuGrBAL76i6i6LCx) | 3:39 |
+| 21 | [Vapour \- Live from South Channel Island](https://open.spotify.com/track/5xXgz2vZDsYQLILFtSQyMI) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Live from South Channel Island](https://open.spotify.com/album/4YrrCUUCI1hoyG649xybYR) | 4:34 |
 | 22 | [Resistance](https://open.spotify.com/track/5K10WzmnjriyRjx2TXkG4C) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Hold/Still](https://open.spotify.com/album/4xPZjPO8tOnWhGsV2VItu9) | 5:11 |
 | 23 | [Famoso](https://open.spotify.com/track/6H0vHhWcoCrzUMJ0DYplRH) | [Demencia Infantil](https://open.spotify.com/artist/1ONfyqqsW6Y86ioE8iLoMg) | [Famoso](https://open.spotify.com/album/4CCGo2OGYkJ7j4DZN9yfe4) | 6:10 |
 | 24 | [Tahoultine](https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afelan](https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod) | 5:31 |

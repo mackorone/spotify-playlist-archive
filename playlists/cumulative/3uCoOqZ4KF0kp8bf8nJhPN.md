@@ -4,7 +4,7 @@
 
 > 
 
-162 songs - 6 hr 18 min
+164 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [louie.](https://open.spotify.com/track/3I6u3amsG234CMXf1hGrTy) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [louie.](https://open.spotify.com/album/4YxP3j9qf4IxfPl9HZgiaz) | 2:12 | 2025-04-04 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2025-03-06 |  |
 | [manners.](https://open.spotify.com/track/0RALxUaNmMRjtkNGmTwSXi) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 3:12 | 2025-04-12 |  |
+| [MARTYR \(MARTYR\)](https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 3:22 | 2025-05-01 |  |
 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 | 2025-04-09 |  |
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
 | [Moonlight on the River](https://open.spotify.com/track/2fhOljbX79loRcdl47SFye) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 7:02 | 2025-04-12 |  |
@@ -153,6 +154,7 @@
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2025-01-23 |  |
 | [TRAP](https://open.spotify.com/track/05qENdYgWWcNHUbWlq0j2l) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [TRAP](https://open.spotify.com/album/0CFlLbNscLiP0Wp92eJJeQ) | 1:21 | 2025-04-11 |  |
 | [TSUNDERE!](https://open.spotify.com/track/6xA79k0WDTtz1f2KvfkGot) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [TSUNDERE!](https://open.spotify.com/album/3NF21IyrfoNsN3dmCNqE3p) | 2:06 | 2025-03-27 |  |
+| [TUMBLR SEXYMAN](https://open.spotify.com/track/351oQ68wGp63b1iAyVeGEi) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 1:56 | 2025-05-01 |  |
 | [Twilight Lament](https://open.spotify.com/track/3RxKY6Yxbqzs0gwsy1Fbtb) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Twilight Lament](https://open.spotify.com/album/6kMTAisbydVlrVkvwzxl2g) | 1:32 | 2025-04-12 |  |
 | [u ma type.](https://open.spotify.com/track/0fzMv0ui4hnVIVeeES6XhW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [u ma type.](https://open.spotify.com/album/1lNXC5JsYet2b0Z7WHZLDp) | 1:47 | 2024-11-23 |  |
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
@@ -169,6 +171,6 @@
 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 | 2025-04-12 |  |
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
-| [поговори со мной ольга](https://open.spotify.com/track/444pwWgwj1BAzRMdUsaL8Y) | [Nochnye Snaipery](https://open.spotify.com/artist/2GUwb2rxMKePzxDi94EEoZ) | [4 \[изобретение музыки\]](https://open.spotify.com/album/36jHbUizCZU6rukdJLJ3Io) | 2:51 | 2025-04-04 |  |
+| [поговори со мной ольга](https://open.spotify.com/track/444pwWgwj1BAzRMdUsaL8Y) | [Nochnye Snaipery](https://open.spotify.com/artist/2GUwb2rxMKePzxDi94EEoZ) | [4 \[изобретение музыки\]](https://open.spotify.com/album/36jHbUizCZU6rukdJLJ3Io) | 2:51 | 2025-04-04 | 2025-05-02 |
 
 \*This playlist was first scraped on 2025-03-24. Prior content cannot be recovered.

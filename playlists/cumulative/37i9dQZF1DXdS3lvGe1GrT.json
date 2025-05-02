@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "aphrodite",
+        "url": "https://open.spotify.com/album/1LqOX264tv3WIVCJNqZWFo"
+      },
+      "artists": [
+        {
+          "name": "Eden J Howells",
+          "url": "https://open.spotify.com/artist/6y07TVZtZy3CGkeJts7cJL"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "aphrodite",
+      "url": "https://open.spotify.com/track/3WcsPLlO3IgQbgWn6OBVFi"
+    },
+    {
+      "album": {
         "name": "apocalypse",
         "url": "https://open.spotify.com/album/4ykIzkOUqdl7RGOssVVgK2"
       },

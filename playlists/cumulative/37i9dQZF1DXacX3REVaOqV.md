@@ -4,7 +4,7 @@
 
 > The best in house music
 
-603 songs - 1 day 16 hr 3 min
+604 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Dancing Queen](https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB) | 2:54 | 2022-07-28 | 2024-03-01 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2022-04-14 | 2022-07-29 |
 | [Dangly Panther](https://open.spotify.com/track/2tUJka7z72sFDuRYtAz7fR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Freerange Records Presents Colour Series: Orange 05](https://open.spotify.com/album/7q6LEIl8DXY2Z5sEwiuXuM) | 6:48 | 2022-04-14 | 2022-07-27 |
-| [Davul \- Amine Ben Remix](https://open.spotify.com/track/4o6Aj3JKI1VmrH4nt6kCwS) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS), [Amine Ben](https://open.spotify.com/artist/3CcpoC7QHCrt7TXqc5aWnM) | [Davul \(Amine Ben Remix\)](https://open.spotify.com/album/37RqMQeADeg92zZzSJwCqJ) | 5:07 | 2024-09-12 |  |
+| [Davul \- Amine Ben Remix](https://open.spotify.com/track/4o6Aj3JKI1VmrH4nt6kCwS) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS), [Amine Ben](https://open.spotify.com/artist/3CcpoC7QHCrt7TXqc5aWnM) | [Davul \(Amine Ben Remix\)](https://open.spotify.com/album/37RqMQeADeg92zZzSJwCqJ) | 5:07 | 2024-09-12 | 2025-05-02 |
 | [Day Starter](https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Day Starter / Affection](https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR) | 3:14 | 2024-12-05 |  |
 | [Debbie Downer](https://open.spotify.com/track/0ZtAawHept8iJ7WBEf3mt7) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Debbie Downer](https://open.spotify.com/album/4OGXNFvSF61LfCXzif51sr) | 5:53 | 2022-05-31 | 2022-06-08 |
 | [Deep End \- Extended Mix](https://open.spotify.com/track/0W9Z8mKU3kSZAaojz5rqwO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/18WO0cnGjnQiBehYVtF33g) | 6:22 | 2022-04-20 | 2022-06-12 |
@@ -203,6 +203,7 @@
 | [Get My Love](https://open.spotify.com/track/0RcVDtRuwn6Z2yvj2wQrol) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 4:03 | 2024-03-14 | 2024-04-10 |
 | [Get On Out](https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb) | [4NEY](https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh) | [Get On Out](https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU) | 2:58 | 2022-04-20 | 2024-03-21 |
 | [Gettin' Started](https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Gettin' Started](https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn) | 2:36 | 2022-05-05 | 2024-04-28 |
+| [Give Me Time](https://open.spotify.com/track/1OUd8ncIBfYsHyoBpwTyVy) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Give Me Time](https://open.spotify.com/album/4CtCMcBE2PuY0SdQUiGrtg) | 2:45 | 2025-05-01 |  |
 | [Give U \(All The Love\)](https://open.spotify.com/track/10g3i4raFjBaSGTqhqvuoz) | [ELTE](https://open.spotify.com/artist/0lJnzsWsM8QkTBEk3JYtSv), [Poppie de Paris](https://open.spotify.com/artist/4VnXwuwgVaDjzncgoFPEJo) | [FROM LUST TO YOU](https://open.spotify.com/album/4cGoaOJxdB86dCMSOi1Y4v) | 2:51 | 2025-01-30 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-09 | 2024-01-09 |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-07-03 | 2024-09-13 |

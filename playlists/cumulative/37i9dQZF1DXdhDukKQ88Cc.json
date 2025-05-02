@@ -4845,6 +4845,28 @@
     },
     {
       "album": {
+        "name": "Rene Hjerter Vinder Altid",
+        "url": "https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Ryggen Mod Muren",
+      "url": "https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41"
       },
@@ -5372,7 +5394,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 145588,
       "name": "Stafet",
       "url": "https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n"

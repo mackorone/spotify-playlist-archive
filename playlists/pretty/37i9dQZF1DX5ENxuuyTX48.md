@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: YAØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,980 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,990 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 18 | [love lesson no\. 1](https://open.spotify.com/track/4g9lDcyGk7dw3y0QtaM6ao) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [love lesson no\. 1](https://open.spotify.com/album/7HLPKx2SE03kwYbRbMxiSE) | 4:06 |
 | 19 | [Cukup Dewasa](https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Cukup Dewasa](https://open.spotify.com/album/56yIPEP86mvgwosDxhx3di) | 3:56 |
 | 20 | [romcom](https://open.spotify.com/track/5kSATXA18Rzv0wVPmqbxC2) | [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [romcom](https://open.spotify.com/album/4OXwMDp6cEpixrGgZ3YCMa) | 3:23 |
-| 21 | [RASA](https://open.spotify.com/track/49PiLsHb2OrcOho7FFahf1) | [Fiza Thomas](https://open.spotify.com/artist/2lIxUA1U8LCa5Ig7mKQ9nW) | [RASA](https://open.spotify.com/album/6V65zdqjsvTBXjP17KsjW5) | 3:45 |
+| 21 | [RASA](https://open.spotify.com/track/49PiLsHb2OrcOho7FFahf1) | [Fiza Thomas](https://open.spotify.com/artist/6vRDobHB49LMjVXre0mN7e) | [RASA](https://open.spotify.com/album/6V65zdqjsvTBXjP17KsjW5) | 3:45 |
 | 22 | [Selalu Kalah](https://open.spotify.com/track/5hmcqpdSHSv75EOakw3NCh) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Selalu Kalah](https://open.spotify.com/album/5bnA3ExkT9T6YmzQf63vGp) | 3:09 |
 | 23 | [Bertahan Sendiri](https://open.spotify.com/track/0sfp1xOvYFSesdq3DQp5h4) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Bertahan Sendiri](https://open.spotify.com/album/4kIJK4MxZjkgTinHZcvS9f) | 3:39 |
 | 24 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |

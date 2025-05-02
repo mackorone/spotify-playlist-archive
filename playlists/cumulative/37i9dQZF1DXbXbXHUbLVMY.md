@@ -4,7 +4,7 @@
 
 > 🚨
 
-313 songs - 13 hr 43 min
+315 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 | 2023-09-29 |
 | [2 Sider](https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m) | [Sli0h](https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [2 Sider](https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i) | 2:32 | 2024-09-05 | 2024-11-08 |
 | [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 |  |
-| [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-16 |  |
+| [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-16 | 2025-05-02 |
+| [4TheBoys](https://open.spotify.com/track/0YCtVN0D2reeVp7zAaevzF) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 2:57 | 2025-05-01 |  |
 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 | 2024-01-11 | 2024-03-01 |
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 |  |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 | 2023-10-13 |
@@ -218,6 +219,7 @@
 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2023-09-21 | 2024-06-01 |
 | [Oase](https://open.spotify.com/track/5FauiRFTELNpEXsIwmvchS) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Oase](https://open.spotify.com/album/7FHVC2GgZD35E7PWHxAZwe) | 3:13 | 2024-11-07 | 2024-11-22 |
 | [OIOIOI \(feat\. Branco\)](https://open.spotify.com/track/0DdRz9c2fC6ucqqCbSQrbh) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Alle Hater Chris](https://open.spotify.com/album/3YwGDIZHOfTRlRF3f0g837) | 2:53 | 2024-04-04 | 2024-05-24 |
+| [Ok](https://open.spotify.com/track/0KDn57QdRGRlkOllJDxbzp) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 2:19 | 2025-05-01 |  |
 | [Okey Okey](https://open.spotify.com/track/1WwjGmNI05bJGg3kD9hR8n) | [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Okey Okey](https://open.spotify.com/album/3xwXUGJg4Gx4RIHY0i0ht5) | 2:37 | 2025-02-27 | 2025-03-24 |
 | [On It](https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Ung & Dum](https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx) | 2:27 | 2024-04-27 |  |
 | [Oslo B](https://open.spotify.com/track/4XHgCjrFjFTofyZGla2w6L) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [sachi](https://open.spotify.com/artist/2EGblO3Zjp1JonjHzAy7h5), [Fetisha](https://open.spotify.com/artist/7ybWsReDAYTG94DhunDSHK) | [Oslo B](https://open.spotify.com/album/1n5VbNJ7mxx2KSSOikqynX) | 2:14 | 2024-04-18 | 2024-04-26 |
@@ -252,7 +254,7 @@
 | [Saint Laurent](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-09-21 | 2024-06-08 |
 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-21 | 2024-04-26 |
 | [SANKTHANSAFTEN](https://open.spotify.com/track/2kgS5WzqebpfHLpKeJe3RL) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [transit music.](https://open.spotify.com/album/7DpJiuVleFz8dr08HQRQ3c) | 2:52 | 2024-05-23 | 2024-10-02 |
-| [Schnogodidougudugidoubudibow](https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 1:50 | 2024-04-27 |  |
+| [Schnogodidougudugidoubudibow](https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 1:50 | 2024-04-27 | 2025-05-02 |
 | [Se & Lär](https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Se & Lär](https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv) | 2:23 | 2023-11-09 | 2024-01-12 |
 | [See Me Shine](https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [See Me Shine](https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0) | 3:02 | 2025-01-16 | 2025-03-28 |
 | [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 | 2023-09-21 | 2024-02-23 |

@@ -11403,6 +11403,24 @@
     },
     {
       "album": {
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
+    },
+    {
+      "album": {
         "name": "Quase Amor",
         "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
@@ -11494,7 +11512,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 174853,
       "name": "Que Seja de Alegria",
       "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"

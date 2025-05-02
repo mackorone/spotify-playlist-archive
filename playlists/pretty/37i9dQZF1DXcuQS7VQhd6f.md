@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,043 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,143 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,11 +106,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 96 | [The Battle Is the Lord's](https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Save The World](https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH) | 4:24 |
 | 97 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
 | 98 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
-| 99 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 99 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 100 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
-| 101 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
-| 102 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
-| 103 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
+| 101 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 102 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
+| 103 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
 | 104 | [Well Done](https://open.spotify.com/track/7LR7frxXJmKuUinqsxzd8S) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 4:06 |
 | 105 | [Your Grace And Mercy](https://open.spotify.com/track/2h4UqKYYFqSYMVoOX5wgy6) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [It Remains To Be Seen](https://open.spotify.com/album/2DPLUc63MOb9Ij4PIltlWM) | 5:31 |
 | 106 | [Trouble Don't Last Always](https://open.spotify.com/track/515MCqErErWXBz8h35i3uj) | [Rev\. Timothy Wright](https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2) | [I'm Glad About It](https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg) | 6:24 |

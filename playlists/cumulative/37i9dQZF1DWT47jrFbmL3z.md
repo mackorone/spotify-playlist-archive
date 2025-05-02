@@ -113,6 +113,6 @@
 | [Vintage](https://open.spotify.com/track/1dgXgUbDPavCqQoJ9sS6XP) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 2:57 | 2022-08-11 |  |
 | [Warpaint](https://open.spotify.com/track/25aZPPiiVCHnbBpY4dh9Zk) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 3:33 | 2022-08-11 | 2024-04-19 |
 | [Warpaint](https://open.spotify.com/track/3j1fOrxmfuym91Cf9v397b) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 3:33 | 2022-08-11 |  |
-| [You'll Be in My Heart \- Spotify Singles](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-02-26 |  |
+| [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-02-26 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

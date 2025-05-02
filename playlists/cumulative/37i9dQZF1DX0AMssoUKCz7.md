@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-737 songs - 1 day 13 hr 10 min
+738 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 | 2022-04-01 |  |
 | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/album/1n4ehWqCzUM2BVAjIXydCe) | 2:36 | 2024-04-05 |  |
 | [Blossom](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Blossom](https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO) | 2:10 | 2024-03-01 |  |
-| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 |  |
+| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 | 2025-05-02 |
 | [Blue Lagoon](https://open.spotify.com/track/6aQtasf3Q6JZIBHCWXsyej) | [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Finn Kleffmann](https://open.spotify.com/artist/6FnTIb3jf0VUbOIFgxO3he) | [Blue Lagoon](https://open.spotify.com/album/57nS0f2WiZk3m0RwLQxtWi) | 3:08 | 2022-01-14 | 2023-05-13 |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-01 | 2022-07-23 |
 | [Body to Body](https://open.spotify.com/track/3qyeNnFY67zX6VmmIbzPsL) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Body to Body](https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F) | 2:58 | 2022-02-18 | 2022-04-02 |
@@ -510,6 +510,7 @@
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 | 2023-01-14 |
 | [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 | 2023-09-02 |
 | [Pocketful of Sunshine](https://open.spotify.com/track/4wY5xcMsdYBGphuO4vEao1) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Pocketful of Sunshine](https://open.spotify.com/album/5M5dIzCCOQI84JA5ONuIRN) | 2:29 | 2023-08-04 | 2024-01-03 |
+| [Pool \- Gravagerz Version](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version\)](https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9) | 2:05 | 2025-05-01 |  |
 | [Praise You \(Chill Mix\) \- Extended Mix](https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Michael Meaco](https://open.spotify.com/artist/3k9TFkTMa17cpLQLGKxQXV) | [Praise You](https://open.spotify.com/album/0bbF23nbT2Dexsuiok1Yro) | 3:21 | 2022-01-14 | 2022-05-29 |
 | [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-12 | 2023-06-17 |

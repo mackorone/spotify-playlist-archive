@@ -3489,6 +3489,44 @@
     },
     {
       "album": {
+        "name": "Tere Bina (DAYTIMERS Presents: Alterations)",
+        "url": "https://open.spotify.com/album/7nhuXdxvdBesnbx76v1nYE"
+      },
+      "artists": [
+        {
+          "name": "DAYTIMERS",
+          "url": "https://open.spotify.com/artist/2ozabOPMFPRDDU6uVajiyr"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Murtuza Khan",
+          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "name": "Qadir Khan",
+          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226517,
+      "name": "Tere Bina - DAYTIMERS Presents: Alterations",
+      "url": "https://open.spotify.com/track/7EAktOQGwDbZt1GkX9cvmt"
+    },
+    {
+      "album": {
         "name": "Third Umpire",
         "url": "https://open.spotify.com/album/2F1PgH2M84um53JcJEA0aE"
       },

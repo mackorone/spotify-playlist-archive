@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-289 songs - 20 hr 57 min
+290 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [El Einab](https://open.spotify.com/track/6by5tScCl9jWT2GLRdKyaw) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [El Einab](https://open.spotify.com/album/0p8lgkWBHMToB5qipgqGKQ) | 3:15 | 2021-12-30 | 2023-05-12 |
 | [El Far7a](https://open.spotify.com/track/44W2ZZ1jXUSOcuXrWdSAKE) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Mahmoud El Husseiny](https://open.spotify.com/artist/34uzyvGdcvqdhtB8Gskymj) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0Og7uaAgeWuH2fQ8Dmym0w) | 3:25 | 2024-11-29 | 2025-01-17 |
 | [El Gaw Hady](https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Salefny Dehketak](https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY) | 4:16 | 2021-12-16 |  |
-| [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 |  |
+| [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 | 2025-05-02 |
 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 | 2021-12-16 | 2023-09-02 |
 | [El Hekaya Fe Kelmten](https://open.spotify.com/track/0BBLrJ90sO5BGoalyneN3P) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [El Hekaya Fe Kelmten](https://open.spotify.com/album/2c7JeAkcHE6awlSNLZs6Fh) | 3:40 | 2022-02-03 | 2023-05-12 |
 | [El Kbeer](https://open.spotify.com/track/1LCaYiM64miIPTnq9bcahx) | [Hany El Abd](https://open.spotify.com/artist/7l2ig9FhmC0W8N0sZ5FIpu) | [El Kbeer](https://open.spotify.com/album/4bRnoL59VL8hFZfwIJohSE) | 5:15 | 2022-01-20 | 2023-05-12 |
@@ -213,6 +213,7 @@
 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 | 2022-07-14 | 2024-04-19 |
 | [باب الشعريه](https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [باب الشعريه](https://open.spotify.com/album/5W7slMzTwQbryB0as01CLa) | 3:22 | 2021-12-16 | 2024-09-20 |
 | [بتاع مصلحتك](https://open.spotify.com/track/53mFZHhulp7autUE0kzzGK) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [بتاع مصلحتك](https://open.spotify.com/album/68PL2K2mjuPpK0fX7h8OaD) | 4:28 | 2025-01-30 |  |
+| [بره حياتي بره](https://open.spotify.com/track/3wUBnP59BWBgnLtp6zuJJv) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [بره حياتي بره](https://open.spotify.com/album/4SCfa6Ge3SIAQP8loYTEvk) | 4:24 | 2025-05-01 |  |
 | [بسعر السوق](https://open.spotify.com/track/6ggf2EMsyKRAqTw6PdGQx8) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx) | [بسعر السوق](https://open.spotify.com/album/5RhuLXrk70N2fYpoBGPrbP) | 3:48 | 2021-12-16 | 2022-07-28 |
 | [بسعر السوق](https://open.spotify.com/track/7Liqk0rt77WZxZasO7ITlV) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx) | [بسعر السوق](https://open.spotify.com/album/100LzmTOYcUYhPVOVxnyL3) | 3:48 | 2022-07-14 | 2022-09-25 |
 | [بيعدي قصادي](https://open.spotify.com/track/6KzOqxXrTkjeJSwusYA9mn) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k) | [بيعدي قصادي](https://open.spotify.com/album/0ELriZnz6d9F4uMbzXodmf) | 3:48 | 2021-12-16 | 2022-07-28 |

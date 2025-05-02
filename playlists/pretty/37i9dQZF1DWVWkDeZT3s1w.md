@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,997 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,015 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 60 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 61 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
 | 62 | [Hombre \(One Shot\) \- Remix](https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Discan](https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY) | [Hombre \(One Shot\) \[Remix\]](https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY) | 3:04 |
-| 63 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 |
-| 64 | [Aire para Vivir](https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Aire para Vivir](https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta) | 3:43 |
+| 63 | [Aire para Vivir](https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Aire para Vivir](https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta) | 3:43 |
+| 64 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 |
 | 65 | [Vive Libre](https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Choko Rap De Luz](https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU), [Maniobra Bits](https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn) | [Vive Libre](https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h) | 3:48 |
 | 66 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 | 67 | [Benedicto](https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Benedicto](https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw) | 3:14 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 75 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
 | 76 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 |
 | 77 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |
-| 78 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 |
-| 79 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
+| 78 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
+| 79 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 |
 | 80 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 | 81 | [Shhh](https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Shhh](https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5) | 2:25 |
 | 82 | [Inmunes](https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Inmunes](https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 100 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
 
-Snapshot ID: `AAAAACgN1GoiBQD/MhgSq2+lBoN5+WFv`
+Snapshot ID: `Z5xm9wAAAABsXevv776fq5SLz5ujMf3N`

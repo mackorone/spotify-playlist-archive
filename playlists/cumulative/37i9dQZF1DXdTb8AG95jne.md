@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 잔나비\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-942 songs - 2 day 9 hr 29 min
+943 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [\- x \- = + \(feat\. CHOILB\)](https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7) | 3:01 | 2023-08-01 | 2023-08-12 |
 | [\- x \- = + \(feat\. 최엘비\)](https://open.spotify.com/track/4pbE7u8JYY1AsbjaxaAGCE) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/5AFxWh93Ou4GC4pkB4nYco) | 3:01 | 2024-04-30 | 2024-05-09 |
 | [\. \(dot\)](https://open.spotify.com/track/3l6kinplmg17FeTt0vcCgs) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 2](https://open.spotify.com/album/6Fm4QPV0EY1yKCcOs7GmAB) | 3:40 | 2025-03-04 | 2025-04-10 |
-| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 |  |
+| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 | 2025-05-02 |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
@@ -523,6 +523,7 @@
 | [Monsoon Rain](https://open.spotify.com/track/6ITDnStygfL352ATEmtYJW) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Monsoon Rain](https://open.spotify.com/album/645MfwCDYukPSm6ZcwJzGn) | 3:40 | 2022-03-31 | 2022-04-13 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ) | 3:24 | 2021-12-21 | 2022-05-27 |
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-18 | 2022-07-29 |
+| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 |  |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Mulli Mulli](https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np) | [juun](https://open.spotify.com/artist/7GlkJWepxWqGNkDyuG2oCY) | [Mulli Mulli](https://open.spotify.com/album/3p2auYiBhiRRhqExjz6xvR) | 3:07 | 2024-11-29 | 2025-01-31 |
 | [MUSE](https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:32 | 2022-03-31 | 2022-07-09 |

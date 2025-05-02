@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Rael, LUDMILLA e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "KayBlack e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -3977,6 +3977,28 @@
     },
     {
       "album": {
+        "name": "Discreto",
+        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120937,
+      "name": "Discreto",
+      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
+    },
+    {
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -4288,7 +4310,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 139355,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7"
@@ -15292,7 +15314,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 150094,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
@@ -15588,7 +15610,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 172768,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd"

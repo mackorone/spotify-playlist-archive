@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151771,
+      "name": "CHILD OF GOD",
+      "url": "https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq"
+    },
+    {
+      "album": {
         "name": "TELL THE WORLD",
         "url": "https://open.spotify.com/album/3tv8W8qel0hMYTMhyoBW7F"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 203333,
       "name": "JESUS IS THE KING",
       "url": "https://open.spotify.com/track/22b5l8DtpvNhtmx9EpsXdd"
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -7038,7 +7056,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 801500,
       "name": "The Lamb Is Worthy",
       "url": "https://open.spotify.com/track/42AG7K7eHAjThhQgQ3NRHd"
@@ -8050,7 +8068,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 384000,
       "name": "You are Great",
       "url": "https://open.spotify.com/track/6CQMlgpbqtG19SwaxZdtBU"

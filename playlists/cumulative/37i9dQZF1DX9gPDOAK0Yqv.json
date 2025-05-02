@@ -4459,6 +4459,32 @@
     },
     {
       "album": {
+        "name": "Forever / Chaos",
+        "url": "https://open.spotify.com/album/3o61t0gso3LeCisvnRt2Sz"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "P.T. Adamczyk",
+          "url": "https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM"
+        },
+        {
+          "name": "Aya Anne",
+          "url": "https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231975,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0ZzYZVCXnfGrc5bgPuUwZC"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
@@ -6097,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "I See Your Face",
+        "url": "https://open.spotify.com/album/6tWoVn8ziwcEvqgfaTm9ey"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248267,
+      "name": "I See Your Face",
+      "url": "https://open.spotify.com/track/6t2hnLG0RtU6A3TYEVRcHI"
+    },
+    {
+      "album": {
         "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
@@ -7514,7 +7558,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 180967,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/0Kq7h4oCX5s2YYESHRxgwn"
@@ -8346,7 +8390,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 147844,
       "name": "Morenita - Marco Generani Remix",
       "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
@@ -11803,6 +11847,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/31BvViYa9rtNukhDqdCQdP"
       },
@@ -13104,7 +13166,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 232380,
       "name": "The Point Of Living (Omnya Remix)",
       "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"

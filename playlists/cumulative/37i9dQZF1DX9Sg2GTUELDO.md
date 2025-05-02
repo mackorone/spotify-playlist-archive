@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Kelly 陳慧琳
+> 感受女聲力量。Cover: AmyLo
 
-484 songs - 1 day 4 hr 50 min
+491 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-06-27 |  |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 | 2024-06-27 |  |
-| [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 | 2025-04-17 |  |
+| [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 | 2025-04-17 | 2025-05-02 |
 | [Make my day](https://open.spotify.com/track/6rtVaAz5fMtcTAhwmi6tl5) | [Liza Wang](https://open.spotify.com/artist/1ev4Cp6tdX1PImrinbyLIl) | [Make my day](https://open.spotify.com/album/3UOL7IIB14UFldtK57R7nN) | 3:00 | 2024-09-12 |  |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2024-06-27 |  |
 | [Maybe I Have Something Just Like You?](https://open.spotify.com/track/0bSDdr8gb2MblYtr4JLPfV) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Maybe I Have Something Just Like You?](https://open.spotify.com/album/6e5cIPCAS7ndpUQxdRUIj1) | 4:00 | 2024-09-12 |  |
@@ -134,6 +134,7 @@
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2024-06-27 |  |
 | [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
+| [Red Flag](https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Red Flag](https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS) | 2:52 | 2025-05-01 |  |
 | [Ride It Out](https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Ride It Out](https://open.spotify.com/album/1M0RzGTeOkCoJohtc22lLG) | 3:20 | 2024-06-27 |  |
 | [ROAD TRIP](https://open.spotify.com/track/0qSJHU8SGFsrwRljZXtE3E) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [ROAD TRIP](https://open.spotify.com/album/1FobP1HybSdf9EccLZYQO0) | 1:11 | 2024-10-24 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
@@ -316,9 +317,11 @@
 | [愛情只是藝術品](https://open.spotify.com/track/2XWbebW7hwifF6Naq1BP2y) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [愛情只是藝術品](https://open.spotify.com/album/1txvtJZm9EPDiSV9bd5anW) | 3:30 | 2024-06-27 |  |
 | [愛情常識](https://open.spotify.com/track/2RurVbyJcZxyt26v9Toit0) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [愛情常識](https://open.spotify.com/album/2G0f48joxm4KZf3KrhOLGP) | 4:37 | 2024-06-27 |  |
 | [愛情當入樽](https://open.spotify.com/track/30EH8T073gqwshMXmhoFR6) | [FIESTER](https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj) | [愛情當入樽](https://open.spotify.com/album/4raz4CYg4tO4pUuZhdXggR) | 3:41 | 2024-06-27 |  |
+| [愛情裡的小人物](https://open.spotify.com/track/0K5mHUivigCbDScoL4PB4o) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [愛情裡的小人物](https://open.spotify.com/album/483BS8XRERNcWFsM2J2eho) | 3:08 | 2025-05-01 |  |
 | [愛莫能助 sorry i can't help \(q\_q\)](https://open.spotify.com/track/3A3ppzuzi9k1PHCjf3pUwX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [愛莫能助 sorry i can't help \(q\_q\)](https://open.spotify.com/album/7oGDvrHwXMfpS1wrShn8r8) | 2:47 | 2024-06-27 |  |
 | [愛過](https://open.spotify.com/track/1INaqi2Z7jSWx7BCMLGqWP) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [愛過](https://open.spotify.com/album/7Mnp3vrlwjM0a3SwAtMTsA) | 4:42 | 2024-11-14 |  |
 | [感應](https://open.spotify.com/track/5JHcpKOc9zpZTWlpdaZKvo) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [感應](https://open.spotify.com/album/1pNoNT2mbxYIv07TEfePEY) | 4:17 | 2024-06-27 |  |
+| [感激跟你能夠遇見](https://open.spotify.com/track/7aqFNwwxBn9Jl1bMgzIXQB) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [感激跟你能夠遇見](https://open.spotify.com/album/22aedbMz4RbOlIMkiL6CEH) | 3:26 | 2025-05-01 |  |
 | [慢性分手](https://open.spotify.com/track/3CR0lzI5XzJXy942UeaGv9) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [慢性分手](https://open.spotify.com/album/2uvuD4evHsHgkYWOOkCedL) | 4:21 | 2024-06-27 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2024-06-27 |  |
 | [成婚破浪](https://open.spotify.com/track/0MqmRAV1rtLLuyAw25n9rQ) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [成婚破浪](https://open.spotify.com/album/26K8cWCjru0ulNGmnV7jIV) | 4:03 | 2024-06-27 |  |
@@ -379,13 +382,15 @@
 | [榮譽博士](https://open.spotify.com/track/31WsjJrHaGCkYisP8QEaKc) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [榮譽博士](https://open.spotify.com/album/23qCFYffCFM2XwtSVqsVfE) | 2:57 | 2025-02-20 |  |
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 |  |
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
-| [櫻梅桃李](https://open.spotify.com/track/1LsVoRZU6ZUYncBSELF1PN) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [櫻梅桃李](https://open.spotify.com/album/3sCVhC5CAz3StebrpJ3DXX) | 4:07 | 2025-04-17 |  |
+| [櫻梅桃李](https://open.spotify.com/track/1LsVoRZU6ZUYncBSELF1PN) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [櫻梅桃李](https://open.spotify.com/album/3sCVhC5CAz3StebrpJ3DXX) | 4:07 | 2025-04-17 | 2025-05-02 |
 | [次次](https://open.spotify.com/track/4y2DzgkdgNw45QMzYU78Dl) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [次次](https://open.spotify.com/album/0EtJphjLYsw5xPcnWSHrnz) | 2:44 | 2024-11-07 |  |
 | [步兵記](https://open.spotify.com/track/2mqi3gtlTn6VVMobVDIPYd) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [步兵記](https://open.spotify.com/album/3KXRhsQM5aOlp8J96qGgXw) | 3:40 | 2025-03-20 |  |
+| [死亡芭比粉](https://open.spotify.com/track/0nz0QsDNlOIbvxJZEdqh6I) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [死亡芭比粉](https://open.spotify.com/album/2jWevYUjqbPgdx0ZONAkId) | 3:25 | 2025-05-01 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |
 | [每一次最後](https://open.spotify.com/track/2VfcVOCdLrBmOD8ladU1iA) | [謝雅兒](https://open.spotify.com/artist/3spApH2tC3gVmNOkW0hrZk) | [每一次最後](https://open.spotify.com/album/6GsbtG0thCH9xQ9XuAVqVM) | 4:08 | 2024-10-31 |  |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-06-27 |  |
 | [比赤裸更赤裸](https://open.spotify.com/track/5zRjOfsVdMw3enQKULyYhU) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [比赤裸更赤裸](https://open.spotify.com/album/1YwUfzM65ngow33fMnQAwq) | 4:24 | 2024-09-26 |  |
+| [水之形](https://open.spotify.com/track/3FwlXmSh2J0QJXLEZmeNjQ) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [水之形](https://open.spotify.com/album/2OrcCAtIHgxEKmPKk3Hjaz) | 3:18 | 2025-05-01 |  |
 | [水性．揚花](https://open.spotify.com/track/2xOJevEW5XGSdqNe3A9jGg) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [水性揚花](https://open.spotify.com/album/6elCEI3I5Iuwia6E80wcFU) | 4:08 | 2024-06-27 |  |
 | [沉沒成本](https://open.spotify.com/track/6h4Ms3RFZZiVNf64n1Oh79) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/59TofyRHvflzaS9JW2pDjD) | 4:07 | 2024-06-27 |  |
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-06-27 |  |
@@ -410,6 +415,7 @@
 | [無膽匪類](https://open.spotify.com/track/1CUNuItJ9W782QUHDGAW1O) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無膽匪類](https://open.spotify.com/album/35Pk4Fyff8LLdPY8Bq563J) | 3:19 | 2025-03-20 |  |
 | [焦慮型依戀](https://open.spotify.com/track/1P3Tlw0AgrMSW3LlIjidxd) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [焦慮型依戀](https://open.spotify.com/album/0fUtOlileN8mI2HKZqHAZN) | 3:37 | 2024-06-27 |  |
 | [煙草](https://open.spotify.com/track/0BKtrm5b1wvbDDs5IumsJs) | [譚杏藍](https://open.spotify.com/artist/7bpjzYP4ylb6iAHOWOJTmO) | [煙草](https://open.spotify.com/album/45rCoEI3PQE6SgMgaTados) | 4:20 | 2024-09-26 |  |
+| [熟悉的你 \(劇集《虛擬情人》主題曲）](https://open.spotify.com/track/0aFrkJWUY9dNlyQ42fV660) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [熟悉的你 \(劇集《虛擬情人》主題曲）](https://open.spotify.com/album/2Z8ZHJuojUG6Rh5OJ5deCL) | 3:45 | 2025-05-01 |  |
 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 | 2024-06-27 |  |
 | [玉 \-《埋班作樂III》作品](https://open.spotify.com/track/7Hgb87niQgijwR2OaEZyBS) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [玉 \-《埋班作樂III》作品](https://open.spotify.com/album/49wmL0nUCgiBywc5SUaeqp) | 3:31 | 2024-11-07 |  |
 | [現在](https://open.spotify.com/track/4CTVrNDMw4XSHOcJfrJEAA) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [現在](https://open.spotify.com/album/0YNkXpH1oD9NE2aWKyKzrX) | 3:48 | 2024-06-27 |  |
@@ -418,6 +424,7 @@
 | [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:53 | 2025-02-20 |  |
 | [當兵的自我修養](https://open.spotify.com/track/6ipUXVKisMDnAiQP8GmBik) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [當兵的自我修養](https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa) | 2:51 | 2024-10-17 |  |
 | [痴根鐵粉](https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [痴根鐵粉](https://open.spotify.com/album/2K2fG8bNgZws9A266d6Uue) | 2:48 | 2024-10-03 |  |
+| [白夜行](https://open.spotify.com/track/1zBbE6deJPlPmZ1A0hCUvV) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行](https://open.spotify.com/album/7xma6rcCZa9zjp98JKkthT) | 4:09 | 2025-05-01 |  |
 | [白月光](https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [白月光](https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK) | 3:45 | 2025-02-20 |  |
 | [白金卡公主](https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [白金卡公主](https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8) | 4:11 | 2025-01-02 |  |
 | [白髮齊眉](https://open.spotify.com/track/6qTqCB50JejUbmv2HFTVUP) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [白髮齊眉](https://open.spotify.com/album/12ZDGifLDgCZLEzGRBbdfQ) | 3:39 | 2024-06-27 |  |

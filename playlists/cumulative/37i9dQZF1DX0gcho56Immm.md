@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
 
-89 songs - 4 hr 53 min
+94 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
 | [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2025-03-13 |  |
+| [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 |  |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2025-03-13 |  |
 | [follow your nature](https://open.spotify.com/track/5lyvMhPSs4Lz9XVT9Vyhi4) | [great area](https://open.spotify.com/artist/2RZuX5qzl7vZSxlX5T2hBj) | [Follow Your Nature](https://open.spotify.com/album/7jcUICqffbjaDdPpDT7Yxt) | 2:16 | 2025-03-13 |  |
 | [Forgetful](https://open.spotify.com/track/3Q1u8slUCTZEy8zlS9W3iZ) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Forgetful](https://open.spotify.com/album/3JkbrPgAyJMSn9YuPUpNS5) | 4:41 | 2025-03-13 |  |
@@ -51,6 +52,7 @@
 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |
 | [Hello Universe](https://open.spotify.com/track/4pmAO0JC3xwsTNlxGWfhde) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Hello Universe](https://open.spotify.com/album/2jXsMO8q6Yfn2s0Uvve0Di) | 3:03 | 2025-04-24 |  |
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 |  |
+| [Honey Scented Soul](https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Strange Serenity](https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy) | 2:58 | 2025-05-01 |  |
 | [Honeysuckle](https://open.spotify.com/track/00L6NLpcJvIIx6gXcLgf1c) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna), [Mary Jane Dunphe](https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous) | [Honeysuckle](https://open.spotify.com/album/0hjxxXTbZ1L3UmdYhKsiGP) | 3:12 | 2025-03-13 |  |
 | [Human Siren](https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl) | [Emma Acs](https://open.spotify.com/artist/6iLTh6Fhd16Cdq212BaS5c) | [Human Siren](https://open.spotify.com/album/0PEOUpjx1VTyesEx8K6igz) | 7:26 | 2025-03-13 |  |
 | [I am I am what](https://open.spotify.com/track/5ExwUqRjRiILMt1eDAhH12) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [I am I am what](https://open.spotify.com/album/0oIJ7qcEcrivPVkgyd27PT) | 2:17 | 2025-04-03 |  |
@@ -64,6 +66,7 @@
 | [King Jester](https://open.spotify.com/track/2vJm5QcDnbQCUnvoT8472L) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [Strangers on screen](https://open.spotify.com/album/1pBdWZDRHKYxp2NDOFY6wX) | 2:53 | 2025-03-13 |  |
 | [Kokiri](https://open.spotify.com/track/0nCkxEw2KadeAPrkqdwTKB) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Kokiri](https://open.spotify.com/album/1eLzhDC1eCVfMbvO1ietaE) | 4:37 | 2025-03-13 |  |
 | [L.O.V.E](https://open.spotify.com/track/2tscMbvEl8Zur5gyYwf7bC) | [Soho Rezanejad](https://open.spotify.com/artist/5gEoe0kGMZJytho1bf9PfE) | [L.O.V.E](https://open.spotify.com/album/0w55PPsZ6PnKpFDkWsBRma) | 4:04 | 2025-03-13 |  |
+| [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2025-03-13 |  |
 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2025-03-13 |  |
 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 | 2025-03-13 |  |
@@ -77,9 +80,11 @@
 | [Player](https://open.spotify.com/track/2ijSauaN6TX94b8VRSdn1j) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 2:51 | 2025-03-13 |  |
 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-29 |  |
 | [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 |  |
+| [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
+| [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 |  |
-| [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 |  |
+| [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 | 2025-05-02 |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |

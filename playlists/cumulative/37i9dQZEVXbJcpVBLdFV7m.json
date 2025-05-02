@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 109440,
       "name": "Can't Help But Worry (Every Night Every Day)",
       "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
@@ -5902,6 +5924,24 @@
       "duration_ms": 191493,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
+    },
+    {
+      "album": {
+        "name": "Doubt (demo)",
+        "url": "https://open.spotify.com/album/5qkGe4UpUa8dsokzuroQ72"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177940,
+      "name": "Doubt (demo)",
+      "url": "https://open.spotify.com/track/0vsW1vAlNYiy9Y5briGT8Y"
     },
     {
       "album": {
@@ -11500,7 +11540,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
@@ -14070,7 +14110,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
@@ -21586,6 +21626,24 @@
       "duration_ms": 179473,
       "name": "Teresa & Maria",
       "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"
+    },
+    {
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/7cWNN1YSb3HzazEEZC8AwT"
+      },
+      "artists": [
+        {
+          "name": "Hayes & Y",
+          "url": "https://open.spotify.com/artist/2mwysWD4hDBi2riMRaKwVg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194418,
+      "name": "Terminal 0",
+      "url": "https://open.spotify.com/track/6iBQWLvhFkvCdHDj8iU1BJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:  לירן דנינו
 
-329 songs - 17 hr 30 min
+330 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [אנשי הגשם](https://open.spotify.com/track/6N28NuVF5sOwqn4IRROcWq) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [היסטוריה של תאונות](https://open.spotify.com/album/2XtaerAcEYH7PGyglBLVoE) | 4:12 | 2025-02-13 | 2025-03-07 |
 | [ארץ \(Eretz\)](https://open.spotify.com/track/3vJ47XJTcrTMu8kLFZX0eE) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [ארץ \(Eretz\)](https://open.spotify.com/album/7unNPEjYQIEJWZWMAMSC5P) | 3:25 | 2025-03-20 |  |
 | [ארץ הפוכה](https://open.spotify.com/track/4oWUvtwxjmyEmheQQ1zyNr) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [ארץ הפוכה](https://open.spotify.com/album/1jfg16cce9q2Qz4VtZkeW2) | 3:21 | 2024-10-10 | 2024-10-16 |
-| [אשמור](https://open.spotify.com/track/31BlXlypdb23X08wTRnC2i) | [Daniel Salomon](https://open.spotify.com/artist/0K40V2ZGzhAI81gxhKleOt) | [ככה זה עכשיו](https://open.spotify.com/album/4LbqMpKr1x8Zt1yCqmYmnU) | 3:29 | 2025-03-20 |  |
+| [אשמור](https://open.spotify.com/track/31BlXlypdb23X08wTRnC2i) | [Daniel Salomon](https://open.spotify.com/artist/0K40V2ZGzhAI81gxhKleOt) | [ככה זה עכשיו](https://open.spotify.com/album/4LbqMpKr1x8Zt1yCqmYmnU) | 3:29 | 2025-03-20 | 2025-05-02 |
 | [אתה](https://open.spotify.com/track/5IedRcrhITrSS6bHhHyo9B) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אתה](https://open.spotify.com/album/4YsPcgDeYjrByzk3FWVOt1) | 2:13 | 2024-06-27 | 2024-09-13 |
 | [אתה אני אולי](https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אתה אני אולי](https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0) | 3:18 | 2024-12-12 | 2025-04-11 |
 | [באך](https://open.spotify.com/track/6hejRIYDdXDSn3LK2V16xf) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [באך](https://open.spotify.com/album/1o7Tjzg0alup9WIAy66tfb) | 2:24 | 2024-06-27 | 2024-09-13 |
@@ -174,6 +174,7 @@
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-02-21 |
 | [יוצאת מזה](https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יוצאת מזה](https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG) | 3:40 | 2024-06-27 | 2024-08-16 |
 | [ילדה קטנה כותבת מכתב](https://open.spotify.com/track/5fOZZC0Zn9hmqb92lbJlEx) | [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq) | [ילדה קטנה כותבת מכתב](https://open.spotify.com/album/5oy5X1o1SFsHYTzvhtG00G) | 2:51 | 2024-06-27 | 2024-09-13 |
+| [ילדות נשכחת](https://open.spotify.com/track/4jqHdI4asdhiCDT6imwPWq) | [Keren Peles](https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9), [Moshe Peretz](https://open.spotify.com/artist/2kOE3Jm5tMqLh65EiDkHJi) | [ילדות נשכחת](https://open.spotify.com/album/5cbD1xJ6eNefrwUjxeVwnE) | 3:29 | 2025-05-01 |  |
 | [יפה מבראשית](https://open.spotify.com/track/7guhFOyenW4kSJoCmtzbU2) | [Ron Buhnik](https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K) | [יפה מבראשית](https://open.spotify.com/album/6amYXROZVCFNHhjjcbLnQ5) | 2:46 | 2025-01-23 |  |
 | [יש מה לאבד](https://open.spotify.com/track/1idVPDUFfKlfHyo8yLTQXf) | [Chen Cohen](https://open.spotify.com/artist/4upZpNTghEsx3At2lAWp96) | [יש מה לאבד](https://open.spotify.com/album/66EYLIFGiikwd5TIy35MiS) | 2:56 | 2025-04-03 |  |
 | [ישתבח](https://open.spotify.com/track/4jgOx2gmCmaDndHkeBv1Ja) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [ישתבח](https://open.spotify.com/album/7BmNayS6whQ64NpKgy2OO0) | 2:51 | 2025-03-27 |  |

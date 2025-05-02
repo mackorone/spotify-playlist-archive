@@ -652,6 +652,10 @@
       },
       "artists": [
         {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
           "name": "Amaal Mallik",
           "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
         },
@@ -662,10 +666,6 @@
         {
           "name": "Sameer Anjaan",
           "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
       "date_added": "2024-10-23",
@@ -5356,7 +5356,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 152467,
       "name": "Kinaare",
       "url": "https://open.spotify.com/track/5hvKhWCV8qXSnXKsVMt2xq"
@@ -7984,6 +7984,24 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/5djZm1zFGcJUSUqbBjrAZH"
+    },
+    {
+      "album": {
+        "name": "Ok Not Ok",
+        "url": "https://open.spotify.com/album/5TuEKJJ43BSwUK2FhlPRSJ"
+      },
+      "artists": [
+        {
+          "name": "Roshanara",
+          "url": "https://open.spotify.com/artist/7emzpBPOKHKxut0AQZzjzz"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172903,
+      "name": "Ok Not Ok",
+      "url": "https://open.spotify.com/track/6qvR2L1SsTQ6QrTWqk1LOb"
     },
     {
       "album": {

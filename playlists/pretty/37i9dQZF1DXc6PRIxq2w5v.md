@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,925 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,940 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 54 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
 | 55 | [Mais Perto do Céu](https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mais Perto do Céu](https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk) | 2:37 |
 | 56 | [Eu Sou](https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Eu Sou](https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9) | 3:05 |
-| 57 | [Me Deixou Forte](https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Me Deixou Forte](https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va) | 2:44 |
-| 58 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
+| 57 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
+| 58 | [Me Deixou Forte](https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Me Deixou Forte](https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va) | 2:44 |
 | 59 | [Wave](https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0) | [EMIDÊ](https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Wave](https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX) | 2:38 |
 | 60 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 |
 | 61 | [Te Agradeço](https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Te Agradeço](https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ) | 2:37 |

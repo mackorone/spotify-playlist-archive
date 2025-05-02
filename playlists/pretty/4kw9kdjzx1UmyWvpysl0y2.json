@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125361,
+  "num_followers": 125359,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUBx8yADPSH1411kgYk5dCel4k+zJz",
+  "snapshot_id": "AAAUCEt3R4RG3V6NrbRjhgsStAT5FMIs",
   "tracks": [
+    {
+      "added_at": "2025-05-01 14:32:52",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97"
+    },
     {
       "added_at": "2025-04-30 15:52:23",
       "album": {

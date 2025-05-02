@@ -4988,7 +4988,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 139477,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/3W4nQmXBtRdJ5EdWw3zbDp"
@@ -7054,7 +7054,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 167556,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/1nCBdVLJqwEMAh16gtE45r"
@@ -7508,7 +7508,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 150857,
       "name": "Graf Monte-Cristo",
       "url": "https://open.spotify.com/track/7onsPEhcLrvADBLmLUhDp5"
@@ -13716,7 +13716,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 194540,
       "name": "Out of Love - Radio Edit",
       "url": "https://open.spotify.com/track/7vDm2G3rB5zsLl2V2wqf4v"
@@ -15167,6 +15167,24 @@
     },
     {
       "album": {
+        "name": "Resurrect my Heart",
+        "url": "https://open.spotify.com/album/3lICEWAa8hwAmlaD3sFDMA"
+      },
+      "artists": [
+        {
+          "name": "lxver.exe",
+          "url": "https://open.spotify.com/artist/3Qah50TquSy4SWlanjtE0z"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161597,
+      "name": "Resurrect my Heart",
+      "url": "https://open.spotify.com/track/1EF6Jx6im0nLVKnz7hPBrK"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -16318,7 +16336,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 160000,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4gdR57m0amD2REYvxr71jr"
@@ -20412,7 +20430,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "\u0410 \u044f \u0432\u0441\u0435 \u043f\u043b\u0430\u043a\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/12LGZ1axDaBCZGDlvZ9Hnl"
@@ -22940,7 +22958,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 149832,
       "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
@@ -26330,7 +26348,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -27688,7 +27706,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 150384,
       "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
@@ -30186,7 +30204,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 153250,
       "name": "\u041f\u041e\u0412\u041e\u0414",
       "url": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
@@ -34234,7 +34252,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 187353,
       "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
       "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"

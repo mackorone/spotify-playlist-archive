@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Marie\-Flore
+> Les  meilleures nouveautés de la chanson française\. Photo : Jeanne Gabrielle
 
-165 songs - 9 hr 4 min
+166 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Tu parles trop](https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Rêver](https://open.spotify.com/album/5I3TWGhKoXOMmHodyMH2YV) | 2:49 | 2024-06-27 | 2024-12-06 |
 | [un chien sur le port](https://open.spotify.com/track/4dOmICDdEiOiqgiDhD1XrU) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [un chien sur le port](https://open.spotify.com/album/466DsSP9xrs0UYtY3tk7dD) | 3:35 | 2024-11-14 | 2025-01-31 |
 | [un coeur jamais venu](https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [l'art de n'être pas](https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp) | 2:46 | 2025-04-10 |  |
-| [Un homme heureux](https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix Plus](https://open.spotify.com/album/2KV6vuCpm7D0stDWSwxcCr) | 3:04 | 2024-12-05 |  |
+| [Un homme heureux](https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix Plus](https://open.spotify.com/album/2KV6vuCpm7D0stDWSwxcCr) | 3:04 | 2024-12-05 | 2025-05-02 |
+| [vestiaire](https://open.spotify.com/track/1l73TR0XQyd3UAPv1JritE) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [vestiaire](https://open.spotify.com/album/26Slz1vGSAqtp6eW2z2Lzp) | 2:52 | 2025-05-01 |  |
 | [Violette](https://open.spotify.com/track/7smDg0K71zHvU7w0qRiUOG) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Violette](https://open.spotify.com/album/100JcLvH3jFj7EvC3r4mNr) | 2:41 | 2024-11-28 | 2025-04-25 |
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 | 2024-11-08 |
 | [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 |  |

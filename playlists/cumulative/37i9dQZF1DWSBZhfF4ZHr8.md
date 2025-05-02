@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Charles Doré
+> Les meilleures nouveautés de la variété française\. Photo : Suzane
 
-240 songs - 11 hr 52 min
+242 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [C'est ça la vie](https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [C'est ça la vie](https://open.spotify.com/album/27X4Zkeh2eVXl30FzetqeB) | 3:00 | 2024-11-07 | 2025-01-31 |
 | [CARDIO](https://open.spotify.com/track/5ByXGWhn9JHkbh3Wpb2xWz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO](https://open.spotify.com/album/3a0OpRuHTLpD0zYnR6tSaM) | 2:58 | 2024-12-05 | 2025-01-10 |
 | [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-17 |  |
-| [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-03-27 |  |
+| [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-03-27 | 2025-05-02 |
 | [Ces filles](https://open.spotify.com/track/7sxkjio9AdWpCQb5MmCGiD) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ces filles](https://open.spotify.com/album/5NOBiapUgGKZvFOqNEoj6M) | 3:03 | 2024-09-05 | 2024-11-29 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-21 | 2025-01-31 |
 | [Changer](https://open.spotify.com/track/0wiXd1EP1zSxI2mSycHz4S) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Changer](https://open.spotify.com/album/639mA0Xlv5ZcovO0ir5Rj8) | 2:46 | 2024-11-28 | 2025-02-21 |
@@ -104,6 +104,7 @@
 | [Je t'aime](https://open.spotify.com/track/4qGzHySKdaIZGGTUy6um9z) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA) | [Lamomali Totem](https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy) | 3:21 | 2025-04-24 |  |
 | [Jusqu'à l'Os](https://open.spotify.com/track/6pfEffhUGyMoeFbw2ETRbV) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Jusqu'à l'Os](https://open.spotify.com/album/0QyVZfw0eKVvqDOAY37QNZ) | 2:45 | 2025-04-24 |  |
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-09 | 2025-03-01 |
+| [L'amour](https://open.spotify.com/track/0aMuziK1neN0U0EoiCsrzF) | [Leonie](https://open.spotify.com/artist/0oHobVIFdzypUfTGTalD0X) | [L'amour](https://open.spotify.com/album/4jsKIXopurrKjHzMqzQE94) | 2:36 | 2025-05-01 |  |
 | [L'amour dure trois mois](https://open.spotify.com/track/0ILQUlRTZ7Aty779RTf78Q) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y), [Pierre Faury](https://open.spotify.com/artist/4AGQZVcX3snN6xwH1Sw3M5) | [L'amour dure trois mois](https://open.spotify.com/album/4Y7QKaWUucthETb7X9Jh9I) | 3:23 | 2024-12-19 | 2025-01-24 |
 | [L'envers du décor](https://open.spotify.com/track/6W8K0UBfWXzWgw8B36XOqS) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [L'envers du décor](https://open.spotify.com/album/5CilMfmCelHEETCjYGUWFf) | 2:44 | 2025-02-06 | 2025-04-18 |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 | 2024-08-30 |
@@ -200,6 +201,7 @@
 | [Sentiers de la brume](https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Sentiers de la brume](https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L) | 3:56 | 2024-07-04 | 2024-07-27 |
 | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Seul au monde \(feat\. Soolking\)](https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa) | 3:00 | 2024-10-03 | 2024-12-13 |
 | [Seul ici](https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Seul ici](https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh) | 3:13 | 2025-01-23 | 2025-04-18 |
+| [Si j'pouvais](https://open.spotify.com/track/4tTfUZz1UxYpw5DKCbbCz4) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Si j'pouvais](https://open.spotify.com/album/2Fw1bNmKVq208kNjKnZfwR) | 2:22 | 2025-05-01 |  |
 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-08-29 | 2024-11-22 |
 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 | 2024-11-07 | 2025-02-07 |
 | [Soif d'amour](https://open.spotify.com/track/4DKzSPzfpw6pnmD8ej7I9I) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Soif d'amour](https://open.spotify.com/album/2oml5W6hOHp3EFGJIDaqn6) | 3:17 | 2024-08-22 | 2024-11-08 |
@@ -238,7 +240,7 @@
 | [Unforgettable](https://open.spotify.com/track/2VXktzdXfNbCEfu8fnpKYe) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 2:40 | 2025-01-23 | 2025-04-11 |
 | [Va\-t'en ou reste](https://open.spotify.com/track/371OlmdAKRrq27OQkfoN6w) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Va\-t'en ou reste](https://open.spotify.com/album/3R7J362s95r0IqhNNSbD3r) | 2:52 | 2024-10-17 | 2024-12-06 |
 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 | 2024-08-29 | 2025-01-17 |
-| [Vide](https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5) | [Charlie Boisseau](https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP) | [Vide](https://open.spotify.com/album/7r2RSKrWUQ4sw5y990H6Aj) | 2:19 | 2025-02-20 |  |
+| [Vide](https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5) | [Charlie Boisseau](https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP) | [Vide](https://open.spotify.com/album/7r2RSKrWUQ4sw5y990H6Aj) | 2:19 | 2025-02-20 | 2025-05-02 |
 | [Vie vagabonde](https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Vie vagabonde](https://open.spotify.com/album/0rmOiiMcUxATbZtqUD4Xgz) | 3:47 | 2024-08-22 | 2024-11-22 |
 | [Vos voix](https://open.spotify.com/track/45cYeCK8CFZW0nXKDcRcBQ) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2024](https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3) | 3:01 | 2025-01-30 | 2025-03-21 |
 | [Vérité](https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Vérité](https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP) | 2:45 | 2025-02-20 |  |

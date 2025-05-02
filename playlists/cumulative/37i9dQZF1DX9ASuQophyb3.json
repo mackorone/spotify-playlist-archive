@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: G\u00fclden x Tan Ta\u015f\u00e7\u0131",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Semicenk\n",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
+    },
+    {
+      "album": {
+        "name": "Ayn\u0131 De\u011fil Mi",
+        "url": "https://open.spotify.com/album/1ADiBNHQAFzraYTZwFeSa2"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Ayn\u0131 De\u011fil Mi",
+      "url": "https://open.spotify.com/track/64NLXJ8aMTPRKNpbwpzpoo"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 204200,
       "name": "Bundan Gayr\u0131",
       "url": "https://open.spotify.com/track/6UVUuNq21sRH4iAxB0xJf9"
@@ -1737,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "\u0130nsan Lekesi",
+        "url": "https://open.spotify.com/album/2oUfc3983SCTMfmvKIdRis"
+      },
+      "artists": [
+        {
+          "name": "Deniz Seki",
+          "url": "https://open.spotify.com/artist/28bHkFlKKHHudmgvnfYpiJ"
+        },
+        {
+          "name": "Ozan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "\u0130nsan Lekesi",
+      "url": "https://open.spotify.com/track/4VeJczwiJTmswNySNnZ5zU"
+    },
+    {
+      "album": {
         "name": "\u0130STANBUL B\u0130LE",
         "url": "https://open.spotify.com/album/51rttRrCgLiGh0l2nKypnv"
       },
@@ -1836,7 +1876,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 257820,
       "name": "Kalbimde Dikenli Teller",
       "url": "https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow"
@@ -2028,6 +2068,24 @@
       "duration_ms": 140267,
       "name": "Kopmuyorum Senden",
       "url": "https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK"
+    },
+    {
+      "album": {
+        "name": "Koy",
+        "url": "https://open.spotify.com/album/1Wuw1HlYJQakuvryQEev38"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Koy",
+      "url": "https://open.spotify.com/track/0HZi4wE9hQM6TAL33xzXcx"
     },
     {
       "album": {
@@ -2614,7 +2672,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 258105,
       "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
       "url": "https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0"
@@ -2951,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Tam Da \u015eu Anda",
+        "url": "https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139280,
+      "name": "Tam Da \u015eu Anda",
+      "url": "https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM"
+    },
+    {
+      "album": {
         "name": "Sana Ra\u011fmen",
         "url": "https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE"
       },
@@ -2984,7 +3060,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 157009,
       "name": "Tavr\u0131na Hayran",
       "url": "https://open.spotify.com/track/0nGaoa9b9Ovpr0G3Y3Nidd"
@@ -3210,6 +3286,24 @@
       "duration_ms": 194933,
       "name": "Yang\u0131n Yang\u0131n",
       "url": "https://open.spotify.com/track/4O8BIvo3juWpcCASM9pbNK"
+    },
+    {
+      "album": {
+        "name": "Yank\u0131n Var",
+        "url": "https://open.spotify.com/album/5T9bCXbi5KRCC2EZYQH4S8"
+      },
+      "artists": [
+        {
+          "name": "Burcu G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149413,
+      "name": "Yank\u0131n Var",
+      "url": "https://open.spotify.com/track/2Jt2m8urDzCJtUK1SCMDlj"
     },
     {
       "album": {
@@ -3842,7 +3936,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 158303,
       "name": "\u015eu Halime Baksana",
       "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"

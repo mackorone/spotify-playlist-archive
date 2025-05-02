@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-622 songs - 1 day 9 hr 29 min
+623 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 | 2022-03-29 | 2023-10-18 |
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/477daPpd3DnneaHhvjM35l) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG) | 2:18 | 2021-04-09 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-03-02 |  |
+| [Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:40 | 2025-05-01 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 | 2021-07-23 | 2023-05-16 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2021-04-09 | 2023-08-08 |
 | [B a r b r a S t r e i s a n d](https://open.spotify.com/track/5E8cHAlp2DXL7vgcIleDsB) | [enlumojamji](https://open.spotify.com/artist/3QbZPnVX0ml32RuT5p3A1r) | [B a r b r a S t r e i s a n d](https://open.spotify.com/album/4Qn7oy9H2SNopS9KTI5Oqb) | 3:14 | 2023-08-07 | 2023-09-03 |

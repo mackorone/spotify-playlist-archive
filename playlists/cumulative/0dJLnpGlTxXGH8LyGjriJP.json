@@ -5219,6 +5219,32 @@
     },
     {
       "album": {
+        "name": "Lil Boat 3.5",
+        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "Flex Up (feat. Future & Playboi Carti)",
+      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
+    },
+    {
+      "album": {
         "name": "Bobby Tarantino",
         "url": "https://open.spotify.com/album/0WMr3ulx5Mzi1B3C8LsHVA"
       },

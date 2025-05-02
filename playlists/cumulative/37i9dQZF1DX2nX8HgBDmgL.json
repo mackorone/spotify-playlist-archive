@@ -5495,6 +5495,36 @@
     },
     {
       "album": {
+        "name": "Sanu Ek Pal",
+        "url": "https://open.spotify.com/album/6xgH9jA22Aw5MTdcgGfAD6"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        },
+        {
+          "name": "Sarmad Ghafoor",
+          "url": "https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "Sanu Ek Pal",
+      "url": "https://open.spotify.com/track/1WkCKxdIsWlB4CxBN31Zrx"
+    },
+    {
+      "album": {
         "name": "Khilnay Ko",
         "url": "https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT"
       },

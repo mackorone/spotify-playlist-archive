@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 538516,
+  "num_followers": 538756,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
         "name": "Lioness (Francis Mercier Remix)",
         "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 193278,
       "name": "Lioness - Francis Mercier Remix",
       "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
         "name": "Shout It Out",
         "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 188739,
       "name": "Shout It Out",
       "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
-      },
-      "artists": [
-        {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
         "name": "H\u00e9roe de M\u00e9xico",
         "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
       },
@@ -1743,38 +1723,22 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Smoke (feat. Clubhouse)",
-        "url": "https://open.spotify.com/album/48CqJENcAOPSawQIaeJowz"
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
       "artists": [
         {
-          "name": "Imad",
-          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
         },
         {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        },
-        {
-          "name": "Jardin Du Son",
-          "url": "https://open.spotify.com/artist/5dg8iorcRlVo2JZOgIpU2x"
-        },
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        },
-        {
-          "name": "Anton Khabbaz",
-          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
-        },
-        {
-          "name": "Dylan Lee",
-          "url": "https://open.spotify.com/artist/0B364Wkwz2uTpEW6KN8pFR"
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Smoke (feat. Clubhouse)",
-      "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -1819,6 +1783,42 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
+        "name": "Smoke (feat. Clubhouse)",
+        "url": "https://open.spotify.com/album/48CqJENcAOPSawQIaeJowz"
+      },
+      "artists": [
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        },
+        {
+          "name": "Jardin Du Son",
+          "url": "https://open.spotify.com/artist/5dg8iorcRlVo2JZOgIpU2x"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Anton Khabbaz",
+          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
+        },
+        {
+          "name": "Dylan Lee",
+          "url": "https://open.spotify.com/artist/0B364Wkwz2uTpEW6KN8pFR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Smoke (feat. Clubhouse)",
+      "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Can't Let You Go",
-        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
         "name": "Sun Is Shining",
         "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
       },
@@ -1971,6 +1951,26 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
       },
@@ -1983,26 +1983,6 @@
       "duration_ms": 263250,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
-        "name": "Wale Wale",
-        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
-      },
-      "artists": [
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 317884,
-      "name": "Wale Wale",
-      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -2023,6 +2003,26 @@
       "duration_ms": 315371,
       "name": "Riga",
       "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
+        "name": "Wale Wale",
+        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 317884,
+      "name": "Wale Wale",
+      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -2227,6 +2227,26 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
+        "name": "Comusa",
+        "url": "https://open.spotify.com/album/3f022QWDplc7zkzlM1bMmF"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        }
+      ],
+      "duration_ms": 222926,
+      "name": "Comusa",
+      "url": "https://open.spotify.com/track/5sTVsPrvIi96swhRzkSXfH"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/1s44DLWFcVvwNNfE45KKPr"
       },
@@ -2243,6 +2263,38 @@
       "duration_ms": 207360,
       "name": "Matador",
       "url": "https://open.spotify.com/track/7u7uU8jZ9ZVjgy1SZTBTMh"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
+      },
+      "artists": [
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "duration_ms": 298125,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1"
+      },
+      "artists": [
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 259650,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -2275,42 +2327,6 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
-      },
-      "artists": [
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 298125,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
-        "name": "Comusa",
-        "url": "https://open.spotify.com/album/3f022QWDplc7zkzlM1bMmF"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "DvirNuns",
-          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
-        }
-      ],
-      "duration_ms": 222926,
-      "name": "Comusa",
-      "url": "https://open.spotify.com/track/5sTVsPrvIi96swhRzkSXfH"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
         "name": "Intersexy",
         "url": "https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 285730,
       "name": "Khuluma Nami",
       "url": "https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1"
-      },
-      "artists": [
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 259650,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
     },
     {
       "added_at": "2025-04-25 04:00:46",
@@ -2623,26 +2623,6 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Secreto de Amor (La Noche)",
-        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 271707,
-      "name": "Secreto de Amor - La Noche",
-      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
-    },
-    {
-      "added_at": "2025-04-25 04:00:46",
-      "album": {
         "name": "Release Me (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/6Ed6m6dNICFco8Jx8BxH6X"
       },
@@ -2671,46 +2651,58 @@
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "YAWA (Man On A Mission)",
-        "url": "https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5"
+        "name": "Secreto de Amor (La Noche)",
+        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
       },
       "artists": [
         {
-          "name": "\u00c9del",
-          "url": "https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         },
         {
-          "name": "Zani (BR)",
-          "url": "https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 225128,
-      "name": "YAWA (Man On A Mission)",
-      "url": "https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0"
+      "duration_ms": 271707,
+      "name": "Secreto de Amor - La Noche",
+      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
     },
     {
       "added_at": "2025-04-25 04:00:46",
       "album": {
-        "name": "Tu Ta Le",
-        "url": "https://open.spotify.com/album/0ZfQd5a9kJIUQNOHSV0JOM"
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
       },
       "artists": [
         {
-          "name": "merchant",
-          "url": "https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY"
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
         },
         {
-          "name": "Hoax (BE)",
-          "url": "https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Tu Ta Le",
-      "url": "https://open.spotify.com/track/0n6ZENBExJur3dt3soebKB"
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
+    },
+    {
+      "added_at": "2025-04-25 04:00:46",
+      "album": {
+        "name": "Titatite",
+        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Titatite - Radio Edit",
+      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
     }
   ],
   "unique_name": "Tantra",

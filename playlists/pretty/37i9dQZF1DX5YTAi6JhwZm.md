@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,104 likes - 95 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,131 likes - 95 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 2 | [Barefoot Sunday Blues](https://open.spotify.com/track/4n5AUkvieP9NglLITjihFH) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 7:03 |
 | 3 | [Used To Be Duke](https://open.spotify.com/track/5UI9nSnk8k5e6oMcGK55tt) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 7:19 |
 | 4 | [Lester Leaps In](https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 6:21 |
-| 5 | [Bo\-Till \- Rudy Van Gelder 24Bit Mastering](https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF) | [Blowing In From Chicago](https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6) | 5:56 |
+| 5 | [Bo\-Till \- Rudy Van Gelder 24Bit Mastering](https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/7tuGW5xsy120kDp5I1KNhf) | [Blowing In From Chicago](https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6) | 5:56 |
 | 6 | [Hot Mallets](https://open.spotify.com/track/3Bj1fTJC5zIqAUybuCyRl2) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [The Complete Victor Lionel Hampton Sessions, Vol\. 2](https://open.spotify.com/album/2cDa78D61i3gH89oELnQ1r) | 2:16 |
 | 7 | [Blues for Barry Harris](https://open.spotify.com/track/1FMO9vqWdCvuRaO6CBelP5) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:03 |
 | 8 | [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 |

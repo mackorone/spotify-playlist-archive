@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-231 songs - 20 hr 19 min
+232 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Niwe Ngwenda](https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 5:20 | 2022-06-24 | 2023-05-05 |
 | [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 | 2024-05-03 |  |
 | [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 | 2023-05-05 | 2024-05-03 |
-| [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 | 2025-03-28 |  |
+| [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 | 2025-03-28 | 2025-05-02 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-10-11 |  |
 | [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 | 2025-03-07 |  |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 | 2025-03-21 |
@@ -199,6 +199,7 @@
 | [TIGANA NA ADU](https://open.spotify.com/track/0qvETK86JRvJLnG6nWQJbM) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TIGANA NA ADU](https://open.spotify.com/album/6IeejLFrwiVD4tiD81akz3) | 3:02 | 2024-05-17 | 2024-06-01 |
 | [Tosheka](https://open.spotify.com/track/7wMBdjdvTxLlkZxhvS2aZx) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [Tosheka](https://open.spotify.com/album/7ruFnl7nU40u9rvmyQXhDF) | 3:12 | 2023-11-24 |  |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-06-01 |
+| [Tumaini \(Marcus’ Song\)](https://open.spotify.com/track/0f5vsYCSrUx8Xwa0y2uVcZ) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Living Room Music](https://open.spotify.com/artist/1TDqdNBjbB5PUcDijQwUrl), [Evans Simali](https://open.spotify.com/artist/7AxxItu1zQrLt7nHnMCfxJ) | [Tumaini \(Marcus’ Song\)](https://open.spotify.com/album/2mMuSGaLAtrZtpyzLkScOt) | 3:25 | 2025-05-02 |  |
 | [Ubatili](https://open.spotify.com/track/3421nmVXwNgUUOlHoE1ZQO) | [The Berean Gospel Ministers](https://open.spotify.com/artist/1XGt0taV8k9DMayKng4lNC) | [Ubatili](https://open.spotify.com/album/0eW4o0appJhd1hllgT8uAM) | 6:05 | 2023-07-21 | 2024-05-24 |
 | [ULINIJUA \- Radio Edit](https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [ULINIJUA \(Radio Edit\)](https://open.spotify.com/album/6iloq9rUZqq3d7clUjBbXP) | 6:11 | 2023-08-25 | 2024-05-24 |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc) | 5:12 | 2022-06-24 | 2024-04-19 |

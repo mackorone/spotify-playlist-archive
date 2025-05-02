@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 May 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 May 22:03 UTC.
 
-4,646 songs - 10 day 18 hr 16 min
+4,649 songs - 10 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 | 2024-05-17 | 2024-05-22 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-18 | 2025-01-28 |
 | [A Real Man](https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [A Real Man](https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1) | 3:41 | 2024-05-24 | 2024-05-29 |
-| [A Reptile Dysfunction](https://open.spotify.com/track/79Jk7hWBcAgGrUZdAKs5A1) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [A Reptile Dysfunction](https://open.spotify.com/album/2cQBohQsJUxWd0AhBR0wQY) | 2:41 | 2025-04-28 |  |
+| [A Reptile Dysfunction](https://open.spotify.com/track/79Jk7hWBcAgGrUZdAKs5A1) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [A Reptile Dysfunction](https://open.spotify.com/album/2cQBohQsJUxWd0AhBR0wQY) | 2:41 | 2025-04-28 | 2025-05-02 |
 | [a song for you](https://open.spotify.com/track/4GThIlx5ld3vH7wB6kzjS9) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [a song for you](https://open.spotify.com/album/4P4AAkm5mH0pjNVDytYl6w) | 2:08 | 2024-09-20 | 2024-09-24 |
 | [A Stone Only Rolls Downhill](https://open.spotify.com/track/3yWzAjSDqXPeMSWVTW3F4V) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [A Stone Only Rolls Downhill](https://open.spotify.com/album/4qK3agJUAyLAA7XiFka1SW) | 3:22 | 2025-01-17 | 2025-01-25 |
 | [A Visceral Retch](https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Visceral Retch](https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N) | 4:05 | 2024-09-12 | 2024-09-14 |
@@ -555,6 +555,7 @@
 | [Boo Hoo no Ice Cream for You](https://open.spotify.com/track/3VzIRpW0Q1DtYTc33VtYK0) | [Richard Lindesay](https://open.spotify.com/artist/3FgdgjgpM1qY1UQeUY4UEu) | [Boo Hoo no Ice Cream for You](https://open.spotify.com/album/4YtufkXHY2yzY14FYaVXVZ) | 1:50 | 2024-05-09 | 2024-05-11 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-21 | 2024-08-24 |
 | [BOOGIE MAN](https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f) | [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [BOOGIE MAN](https://open.spotify.com/album/1hrsJ0DZJPGnOdWhnuVacj) | 2:49 | 2024-08-23 | 2024-08-26 |
+| [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 | 2025-05-01 |  |
 | [BOOM BAP](https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/6kQ44jxgMNT1Rn8o1kuIB1) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-07 | 2024-05-10 |
 | [BOOOOOORING](https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg) | 2:56 | 2024-08-20 | 2024-08-23 |
@@ -2776,7 +2777,7 @@
 | [Next Bitch](https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Next Bitch](https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4) | 2:03 | 2024-09-06 | 2024-09-10 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-01 | 2025-03-13 |
 | [Next To Bleed](https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Next To Bleed](https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU) | 1:54 | 2025-01-21 | 2025-01-27 |
-| [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-04-23 |  |
+| [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-04-23 | 2025-05-02 |
 | [Next To Me](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Next To Me](https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM) | 3:05 | 2024-12-13 | 2024-12-20 |
 | [Next To Nothing](https://open.spotify.com/track/00aC5vOKuBjjEIkNQJwfBy) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Next To Nothing](https://open.spotify.com/album/07wG33xE4KhKuP5CoY2SBk) | 3:20 | 2025-04-08 | 2025-04-15 |
 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-10-25 | 2024-10-31 |
@@ -2910,6 +2911,7 @@
 | [Old Dutch](https://open.spotify.com/track/6xzukjDwYDApBimL17JEA8) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb) | [Old Dutch](https://open.spotify.com/album/3X4ZuFy01XHL4OsDLZEiPi) | 5:50 | 2024-05-09 | 2024-05-11 |
 | [Old Life](https://open.spotify.com/track/3Sw3JIOSE6E7InuGDZdaC0) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Old Life](https://open.spotify.com/album/2NOsAyyRvKwWgWWHEPGc4N) | 3:00 | 2024-08-27 | 2024-08-30 |
 | [Old Me](https://open.spotify.com/track/64BxXkUu8a6QefK2VPDhKl) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Old Me](https://open.spotify.com/album/2mnRi7vQNy6BpPoQZTKQC1) | 3:22 | 2024-09-18 | 2024-09-21 |
+| [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
 | [Old Streets 2](https://open.spotify.com/track/7L3g5ZNPS3UL1BZWFGLh9w) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Old Streets 2](https://open.spotify.com/album/2KhsT6vL802qGz8SYugxL3) | 2:13 | 2024-08-10 | 2024-08-15 |
 | [Older \- Single Edit \[Live\]](https://open.spotify.com/track/31jqsvRGVzaWuNwek9GRtW) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Older \(Live in Berlin\)](https://open.spotify.com/album/3q5FBTR6kTSPzOQFZtpRQs) | 3:45 | 2024-10-11 | 2024-10-17 |
 | [Oleo \- Remastered 2024](https://open.spotify.com/track/3JbPVfzUpnzpli37JyrO2I) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Oleo \- Remastered 2024](https://open.spotify.com/album/6FmdU5vSDG4Qwt0tlcIpVp) | 5:14 | 2024-08-13 | 2024-08-17 |
@@ -3443,6 +3445,7 @@
 | [Sega](https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Sega](https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1) | 1:45 | 2024-06-13 | 2024-06-15 |
 | [Selekta \- feat\. Albie Wobble, Trixie B & SIDEQUEST](https://open.spotify.com/track/1u4zIfx7RvYHB6SsoDoWje) | [Kyle Gordon](https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip), [SIDEQUEST](https://open.spotify.com/artist/7B0d26MfdiqCHBRPbLiRnd), [Albie Wobble](https://open.spotify.com/artist/7Bodv2IZvOGGeUoWh0UxZZ), [Trixie B](https://open.spotify.com/artist/5f5TkrpYEHOjLbDPrYyWfV) | [Selekta \(feat\. Albie Wobble, Trixie B & SIDEQUEST\)](https://open.spotify.com/album/3Oj1qoay2pYSdy6nayuAqH) | 2:04 | 2025-03-05 | 2025-03-15 |
 | [Selena](https://open.spotify.com/track/58M7GyjtyWO9qrkwGmWHuz) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Selena](https://open.spotify.com/album/25b0HvvlY2ocNGlT90NBf7) | 2:16 | 2024-09-13 | 2024-09-15 |
+| [Send Help](https://open.spotify.com/track/4X6SKzoAwSbtXL62E8PNjp) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Send Help](https://open.spotify.com/album/2bhPv8oC7e1JrQQO1KN9Zj) | 3:47 | 2025-05-01 |  |
 | [Senses](https://open.spotify.com/track/1JetH4krYbWJNZenvTOC4D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Senses](https://open.spotify.com/album/7Hitj3Xv5AfE3DnMl3U43v) | 2:39 | 2024-09-26 | 2024-09-28 |
 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:16 | 2024-05-28 | 2024-06-01 |
 | [Sentiment](https://open.spotify.com/track/7u3qPOqC6WiXQjLrxMLVU7) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Sentiment](https://open.spotify.com/album/4vX2eB6YQhXyukhnVMCTnu) | 3:31 | 2024-09-11 | 2024-09-13 |
@@ -4002,7 +4005,7 @@
 | [THE ONE](https://open.spotify.com/track/4Gw3xMLPcnCX9VevdWrxRu) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [THE ONE](https://open.spotify.com/album/6x8QCLqSUSQUSzD7qmS6ED) | 2:02 | 2024-08-30 | 2024-09-05 |
 | [The Ones That Changed Me](https://open.spotify.com/track/2QFJ8sfZmDfEAaxqW89OLK) | [Interloper](https://open.spotify.com/artist/1iObP7TbWyteHGmnkXs24O) | [The Ones That Changed Me](https://open.spotify.com/album/3LIueL8bjdz0Z5oyn7ET5X) | 4:39 | 2024-08-15 | 2024-08-17 |
 | [The Phoenix](https://open.spotify.com/track/2q2Faxm7CvQSS6DBCW2AKm) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [The Phoenix](https://open.spotify.com/album/1SEV27nriwhX4LiK3BoEfe) | 3:53 | 2024-04-26 | 2024-04-27 |
-| [THE PORTAL](https://open.spotify.com/track/5162v8ZvdsvCpahPCgUvtm) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [THE PORTAL](https://open.spotify.com/album/56QELOuETWeV4cPm3I1Z99) | 3:01 | 2025-04-24 |  |
+| [THE PORTAL](https://open.spotify.com/track/5162v8ZvdsvCpahPCgUvtm) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [THE PORTAL](https://open.spotify.com/album/56QELOuETWeV4cPm3I1Z99) | 3:01 | 2025-04-24 | 2025-05-02 |
 | [The Price of Pain](https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [The Price of Pain](https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75) | 3:40 | 2024-07-11 | 2024-07-13 |
 | [The Problem](https://open.spotify.com/track/3bXUEuVG1SZX69Kt88yzIh) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU), [DJ Hoppa](https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD) | [The Problem](https://open.spotify.com/album/1ifh5JsdKht971fdNQTyst) | 3:05 | 2024-12-06 | 2024-12-11 |
 | [The Queen is Back](https://open.spotify.com/track/63Sp7Gv1yK4WugcbyZF7up) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [The Queen is Back](https://open.spotify.com/album/3Q65ciBjkErYUwbzR4bw7z) | 3:49 | 2024-05-11 | 2024-05-15 |

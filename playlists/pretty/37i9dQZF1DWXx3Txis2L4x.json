@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 626922,
+  "num_followers": 626943,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 130520,
+      "name": "Good Good Things",
+      "url": "https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 161592,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 130520,
-      "name": "Good Good Things",
-      "url": "https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT"
     },
     {
       "added_at": "2024-10-08 12:05:02",

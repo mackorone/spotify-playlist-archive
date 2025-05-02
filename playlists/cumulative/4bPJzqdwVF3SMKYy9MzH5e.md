@@ -4,7 +4,7 @@
 
 > 
 
-2,147 songs - 4 day 19 hr 20 min
+2,148 songs - 4 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1584,6 +1584,7 @@
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2021-08-05 |  |
 | [RUNAWAY](https://open.spotify.com/track/5XX6yZbIiKGhPmgDazBNhN) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/5Yl0liNZMlc6C1aAH6KXoh) | 2:44 | 2021-08-05 |  |
 | [Runner](https://open.spotify.com/track/5956I4W6Ck4sfVZMMTokpc) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Why Don't We Just](https://open.spotify.com/album/7ehrhLf5mBp7eYQgfhZHMn) | 3:00 | 2021-08-05 |  |
+| [Rush](https://open.spotify.com/track/4gqakJ2DQ5NoTqNHxyIBAM) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:36 | 2025-05-02 |  |
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2021-08-05 |  |
 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 | 2021-08-05 |  |
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2021-08-05 |  |
@@ -1771,7 +1772,7 @@
 | [Such Great Heights](https://open.spotify.com/track/7xpypyK1hDruvMMpoyLU0y) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Such Great Heights](https://open.spotify.com/album/6VTLXgGbi8EDfYdPdoknnx) | 4:27 | 2021-08-05 |  |
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2021-08-05 |  |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2021-11-30 |  |
-| [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 | 2023-08-21 |  |
+| [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 | 2023-08-21 |  |
 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-23 |  |
 | [Suicidal Disciples](https://open.spotify.com/track/4lCFdQo7DSP6OvpSAB4z66) | [Torchfvce](https://open.spotify.com/artist/5mKNKcQD06qvY7WFVmNY2E), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Undergrounds Most Hated](https://open.spotify.com/album/7E7PkaeHFQ9aQNrg4DO29G) | 4:39 | 2021-08-05 |  |
 | [Suicide](https://open.spotify.com/track/4VW4tznoAhLnwgjStIiILn) | [Devin Townsend Band](https://open.spotify.com/artist/571aCWzg7bObPJl5RAs0ZZ) | [Accelerated Evolution](https://open.spotify.com/album/49WiVhHrs9fhmp4MFkLD48) | 6:45 | 2022-08-08 |  |
@@ -2037,7 +2038,7 @@
 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/1A8LrZ15bbYIEzCslhnuiD) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz), [Mall Grab](https://open.spotify.com/artist/5IjbZHHQexZVqj7DA75psa) | [Walls to Build Remix](https://open.spotify.com/album/0RPdqpRcPfvT6VmeyAPkkT) | 6:16 | 2025-04-17 |  |
 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 | 2025-03-30 |  |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2021-08-05 |  |
-| [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-04-03 |  |
+| [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-04-03 |  |
 | [Warm Hands](https://open.spotify.com/track/6CcmXch9doZEkIoIJBVMUV) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Pretty Sick](https://open.spotify.com/album/5hppXRABDCmLBL8kPobypv) | 2:26 | 2023-01-03 |  |
 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 | 2021-08-05 |  |
 | [Was It Weird I Listened To "Im God" By Clams Casino's When I Lost My Virginity](https://open.spotify.com/track/17BRJSG2rupVh4ZCLDIAmN) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Sewer Idol Project](https://open.spotify.com/album/57P4prBdt3GcmvEle5rhuB) | 6:18 | 2022-08-08 |  |

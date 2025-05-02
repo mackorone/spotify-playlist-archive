@@ -74021,6 +74021,28 @@
     },
     {
       "album": {
+        "name": "LANDMiNE",
+        "url": "https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr"
+      },
+      "artists": [
+        {
+          "name": "Skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        },
+        {
+          "name": "Lillith",
+          "url": "https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "LANDMiNE",
+      "url": "https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz"
+    },
+    {
+      "album": {
         "name": "WHAT WAS THE QUESTION",
         "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
       },
@@ -116540,7 +116562,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 246196,
       "name": "Silent Corners",
       "url": "https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0"

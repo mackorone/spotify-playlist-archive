@@ -4,7 +4,7 @@
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-147 songs - 10 hr 12 min
+148 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [New Year's March!](https://open.spotify.com/track/4tntAyjJG0VioM5B2jkKkj) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March!](https://open.spotify.com/album/0onmu5ny53ehIAOV8j1yPe) | 4:04 | 2024-01-23 | 2024-04-19 |
 | [New Year's March！](https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March！](https://open.spotify.com/album/0a9wGjMMzOrTcSbAw2c4UI) | 4:04 | 2024-01-23 | 2024-08-14 |
 | [Not Sad](https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Swinging!](https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K) | 4:17 | 2022-06-25 | 2022-07-28 |
-| [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 | 2022-11-22 |  |
+| [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 | 2022-11-22 | 2025-05-02 |
 | [PHOENIX](https://open.spotify.com/track/4oJXZkrYgrwruRh51IuN4p) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 4:33 | 2024-09-24 |  |
 | [Poker face&お願い!Fairy](https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:47 | 2022-06-25 | 2023-02-12 |
 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 | 2022-06-25 |  |
@@ -107,6 +107,7 @@
 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 | 2022-06-25 |  |
 | [Vroom Vroom](https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:36 | 2022-09-27 |  |
 | [Walking Dream](https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B) | [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:36 | 2023-10-03 | 2024-01-14 |
+| [What a Beautiful Day!](https://open.spotify.com/track/7vSIwFuwYYdXG9nXZesIse) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [What a Beautiful Day!](https://open.spotify.com/album/7A5ZGKNifFtPn2TA6blkiR) | 3:46 | 2025-05-01 |  |
 | [Wish](https://open.spotify.com/track/6zl2VIj9NgGv0vcXhstEPV) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 5:10 | 2022-06-25 | 2022-07-26 |
 | [☆ワンダーランド☆](https://open.spotify.com/track/4Pxuo9SNT3CuNNd1WdOjIB) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:04 | 2022-06-25 | 2022-07-28 |
 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 | 2022-06-25 |  |

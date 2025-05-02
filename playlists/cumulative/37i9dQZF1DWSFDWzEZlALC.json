@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten, Kasi, antonius",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Elias, ENNIO",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110896,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX"
+    },
+    {
+      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
       },
@@ -3250,6 +3268,32 @@
       "duration_ms": 130409,
       "name": "BYE X3 (MIT JEREMIAS)",
       "url": "https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3"
+    },
+    {
+      "album": {
+        "name": "B\u00fcrgermeister von Altona",
+        "url": "https://open.spotify.com/album/2IcdHPQ5wEMqtjwnkhjMg1"
+      },
+      "artists": [
+        {
+          "name": "diamando",
+          "url": "https://open.spotify.com/artist/3cz29L4q7oud1GnAccNTWk"
+        },
+        {
+          "name": "Urbannino",
+          "url": "https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T"
+        },
+        {
+          "name": "DeeLou",
+          "url": "https://open.spotify.com/artist/0PKd9ULK3JUpTTB62AhZP7"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138057,
+      "name": "B\u00fcrgermeister von Altona",
+      "url": "https://open.spotify.com/track/4xkRGsnjs6q8CFWVZDI3Yy"
     },
     {
       "album": {
@@ -5226,7 +5270,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 135015,
       "name": "ein mensch",
       "url": "https://open.spotify.com/track/3pDWORLJ2hgjFVjCIAm2HZ"
@@ -7429,6 +7473,24 @@
     },
     {
       "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201878,
+      "name": "Geist",
+      "url": "https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E"
+    },
+    {
+      "album": {
         "name": "Geister bei Tageslicht",
         "url": "https://open.spotify.com/album/1aYtL3YKtImw2hkHtWAPHY"
       },
@@ -8533,6 +8595,28 @@
     },
     {
       "album": {
+        "name": "Heimweh (mit ENNIO)",
+        "url": "https://open.spotify.com/album/7v83LwftJtcrD2lETvGRPy"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        },
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Heimweh (mit ENNIO)",
+      "url": "https://open.spotify.com/track/3Vza3OooLHGSIlc51d2Ivm"
+    },
+    {
+      "album": {
         "name": "dinge die ich nur mit worten nicht sagen kann_demos",
         "url": "https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD"
       },
@@ -8544,7 +8628,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 210731,
       "name": "heimweh_demo",
       "url": "https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ"
@@ -10968,7 +11052,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 175250,
       "name": "Knicklicht",
       "url": "https://open.spotify.com/track/1tzt3CVuG35Zuv6lJivFBe"
@@ -14872,7 +14956,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 171428,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/7lMWjyg86C3gAfV4FrTjHn"
@@ -14912,6 +14996,24 @@
       "duration_ms": 133458,
       "name": "Piet",
       "url": "https://open.spotify.com/track/1ArGTFysctSfkyyD3AFC6O"
+    },
+    {
+      "album": {
+        "name": "pillen",
+        "url": "https://open.spotify.com/album/4qLIlG4qoGzAqnxdCLd9RX"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187761,
+      "name": "pillen",
+      "url": "https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii"
     },
     {
       "album": {
@@ -16246,7 +16348,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 162529,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/4OAcROIqeWHDAf4y7JWZeT"
@@ -17621,6 +17723,28 @@
     },
     {
       "album": {
+        "name": "Sorgen im Gep\u00e4ck",
+        "url": "https://open.spotify.com/album/0l1SQSVDJE3j5ecG8FuVKj"
+      },
+      "artists": [
+        {
+          "name": "Joe Ju",
+          "url": "https://open.spotify.com/artist/6NZVLWlGquBcp8McFNzmF8"
+        },
+        {
+          "name": "Neighbour Flavour",
+          "url": "https://open.spotify.com/artist/37m14ujHcbD5WxvnCfjGRy"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Sorgen im Gep\u00e4ck",
+      "url": "https://open.spotify.com/track/1ZssGEkEB6iE3QmxU6e78o"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5o0H06rGfbETsssJeok0YI"
       },
@@ -18261,6 +18385,24 @@
     },
     {
       "album": {
+        "name": "Tanktop in wei\u00df",
+        "url": "https://open.spotify.com/album/1buE1NXVYqsOhf7tHivWqT"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168711,
+      "name": "Tanktop in wei\u00df",
+      "url": "https://open.spotify.com/track/1QO6A6YsufugovuDMGnJPf"
+    },
+    {
+      "album": {
         "name": "Tanz",
         "url": "https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr"
       },
@@ -18290,7 +18432,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 166120,
       "name": "tanz allein",
       "url": "https://open.spotify.com/track/2mgbGWzU3sOJCp3x9Wn2ha"
@@ -18894,7 +19036,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 181514,
       "name": "Treibsand",
       "url": "https://open.spotify.com/track/4oGN7eKYdpd7rBorZLyljM"

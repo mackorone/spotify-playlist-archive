@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
+> Os padres e nomes que movem multidões pelo país\. Foto: Padre Fábio de Melo
 
-207 songs - 16 hr 43 min
+208 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ele Não Perde Batalhas](https://open.spotify.com/track/5OmNg2zBWb61x2QxxPwldC) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Ele Não Perde Batalhas](https://open.spotify.com/album/4SsKBPyKq3uVm4NKzGo5J0) | 7:37 | 2023-04-28 | 2023-10-07 |
 | [Ele Vem](https://open.spotify.com/track/1Okz2hMkYKZcR4eur9yqR6) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Ele Vem](https://open.spotify.com/album/3DudCmTbB56mU0KjFAexvG) | 5:31 | 2023-07-28 | 2023-10-07 |
 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 | 2022-09-02 |  |
-| [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 | 2022-09-02 |  |
+| [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 | 2022-09-02 | 2025-05-02 |
 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 | 2023-12-22 | 2025-03-18 |
 | [Encontro a Sós](https://open.spotify.com/track/46z9goAGF6jnaXDFkfUwam) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Encontro a Sós](https://open.spotify.com/album/01xfN7vr1VH5h9S8zxeesX) | 4:33 | 2025-02-07 | 2025-02-17 |
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 | 2023-01-14 |
@@ -79,6 +79,7 @@
 | [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 | 2022-09-02 | 2022-12-05 |
 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 | 2022-09-02 |  |
 | [Eu Amo Teu Fogo \- Ao Vivo](https://open.spotify.com/track/7eSOw1wfGCCIdDMSSYcnM3) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu Amo Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/50aDOBi3i8BJjtj7P083fe) | 10:45 | 2025-01-31 |  |
+| [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 | 2025-05-02 |  |
 | [Eu Seguirei](https://open.spotify.com/track/1qcxZ9i3AFM3W2H8S4yBTs) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Eu Seguirei](https://open.spotify.com/album/0yUG4wbqmZ76k9Zz7lCWAt) | 4:44 | 2024-09-27 | 2024-10-05 |
 | [Eu Te Levantarei](https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Te Levantarei](https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4) | 3:35 | 2024-09-06 |  |
 | [Eu Vou Anunciar](https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Eu Vou Anunciar](https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9) | 5:04 | 2024-11-15 |  |

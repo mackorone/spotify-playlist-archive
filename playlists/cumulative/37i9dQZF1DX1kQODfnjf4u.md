@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
-115 songs - 5 hr 39 min
+116 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2024-07-01 |  |
 | [Cassiopea](https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke), [Pavel Machát](https://open.spotify.com/artist/0eWttDUfPVwCAA8bo83iGI) | [Superfly](https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo) | 2:45 | 2024-07-01 | 2024-09-24 |
 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 | 2025-02-03 | 2025-03-11 |
+| [Cigarety](https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Matej Turcer](https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 4:41 | 2025-05-01 |  |
 | [cool](https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW) | [Grey256](https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM) | [cool](https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y) | 3:00 | 2024-07-01 |  |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 | 2024-12-09 |  |
@@ -100,7 +101,7 @@
 | [Směj se teď](https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Směj se teď](https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC) | 3:10 | 2024-07-01 |  |
 | [space](https://open.spotify.com/track/5YwRYw9u0Abs5R3sDiPAXJ) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/0MwH6PaO0rV86yqyF1R0hL) | 2:52 | 2024-07-01 | 2025-03-18 |
 | [STFU \(feat\. Calin & SIMILIVINLIFE\)](https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:32 | 2024-07-01 | 2024-12-17 |
-| [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 | 2025-04-28 |  |
+| [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 | 2025-04-28 | 2025-05-02 |
 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 | 2024-07-01 |  |
 | [Sunset](https://open.spotify.com/track/4URDQWhb7ylkhuTY2W6hfG) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Sunset](https://open.spotify.com/album/3UhqPWwNPWA6uAB6eVUYOd) | 2:35 | 2024-07-01 | 2025-04-15 |
 | [Swagsucks](https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 2:42 | 2025-04-07 |  |

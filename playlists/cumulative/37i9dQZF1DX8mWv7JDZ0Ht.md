@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Math Basso, Cynthia Luz
 
-808 songs - 1 day 16 hr 22 min
+809 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,11 +581,12 @@
 | [Quando a Gente Existe](https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Quando a Gente Existe](https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5) | 3:24 | 2024-06-07 | 2024-10-12 |
 | [Quando Cê Vem](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Quando Cê Vem](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 | 2023-10-27 | 2024-06-01 |
 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 | 2023-12-08 | 2024-06-22 |
+| [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-02 |  |
 | [Quase Amor](https://open.spotify.com/track/46U95V5hKnM6tM12lOuAOi) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Quase Amor](https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp) | 2:31 | 2023-07-28 | 2024-03-23 |
 | [Que Fase](https://open.spotify.com/track/5pANifhuNQKbBK7KNvJ509) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR) | 2:14 | 2022-07-01 | 2022-08-02 |
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-06 | 2024-09-29 |
 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 | 2023-08-22 | 2024-05-07 |
-| [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-14 |  |
+| [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-14 | 2025-05-02 |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-17 |
 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-22 | 2024-12-24 |
 | [Quem É Você?](https://open.spotify.com/track/2j5DvJgs2PuyyLAo8eQmjZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Quem É Você?](https://open.spotify.com/album/0fDQY5rOZ0zjR0qw8gv10b) | 3:44 | 2025-04-18 |  |

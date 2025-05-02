@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa?si=d6TsqJb3TYKKH67MXzzxmg\">DESIREE</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=J3ZBNXJ1SXSw1r2T1HgEvA\">Dlala Thukzin</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 440000,
       "name": "CHAR'S LYRICS",
       "url": "https://open.spotify.com/track/2NbUGDfrkDSklM8bFgl6MC"
@@ -8570,7 +8570,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 341984,
       "name": "Gqomington",
       "url": "https://open.spotify.com/track/1s1g7rs3sNbvYdG1An7tBY"
@@ -10472,7 +10472,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 235625,
       "name": "Imali",
       "url": "https://open.spotify.com/track/1RklS9IcOUVxolkPW4YaXl"
@@ -11264,7 +11264,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 430556,
       "name": "Intando",
       "url": "https://open.spotify.com/track/6mdCx5RSO2BmsIb6IbHqW2"
@@ -11788,7 +11788,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 332639,
       "name": "J'oublierai tout",
       "url": "https://open.spotify.com/track/78cTZ1y6VMYEQxZMpjPuaq"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 397948,
       "name": "Kitu",
       "url": "https://open.spotify.com/track/6syW3rE6yMNKqVhCSCWMzM"
@@ -14763,6 +14763,32 @@
     },
     {
       "album": {
+        "name": "Mas Que Nada",
+        "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127016,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
+    },
+    {
+      "album": {
         "name": "Sounds of Alkebulan",
         "url": "https://open.spotify.com/album/2pW4c7W9LqtbqTUq4gnIf0"
       },
@@ -15630,6 +15656,32 @@
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
+    },
+    {
+      "album": {
+        "name": "Morenita (Marco Generani Remix)",
+        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147844,
+      "name": "Morenita - Marco Generani Remix",
+      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
     },
     {
       "album": {
@@ -17072,7 +17124,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 358008,
       "name": "Nobody Cares",
       "url": "https://open.spotify.com/track/1h5Ds9SNjbVIu0qMXs723B"
@@ -18482,7 +18534,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 237913,
       "name": "Praise Him - Edit",
       "url": "https://open.spotify.com/track/3FYkN8ywICgGma6HusjWvz"
@@ -18736,7 +18788,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 344000,
       "name": "QMA (feat. Ze2 & Kuthathu)",
       "url": "https://open.spotify.com/track/12sbuKdjDUAcDbq1sC4ovU"
@@ -20171,6 +20223,36 @@
     },
     {
       "album": {
+        "name": "Set Fire To The Rain (with YuB)",
+        "url": "https://open.spotify.com/album/1vlAbdadCBFG3uyDWpojvB"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        },
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "BIGMOO",
+          "url": "https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe"
+        },
+        {
+          "name": "YuB",
+          "url": "https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Set Fire To The Rain (with YuB)",
+      "url": "https://open.spotify.com/track/2QOyUgsnNp17GPQeq55vrC"
+    },
+    {
+      "album": {
         "name": "Set U Free",
         "url": "https://open.spotify.com/album/5a5fAXUL3EnfSL7cVOQyGl"
       },
@@ -20572,6 +20654,32 @@
       "duration_ms": 390561,
       "name": "Shona Phansi (feat. Mac Shawty)",
       "url": "https://open.spotify.com/track/1n0w7ot717y1aGxvbEIjKj"
+    },
+    {
+      "album": {
+        "name": "Short Dick Man",
+        "url": "https://open.spotify.com/album/143o4elWqeZjElDZyoz3Vl"
+      },
+      "artists": [
+        {
+          "name": "D72",
+          "url": "https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt"
+        },
+        {
+          "name": "DJ Falk",
+          "url": "https://open.spotify.com/artist/0ZlPz8n080wd6MpuQFV7IC"
+        },
+        {
+          "name": "That Girl",
+          "url": "https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236521,
+      "name": "Short Dick Man",
+      "url": "https://open.spotify.com/track/2qMvYwMRDxAexRgbbE4NL2"
     },
     {
       "album": {
@@ -21451,6 +21559,24 @@
     },
     {
       "album": {
+        "name": "Stars Above",
+        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190078,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/4hB8AtFy63sIqRGgl206qk"
       },
@@ -21470,6 +21596,28 @@
       "duration_ms": 279334,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4ap850TGe0elGsFLwhZ5M7"
+    },
+    {
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/2a2vGvugM0xdxhGRpJHoMu"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        },
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138787,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/5GZyTkTSAAzcbSnwcEcwFD"
     },
     {
       "album": {
@@ -24200,7 +24348,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 277612,
       "name": "Twende",
       "url": "https://open.spotify.com/track/2mRQBJCPZaRXcWeY0u8kPl"
@@ -25173,6 +25321,36 @@
     },
     {
       "album": {
+        "name": "Uzizwa Kanjan (feat. GL_ceejay)",
+        "url": "https://open.spotify.com/album/6XBxAPLYWGJ1QOhKuZqDhZ"
+      },
+      "artists": [
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467145,
+      "name": "Uzizwa Kanjan (feat. GL_Ceejay)",
+      "url": "https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a"
+    },
+    {
+      "album": {
         "name": "Umqhumo Wethu",
         "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
       },
@@ -25928,7 +26106,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 306782,
       "name": "Webaba - Dazz-B MusiQ & Slaga Remix",
       "url": "https://open.spotify.com/track/7LfiTwkJMnPASx0WsY48ZD"

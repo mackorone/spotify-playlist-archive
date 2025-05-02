@@ -1,13 +1,29 @@
 {
-  "description": "New and local indie noise. Cover: Teen Jesus and the Jean Teasers",
-  "num_followers": 60982,
+  "description": "New and local indie noise. Cover: The Vanns",
+  "num_followers": 60987,
   "original_name": "Local Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aApD6wAAAAAc8pYlKoxNxTNd3XM/teAk",
+  "snapshot_id": "aBN+egAAAABFqR5WXi0eAUiMhYD1J19J",
   "tracks": [
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2irLctfrU53y79OFPygvSP"
+      },
+      "artists": [
+        {
+          "name": "The Vanns",
+          "url": "https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG"
+        }
+      ],
+      "duration_ms": 218233,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/03CAFzT6Niehv1sBnXdcJl"
+    },
     {
       "added_at": "2025-04-24 14:00:11",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f"
     },
     {
-      "added_at": "2025-04-24 14:00:11",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "This Is It",
-        "url": "https://open.spotify.com/album/7CMVg2Y7p3JCYZwsh1o8EH"
+        "name": "To All The Ones That I Love",
+        "url": "https://open.spotify.com/album/7lsQd2eIoDJI6NVLsbIgBc"
       },
       "artists": [
         {
-          "name": "The Smith Street Band",
-          "url": "https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp"
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
         }
       ],
-      "duration_ms": 250651,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/7wa9uELZiL6FSb3ccMXbIZ"
+      "duration_ms": 234216,
+      "name": "To All The Ones That I Love",
+      "url": "https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH"
     },
     {
       "added_at": "2025-04-24 14:00:11",
@@ -59,34 +75,18 @@
     {
       "added_at": "2025-04-17 14:00:18",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/6OEZvQCGJ8LvE75uQTHKGY"
       },
       "artists": [
         {
-          "name": "Fool Nelson",
-          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
         }
       ],
-      "duration_ms": 208938,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
-    },
-    {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "Half the Laugh",
-        "url": "https://open.spotify.com/album/0yCa5nbaH39XZc6jpMYZg8"
-      },
-      "artists": [
-        {
-          "name": "Ruby Fields",
-          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
-        }
-      ],
-      "duration_ms": 138498,
-      "name": "Half the Laugh",
-      "url": "https://open.spotify.com/track/0dkCUByl1zbYJ4cgduDsRB"
+      "duration_ms": 187417,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/6Y8CQEn4cPaMa0VpHQqTql"
     },
     {
       "added_at": "2025-04-24 14:00:11",
@@ -105,36 +105,68 @@
       "url": "https://open.spotify.com/track/4wIOk9vnF5BZHWktoTa8fD"
     },
     {
-      "added_at": "2025-04-03 13:00:14",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "Acetone",
-        "url": "https://open.spotify.com/album/7scQVrEtlwLlH35SvkHgnu"
+        "name": "Catalonia Dreams",
+        "url": "https://open.spotify.com/album/7gIIY7lGRtEkP3w9MqLZuS"
       },
       "artists": [
         {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
         }
       ],
-      "duration_ms": 263614,
-      "name": "Acetone",
-      "url": "https://open.spotify.com/track/5e8ytXfDMAOfXmppQrPbxo"
+      "duration_ms": 186596,
+      "name": "Catalonia Dreams",
+      "url": "https://open.spotify.com/track/5I6oxXnSuUsnQi2NTLmRnp"
+    },
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "King Pumpkin",
+        "url": "https://open.spotify.com/album/1F2yD3qXr3YKv6epyVsUVN"
+      },
+      "artists": [
+        {
+          "name": "Fanning Dempsey National Park",
+          "url": "https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "King Pumpkin",
+      "url": "https://open.spotify.com/track/2tN1fgBw6NvJgyd50ZC7f0"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Half the Laugh",
+        "url": "https://open.spotify.com/album/0yCa5nbaH39XZc6jpMYZg8"
+      },
+      "artists": [
+        {
+          "name": "Ruby Fields",
+          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+        }
+      ],
+      "duration_ms": 138498,
+      "name": "Half the Laugh",
+      "url": "https://open.spotify.com/track/0dkCUByl1zbYJ4cgduDsRB"
     },
     {
       "added_at": "2025-04-17 14:00:18",
       "album": {
-        "name": "Do What Ya Wanna",
-        "url": "https://open.spotify.com/album/0GsdPsb7m1vAC3VWx7HGFp"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
       },
       "artists": [
         {
-          "name": "Beddy Rays",
-          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
         }
       ],
-      "duration_ms": 134295,
-      "name": "Pocket Rocket",
-      "url": "https://open.spotify.com/track/0EmJ7H6NmylmtmXh0x9xxJ"
+      "duration_ms": 208938,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
     },
     {
       "added_at": "2025-04-24 14:00:11",
@@ -153,20 +185,52 @@
       "url": "https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX"
     },
     {
-      "added_at": "2025-03-13 13:00:38",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "I Am Everything",
-        "url": "https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D"
+        "name": "YOU DON'T CARE ABOUT POOR PEOPLE",
+        "url": "https://open.spotify.com/album/4MnkwHsKiN9FHOR11ypFvk"
       },
       "artists": [
         {
-          "name": "Press Club",
-          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
         }
       ],
-      "duration_ms": 172770,
-      "name": "I Am Everything",
-      "url": "https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU"
+      "duration_ms": 195320,
+      "name": "YOU DON'T CARE ABOUT POOR PEOPLE",
+      "url": "https://open.spotify.com/track/5SkL4VvmEWxHBD8oH884p5"
+    },
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "Torn to Shreds",
+        "url": "https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN"
+      },
+      "artists": [
+        {
+          "name": "Mac The Knife",
+          "url": "https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Torn to Shreds",
+      "url": "https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l"
+    },
+    {
+      "added_at": "2025-04-24 14:00:11",
+      "album": {
+        "name": "This Is It",
+        "url": "https://open.spotify.com/album/7CMVg2Y7p3JCYZwsh1o8EH"
+      },
+      "artists": [
+        {
+          "name": "The Smith Street Band",
+          "url": "https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp"
+        }
+      ],
+      "duration_ms": 250651,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/7wa9uELZiL6FSb3ccMXbIZ"
     },
     {
       "added_at": "2025-03-20 13:00:14",
@@ -185,54 +249,6 @@
       "url": "https://open.spotify.com/track/0vaSjojLaOl2kFLeVccmyl"
     },
     {
-      "added_at": "2025-04-17 14:00:18",
-      "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/6OEZvQCGJ8LvE75uQTHKGY"
-      },
-      "artists": [
-        {
-          "name": "Sly Withers",
-          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
-        }
-      ],
-      "duration_ms": 187417,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/6Y8CQEn4cPaMa0VpHQqTql"
-    },
-    {
-      "added_at": "2025-04-24 14:00:11",
-      "album": {
-        "name": "What We're Livin' For (NRL Anthem)",
-        "url": "https://open.spotify.com/album/2TCiByJtqzVHyLQjOdwaBB"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "What We're Livin' For - NRL Anthem",
-      "url": "https://open.spotify.com/track/282EtkCLlLmxpEqSjmRga3"
-    },
-    {
-      "added_at": "2025-04-03 13:00:14",
-      "album": {
-        "name": "Best Behaviour",
-        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 196001,
-      "name": "Best Behaviour",
-      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
-    },
-    {
       "added_at": "2025-03-20 13:00:14",
       "album": {
         "name": "Shut You Out",
@@ -249,84 +265,52 @@
       "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
     },
     {
-      "added_at": "2025-04-03 13:00:14",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "IDENTITY",
-        "url": "https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh"
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/2BZMWrxi7XxW4fX5HDVRXi"
       },
       "artists": [
         {
-          "name": "BIG NOTER",
-          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+          "name": "Off Judy",
+          "url": "https://open.spotify.com/artist/1YGPOmIYJf8UjZvrnmxKAW"
         }
       ],
-      "duration_ms": 204661,
-      "name": "IDENTITY",
-      "url": "https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV"
+      "duration_ms": 211762,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/0NvfBfH182penMtpJ1eoa6"
     },
     {
-      "added_at": "2025-04-24 14:00:11",
+      "added_at": "2025-03-13 13:00:38",
       "album": {
-        "name": "The Hogg",
-        "url": "https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA"
+        "name": "I Am Everything",
+        "url": "https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D"
       },
       "artists": [
         {
-          "name": "CIVIC",
-          "url": "https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe"
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
         }
       ],
-      "duration_ms": 200453,
-      "name": "The Hogg",
-      "url": "https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7"
+      "duration_ms": 172770,
+      "name": "I Am Everything",
+      "url": "https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU"
     },
     {
-      "added_at": "2025-04-17 14:00:18",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "Deadstick",
-        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+        "name": "Feels Like Woah",
+        "url": "https://open.spotify.com/album/368XKvA778eRn5cKniqjwU"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Sophisticated Dingo",
+          "url": "https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL"
         }
       ],
-      "duration_ms": 213575,
-      "name": "Deadstick",
-      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
-    },
-    {
-      "added_at": "2025-04-24 14:00:11",
-      "album": {
-        "name": "Moonglade",
-        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 274609,
-      "name": "Moonglade",
-      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
-    },
-    {
-      "added_at": "2025-04-03 13:00:14",
-      "album": {
-        "name": "Just Because You Can",
-        "url": "https://open.spotify.com/album/4ZcROpJkVPseiNwws2uMwd"
-      },
-      "artists": [
-        {
-          "name": "Salarymen",
-          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
-        }
-      ],
-      "duration_ms": 246713,
-      "name": "Just Because You Can",
-      "url": "https://open.spotify.com/track/1v9mSbytPydcNpzKojTWZp"
+      "duration_ms": 142082,
+      "name": "Feels Like Woah",
+      "url": "https://open.spotify.com/track/4nMEAjl4prdVyqAlNo8i0v"
     },
     {
       "added_at": "2025-03-06 13:00:15",
@@ -345,6 +329,38 @@
       "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     },
     {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Just Because You Can",
+        "url": "https://open.spotify.com/album/4ZcROpJkVPseiNwws2uMwd"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "duration_ms": 246713,
+      "name": "Just Because You Can",
+      "url": "https://open.spotify.com/track/1v9mSbytPydcNpzKojTWZp"
+    },
+    {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Acetone",
+        "url": "https://open.spotify.com/album/7scQVrEtlwLlH35SvkHgnu"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "duration_ms": 263614,
+      "name": "Acetone",
+      "url": "https://open.spotify.com/track/5e8ytXfDMAOfXmppQrPbxo"
+    },
+    {
       "added_at": "2025-03-20 13:00:14",
       "album": {
         "name": "Old Mervs",
@@ -361,20 +377,36 @@
       "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
     },
     {
-      "added_at": "2025-04-24 14:00:11",
+      "added_at": "2025-04-03 13:00:14",
       "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/0SbmO6kmFLsAMkt9Ija9xI"
+        "name": "Best Behaviour",
+        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
       },
       "artists": [
         {
-          "name": "Daily Toll",
-          "url": "https://open.spotify.com/artist/4KdhiN2oYGPCXhDRJizNZG"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 163213,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/5LPsWN4Gvh6PIq4EsPZOWh"
+      "duration_ms": 196001,
+      "name": "Best Behaviour",
+      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
+    },
+    {
+      "added_at": "2025-04-17 14:00:18",
+      "album": {
+        "name": "Lonely (For a While)",
+        "url": "https://open.spotify.com/album/18nXa5k8waISdDE2XwLhWb"
+      },
+      "artists": [
+        {
+          "name": "Wet Denim",
+          "url": "https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg"
+        }
+      ],
+      "duration_ms": 175149,
+      "name": "Lonely (For a While)",
+      "url": "https://open.spotify.com/track/4J35tM6465XaamKUC1G7z4"
     },
     {
       "added_at": "2025-03-06 13:00:15",
@@ -409,22 +441,6 @@
       "url": "https://open.spotify.com/track/45b4wB9Gf4f8fHJrsj4XZB"
     },
     {
-      "added_at": "2025-04-03 13:00:14",
-      "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 225167,
-      "name": "Roundabout",
-      "url": "https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd"
-    },
-    {
       "added_at": "2025-04-17 14:00:18",
       "album": {
         "name": "Talking In My Sleep",
@@ -439,6 +455,22 @@
       "duration_ms": 200482,
       "name": "Talking In My Sleep",
       "url": "https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl"
+    },
+    {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 225167,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd"
     },
     {
       "added_at": "2025-04-03 13:00:14",
@@ -473,6 +505,38 @@
       "url": "https://open.spotify.com/track/63aIDsVrBdXBng6Rd9dLkH"
     },
     {
+      "added_at": "2025-04-17 14:00:18",
+      "album": {
+        "name": "Do What Ya Wanna",
+        "url": "https://open.spotify.com/album/0GsdPsb7m1vAC3VWx7HGFp"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "duration_ms": 134295,
+      "name": "Pocket Rocket",
+      "url": "https://open.spotify.com/track/0EmJ7H6NmylmtmXh0x9xxJ"
+    },
+    {
+      "added_at": "2025-03-06 13:00:15",
+      "album": {
+        "name": "Split Ends",
+        "url": "https://open.spotify.com/album/77CgNl8usM1tY0sRgeGbWA"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/6ez4bGJoi57CgMuCxiYFz3"
+    },
+    {
       "added_at": "2025-04-03 13:00:14",
       "album": {
         "name": "Share You",
@@ -505,6 +569,38 @@
       "url": "https://open.spotify.com/track/0s9ExzWJtcQECATiX8PeDH"
     },
     {
+      "added_at": "2025-04-17 14:00:18",
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
+    },
+    {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "Just A Dream",
+        "url": "https://open.spotify.com/album/2FH325hZipMAIBkytDLds5"
+      },
+      "artists": [
+        {
+          "name": "Cool Sounds",
+          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+        }
+      ],
+      "duration_ms": 244628,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/6XspU6BKukYQauL7z4xjhV"
+    },
+    {
       "added_at": "2025-03-27 13:00:11",
       "album": {
         "name": "Hurlstone Park",
@@ -525,20 +621,116 @@
       "url": "https://open.spotify.com/track/5chs2Pm4tOiye2143iWVFU"
     },
     {
-      "added_at": "2025-04-03 13:00:14",
+      "added_at": "2025-03-20 13:00:14",
       "album": {
-        "name": "Just A Dream",
-        "url": "https://open.spotify.com/album/2FH325hZipMAIBkytDLds5"
+        "name": "LCD",
+        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
       },
       "artists": [
         {
-          "name": "Cool Sounds",
-          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+          "name": "Ghost Care",
+          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
         }
       ],
-      "duration_ms": 244628,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/6XspU6BKukYQauL7z4xjhV"
+      "duration_ms": 211705,
+      "name": "LCD",
+      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
+    },
+    {
+      "added_at": "2025-04-03 13:00:14",
+      "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh"
+      },
+      "artists": [
+        {
+          "name": "BIG NOTER",
+          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+        }
+      ],
+      "duration_ms": 204661,
+      "name": "IDENTITY",
+      "url": "https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV"
+    },
+    {
+      "added_at": "2025-03-20 13:00:14",
+      "album": {
+        "name": "Tomorrow Again",
+        "url": "https://open.spotify.com/album/3bfWMtGBBx28ILGKcK4YF4"
+      },
+      "artists": [
+        {
+          "name": "GRMLN",
+          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
+        }
+      ],
+      "duration_ms": 190567,
+      "name": "Tomorrow Again",
+      "url": "https://open.spotify.com/track/1q95eMTkkPM5jV0AZUl4hW"
+    },
+    {
+      "added_at": "2025-02-13 13:00:28",
+      "album": {
+        "name": "Left Of The Dealer",
+        "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Left Of The Dealer",
+      "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
+    },
+    {
+      "added_at": "2025-04-24 14:00:11",
+      "album": {
+        "name": "What We're Livin' For (NRL Anthem)",
+        "url": "https://open.spotify.com/album/2TCiByJtqzVHyLQjOdwaBB"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "What We're Livin' For - NRL Anthem",
+      "url": "https://open.spotify.com/track/282EtkCLlLmxpEqSjmRga3"
+    },
+    {
+      "added_at": "2025-04-24 14:00:11",
+      "album": {
+        "name": "Moonglade",
+        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 274609,
+      "name": "Moonglade",
+      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
+    },
+    {
+      "added_at": "2025-04-24 14:00:11",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/0SbmO6kmFLsAMkt9Ija9xI"
+      },
+      "artists": [
+        {
+          "name": "Daily Toll",
+          "url": "https://open.spotify.com/artist/4KdhiN2oYGPCXhDRJizNZG"
+        }
+      ],
+      "duration_ms": 163213,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5LPsWN4Gvh6PIq4EsPZOWh"
     },
     {
       "added_at": "2025-04-10 14:00:36",
@@ -555,22 +747,6 @@
       "duration_ms": 164241,
       "name": "Sick",
       "url": "https://open.spotify.com/track/1rCVNAHnzpaBl4wK5Omxmz"
-    },
-    {
-      "added_at": "2025-03-06 13:00:15",
-      "album": {
-        "name": "Split Ends",
-        "url": "https://open.spotify.com/album/77CgNl8usM1tY0sRgeGbWA"
-      },
-      "artists": [
-        {
-          "name": "Chloe Parch\u00e9",
-          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/6ez4bGJoi57CgMuCxiYFz3"
     },
     {
       "added_at": "2025-01-30 13:00:21",
@@ -621,22 +797,6 @@
       "url": "https://open.spotify.com/track/1GhToq4YPDfh4a75LIThIY"
     },
     {
-      "added_at": "2025-03-20 13:00:14",
-      "album": {
-        "name": "Tomorrow Again",
-        "url": "https://open.spotify.com/album/3bfWMtGBBx28ILGKcK4YF4"
-      },
-      "artists": [
-        {
-          "name": "GRMLN",
-          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
-        }
-      ],
-      "duration_ms": 190567,
-      "name": "Tomorrow Again",
-      "url": "https://open.spotify.com/track/1q95eMTkkPM5jV0AZUl4hW"
-    },
-    {
       "added_at": "2025-03-27 13:00:11",
       "album": {
         "name": "Close Proximity",
@@ -653,54 +813,6 @@
       "url": "https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe"
     },
     {
-      "added_at": "2025-02-13 13:00:28",
-      "album": {
-        "name": "Left Of The Dealer",
-        "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Left Of The Dealer",
-      "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
-    },
-    {
-      "added_at": "2025-04-17 14:00:18",
-      "album": {
-        "name": "Lonely (For a While)",
-        "url": "https://open.spotify.com/album/18nXa5k8waISdDE2XwLhWb"
-      },
-      "artists": [
-        {
-          "name": "Wet Denim",
-          "url": "https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg"
-        }
-      ],
-      "duration_ms": 175149,
-      "name": "Lonely (For a While)",
-      "url": "https://open.spotify.com/track/4J35tM6465XaamKUC1G7z4"
-    },
-    {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "For Your Health",
-        "url": "https://open.spotify.com/album/52rvyNcqZvJgTGhlgHXpro"
-      },
-      "artists": [
-        {
-          "name": "Cry Club",
-          "url": "https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3"
-        }
-      ],
-      "duration_ms": 173697,
-      "name": "For Your Health",
-      "url": "https://open.spotify.com/track/6z7wAQaMhDtrLDZpOV6wyW"
-    },
-    {
       "added_at": "2025-04-03 13:00:14",
       "album": {
         "name": "Like Love",
@@ -715,22 +827,6 @@
       "duration_ms": 244000,
       "name": "Coast Is Clear",
       "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
-    },
-    {
-      "added_at": "2025-03-20 13:00:14",
-      "album": {
-        "name": "LCD",
-        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
-      },
-      "artists": [
-        {
-          "name": "Ghost Care",
-          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "LCD",
-      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
     },
     {
       "added_at": "2025-04-03 13:00:14",
@@ -829,20 +925,20 @@
       "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
+      "added_at": "2025-04-24 14:00:11",
       "album": {
-        "name": "Moving To Melbourne",
-        "url": "https://open.spotify.com/album/51ICcrXmuHuYOHO1SO0Bnf"
+        "name": "The Hogg",
+        "url": "https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA"
       },
       "artists": [
         {
-          "name": "DARTZ",
-          "url": "https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi"
+          "name": "CIVIC",
+          "url": "https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe"
         }
       ],
-      "duration_ms": 205423,
-      "name": "Moving To Melbourne",
-      "url": "https://open.spotify.com/track/283KweTFyrXthYs4V8KxEH"
+      "duration_ms": 200453,
+      "name": "The Hogg",
+      "url": "https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7"
     },
     {
       "added_at": "2025-02-20 13:00:27",
@@ -941,22 +1037,6 @@
       "url": "https://open.spotify.com/track/6dHarIpfoSBGnP6I1jFHVU"
     },
     {
-      "added_at": "2025-03-27 13:00:11",
-      "album": {
-        "name": "Bigger Than Nothing",
-        "url": "https://open.spotify.com/album/7niafffT91hPJXNg6TvS8W"
-      },
-      "artists": [
-        {
-          "name": "BIIG TIME",
-          "url": "https://open.spotify.com/artist/5HiF4BnJawxdP3cSHKWFu8"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Bigger Than Nothing",
-      "url": "https://open.spotify.com/track/6B0EJfiq9ayR8bOqNJ5pHA"
-    },
-    {
       "added_at": "2025-03-06 13:00:15",
       "album": {
         "name": "Seven Years",
@@ -1021,22 +1101,6 @@
       "url": "https://open.spotify.com/track/2aaSEkicYPxHnqNLp8Vtqs"
     },
     {
-      "added_at": "2025-02-06 13:00:11",
-      "album": {
-        "name": "Everyone Will See It",
-        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 204620,
-      "name": "Everyone Will See It",
-      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
-    },
-    {
       "added_at": "2025-04-03 13:00:14",
       "album": {
         "name": "Okay",
@@ -1083,38 +1147,6 @@
       "duration_ms": 264866,
       "name": "Shame",
       "url": "https://open.spotify.com/track/5GbSi8JDAxys7XvRyErEob"
-    },
-    {
-      "added_at": "2025-03-20 13:00:14",
-      "album": {
-        "name": "Underneath",
-        "url": "https://open.spotify.com/album/3CXpOqNf1BhauuuRL6HR49"
-      },
-      "artists": [
-        {
-          "name": "Floodlights",
-          "url": "https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI"
-        }
-      ],
-      "duration_ms": 248849,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/7gseRradPwugHQ68OKLK4t"
-    },
-    {
-      "added_at": "2025-03-27 13:00:11",
-      "album": {
-        "name": "Weird World Awoke",
-        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 200935,
-      "name": "Weird World Awoke",
-      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "added_at": "2025-03-06 13:00:15",
@@ -1165,22 +1197,6 @@
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
-      "added_at": "2025-02-13 13:00:28",
-      "album": {
-        "name": "Chasing Hearts",
-        "url": "https://open.spotify.com/album/75UrUW5BvcPAQDnpItdDuC"
-      },
-      "artists": [
-        {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Chasing Hearts",
-      "url": "https://open.spotify.com/track/1l0PzbLmNpSy6dgULjPtWp"
-    },
-    {
       "added_at": "2025-01-23 13:00:32",
       "album": {
         "name": "Mini Skirt",
@@ -1197,22 +1213,6 @@
       "url": "https://open.spotify.com/track/3GOdAa9y0tNFQZshBK9yPE"
     },
     {
-      "added_at": "2025-02-20 13:00:27",
-      "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB"
-      },
-      "artists": [
-        {
-          "name": "Polly",
-          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
-        }
-      ],
-      "duration_ms": 220712,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk"
-    },
-    {
       "added_at": "2025-02-27 13:00:13",
       "album": {
         "name": "BABYMAN",
@@ -1227,6 +1227,22 @@
       "duration_ms": 169737,
       "name": "BABYMAN",
       "url": "https://open.spotify.com/track/0ijCqg7FRUx5RPcEAESmGY"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Moving To Melbourne",
+        "url": "https://open.spotify.com/album/51ICcrXmuHuYOHO1SO0Bnf"
+      },
+      "artists": [
+        {
+          "name": "DARTZ",
+          "url": "https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Moving To Melbourne",
+      "url": "https://open.spotify.com/track/283KweTFyrXthYs4V8KxEH"
     },
     {
       "added_at": "2025-03-13 13:00:38",
@@ -1275,38 +1291,6 @@
       "duration_ms": 193600,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/6EnabkzZAFPB7kooHTvaS7"
-    },
-    {
-      "added_at": "2025-02-13 13:00:28",
-      "album": {
-        "name": "Hot Bath",
-        "url": "https://open.spotify.com/album/2Jz2yRjOFD4ytBytwkFe2l"
-      },
-      "artists": [
-        {
-          "name": "Jade Imagine",
-          "url": "https://open.spotify.com/artist/2GZIkd7QPKtg5c3alf8rYt"
-        }
-      ],
-      "duration_ms": 166199,
-      "name": "Hot Bath",
-      "url": "https://open.spotify.com/track/58llZXYXgCoZy0XjVfvSgw"
-    },
-    {
-      "added_at": "2025-01-30 13:00:21",
-      "album": {
-        "name": "One Way Ticket",
-        "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
-      },
-      "artists": [
-        {
-          "name": "Tyne-James Organ",
-          "url": "https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "One Way Ticket",
-      "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
     },
     {
       "added_at": "2025-03-06 13:00:15",
@@ -1373,20 +1357,68 @@
       "url": "https://open.spotify.com/track/6RlrQ2S0yoIRL3yJT8fqCA"
     },
     {
-      "added_at": "2025-02-27 13:00:13",
+      "added_at": "2025-01-30 13:00:21",
       "album": {
-        "name": "Pleasure Club",
-        "url": "https://open.spotify.com/album/1zJhMJkFGNPiF88WET90zF"
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
       },
       "artists": [
         {
-          "name": "The Slims",
-          "url": "https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp"
+          "name": "Tyne-James Organ",
+          "url": "https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M"
         }
       ],
-      "duration_ms": 233551,
-      "name": "Pleasure Club",
-      "url": "https://open.spotify.com/track/1YzxqHRCv4eZqxGlg70tjG"
+      "duration_ms": 207609,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
+    },
+    {
+      "added_at": "2025-03-20 13:00:14",
+      "album": {
+        "name": "Underneath",
+        "url": "https://open.spotify.com/album/3CXpOqNf1BhauuuRL6HR49"
+      },
+      "artists": [
+        {
+          "name": "Floodlights",
+          "url": "https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI"
+        }
+      ],
+      "duration_ms": 248849,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7gseRradPwugHQ68OKLK4t"
+    },
+    {
+      "added_at": "2025-02-20 13:00:27",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "duration_ms": 220712,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk"
+    },
+    {
+      "added_at": "2025-03-27 13:00:11",
+      "album": {
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -1405,22 +1437,6 @@
       "url": "https://open.spotify.com/track/6fDahIjRg7bVxkvpRauDNC"
     },
     {
-      "added_at": "2025-02-06 13:00:11",
-      "album": {
-        "name": "Flavour",
-        "url": "https://open.spotify.com/album/5WVNcSNzQx8tgKxgdwZjaP"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 181470,
-      "name": "Flavour",
-      "url": "https://open.spotify.com/track/2GQPWAPzRQjxqJTjAT2IA4"
-    },
-    {
       "added_at": "2025-02-27 13:00:13",
       "album": {
         "name": "Come Around",
@@ -1437,22 +1453,6 @@
       "url": "https://open.spotify.com/track/2AFvc1sxOJdwUJKQtAIKdp"
     },
     {
-      "added_at": "2025-02-13 13:00:28",
-      "album": {
-        "name": "Margo",
-        "url": "https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5"
-      },
-      "artists": [
-        {
-          "name": "There's A Tuesday",
-          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Margo",
-      "url": "https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo"
-    },
-    {
       "added_at": "2025-02-27 13:00:13",
       "album": {
         "name": "There's No Rush",
@@ -1467,6 +1467,22 @@
       "duration_ms": 301982,
       "name": "There's No Rush",
       "url": "https://open.spotify.com/track/6MWkEW76cWg525TFAnMJN5"
+    },
+    {
+      "added_at": "2025-02-27 13:00:13",
+      "album": {
+        "name": "Pleasure Club",
+        "url": "https://open.spotify.com/album/1zJhMJkFGNPiF88WET90zF"
+      },
+      "artists": [
+        {
+          "name": "The Slims",
+          "url": "https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp"
+        }
+      ],
+      "duration_ms": 233551,
+      "name": "Pleasure Club",
+      "url": "https://open.spotify.com/track/1YzxqHRCv4eZqxGlg70tjG"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -1501,36 +1517,20 @@
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
     },
     {
-      "added_at": "2025-03-06 13:00:15",
+      "added_at": "2025-02-06 13:00:11",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/7oNhFu7Jlvs86cuufrlfc7"
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3"
       },
       "artists": [
         {
-          "name": "The Comfort",
-          "url": "https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q"
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
         }
       ],
-      "duration_ms": 329370,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4fAZM7kq9OhGSh3KwJM5VF"
-    },
-    {
-      "added_at": "2025-03-27 13:00:11",
-      "album": {
-        "name": "B-52's Tattoo",
-        "url": "https://open.spotify.com/album/6xKuPMBN4U5tRBJqgwLd0K"
-      },
-      "artists": [
-        {
-          "name": "Bachelor Pad",
-          "url": "https://open.spotify.com/artist/2wdejaTVDz83UtnQAedfTz"
-        }
-      ],
-      "duration_ms": 224890,
-      "name": "B-52's Tattoo",
-      "url": "https://open.spotify.com/track/1G9StKCgczy7EiJNGk5bst"
+      "duration_ms": 230975,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
     },
     {
       "added_at": "2025-03-06 13:00:15",
@@ -1549,54 +1549,6 @@
       "url": "https://open.spotify.com/track/0gVGMScMHi315UUtMZBLF8"
     },
     {
-      "added_at": "2025-02-27 13:00:13",
-      "album": {
-        "name": "Into The Sun",
-        "url": "https://open.spotify.com/album/6OElbL5ap50DU21ARoo1zJ"
-      },
-      "artists": [
-        {
-          "name": "Turtle Skull",
-          "url": "https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8"
-        }
-      ],
-      "duration_ms": 370282,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/0B3HEXq3DlGp5xzlTswD5f"
-    },
-    {
-      "added_at": "2025-02-27 13:00:13",
-      "album": {
-        "name": "Still Breathing",
-        "url": "https://open.spotify.com/album/5ovpzDuX68AR4h0nBvEkKh"
-      },
-      "artists": [
-        {
-          "name": "Joan & the Giants",
-          "url": "https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4"
-        }
-      ],
-      "duration_ms": 240199,
-      "name": "Still Breathing",
-      "url": "https://open.spotify.com/track/3VxC1JwAMLkKiTKHIT9mH6"
-    },
-    {
-      "added_at": "2025-02-06 13:00:11",
-      "album": {
-        "name": "In My Heart",
-        "url": "https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 230975,
-      "name": "In My Heart",
-      "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
-    },
-    {
       "added_at": "2025-01-23 13:00:32",
       "album": {
         "name": "Ziggy's Mine",
@@ -1611,6 +1563,54 @@
       "duration_ms": 125342,
       "name": "Ziggy's Mine",
       "url": "https://open.spotify.com/track/2olzDgSTDDI7KKKTHGefMi"
+    },
+    {
+      "added_at": "2025-03-27 13:00:11",
+      "album": {
+        "name": "B-52's Tattoo",
+        "url": "https://open.spotify.com/album/6xKuPMBN4U5tRBJqgwLd0K"
+      },
+      "artists": [
+        {
+          "name": "Bachelor Pad",
+          "url": "https://open.spotify.com/artist/2wdejaTVDz83UtnQAedfTz"
+        }
+      ],
+      "duration_ms": 224890,
+      "name": "B-52's Tattoo",
+      "url": "https://open.spotify.com/track/1G9StKCgczy7EiJNGk5bst"
+    },
+    {
+      "added_at": "2025-02-06 13:00:11",
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/5WVNcSNzQx8tgKxgdwZjaP"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 181470,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/2GQPWAPzRQjxqJTjAT2IA4"
+    },
+    {
+      "added_at": "2025-03-06 13:00:15",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/7oNhFu7Jlvs86cuufrlfc7"
+      },
+      "artists": [
+        {
+          "name": "The Comfort",
+          "url": "https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q"
+        }
+      ],
+      "duration_ms": 329370,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4fAZM7kq9OhGSh3KwJM5VF"
     }
   ],
   "unique_name": "Local Noise",

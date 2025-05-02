@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-2,077 songs - 4 day 13 hr 25 min
+2,078 songs - 4 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Bullet](https://open.spotify.com/track/2Ofae28TFCKcL3DI3q6AEP) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 2:21 | 2024-05-24 | 2024-06-03 |
 | [BUSY](https://open.spotify.com/track/3j68FJWKuCIbj3K6ISuIEW) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [BUSY](https://open.spotify.com/album/4yRuE4CoGMP55QPMALlJkY) | 2:41 | 2025-04-12 | 2025-04-16 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-06 |
-| [BYE BYE](https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:39 | 2025-04-26 |  |
+| [BYE BYE](https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:39 | 2025-04-26 | 2025-05-02 |
 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 | 2021-05-16 | 2021-05-17 |
 | [C\-HR](https://open.spotify.com/track/2c1T336Kuvm1OzcNGGpxbm) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Golden Corner](https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1) | 2:21 | 2024-12-07 | 2025-02-08 |
 | [C4](https://open.spotify.com/track/6qOOizC2N3Qe2wSoVF4dFn) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [C4](https://open.spotify.com/album/1rgBlW5Gaki4SinOchfBZc) | 3:52 | 2024-05-17 | 2024-05-26 |
@@ -1724,6 +1724,7 @@
 | [Sorry](https://open.spotify.com/track/25EQ2K52izRy1WkMFbym2Z) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 3:48 | 2021-03-27\* | 2021-03-29 |
 | [SORRY GIAUTO](https://open.spotify.com/track/6YmEYabZiREAuzLqBUix4L) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [X ORFEAS](https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC) | [XRISOS \- SORRY GIAUTO](https://open.spotify.com/album/0foZqVON24z4DuAplzYG6w) | 2:18 | 2024-08-10 | 2024-08-12 |
 | [SOS](https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV) | [SOS](https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu) | 2:50 | 2023-10-20 | 2024-04-27 |
+| [SOS 2](https://open.spotify.com/track/12EQ1xDHqPMmnLtP1z6bi8) | [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [SOS 2](https://open.spotify.com/album/4RVpjTkGxzG2E2YgxxGalG) | 3:03 | 2025-05-01 |  |
 | [Spasta](https://open.spotify.com/track/6Pq8tAHFCeGZnnxKxBwpGb) | [EPITHE](https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Spasta](https://open.spotify.com/album/14NZPETHeIAUnc2EHSmdgO) | 2:18 | 2022-09-27 | 2022-09-29 |
 | [SPECIAL](https://open.spotify.com/track/3YPWOCQhrJnavJLMnPMzYr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:15 | 2024-10-05 | 2024-10-11 |
 | [Spike Lee](https://open.spotify.com/track/4hzoisriVP221xVoKj7MBy) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dennis Green](https://open.spotify.com/artist/30bQ8c641ETu2iVczEdZSk) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:18 | 2022-05-13 | 2022-07-09 |

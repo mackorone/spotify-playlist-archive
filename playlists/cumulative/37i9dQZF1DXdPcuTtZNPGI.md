@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-156 songs - 10 hr 23 min
+157 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [会いたくて](https://open.spotify.com/track/4QQ0LKm5FsoWCArRoPIflV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:55 | 2024-02-22 |  |
 | [会いたくて \- Piano & Strings Ver.](https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [会いたくて \(Piano & Strings Ver.\)](https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM) | 5:24 | 2022-10-09 |  |
 | [初夏](https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [初夏](https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F) | 3:48 | 2024-10-13 |  |
+| [十戒（1984）](https://open.spotify.com/track/5dBtTJDNBmOYRjfsJ7i2E9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [十戒（1984）](https://open.spotify.com/album/1ixOKUZP0M5CrRlb57Y2cX) | 3:34 | 2025-05-01 |  |
 | [可愛くてごめん](https://open.spotify.com/track/1HHFCfMYMnCXM8T3iofubG) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 3:39 | 2024-02-22 |  |
 | [向日葵](https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [向日葵](https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y) | 4:19 | 2024-02-22 | 2024-07-10 |
 | [向日葵](https://open.spotify.com/track/66fhCwKaIpI625T3TCpmBR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 4:19 | 2024-07-09 |  |

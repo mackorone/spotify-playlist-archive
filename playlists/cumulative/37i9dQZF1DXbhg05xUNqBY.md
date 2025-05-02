@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-249 songs - 16 hr 52 min
+250 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Be Still](https://open.spotify.com/track/1Teva30jEfi9cEfDbQ1D9A) | [Amanda Danziger](https://open.spotify.com/artist/6l3sdAWFkzODyjVA2TXp6i), [Filipe Michael](https://open.spotify.com/artist/1lj5Uym0VUFOqO5R6cE3OC) | [Seasons](https://open.spotify.com/album/3nUYvwazbTWIhGSjVHbfCu) | 3:52 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Be Still and Know](https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1) | 5:04 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Be Still and Know](https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF) | 4:43 | 2024-06-23 |  |
-| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 |  |
+| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 | 2025-05-02 |
 | [Be Still, My Soul](https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW) | [Nathan Pacheco](https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Abide with Me](https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q) | 4:20 | 2024-07-26 | 2025-04-05 |
 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 | 2021-10-31 | 2024-07-27 |
 | [Be With You](https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Like Flowers In The Sun](https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff) | 3:58 | 2025-04-05 |  |
@@ -141,6 +141,7 @@
 | [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 |  |
 | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2025-04-05 |  |
 | [My Cry](https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm) | [Auraè](https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM) | [My Cry](https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL) | 3:20 | 2025-04-05 |  |
+| [my refuge](https://open.spotify.com/track/54MQrGFEVRzKxVoxvHkQ4y) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [The Shepherd, a folk\-hop beat tape](https://open.spotify.com/album/6TFgl5OXOPWDrWAxJ63nEy) | 2:05 | 2025-04-05 |  |
 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 | 2021-10-31 | 2025-04-05 |
 | [Never Find](https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Never Find](https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK) | 4:00 | 2025-04-05 |  |
 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 | 2021-10-31 | 2024-06-23 |

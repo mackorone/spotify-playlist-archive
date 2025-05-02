@@ -1823,6 +1823,36 @@
     },
     {
       "album": {
+        "name": "Raizes",
+        "url": "https://open.spotify.com/album/7hjY2vnvQDbgepxjD4eHV5"
+      },
+      "artists": [
+        {
+          "name": "Dj G\u00e1lio",
+          "url": "https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP"
+        },
+        {
+          "name": "DJ Satelite",
+          "url": "https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk"
+        },
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        },
+        {
+          "name": "Seres Producoes",
+          "url": "https://open.spotify.com/artist/4Tc0h5NCnYlFuq8GLOXaGC"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Bolingo",
+      "url": "https://open.spotify.com/track/6TbZXuxpuchmHi5yoB49NL"
+    },
+    {
+      "album": {
         "name": "Brainscan",
         "url": "https://open.spotify.com/album/1okD2gCvgwRcMxdSDVJ2Tz"
       },
@@ -2923,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "Dedication to the DJ",
+        "url": "https://open.spotify.com/album/6fwPJrI9OR6xqWcp2pxVl0"
+      },
+      "artists": [
+        {
+          "name": "Stones & Bones",
+          "url": "https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309793,
+      "name": "Dedication to the DJ",
+      "url": "https://open.spotify.com/track/2sGXsVUxLsLwfHHWTIExoX"
+    },
+    {
+      "album": {
         "name": "Best of the Last",
         "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
       },
@@ -3188,7 +3236,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 340125,
       "name": "Does It Matter - Ajna (BE) Remix",
       "url": "https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5"
@@ -3822,7 +3870,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 170157,
       "name": "Ethnica (Pasilda)",
       "url": "https://open.spotify.com/track/0qk7o1iBuVKrS2HrUPA9SL"
@@ -7262,7 +7310,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
@@ -8078,7 +8126,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 178516,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
@@ -8158,7 +8206,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 346779,
       "name": "Lonely Jester - Atjazz Galaxy Aart Remix",
       "url": "https://open.spotify.com/track/0P0Zl6HtiVuYX4JTVB3dUv"
@@ -8549,6 +8597,32 @@
     },
     {
       "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/76rXzo8kOPMo7EI7W5bZS5"
+      },
+      "artists": [
+        {
+          "name": "Mil\u00f6 (US)",
+          "url": "https://open.spotify.com/artist/2AiiiddVDh31zi1dd0Ra8E"
+        },
+        {
+          "name": "Kahari",
+          "url": "https://open.spotify.com/artist/7ne7iDR9dCUrXPDkZSi8Vb"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382000,
+      "name": "LUME",
+      "url": "https://open.spotify.com/track/62B1L7drJHpT7A4yIr4K7Q"
+    },
+    {
+      "album": {
         "name": "Lunga (Dennis Louvra Remix)",
         "url": "https://open.spotify.com/album/0638If1eUNNHHpU7a334uZ"
       },
@@ -8564,7 +8638,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 449000,
       "name": "Lunga - Dennis Louvra Remix",
       "url": "https://open.spotify.com/track/0Gd2WKaS8ScgDk9Rrjb9Il"
@@ -8782,7 +8856,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 432000,
       "name": "Mawazo",
       "url": "https://open.spotify.com/track/5FZpGmPIJYrlehdwytQ7VY"
@@ -8826,6 +8900,24 @@
       "duration_ms": 532299,
       "name": "Mbali - Jonathan Kaspar Remix",
       "url": "https://open.spotify.com/track/4CZNzgXEoSQV0xxXfbSOfi"
+    },
+    {
+      "album": {
+        "name": "SAKATA YA MAISHA",
+        "url": "https://open.spotify.com/album/5Jj7zPTkJDS0OTsR3N9VmP"
+      },
+      "artists": [
+        {
+          "name": "Shredder SA",
+          "url": "https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455500,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4csPj1kgURGoYWrOhT8suN"
     },
     {
       "album": {
@@ -11026,7 +11118,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 188000,
       "name": "Often - Danidane Remix",
       "url": "https://open.spotify.com/track/1erPEqfKGGJBi1LyfgJmZ2"
@@ -11074,6 +11166,28 @@
       "duration_ms": 442975,
       "name": "One Man",
       "url": "https://open.spotify.com/track/6h5lnTQja76tPQOnveu6dX"
+    },
+    {
+      "album": {
+        "name": "FIVE TO BE RIGHT 13 Miami 2023",
+        "url": "https://open.spotify.com/album/1CbJYpwapThwnTxLmeSN6v"
+      },
+      "artists": [
+        {
+          "name": "AMVN",
+          "url": "https://open.spotify.com/artist/4nDJfFElE4q7W8IECKScTE"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389508,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2YlDTW1INPnF2rnu9PNZRX"
     },
     {
       "album": {
@@ -11997,6 +12111,32 @@
     },
     {
       "album": {
+        "name": "Push Me Away",
+        "url": "https://open.spotify.com/album/1sSsRs43YSerV6kCGfjkou"
+      },
+      "artists": [
+        {
+          "name": "Raul Vidal",
+          "url": "https://open.spotify.com/artist/1MFBRFYyixy1oM4MK5iTC0"
+        },
+        {
+          "name": "Bassfinder",
+          "url": "https://open.spotify.com/artist/2a55oNgSyjQpoB2tkskFCX"
+        },
+        {
+          "name": "Lilyass",
+          "url": "https://open.spotify.com/artist/4mrAahmswpuDE1CxafslG3"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418517,
+      "name": "Push Me Away - Bassfinder & Lilyass Remix",
+      "url": "https://open.spotify.com/track/3BFNmJT7bHqgKVSamr97sx"
+    },
+    {
+      "album": {
         "name": "Pushing Hard",
         "url": "https://open.spotify.com/album/0nLIZbberkwTHEWCeRgI1H"
       },
@@ -12824,7 +12964,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
@@ -14283,6 +14423,24 @@
     },
     {
       "album": {
+        "name": "Cloak",
+        "url": "https://open.spotify.com/album/6iuOPJ2AAEdG71e5Y1mDMy"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/4HhJNe4ufH3H03DjFN0avY"
+    },
+    {
+      "album": {
         "name": "Tanzania (Rampa Remix)",
         "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
       },
@@ -14376,7 +14534,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 392632,
       "name": "Teka",
       "url": "https://open.spotify.com/track/0LWuf8FourkvpHgdlEv3fy"
@@ -15535,6 +15693,24 @@
     },
     {
       "album": {
+        "name": "U La La La (By Yoyce Sanchez)",
+        "url": "https://open.spotify.com/album/23vx62iCowejz2sSZsH8wV"
+      },
+      "artists": [
+        {
+          "name": "Yoyce Sanchez -The Cuban Guy",
+          "url": "https://open.spotify.com/artist/3DImxtYm3tRbtVquJNZy4A"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "U La La La (By Yoyce Sanchez)",
+      "url": "https://open.spotify.com/track/65vVYBH2QH0ThIzt8JWpm0"
+    },
+    {
+      "album": {
         "name": "Ubomi",
         "url": "https://open.spotify.com/album/41eQeVOsXmM5r8Dk8KnOZL"
       },
@@ -15912,7 +16088,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 450271,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/5morf4sCvVuXasyLH97PuR"
@@ -16332,6 +16508,24 @@
       "duration_ms": 449508,
       "name": "We Are African",
       "url": "https://open.spotify.com/track/1i6D4eYlOpLpeHGLW0R5bN"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/6r2eg8CThmyQE2ChozOgxM"
+      },
+      "artists": [
+        {
+          "name": "Bassfinder",
+          "url": "https://open.spotify.com/artist/2a55oNgSyjQpoB2tkskFCX"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402375,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/6C7WfC9lHg0Lipz8WH7fML"
     },
     {
       "album": {

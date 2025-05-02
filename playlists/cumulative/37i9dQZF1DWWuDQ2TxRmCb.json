@@ -207,6 +207,32 @@
     },
     {
       "album": {
+        "name": "Bhagirathi (From \"Songs Of The River - Ganga\")",
+        "url": "https://open.spotify.com/album/25LxK9Lu65mh4QADq8EixA"
+      },
+      "artists": [
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253636,
+      "name": "Bhagirathi - From \"Songs Of The River - Ganga\"",
+      "url": "https://open.spotify.com/track/7ePm436PYjiAw3DjHQBE4J"
+    },
+    {
+      "album": {
         "name": "Bhammariyo",
         "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
       },
@@ -810,7 +836,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 309250,
       "name": "Holi Hues (Hori Re Rasiya)",
       "url": "https://open.spotify.com/track/1UCSammOfFekkAxDPIe88p"
@@ -1474,7 +1500,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 289707,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/6O43xZgX8jkN4nek5XyP33"
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 265728,
       "name": "Maye Ni Meriye",
       "url": "https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD"
@@ -1738,7 +1764,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
@@ -2182,7 +2208,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 216000,
       "name": "Saacha Sahib",
       "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"

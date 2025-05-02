@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=CH3UNWvPRCGeIi\_BPbNN3A">Mmuso Worship</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=3c0OFN54STCLGyLFtRdkgg">Lebo Sekgobela</a>
 
-134 songs - 14 hr 17 min
+135 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,13 +32,14 @@
 | [Ewe Getsemane \- Live](https://open.spotify.com/track/6h2aZSTOUOMtFWN9N8ynXX) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 8:27 | 2024-10-04 |  |
 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 | 2024-10-04 |  |
 | [Fill Us Again](https://open.spotify.com/track/1l68T5hrjjQYGH0DlawKEa) | [Bongiwe Madela](https://open.spotify.com/artist/3MKHvYA3XAr0JWINuYMHYU), [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Fill Us Again](https://open.spotify.com/album/1RVUNUGqBuD6qk3VvmjPGm) | 9:39 | 2025-02-28 | 2025-04-11 |
-| [Forgiven](https://open.spotify.com/track/0Q7oMoYZCQuVKmcFKRiLPx) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Mmangaliso](https://open.spotify.com/artist/056k4iD4FCiU7UKHkrGaTc), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Passover](https://open.spotify.com/album/2rnvnikQHbCmK5dWNc3sOJ) | 4:24 | 2025-04-11 |  |
+| [Forgiven](https://open.spotify.com/track/0Q7oMoYZCQuVKmcFKRiLPx) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Mmangaliso](https://open.spotify.com/artist/056k4iD4FCiU7UKHkrGaTc), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Passover](https://open.spotify.com/album/2rnvnikQHbCmK5dWNc3sOJ) | 4:24 | 2025-04-11 | 2025-05-02 |
 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-10-04 |  |
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2024-10-04 |  |
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 |  |
 | [HOLD ON](https://open.spotify.com/track/1THM0TKba1CraCZVHCvpvF) | [DENGA.](https://open.spotify.com/artist/4u0pYkWzdp9ez45JF51x00), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [HOLD ON](https://open.spotify.com/album/4ea005A4r8WqKflyDr5liE) | 4:30 | 2024-10-25 | 2024-11-15 |
 | [I Beat \- Live](https://open.spotify.com/track/4clVVI4aSX59wlc3JfRTkh) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:10 | 2024-10-11 |  |
 | [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 | 2025-04-11 |  |
+| [Igama Lakho \- Live](https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [HEART OF WORSHIP VOL 1](https://open.spotify.com/album/0hSYjCkIgebDmVuuTKzoDg) | 5:55 | 2025-05-02 |  |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 |  |
 | [Inceba \- Live](https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Live\)](https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX) | 8:21 | 2024-11-16 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2024-10-11 |  |

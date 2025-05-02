@@ -6455,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287617,
+      "name": "Mystic Love",
+      "url": "https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ"
+    },
+    {
+      "album": {
         "name": "Kasiope Pt. 2",
         "url": "https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87"
       },
@@ -8244,7 +8262,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 459592,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste"

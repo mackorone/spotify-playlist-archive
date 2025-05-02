@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>\"",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe?si=PhLf_iydTjSwDwRSrVE2dg>Busi Sibiya</a>\"",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 295006,
       "name": "Angesabi Lutho - Live At The Octagon / 2024",
       "url": "https://open.spotify.com/track/7gFKwcRcvDAnE8CP1VtwGJ"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 264000,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/0Q7oMoYZCQuVKmcFKRiLPx"
@@ -1872,6 +1872,24 @@
       "duration_ms": 298192,
       "name": "If I Be Lifted",
       "url": "https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe"
+    },
+    {
+      "album": {
+        "name": "HEART OF WORSHIP VOL 1",
+        "url": "https://open.spotify.com/album/0hSYjCkIgebDmVuuTKzoDg"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355500,
+      "name": "Igama Lakho - Live",
+      "url": "https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4"
     },
     {
       "album": {
@@ -3162,6 +3180,24 @@
       "duration_ms": 404875,
       "name": "Kuzohlatshelelwa",
       "url": "https://open.spotify.com/track/6ZNIVO8AGu1Pyhemi5LI1Y"
+    },
+    {
+      "album": {
+        "name": "Lalel'Indaba",
+        "url": "https://open.spotify.com/album/5T6pTI7hGR9iA0bbW4C8LD"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir",
+          "url": "https://open.spotify.com/artist/2ZMR6Ck9Z8CbHb64yuJXbi"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274701,
+      "name": "Lalela i'ndaba (Bafungile)",
+      "url": "https://open.spotify.com/track/3nKOfpAL7uEq3yHrpt6HoX"
     },
     {
       "album": {

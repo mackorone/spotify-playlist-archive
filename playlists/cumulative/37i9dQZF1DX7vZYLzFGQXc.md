@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-1,535 songs - 3 day 14 hr 22 min
+1,536 songs - 3 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [More](https://open.spotify.com/track/0URs0ivr9IZ3cl75OukHEJ) | [BAMSEM](https://open.spotify.com/artist/4DbMJOPKyI9wHlnBO6L492) | [White Carnival : 21](https://open.spotify.com/album/54k7UALVtpbb1uzPM41nzT) | 3:51 | 2021-12-02 | 2022-01-11 |
 | [More \(Feat\. woOnim\)](https://open.spotify.com/track/4PNIDvCgc40KlVWVkNdUwF) | [Daehan](https://open.spotify.com/artist/1OfRPrepoCciCk7oDpIbAO), [WoOnim](https://open.spotify.com/artist/7CGyRLtNG8TvIT8rNmQAL1) | [More](https://open.spotify.com/album/3Px4xcVNPjJtDz4FU2qHm6) | 3:22 | 2024-04-03 | 2024-08-02 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-10-15 |
+| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 |  |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-05-01 | 2023-07-27 |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/4ptwR85sZUJghuTezDReht) | [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3) | [MOTEL CALIFORNIA](https://open.spotify.com/album/5R7HKqj5L8c7Ot7BlGA4GU) | 3:38 | 2022-07-04 | 2022-09-06 |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-03-08 | 2024-07-04 |
@@ -1039,7 +1040,7 @@
 | [Really Like You \- Spring Version](https://open.spotify.com/track/2DFudW1pZSLY739UrsPDTV) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You \(Spring Version\)](https://open.spotify.com/album/6FY4ksL8ycUIQYeaGO0HHM) | 3:13 | 2024-04-03 | 2025-01-21 |
 | [Reason](https://open.spotify.com/track/4GYswBMfIu57HhxVUj0Oyv) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD) | [Reason](https://open.spotify.com/album/6jqqMFl24oWEBqme7xtjuV) | 3:50 | 2022-02-23 | 2022-03-18 |
 | [REC](https://open.spotify.com/track/2nqxfHNft9Ao486c5EhvaJ) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [REC](https://open.spotify.com/album/5XL500LvzJvJEDOeFm2CLg) | 3:29 | 2024-04-03 | 2024-08-02 |
-| [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 | 2024-11-11 |  |
+| [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 | 2024-11-11 | 2025-05-02 |
 | [Red Light](https://open.spotify.com/track/57vs26uQjjk7AggJjXAOge) | [XXNANA](https://open.spotify.com/artist/0kYmbeGiFnNeOdRv5eYmY0) | [Red Light](https://open.spotify.com/album/5KbKo9LYkBCi8Auxuh0SQe) | 2:36 | 2022-11-07 | 2023-02-01 |
 | [RED ROCKET \(Feat\. MINTAKHA\)](https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo) | [BLUEICE Key](https://open.spotify.com/artist/6BUjgJA1JpnBk6dmFwmevx), [MINTAKHA](https://open.spotify.com/artist/3WnsvvrzM3jWOgZoZ1YhaU) | [IMAGINATION : unusual](https://open.spotify.com/album/1zt31eNpxHErC5taDZtwaX) | 3:45 | 2023-01-30 | 2023-02-09 |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-18 | 2022-07-15 |

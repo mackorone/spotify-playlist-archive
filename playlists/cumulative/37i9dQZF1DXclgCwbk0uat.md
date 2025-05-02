@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: W Sound, Beéle & Ovy On the Drums.
 
-485 songs - 1 day 2 hr 56 min
+486 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Con Puras de 25](https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Con Puras de 25](https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5) | 2:18 | 2023-02-02 | 2023-06-09 |
 | [Confortas Pero Dañas](https://open.spotify.com/track/72PMAMYZYL060JML0S3khc) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Confortas Pero Dañas](https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X) | 4:09 | 2025-03-07 |  |
 | [Confundido](https://open.spotify.com/track/2NChmxbTUH01QhspbVOAnu) | [Baby J & Young Weapon](https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx) | [Deleted Tape](https://open.spotify.com/album/2oGL0Z7FADEltW3g2V8q0m) | 2:47 | 2024-03-21 | 2024-04-19 |
+| [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 | 2025-05-02 |  |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-22 | 2024-04-05 |
 | [Cora Roto](https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Cora Roto](https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl) | 3:37 | 2023-08-10 | 2024-07-05 |
 | [Corazones <3](https://open.spotify.com/track/7uQEpPm1Om86oqGo4PGR5d) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 2:41 | 2025-03-13 |  |
@@ -395,7 +396,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-03-23 | 2023-05-27 |
 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 | 2024-05-30 | 2024-10-18 |
-| [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 | 2024-10-18 |  |
+| [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 | 2024-10-18 | 2025-05-02 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-05 | 2023-12-09 |
 | [Si Sako La 40](https://open.spotify.com/track/5lRF8YZjaXMjy6R5fDSDZN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Si Sako La 40](https://open.spotify.com/album/6sH2qyW1587fZr8yPQ5uZa) | 4:02 | 2022-06-02 | 2022-11-11 |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-11 | 2023-01-27 |

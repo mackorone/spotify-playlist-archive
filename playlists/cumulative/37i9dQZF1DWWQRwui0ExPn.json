@@ -74440,7 +74440,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 174239,
       "name": "made sense",
       "url": "https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy"
@@ -113684,7 +113684,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 158597,
       "name": "Soothing Raindrops",
       "url": "https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu"
@@ -126611,6 +126611,24 @@
     },
     {
       "album": {
+        "name": "through the forest",
+        "url": "https://open.spotify.com/album/35QZyYsNBG72OHy6bt88Y6"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106300,
+      "name": "through the forest",
+      "url": "https://open.spotify.com/track/2e5CpiEoX9qgr79aaUWfi2"
+    },
+    {
+      "album": {
         "name": "Through The Garden",
         "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
       },
@@ -134436,7 +134454,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 151216,
       "name": "Waffle Date",
       "url": "https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE"

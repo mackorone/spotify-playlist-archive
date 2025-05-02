@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-607 songs - 1 day 5 hr 2 min
+608 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 | 2024-02-20 | 2024-05-29 |
 | [Glock \- From Tufang](https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Glock \(From Tufang\)](https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I) | 2:26 | 2023-06-13 | 2024-04-20 |
 | [Goddamn](https://open.spotify.com/track/1fRoeq8MpXigvxHj1QJiHO) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:00 | 2023-04-01 | 2023-04-15 |
+| [Going High](https://open.spotify.com/track/2pdvCFecZszYQbaoOnrKPp) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Going High](https://open.spotify.com/album/2BDj1FY6UOm0Mu6zSmrHMZ) | 1:55 | 2025-05-01 |  |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-03-29 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-04-19 | 2024-08-23 |
 | [Goodfellas](https://open.spotify.com/track/0Pygl14hAJzebqoq91lCt0) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [Rxmbo](https://open.spotify.com/artist/6VwPTd4ychTXAvO1bDJyuz), [Shikaari](https://open.spotify.com/artist/5DGaWIko5aIbDdAPGJjEoz) | [Goodfellas](https://open.spotify.com/album/1nin31tLtK8RYXXrdMmzW9) | 3:05 | 2025-04-17 |  |
@@ -608,7 +609,7 @@
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 |  |
 | [Winnipeg](https://open.spotify.com/track/0bErpkWdMqlXPJZfTEdbE9) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Winnipeg](https://open.spotify.com/album/3M42ugNB65SAMYKZRJ0F2F) | 3:23 | 2023-04-26 | 2023-05-06 |
 | [Yaar Mere](https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 3:54 | 2024-02-15 | 2024-04-20 |
-| [Ye Yo](https://open.spotify.com/track/0ZkVhsJhKxzPcG5joTrvWn) | [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR) | [Ye Yo](https://open.spotify.com/album/659BhZezgyVIZWxW7tFVYR) | 2:54 | 2025-04-17 |  |
+| [Ye Yo](https://open.spotify.com/track/0ZkVhsJhKxzPcG5joTrvWn) | [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR) | [Ye Yo](https://open.spotify.com/album/659BhZezgyVIZWxW7tFVYR) | 2:54 | 2025-04-17 | 2025-05-02 |
 | [Yeah Baby Go](https://open.spotify.com/track/5uPlpPfG19ZBgE28M7aSh6) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Yeah Baby Go](https://open.spotify.com/album/5p1ysTZWPwuuE2QbYCdszg) | 2:19 | 2024-04-19 | 2024-05-10 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-03-29 | 2023-07-15 |
 | [You Talking To Me?](https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [You Talking To Me?](https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58) | 2:20 | 2023-07-28 | 2023-10-07 |

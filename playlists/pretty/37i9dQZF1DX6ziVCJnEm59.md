@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,118,088 likes - 141 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,117,995 likes - 140 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,6 +148,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 138 | [Bluebird](https://open.spotify.com/track/1dQP1xt8HIAUnrawUfJqKB) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [A Field Guide to Loneliness](https://open.spotify.com/album/3tYVipKiW1SAN6Kokx8Cdd) | 3:05 |
 | 139 | [Fly \- Acoustic](https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Dual](https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4) | 3:31 |
 | 140 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
-| 141 | [Going In](https://open.spotify.com/track/2ZJ1cbWdNlBjMlWPnpSvYT) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/4g7qJhcnulLDRNqhtolo6X) | 2:41 |
 
-Snapshot ID: `Z5EcxAAAAABFQE+4M1VY2nw/gC/0JJui`
+Snapshot ID: `aBPTTAAAAAA2JJryK8hv+eX2CXPEoEXi`

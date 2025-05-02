@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment au Maroc\. Cover: Baby Gang, ElGrandeToto
+> Les hits du moment au Maroc\. Cover: DYSTINCT, French Montana
 
 397 songs - 21 hr 21 min
 

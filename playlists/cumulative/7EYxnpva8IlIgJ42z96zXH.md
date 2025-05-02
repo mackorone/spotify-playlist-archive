@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-987 songs - 2 day 3 hr 55 min
+988 songs - 2 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 | 2020-11-03\* | 2022-05-14 |
 | [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-13 |  |
 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 | 2023-07-03 | 2023-12-15 |
+| [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-01 |  |
 | [Losing My Mind](https://open.spotify.com/track/0WNjZebEUjiPEdVqfYjlcZ) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A) | [Losing My Mind](https://open.spotify.com/album/5jCXJQBJ5mZyS2pSAEqDtP) | 3:24 | 2021-08-06 | 2022-05-14 |
 | [Losing My Religion](https://open.spotify.com/track/7ohTAHS8F4i7k1bru6rRUy) | [DUBOSS](https://open.spotify.com/artist/4EEHl1uaKjKWPFIkhE1fRY) | [Losing My Religion](https://open.spotify.com/album/2gmyHndjgJ35i1rANDRrZO) | 3:13 | 2020-11-06 | 2020-11-13 |
 | [Lost](https://open.spotify.com/track/6gSvAFoorFFAaRqPvDXC7R) | [DUNDER](https://open.spotify.com/artist/7bwpjvR1V3vSE26iQvcMkV) | [Lost](https://open.spotify.com/album/5CQzjmivzy2DtijX5f9ACP) | 3:09 | 2021-12-04 | 2021-12-10 |

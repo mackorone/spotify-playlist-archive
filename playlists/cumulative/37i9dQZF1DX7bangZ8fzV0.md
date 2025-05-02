@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=5E7M0TMXRR2r60CuEAlLEQ">Riaan Benadé</a> en <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=XXAWBmfvTKOXvYpAdhh9zA">Ricus Nel</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=9iNevV4ARmypHnmJy8YQhw">Brendan Peyper</a>
 
-279 songs - 15 hr 24 min
+284 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 | 2024-08-01 |  |
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 | 2024-03-08 |
 | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/album/4TuvZhVtwiIyueQqRqpYLy) | 3:46 | 2024-12-05 | 2025-04-18 |
+| [Bitterblou](https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Bitterblou](https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC) | 3:32 | 2025-05-01 |  |
 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-10 | 2024-10-04 |
 | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/album/2Cu7dy6YFbDGrDzJuPzgLN) | 3:42 | 2023-03-09 | 2023-03-18 |
 | [Boereworsgordyn](https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Boereworsgordyn](https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV) | 3:16 | 2025-02-27 |  |
@@ -40,6 +41,7 @@
 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 | 2023-01-26 | 2023-06-04 |
 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-22 | 2022-11-26 |
 | [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 | 2022-09-22 | 2023-06-23 |
+| [Brand](https://open.spotify.com/track/0n8AJV8zUCY9NX4z2DMq9z) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Brand](https://open.spotify.com/album/31NYcCU26A7NutXOIsfM2q) | 3:00 | 2025-05-01 |  |
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 | 2024-02-02 |
@@ -91,6 +93,7 @@
 | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/track/2G6OnOnHviWZy9LPl38wyw) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/album/2twBO549njTa165ndnDqIK) | 2:42 | 2024-10-10 |  |
 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 | 2022-08-25 |  |
 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 | 2022-06-30 | 2024-11-15 |
+| [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 | 2025-05-01 |  |
 | [Haar Naam Was Somer](https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Haar Naam Was Somer](https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE) | 3:14 | 2023-11-23 | 2024-09-28 |
 | [Hakahana](https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Hakahana](https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS) | 3:05 | 2023-07-20 | 2023-12-01 |
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 | 2024-07-27 |
@@ -227,6 +230,7 @@
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 | 2022-10-14 |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-25 |  |
 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 | 2022-12-01 | 2023-06-30 |
+| [Skud](https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Skud](https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6) | 2:59 | 2025-05-01 |  |
 | [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 | 2023-11-09 | 2024-05-24 |
 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 | 2022-05-05 | 2023-01-27 |
 | [Soen Soos Wat Jy Dans](https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Soen Soos Wat Jy Dans](https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB) | 3:35 | 2024-02-01 |  |
@@ -275,6 +279,7 @@
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 | 2024-12-23 |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
+| [Wat Ek Wil Hoor](https://open.spotify.com/track/4Ru287GBQTvVF7PJ9ydWQO) | [Ryk Kleinhans](https://open.spotify.com/artist/7Mqa0OsJfdlr4CrKGah5NV) | [Wat Ek Wil Hoor](https://open.spotify.com/album/5CAqw8LhiLMVgldhcGUU04) | 3:28 | 2025-05-01 |  |
 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 | 2023-07-13 | 2023-12-15 |

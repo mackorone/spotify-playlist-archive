@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: SENNA",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: New Found Glory",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
+    },
+    {
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
     },
     {
       "album": {
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 212733,
       "name": "A Brand New God",
       "url": "https://open.spotify.com/track/1tMJAI8SdpPee1dG1eFUVb"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 208938,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
@@ -988,6 +1006,24 @@
       "duration_ms": 215000,
       "name": "Ballerina (with The Word Alive)",
       "url": "https://open.spotify.com/track/6I3bYyPJGUxqiKp4pIv4SC"
+    },
+    {
+      "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "album": {
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 297546,
       "name": "Black Mamba",
       "url": "https://open.spotify.com/track/31INWASDAVj7l1smhUNunx"
@@ -2088,6 +2124,24 @@
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
+        "name": "Dead 2 Me",
+        "url": "https://open.spotify.com/album/4V8ewAfgsEia1pJPtrKF6Q"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Dead 2 Me",
+      "url": "https://open.spotify.com/track/2RsCzdo9CZeSFfy3SOJJtw"
     },
     {
       "album": {
@@ -4775,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Made Of Glass",
+        "url": "https://open.spotify.com/album/4Q6coU9foUcHhXg8XUOCNw"
+      },
+      "artists": [
+        {
+          "name": "The Red Flags",
+          "url": "https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189928,
+      "name": "Made Of Glass",
+      "url": "https://open.spotify.com/track/36uDT3pcSYyVukTXGrHg9q"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv"
       },
@@ -5260,6 +5332,24 @@
       "duration_ms": 176040,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "album": {
+        "name": "Negative Space",
+        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Negative Space",
+      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
     },
     {
       "album": {
@@ -5937,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Pine Barrens",
+        "url": "https://open.spotify.com/album/4hvKCfvGrWQfcsg6nXXsGr"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Pine Barrens",
+      "url": "https://open.spotify.com/track/7IhRLjH1TRUmEAhDElKSaV"
+    },
+    {
+      "album": {
         "name": "Pitch Black",
         "url": "https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS"
       },
@@ -6254,7 +6362,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 170721,
       "name": "Resist",
       "url": "https://open.spotify.com/track/0qtPIQC71X8bPrFKtrh1KE"
@@ -6680,7 +6788,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 201594,
       "name": "Skinny Lies",
       "url": "https://open.spotify.com/track/6JYIXOpnLZDgCH60SgAZC4"
@@ -6962,7 +7070,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 198666,
       "name": "Sports Bar",
       "url": "https://open.spotify.com/track/0wYK8HyYTKsjrQb9brdGvt"

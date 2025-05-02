@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Georgia C\u00e9cile",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1802,6 +1802,28 @@
       "duration_ms": 272323,
       "name": "Brand New Life (feat. Mumu Fresh)",
       "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+    },
+    {
+      "album": {
+        "name": "Bread (butter version)",
+        "url": "https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158231,
+      "name": "Bread (butter version)",
+      "url": "https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3"
     },
     {
       "album": {
@@ -4144,7 +4166,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
@@ -4664,6 +4686,28 @@
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "album": {
+        "name": "Found A Light (Beale Street)",
+        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436130,
+      "name": "Found A Light (Beale Street)",
+      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
     },
     {
       "album": {
@@ -5976,7 +6020,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 196200,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
@@ -6445,6 +6489,28 @@
     },
     {
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/1M1bKed4pggAuwqZxf8Oh7"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        },
+        {
+          "name": "Cynthia Abraham",
+          "url": "https://open.spotify.com/artist/0t2bkQctGNc4uafhIWypxu"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/1d9pydw2dYVAWb0oBMGCGD"
+    },
+    {
+      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -6500,7 +6566,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 172706,
       "name": "Into My World",
       "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
@@ -11099,6 +11165,28 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/035yepiN7B62MlmvsCOcwO"
+      },
+      "artists": [
+        {
+          "name": "Jacques Schwarz-Bart",
+          "url": "https://open.spotify.com/artist/0SFc0sxtPCNbGFIsUtXRcG"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198971,
+      "name": "Sa K\u00e9 Al\u00e9",
+      "url": "https://open.spotify.com/track/2hSQo1X4jYhvjM7DLBOVDc"
+    },
+    {
+      "album": {
         "name": "Sacred Conversations",
         "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
       },
@@ -12060,7 +12148,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 233293,
       "name": "Stories #2",
       "url": "https://open.spotify.com/track/6fZr24BqGaDmu6zexgE6N4"

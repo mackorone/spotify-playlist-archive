@@ -4251,6 +4251,28 @@
     },
     {
       "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/12mgeUhTHMNaWcMxNG5xnP"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        },
+        {
+          "name": "Oh My Pop!",
+          "url": "https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194876,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/0VPJnjF2TEshtyEwNxBcAA"
+    },
+    {
+      "album": {
         "name": "The Illusion",
         "url": "https://open.spotify.com/album/4u8kiomTCLb4WXrQQi4q5H"
       },

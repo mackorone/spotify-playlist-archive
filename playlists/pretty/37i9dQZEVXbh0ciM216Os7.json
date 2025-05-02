@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAFPrc0l8jJm81ogrZQI3wT",
+  "snapshot_id": "AAAAAAAAAABUxOyNMWT/H0vMGmiW/Vv1",
   "tracks": [
     {
       "added_at": "2025-04-25 04:00:00",
@@ -27,26 +27,6 @@
     {
       "added_at": "2025-04-25 04:00:00",
       "album": {
-        "name": "Still Blooming",
-        "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "I Don't Know Why (I Just Do)",
-      "url": "https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
         "name": "Peacefield",
         "url": "https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB"
       },
@@ -63,22 +43,6 @@
     {
       "added_at": "2025-04-25 04:00:00",
       "album": {
-        "name": "A Rare Thing",
-        "url": "https://open.spotify.com/album/65GGCIEnmHYpnODLkrN5Dr"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "A Rare Thing",
-      "url": "https://open.spotify.com/track/1aWQQRIUAyGO7cAQuY6pPJ"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
         "name": "Black Samson, the Bastard Swordsman",
         "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
       },
@@ -86,6 +50,10 @@
         {
           "name": "Wu-Tang Clan",
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
         },
         {
           "name": "U-God",
@@ -103,6 +71,54 @@
       "duration_ms": 249092,
       "name": "Roar of the Lion (The Lion's Pit)",
       "url": "https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
+        "name": "Black Samson, the Bastard Swordsman",
+        "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "duration_ms": 155109,
+      "name": "Executioners from Shaolin",
+      "url": "https://open.spotify.com/track/67pv7MwpkrBujzaJkJpomE"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
+        "name": "A Rare Thing",
+        "url": "https://open.spotify.com/album/65GGCIEnmHYpnODLkrN5Dr"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "A Rare Thing",
+      "url": "https://open.spotify.com/track/1aWQQRIUAyGO7cAQuY6pPJ"
     },
     {
       "added_at": "2025-04-25 04:00:00",
@@ -127,50 +143,6 @@
       "duration_ms": 157320,
       "name": "The Closer",
       "url": "https://open.spotify.com/track/1EP6P2kPTW76Rj85Q3WzsI"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
-        "name": "Black Samson, the Bastard Swordsman",
-        "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Cappadonna",
-          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
-        }
-      ],
-      "duration_ms": 155109,
-      "name": "Executioners from Shaolin",
-      "url": "https://open.spotify.com/track/67pv7MwpkrBujzaJkJpomE"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
-        "name": "Sneaks (Original Score Soundtrack)",
-        "url": "https://open.spotify.com/album/1nd8tSWKYXiMxZJDK1L5Em"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 59250,
-      "name": "Maxine's Motivation",
-      "url": "https://open.spotify.com/track/4wRkTJJm155nuK1si6nTJB"
     },
     {
       "added_at": "2025-04-25 04:00:00",
@@ -228,17 +200,21 @@
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         },
         {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
           "name": "Raekwon",
           "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
         },
         {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 214300,
-      "name": "Cleopatra Jones",
-      "url": "https://open.spotify.com/track/00Ya300TpDapgZrXWprpFI"
+      "duration_ms": 231572,
+      "name": "Shaolin Vs Lama",
+      "url": "https://open.spotify.com/track/0QyEUmJRpQk93rOCWgaztl"
     },
     {
       "added_at": "2025-04-25 04:00:00",
@@ -307,6 +283,22 @@
     {
       "added_at": "2025-04-25 04:00:00",
       "album": {
+        "name": "Sneaks (Original Score Soundtrack)",
+        "url": "https://open.spotify.com/album/1nd8tSWKYXiMxZJDK1L5Em"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "JB's Hustle",
+      "url": "https://open.spotify.com/track/6lQEwPKKVtTAexPCl5yg64"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
       },
@@ -323,6 +315,22 @@
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 176897,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },
     {
       "added_at": "2025-04-25 04:00:00",
@@ -347,18 +355,22 @@
     {
       "added_at": "2025-04-25 04:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 176897,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2025-04-25 04:00:00",
@@ -370,6 +382,10 @@
         {
           "name": "Wu-Tang Clan",
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
         },
         {
           "name": "Benny The Butcher",
@@ -459,42 +475,6 @@
     {
       "added_at": "2025-04-25 04:00:00",
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
-        "name": "Top Shelf Funk",
-        "url": "https://open.spotify.com/album/7qfcdy93D8fjrokfl4YPPm"
-      },
-      "artists": [
-        {
-          "name": "Medusa the Gangsta Goddess",
-          "url": "https://open.spotify.com/artist/0gqawOzP0JjGHX3ixWuOcV"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 200687,
-      "name": "Where You Wanna Be",
-      "url": "https://open.spotify.com/track/0eLPzXcRd1cdCeSuWxjybk"
-    },
-    {
-      "added_at": "2025-04-25 04:00:00",
-      "album": {
         "name": "Say Yes",
         "url": "https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag"
       },
@@ -523,6 +503,42 @@
       "duration_ms": 414306,
       "name": "Say Yes (extended jam) (Feat. SiR, Andre Dre Harris, Thundercat, Charlie Bereal, Chris Dave)",
       "url": "https://open.spotify.com/track/0TcjXS0oZsDbu7AVX1jYAT"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
+        "name": "Top Shelf Funk",
+        "url": "https://open.spotify.com/album/7qfcdy93D8fjrokfl4YPPm"
+      },
+      "artists": [
+        {
+          "name": "Medusa the Gangsta Goddess",
+          "url": "https://open.spotify.com/artist/0gqawOzP0JjGHX3ixWuOcV"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 200687,
+      "name": "Where You Wanna Be",
+      "url": "https://open.spotify.com/track/0eLPzXcRd1cdCeSuWxjybk"
+    },
+    {
+      "added_at": "2025-04-25 04:00:00",
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 317789,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
     },
     {
       "added_at": "2025-04-25 04:00:00",

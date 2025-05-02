@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "1000 SCHRITTE",
+        "url": "https://open.spotify.com/album/0m2wq3xDZTi1B2JwzMZmei"
+      },
+      "artists": [
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117830,
+      "name": "1000 SCHRITTE - Slowed",
+      "url": "https://open.spotify.com/track/1oflsLRC2ABnEreNYtXL2C"
+    },
+    {
+      "album": {
         "name": "The World Of CH!PZ (Deluxe version)",
         "url": "https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83"
       },
@@ -396,7 +414,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 153417,
       "name": "100K",
       "url": "https://open.spotify.com/track/7eG0GWinCxj5w1SA7MRXxQ"
@@ -8340,7 +8358,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 580292,
       "name": "Bury the Light",
       "url": "https://open.spotify.com/track/0FcS0Cpz3tK1DLXIzr6iL2"
@@ -27034,7 +27052,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 137599,
       "name": "KAD JA UMREM DRAGA",
       "url": "https://open.spotify.com/track/432d9CK8yaTlqFkKeQb4pP"
@@ -44326,7 +44344,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 189176,
       "name": "Propanbutan",
       "url": "https://open.spotify.com/track/4JcyWgqQUVwHhjUHMgUSYY"
@@ -45450,7 +45468,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 195562,
       "name": "Rebelles",
       "url": "https://open.spotify.com/track/2GtNJOuo4XaO3peaDs5Q68"
@@ -50010,7 +50028,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 143092,
       "name": "Smart fella",
       "url": "https://open.spotify.com/track/1uTTKibj73BPHey5l5ylga"
@@ -53346,7 +53364,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
@@ -56044,7 +56062,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 117901,
       "name": "TRALALERO TRALALA FUNK",
       "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
@@ -58502,7 +58520,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 108923,
       "name": "VOLKSWAGEN FUNK - super slowed",
       "url": "https://open.spotify.com/track/4WFgUkgd1gCHBFwgZ1Dj8K"

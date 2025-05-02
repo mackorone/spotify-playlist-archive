@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Midnight Special",
+      "url": "https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If"
+    },
+    {
+      "album": {
         "name": "Miss You Everyday",
         "url": "https://open.spotify.com/album/6A2G528TCQNZMH2VaY0RUS"
       },

@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Jirani",
+        "url": "https://open.spotify.com/album/0vhSd0LwSYdq8FssIsGq8Q"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182957,
+      "name": "Jirani",
+      "url": "https://open.spotify.com/track/0U6Fg4SXr3bl5nLwaQz5Hd"
+    },
+    {
+      "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
       },
@@ -9772,7 +9790,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 173196,
       "name": "UNANCHEKESHA (Move On)",
       "url": "https://open.spotify.com/track/0SEeJFBZhAo4u9IpG03bLX"

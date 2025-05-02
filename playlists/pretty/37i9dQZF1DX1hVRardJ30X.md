@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko,  Feid, Cazzu and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,196 likes - 57 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,248 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [SIN AIRE](https://open.spotify.com/track/0zFeDV1p5V9td9V3pFy4uM) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [SIN AIRE](https://open.spotify.com/album/0ikcc9bggZIKkGpH16bajv) | 2:49 |
 | 57 | [Perfume Dior](https://open.spotify.com/track/79puczoWNwwnOSTX4uPhqB) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Perfume Dior](https://open.spotify.com/album/1iv5lEV8vkGY2hObOrRPHK) | 2:02 |
 
-Snapshot ID: `aBEBOwAAAAC69ilNNAOKMInPvztwjwuN`
+Snapshot ID: `aBEBOwAAAABnF4QWjmqxlOZ2kCqpnyms`

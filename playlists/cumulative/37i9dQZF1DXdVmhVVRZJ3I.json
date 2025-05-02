@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+    },
+    {
+      "album": {
         "name": "Kikada",
         "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
       },
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 346285,
       "name": "Meditatiohm",
       "url": "https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Lorde on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,349 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,438 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 43 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 44 | [Dreamin](https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Natural Pleasure](https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK) | 3:26 |
 | 45 | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p) | 2:40 |
-| 46 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
+| 46 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
 | 47 | [Phone Ring \(with Benny The Butcher and Maxo Kream\)](https://open.spotify.com/track/0ypqbEoW7tEKMCwZnSq079) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Phone Ring](https://open.spotify.com/album/2vjFRerPJlqKehVhStJPhn) | 2:31 |
 | 48 | [MONDAY](https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY](https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB) | 4:03 |
 | 49 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 |

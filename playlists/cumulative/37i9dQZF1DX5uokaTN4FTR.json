@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: FISHER\n",
+  "description": "The UK's biggest dance playlist! Cover: PinkPantheress\n",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 145438,
       "name": "Bring Me Joy",
       "url": "https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 234728,
       "name": "Closer (feat. Chenai)",
       "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
@@ -5807,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "I need to know",
+        "url": "https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138166,
+      "name": "I need to know",
+      "url": "https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3"
+    },
+    {
+      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/7lxnv0bArIIsZGTDULr7bE"
       },
@@ -6340,7 +6362,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252767,
-      "name": "It Gets Better - Edit",
+      "name": "It Gets Better - Forever Mix",
       "url": "https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo"
     },
     {
@@ -9868,6 +9890,28 @@
       "duration_ms": 168375,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
+    },
+    {
+      "album": {
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "album": {

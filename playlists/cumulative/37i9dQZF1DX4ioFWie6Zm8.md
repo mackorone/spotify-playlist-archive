@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-235 songs - 17 hr 21 min
+236 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Himemien](https://open.spotify.com/track/0AcpLdtcndor8VffGDlaQ8) | [Tsedenya G](https://open.spotify.com/artist/6D1JeQjEELQrp1gjAVny6G), [Markos](https://open.spotify.com/artist/4U2M1mzLrealrOmNauOGjQ) | [Nahom Favorite\. Vol\. 25](https://open.spotify.com/album/2IRyCD0yAildzXxfOlOnsI) | 4:48 | 2024-05-07 |  |
 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-10-27 |  |
 | [I Met Her By The River](https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 | 2022-08-05 | 2023-03-15 |
+| [I Won't Run Away](https://open.spotify.com/track/4Mi7YwSHOg80ALiykqpJES) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [I Won't Run Away](https://open.spotify.com/album/44XSloaNZqvfDjgwLdbQR3) | 7:20 | 2025-05-01 |  |
 | [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 | 2023-10-27 | 2023-11-24 |
 | [Imbukula](https://open.spotify.com/track/0HgitDRLs36qmZ3ljDiQCc) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/5rAkaAKNJrMurtbjC8FjIt) | 4:45 | 2023-12-22 |  |
 | [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 | 2022-08-05 | 2023-09-30 |
@@ -98,7 +99,7 @@
 | [Kanou](https://open.spotify.com/track/7kaUgwfPiXLCek3AkzJGFu) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:52 | 2023-10-27 | 2024-04-19 |
 | [Kanou](https://open.spotify.com/track/43jFFMQlyY38tWloRAhdYy) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:53 | 2022-08-05 | 2024-05-08 |
 | [Kedide](https://open.spotify.com/track/0XVvy1dIe74n1k5zM0z3hI) | [Nicolas Repac](https://open.spotify.com/artist/0RaR5kDG6RThEm7WOgpLO9), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Yelema \(By Nicolas Repac\)](https://open.spotify.com/album/2I36kSFeHnJJTe54rx9nYO) | 5:10 | 2022-08-05 | 2024-05-08 |
-| [Keremiela](https://open.spotify.com/track/3OgMkV8ZcwyNQ7xFuhqcsa) | [Ethiocolor](https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe) | [Ethiocolor](https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS) | 6:13 | 2024-05-07 |  |
+| [Keremiela](https://open.spotify.com/track/3OgMkV8ZcwyNQ7xFuhqcsa) | [Ethiocolor](https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe) | [Ethiocolor](https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS) | 6:13 | 2024-05-07 | 2025-05-02 |
 | [Kiriké](https://open.spotify.com/track/4unrkCU4r4c65yFsENbEEv) | [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC) | [Kiriké](https://open.spotify.com/album/1dTfhMFEmU143D9ayS65Qc) | 5:37 | 2023-12-22 |  |
 | [Kiriké](https://open.spotify.com/track/5K5TnuDvCWDcbG73DHQ9Ne) | [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Makan Tounkara](https://open.spotify.com/artist/6UFQFgya6bABSt1rTzHEJp), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Kiriké](https://open.spotify.com/album/0M35JLoA9HMPVYvppsth3l) | 5:37 | 2022-08-05 | 2024-04-19 |
 | [Klé](https://open.spotify.com/track/54aJYTjYCQj6PoabMUGciv) | [Tom Diakité](https://open.spotify.com/artist/5xMaTGRQqjr7dj4YSADneO), [Uckadela](https://open.spotify.com/artist/1abdUt9foYanfxqiJ3buZj) | [Fala](https://open.spotify.com/album/6sUOxZPxWKs2KFVPQcC9Ap) | 4:21 | 2022-08-05 | 2024-05-08 |

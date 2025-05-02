@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Karla Korsbak",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   ORA",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 167883,
       "name": "Dele Af Mig",
       "url": "https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 189322,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
@@ -3542,6 +3542,24 @@
       "duration_ms": 264335,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
+    },
+    {
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156356,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future.
+> Listen to the future\. Cover: ICEBOX
 
-177 songs - 9 hr 39 min
+178 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hours](https://open.spotify.com/track/4aaeCfnNc21IRpL7SsQexE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Hours](https://open.spotify.com/album/0VibEYS0NHzR76zvg7c5w1) | 2:43 | 2024-06-27 | 2025-04-16 |
 | [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 | 2025-04-16 |
 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 | 2025-04-15 |  |
+| [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-05-01 |  |
 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 | 2024-06-27 | 2024-12-05 |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 | 2025-04-16 |
 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-04-15 |  |

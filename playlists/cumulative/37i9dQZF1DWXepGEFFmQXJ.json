@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Sam Barber",
+  "description": "The cream of today's country crop. Cover: Bailey Zimmerman, Luke Combs",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "American Trail",
+        "url": "https://open.spotify.com/album/5dSsYiQTgjXPRhF4D0IvFX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255712,
+      "name": "American Trail",
+      "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
+    },
+    {
+      "album": {
         "name": "Angels (Don\u2019t Always Have Wings)",
         "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
       },
@@ -1196,6 +1214,28 @@
       "duration_ms": 228066,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
     },
     {
       "album": {
@@ -1778,7 +1818,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 175423,
       "name": "Bigger Things",
       "url": "https://open.spotify.com/track/6kOEXPHnlOd93UrDfBgceB"
@@ -2556,6 +2596,24 @@
       "duration_ms": 161133,
       "name": "Can't Pass The Bar",
       "url": "https://open.spotify.com/track/7fhs0anz1GueX9JnprYITm"
+    },
+    {
+      "album": {
+        "name": "Can't See The Sky",
+        "url": "https://open.spotify.com/album/00IP1eiD3oFWl36Jj8lkP7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155248,
+      "name": "Can't See The Sky",
+      "url": "https://open.spotify.com/track/7kGzAyUWmnLFg4szDxdX6x"
     },
     {
       "album": {
@@ -4294,7 +4352,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190923,
       "name": "Dressed Down",
       "url": "https://open.spotify.com/track/4p8bd4AU5lykxLs1RbifYp"
@@ -12858,7 +12916,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 170715,
       "name": "She Hates Me",
       "url": "https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM"

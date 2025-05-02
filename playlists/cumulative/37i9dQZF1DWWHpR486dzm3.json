@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa paluun tehnyt Tiisu.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa paluun tehnyt Edicti.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 176965,
       "name": "100 %",
       "url": "https://open.spotify.com/track/7erSQRUb0SnOp6l0FY4uhn"
+    },
+    {
+      "album": {
+        "name": "12345",
+        "url": "https://open.spotify.com/album/3uX5XKs7qz819h1ssm2OQL"
+      },
+      "artists": [
+        {
+          "name": "JAL",
+          "url": "https://open.spotify.com/artist/0mzUrVVjls5DsuRk5mTi6f"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129044,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/3nGMH1xWlYGBOdo1YVWlFE"
     },
     {
       "album": {
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 246562,
       "name": "En ryypp\u00e4\u00e4 en\u00e4\u00e4",
       "url": "https://open.spotify.com/track/3JREusH0wEh2hYy1tBn4G6"
@@ -3682,6 +3700,24 @@
       "duration_ms": 242294,
       "name": "I Found Me A Foe",
       "url": "https://open.spotify.com/track/02jO4MW61Kp399VlpOClDN"
+    },
+    {
+      "album": {
+        "name": "I just wanna be with you",
+        "url": "https://open.spotify.com/album/7uJo8h7XOC6DpBbLcjeQkD"
+      },
+      "artists": [
+        {
+          "name": "ROOS+BERG",
+          "url": "https://open.spotify.com/artist/1zVFUjbWQLjADJsMUGV5Ao"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155408,
+      "name": "I just wanna be with you",
+      "url": "https://open.spotify.com/track/5YTXZhFuw0JVkVZk6nt12h"
     },
     {
       "album": {
@@ -5301,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Koiperhosia",
+        "url": "https://open.spotify.com/album/2hKtbCfXcwFr78XQDqOwug"
+      },
+      "artists": [
+        {
+          "name": "Hattara",
+          "url": "https://open.spotify.com/artist/4bK357VA5lfLjj5GwFFjuR"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "Koiperhosia",
+      "url": "https://open.spotify.com/track/6zqjHnXu4SARkJkjZnvfAo"
+    },
+    {
+      "album": {
         "name": "Kokomustissa",
         "url": "https://open.spotify.com/album/5I9QdFSPwyVma10zKnfiu7"
       },
@@ -5630,6 +5684,24 @@
       "duration_ms": 200506,
       "name": "Kundit kondikseen",
       "url": "https://open.spotify.com/track/0SwRb9XB737hkM3Yj1Av63"
+    },
+    {
+      "album": {
+        "name": "Kurkiauroja",
+        "url": "https://open.spotify.com/album/7rzmt0VLgVe8CRbwnNo4T7"
+      },
+      "artists": [
+        {
+          "name": "KAJO",
+          "url": "https://open.spotify.com/artist/2LQ6bFO3ZqfzKUYrV3Fazt"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232920,
+      "name": "Kurkiauroja",
+      "url": "https://open.spotify.com/track/20e0wvdQHg5DdyYzqbhss2"
     },
     {
       "album": {
@@ -7307,6 +7379,28 @@
     },
     {
       "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5Ig2dW1s1Sa0VjQNXOyEJx"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/4F5FGKY1rpozFz0zNZVoKJ"
+    },
+    {
+      "album": {
         "name": "Mets\u00e4harju / Oi pojat",
         "url": "https://open.spotify.com/album/1Qoir8p8rpgk9Y7rTqNBcD"
       },
@@ -7564,6 +7658,24 @@
       "duration_ms": 156432,
       "name": "Mit\u00e4 s\u00e4 luulet",
       "url": "https://open.spotify.com/track/7d1vcmzHMgTrJ4iFs8aut7"
+    },
+    {
+      "album": {
+        "name": "Mit\u00e4 s\u00e4 luulit?",
+        "url": "https://open.spotify.com/album/3eT7KrBwdrxDG8FK2XV6jq"
+      },
+      "artists": [
+        {
+          "name": "LIKASET FARKUT",
+          "url": "https://open.spotify.com/artist/6BNONQJkZ7EiC0r0YNQhSx"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148872,
+      "name": "Mit\u00e4 s\u00e4 luulit?",
+      "url": "https://open.spotify.com/track/2NDUjmcXj4SLWMVurFhESs"
     },
     {
       "album": {
@@ -7909,6 +8021,24 @@
     },
     {
       "album": {
+        "name": "XL4",
+        "url": "https://open.spotify.com/album/2NdIiUt5UHiMaPKl5R8deT"
+      },
+      "artists": [
+        {
+          "name": "Joni Ekman & Koira",
+          "url": "https://open.spotify.com/artist/1QbvirHCOsrRM5q09l2zOg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240687,
+      "name": "M\u00e4 rokkaan",
+      "url": "https://open.spotify.com/track/2tJAWHLpW6pAByBlgpXqDv"
+    },
+    {
+      "album": {
         "name": "M\u00f6kki keskell\u00e4 pohjolaa",
         "url": "https://open.spotify.com/album/1sjlYetkFq9K5ncQVinz18"
       },
@@ -8000,6 +8130,24 @@
       "duration_ms": 186500,
       "name": "Ne muut",
       "url": "https://open.spotify.com/track/1BNISAM8xK2Vvso1MHKgkK"
+    },
+    {
+      "album": {
+        "name": "Ne toiset",
+        "url": "https://open.spotify.com/album/6xy9DIRyHmkAsKAYgC51rJ"
+      },
+      "artists": [
+        {
+          "name": "Tams",
+          "url": "https://open.spotify.com/artist/4dViQ7ArMCqM7xZx9TddSs"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200515,
+      "name": "Ne toiset",
+      "url": "https://open.spotify.com/track/21rYS06BfRcYUxNtvmvawz"
     },
     {
       "album": {
@@ -10051,6 +10199,24 @@
     },
     {
       "album": {
+        "name": "Saippuoita haistelemaan",
+        "url": "https://open.spotify.com/album/7gJMxle4UgsfU4xwnjpETq"
+      },
+      "artists": [
+        {
+          "name": "Rebekka Holi",
+          "url": "https://open.spotify.com/artist/0uACwCp0rmoGj8uQUkP8o1"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Saippuoita haistelemaan",
+      "url": "https://open.spotify.com/track/06wSIZPIXdSK4Xdq8tUy9V"
+    },
+    {
+      "album": {
         "name": "Salla-Maria! (Sy\u00f6 t\u00e4\u00e4 maailma)",
         "url": "https://open.spotify.com/album/3qxX2Jj6E9vEpdV7qwpY6E"
       },
@@ -11218,6 +11384,24 @@
       "duration_ms": 310187,
       "name": "S\u00e4b\u00e4",
       "url": "https://open.spotify.com/track/2eYg6t5LTNwwL9g9hGSDBS"
+    },
+    {
+      "album": {
+        "name": "S\u00e4hk\u00f6postirock",
+        "url": "https://open.spotify.com/album/1BraUyOvyKmrlg7dhfO3Jf"
+      },
+      "artists": [
+        {
+          "name": "(proto)Torvinen",
+          "url": "https://open.spotify.com/artist/3UxBCoeW5rh7kmxB5TPyWd"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "S\u00e4hk\u00f6postirock",
+      "url": "https://open.spotify.com/track/20fTUq495NnTZ91gdY4cw3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Ntinyari",
+  "description": "Chill, take a long walk and clear your mind. Cover: Rita Wangui",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -380,6 +380,28 @@
       "duration_ms": 155062,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Play",
+        "url": "https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO"
+      },
+      "artists": [
+        {
+          "name": "Rita Wangui",
+          "url": "https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C"
+        },
+        {
+          "name": "Kxffy",
+          "url": "https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Don\u2019t Play",
+      "url": "https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV"
     },
     {
       "album": {
@@ -1173,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Mbuzi",
+        "url": "https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Mbuzi",
+      "url": "https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
       },
@@ -1722,7 +1762,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 230769,
       "name": "Side Chick",
       "url": "https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ"
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 144572,
       "name": "Southwards",
       "url": "https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ"

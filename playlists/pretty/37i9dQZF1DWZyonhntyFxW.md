@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,243 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,318 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 25 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 |
 | 26 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
 | 27 | [VINI](https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:04 |
-| 28 | [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 |
+| 28 | [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 |
 | 29 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 |
 | 30 | [Nazel 3la Fo2](https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR) | [Nazel 3la Fo2](https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG) | 2:21 |
 | 31 | [SHIKA NOVA](https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [3AWDAT EL FA2DAN](https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO) | 1:52 |

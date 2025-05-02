@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Hsien Ching
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,075 likes - 77 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,065 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 29 | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/track/7GGNubArnL3x9nCxUKdgIq) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/album/4yVlbRV12SRiBbpsCZSyhe) | 2:25 |
 | 30 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
-| 31 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 32 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
+| 31 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
+| 32 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 33 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
 | 34 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
 | 35 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 47 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
 | 48 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
 | 49 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 |
-| 50 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
-| 51 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 50 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
+| 51 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
 | 52 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
 | 53 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
 | 54 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [Contagious](https://open.spotify.com/track/2xsxWhuajHXZuW8aPDtq3z) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Contagious](https://open.spotify.com/album/43ZO099zRzcgZ28axFoOSz) | 2:22 |
 | 69 | [How Could U \- Ninajirachi VIP Mix](https://open.spotify.com/track/0bZl04jQ6Qc8QjTWonDA2S) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [How Could U](https://open.spotify.com/album/2KWVWPEOaM8u1Bdm3dWmxd) | 3:05 |
 | 70 | [kitty superfly](https://open.spotify.com/track/6cXnr0RGqtLorZfZf99rFj) | [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [biblemami](https://open.spotify.com/album/4RmvkRoFrMsZ6h5ZUitFsD) | 2:20 |
-| 71 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
-| 72 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
-| 73 | [Balverine](https://open.spotify.com/track/3TpYtEqXhqoUVMQTTvPiw5) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv), [Neir](https://open.spotify.com/artist/2LghC42VJVmrDCpqYYuaM7) | [Laudanum](https://open.spotify.com/album/5sLTeaPfSXch1w7KB8lWgb) | 3:08 |
+| 71 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
+| 72 | [Balverine](https://open.spotify.com/track/3TpYtEqXhqoUVMQTTvPiw5) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv), [Neir](https://open.spotify.com/artist/2LghC42VJVmrDCpqYYuaM7) | [Laudanum](https://open.spotify.com/album/5sLTeaPfSXch1w7KB8lWgb) | 3:08 |
+| 73 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
 | 74 | [Luv drunk](https://open.spotify.com/track/55sHgH7clfEs7bqA4jZ2uF) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Pretty Little Problem](https://open.spotify.com/album/3eENZeLN29UMWJS8vSZ4vW) | 2:41 |
 | 75 | [React](https://open.spotify.com/track/22FvHiuxc8QNxP2KFQOSKQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/25s1L71D3yJCusXCjVt3X8) | 3:10 |
 | 76 | [I Don't Care](https://open.spotify.com/track/7t0O8JgBgWndMIqC1LJNCS) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Penance](https://open.spotify.com/album/2gJCmP2bUQRzzVKM8KI4Li) | 2:27 |

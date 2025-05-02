@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ちゃんみな\*👉 <a href="https://spice.eplus.jp/articles/337490">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,949 likes - 82 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,965 likes - 82 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 67 | [RISE UP HIGH](https://open.spotify.com/track/6g60RoSMEpncGwaqCjKoTg) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [RISE UP HIGH](https://open.spotify.com/album/5v3JtiJI7BT9P88DQXcvDs) | 3:16 |
 | 68 | [静岡](https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [静岡](https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo) | 3:44 |
 | 69 | [Fukusen Kaisyu](https://open.spotify.com/track/70ttiqDKV2ndlssiWPeAb9) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Fukusen Kaisyu](https://open.spotify.com/album/32XHXOLZkqmp6aYUgxwdDj) | 3:10 |
-| 70 | [Gose On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 |
+| 70 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 |
 | 71 | [プライド](https://open.spotify.com/track/0z4hRaIpFE8xIYXD5424nB) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [プライド](https://open.spotify.com/album/3roLBblCXKwPBR74eJ298v) | 3:17 |
 | 72 | [Acceleration](https://open.spotify.com/track/1k9rEAliTVbrF0hg5NX64G) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Acceleration](https://open.spotify.com/album/5IZ4PA8nTGP1bT7LzrTF3m) | 4:01 |
 | 73 | [世界を愛せますように！](https://open.spotify.com/track/5MoN503RWJSWFI6x2l7AKJ) | [Kiyoshi Ryujin 25](https://open.spotify.com/artist/2rTyC8giRs8nw4NPcoZA75) | [世界を愛せますように！](https://open.spotify.com/album/6uLzIf0vk4VqZcdPsjvRXO) | 3:47 |

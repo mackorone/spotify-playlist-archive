@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi.
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Rony Parulian
 
-272 songs - 17 hr 40 min
+274 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All In For You](https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [All In For You](https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4) | 6:05 | 2025-04-15 |  |
 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 | 2025-01-09 | 2025-04-16 |
 | [Amarah](https://open.spotify.com/track/5SLfsLgb2edI39v629wpzb) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [LIMBO](https://open.spotify.com/album/4g1bzzlGodo2xL5xiAHOH0) | 2:26 | 2025-04-15 |  |
+| [Ambang Rindu](https://open.spotify.com/track/72zTmEfdntRbZMxivVALf8) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Ambang Rindu](https://open.spotify.com/album/27wzqnJ2yA8FnG6mWws5So) | 3:23 | 2025-05-01 |  |
 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 | 2023-10-08 | 2024-03-29 |
 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 | 2023-10-11 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |
@@ -183,6 +184,7 @@
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-11-25 | 2022-03-25 |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-15 |  |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2021-11-25 | 2022-03-25 |
+| [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 | 2025-05-01 |  |
 | [Pilihan Ati](https://open.spotify.com/track/3ODS3N2Pdtacr7Jxllky2c) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pilihan Ati](https://open.spotify.com/album/5GWUfo0ZgDB2Gt0n4CTjUZ) | 4:59 | 2021-11-25 | 2022-03-25 |
 | [PIMPSHIT](https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [MY FIRST FRIEND](https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ) | 3:11 | 2023-04-13 | 2024-03-29 |
 | [Pisah](https://open.spotify.com/track/0moK39JPJTSbypvshvH4NH) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pisah](https://open.spotify.com/album/1OK2oRKzT6csqvA0fMCDi1) | 4:40 | 2021-11-25 | 2022-03-25 |

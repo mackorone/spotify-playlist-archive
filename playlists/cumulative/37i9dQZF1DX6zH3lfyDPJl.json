@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-06",
-  "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uc5bc\ud130\ub124\uc774\ud2f0\ube0c \ub85d\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
+  "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
   "name": "\ubb3c \uba4d",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 207185,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/6XfXUVtNL2yxXZpiAdiLTE"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Time Traveling",
+        "url": "https://open.spotify.com/album/3vXflKfiDE9eL5x0vQ6R1w"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187950,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4HsfLFKMaiWhSmIoQxssa2"
+    },
+    {
+      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 225949,
       "name": "light",
       "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
@@ -1177,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Never Not",
+      "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
+    },
+    {
+      "album": {
         "name": "Summer Plumage \uc5ec\ub984\uae43",
         "url": "https://open.spotify.com/album/7efz4vmh3xjBnySQKarQm0"
       },
@@ -1210,6 +1246,24 @@
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
+    },
+    {
+      "album": {
+        "name": "mama's boy (deluxe)",
+        "url": "https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "nobody else",
+      "url": "https://open.spotify.com/track/5UVWG0RujcoX2PTn5zrrVg"
     },
     {
       "album": {
@@ -1249,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "album": {
         "name": "November Rain",
         "url": "https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX"
       },
@@ -1260,7 +1332,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 258000,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ"
@@ -1314,7 +1386,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 261944,
       "name": "Only Ecstasy",
       "url": "https://open.spotify.com/track/5bzLRH0aGMIu2DKMZLtIvU"
@@ -1386,7 +1458,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 232733,
       "name": "Panoramic View",
       "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
@@ -1429,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
+    },
+    {
+      "album": {
         "name": "Photograph \uc0ac\uc9c4\ucca9",
         "url": "https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc"
       },
@@ -1444,6 +1534,24 @@
       "duration_ms": 254053,
       "name": "Photograph \uc0ac\uc9c4\ucca9",
       "url": "https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22"
+    },
+    {
+      "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234174,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/36pMQRacz9p99OevARrvVs"
     },
     {
       "album": {
@@ -1710,7 +1818,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 246877,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi"
@@ -1782,10 +1890,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 249771,
       "name": "Sunny Days, Summer Nights",
       "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
+    },
+    {
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214680,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"
     },
     {
       "album": {
@@ -1969,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/2NpfPQ6AQn50AZpPP412uU"
       },
@@ -2142,7 +2286,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 212739,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"

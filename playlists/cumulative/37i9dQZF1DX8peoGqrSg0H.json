@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 210200,
       "name": "BOW WOW",
       "url": "https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE"
@@ -1150,6 +1150,24 @@
       "duration_ms": 178117,
       "name": "Freaking Pop (\u0e42\u0e04\u0e15\u0e23\u0e1b\u0e4a\u0e2d\u0e1b)",
       "url": "https://open.spotify.com/track/2ldniLhrfrOfq13Kqdcjga"
+    },
+    {
+      "album": {
+        "name": "GIRLS ERA",
+        "url": "https://open.spotify.com/album/0i8okX4CYnO5uMA0AEGylM"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "GO BANANAS (Dance \u0e01\u0e48\u0e2d\u0e19\u0e25\u0e30\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/02z1heHkfig8XD4bSCVAa6"
     },
     {
       "album": {
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 249600,
       "name": "\u0e04\u0e49\u0e32\u0e07 (STILL)",
       "url": "https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ"
@@ -7645,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e14\u0e38\u0e22\u0e34\u0e48\u0e07\u0e0a\u0e2d\u0e1a",
         "url": "https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH"
       },
@@ -8220,6 +8256,24 @@
       "duration_ms": 183157,
       "name": "\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a\u0e43\u0e08\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22 (LOVE RESPONSE)",
       "url": "https://open.spotify.com/track/2RlJRnM376NJdxJ9rpJY1K"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e1a\u0e44\u0e14\u0e49\u0e1b\u0e30 (Take It?)",
+        "url": "https://open.spotify.com/album/6XY7Akv3LtGdcXFxRbjwsn"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163972,
+      "name": "\u0e23\u0e31\u0e1a\u0e44\u0e14\u0e49\u0e1b\u0e30 (Take It?)",
+      "url": "https://open.spotify.com/track/2guxqvakUQ27RhlSRu6DzJ"
     },
     {
       "album": {
@@ -10644,7 +10698,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 161584,
       "name": "\u0e40\u0e1b\u0e4a\u0e30",
       "url": "https://open.spotify.com/track/3ijJlXBIVziI5Nj5d7B06Q"
@@ -11270,6 +11324,24 @@
       "duration_ms": 198315,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e49\u0e2d\u0e40\u0e14\u0e35\u0e22\u0e27 (I Mean)",
       "url": "https://open.spotify.com/track/7mhv19fY8rvuuIey7mrwD2"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) [Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series]",
+        "url": "https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230847,
+      "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) - Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf"
     },
     {
       "album": {
@@ -12680,7 +12752,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 195616,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21 (Noid-Ah) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/4bK9QdIy6C0OP20wNPawel"

@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯 Kannessa Ares.
+> 100 Suomi 💯 Kannessa Jami Faltin ja ibe.
 
-877 songs - 1 day 17 hr 44 min
+879 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Itä\-Helsinki 2](https://open.spotify.com/track/7bqPWQMz4ZdpIuw93Duen8) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Itä\-Helsinki 2](https://open.spotify.com/album/6nF1jYPvRytpxVdsJRq5Pb) | 3:27 | 2024-02-29 | 2024-03-15 |
 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 | 2024-09-12 | 2025-01-03 |
 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 | 2025-02-07 |
-| [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 | 2025-03-27 |  |
+| [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 | 2025-03-27 | 2025-05-02 |
 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 | 2024-10-10 | 2024-12-13 |
 | [Joka puolella](https://open.spotify.com/track/7ML3SbztRWgCWrTnouitHj) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Kaiken Teoria](https://open.spotify.com/album/45zZcxEvcjIBXPmphAEkQf) | 3:23 | 2023-10-12 | 2023-10-27 |
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-06-06 | 2024-08-16 |
@@ -328,7 +328,7 @@
 | [KLIK KLAK BOOM](https://open.spotify.com/track/0qYkrqSegnHtw2WxaYU4ts) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [KLIK KLAK BOOM](https://open.spotify.com/album/7fMOkrkXs2EJ1fT2gYfDGE) | 2:06 | 2024-04-25 | 2024-05-10 |
 | [Kohottaa](https://open.spotify.com/track/67lRPImCch3SwKz2gk3aaa) | [Chebaleba](https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ), [Jivefunk](https://open.spotify.com/artist/5z8wjGd1fnvewcoj9XFCox) | [Kohottaa](https://open.spotify.com/album/1ic4TQbQAsIw90qjUcjXKD) | 2:41 | 2024-07-25 | 2024-08-09 |
 | [Koira De Bruyne](https://open.spotify.com/track/0ngzab8Nyz98RBkWIPtFX9) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [Koira De Bruyne](https://open.spotify.com/album/6RCsSeKy0aOYjs4gvd3k1m) | 2:11 | 2024-03-21 | 2024-04-05 |
-| [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 | 2025-04-05 |  |
+| [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 | 2025-04-05 | 2025-05-02 |
 | [Koko illan](https://open.spotify.com/track/3mNfGSypq55jVK01NubxWV) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [Joosu J](https://open.spotify.com/artist/2zbQ8DbFuJiXSd8Sjc33qa) | [Koko illan](https://open.spotify.com/album/1of0P2fIlHOYdKAmmhUZmr) | 3:51 | 2024-04-11 | 2024-04-26 |
 | [Koko Ilta](https://open.spotify.com/track/1GdTpbJcVCL8ZVYzeV4ca6) | [Yzzy](https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd) | [Koko Ilta](https://open.spotify.com/album/6wCYWtrvlaqsDeZ4rrhkXE) | 2:52 | 2024-06-20 | 2024-07-02 |
 | [Koko Matka](https://open.spotify.com/track/1x9zBPRoS4HoUnqsot1GCK) | [LEFT](https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG) | [Koko Matka](https://open.spotify.com/album/0NSZwNM6z7im7xOr4inNwA) | 2:55 | 2024-04-11 | 2024-04-26 |
@@ -418,6 +418,7 @@
 | [Luottamusongelmii](https://open.spotify.com/track/00tMkOxR5cTF6sTq4fM3bU) | [Santz](https://open.spotify.com/artist/1budGqglcS1GxynNiELO53), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Luottamusongelmii](https://open.spotify.com/album/4BAdAOzyH1lsFkLcIEjZc0) | 2:16 | 2024-03-28 | 2024-05-10 |
 | [Luotui](https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Luotui](https://open.spotify.com/album/7I3MvufdcG1sI82L7HY3sU) | 2:57 | 2025-04-17 |  |
 | [Lupaan](https://open.spotify.com/track/57zt0umbi4uSmoIOps4q77) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Lupaan](https://open.spotify.com/album/0JAx9O0OwHRT9umeLnXxvm) | 2:57 | 2023-10-05 | 2023-11-17 |
+| [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 | 2025-05-01 |  |
 | [Lähetään menee](https://open.spotify.com/track/0TsvuYK3jVFHwZC5GYbmY6) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Lähetään menee](https://open.spotify.com/album/4FW8o20MyT22NDY9t7oaDc) | 3:09 | 2024-04-18 | 2024-07-05 |
 | [Lähtee heti](https://open.spotify.com/track/0HZbsvAk8etKqRpk4L7quV) | [TheoFuego](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Lähtee heti](https://open.spotify.com/album/0sXroAEaSoA5JR5s8RKnm6) | 2:58 | 2024-06-20 | 2024-08-02 |
 | [Lähteny pienest](https://open.spotify.com/track/5MJBhCtHTGxrlP4TkF4XS2) | [ADIVA](https://open.spotify.com/artist/31SWuzmzKlZLttVf4IMACW), [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I) | [Lähteny pienest](https://open.spotify.com/album/5udX0HDxXMhlkrwsAnUvcI) | 2:45 | 2023-09-21 | 2023-09-29 |
@@ -515,6 +516,7 @@
 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Mä tiedän](https://open.spotify.com/track/0rSD1Am2Fss38eWRWoSivT) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [Still Hustla EP](https://open.spotify.com/album/12F0BHnWuiYcFWu24fyfhB) | 2:45 | 2024-03-28 | 2024-04-12 |
 | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/track/10hOi9EVbHEJCnfPLXdzHr) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/album/364uYlJRjMYi5M29RkZOMm) | 2:51 | 2024-05-30 | 2024-07-02 |
+| [Naapurintyttö](https://open.spotify.com/track/57JZLky65bz6I0rtLzkigX) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Naapurintyttö](https://open.spotify.com/album/240PwR8HJSqfT3B5WAFtYx) | 2:43 | 2025-05-01 |  |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 |  |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-22 | 2024-11-22 |
 | [Neutral OK \(feat\. Michael Bleu\)](https://open.spotify.com/track/71kruu6FogCon72eejlIt6) | [Don Johnson Big Band](https://open.spotify.com/artist/3IyO9AT4qU8VLyOUcZfgMg), [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Neutral OK \(feat\. Michael Bleu\)](https://open.spotify.com/album/0c4sP1K0pX9qg7vnkr0GO9) | 3:40 | 2024-03-14 | 2024-03-22 |

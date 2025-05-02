@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Burner Account",
+        "url": "https://open.spotify.com/album/5PE3nDgPOvJASgRdhWNAID"
+      },
+      "artists": [
+        {
+          "name": "Darcie Haven",
+          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225842,
+      "name": "Burner Account",
+      "url": "https://open.spotify.com/track/2J4QEeZlSW72LhJe2gCfUt"
+    },
+    {
+      "album": {
         "name": "BUTTERFLIES",
         "url": "https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW"
       },
@@ -1753,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Cutting Room Floor",
+        "url": "https://open.spotify.com/album/3XnV4AL4NCEbyKqACQzdYD"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212312,
+      "name": "Cutting Room Floor",
+      "url": "https://open.spotify.com/track/5ridM2vq6tqVyggQKi192B"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7fvEYq4YuLOmijzd38CPlV"
@@ -4212,7 +4248,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 163433,
       "name": "INTERSTATE",
       "url": "https://open.spotify.com/track/4goSa5vzEAF0tRp17gATJt"
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 244810,
       "name": "Lost To The Moon",
       "url": "https://open.spotify.com/track/5IHO4GcaF8ex9oLww2kh4S"
@@ -5594,7 +5630,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 188863,
       "name": "One More Dance",
       "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
@@ -5762,6 +5798,24 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "album": {
+        "name": "Piggies",
+        "url": "https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9"
+      },
+      "artists": [
+        {
+          "name": "GAZAL",
+          "url": "https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154380,
+      "name": "Piggies",
+      "url": "https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d"
     },
     {
       "album": {
@@ -6266,7 +6320,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"

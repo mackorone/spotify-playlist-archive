@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Nena",
   "name": "Pop PT",
   "tracks": [
     {
@@ -980,6 +980,24 @@
       "duration_ms": 224354,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
+    },
+    {
+      "album": {
+        "name": "Como Bate o Cora\u00e7\u00e3o?",
+        "url": "https://open.spotify.com/album/0JBfdGesBSscvXl7ZXunMj"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/234hezB1llSvVZqgtLVdzf"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Como Bate o Cora\u00e7\u00e3o?",
+      "url": "https://open.spotify.com/track/3Fy0kTB2NcUZclzzYsfL1H"
     },
     {
       "album": {
@@ -2623,6 +2641,28 @@
     },
     {
       "album": {
+        "name": "Linhas da Vida",
+        "url": "https://open.spotify.com/album/06YjouSUFp1397p5nVubwD"
+      },
+      "artists": [
+        {
+          "name": "GNTK",
+          "url": "https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0"
+        },
+        {
+          "name": "Edna Dallot",
+          "url": "https://open.spotify.com/artist/11xlCQKxobw05dEG1ggZIF"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211092,
+      "name": "Linhas da Vida",
+      "url": "https://open.spotify.com/track/2gXxRgY4xhDbduzPauDeEP"
+    },
+    {
+      "album": {
         "name": "Longe",
         "url": "https://open.spotify.com/album/311Rot4LrQq2pyY5UnA5ew"
       },
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 150187,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/43yXbcpBsYN9GzeDHA4QN8"
@@ -3016,7 +3056,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 154722,
       "name": "Nada Demais (feat. Rita Onofre)",
       "url": "https://open.spotify.com/track/0H9nEqO1DybOjbFUE5Oay2"
@@ -3056,6 +3096,24 @@
       "duration_ms": 180737,
       "name": "Ningu\u00e9m",
       "url": "https://open.spotify.com/track/5AGJ4qOBXBQVl9O0A7jGjc"
+    },
+    {
+      "album": {
+        "name": "No pr\u00f3ximo ano",
+        "url": "https://open.spotify.com/album/27T8X3kOs5ChxvrNXVTu3e"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244893,
+      "name": "No pr\u00f3ximo ano",
+      "url": "https://open.spotify.com/track/3UdMXUZ5aeo3CpslWmUzOD"
     },
     {
       "album": {
@@ -4606,7 +4664,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 191020,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/2qrNqW7jSZn5cMW4oMTRKc"

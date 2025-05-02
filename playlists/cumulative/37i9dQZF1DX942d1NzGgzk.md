@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Shamiya Battles
 
-392 songs - 20 hr 26 min
+394 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bullet](https://open.spotify.com/track/6jRfbVhUzRsFOlQjMyJ04I) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [There In 5](https://open.spotify.com/album/1Pxnyl0inkb2yCQrPnytdF) | 3:52 | 2023-11-24 | 2024-01-26 |
 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 | 2022-07-17 | 2023-02-22 |
 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2022-07-17 | 2024-09-13 |
+| [Butter](https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Butter](https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh) | 2:44 | 2025-05-01 |  |
 | [By Surprise](https://open.spotify.com/track/6LmgdEknRt9AFsrVYdYTg2) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [By Surprise](https://open.spotify.com/album/7xPLSKq8zUFhopdP0kOHqQ) | 3:10 | 2022-10-23 | 2023-02-25 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-22 | 2024-12-13 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-07-17 | 2024-09-13 |
@@ -245,6 +246,7 @@
 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 | 2024-10-24 | 2025-04-05 |
 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 | 2022-07-17 | 2024-08-06 |
 | [Never Love Again](https://open.spotify.com/track/5ZlzrLcxXAtVsCeDq1JUUe) | [Claudi\-Mariee](https://open.spotify.com/artist/1bPfUzxTPDOambCf2xdtEo) | [Never Love Again](https://open.spotify.com/album/7g9hCL4AaVTPToQFwMog0O) | 2:36 | 2025-03-14 |  |
+| [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 | 2025-05-01 |  |
 | [NICE GIRLS](https://open.spotify.com/track/0rmueJzTNJastnJR8VfIp6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:29 | 2024-09-20 | 2024-10-19 |
 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 | 2024-04-19 | 2024-09-21 |
 | [NIGHTTIME](https://open.spotify.com/track/6hybNTJZlwbL8Uk9PyWxYL) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [NIGHTTIME](https://open.spotify.com/album/6f8vl4nEXcYJahLiV0V69W) | 2:30 | 2023-05-18 | 2023-06-02 |
@@ -306,7 +308,7 @@
 | [S2BU](https://open.spotify.com/track/57rmJYWKMa75EM57RE4MlH) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [S2BU](https://open.spotify.com/album/5v5sBtBn1ouX6trgMmuXh3) | 2:47 | 2023-05-15 | 2023-06-02 |
 | [sauna](https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 1:54 | 2025-04-25 |  |
 | [Saving All My Love](https://open.spotify.com/track/5vijUtaUAzI4vIl2ZrIBAN) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Saving All My Love](https://open.spotify.com/album/6yLqRQrxvAfVqiwC0ltBrq) | 2:24 | 2024-09-20 | 2024-10-01 |
-| [Seasons](https://open.spotify.com/track/7tnjGSvjYDPXyLtEwttSM1) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Seasons](https://open.spotify.com/album/5SYYTJQ4GlOYClsXEvGEJL) | 3:05 | 2025-04-25 |  |
+| [Seasons](https://open.spotify.com/track/7tnjGSvjYDPXyLtEwttSM1) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Seasons](https://open.spotify.com/album/5SYYTJQ4GlOYClsXEvGEJL) | 3:05 | 2025-04-25 | 2025-05-02 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-22 | 2024-09-13 |
 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 | 2024-10-24 |  |
 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 | 2022-07-17 | 2023-02-25 |
@@ -358,7 +360,7 @@
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-06-01 | 2023-07-22 |
 | [Timeout](https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Timeout](https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg) | 2:11 | 2023-06-01 | 2024-09-13 |
 | [Tipsy](https://open.spotify.com/track/6GR5SRiuztfur96y7mBKxK) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Tipsy](https://open.spotify.com/album/4hxgmRczO2cTh9doxACWnm) | 2:12 | 2024-04-26 | 2024-05-11 |
-| [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 | 2025-01-24 |  |
+| [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 | 2025-01-24 | 2025-05-02 |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Chilli Beans.
 
-1,857 songs - 4 day 19 hr 17 min
+1,858 songs - 4 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1653,7 +1653,7 @@
 | [正直な話](https://open.spotify.com/track/1VKvGWoscAp8V9c8Ij95bw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [正直な話](https://open.spotify.com/album/6nM2IHiqedhJBPGRtvLqq0) | 2:37 | 2022-11-01 | 2022-11-03 |
 | [気になっていく](https://open.spotify.com/track/4bY37i3bRo7ANjXB5EBmj1) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [気になっていく](https://open.spotify.com/album/1b4Q75MDJRgl0dLe6EDWnR) | 3:37 | 2022-06-27 | 2022-06-29 |
 | [水の底](https://open.spotify.com/track/7ifBSzzaHSGdnIoEBIcIUO) | [CuBerry](https://open.spotify.com/artist/4Bzc9zZE7eFanFRzyDkOjq) | [マーメイド](https://open.spotify.com/album/2RplDDyUDfDtESrL5TiCs0) | 3:57 | 2022-09-20 | 2022-09-28 |
-| [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 | 2024-10-15 |  |
+| [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 | 2024-10-15 | 2025-05-02 |
 | [氷星](https://open.spotify.com/track/45KBVE1PcsdRjkvw7rpPnS) | [あるくとーーふ](https://open.spotify.com/artist/5MWrOG9C4xK1wPeH6Wk36W) | [UPSIDE DOWNTOWN](https://open.spotify.com/album/3IuPZzwf6xUkcMFcpwvirz) | 3:14 | 2023-01-17 | 2023-01-25 |
 | [永遠が続くのは](https://open.spotify.com/track/3nRht8eUysxlKZbGJ1uF9B) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 5:00 | 2022-06-07 | 2022-06-15 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 | 2023-12-06 |
@@ -1828,6 +1828,7 @@
 | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/track/6MDSUhNh6SoXVGCZAEhTzF) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/album/2hKAqKHIwRJNwpiwLixIQ1) | 4:08 | 2022-05-26 | 2022-07-15 |
 | [陽だまりで朝食を](https://open.spotify.com/track/5MiAS5yasdSp6g0W76bWTm) | [Kidder Friendly Club](https://open.spotify.com/artist/6weiyle8glz1DmsCMPNKlG) | [Kidder Friendly Philosophy](https://open.spotify.com/album/6BlU88uGUYlBxHYq21fxyn) | 3:28 | 2023-12-12 | 2023-12-20 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-21 | 2022-12-14 |
+| [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [KanekoAyano](https://open.spotify.com/artist/4wmR2R8rCIxnGEahFjaZYC) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-29 |  |
 | [雨に唄えば](https://open.spotify.com/track/38EFP5EhjiAP5tvEDHwUwx) | [Roomania](https://open.spotify.com/artist/6Bt0jCjfp1hkUC9WoTu95A) | [雨に唄えば](https://open.spotify.com/album/5pgZnxIkw411LWujn2nii9) | 3:51 | 2022-05-31 | 2022-07-27 |
 | [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 | 2022-12-22 | 2023-05-09 |
 | [雫](https://open.spotify.com/track/4ABfKq8N5qMsLXOdXTBkjn) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雫](https://open.spotify.com/album/0UzVBAbTS2VQKmI1E0puym) | 3:02 | 2024-10-01 | 2025-03-21 |

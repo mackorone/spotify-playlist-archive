@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,750,301 likes - 162 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,750,678 likes - 162 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 161 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 162 | [Handmade](https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Handmade](https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu) | 2:17 |
 
-Snapshot ID: `aA+N6gAAAAAttem6MriHz3FDm1z0U8R0`
+Snapshot ID: `AAAAADyMOkH4WD9ERoE3TcjVFoAWCQk8`

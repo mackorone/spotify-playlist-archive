@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-232 songs - 15 hr 16 min
+235 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 | 2024-09-11 |  |
 | [Aztec Death Whistle](https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Aztec Death Whistle](https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg) | 3:19 | 2024-09-11 | 2024-09-20 |
 | [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-09-11 | 2025-02-07 |
+| [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 |  |
 | [Behind the Lie](https://open.spotify.com/track/1VSSV0LoA60hM1qPTcUbcI) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Behind the Lie](https://open.spotify.com/album/5JhgNBNcmHrXSo7Ebf0WE2) | 5:01 | 2024-09-11 | 2024-10-11 |
 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 | 2024-09-11 |  |
 | [Bimbo](https://open.spotify.com/track/4GTm2tz9bKG9AbpvyzTZqy) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [Bimbo](https://open.spotify.com/album/5AJAJ8IsUsGNnVb70NM3Rc) | 3:34 | 2024-09-26 |  |
@@ -60,7 +61,7 @@
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-17 |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2024-09-11 | 2024-12-20 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-09-11 | 2025-01-10 |
-| [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2025-02-13 |  |
+| [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2025-02-13 | 2025-05-02 |
 | [Do You Feel Normal](https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Do You Feel Normal](https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N) | 3:35 | 2025-01-09 | 2025-03-21 |
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-11 | 2024-10-25 |
 | [Dopamine](https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q) | [Crashing Castles](https://open.spotify.com/artist/0nroJgHthRqDrGdfWivte6) | [Dopamine](https://open.spotify.com/album/7kgMscUKrc0QSOCEBXd22m) | 3:16 | 2024-10-03 | 2024-11-08 |
@@ -71,6 +72,7 @@
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-17 | 2025-04-09 |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-03 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-10-31 | 2025-01-24 |
+| [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 | 2025-05-01 |  |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2025-01-23 |  |
 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-12 |  |
 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 | 2024-10-17 | 2025-01-24 |
@@ -116,6 +118,7 @@
 | [Leave A Mark](https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Leave A Mark](https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr) | 5:21 | 2024-11-14 | 2024-12-13 |
 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-01-16 | 2025-03-07 |
 | [Lifeline](https://open.spotify.com/track/3R24Bjf4NEG1f1Uk0jZLsd) | [Beyond Awareness](https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs) | [Lifeline](https://open.spotify.com/album/63EgbeBz8p7kHnIXI8bhCk) | 3:20 | 2025-04-03 |  |
+| [Lifeline](https://open.spotify.com/track/6dYRVP8CYMAaUpXprCY2BW) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Lifeline](https://open.spotify.com/album/1Gmxq2ikim2BeBGda3bS9E) | 3:31 | 2025-05-01 |  |
 | [Like The Phoenix I Will Rise](https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Like The Phoenix I Will Rise](https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z) | 4:16 | 2025-01-16 | 2025-02-14 |
 | [Little Lies](https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Little Lies](https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O) | 3:36 | 2025-01-14 |  |
 | [Living in America](https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Living in America \(US version\)](https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5) | 3:28 | 2024-09-11 | 2025-01-24 |
@@ -179,7 +182,7 @@
 | [Skin From Bones](https://open.spotify.com/track/1R7IwHP908OjMlRy6u6byr) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Skin From Bones](https://open.spotify.com/album/5sOEmkQ0IoI8cQATzsi6yj) | 3:20 | 2025-02-27 |  |
 | [slay ur enemies](https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [slay ur enemies](https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3) | 2:48 | 2024-10-03 | 2024-11-08 |
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-09-11 |  |
-| [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 |  |
+| [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 | 2025-05-02 |
 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-11 | 2024-11-01 |
 | [soil](https://open.spotify.com/track/2V32pUTkdlfNE0xbtIffDT) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [soil](https://open.spotify.com/album/02Tq1eYnGFSjizC1oWPLNi) | 5:18 | 2025-03-13 |  |
 | [Sonic Reducer](https://open.spotify.com/track/5Ti61v9eUvFwHeGmq0beWn) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b), [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Sonic Reducer](https://open.spotify.com/album/2WLWueTzZTQ7SDcpuC2GPT) | 3:05 | 2024-09-26 | 2025-02-14 |

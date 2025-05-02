@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,168 likes - 58 songs - 3 hr 10 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,172 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 20 | [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 |
 | 21 | [Enemies](https://open.spotify.com/track/6PoGuEaFg26ZtjNZZGJ9Jf) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Enemies](https://open.spotify.com/album/5a7KXbTOh5NceGVYPHmgeU) | 2:27 |
 | 22 | [Psycho](https://open.spotify.com/track/0Rtw2QAmHGGrCCTpXxNyIW) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Psycho](https://open.spotify.com/album/5dOppSysiFh0fjrhz1xx2K) | 3:15 |
-| 23 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
+| 23 | [MF Bass](https://open.spotify.com/track/3C3I4pnTiufwQ9wBxklaVa) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [MF Bass](https://open.spotify.com/album/2WjZKhViiGwIHZeINrEY7O) | 2:36 |
 | 24 | [Satisfy](https://open.spotify.com/track/1ByzMUIhh3P7Udo5FoR9Jn) | [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Satisfy](https://open.spotify.com/album/7wDztZWZnXKe2c7Jdnd0xz) | 2:39 |
 | 25 | [Roll Up](https://open.spotify.com/track/672rMfh2gkP91KFtsRcQPD) | [Seeing Double](https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj) | [Roll Up](https://open.spotify.com/album/1TMscL1Mzn04OZps6kqLbN) | 3:10 |
 | 26 | [WTF](https://open.spotify.com/track/37PgEAho2vXKJbHyDFSdol) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [WTF](https://open.spotify.com/album/6nhrzrJr7FaAAYPs922vQv) | 2:32 |

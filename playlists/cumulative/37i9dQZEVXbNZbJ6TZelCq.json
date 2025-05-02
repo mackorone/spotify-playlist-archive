@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 184000,
       "name": "Bine Ai Venit in Balcani",
       "url": "https://open.spotify.com/track/66bHSTuQi0ncFmqEvS9E6x"
@@ -11496,7 +11496,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -31811,6 +31811,24 @@
     },
     {
       "album": {
+        "name": "Scuze",
+        "url": "https://open.spotify.com/album/1Qj5jQch0AQiLw7y0tFqw9"
+      },
+      "artists": [
+        {
+          "name": "Abi",
+          "url": "https://open.spotify.com/artist/6H1YO0K9D0kNWvLoib4CRL"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Scuze",
+      "url": "https://open.spotify.com/track/583AYmenirznUyoY2xcFqI"
+    },
+    {
+      "album": {
         "name": "Ap\u0103 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0W1bmifq59fFf75BBeTv8B"
       },
@@ -37086,7 +37104,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -39426,7 +39444,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 187959,
       "name": "Vin Sa Te Fur",
       "url": "https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev"

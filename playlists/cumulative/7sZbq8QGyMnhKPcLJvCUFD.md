@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-698 songs - 1 day 11 hr 22 min
+699 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Get Out Here](https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Get Out Here](https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3) | 4:04 | 2023-01-17 | 2023-04-28 |
 | [Getaway](https://open.spotify.com/track/4ButHfrRRn5shAJaMbMJq7) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [14/02](https://open.spotify.com/album/49L9LPfiRFp334a9If9igo) | 4:02 | 2023-12-13 | 2024-02-24 |
 | [Getting Down](https://open.spotify.com/track/608wqrJWweil3OXw7XkOSI) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Getting Down](https://open.spotify.com/album/3cUzMivw6aQchGXpPijqPI) | 2:20 | 2023-07-26 | 2023-08-10 |
+| [Ghost In The Wall](https://open.spotify.com/track/5pHfVokEQi99RAUGiazHj0) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Gaash](https://open.spotify.com/artist/6GB2Qfxc1dqkStjzIdJtg2) | [Ghost In The Wall](https://open.spotify.com/album/3wvgkQafH7J6Ekb5uMg786) | 3:23 | 2025-05-01 |  |
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 | 2023-04-28 |
 | [Gimme](https://open.spotify.com/track/3tSDzr4I0uDaf8jHhq1mCN) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Gimme](https://open.spotify.com/album/2T4mX78WqynJQEvGq8SzrH) | 2:28 | 2025-01-03 |  |
 | [Give It To Me](https://open.spotify.com/track/5J5lXkB6oycwehvBJBmaUc) | [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Give It To Me](https://open.spotify.com/album/4ZF80hXHTGvFwFDa9wyOIL) | 2:46 | 2023-03-17 | 2023-08-10 |

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Kuban e Livio Cori in cover della playlist dell'R&B italiano 🎧
+> Ramè in cover della playlist dell'R&B italiano 🎧
 
-769 songs - 1 day 14 hr 4 min
+771 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [2:40](https://open.spotify.com/track/0JOAjuhDPk0u1P8GJft3u8) | [Luce](https://open.spotify.com/artist/1LCrJYFi9nd4zXHfQVs2oc) | [2:40](https://open.spotify.com/album/59G6TO5E38ZQfbAkl18AC5) | 2:46 | 2022-12-08 | 2023-02-03 |
 | [2GIUBBOTTI](https://open.spotify.com/track/6HO1CuO8U2KdjSV9kjfy6H) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9), [Gioac](https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD) | [2GIUBBOTTI](https://open.spotify.com/album/7A7zKKC9fFLinXeqqmwRMU) | 2:56 | 2025-04-24 |  |
 | [2Night](https://open.spotify.com/track/3xk0uV3HHtiLyEiiISQ62y) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Brenno Itani](https://open.spotify.com/artist/5wuoVcFaBcrTa4UiaBGRPz) | [2Night](https://open.spotify.com/album/2keFENtUXWCZFTzslqVpAd) | 2:31 | 2022-11-10 | 2023-03-10 |
+| [4am](https://open.spotify.com/track/3Y7Fra3fh0Op1iXczvt90v) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [4am](https://open.spotify.com/album/1Y8IrwrpzR5y7UNayDWfFW) | 3:01 | 2025-05-01 |  |
 | [5 minuti](https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S) | [Martina Vinci](https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t) | [5 minuti](https://open.spotify.com/album/2CMm0Vu0J4Y0ls5Yfn7lbP) | 2:12 | 2023-06-01 | 2023-07-21 |
 | [6%](https://open.spotify.com/track/5MRI3BGhqnb00pRLiVPGS6) | [LUCE](https://open.spotify.com/artist/2HEF24Jhvzl9XQiFQJNLqn) | [6%](https://open.spotify.com/album/6X1zydcBY3rnisOJ0B9JVF) | 2:53 | 2024-09-26 | 2024-12-13 |
 | [6MILABACI](https://open.spotify.com/track/3mqbhUtJZfgHKqfILez7BH) | [Alessandro Cabrera](https://open.spotify.com/artist/07sqjMSwJvfyYDkLhd7R3x) | [6MILABACI](https://open.spotify.com/album/0VLPnw4d1h5uRORvsdjfSy) | 2:53 | 2024-01-11 | 2024-02-02 |
@@ -233,7 +234,7 @@
 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 | 2024-11-13 | 2025-01-24 |
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 | 2022-07-29 |
 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-14 | 2022-09-30 |
-| [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 | 2024-11-21 |  |
+| [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 | 2024-11-21 | 2025-05-02 |
 | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-17 | 2023-01-27 |
 | [Fiducia](https://open.spotify.com/track/4eI6sXa9RT0qHR3vpEWXxZ) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:38 | 2022-09-01 | 2023-01-20 |
 | [Filler](https://open.spotify.com/track/28sjhHSjF7flFtpG5nkQRj) | [RAFFAELLI](https://open.spotify.com/artist/2I3PBscT1ZzrreQykk2A7R) | [Filler](https://open.spotify.com/album/4Yoj6Ja54TJYnNbFxMPdX2) | 3:10 | 2024-01-25 | 2024-04-05 |
@@ -481,6 +482,7 @@
 | [Non ti voglio più](https://open.spotify.com/track/4K6PHaCXQF3hFxFVnc4dAc) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Long Story Short](https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL) | 2:58 | 2024-06-06 | 2024-06-14 |
 | [Non vuoi perdere mai](https://open.spotify.com/track/1ltRsqo1JQV4qcVLPYkgXL) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u) | 4:02 | 2023-11-16 | 2024-01-14 |
 | [Non vuoi perdere mai](https://open.spotify.com/track/2HVP0TxbpkLkLHVTom1X9h) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 4:02 | 2024-01-11 | 2024-01-19 |
+| [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 | 2025-05-01 |  |
 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 | 2024-11-21 |  |
 | [Not Here to Please](https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Not Here to Please](https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl) | 2:28 | 2023-06-08 | 2023-08-04 |
 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 | 2022-09-01 | 2024-03-22 |
@@ -498,7 +500,7 @@
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 | 2023-01-27 |
 | [Odense](https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO) | [VITTORIA](https://open.spotify.com/artist/2UhLqY4Vmo4gIYGsJ8q3TF) | [Presente Indicativo](https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF) | 2:53 | 2022-05-19 | 2022-08-26 |
 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 | 2022-06-16 | 2023-01-20 |
-| [OEOE \(Appress' a te\)](https://open.spotify.com/track/12FxcsybNaGwUkmEHbNdfL) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [OEOE \(Appress' a te\)](https://open.spotify.com/album/4FtG5TddXhOAmYH5FAfcRP) | 2:16 | 2024-10-10 |  |
+| [OEOE \(Appress' a te\)](https://open.spotify.com/track/12FxcsybNaGwUkmEHbNdfL) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [OEOE \(Appress' a te\)](https://open.spotify.com/album/4FtG5TddXhOAmYH5FAfcRP) | 2:16 | 2024-10-10 | 2025-05-02 |
 | [Offline](https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX) | [Jay Evans](https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy) | [Offline](https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC) | 2:03 | 2024-06-27 | 2024-09-27 |
 | [OH ISSA](https://open.spotify.com/track/0KRqur6aXoZ1wiHfQLDA2R) | [BRUNO](https://open.spotify.com/artist/5Icdq7Mr1Qu1QkNCPxT9X9) | [OH ISSA](https://open.spotify.com/album/69q4FvkXFtkO9eFCDciy2E) | 2:47 | 2025-02-06 |  |
 | [oh, marianne](https://open.spotify.com/track/6iIuBnXM5Cxl2WpJWdte1Y) | [fil](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [oh, marianne](https://open.spotify.com/album/5YyRxbhxZeNjphn74FNkn1) | 2:51 | 2024-12-19 |  |

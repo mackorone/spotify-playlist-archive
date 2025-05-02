@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Emma Heesters",
+  "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Tauran",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -2247,6 +2247,32 @@
     },
     {
       "album": {
+        "name": "Beneden",
+        "url": "https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135325,
+      "name": "Beneden",
+      "url": "https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue"
+    },
+    {
+      "album": {
         "name": "Bennie",
         "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
       },
@@ -4244,6 +4270,24 @@
       "duration_ms": 207934,
       "name": "Dit Moet Verliefd Zijn",
       "url": "https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b"
+    },
+    {
+      "album": {
+        "name": "Dochters",
+        "url": "https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143665,
+      "name": "Dochters",
+      "url": "https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl"
     },
     {
       "album": {
@@ -6645,6 +6689,24 @@
     },
     {
       "album": {
+        "name": "Hoe Zit Het Met Ons?",
+        "url": "https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Hoe Zit Het Met Ons?",
+      "url": "https://open.spotify.com/track/1rN5JHM21poaueaK01se6P"
+    },
+    {
+      "album": {
         "name": "Hoe Zou Het Zijn",
         "url": "https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN"
       },
@@ -6660,6 +6722,24 @@
       "duration_ms": 140368,
       "name": "Hoe Zou Het Zijn",
       "url": "https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt"
+    },
+    {
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "album": {
@@ -7202,7 +7282,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 139415,
       "name": "Idioot",
       "url": "https://open.spotify.com/track/7EtZ5dueTkf7KwTOeexNkO"
@@ -15780,7 +15860,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"

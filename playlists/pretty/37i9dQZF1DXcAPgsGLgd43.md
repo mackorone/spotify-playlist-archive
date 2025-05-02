@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,074 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,252 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 95 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 |
 | 96 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 97 | [Toca Me Ft\. Michelle Marrero](https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [OBRIGADO](https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB) | 3:21 |
-| 98 | [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 |
+| 98 | [Subala Y Bajo](https://open.spotify.com/track/3WZKhEwTQG6rh698gUPJI0) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Johnnie Ernest](https://open.spotify.com/artist/0vOLy5xwqdnViGxCIVs0J8), [JEEN SEIGO](https://open.spotify.com/artist/22WxLwTHDlHFTtNzwhjWp7) | [Subala Y Bajo](https://open.spotify.com/album/6YgXs4pIId28YE63yHWzCD) | 2:23 |
 | 99 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 |
 | 100 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
 

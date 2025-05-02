@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,980 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,984 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

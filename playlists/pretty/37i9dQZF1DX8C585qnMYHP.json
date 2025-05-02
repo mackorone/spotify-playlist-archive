@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 186839,
+  "num_followers": 186875,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
+        "name": "punk cake",
+        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "14 Rue d'Abbeville",
+      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
         "name": "The Turning Ground",
         "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 205485,
       "name": "OH WAH (feat. NATURE)",
       "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "14 Rue d'Abbeville",
-      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -619,8 +619,8 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+        "name": "Ancient DNA",
+        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+      "duration_ms": 163097,
+      "name": "Ancient DNA",
+      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -663,6 +663,22 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -703,22 +719,6 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "Walks",
-        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "New Brighton",
-      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -735,8 +735,8 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "Ancient DNA",
-        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 163097,
-      "name": "Ancient DNA",
-      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -783,22 +783,6 @@
       "duration_ms": 104000,
       "name": "Hornworm Metamorphosis",
       "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -879,6 +863,22 @@
       "duration_ms": 157623,
       "name": "part of u",
       "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1031,34 +1031,18 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "Oasi Estesa",
-        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+        "name": "Too Close to Call",
+        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
       "artists": [
         {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
         }
       ],
-      "duration_ms": 272137,
-      "name": "GITA IN TRAM",
-      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+      "duration_ms": 278630,
+      "name": "Too Close to Call",
+      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "Too Close to Call",
-        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 278630,
-      "name": "Too Close to Call",
-      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
+        "name": "Oasi Estesa",
+        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 272137,
+      "name": "GITA IN TRAM",
+      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "The Scrollkeeper",
-        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        }
-      ],
-      "duration_ms": 285738,
-      "name": "The Scrollkeeper",
-      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
         "name": "Hankyu Denshya",
         "url": "https://open.spotify.com/album/71K8CVaYH730CoI4CJrQLy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 226421,
       "name": "Hankyu Denshya",
       "url": "https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
+        "name": "The Scrollkeeper",
+        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        }
+      ],
+      "duration_ms": 285738,
+      "name": "The Scrollkeeper",
+      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
+        "name": "Frog Raag",
+        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
+      },
+      "artists": [
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        },
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "duration_ms": 286550,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
         "name": "Figura",
         "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 389266,
       "name": "EVER",
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "Frog Raag",
-        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
-      },
-      "artists": [
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        },
-        {
-          "name": "Will Epstein",
-          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
-        }
-      ],
-      "duration_ms": 286550,
-      "name": "VI",
-      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-04-30 00:01:18",
       "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
+        "name": "FRAGILE",
+        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "Vera Di Lecce",
+          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
         }
       ],
-      "duration_ms": 159428,
-      "name": "roots",
-      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
+      "duration_ms": 241970,
+      "name": "FRAGILE",
+      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1663,22 +1663,6 @@
       "duration_ms": 245762,
       "name": "y volvieron a transformarse, enfrente de nosotros,",
       "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
-    },
-    {
-      "added_at": "2025-04-30 00:01:18",
-      "album": {
-        "name": "FRAGILE",
-        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
-      },
-      "artists": [
-        {
-          "name": "Vera Di Lecce",
-          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "FRAGILE",
-      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
     },
     {
       "added_at": "2025-04-30 00:01:18",
@@ -1703,6 +1687,22 @@
       "duration_ms": 211500,
       "name": "R\u00f8j\u00f8 Latid\u00f8",
       "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
+    },
+    {
+      "added_at": "2025-04-30 00:01:18",
+      "album": {
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
     },
     {
       "added_at": "2025-04-30 00:01:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,229 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,298 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 35 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 36 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
 | 37 | [Country in the Clouds](https://open.spotify.com/track/7FjO69pOVGMhZMEeMsPWkT) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Country in the Clouds](https://open.spotify.com/album/7K8zK354V2zjKIfNqcjOdT) | 3:36 |
-| 38 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
+| 38 | [Roar of the Lion \(The Lion's Pit\)](https://open.spotify.com/track/6xX6NoYPtEgDWA95cIqUK8) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Black Samson, the Bastard Swordsman](https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3) | 4:09 |
 | 39 | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p) | 2:40 |
 | 40 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
 
-Snapshot ID: `aBAMWAAAAABmia+8QFUCpEHsXtJBeyyd`
+Snapshot ID: `AAAAAD0DQ/9kYOki3JikRv+FwhJKK7aB`

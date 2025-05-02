@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-321 songs - 17 hr 27 min
+322 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Sajani 2.0](https://open.spotify.com/track/7r5ryshz3wG76wHart2oOM) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG), [Ben Parag](https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe) | [Sajani 2.0](https://open.spotify.com/album/4GJKgezLpvjx5zLs8hbe9G) | 4:47 | 2021-11-11 | 2022-07-19 |
 | [Sajna](https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Sajna](https://open.spotify.com/album/4TjqdNmCG0IEbNKVfbxTBV) | 3:44 | 2025-01-22 | 2025-03-19 |
 | [Sandhu Takeover](https://open.spotify.com/track/0eNFwDKwJzv4KRbVbBHtBJ) | [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [Sandhu Takeover](https://open.spotify.com/album/5JujoFNucZl96MmktFP7sc) | 3:25 | 2021-11-11 | 2022-07-19 |
+| [Sanu Ek Pal](https://open.spotify.com/track/1WkCKxdIsWlB4CxBN31Zrx) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [Sanu Ek Pal](https://open.spotify.com/album/6xgH9jA22Aw5MTdcgGfAD6) | 6:34 | 2025-05-02 |  |
 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 | 2025-04-18 |  |
 | [Screwing It Up](https://open.spotify.com/track/0UhSaRMPaCgF9PcUHJ2Lon) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Screwing It Up](https://open.spotify.com/album/4HehEGM5FLDlbFIJRYjHYG) | 3:19 | 2021-11-11 | 2022-07-19 |
 | [Secret \(feat\. Vince Staples\)](https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:22 | 2022-07-18 | 2024-02-23 |

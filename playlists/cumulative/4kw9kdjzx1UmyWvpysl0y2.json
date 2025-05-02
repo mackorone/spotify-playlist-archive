@@ -6313,6 +6313,32 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97"
+    },
+    {
+      "album": {
         "name": "Follow The Princess",
         "url": "https://open.spotify.com/album/2LxCos1KHu0QscEpxALzEm"
       },

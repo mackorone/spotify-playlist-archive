@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,339 songs - 11 day 13 hr 57 min
+7,340 songs - 11 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3832,7 +3832,7 @@
 | [Machines](https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Machines](https://open.spotify.com/album/585g5BfKMv4XNcBYbSukzD) | 2:00 | 2023-10-13 | 2025-04-12 |
 | [Mad Hatters](https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [Mad Hatters](https://open.spotify.com/album/3GFII7Mju4dJPaMhEGvTFi) | 2:18 | 2022-12-09 | 2024-04-27 |
 | [Made For This](https://open.spotify.com/track/6XyflmtiDVAlaEkrTJCMLE) | [Hand Made](https://open.spotify.com/artist/5sWOIwfXsjzxjU31XYCsmU) | [Made For This](https://open.spotify.com/album/3MiifWyhE5ImnvyAEuwGgl) | 2:02 | 2022-02-25 | 2022-09-30 |
-| [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-01-26 |  |
+| [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-01-26 | 2025-05-02 |
 | [Mages Sages \- Instrumental](https://open.spotify.com/track/5HnYzkqcv0B5nt9Kc5tmOZ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Mages Sages](https://open.spotify.com/album/30Paxf6YPOmz00ssJpKqtz) | 2:16 | 2021-10-26 | 2022-05-27 |
 | [Magic Animal](https://open.spotify.com/track/27ba4wpnwoZ40XSIYAfXMd) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Black Rose](https://open.spotify.com/album/56lnsrJ7Sjmoxg3UfEOGr5) | 2:14 | 2021-10-20 | 2022-04-15 |
 | [Magic Ears](https://open.spotify.com/track/01zns8ZvqSLL3gDvDiagZD) | [Tissi](https://open.spotify.com/artist/0CclfuKlauSteXglcwfyE6) | [Blueland](https://open.spotify.com/album/5wrD53vmzE4Np6UCTgBybm) | 2:00 | 2020-10-28 | 2021-10-20 |
@@ -5848,7 +5848,7 @@
 | [Sonora](https://open.spotify.com/track/3lXvhEIHd3tmlj9q8LMYZn) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Sonora](https://open.spotify.com/album/78CC6Sn8J6k6UaPU1YRtnx) | 1:57 | 2023-09-22 | 2023-11-11 |
 | [Sonria](https://open.spotify.com/track/6fzn8DEoLQ4yS8EWscKWh2) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Sonria](https://open.spotify.com/album/1A2ipy6ToGRmL7IxLAQzVj) | 1:56 | 2022-07-29 | 2022-11-11 |
 | [Soothing](https://open.spotify.com/track/7l8s5ZpeGf4U7IHt26NnJl) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Soothing](https://open.spotify.com/album/57U5FHh6q9JGbKzooBXkDG) | 2:18 | 2023-03-30 | 2023-09-30 |
-| [Soothing Raindrops](https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu) | [ლBird](https://open.spotify.com/artist/0VIOp3E6HQqkg2KgTWTRUW), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Soothing Raindrops](https://open.spotify.com/album/2HMlSnxE2OD3s3Ssqa3w1t) | 2:38 | 2024-01-19 |  |
+| [Soothing Raindrops](https://open.spotify.com/track/3xG8uvGqlHKrUsAXpQ8wuu) | [ლBird](https://open.spotify.com/artist/0VIOp3E6HQqkg2KgTWTRUW), [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Soothing Raindrops](https://open.spotify.com/album/2HMlSnxE2OD3s3Ssqa3w1t) | 2:38 | 2024-01-19 | 2025-05-02 |
 | [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-04-27 | 2023-12-15 |
 | [Soothing Soul](https://open.spotify.com/track/3eMevS3j71zgG6dBcIuRjh) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Soothing Soul](https://open.spotify.com/album/4htr7KOlw6sWY3iXWwDfjn) | 2:45 | 2022-06-24 | 2022-10-14 |
 | [Soothing star](https://open.spotify.com/track/1gKBkhM4UkG2aVaOlP7r2m) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV), [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL) | [Soothing star](https://open.spotify.com/album/72hF6k6r7vqt8kJRwL5nyL) | 2:23 | 2022-12-23 | 2023-04-21 |
@@ -6513,6 +6513,7 @@
 | [Through Fire](https://open.spotify.com/track/0iqxnHrMDQd1OR0UDj79Oe) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Of Aether](https://open.spotify.com/album/0jkpnvCOk9hm5yCvGzw4YD) | 1:46 | 2024-02-16 |  |
 | [Through It](https://open.spotify.com/track/5RrjaEFujN43RbcIZlDD4s) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Through It](https://open.spotify.com/album/3NlX5CP3ZpxRFl1Xd9HUrU) | 1:50 | 2023-02-27 | 2023-12-15 |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2021-11-05 | 2022-06-24 |
+| [through the forest](https://open.spotify.com/track/2e5CpiEoX9qgr79aaUWfi2) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [through the forest](https://open.spotify.com/album/35QZyYsNBG72OHy6bt88Y6) | 1:46 | 2025-04-25 |  |
 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 | 2023-12-08 |  |
 | [Through The Horizons](https://open.spotify.com/track/0nermprVtm8B7tOeLy2yXz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Through The Horizons](https://open.spotify.com/album/0Hbnfj872J8kOiBV2CT738) | 1:30 | 2025-01-10 |  |
 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 | 2023-09-29 | 2024-03-08 |
@@ -6914,7 +6915,7 @@
 | [vwls](https://open.spotify.com/track/398cP4rSn4eVP9l3QUiVzT) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [vwls](https://open.spotify.com/album/54r00HScSMFARkYWbmUo7B) | 1:57 | 2022-11-18 | 2022-12-09 |
 | [Wabi\-Sabi](https://open.spotify.com/track/7trP1mJ6Qa9QhOSIkrZoZj) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Wabi\-Sabi](https://open.spotify.com/album/1UN5o3hzkqukFkDOvQlxU6) | 1:50 | 2022-07-08 | 2022-10-21 |
 | [Wabisabi](https://open.spotify.com/track/0lamftmKETSz8pYbyJzD3j) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Japanese Tradition](https://open.spotify.com/album/5Hm3EruxbDAe1Bdd8m36eW) | 1:42 | 2021-10-02 | 2022-04-08 |
-| [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 | 2023-12-01 | 2025-03-29 |
+| [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 | 2023-12-01 |  |
 | [Wafts of Mist](https://open.spotify.com/track/01ETR7roUHOVQM0ybKQFfO) | [Fade Boggz](https://open.spotify.com/artist/540xW8Zj0jKsxRi39virc5) | [Wafts of Mist](https://open.spotify.com/album/5JlHS1edJDy9LOa3siyN0u) | 1:41 | 2023-10-06 | 2023-11-11 |
 | [Wait For Me](https://open.spotify.com/track/4EpmWI9Bjt0va9TNzbmo3K) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Wait For Me](https://open.spotify.com/album/7HLPaD0m5PkJq5wi30BRDs) | 2:37 | 2021-07-11 | 2022-03-12 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 | 2025-04-05 |

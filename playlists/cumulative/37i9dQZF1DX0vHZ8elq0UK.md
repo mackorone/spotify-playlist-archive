@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0vHZ8elq0UK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0vHZ8elq0UK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0vHZ8elq0UK)
 
-### [Energy Booster: Pop](https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK)
+### [Impulso de energía: pop](https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK)
 
-> Need to get your energy level up?
+> ¿Necesitas aumentar tus niveles de energía?
 
 349 songs - 20 hr 1 min
 

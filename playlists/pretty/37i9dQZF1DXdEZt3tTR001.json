@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 197351,
+  "num_followers": 197443,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "My Thoughts",
         "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 268515,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "Spark Of Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 429120,
       "name": "'Cause I Love You",
       "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -1375,18 +1375,38 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Jeans (fall on my knees)",
-        "url": "https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g"
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
       "artists": [
         {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
         }
       ],
-      "duration_ms": 178479,
-      "name": "Jeans (fall on my knees)",
-      "url": "https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g"
+      "duration_ms": 179226,
+      "name": "Sleepless Nights (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
     }
   ],
   "unique_name": "floating",

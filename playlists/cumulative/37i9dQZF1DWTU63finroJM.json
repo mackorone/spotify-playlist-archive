@@ -10641,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV"
+    },
+    {
+      "album": {
         "name": "formula",
         "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
       },
@@ -18703,6 +18721,24 @@
     },
     {
       "album": {
+        "name": "MANZANA",
+        "url": "https://open.spotify.com/album/6A3D49y6i0GnIGShUm5oUC"
+      },
+      "artists": [
+        {
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128949,
+      "name": "MANZANA",
+      "url": "https://open.spotify.com/track/4omg9ZG0HsLPcIRCTej50K"
+    },
+    {
+      "album": {
         "name": "MAPA",
         "url": "https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq"
       },
@@ -25044,7 +25080,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 156711,
       "name": "Raya Pop Pop",
       "url": "https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC"
@@ -27654,7 +27690,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 206903,
       "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f",
       "url": "https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q"

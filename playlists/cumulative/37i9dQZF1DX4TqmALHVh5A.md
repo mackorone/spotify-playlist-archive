@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Camille Yembe
+> La scène francophone branchée sur courant alternatif\. Photo : Sam Sauvage
 
-289 songs - 15 hr 33 min
+290 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Resto Basket](https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Resto Basket](https://open.spotify.com/album/6Tg1oD0Qo1hmVytzqvd96i) | 2:58 | 2023-11-23 | 2024-06-14 |
 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 | 2024-03-28 | 2024-10-18 |
 | [Rien ne m'attend](https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9) | [Rien ne m'attend](https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn) | 3:20 | 2024-05-30 | 2025-01-24 |
-| [Ring Ring](https://open.spotify.com/track/7j3EV0nEZTEAd01BBv56XU) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ), [Lulu Van Trapp](https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ), [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1), [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Ring Ring](https://open.spotify.com/album/6b8tet4RtcjxGDU4Vc8tnD) | 2:32 | 2024-12-05 |  |
+| [Ring Ring](https://open.spotify.com/track/7j3EV0nEZTEAd01BBv56XU) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ), [Lulu Van Trapp](https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ), [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1), [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Ring Ring](https://open.spotify.com/album/6b8tet4RtcjxGDU4Vc8tnD) | 2:32 | 2024-12-05 | 2025-05-02 |
 | [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 | 2024-10-04 |
 | [Rocket](https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/5Uuu85yxP9yb8EU310hfUW) | 3:44 | 2024-10-24 | 2025-03-14 |
 | [Rupture](https://open.spotify.com/track/4259dOSNSYPUdCr2xc7Z1I) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Rupture](https://open.spotify.com/album/5iVTpAPuVs7ge7EkDkitIP) | 4:42 | 2024-11-21 | 2025-04-18 |
@@ -271,6 +271,7 @@
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
+| [Tu le sais](https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Tu le sais](https://open.spotify.com/album/38sEcWTeJxsmx05A88Mf0v) | 3:05 | 2025-05-01 |  |
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 | 2024-06-28 |
 | [tue moi](https://open.spotify.com/track/27KaAt4Iwwd8xhxfquYb68) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [tue moi](https://open.spotify.com/album/1YsLRmysP3u2kWbXqpzbN5) | 3:22 | 2025-02-06 | 2025-04-11 |
 | [Turbofée](https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Éclipse](https://open.spotify.com/album/4pPRjgXmc6LuO7hR2fikA9) | 3:48 | 2025-01-23 |  |

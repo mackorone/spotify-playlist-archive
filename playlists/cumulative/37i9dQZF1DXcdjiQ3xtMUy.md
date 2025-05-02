@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Marina Satti
 
-150 songs - 7 hr 47 min
+151 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,11 +35,12 @@
 | [Atardecer](https://open.spotify.com/track/4GZ6FSoaspTz5p1XLHPOtS) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Gipsy Kings by André Reyes](https://open.spotify.com/artist/3TX8lGX5k6XsxFCjwPxzr3) | [Atardecer](https://open.spotify.com/album/0T1cGKB93cc3Szgd4EayXG) | 4:56 | 2025-04-10 |  |
 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 | 2024-10-24 |  |
 | [Balkan Christmas](https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O) | [Balkan Christmas](https://open.spotify.com/album/1D4vh45eZNrWnOBhLXJq4O) | 2:24 | 2024-12-19 | 2025-01-31 |
+| [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-05-01 |  |
 | [Bomba](https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Bomba](https://open.spotify.com/album/1qZvff3aZbd2zw9RscdR45) | 2:26 | 2024-11-07 | 2025-02-21 |
 | [Boro Ki Ego](https://open.spotify.com/track/4mo8SrFr4TmwTrj76DTwIA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Boro Ki Ego](https://open.spotify.com/album/2hKXyjSxMtoobIWn0w88wJ) | 3:13 | 2025-02-06 |  |
 | [Bournazi](https://open.spotify.com/track/5IRAu9axePDXXKWsDiDm1K) | [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Bournazi](https://open.spotify.com/album/0I9Dcc5tobZ3fxIYJnS3PZ) | 3:09 | 2024-11-21 |  |
 | [Burnout](https://open.spotify.com/track/0cM8ON4hpz4SqPLPjGJ9o5) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Burnout](https://open.spotify.com/album/4208aedWBttdB3pFYKlPHm) | 3:08 | 2025-04-10 |  |
-| [BYE BYE](https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:39 | 2025-04-24 |  |
+| [BYE BYE](https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:39 | 2025-04-24 | 2025-05-02 |
 | [CHROME HEARTS](https://open.spotify.com/track/1oWFxZvPHlcRPnmqNgQicd) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [CHROME HEARTS](https://open.spotify.com/album/1fvIlgcPDPQ0SLhMiOBzU9) | 3:25 | 2025-03-13 |  |
 | [COSMOS](https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [STATUS 2](https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc) | 2:27 | 2025-04-10 |  |
 | [Dame Fuego](https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Dame Fuego](https://open.spotify.com/album/2kiAmoZTGNPOWW57lR7ovY) | 3:00 | 2024-07-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Kelly \u9673\u6167\u7433",
+  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: AmyLo",
   "name": "\u6700\u611b\u5973\u8072",
   "tracks": [
     {
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 207428,
       "name": "make a move (feat. CHANKA)",
       "url": "https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh"
@@ -2330,6 +2330,24 @@
       "duration_ms": 190909,
       "name": "Rain Rain\u5730",
       "url": "https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172690,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1"
     },
     {
       "album": {
@@ -5641,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u60c5\u88e1\u7684\u5c0f\u4eba\u7269",
+        "url": "https://open.spotify.com/album/483BS8XRERNcWFsM2J2eho"
+      },
+      "artists": [
+        {
+          "name": "Apple \u51cc\u96ea\u6021",
+          "url": "https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188928,
+      "name": "\u611b\u60c5\u88e1\u7684\u5c0f\u4eba\u7269",
+      "url": "https://open.spotify.com/track/0K5mHUivigCbDScoL4PB4o"
+    },
+    {
+      "album": {
         "name": "\u611b\u83ab\u80fd\u52a9 sorry i can't help (q_q)",
         "url": "https://open.spotify.com/album/7oGDvrHwXMfpS1wrShn8r8"
       },
@@ -5692,6 +5728,24 @@
       "duration_ms": 257525,
       "name": "\u611f\u61c9",
       "url": "https://open.spotify.com/track/5JHcpKOc9zpZTWlpdaZKvo"
+    },
+    {
+      "album": {
+        "name": "\u611f\u6fc0\u8ddf\u4f60\u80fd\u5920\u9047\u898b",
+        "url": "https://open.spotify.com/album/22aedbMz4RbOlIMkiL6CEH"
+      },
+      "artists": [
+        {
+          "name": "Jinny Ng",
+          "url": "https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206976,
+      "name": "\u611f\u6fc0\u8ddf\u4f60\u80fd\u5920\u9047\u898b",
+      "url": "https://open.spotify.com/track/7aqFNwwxBn9Jl1bMgzIXQB"
     },
     {
       "album": {
@@ -6786,7 +6840,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 247928,
       "name": "\u6afb\u6885\u6843\u674e",
       "url": "https://open.spotify.com/track/1LsVoRZU6ZUYncBSELF1PN"
@@ -6826,6 +6880,24 @@
       "duration_ms": 220454,
       "name": "\u6b65\u5175\u8a18",
       "url": "https://open.spotify.com/track/2mqi3gtlTn6VVMobVDIPYd"
+    },
+    {
+      "album": {
+        "name": "\u6b7b\u4ea1\u82ad\u6bd4\u7c89",
+        "url": "https://open.spotify.com/album/2jWevYUjqbPgdx0ZONAkId"
+      },
+      "artists": [
+        {
+          "name": "CHOR \u937e\u695a\u7ff9",
+          "url": "https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205432,
+      "name": "\u6b7b\u4ea1\u82ad\u6bd4\u7c89",
+      "url": "https://open.spotify.com/track/0nz0QsDNlOIbvxJZEdqh6I"
     },
     {
       "album": {
@@ -6898,6 +6970,24 @@
       "duration_ms": 264812,
       "name": "\u6bd4\u8d64\u88f8\u66f4\u8d64\u88f8",
       "url": "https://open.spotify.com/track/5zRjOfsVdMw3enQKULyYhU"
+    },
+    {
+      "album": {
+        "name": "\u6c34\u4e4b\u5f62",
+        "url": "https://open.spotify.com/album/2OrcCAtIHgxEKmPKk3Hjaz"
+      },
+      "artists": [
+        {
+          "name": "\u4f55\u4f69",
+          "url": "https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198068,
+      "name": "\u6c34\u4e4b\u5f62",
+      "url": "https://open.spotify.com/track/3FwlXmSh2J0QJXLEZmeNjQ"
     },
     {
       "album": {
@@ -7333,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "\u719f\u6089\u7684\u4f60 (\u5287\u96c6\u300a\u865b\u64ec\u60c5\u4eba\u300b\u4e3b\u984c\u66f2\uff09",
+        "url": "https://open.spotify.com/album/2Z8ZHJuojUG6Rh5OJ5deCL"
+      },
+      "artists": [
+        {
+          "name": "Kayee Tam",
+          "url": "https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "\u719f\u6089\u7684\u4f60 (\u5287\u96c6\u300a\u865b\u64ec\u60c5\u4eba\u300b\u4e3b\u984c\u66f2\uff09",
+      "url": "https://open.spotify.com/track/0aFrkJWUY9dNlyQ42fV660"
+    },
+    {
+      "album": {
         "name": "\u7269\u7121\u985e\u805a",
         "url": "https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU"
       },
@@ -7474,6 +7582,24 @@
       "duration_ms": 168645,
       "name": "\u75f4\u6839\u9435\u7c89",
       "url": "https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F"
+    },
+    {
+      "album": {
+        "name": "\u767d\u591c\u884c",
+        "url": "https://open.spotify.com/album/7xma6rcCZa9zjp98JKkthT"
+      },
+      "artists": [
+        {
+          "name": "Gin Lee",
+          "url": "https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249863,
+      "name": "\u767d\u591c\u884c",
+      "url": "https://open.spotify.com/track/1zBbE6deJPlPmZ1A0hCUvV"
     },
     {
       "album": {

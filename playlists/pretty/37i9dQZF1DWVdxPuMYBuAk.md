@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,868 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,934 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
 | 2 | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/track/6j7x60LgykoSpz9jJleuSb) | [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS), [PENIEL](https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4) | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/album/7hjK7rJh2qdkIYaTi7USNg) | 1:58 |
 | 3 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
-| 4 | [I DO](https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O) | 3:10 |
+| 4 | [I DO](https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O) | 3:10 |
 | 5 | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/track/5eRHUqFh42n2udXatalFuy) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Juicelover](https://open.spotify.com/artist/25zt0fnFASic9db8SoGnFL) | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/album/47BWmB2pJt774yrb0cdPK7) | 3:38 |
 | 6 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
 | 7 | [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 66 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
 | 67 | [Time Machine](https://open.spotify.com/track/0zLCjlOOY10dhxYAR347wd) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:25 |
 | 68 | [BEST SHOT](https://open.spotify.com/track/4Q0DVhfGXxUzzywcxcRw32) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#2 : Right for Us](https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf) | 3:16 |
-| 69 | [HANN \(Alone in winter\)](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 2:55 |
+| 69 | [HANN \(Alone in winter\)](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 2:55 |
 | 70 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
 | 71 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:13 |
 | 72 | [Pink Sky Complex](https://open.spotify.com/track/7IdsGTLGAkeLt6kgEdxzc6) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Zuddi](https://open.spotify.com/artist/1jxFm3RtD7AaZ3PnR5ht8M) | [Pink Sky Complex](https://open.spotify.com/album/0rvKh2q2apZo7LF2IHI6jU) | 3:36 |

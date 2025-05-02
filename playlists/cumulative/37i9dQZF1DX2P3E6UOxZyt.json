@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u827e\u871c\u8389 (AMILI)",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: Marz23",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 168125,
       "name": "ASO",
       "url": "https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 217142,
       "name": "EYETOEYE",
       "url": "https://open.spotify.com/track/7Hqd9taEtDrx8HtpIewUwj"
@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/5CAvFbzIFEdW49V6MEGaZR"
+      },
+      "artists": [
+        {
+          "name": "PPlin \u6797\u8283\u9038",
+          "url": "https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/3jI8ym4Z83LnTsP6nSJaFe"
+    },
+    {
+      "album": {
         "name": "Nothing Gold Can Stay",
         "url": "https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki"
       },
@@ -4178,7 +4196,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 181428,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ"
@@ -8320,7 +8338,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 196860,
       "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
       "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
@@ -9208,7 +9226,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 172303,
       "name": "\u64e6\u80a9\u800c\u904e",
       "url": "https://open.spotify.com/track/65a93GneSZMOnFBP6m6DIy"
@@ -9320,7 +9338,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 324545,
       "name": "\u661f\u661f",
       "url": "https://open.spotify.com/track/2rhw8MW6JBkMJlcs1iyOZA"
@@ -11659,6 +11677,24 @@
     },
     {
       "album": {
+        "name": "\u695a\u9580 Dream Sober",
+        "url": "https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo"
+      },
+      "artists": [
+        {
+          "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+          "url": "https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "\u8336\u9910\u5ef3 I\u2019m Okay",
+      "url": "https://open.spotify.com/track/2pDaN9J0WKljunntXaDLkG"
+    },
+    {
+      "album": {
         "name": "\u8336\u9910\u5ef3 I\u2019m Okay",
         "url": "https://open.spotify.com/album/2SmGyOMw5Uw4ZmsbSAmlZH"
       },
@@ -12543,6 +12579,24 @@
     },
     {
       "album": {
+        "name": "\u695a\u9580 Dream Sober",
+        "url": "https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo"
+      },
+      "artists": [
+        {
+          "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+          "url": "https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229487,
+      "name": "\u9084\u662f\u6211\u5df2\u5b78\u58de Good Girl Gone",
+      "url": "https://open.spotify.com/track/5BM7ZHUn11XoawA5kH2gD5"
+    },
+    {
+      "album": {
         "name": "\u300c\u8aaa\u4f60\u611b\u6211\u300d\u7d22\u5c3c30\u7d93\u5178\u7ffb\u5531",
         "url": "https://open.spotify.com/album/4SNLOkMmDgmFhHpZWjWJCr"
       },
@@ -12896,6 +12950,24 @@
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
+    },
+    {
+      "album": {
+        "name": "\u9752\u5c11\u5e74\u89c0\u5bdf\u65e5\u8a18 Secret Diary",
+        "url": "https://open.spotify.com/album/3CgdQNkketnWG6MgZmbU2b"
+      },
+      "artists": [
+        {
+          "name": "\u516c\u9928\u9752\u5c11\u5e74 GGteens",
+          "url": "https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209729,
+      "name": "\u9752\u5c11\u5e74\u89c0\u5bdf\u65e5\u8a18 Secret Diary",
+      "url": "https://open.spotify.com/track/4jzoSWmByFitDsFA9v9OGt"
     },
     {
       "album": {

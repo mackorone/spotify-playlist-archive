@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,057 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,063 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
 | 17 | [キディーボーイ](https://open.spotify.com/track/3lX6GbHiomkQyiuRbelFyo) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [UMANITY](https://open.spotify.com/album/1LFgTfea3yj1Hn8d5Wqiic) | 3:06 |
 | 18 | [曲名はまだないです](https://open.spotify.com/track/4aCPE37Q7R8OsFuwpEm4s6) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [曲名はまだないです](https://open.spotify.com/album/0cZ4gKQONihKOC9UOLtMex) | 2:58 |
-| 19 | [Gose On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 |
+| 19 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 |
 | 20 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 |
 | 21 | [city punk](https://open.spotify.com/track/2XLeQ7tO3c6SqWNZB4Uqu9) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [city punk](https://open.spotify.com/album/4q6dKQ4NrCfTcccrQGQAbR) | 5:08 |
 | 22 | [裸、道すがら](https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [裸、道すがら](https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m) | 2:54 |

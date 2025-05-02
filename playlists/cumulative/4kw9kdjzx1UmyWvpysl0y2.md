@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-972 songs - 2 day 6 hr 50 min
+973 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 | 2022-08-03 |
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 | 2022-06-30 |
 | [Foggy Morning](https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Foggy Morning](https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0) | 4:16 | 2023-03-21 | 2023-06-14 |
+| [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-01 |  |
 | [Follow The Princess](https://open.spotify.com/track/5ZsxH6fMtuPuYRgf5J7bub) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [Follow The Princess](https://open.spotify.com/album/2LxCos1KHu0QscEpxALzEm) | 3:33 | 2023-09-11 | 2024-01-11 |
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 | 2023-05-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |

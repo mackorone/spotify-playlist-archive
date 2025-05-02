@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,181 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,202 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 38 | [DESCONFORTO](https://open.spotify.com/track/0zpFEPoAYy6AhWCMdTvgxO) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [DESCONFORTO](https://open.spotify.com/album/61aImIc7x4qJMqkcOVFITq) | 3:38 |
 | 39 | [Passageiro](https://open.spotify.com/track/3bIwxQiKV8AT6BYUYK241m) | [chamat](https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG), [akdesacato](https://open.spotify.com/artist/4896myaVw90gVS7eTSrjPV), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Sal](https://open.spotify.com/album/2tPghXb8DgUE2GBjWugkxe) | 2:23 |
 | 40 | [Gaudi Apex](https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez) | [Gaudi Apex](https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL) | 2:34 |
-| 41 | [deslumbre](https://open.spotify.com/track/4Gbe4cGlvhmwmitC9z6Lu8) | [Tigas](https://open.spotify.com/artist/3U3asngBl7DgsW883yecC9), [Tiago Cunha Martins](https://open.spotify.com/artist/7vgnaJQN86Vzls6kf14F9f), [Bruno Mosquetto](https://open.spotify.com/artist/0Nb4bIUocoxzinWHEoGZB0) | [deslumbre](https://open.spotify.com/album/1UL0ZVeAUTYIZoIf6hSyw2) | 2:56 |
+| 41 | [deslumbre](https://open.spotify.com/track/4Gbe4cGlvhmwmitC9z6Lu8) | [Tigas](https://open.spotify.com/artist/2f0DX9WMcwdUOB8nYwqGcb), [Tiago Cunha Martins](https://open.spotify.com/artist/7vgnaJQN86Vzls6kf14F9f), [Bruno Mosquetto](https://open.spotify.com/artist/0Nb4bIUocoxzinWHEoGZB0) | [deslumbre](https://open.spotify.com/album/1UL0ZVeAUTYIZoIf6hSyw2) | 2:56 |
 | 42 | [Raciocínio Inteiro](https://open.spotify.com/track/5YiIHRcQibMfZZOKSOXvAF) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Raciocínio Inteiro](https://open.spotify.com/album/6TUdBUTrHj8xabT8fDVzjU) | 4:30 |
 | 43 | [Momentos](https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:23 |
 | 44 | [Sagrado](https://open.spotify.com/track/6cNCBpAOFUAPqZ2PT89Iuu) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Skimn](https://open.spotify.com/artist/1KDMy6PF82No6Tx2VGdFXt) | [Sagrado](https://open.spotify.com/album/29vFt57MdPG6NPWsoZHoNF) | 4:43 |

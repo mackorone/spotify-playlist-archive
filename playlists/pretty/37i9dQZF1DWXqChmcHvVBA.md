@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 Teo LB & L\-Gante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,527 likes - 102 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,589 likes - 102 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Turro Nea](https://open.spotify.com/track/7qz3H6yJ5u2fADTjOh7LiT) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Turro Nea](https://open.spotify.com/album/0w7ZYIY4BZc9Xp5dnsENcA) | 2:58 |
 | 2 | [BANDIDAS RETIRADAS](https://open.spotify.com/track/2kjtg7XGjcCTBVXqwPFuZN) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [BANDIDAS RETIRADAS](https://open.spotify.com/album/7IgDo7yCiC4lgBqIn4LORd) | 2:26 |
-| 3 | [TIKTOK \(feat\. Gusty dj\) \- Remix](https://open.spotify.com/track/6L8ifq5g2RDbjdSYiwOF2q) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TIKTOK \(feat\. Gusty dj\) \[Remix\]](https://open.spotify.com/album/4F8yon7oulloHMYTbVZO0A) | 2:55 |
+| 3 | [TIKTOK \- Remix](https://open.spotify.com/track/6L8ifq5g2RDbjdSYiwOF2q) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TIKTOK \(Remix\)](https://open.spotify.com/album/4F8yon7oulloHMYTbVZO0A) | 2:55 |
 | 4 | [PONTE PERRO \| Mission 22](https://open.spotify.com/track/3IONa7nPD5WXVVfAYs08HK) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| Mission 22](https://open.spotify.com/album/4kFZ9gbcy005CCVRhHpKO4) | 2:24 |
 | 5 | [BOXI TURRITO \- DJ ALEX, EZEQUIEL MATTHYSSE \| E19](https://open.spotify.com/track/3PImFIyzSVtBaD8oZzE4va) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk) | [BOXI TURRITO \- DJ ALEX, EZEQUIEL MATTHYSSE \| E19](https://open.spotify.com/album/48AUHPHQomebe5Is6SLMlZ) | 2:40 |
 | 6 | [Musica Fuerte](https://open.spotify.com/track/29aiCBVeECZCTOPTL2FEVP) | [Montana the Producer](https://open.spotify.com/artist/2mFWbxWrBZ0dTkG5b6NGnZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Musica Fuerte](https://open.spotify.com/album/3mTIjOOtn9A7eLInMPeIKG) | 2:37 |

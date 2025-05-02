@@ -26,7 +26,7 @@
 | [Teenager](https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:59 | 2023-01-06 |  |
 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 | 2023-01-06 |  |
 | [あの恋をなぞれば](https://open.spotify.com/track/74dZqZGRn9zzYn8gFjOPXA) | [ME\-GUMI](https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb) | [LOVE](https://open.spotify.com/album/6d8F9k8dUdECVFIB9eh8Zq) | 3:24 | 2023-01-06 |  |
-| [ディスコって](https://open.spotify.com/track/7sYCSpjzAAZ0IYLnWm4fXj) | [オノシュンスケ](https://open.spotify.com/artist/34aT8iP7JZ4ZPD6UjKpl8m) | [ディスコって c/w ディスコって](https://open.spotify.com/album/0LXB6KxeyvcAKnSueGo2nb) | 4:32 | 2023-01-06 |  |
+| [ディスコって](https://open.spotify.com/track/7sYCSpjzAAZ0IYLnWm4fXj) | [オノシュンスケ](https://open.spotify.com/artist/34aT8iP7JZ4ZPD6UjKpl8m) | [ディスコって c/w ディスコって / オノシュンスケ](https://open.spotify.com/album/0LXB6KxeyvcAKnSueGo2nb) | 4:32 | 2023-01-06 |  |
 | [四面道歌 \- 2019 Remastering](https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:46 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2023-03-29. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: LUSILLON.
+> El futuro ya está aquí\. Foto: Vera GRV.
 
-290 songs - 14 hr 7 min
+292 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 | 2022-07-14 | 2023-05-20 |
 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 | 2022-03-17 | 2022-12-22 |
 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 | 2023-02-07 | 2024-02-07 |
+| [CURA PA MI ALMA](https://open.spotify.com/track/7KBGP8eJ3DItq8q5Vso31F) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [CURA PA MI ALMA](https://open.spotify.com/album/0kOKyTTQ1Q3YAGXxrNO0ri) | 2:28 | 2025-05-01 |  |
 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 | 2025-01-16 | 2025-03-04 |
 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 | 2023-03-01 | 2024-02-07 |
 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 | 2022-06-06 | 2023-02-08 |
@@ -153,6 +154,7 @@
 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 | 2022-11-12 |
 | [LOTUS](https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [akaluigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [LOTUS](https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn) | 2:19 | 2025-01-09 | 2025-03-04 |
 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2022-01-27 | 2022-06-07 |
+| [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 | 2025-05-01 |  |
 | [mala pinta](https://open.spotify.com/track/6Z2peGnKnV0HfDYDcmnTDH) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [mala pinta](https://open.spotify.com/album/0faycCgPgBxPx6Yf4KYYWc) | 3:02 | 2022-02-03 | 2022-07-15 |
 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 | 2024-02-06 | 2025-03-04 |
 | [Malos Hábitos](https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Malos Hábitos](https://open.spotify.com/album/19EWEllS3yQpo8CM5Cxuqr) | 3:12 | 2022-02-28 | 2022-10-28 |

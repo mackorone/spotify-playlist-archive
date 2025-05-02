@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "N\u1ed7i Bu\u1ed3n Hoa Ph\u01b0\u1ee3ng - T\u00ecnh Kh\u00fac Thanh S\u01a1n",
+        "url": "https://open.spotify.com/album/6o13lLHOOyBCGRlNQbHXHb"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e1i Ch\u00e2u",
+          "url": "https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM"
+        },
+        {
+          "name": "S\u01a1n Ca",
+          "url": "https://open.spotify.com/artist/4GAXVGD4GV2fX8xVnSHgea"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "B\u00e0i Ng\u1ee3i Ca Qu\u00ea H\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/7JR6CUPNRIYh686NZ2dTP5"
+    },
+    {
+      "album": {
         "name": "\u00c1o M\u1edbi C\u00e0 Mau",
         "url": "https://open.spotify.com/album/26Lhw1w3HQd9IBgmlo2woX"
       },
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 254186,
       "name": "Kh\u00fac h\u00e1t \u00e2n t\u00ecnh",
       "url": "https://open.spotify.com/track/2cBQPygQQosACNMTmQPBJk"
@@ -2275,6 +2297,28 @@
     },
     {
       "album": {
+        "name": "S\u00f4ng Qu\u00ea",
+        "url": "https://open.spotify.com/album/0aAmm2AzGxpE0U7g4FrisL"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/18oNFXinaI1EiGnhYO5BZd"
+        },
+        {
+          "name": "Hu\u1ef3nh Th\u1eadt",
+          "url": "https://open.spotify.com/artist/2E7mwvUFOVcLekLQ5pcCtH"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375435,
+      "name": "S\u00f4ng Qu\u00ea",
+      "url": "https://open.spotify.com/track/4O6wAhFdvIlRziI0MU0bXQ"
+    },
+    {
+      "album": {
         "name": "S\u1eafc M\u00e0u Qu\u00ea H\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/0JyTZIgMK0IprOS5MMkzQM"
       },
@@ -3010,7 +3054,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 274500,
       "name": "V\u1ec1 Th\u0103m Qu\u00ea M\u1eb9",
       "url": "https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml"

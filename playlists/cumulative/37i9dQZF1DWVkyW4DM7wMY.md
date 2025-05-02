@@ -2,9 +2,9 @@
 
 ### [Eastern Vibes](https://open.spotify.com/playlist/37i9dQZF1DWVkyW4DM7wMY)
 
-> The hottest alternative music from Nairobi to Dar! Cover: Flier
+> The hottest alternative music from Nairobi to Dar! Cover: Mau from nowhere & hihi
 
-213 songs - 11 hr 5 min
+215 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Closer](https://open.spotify.com/track/5mCGTPQcA0XK2ApGmIaXx2) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [9loo](https://open.spotify.com/artist/3WEhFPBwX2zRE2EL2QrqtE), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Closer](https://open.spotify.com/album/3xuJsr75n7P5nlmxOwnMVs) | 3:31 | 2021-10-29 | 2022-09-23 |
 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 | 2023-02-10 | 2025-01-31 |
 | [Corporate](https://open.spotify.com/track/6EOG5p1ZdmfEgXxO18pJt2) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF), [Selo](https://open.spotify.com/artist/3YIXXBpayG6wLurirvtKbF) | [Nairobi Lost Tapes, Vol\. 1](https://open.spotify.com/album/5JXpQ1A62RHcXH9l963xtq) | 2:38 | 2021-10-15 | 2022-01-28 |
-| [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Tkay](https://open.spotify.com/artist/6fyyG0bifPLZIjIEKjidhs) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 | 2023-06-09 |  |
+| [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Tkay](https://open.spotify.com/artist/6fyyG0bifPLZIjIEKjidhs) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 | 2023-06-09 | 2025-05-02 |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-17 | 2022-09-23 |
 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 | 2024-05-17 |  |
 | [Divergent](https://open.spotify.com/track/4dvHvQKlhxqIqSDtUbmRdn) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4) | [Divergent](https://open.spotify.com/album/06NpcpY8sd5DofuSW0AApU) | 2:49 | 2024-01-26 |  |
@@ -169,6 +169,7 @@
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-11-11 | 2022-11-11 |
 | [She Took the Keys](https://open.spotify.com/track/5aammiVXwDxl3tpBfKPmQ9) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [She Took the Keys](https://open.spotify.com/album/4BranpbaQjjOGmHsN3OfgW) | 4:57 | 2021-11-11 | 2022-02-05 |
 | [Show Me](https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Show Me](https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R) | 2:29 | 2024-04-18 |  |
+| [silly](https://open.spotify.com/track/4DFSVpVZze6kuDMlGWOhPB) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [silly](https://open.spotify.com/album/3XPlpXnjbvwpj16ja1lk8v) | 2:29 | 2025-05-01 |  |
 | [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 | 2022-08-25 | 2024-05-03 |
 | [Slow Wine](https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 2:04 | 2022-08-25 | 2024-04-19 |
 | [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 | 2022-08-25 | 2023-02-27 |
@@ -193,6 +194,7 @@
 | [This Depression Thing](https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm) | [G L E N](https://open.spotify.com/artist/6Zn7q82x0RrkCcxeTQ2t5x) | [This Depression Thing](https://open.spotify.com/album/4yac4Do5pCzuHEGjTgTq0V) | 3:42 | 2022-03-17 | 2023-03-31 |
 | [Thriving](https://open.spotify.com/track/6xebvA0oPu1gzCo9jCh4yS) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Thriving](https://open.spotify.com/album/1f7W3aHon0l0J6yu9YISaR) | 2:12 | 2025-01-30 |  |
 | [TIMBUKTU](https://open.spotify.com/track/6E54DHYKNZeAcwJmZ4Z5Kl) | [MVNSA](https://open.spotify.com/artist/7eDhN1XQFftwBO8b8AP4tc), [Dag Tenere](https://open.spotify.com/artist/2R1UoujOq4kekTzz0eO9mM) | [Name Me Mansa](https://open.spotify.com/album/5BfJZMIXGxzyV9eQA44tMz) | 3:09 | 2021-10-15 | 2022-01-28 |
+| [Time Oh Time](https://open.spotify.com/track/6rHJRhbbsBeMhHf0El4mze) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Time Oh Time](https://open.spotify.com/album/4xhD7WzuRZN7902flvsrAu) | 2:50 | 2025-05-01 |  |
 | [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 | 2021-10-15 | 2022-04-29 |
 | [Tonelabira](https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr) | [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Tonelabira](https://open.spotify.com/album/1PrhVocWFG7cL7hjrezxZ6) | 3:19 | 2021-11-04 | 2022-03-26 |
 | [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 | 2024-02-02 |  |
@@ -218,7 +220,7 @@
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2021-10-29 | 2022-06-03 |
 | [YOU A KILLER](https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [YOU A KILLER](https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH) | 2:10 | 2023-04-27 |  |
 | [You're Not Here](https://open.spotify.com/track/5MnLVlRhaUIZbwFCN1uqKE) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [The World Is Spinning And Everyone's Dizzy](https://open.spotify.com/album/6t4K55o91hQHeihNNNJHFl) | 2:33 | 2023-06-09 | 2024-04-19 |
-| [Your Love Is All I Need](https://open.spotify.com/track/0dUE9fJGMFlhWSC3GOtwzl) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Your Love Is All I Need](https://open.spotify.com/album/2HPb6Z8R5bDWx7wjkcACCs) | 2:31 | 2024-05-17 |  |
+| [Your Love Is All I Need](https://open.spotify.com/track/0dUE9fJGMFlhWSC3GOtwzl) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Your Love Is All I Need](https://open.spotify.com/album/2HPb6Z8R5bDWx7wjkcACCs) | 2:31 | 2024-05-17 | 2025-05-02 |
 | [Your Secret](https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY) | [Kingsley Ndegwa](https://open.spotify.com/artist/3tsG1yXbIKihK5LVPIaEz4) | [Your Secret](https://open.spotify.com/album/4iW3k6TT4RfCE6flNgbxPC) | 3:51 | 2021-10-15 | 2022-02-12 |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 | 2023-10-21 |
 

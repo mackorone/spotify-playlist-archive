@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > The nostalgia is real – Boyce Avenue is back in Singapore! Cover: Boyce Avenue
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,118 likes - 24 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,104 likes - 24 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

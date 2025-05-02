@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hasan Raheem, Annural Khalid",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Atif Aslam",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 206000,
       "name": "Beeba",
       "url": "https://open.spotify.com/track/7Mt8D33jSE6HH326cBFcNd"
@@ -1221,6 +1221,32 @@
     },
     {
       "album": {
+        "name": "Gila",
+        "url": "https://open.spotify.com/album/5r73zmlgijtFCBpJOduTMX"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226593,
+      "name": "Gila",
+      "url": "https://open.spotify.com/track/19gRqYV7Af3xE29WGysNqj"
+    },
+    {
+      "album": {
         "name": "Gulaab",
         "url": "https://open.spotify.com/album/4FG6lDwYZQrGGvk2KMHvXr"
       },
@@ -1627,6 +1653,32 @@
     },
     {
       "album": {
+        "name": "Judai",
+        "url": "https://open.spotify.com/album/3IZe3XakLgSYMVsVcF4XlX"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180722,
+      "name": "Judai",
+      "url": "https://open.spotify.com/track/2wZvpX0owdzYg8e8HSfIgV"
+    },
+    {
+      "album": {
         "name": "JUNE",
         "url": "https://open.spotify.com/album/1qCd5sH6WGnmmSOzTqugA3"
       },
@@ -1766,7 +1818,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 269500,
       "name": "Khilnay Ko",
       "url": "https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr"
@@ -3299,6 +3351,36 @@
     },
     {
       "album": {
+        "name": "Sanu Ek Pal",
+        "url": "https://open.spotify.com/album/6xgH9jA22Aw5MTdcgGfAD6"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        },
+        {
+          "name": "Sarmad Ghafoor",
+          "url": "https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "Sanu Ek Pal",
+      "url": "https://open.spotify.com/track/1WkCKxdIsWlB4CxBN31Zrx"
+    },
+    {
+      "album": {
         "name": "Sapna",
         "url": "https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE"
       },
@@ -3362,7 +3444,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 406000,
       "name": "Sar-e-Aam",
       "url": "https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY"
@@ -3848,7 +3930,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 214390,
       "name": "Tona (without Narration)",
       "url": "https://open.spotify.com/track/20uGfmHlG0hnTse0JXhqH3"

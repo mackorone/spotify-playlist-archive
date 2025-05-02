@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,024 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,139 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Tears In The Rain](https://open.spotify.com/track/0S9xDAoTyeDjIysfSytQLy) | [Dulehec](https://open.spotify.com/artist/108YJc17toqidCLr2UBXsQ) | [Tears In The Rain](https://open.spotify.com/album/77XqtCj36nVGTtu2XPAEWW) | 2:11 |
 | 100 | [LEFT TO RIGHT](https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [LEFT TO RIGHT](https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3) | 3:22 |
 
-Snapshot ID: `aAtTCQAAAAA7UrQdTKYNRdqrOOaA8dJ3`
+Snapshot ID: `aAtTCQAAAAAOp+kSrJ/kjlmgBFpZLqPg`

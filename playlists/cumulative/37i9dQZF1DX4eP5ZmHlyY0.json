@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Endless Ending",
+        "url": "https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES"
+      },
+      "artists": [
+        {
+          "name": "BEAST (HIGHLIGHT)",
+          "url": "https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Endless Ending",
+      "url": "https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ"
+    },
+    {
+      "album": {
         "name": "Delete / Enter",
         "url": "https://open.spotify.com/album/79DwCEf7bv1cZWAEQPVVRq"
       },
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 190000,
       "name": "FAKE IT",
       "url": "https://open.spotify.com/track/1kBFfTzRCD1yeqpUgEw9dC"
@@ -3422,6 +3440,28 @@
       "duration_ms": 155378,
       "name": "ICE",
       "url": "https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy"
+    },
+    {
+      "album": {
+        "name": "ICE BREAKER",
+        "url": "https://open.spotify.com/album/5KJDNocPvS3kv62myZDClM"
+      },
+      "artists": [
+        {
+          "name": "J SOUL BROTHERS III",
+          "url": "https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146100,
+      "name": "ICE BREAKER",
+      "url": "https://open.spotify.com/track/4RuPoCWg8ewIaTpj54lG2z"
     },
     {
       "album": {
@@ -5444,7 +5484,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 149786,
       "name": "No Flexin'",
       "url": "https://open.spotify.com/track/2Dmy2W5vepmLsAjGC1vwpd"
@@ -5824,7 +5864,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 176256,
       "name": "Party Goes On",
       "url": "https://open.spotify.com/track/7DtIdfMyHkleorjPK3mSni"
@@ -6118,6 +6158,24 @@
       "duration_ms": 182133,
       "name": "poppop",
       "url": "https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU"
+    },
+    {
+      "album": {
+        "name": "Potion",
+        "url": "https://open.spotify.com/album/3wxpO3GVleiGFaD8OB0pWQ"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159680,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/28eKPYXgO3AeZuNzMHLCYp"
     },
     {
       "album": {
@@ -6526,7 +6584,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 205452,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1j3H5bMaTPwFFuXoUydeFG"
@@ -7877,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "TIME MACHINE",
+        "url": "https://open.spotify.com/album/1GbvjB3ehllvBn31u6Iaer"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "TIME MACHINE",
+      "url": "https://open.spotify.com/track/5NRkJih2PxdvMS8Bz3qA7q"
+    },
+    {
+      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/1RCM4Sazwov9GdcO3Bbxw1"
       },
@@ -8166,7 +8242,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 188026,
       "name": "Undeniable",
       "url": "https://open.spotify.com/track/6Q92NnTjFT5bSqVqa3lllL"
@@ -9288,7 +9364,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-02",
       "duration_ms": 197933,
       "name": "\u30ad\u30df\u30ce\u30c8\u30b3\u30de\u30c7",
       "url": "https://open.spotify.com/track/43cEuCJTfJFHMDEBYqkgkk"

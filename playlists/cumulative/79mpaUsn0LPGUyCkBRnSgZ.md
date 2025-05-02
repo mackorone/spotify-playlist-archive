@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-824 songs - 2 day 6 hr 59 min
+825 songs - 2 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 | 2024-01-08 |  |
 | [where u at?](https://open.spotify.com/track/0UULVQXjgFPOttIW5qF7Ak) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 0:44 | 2022-02-17 |  |
 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 | 2024-02-27 | 2024-03-11 |
+| [Where'd You Go?](https://open.spotify.com/track/51nV3C1hpbfKBi4bXiyDkv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 1:41 | 2025-05-01 |  |
 | [Whispers In The Echo Chamber](https://open.spotify.com/track/0CrP9rtIvD8qeJJq0cJ05t) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:01 | 2025-01-06 |  |
 | [White Room](https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Gongjoong Doduk](https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR) | 4:24 | 2024-02-07 |  |
 | [Who I Am](https://open.spotify.com/track/2ak64lN0RARj28Vpj074Zm) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [The Dreaming Room \(Special Edition\)](https://open.spotify.com/album/3zbxHIsyjD7NmglV6cYb4D) | 1:18 | 2024-01-18 |  |

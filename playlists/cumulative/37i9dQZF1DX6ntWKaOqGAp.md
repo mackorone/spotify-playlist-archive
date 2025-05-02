@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: サカナクション
 
-2,189 songs - 5 day 17 hr 21 min
+2,191 songs - 5 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,7 +1228,7 @@
 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-20 | 2024-03-27 |
 | [ときめきpart1](https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:34 | 2023-05-16 | 2023-09-01 |
 | [ともしび](https://open.spotify.com/track/1gvYywLpjLo15PWI4KL27Q) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [ともしび](https://open.spotify.com/album/2AHczdH2m8e42fPrUXAzoa) | 2:56 | 2023-09-12 | 2023-09-14 |
-| [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 |  |
+| [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 | 2025-05-02 |
 | [どうかしてるって](https://open.spotify.com/track/3DRh82JumTlvdyq7UalqSk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [どうかしてるって](https://open.spotify.com/album/3RdrrquMDyR83u1WYOyF2F) | 3:40 | 2025-02-04 | 2025-03-05 |
 | [どうして](https://open.spotify.com/track/12bcROya6wVF9SIANw7zBr) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [どうして](https://open.spotify.com/album/5O8klTl6CAVZdZ5Erc8dI0) | 3:49 | 2024-07-09 | 2024-07-24 |
 | [どうにもならんわ](https://open.spotify.com/track/0ZHShit8c40nUNIvY4CogW) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [どうにもならんわ](https://open.spotify.com/album/0SIeMrzT2O6KyRCojsHPnw) | 3:39 | 2023-10-03 | 2023-10-05 |
@@ -1731,7 +1731,7 @@
 | [切望](https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:25 | 2024-02-20 | 2024-05-29 |
 | [初夏](https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [初夏](https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F) | 3:48 | 2024-10-15 | 2025-02-05 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 | 2024-01-17 |
-| [初恋](https://open.spotify.com/track/4Wjs62MOFLiqCWbozxFd8K) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [初恋](https://open.spotify.com/album/5yW3kLIJwC96rBs7sB6jpQ) | 3:16 | 2025-04-22 |  |
+| [初恋](https://open.spotify.com/track/4Wjs62MOFLiqCWbozxFd8K) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [初恋](https://open.spotify.com/album/5yW3kLIJwC96rBs7sB6jpQ) | 3:16 | 2025-04-22 | 2025-05-02 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-07 | 2024-05-29 |
 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-04-02 | 2024-05-15 |
 | [劇情](https://open.spotify.com/track/0fCjIIB8HbVsxI1G5Fi3qo) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [劇情](https://open.spotify.com/album/4hGjzGQASbMgJZkL1Mk1ly) | 3:54 | 2024-08-27 | 2024-09-11 |
@@ -1741,6 +1741,7 @@
 | [千両役者 \(ALBUM ver.\)](https://open.spotify.com/track/7Bo66ZWgFGwRUmsVrW6lT1) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:59 | 2023-11-28 | 2023-12-06 |
 | [千年鳥](https://open.spotify.com/track/5Qq23YFrYkgXxE2llCuBeJ) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [千年鳥](https://open.spotify.com/album/0RHPKiskH6TZvVZm3z0XWI) | 2:51 | 2025-02-04 | 2025-02-19 |
 | [卒業](https://open.spotify.com/track/0hYCof6amQzAcKAqNUp4wR) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [卒業](https://open.spotify.com/album/4wiaREGxvMVJVrXhm0qrst) | 4:24 | 2025-02-04 | 2025-03-19 |
+| [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 | 2025-05-01 |  |
 | [原色](https://open.spotify.com/track/2nOZce6QgOgVbcJu93HZtP) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:48 | 2023-10-10 | 2023-11-03 |
 | [反撃的讃歌](https://open.spotify.com/track/7Bj4dJwaRbQiQTkxeYivBg) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [反撃的讃歌](https://open.spotify.com/album/2vGOQyrfzOWCdmFswG9REx) | 4:17 | 2023-06-13 | 2023-06-15 |
 | [叫び \-The Freedom You Need\-](https://open.spotify.com/track/2gBtO6XbNPbqkhmk6BGkl0) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [叫び \-The Freedom You Need\-](https://open.spotify.com/album/0U240KPiubWfv4rYrAGhvq) | 4:35 | 2024-09-24 | 2024-10-09 |
@@ -1804,6 +1805,7 @@
 | [大行侵](https://open.spotify.com/track/4J9Ls3znYHPjUgp1oTrQgg) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [大行侵](https://open.spotify.com/album/6XvgKxqN6XvcPxGvfya0Z5) | 3:58 | 2023-12-05 | 2024-01-24 |
 | [天きりん](https://open.spotify.com/track/6jfOCuvH5u7izNP0uu0k40) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [天きりん](https://open.spotify.com/album/5RfeWvnelkHOuxtgySwZLa) | 3:44 | 2024-07-09 | 2024-08-07 |
 | [天の声](https://open.spotify.com/track/6RPcXKePz7Fjy1uosvhBEa) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [こんなところに居たのかやっと見つけたよ](https://open.spotify.com/album/3FZSKRPIEk31tqpdnZLZCa) | 3:52 | 2024-12-03 | 2024-12-11 |
+| [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 | 2025-05-01 |  |
 | [天国街道](https://open.spotify.com/track/6svY2OYpwFRP7UJwfzlaof) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [天国街道](https://open.spotify.com/album/0HHHwZbYgXRYx31UKTkiPN) | 3:42 | 2024-01-09 | 2024-01-11 |
 | [天誅 \- 雫 Solo Ver.](https://open.spotify.com/track/4niTdJjxV9I1VVgvespSlj) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [天誅 \(雫 Solo Ver.\)](https://open.spotify.com/album/7id6IiB550ml0ZlbjPUBNU) | 4:05 | 2023-11-07 | 2024-01-17 |
 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 | 2024-03-15 | 2024-06-19 |
@@ -2154,7 +2156,7 @@
 | [隣花](https://open.spotify.com/track/0kIx4wwk7Dns5dhmbNLjh3) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [MARBLES](https://open.spotify.com/album/4KX3UQCedlcxxUY7TTTnuZ) | 5:05 | 2024-03-12 | 2024-08-07 |
 | [雀の子](https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [雀の子](https://open.spotify.com/album/1MzgYIiGByI7YdHKGCr4xG) | 3:11 | 2023-07-25 | 2023-07-27 |
 | [雑稿 pt.2](https://open.spotify.com/track/4YPXhMFkDZbkiotEFi6BfV) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 3:36 | 2023-11-07 | 2023-11-09 |
-| [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-24 |  |
+| [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [KanekoAyano](https://open.spotify.com/artist/4wmR2R8rCIxnGEahFjaZYC) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-24 |  |
 | [雨ニウタレ命ナガレ](https://open.spotify.com/track/3B4hZYO0n5UNA50kS68ict) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [雨ニウタレ命ナガレ](https://open.spotify.com/album/2zKCEOoXiA45ESSuCQLhQG) | 3:13 | 2024-11-28 | 2025-01-15 |
 | [雨恋](https://open.spotify.com/track/4MlANzsK8DFnRrluNf1Swb) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z), [ちとせみな](https://open.spotify.com/artist/7xf6dqV93VlQGpEvih6ode) | [HUG](https://open.spotify.com/album/6MoCJgVVBdnvWEdHPaSd7V) | 4:42 | 2023-03-14 | 2023-04-07 |
 | [雨燦々](https://open.spotify.com/track/3PQ5uF2giqf4Ftqywmev1R) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:58 | 2023-11-28 | 2023-12-06 |

@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-322 songs - 13 hr 53 min
+323 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Roll With It](https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:27 | 2023-11-10 | 2024-09-13 |
 | [Roma](https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Roma](https://open.spotify.com/album/67k5Zv2U62mSFwsonVlyOU) | 1:52 | 2024-06-06 | 2025-01-10 |
 | [Run Away](https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Run Away](https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx) | 2:49 | 2023-09-21 | 2023-11-11 |
+| [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 | 2025-05-01 |  |
 | [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 | 2023-09-29 | 2024-09-13 |
 | [Safebox \(feat\. Branco\)](https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Safebox \(feat\. Branco\)](https://open.spotify.com/album/4KJnXnjIVL5d07Nd6AuQnI) | 2:05 | 2023-11-10 | 2024-01-19 |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2024-10-03 |  |
@@ -278,7 +279,7 @@
 | [Sprite & Vodka \(feat\. Gilli & KESI\)](https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:15 | 2024-03-21 | 2024-10-04 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [Stadig](https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d) | [Stadig](https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5) | 2:02 | 2024-05-09 | 2024-05-13 |
-| [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 |  |
+| [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 | 2025-05-02 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
 | [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 |  |

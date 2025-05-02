@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,487 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,448 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [How to Impress God](https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [How to Impress God](https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs) | 3:13 |
 | 50 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
 
-Snapshot ID: `aAu+WwAAAADuFFep9Iph1TtInSr1YKIR`
+Snapshot ID: `AAAAAPKPUzTmTYTM1BpZ8PeGIsOGSvYb`

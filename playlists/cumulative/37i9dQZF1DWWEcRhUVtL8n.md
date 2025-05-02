@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: d4vd
 
-2,101 songs - 4 day 15 hr 15 min
+2,102 songs - 4 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-10-13\* | 2021-10-12 |
 | [butterflies,](https://open.spotify.com/track/2V9aOl8SmtGh657MjnxSX9) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [butterflies,](https://open.spotify.com/album/0wr1UdlxD4zZR7StZUBV3H) | 2:41 | 2022-01-21 | 2022-04-21 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 |  |
+| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 |  |
 | [buzzkill](https://open.spotify.com/track/1xFkcJjWuLlq8CIymwSTw9) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen](https://open.spotify.com/album/3GWDTDhstbhNxfyZJKwqVU) | 2:20 | 2021-03-19 | 2021-10-11 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-17 | 2022-08-06 |
 | [California](https://open.spotify.com/track/3bwmdeu8SFFPyvyZ7ekshz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [California](https://open.spotify.com/album/2S7UGA5rk8XmxqKMBQgup2) | 3:18 | 2020-10-20 | 2020-10-21 |
@@ -578,7 +579,7 @@
 | [Drive\-in Movie](https://open.spotify.com/track/2lK2RkDLxEbfrap6wu9U4w) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [Drive\-in Movie](https://open.spotify.com/album/2F2GkSJfMdbwe0xvKsEs7s) | 3:17 | 2020-10-13\* | 2020-11-20 |
 | [Drown](https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Drown](https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB) | 3:01 | 2022-09-16 | 2022-12-10 |
 | [Drugs in California](https://open.spotify.com/track/2pFsmLD22nDUkAejzukYuW) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Drugs in California](https://open.spotify.com/album/4r6ZfkuDW4kXhiQuY0tS5g) | 3:25 | 2021-03-09 | 2021-05-25 |
-| [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 |  |
+| [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2025-05-02 |
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-29 | 2022-04-20 |
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
