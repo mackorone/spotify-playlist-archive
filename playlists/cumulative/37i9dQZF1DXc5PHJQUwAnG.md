@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Adán Cruz en portada.
 
-362 songs - 17 hr 8 min
+364 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bluetooth](https://open.spotify.com/track/4EdQNWxJXvSbcmnvVdGXcd) | [Zarri](https://open.spotify.com/artist/0dslxxp5Bwc5LsMkq2tNaS), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bluetooth](https://open.spotify.com/album/64Q9pH8cySa5JkApO6qPNj) | 3:09 | 2023-11-10 | 2024-05-18 |
 | [BMW](https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BMW](https://open.spotify.com/album/0O0bJzAu1uswYmCej2I6Hz) | 2:32 | 2023-06-09 | 2024-05-18 |
 | [Bonita](https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j) | [R O A](https://open.spotify.com/artist/1VnD5vQ8lEQM4dKMOfv4tI) | [Bonita](https://open.spotify.com/album/14Siry6ZDhLo3y1pWXJ09X) | 2:36 | 2023-06-09 | 2023-09-23 |
+| [Bonus Trap](https://open.spotify.com/track/7qt0PKcr4JKshKHiCLfW1W) | [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Bonus Trap](https://open.spotify.com/album/48SuTjpt9DTbLpDH1pIK3n) | 4:16 | 2025-05-02 |  |
 | [Braile](https://open.spotify.com/track/7iERhC20w8QuVDkLyMSn8K) | [Zalzuki](https://open.spotify.com/artist/3pgbbDVJmM1wvztXv7vvXO) | [Braile](https://open.spotify.com/album/2nh8yCmEkU8KEnkFNWK4xi) | 2:06 | 2024-02-26 | 2024-05-28 |
 | [Brillo De Más](https://open.spotify.com/track/1I8sOduAGo1LSZbfn8XYyS) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Brillo De Más](https://open.spotify.com/album/1AFexsSshLU0jyHrRHyfTi) | 2:28 | 2023-06-09 | 2023-07-15 |
 | [Broken](https://open.spotify.com/track/1CZpJAHjKh3kdUnP7SPE7Z) | [Orcoer Overland](https://open.spotify.com/artist/3T6R4tkTMqP768xm1vCbOY) | [Broken](https://open.spotify.com/album/7JwxVSAZYJlzjqjoPda5Yz) | 2:30 | 2023-07-28 | 2023-10-23 |
@@ -96,6 +97,7 @@
 | [D3Monio Millonari0](https://open.spotify.com/track/5yTsDXd4O8ycHNG721VsIy) | [NO DRXMA KID](https://open.spotify.com/artist/1kXCNgVEaGsLJujEDyZi7m) | [D3Monio Millonari0](https://open.spotify.com/album/4lUwMU1weH9ALUdtmExaX3) | 2:33 | 2023-06-09 | 2023-10-23 |
 | [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 | 2023-10-20 |  |
 | [DDEVERAS](https://open.spotify.com/track/1UEMzAH06AVWnsgnANkAc6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [DDEVERAS](https://open.spotify.com/album/3cfUapXkbzZnF9MYK0pycZ) | 2:22 | 2023-06-09 | 2023-12-09 |
+| [De Niro](https://open.spotify.com/track/61hMgj0Y74kOf3GXItObEf) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [De Niro](https://open.spotify.com/album/2TfnQ10UhlxXGp1BkRPV5K) | 2:40 | 2025-05-02 |  |
 | [De Por Vida](https://open.spotify.com/track/5ykrkjleDzZWCmkTkWoN8h) | [DUNNOWHERE](https://open.spotify.com/artist/35FdbavCU6ynfBatkUPQG8), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM) | [De Por Vida](https://open.spotify.com/album/0SD5803nMitaFCZFliaktr) | 2:33 | 2024-06-14 | 2024-07-27 |
 | [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 | 2024-11-29 |  |
 | [Deja Vú](https://open.spotify.com/track/5Y0TXblxH8xcEF9ggXOL2E) | [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Deja Vú](https://open.spotify.com/album/18ZffmxARUqg9VnptWX46I) | 2:14 | 2023-06-09 | 2024-05-18 |

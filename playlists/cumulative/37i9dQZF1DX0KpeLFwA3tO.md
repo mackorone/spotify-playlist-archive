@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: PUP
 
-2,439 songs - 5 day 1 hr 50 min
+2,440 songs - 5 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1738,6 +1738,7 @@
 | [Revelation: The Infinite Beauty Of Oneness](https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Mend](https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W) | 3:56 | 2025-01-17 | 2025-03-21 |
 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 | 2022-04-21 | 2022-06-03 |
 | [Riddley Scott Walker](https://open.spotify.com/track/3Gt4U6B3TcaR93j7IE844s) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Riddley Scott Walker](https://open.spotify.com/album/7AHvFHz9RhgaLVAGJZbdlB) | 3:31 | 2023-08-24 | 2023-09-22 |
+| [Right Girl Wrong Time](https://open.spotify.com/track/4gobC5dE1k9njtzIDChBRF) | [Johnnie Guilbert](https://open.spotify.com/artist/076Gy8u6GxUrHUxbaesJFC), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Right Girl Wrong Time](https://open.spotify.com/album/1m0vP6vVjZflJp5MNMdVFU) | 2:29 | 2025-05-01 |  |
 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 | 2023-10-18 |
 | [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 | 2023-10-13 | 2023-12-01 |
 | [Ring meg hvis du trenger en venn](https://open.spotify.com/track/0l1iA5tnB6ZJyDqMAMk8n4) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [Ring meg hvis du trenger en venn](https://open.spotify.com/album/6OC2sf7CYPltnpz4dHPwOP) | 2:55 | 2024-12-13 | 2025-03-15 |
@@ -2328,7 +2329,7 @@
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2023-11-17 | 2024-01-26 |
 | [We Want It All](https://open.spotify.com/track/6hggw174msZ3VnkjJAUWlR) | [Raygun Cowboys](https://open.spotify.com/artist/2UKtH8VoQ4nJl77F9pBf9U) | [We Want It All](https://open.spotify.com/album/6Nj5gwr96LKpb64BxfMr1D) | 3:26 | 2023-09-15 | 2023-10-27 |
 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 | 2023-09-08 | 2023-10-27 |
-| [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Pat Flynn](https://open.spotify.com/artist/0QSSTVzzZDsKY9ga5YFqtc) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 | 2025-04-25 |  |
+| [We're the Flora](https://open.spotify.com/track/7bBwS6f5hTrYh4pegkT7Ia) | [DROUGHT](https://open.spotify.com/artist/5npaSBIdEVGD2fV6yF1JDF), [Pat Flynn](https://open.spotify.com/artist/7MhyCOU5ZCJv1hbSWdYYAF) | [We're the Flora](https://open.spotify.com/album/0f3I3AFWCFGYjDXEwwmHaz) | 2:58 | 2025-04-25 |  |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-07 | 2022-05-27 |
 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 | 2023-03-03 | 2023-04-14 |
 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 | 2021-12-17 | 2022-02-25 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-173 songs - 10 hr 59 min
+174 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-09-08 |  |
 | [ME QUEDO ACÁ\. \- Lupe Remix](https://open.spotify.com/track/1553JqZizFxv9hyNth0y0N) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Lado V \(Remixes de Postal\)](https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J) | 3:17 | 2023-09-08 | 2023-11-21 |
 | [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 | 2025-04-18 |  |
+| [Me Sostiene la Pista de Baile](https://open.spotify.com/track/7Fe2qTMPxnE5Q20LfClKHe) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Me Sostiene la Pista de Baile](https://open.spotify.com/album/24zPgzdFuk9PqmjIcQgkKl) | 4:44 | 2025-05-02 |  |
 | [MELONI](https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MELONI](https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO) | 2:58 | 2023-09-08 | 2024-01-14 |
 | [MOTIVEISHON](https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [MOTIVEISHON](https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD) | 2:38 | 2023-09-08 |  |
 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 | 2023-09-08 | 2024-04-19 |

@@ -7069,6 +7069,28 @@
     },
     {
       "album": {
+        "name": "Mickey",
+        "url": "https://open.spotify.com/album/1V8EX2DkUUJCLOf24KGUml"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "Mickey",
+      "url": "https://open.spotify.com/track/4tRIJ57ePYLTFqMZupSM0z"
+    },
+    {
+      "album": {
         "name": "Milloneta",
         "url": "https://open.spotify.com/album/16h3UMUGcr2MrWi0Durs5W"
       },
@@ -10502,6 +10524,24 @@
       "duration_ms": 174602,
       "name": "SR DE LOS CIELOS",
       "url": "https://open.spotify.com/track/3iug2F7ByIBMVkmLGgt3ir"
+    },
+    {
+      "album": {
+        "name": "Stripclub",
+        "url": "https://open.spotify.com/album/0wSPoVPKyJp6oaLro9sKak"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Stripclub",
+      "url": "https://open.spotify.com/track/0AjusvLswoaBF2b0NqxqXi"
     },
     {
       "album": {

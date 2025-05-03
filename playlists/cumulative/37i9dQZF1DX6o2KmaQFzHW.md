@@ -4,7 +4,7 @@
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-252 songs - 14 hr 46 min
+253 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Recuerdo Salteño](https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ) | 2:41 | 2021-07-23 |  |
 | [Recuerdos de Ypacaraí](https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp) | [Ramón Ayala El Mensú](https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB), [George Haslam](https://open.spotify.com/artist/4aNMEoyzSEXacKUlZedsZX), [Ruben Ferrero](https://open.spotify.com/artist/2QBN21Nc9xG27ZGDOjR5P6) | [Recuerdos de Ypacaraí](https://open.spotify.com/album/5ZvJ9WQFnxnwTli25l9Ohg) | 4:03 | 2021-07-23 | 2024-11-12 |
 | [Repiqueteadita](https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE) | [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [Reencuentro en el CCK](https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b) | 1:55 | 2022-02-21 | 2024-11-14 |
+| [Rio de las Razas](https://open.spotify.com/track/7EimvXrNb2AZTKWFLk0w96) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Rio de las Razas](https://open.spotify.com/album/3n8fIBnSgnwCJqKVp1y4ET) | 3:06 | 2025-05-02 |  |
 | [Rio de las Razas](https://open.spotify.com/track/24bAjVJ9sShFOJSofbzR4C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Rio de las Razas](https://open.spotify.com/album/51vG1VefA2g2xWWT8Lzkku) | 5:08 | 2021-07-23 | 2022-07-07 |
 | [Romance de Plumas Verdes](https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag) | [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Aqui Cosquin](https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q) | 3:01 | 2021-07-23 | 2024-11-26 |
 | [Run Run Se Fue Pa'l Norte \- En Vivo](https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Antigüedades \(En Vivo\)](https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B) | 5:03 | 2021-07-23 | 2024-11-12 |

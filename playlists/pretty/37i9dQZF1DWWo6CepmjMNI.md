@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Romancerr
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: FORD TRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,737 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,743 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
-| 2 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
-| 3 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
-| 4 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
-| 5 | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M) | [Def Teerapat](https://open.spotify.com/artist/48vGpotLO3IyFQbzlfAWtI) | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/album/66Mw3mVkQcob4hQ4xFId7q) | 4:55 |
-| 6 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 7 | [นาฬิกา \(You\)](https://open.spotify.com/track/6iapHtrPAWltKD3OodCTJD) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [นาฬิกา \(You\)](https://open.spotify.com/album/7sQwDrsfYW2I15KdCDSIhC) | 4:13 |
-| 8 | [รถมันติด \(Romantic\)](https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [รถมันติด \(Romantic\)](https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44) | 4:14 |
-| 9 | [ในหน้าร้อน](https://open.spotify.com/track/42BtwsBB9NgXrUbG2Bd28b) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [Humming Songs from the Oldies Days](https://open.spotify.com/album/2pIY3zaSlIWXQfJZJRIoop) | 4:19 |
-| 10 | [ทุกช่วงเวลาสำคัญ \(We Both Left a Hint\)](https://open.spotify.com/track/0KKHjskHNeqDCJ1uB8eNsw) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ทุกช่วงเวลาสำคัญ \(We Both Left a Hint\)](https://open.spotify.com/album/2vuD7aZA4clhtt39bCoOtb) | 3:50 |
-| 11 | [อ๊ะเปล่า](https://open.spotify.com/track/4dqOTB1UpK2813eNy7sxLy) | [UNREAL](https://open.spotify.com/artist/2p5tOA5WDDzl5gZRpsW1zr) | [อ๊ะเปล่า](https://open.spotify.com/album/3pm0bQF7IoZ30O6HdHd9BJ) | 5:05 |
-| 12 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
-| 13 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 |
+| 1 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
+| 2 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
+| 3 | [KON LA KON \(คนละคน\)](https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [KON LA KON \(คนละคน\)](https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh) | 5:08 |
+| 4 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
+| 5 | [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 |
+| 6 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
+| 7 | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/track/30N3J1PS11FD22EqfGCG7u) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/album/1HXHxpuTDuxsRlw2tg9xyF) | 4:43 |
+| 8 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
+| 9 | [Best Friend](https://open.spotify.com/track/3t0EwFuZj8OcXJCmilfPMo) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [Rafiq Ridzwan](https://open.spotify.com/artist/79UiNuRg5UYL08XAHrOsdm) | [Best Friend](https://open.spotify.com/album/7MXQM8X8uJs8UsmAjzMiFy) | 4:04 |
+| 10 | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M) | [Def Teerapat](https://open.spotify.com/artist/48vGpotLO3IyFQbzlfAWtI) | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/album/66Mw3mVkQcob4hQ4xFId7q) | 4:55 |
+| 11 | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/track/4MnxhyBNVUdMwggVokRXIZ) | [TheBiirthdayParty](https://open.spotify.com/artist/1IPO4PYOEO6Hr1YRlPKQlG) | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/album/3cztb7psWsq1ZLZfTkjJaj) | 4:22 |
+| 12 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 |
+| 13 | [ยอมรับ](https://open.spotify.com/track/270aCRJUV0zSSevAqwL5As) | [Secret Door](https://open.spotify.com/artist/2djr24pArTpy8MEIDnO15w) | [ยอมรับ](https://open.spotify.com/album/2tWTavFCjpBCDGG3P9uC3X) | 2:51 |
 | 14 | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/track/1OjZuGbeXKh7fvJ4uPlNCg) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/album/6IKE7q1kWDWgWSK3hSolqb) | 3:53 |
-| 15 | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/track/4DuHeUrU05aCgsNdFlsbLC) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/album/7LM8buWUHZvHPERQOdIKjK) | 3:31 |
-| 16 | [ครั้งแรก \(First and last\)](https://open.spotify.com/track/1NcZPWlyYKK2W8kNYjSMeJ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ครั้งแรก \(First and last\)](https://open.spotify.com/album/6GWaWM2hdmzLBWwx8Ehgha) | 4:19 |
-| 17 | [จากนี้เราคงต้องลา \(Lesson\)](https://open.spotify.com/track/3ZlNahS3geFOK4eW3D66eg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R) | [จากนี้เราคงต้องลา \(Lesson\)](https://open.spotify.com/album/1GtWKHsPq3bzSaW5FOwUbK) | 2:54 |
-| 18 | [หยุดซะ](https://open.spotify.com/track/60syKDKB6TWWn91ntc2JZx) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [หยุดซะ](https://open.spotify.com/album/4qj3DDVn9DYgNODjKllvx3) | 5:01 |
-| 19 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
-| 20 | [คนประหลาด \(Toxic\)](https://open.spotify.com/track/4WgNv15TPKSvSOXZUOhw1V) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [คนประหลาด \(Toxic\)](https://open.spotify.com/album/4nYnIC7WN7d8rqD8gT9aJc) | 3:33 |
+| 15 | [ร้องไห้ให้ตะโกน](https://open.spotify.com/track/7zGWA2OzsqtJGAmwY7LPGX) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [ป็อป // เนทีฟ .](https://open.spotify.com/album/6wnSy6llpy3C9WE67A7XEK) | 5:04 |
+| 16 | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/track/4DuHeUrU05aCgsNdFlsbLC) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/album/7LM8buWUHZvHPERQOdIKjK) | 3:31 |
+| 17 | [ครั้งแรก \(First and last\)](https://open.spotify.com/track/1NcZPWlyYKK2W8kNYjSMeJ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ครั้งแรก \(First and last\)](https://open.spotify.com/album/6GWaWM2hdmzLBWwx8Ehgha) | 4:19 |
+| 18 | [จากนี้เราคงต้องลา \(Lesson\)](https://open.spotify.com/track/3ZlNahS3geFOK4eW3D66eg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R) | [จากนี้เราคงต้องลา \(Lesson\)](https://open.spotify.com/album/1GtWKHsPq3bzSaW5FOwUbK) | 2:54 |
+| 19 | [หยุดซะ](https://open.spotify.com/track/60syKDKB6TWWn91ntc2JZx) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [หยุดซะ](https://open.spotify.com/album/4qj3DDVn9DYgNODjKllvx3) | 5:01 |
+| 20 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
 | 21 | [ผู้ชม](https://open.spotify.com/track/23hHRScGll3GDtCcfVxeAv) | [World Nopparuj](https://open.spotify.com/artist/4YJf8IYiDgp0THhDwwRodb), [Khem Freehand](https://open.spotify.com/artist/2c1mD0pzkcaoMHbfUzi6Ih) | [ผู้ชม](https://open.spotify.com/album/1aoBuh75sH3YVll8tj4eDu) | 5:40 |
 | 22 | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/album/2MovYY8AFgs6aeBk4pR9ym) | 5:01 |
 | 23 | [ภาพฝันวันจากลา](https://open.spotify.com/track/0DC2pCnVUMhuDbAzlzGCy0) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [MADE IN A DREAM](https://open.spotify.com/album/6ms8lsrJ3tMLgI1klcjiSC) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 |
 | 50 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 |
 
-Snapshot ID: `aAtb3QAAAADj0TQyQaOWrgd7LYKT7G9P`
+Snapshot ID: `aBSgPwAAAACU5G1/fGSNZmvnR9DnmB+i`

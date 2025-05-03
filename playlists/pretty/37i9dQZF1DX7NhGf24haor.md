@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,139 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,412 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 7 | [The One That Got Away](https://open.spotify.com/track/5LFDL81snndfAJSnyIzilb) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [ÆLINN](https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw) | [The One That Got Away](https://open.spotify.com/album/2tGS5SLRKjaJc24grSdPQE) | 2:33 |
 | 8 | [Earthquake](https://open.spotify.com/track/4c8gJuCzQOW8uQsmgAdYTH) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Earthquake](https://open.spotify.com/album/2QXrClHLRRKmJp7E5jHZ4D) | 2:29 |
 | 9 | [Fire In The Sky](https://open.spotify.com/track/47UsBoRKypZUpvDXK3FZeo) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Fire In The Sky](https://open.spotify.com/album/4DrcAtagCHnh2wTB97MaYa) | 2:31 |
-| 10 | [angels and demons](https://open.spotify.com/track/5zW0wdpkD949ZzfylNf8pK) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Antergy](https://open.spotify.com/artist/1bhxo2EjKycAGTV9r0fbGT) | [angels and demons](https://open.spotify.com/album/10fgIIIieQLr41JX7jL99M) | 3:52 |
+| 10 | [angels and demons](https://open.spotify.com/track/5zW0wdpkD949ZzfylNf8pK) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Antergy](https://open.spotify.com/artist/1bhxo2EjKycAGTV9r0fbGT), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [angels and demons](https://open.spotify.com/album/10fgIIIieQLr41JX7jL99M) | 3:52 |
 | 11 | [Let's Lose Control](https://open.spotify.com/track/4AyVhwedlNs5qXRXax4Uaz) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Nick Spear](https://open.spotify.com/artist/0HBrnl7A7nm159RVxol6F3) | [Let's Lose Control](https://open.spotify.com/album/1kI6PziqZmDnr2LtRv9ZjL) | 3:37 |
 | 12 | [Message On Read](https://open.spotify.com/track/2cHhN9A1VP0QiWGy4ZbRJ2) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Losty](https://open.spotify.com/artist/0OGSmH6Q5cwSCp9R7FWqHY) | [Adrenaline EP](https://open.spotify.com/album/7klME7lkagq8SckZ5RDYyF) | 2:30 |
 | 13 | [DnB Militant](https://open.spotify.com/track/5hVPEEyC1wexQ43tix4DeY) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [DnB Militant](https://open.spotify.com/album/5NbVbV82Ban0oqqIVd8cqb) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Tears In The Rain](https://open.spotify.com/track/0S9xDAoTyeDjIysfSytQLy) | [Dulehec](https://open.spotify.com/artist/108YJc17toqidCLr2UBXsQ) | [Tears In The Rain](https://open.spotify.com/album/77XqtCj36nVGTtu2XPAEWW) | 2:11 |
 | 100 | [LEFT TO RIGHT](https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [LEFT TO RIGHT](https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3) | 3:22 |
 
-Snapshot ID: `aAtTCQAAAAAOp+kSrJ/kjlmgBFpZLqPg`
+Snapshot ID: `aAtTCQAAAAA7UrQdTKYNRdqrOOaA8dJ3`

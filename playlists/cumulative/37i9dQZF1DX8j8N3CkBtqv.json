@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Mali,  Utsavi Jha and other exciting artists.",
+  "description": "Naye Indie gaano ka khazana, featuring Mali,  Utsavi Jha and other exciting artists.\nCover : Hansika Pareek",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 261595,
       "name": "Aaghaz-E-Ishq",
       "url": "https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 221049,
       "name": "Aisi Dooriyaan",
       "url": "https://open.spotify.com/track/4UCjicdxXa8AukOAANRFfX"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 164673,
       "name": "Azaadiyaan",
       "url": "https://open.spotify.com/track/49rpWJuutmONIykAI2gBAv"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 192480,
       "name": "Bemisaal",
       "url": "https://open.spotify.com/track/4eLeuvFq325pSNzr8PiOl3"
@@ -4668,7 +4668,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Dil Ka Haara",
       "url": "https://open.spotify.com/track/3AhbSEtajGmaOajWM5ydV4"
@@ -5284,7 +5284,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 170037,
       "name": "Dr. Dust",
       "url": "https://open.spotify.com/track/5jwH0EthUxAtaYJ83bqKfS"
@@ -6224,7 +6224,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 176748,
       "name": "Ghum Sa",
       "url": "https://open.spotify.com/track/5Bx3NJvWDdQtLgiNPcoj6P"
@@ -7690,7 +7690,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 212264,
       "name": "Is It Okay?",
       "url": "https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8"
@@ -9762,7 +9762,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 133235,
       "name": "Kehta Tha",
       "url": "https://open.spotify.com/track/2KHK32wA1y5sTJUsQBTyeE"
@@ -9964,6 +9964,32 @@
       "duration_ms": 250500,
       "name": "Khata",
       "url": "https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5"
+    },
+    {
+      "album": {
+        "name": "Khidmat",
+        "url": "https://open.spotify.com/album/7nzGKce0YYYAhLPgRSRt2O"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Dev Pandey",
+          "url": "https://open.spotify.com/artist/7BFiQmFfvPKZ8S4Hk04t2f"
+        },
+        {
+          "name": "Sanskar Vaidya",
+          "url": "https://open.spotify.com/artist/7xSSF2gLGzFDLpzMYwAOup"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "Khidmat",
+      "url": "https://open.spotify.com/track/1TfpDE5fbp5A6duxDTKrTj"
     },
     {
       "album": {
@@ -13114,7 +13140,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 186753,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
@@ -15982,7 +16008,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 225283,
       "name": "Raza",
       "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
@@ -17174,7 +17200,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 223392,
       "name": "Sarphire",
       "url": "https://open.spotify.com/track/4UctbmDO5D8ODVgyM0HGqo"
@@ -17414,6 +17440,32 @@
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
+    },
+    {
+      "album": {
+        "name": "Shaam Se",
+        "url": "https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "Shaam Se",
+      "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"
     },
     {
       "album": {
@@ -18262,7 +18314,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 140294,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/02c8V8Gx8JTbWuktQ3EanF"
@@ -21148,7 +21200,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 213750,
       "name": "Yaadein",
       "url": "https://open.spotify.com/track/4Wf4OUzKCez9NbOt4c1SSn"

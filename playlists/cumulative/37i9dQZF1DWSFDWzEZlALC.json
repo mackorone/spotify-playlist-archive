@@ -10579,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "Kein Plan was Liebe ist",
+        "url": "https://open.spotify.com/album/3uvi5jjG5EE6negLTEQTNp"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149870,
+      "name": "Kein Plan was Liebe ist",
+      "url": "https://open.spotify.com/track/5cv1YnIgf2JNHmilYaYq1s"
+    },
+    {
+      "album": {
         "name": "Kein Stern",
         "url": "https://open.spotify.com/album/5JkMx2Z48GjrjQkkaXK3xC"
       },
@@ -19438,7 +19456,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 176766,
       "name": "unendlichsch\u00f6nversagt",
       "url": "https://open.spotify.com/track/3ccJnVUwGjvTs1pCeiaLxz"

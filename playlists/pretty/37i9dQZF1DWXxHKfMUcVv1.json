@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123297,
+  "num_followers": 123303,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Tus Ojos No Me Ven (feat. Jowell y Randy and El Gorila)",
         "url": "https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 279568,
       "name": "Tus Ojos No Me Ven - feat. Joewell y Randy",
       "url": "https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Agua Para El Mar",
+        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 185821,
+      "name": "Quiero!",
+      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "T\u00e1cito",
         "url": "https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 279614,
       "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Agua Para El Mar",
-        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Quiero!",
-      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -819,8 +819,8 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
         }
       ],
-      "duration_ms": 153433,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T"
+      "duration_ms": 188013,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -851,18 +851,26 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
       },
       "artists": [
         {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/0RvwiHVv0BAFFw9jeNzHGL"
+          "name": "Wildo Samuel",
+          "url": "https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Basti",
+          "url": "https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
+      "duration_ms": 204950,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

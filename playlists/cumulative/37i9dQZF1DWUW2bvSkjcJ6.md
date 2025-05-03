@@ -4,7 +4,7 @@
 
 > Neue Musik von Kontra K und NESS, Pashanim, SANTOS und Shirin David, Ed Sheeran und mehr!
 
-4,614 songs - 9 day 10 hr 3 min
+4,617 songs - 9 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3725,6 +3725,7 @@
 | [Spargelzeit](https://open.spotify.com/track/3znL75T6YK9Qd39VL6QsEM) | [PA69](https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h) | [Spargelzeit](https://open.spotify.com/album/3KnhJUqvykXISRPc9AcgOE) | 2:40 | 2025-04-17 | 2025-04-25 |
 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 | 2025-04-25 | 2025-05-02 |
 | [Spell](https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:08 | 2024-07-11 | 2024-07-19 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 |  |
 | [Spezial Mode](https://open.spotify.com/track/6hSNW0WbxVl6kLOXopTO5e) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Spezial Mode](https://open.spotify.com/album/4FhUA7PHsCBeFpckMJjAew) | 2:15 | 2024-08-15 | 2024-08-23 |
 | [Spiderman In Space](https://open.spotify.com/track/4Pm2UKub2r2zpq3JoBYENy) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Spiderman In Space](https://open.spotify.com/album/21lZZBtIDMxr5MHdaU8go4) | 3:15 | 2024-08-22 | 2024-08-30 |
 | [Spiegelbild](https://open.spotify.com/track/014H3qYYMpExkUX2h71axj) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Spiegelbild](https://open.spotify.com/album/49Xc7tGLByYVN6VtGk1LBt) | 2:21 | 2025-02-13 | 2025-02-21 |
@@ -4173,6 +4174,7 @@
 | [Universum](https://open.spotify.com/track/22P0VQRoz39yfZ28oBDllP) | [Das Lumpenpack](https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM) | [Universum](https://open.spotify.com/album/6S7ktdvVeMXoJ8ff2HSqEJ) | 3:23 | 2024-11-07 | 2024-11-15 |
 | [Universum groß](https://open.spotify.com/track/1YSL2Q8PYtVeKaH0TEnMqR) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [Tim Tautorat](https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re) | [Universum groß](https://open.spotify.com/album/4cNUzv8xwwRGJ4GBOOdYcG) | 2:51 | 2024-09-05 | 2024-09-13 |
 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 | 2025-04-10 | 2025-04-18 |
+| [Unlock](https://open.spotify.com/track/044C22X5gRELj72l3D81Rs) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Unlock](https://open.spotify.com/album/3VhpdyplaWKQDIe9dpJJrA) | 2:30 | 2025-05-02 |  |
 | [unser ende euer beginn](https://open.spotify.com/track/6CT4bUtay8Uyo05gh5wUXS) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:33 | 2024-04-26 | 2024-05-03 |
 | [Unser Outro](https://open.spotify.com/track/2vNejHEBVOZZgWlpSGvney) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Sichtrennen, Vergessen, Vergeben](https://open.spotify.com/album/383NcF3nA2mYnCkpo54aP6) | 3:37 | 2024-08-15 | 2024-08-23 |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-24 | 2025-05-02 |
@@ -4419,6 +4421,7 @@
 | [When We Were Young](https://open.spotify.com/track/4uBLWWJIvBKpbykWRPtXrq) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [When We Were Young](https://open.spotify.com/album/6ObZ3nHhjB3DlCYzX34y2a) | 2:30 | 2024-10-10 | 2024-10-18 |
 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-25 | 2025-05-02 |
 | [Where Do You Go?](https://open.spotify.com/track/4xlM3sE55mcdo1t8NWT2iW) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Where Do You Go?](https://open.spotify.com/album/4xMFgNonqPOU0s10m5W4FM) | 3:19 | 2024-12-19 | 2025-01-03 |
+| [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-02 |  |
 | [Where I Don't Have To Hide](https://open.spotify.com/track/6gEpV12POYXkksRcso1iGq) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Where I Don't Have To Hide](https://open.spotify.com/album/5sZhW1dCzXewCtWGpQwJ2b) | 2:38 | 2025-02-27 | 2025-03-07 |
 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 | 2025-03-13 | 2025-03-21 |
 | [WHERE THE HELL HAVE YOU BEEN?](https://open.spotify.com/track/55igdPzQKZdJtKu2yPemg0) | [Caroline Alves](https://open.spotify.com/artist/6H54MC0LiueYOlL3lKLb4r) | [WHERE THE HELL HAVE YOU BEEN?](https://open.spotify.com/album/24QrUotDYkaFIoXsN6JSUM) | 3:24 | 2024-05-23 | 2024-06-01 |

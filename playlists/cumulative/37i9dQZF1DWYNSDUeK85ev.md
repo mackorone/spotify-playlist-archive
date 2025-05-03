@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-470 songs - 1 day 3 hr 40 min
+471 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Naty Del Blow](https://open.spotify.com/track/6zoSZlyKKBjWC7Y6yPyGVj) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Naty del Blow](https://open.spotify.com/album/3z7jv3GrHI0pnOoX9nWPzs) | 2:26 | 2023-12-15 | 2023-12-30 |
 | [Nena Yo No Te Olvido \- Remix](https://open.spotify.com/track/2gVLd152FCVXelsqRxADBP) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Nena Yo No Te Olvido](https://open.spotify.com/album/0Q29ngPbsGr1ydqH4aMSAc) | 2:28 | 2022-06-13 | 2022-06-16 |
 | [Neón](https://open.spotify.com/track/3vRF2KJzU2l5Zae0L0Kdi7) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 3:16 | 2023-01-27 | 2023-02-11 |
-| [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2022-05-13 |  |
+| [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2022-05-13 | 2025-05-03 |
 | [No Aguanto Más](https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [No Aguanto Más](https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF) | 3:14 | 2022-05-13 |  |
 | [No Es Justo](https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 4:10 | 2022-06-17 |  |
 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 | 2023-05-05 | 2023-05-20 |
@@ -317,6 +317,7 @@
 | [PONTE SATA](https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PONTE SATA](https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ) | 2:45 | 2024-01-26 | 2024-09-18 |
 | [PORFA](https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PORFA](https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc) | 3:53 | 2022-05-13 | 2022-07-03 |
 | [Portate Bien](https://open.spotify.com/track/1AMGLITB3FBocZr0e9MD7b) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Portate Bien](https://open.spotify.com/album/6E5rGguJ10ZtA3BoNl94R2) | 2:08 | 2022-10-22 | 2022-11-08 |
+| [POSEIDON](https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [POSEIDON](https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L) | 2:22 | 2025-05-02 |  |
 | [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 | 2024-08-21 |  |
 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 | 2023-08-14 | 2023-10-07 |
 | [Previa y Cachengue 31 \- Remix](https://open.spotify.com/track/4jrJJ5cixI1URrM9pVGdBP) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 31 \(Remix\)](https://open.spotify.com/album/66SwZuhckGmOqEMRlO8UPP) | 10:34 | 2022-05-13 | 2022-07-29 |

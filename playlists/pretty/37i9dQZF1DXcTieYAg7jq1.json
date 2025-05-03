@@ -1,13 +1,49 @@
 {
-  "description": "Featuring that new vintage. Cover: Josh Groban",
-  "num_followers": 419148,
+  "description": "Featuring that new vintage. Cover: grentperez",
+  "num_followers": 419130,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZSQAAAAAH/nn7jGIXaHlKvqsxh6wi",
+  "snapshot_id": "aBRDWgAAAABoAwM3u74e6iBQ6JJwMRMX",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:26",
+      "album": {
+        "name": "Girl at the Station (feat. Jeremy Passion)",
+        "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "duration_ms": 145136,
+      "name": "Girl at the Station",
+      "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
+    },
+    {
+      "added_at": "2025-05-02 04:00:26",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 199814,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b"
+    },
     {
       "added_at": "2025-04-04 04:00:09",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+    },
+    {
+      "added_at": "2025-05-02 04:00:26",
+      "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2025-03-28 04:00:35",
@@ -629,30 +681,6 @@
       "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "All That I Need",
-        "url": "https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo"
-      },
-      "artists": [
-        {
-          "name": "Ebony Loren",
-          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
-        },
-        {
-          "name": "Matthew Ifield",
-          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
-        },
-        {
-          "name": "Sebastian Kamae",
-          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "All That I Need",
-      "url": "https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T"
-    },
-    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Love Lines",
@@ -1081,22 +1109,6 @@
       "url": "https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 215787,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Poems",
@@ -1243,22 +1255,6 @@
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/4NVByy2qf8FMLQshjGLjHn"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "a lighter shade of blue",
-        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "hurt",
-      "url": "https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC"
     },
     {
       "added_at": "2022-11-18 05:00:00",

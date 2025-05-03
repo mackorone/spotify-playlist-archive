@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-1,449 songs - 3 day 9 hr 1 min
+1,450 songs - 3 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 | 2023-08-04 | 2023-08-24 |
 | [Fen Heya ElAyam](https://open.spotify.com/track/1EqwP3rT6FCGfoy1u1Nb4g) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Helmy](https://open.spotify.com/artist/7fZOp57RmLpJPC4qwxfiqY) | [Red Bull Sika](https://open.spotify.com/album/1RryrgXPDeY0n7okoUX3GC) | 2:18 | 2024-02-23 | 2024-04-19 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abdelbaset Hamooda](https://open.spotify.com/artist/2DPKmLpLRwOVg8u0ylBsyt) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-23 | 2022-04-08 |
+| [Fi Benna](https://open.spotify.com/track/2NCa07JMq1rkajbUINtheD) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fi Benna](https://open.spotify.com/album/0JKa7UCqBPjpm2ay0Pvsaq) | 3:12 | 2025-05-01 |  |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-21 |
 | [Fi Nafs ElMa’ad](https://open.spotify.com/track/30n7cwqhY9OZQipsbEJKHi) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Fi Nafs ElMa’ad](https://open.spotify.com/album/0WV7jZoy7otqVCnczMyLpF) | 4:13 | 2025-01-30 | 2025-03-05 |
 | [Fi Zeroof Tanya](https://open.spotify.com/track/5efRgvpDUMrX2ivUimYPcJ) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fi Zeroof Tanya](https://open.spotify.com/album/1T0slUpWgsXe7i5yzNdLf0) | 3:19 | 2023-02-16 | 2023-04-21 |

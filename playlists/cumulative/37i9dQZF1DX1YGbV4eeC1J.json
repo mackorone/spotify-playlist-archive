@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Harmonize",
+  "description": "What is your love language? Say it in Swahili.  Cover: Beka Flavour",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 243743,
       "name": "Fala",
       "url": "https://open.spotify.com/track/741T5eSZ2YDzVHRGSzXaNL"
@@ -1232,6 +1232,24 @@
       "duration_ms": 186923,
       "name": "Furukuta",
       "url": "https://open.spotify.com/track/5sgsXrwCGhGXaFP7KhbwrI"
+    },
+    {
+      "album": {
+        "name": "Goli",
+        "url": "https://open.spotify.com/album/5rmaDuakvgsWB6LdpLzj0z"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211208,
+      "name": "Goli",
+      "url": "https://open.spotify.com/track/6n3ZfpBRbKFDbJcJDNdEUe"
     },
     {
       "album": {

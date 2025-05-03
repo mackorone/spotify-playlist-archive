@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "AFTER-PARTY",
+        "url": "https://open.spotify.com/album/0rnj09Q7v6w0zlY1ug2SBd"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "AFTER-PARTY",
+      "url": "https://open.spotify.com/track/11BDGlNiqp6F8mJ3VV4dDi"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Omar Courtz y Bad Gyal",
+  "description": "Latinoam\u00e9rica baila al ritmo de Nicky Jam y Be\u00e9le",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 148800,
       "name": "Chaka",
       "url": "https://open.spotify.com/track/0Oa7cgRCgjWBZcbASvH2Lw"
@@ -5144,6 +5144,32 @@
       "duration_ms": 171034,
       "name": "Chiste",
       "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
+    },
+    {
+      "album": {
+        "name": "CHOLOS",
+        "url": "https://open.spotify.com/album/7I88KZOkqHMPYJrrBYYkft"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Rodrigo Films",
+          "url": "https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "CHOLOS",
+      "url": "https://open.spotify.com/track/0wMIAAmcOdmXMxM3EaqhWS"
     },
     {
       "album": {
@@ -11223,6 +11249,28 @@
     },
     {
       "album": {
+        "name": "Hiekka",
+        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Hiekka",
+      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
+    },
+    {
+      "album": {
         "name": "La Mesa de Saibu Vol.1 : Bellakeo Mexa",
         "url": "https://open.spotify.com/album/4Hv4qTkVBu28yVXlmcDaTD"
       },
@@ -11264,7 +11312,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 220827,
       "name": "Hola mami",
       "url": "https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C"
@@ -12196,6 +12244,32 @@
       "duration_ms": 201649,
       "name": "KLKNTOKI",
       "url": "https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w"
+    },
+    {
+      "album": {
+        "name": "KOMO TE KOMO",
+        "url": "https://open.spotify.com/album/1FDm6f51ziXOLD6CoGBQha"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "KOMO TE KOMO",
+      "url": "https://open.spotify.com/track/0eJ6hdThmEhXePbRZRPIC4"
     },
     {
       "album": {
@@ -17808,8 +17882,8 @@
       },
       "artists": [
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/1c2msIuPdhUmppenPEonjv"
         },
         {
           "name": "Omar Courtz",

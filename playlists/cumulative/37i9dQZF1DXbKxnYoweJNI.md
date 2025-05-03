@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: I Mean Us
 
-2,083 songs - 5 day 1 hr 13 min
+2,085 songs - 5 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [ASO](https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [ASO](https://open.spotify.com/album/38vTZxMGSYepLzdqn7uPDa) | 2:48 | 2025-02-13 | 2025-03-14 |
 | [At Midnight](https://open.spotify.com/track/7hta53CoAUP7ITgqJdytTK) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [Stuck on...?](https://open.spotify.com/album/6c1i0YVoGS6lS0IXfWqK1O) | 2:27 | 2024-08-01 | 2024-08-23 |
 | [Away](https://open.spotify.com/track/43xBeFizJv2gfgegr9JA7W) | [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK) | [Away](https://open.spotify.com/album/5npKdPTmkwJnyi3ZM4bC3X) | 3:20 | 2025-02-13 | 2025-04-18 |
+| [Away](https://open.spotify.com/track/2Tm8OgBvY6DkiiW7WWxQ64) | [syt](https://open.spotify.com/artist/6ANfp5ZCaNUXxHpQ6pnsrC) | [Away](https://open.spotify.com/album/5rUKSw2sCwlh0S9bt91n5p) | 3:05 | 2025-05-01 |  |
 | [away from u](https://open.spotify.com/track/4VDcX98wZZxd2qlpFjet5v) | [Jiangie](https://open.spotify.com/artist/6v1HpQjK4Sh4H5kc0lnK5j) | [away from u](https://open.spotify.com/album/7Dq1Bid3dXSfLuqYHGz4ox) | 2:12 | 2025-01-23 | 2025-02-14 |
 | [Baby Go](https://open.spotify.com/track/7D62Kr5COoxsr0ZVnHs7Wq) | [王承渲 Sharon Wang](https://open.spotify.com/artist/3JQAoQesRsr7v7ZLXAigvB) | [Baby Go](https://open.spotify.com/album/6Zd6wehNB8EMb3TffxnPtT) | 3:14 | 2024-07-25 | 2024-08-16 |
 | [Back Alive 卷土重来 \(feat\. GALI\)](https://open.spotify.com/track/4T6hgA8HfV3SmTcuoXzGnx) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [Back Alive 卷土重来 \(feat\. GALI\)](https://open.spotify.com/album/2NPZ8c5yPbJKsKdRWArNuq) | 3:00 | 2024-09-26 | 2024-10-18 |
@@ -712,6 +713,7 @@
 | [不該被愛](https://open.spotify.com/track/729DN1R3J0bAqXta4lWqud) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [不該被愛](https://open.spotify.com/album/18eKM33b7WTSlXsFOxF9Pa) | 2:13 | 2024-08-29 | 2024-09-06 |
 | [不醉不歸](https://open.spotify.com/track/3HLOtkMCvSwt3BEIGpqf4r) | [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu), [鄭思恩 SHIYIN](https://open.spotify.com/artist/0mQ3dhqluS7HXwjy9a2aGu) | [不醉不歸](https://open.spotify.com/album/7pFl4eX3cYAvzCFQzKCKHC) | 3:37 | 2025-02-06 | 2025-03-14 |
 | [不顾一切去撒野](https://open.spotify.com/track/2F8ulCv7aS2V1Z0QrPCjvA) | [五五分fifty\-fifty](https://open.spotify.com/artist/2s9Tg0PZddvrmWqMftZSBz) | [和陌生人一起行走](https://open.spotify.com/album/31v0bVJYMCofrv2iJqEtKX) | 3:59 | 2024-09-12 | 2024-10-11 |
+| [中部第一深情](https://open.spotify.com/track/2M30bTw3N9x6iZB7pitK8v) | [66](https://open.spotify.com/artist/5R0SKgJvvBP8h3RZvDCyUg) | [中部第一深情](https://open.spotify.com/album/6up8t3YaF2EeKiQ9MzyrSZ) | 3:21 | 2025-05-01 |  |
 | [久等了，亲爱的](https://open.spotify.com/track/6KlxdtC8h0i5DbvM7GqBpH) | [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [久等了，亲爱的](https://open.spotify.com/album/3HKLf05VUYXUTsShq0yLXV) | 3:37 | 2024-10-17 | 2024-10-25 |
 | [之後](https://open.spotify.com/track/5UBZo4DXMs2M59eOCXZNyL) | [多情牛奶糖](https://open.spotify.com/artist/73NVIh5VRRl5XmWRvVRruC) | [之後](https://open.spotify.com/album/2wujpIbrdBHISsviGJ0Ge0) | 3:57 | 2024-07-25 | 2024-08-16 |
 | [九級龍捲風 \(三立戲劇《戲說台灣》片頭曲\)](https://open.spotify.com/track/21QSCs6oA93EtcFRljh5u9) | [彭正](https://open.spotify.com/artist/44PoSo5RE2ccPcX924xVu3) | [九級龍捲風](https://open.spotify.com/album/2xMBJVL26PGwJ6ofn29sII) | 4:13 | 2025-04-10 | 2025-04-18 |

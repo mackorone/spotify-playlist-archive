@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Celene by Candlelight",
+        "url": "https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs"
+      },
+      "artists": [
+        {
+          "name": "\u00d3skar \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Celene by Candlelight",
+      "url": "https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp"
+    },
+    {
+      "album": {
         "name": "Childhood Memories",
         "url": "https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 145296,
       "name": "Childhood Memories",
       "url": "https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU"
@@ -622,6 +640,24 @@
       "duration_ms": 163411,
       "name": "comforts of my home",
       "url": "https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT"
+    },
+    {
+      "album": {
+        "name": "Conversus Caelum",
+        "url": "https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Conversus Caelum",
+      "url": "https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH"
     },
     {
       "album": {
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 156502,
       "name": "Mornings",
       "url": "https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF"
@@ -4086,7 +4122,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 156147,
       "name": "Years Gone By",
       "url": "https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS"

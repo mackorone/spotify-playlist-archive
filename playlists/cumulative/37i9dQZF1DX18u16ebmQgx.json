@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1sicos 1.0",
+        "url": "https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234444,
+      "name": "Cl\u00e1sicos 1.0: Robando Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
+    },
+    {
+      "album": {
         "name": "La Cara del Gato",
         "url": "https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq"
       },
@@ -2154,24 +2172,6 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/5MHGvuIF5LZmCZZ3Exfpvt"
-    },
-    {
-      "album": {
-        "name": "Cl\u00e1sicos 1.0",
-        "url": "https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "date_added": "2025-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234444,
-      "name": "Robando Sue\u00f1os - Cl\u00e1sicos 1.0",
-      "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-308 songs - 19 hr 1 min
+309 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Crazay](https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Crazay / Not The Same](https://open.spotify.com/album/3Dmb0hg5sFVmHaBAK74fVE) | 3:45 | 2022-04-29 | 2024-04-13 |
 | [Crazy World \- Opolopo Radio Remix](https://open.spotify.com/track/3UZOU7uOqYcf5oPCLf5Hyo) | [Kenny Thomas](https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Crazy World \(Opolopo Remix\)](https://open.spotify.com/album/1YTQww6bWfyyf2Z4JMf2gm) | 3:31 | 2022-10-28 | 2023-08-05 |
 | [Cry \(Just A Little\)](https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp) | [Disko Junkie](https://open.spotify.com/artist/0E3yCtI9D8vUfIIWDOO7zP) | [Cry \(Just A Little\)](https://open.spotify.com/album/2p7PtQmmI95HyirutUbrDp) | 3:44 | 2022-03-18 | 2023-03-04 |
-| [Crying At The Discoteque](https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Crying At The Discoteque](https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq) | 3:58 | 2022-12-16 |  |
+| [Crying At The Discoteque](https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Crying At The Discoteque](https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq) | 3:58 | 2022-12-16 | 2025-05-03 |
 | [Crying on the Dance Floor](https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd) | [Jessy Jones](https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd) | [Crying on the Dance Floor](https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M) | 3:25 | 2021-07-09 | 2022-10-29 |
 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-09 |  |
 | [Dance and Fall in Love](https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Dance and Fall in Love](https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641) | 2:31 | 2025-03-07 |  |
@@ -305,6 +305,7 @@
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 | 2024-09-20 |  |
 | [Waste No Time](https://open.spotify.com/track/5FC5usNqCax1dFzRKW1aOR) | [DE SOFFER](https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz) | [Waste No Time](https://open.spotify.com/album/2bYWKUHwRwTOnnEjwE0rkv) | 3:03 | 2025-02-21 |  |
+| [We Got To Hit It Off \(Dimitri From Paris Liberated Women Mix\)](https://open.spotify.com/track/7le4skY7kSPTHiaft1OC78) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [We Got To Hit It Off \(Dimitri From Paris and Opolopo Mixes\)](https://open.spotify.com/album/26FJgvySTM4FfqL9lXXJAK) | 6:36 | 2025-05-02 |  |
 | [We Hold the Future](https://open.spotify.com/track/0PAugWAYPor3vV3cB8euA3) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [We Hold the Future](https://open.spotify.com/album/4wZLlIABrvzjycmnHN339Y) | 3:11 | 2021-10-15 | 2022-10-22 |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 |  |
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2022-02-25 | 2024-02-24 |

@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 El Zar.
 
-378 songs - 23 hr 31 min
+379 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Canibales](https://open.spotify.com/track/4yGyV9C9RleOjWQdDWtUxW) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Canibales](https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf) | 2:51 | 2023-06-02 | 2024-01-13 |
 | [Cantar de la mala salud](https://open.spotify.com/track/2NYPExQi5gIQGX54iQoMoe) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Cantar de la mala salud](https://open.spotify.com/album/7iqxq7yEQ8w60Wc154NS16) | 3:46 | 2023-07-28 | 2023-09-23 |
 | [Casi casi](https://open.spotify.com/track/1KGKzr1V7uQwIbkwtzQxoZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Casi casi](https://open.spotify.com/album/77cFHisp9WEUfGxEVZLKx5) | 2:12 | 2023-10-20 | 2024-03-23 |
+| [Cerca Lejos](https://open.spotify.com/track/01d2IW5H2F5tjLIKQO0Ncf) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 3:18 | 2025-05-02 |  |
 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 | 2023-06-02 | 2024-06-08 |
 | [Chocarnos Contra La Pared](https://open.spotify.com/track/2ez2vyyoxRsM6vy2ygp5bf) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:47 | 2024-04-26 | 2024-07-27 |
 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 | 2024-04-26 |  |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4wta20PHgwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4wta20PHgwo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4wta20PHgwo)
 
-### [Late Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
+### [Jazz nocturno](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
 
-> The perfect backdrop to an evening spent relaxing in solitude.
+> La música de fondo perfecta para relajarse en soledad por la tarde.
 
 509 songs - 1 day 21 hr 57 min
 
@@ -59,7 +59,7 @@
 | [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 | 2023-03-16 |  |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-20 | 2024-04-19 |
-| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 | 2025-05-03 |
 | [Baltic Wind](https://open.spotify.com/track/5AXHh4068Cr0GA5glGIEvP) | [Central Park Quartet](https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4) | [Baltic Wind](https://open.spotify.com/album/6wDiSuCc4pZk6fh0SDyPmZ) | 3:49 | 2024-03-19 |  |
 | [Beautiful Love](https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [Beautiful Love](https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME) | 4:40 | 2023-09-22 |  |
 | [Before I Go](https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 6:05 | 2022-09-08 | 2022-12-21 |
@@ -263,7 +263,7 @@
 | [Melody At Night](https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [Melody At Night](https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl) | 4:31 | 2025-02-21 |  |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2021-04-19 |  |
 | [Midnight Sun Upon Saltværsøya](https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Beyond](https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA) | 7:22 | 2023-08-03 |  |
-| [Misanthrope's Hymn](https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Misanthrope's Hymn](https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI) | 6:09 | 2024-08-23 | 2025-03-03 |
+| [Misanthrope's Hymn](https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Misanthrope's Hymn](https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI) | 6:09 | 2024-08-23 |  |
 | [Miss B.](https://open.spotify.com/track/1BmYFsBIxIB2mDsIXGlCv7) | [Mu Quintet](https://open.spotify.com/artist/26hCtsfsn4q3v24kGBmlr0) | [Summit](https://open.spotify.com/album/5P1I1tIgkLh6682ZiOtP92) | 4:51 | 2022-12-22 |  |
 | [Misty](https://open.spotify.com/track/1W9s9CKbU4c7ZOniOScWWQ) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Misty](https://open.spotify.com/album/08nlPE9Zz8uLqrG3yMRdwX) | 5:51 | 2024-10-11 |  |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-07-21 | 2023-02-08 |

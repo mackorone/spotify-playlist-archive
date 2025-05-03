@@ -2,9 +2,9 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Atif Aslam
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Maanu
 
-204 songs - 10 hr 51 min
+205 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2024-06-28 | 2025-01-17 |
 | [Sapnay](https://open.spotify.com/track/0nWAqhrBJId9xQua66nW5T) | [Curly Ney](https://open.spotify.com/artist/51BOOSWkcSZ33saGYAJDWw), [Ansar.](https://open.spotify.com/artist/4PBJ9JbSHMMA78dtwhXtLa), [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Sapnay](https://open.spotify.com/album/7flxbAN95mWyyPoAxDhYnB) | 2:18 | 2024-06-28 | 2024-09-28 |
 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 | 2025-04-18 | 2025-05-02 |
+| [savera](https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [savera](https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ) | 2:57 | 2025-05-02 |  |
 | [SHEESHA TOOT GAYA](https://open.spotify.com/track/2vYNBoxURqF2wudDHiAfsu) | [Sohail Shahzad](https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [SHEESHA TOOT GAYA](https://open.spotify.com/album/62nTUXkjqDSJX3qQ28xeHx) | 2:52 | 2025-02-28 |  |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-06-28 | 2025-01-17 |
 | [Shikwa](https://open.spotify.com/track/0LnvqnJoGJVX2nqpbQ6lzj) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8) | [Shikwa](https://open.spotify.com/album/3imsHzCmDnT0B11GiynPNV) | 5:39 | 2025-01-17 | 2025-04-19 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,148 songs - 4 day 19 hr 23 min
+2,150 songs - 4 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [ENTER: A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/track/3pyMCe3ShAnk0TzOoVuGsL) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 1:31 | 2022-07-23 |  |
 | [Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:59 | 2022-02-18 |  |
 | [envy](https://open.spotify.com/track/2qSKseevVOjxtOU1uT1ZkM) | [3LI](https://open.spotify.com/artist/4T0pY3JMTszcEPmNfLYYMY) | [envy](https://open.spotify.com/album/4mTJlYjuefjFfRLzNtr7Bu) | 1:21 | 2022-12-14 |  |
+| [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [envy](https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg) | 2:08 | 2025-05-02 |  |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-11 |  |
 | [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [Pathetic](https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 | 2021-12-30 |  |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-11-14 |  |
@@ -1083,7 +1084,7 @@
 | [Lalalatte](https://open.spotify.com/track/5IjTpw72dT98mVjCX6rOab) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Latte and a Muffin](https://open.spotify.com/album/1r3Cw28qOUPLl8Qh7ibDlc) | 2:13 | 2023-01-06 |  |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2022-04-26 |  |
 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 | 2021-11-14 |  |
-| [LATATA \- English Ver.](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA \(English Ver.\)](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) | 3:22 | 2021-08-05 |  |
+| [LATATA \- English Ver.](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA \(English Ver.\)](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) | 3:22 | 2021-08-05 |  |
 | [Lavagirl](https://open.spotify.com/track/7bDj6Ar84jUrrSCwJFj3gx) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Lavagirl](https://open.spotify.com/album/3tMhixCa6CD3aKJzH43iZX) | 2:22 | 2021-08-05 |  |
 | [Lavender](https://open.spotify.com/track/1cliEFmlQVcO8Z7KdoV6co) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [The Junkyard 2](https://open.spotify.com/album/16uS5ap5P6Swh5QoBk1HWA) | 2:16 | 2021-11-14 |  |
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2021-08-05 |  |
@@ -1643,6 +1644,7 @@
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-08-05 |  |
 | [Seventeen](https://open.spotify.com/track/7GVkfVPsEXo7pG6iAk2cCs) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic \(Bonus Track Version\)](https://open.spotify.com/album/5xLwhWVdrpxJxCZay0NrdQ) | 4:37 | 2022-04-03 |  |
 | [severed](https://open.spotify.com/track/5dS6OAmkHffFSWyyor7etp) | [shallowprayer](https://open.spotify.com/artist/3fu5lsDzkenXGoUT8dcykr) | [severed](https://open.spotify.com/album/69JvwNBbHjWCUYZaQlyPcQ) | 3:06 | 2024-08-01 |  |
+| [sex dealer](https://open.spotify.com/track/2252WLkjUzZaLhNvq8GhXO) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [sex dealer](https://open.spotify.com/album/5PkfpuleTH72PNp2AMMKbN) | 4:22 | 2025-05-02 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-08-05 |  |
 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 | 2021-08-05 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2022-02-04 |  |

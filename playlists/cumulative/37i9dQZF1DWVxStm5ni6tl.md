@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Bells Larsen, Artwork: Isu Kim.
 
-2,277 songs - 4 day 21 hr 51 min
+2,278 songs - 4 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1832,6 +1832,7 @@
 | [Spontaneous](https://open.spotify.com/track/2IqW9CZtjeLvAwLhOgt7z7) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [Spontaneous](https://open.spotify.com/album/4z3VGswg0wJudon5iYPwMS) | 2:49 | 2023-08-23 | 2023-09-07 |
 | [spooky](https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [spooky](https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz) | 4:40 | 2024-07-17 | 2024-08-01 |
 | [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 | 2025-01-22 | 2025-01-30 |
+| [Stand in the sun with me](https://open.spotify.com/track/2OYr0kfoge5BWxTzqUspab) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t) | [Stand in the sun with me](https://open.spotify.com/album/70QAOdYgweMKpkTM1drfvo) | 3:19 | 2025-05-02 |  |
 | [Stand On Business](https://open.spotify.com/track/7IAN3EmMNtK4ofh3eXekem) | [Tuck](https://open.spotify.com/artist/1dCvdtPon44QF2A0O5zca8) | [Stand On Business](https://open.spotify.com/album/4rBTeK4PL1nFcrwA5RQBuC) | 1:57 | 2024-01-31 | 2024-02-08 |
 | [Standby Baby](https://open.spotify.com/track/6esccUfWY4NWL3oYJajQHU) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Standby Baby](https://open.spotify.com/album/1EYRPp03Jr5KLY3n4B1Nha) | 4:42 | 2024-01-24 | 2024-02-15 |
 | [Star](https://open.spotify.com/track/7ogGUNEXM6BrhFgv5jdJQU) | [Trae Gold](https://open.spotify.com/artist/7annY00NYmdxtdkcmqN5s1) | [Star](https://open.spotify.com/album/67FiK65R160x5Fjb8wtWfh) | 2:51 | 2024-04-17 | 2024-04-24 |
@@ -1859,7 +1860,7 @@
 | [Still Got Time](https://open.spotify.com/track/0U7MQ04fsbU0MeuRpVzEY7) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Still Got Time](https://open.spotify.com/album/67iqgaM4xI92y16BbvunSn) | 2:42 | 2023-08-09 | 2023-08-24 |
 | [Still Have July](https://open.spotify.com/track/6TcNs3Xe0QUzdk9X4n0610) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Still Have July](https://open.spotify.com/album/0lPgEnWvpK95jkUtCo2cO2) | 3:22 | 2024-06-26 | 2024-07-11 |
 | [Still Virgil](https://open.spotify.com/track/1sp3KzXJjfdSSTHAP1gniL) | [Kampaign](https://open.spotify.com/artist/021PSEmPylGATns0ys7XTf) | [Still Virgil](https://open.spotify.com/album/4tNQDltm4lL7mVACtaz1Ca) | 2:34 | 2024-01-24 | 2024-02-01 |
-| [STILLCHOOSEU](https://open.spotify.com/track/5PKfuLyqB4bOkSQZRnumrp) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ), [Gordon](https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g) | [THISISWHOiB](https://open.spotify.com/album/1YgmEIiizJ8Oisy4B4zZ3e) | 3:25 | 2025-04-23 |  |
+| [STILLCHOOSEU](https://open.spotify.com/track/5PKfuLyqB4bOkSQZRnumrp) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ), [Gordon](https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g) | [THISISWHOiB](https://open.spotify.com/album/1YgmEIiizJ8Oisy4B4zZ3e) | 3:25 | 2025-04-23 | 2025-05-03 |
 | [STIRR IT UP](https://open.spotify.com/track/4f0WJP8rt3t8rGsZe62mhB) | [Will TOA](https://open.spotify.com/artist/69xjIFoFKUn23lDQAYoDqM) | [STIRR IT UP](https://open.spotify.com/album/1k6IhpA52QIWSU27Pxxa3L) | 2:42 | 2023-11-22 | 2023-11-30 |
 | [Storm](https://open.spotify.com/track/2d0tSxRBa1HogyBnhprZbH) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [Storm](https://open.spotify.com/album/5RWa1vtqR722LRPyFLJflw) | 2:30 | 2024-01-17 | 2024-06-20 |
 | [Storming Out](https://open.spotify.com/track/3H7IGbRRh3rHy3d2b9jGsS) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Storming Out](https://open.spotify.com/album/3lAtEouGEFlz5ODKtBIASE) | 2:08 | 2025-04-30 |  |

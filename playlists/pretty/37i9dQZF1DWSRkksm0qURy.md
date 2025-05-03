@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,727 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,770 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 79 | [Water Fast 417 Hz](https://open.spotify.com/track/4YEHXuDDwt9uzHkwCChRHo) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Water Fast 417 Hz](https://open.spotify.com/album/7qKsWfm24AB2EQQZDESvZJ) | 2:29 |
 | 80 | [Deep Energy Cleansing 417 Hz](https://open.spotify.com/track/0nXJnReT4g1SsTH98vaciS) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 |
 
-Snapshot ID: `Z6zABgAAAABW6uaU/huI9CjXI3QJ6oE/`
+Snapshot ID: `Z6zABgAAAAB18/PvlW2DA38LRUL2vBH0`

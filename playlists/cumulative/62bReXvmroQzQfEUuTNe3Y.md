@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-473 songs - 1 day 2 hr 33 min
+474 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Weightless](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Weightless](https://open.spotify.com/album/2lJ4zllo7kxxEbeWTJxLR6) | 3:06 | 2024-10-18 | 2025-04-16 |
 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2025-01-03 |  |
 | [What About Me](https://open.spotify.com/track/0Dv9RfsaOgJ9sNp2NVwU18) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [What About Me](https://open.spotify.com/album/26itlv8iMJgvevPRko5Fwb) | 3:43 | 2020-09-13\* | 2021-07-17 |
+| [What Else Is There? \(True Electric\) \- DJ Tennis Remix](https://open.spotify.com/track/3mZIto6d69b0zqMG4QnGeb) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [What Else Is There? \(True Electric\) \[DJ Tennis Remix\]](https://open.spotify.com/album/4w95SXHJoVgYnXjIyzvjHi) | 3:59 | 2025-05-02 |  |
 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Artonal](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 | 2022-11-04 |  |
 | [What's in My Head](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [What's in My Head](https://open.spotify.com/album/3qgnUK6AeZsrwwgGTyMACQ) | 3:16 | 2021-05-28 | 2022-07-23 |
 | [When I Get There](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Invincible EP](https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L) | 3:40 | 2021-10-02 |  |

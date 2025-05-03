@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-210 songs - 15 hr 26 min
+211 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [HIGH JUMP NO LIMIT](https://open.spotify.com/track/2xEQzDv6FN51uHBKnhsIcm) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 4:41 | 2022-12-01 | 2022-12-21 |
 | [HIGH JUMP NO LIMIT](https://open.spotify.com/track/6hkyB3p0xzIrDcekRTPMSb) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 4:41 | 2024-03-05 |  |
 | [Hope's Journey](https://open.spotify.com/track/0JrmJ6QvgGs65lXuT2d9hj) | [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM NEW STAGE EPISODE：15 F\-LAGS](https://open.spotify.com/album/49HahmeA7j5mL7rGb2V4dV) | 4:07 | 2024-03-05 | 2025-01-12 |
-| [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 | 2022-12-22 |  |
+| [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 | 2022-12-22 | 2025-05-03 |
 | [JOKER オールマイティ](https://open.spotify.com/track/5TPX8WWXHjfiDWeMk83fGY) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 5:26 | 2022-12-01 |  |
 | [Journey JOY Blend](https://open.spotify.com/track/0JKbdKWRfgErXSmuje9zV1) | [神谷幸広 \(CV.狩野 翔\)](https://open.spotify.com/artist/1dntGXrPQ9hLm1rAD6qu7a) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:22 | 2023-05-09 | 2024-01-01 |
 | [JOYFUL HEART MAKER](https://open.spotify.com/track/0shXOeXxmhiVhVsr52F6wp) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:00 | 2023-04-11 |  |
@@ -170,6 +170,7 @@
 | [ほっぷ・すてっぷ・ハイ、しーぷ!](https://open.spotify.com/track/0lSwhCT4osQHWvYeW20ckj) | [岡村直央 \(CV.矢野奨吾\)](https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:12 | 2022-12-01 | 2022-12-06 |
 | [もくろみインディアNight](https://open.spotify.com/track/1wYSqrwRMjLWOrLqD3OYqa) | [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl), [猫柳キリオ \(CV.山下大輝\)](https://open.spotify.com/artist/13uZ6QPMOMEXrrw2kva2S8), [秋月 涼 \(CV.三瓶由布子\)](https://open.spotify.com/artist/1TwIAjt19YsW6wStKDfzcY) | [THE IDOLM@STER SideM WORLD TRE@SURE 11](https://open.spotify.com/album/6ufQdazrtEfkeoRIVpmCeR) | 4:12 | 2024-03-05 | 2024-11-24 |
 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 | 2022-12-01 | 2024-12-28 |
+| [わんだー まーちんぐ！](https://open.spotify.com/track/7dXMjLmVAPp88OHSm9yrFu) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM NEW STAGE EPISODE：01 もふもふえん](https://open.spotify.com/album/4Muer0bl5qESen2hI4ibFw) | 4:01 | 2025-01-14 |  |
 | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/track/04vUozb7sdAaoRUdqkECcC) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk), [シンデレラガールズ](https://open.spotify.com/artist/77l2335Jbrp4DUCWcDKfdE), [ミリオンライブ！](https://open.spotify.com/artist/3wwXUcmJHjUEvDK9jcvPsi), [SideM](https://open.spotify.com/artist/6AzZEbK2TNyU22XamXPtA8), [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR), [学園アイドルマスター](https://open.spotify.com/artist/4Dkexg0MHU4Pzppo4f1C64) | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/album/1kEKLArEhl8xU95FmZLuSa) | 7:25 | 2024-12-10 |  |
 | [アトモスフィア](https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD) | [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 5:46 | 2023-05-09 | 2025-01-17 |
 | [エウレカダイアリー](https://open.spotify.com/track/7oIyoSF18q8FlaGPrc90wi) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:48 | 2022-12-01 | 2024-11-20 |

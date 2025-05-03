@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,674 likes - 20 songs - 1 hr 17 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,674 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 |
-| 2 | [Forever The Night](https://open.spotify.com/track/0WLQtuxBnuOYWB6RuQ8flr) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Forever The Night](https://open.spotify.com/album/5TqbTmXgostHmPdlVS43sI) | 4:05 |
-| 3 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 |
-| 4 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
-| 5 | [Backstab the Rat Race](https://open.spotify.com/track/3lVYjrbXc5DEUfFZsr3Rv4) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Backstab the Rat Race](https://open.spotify.com/album/20LVJVSquU2Qnfk2SjanEm) | 2:34 |
-| 6 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 |
-| 7 | [No Tomorrow](https://open.spotify.com/track/0UZjd32VSW5KuI8kSHOVhK) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [No Tomorrow](https://open.spotify.com/album/3azc3Qbax6qScIY3OevTNJ) | 4:11 |
-| 8 | [Pill To Swallow](https://open.spotify.com/track/1zFDTVldgGkboCG98c91d6) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Pill To Swallow](https://open.spotify.com/album/7jg6n0fgOkGDj9fxcIzI0u) | 3:42 |
-| 9 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 |
-| 10 | [Tired Eyes](https://open.spotify.com/track/3wl99nt5DAdNsW2iGl89kH) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Tired Eyes](https://open.spotify.com/album/1PPzDscYP774d3bJZkfLTB) | 4:04 |
-| 11 | [Broken Entry](https://open.spotify.com/track/3bgIbYeOfzD3UptvbPPPe2) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W) | [Broken Entry](https://open.spotify.com/album/1Qs9YSMWpVbRXO6w0M331T) | 4:20 |
-| 12 | [The Weight](https://open.spotify.com/track/6CmXwYhKm1kO4W4yAbFlYm) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [The Weight](https://open.spotify.com/album/46E3II1W1u8hhSLqIthYpK) | 3:46 |
-| 13 | [Fame](https://open.spotify.com/track/0rBF1CaCZlV457jCW3s6iE) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [Fame](https://open.spotify.com/album/4IirItXa8QnUjOyO3PXZE3) | 3:00 |
-| 14 | [The Daylight Between Us](https://open.spotify.com/track/6CLXO7CZxBEdOEF01ANa35) | [FOXHAUNT](https://open.spotify.com/artist/5Vf0Xs4RlGuUALBkeUUAyy), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [The Daylight Between Us](https://open.spotify.com/album/0uN0rkKkIyiD2oA4bXpVVm) | 3:29 |
-| 15 | [Thorns](https://open.spotify.com/track/4auGO7wwg667AIfv60WaW4) | [Higher Walls](https://open.spotify.com/artist/0QSFCeiUCvkjxzwj7uvSHQ) | [No End](https://open.spotify.com/album/1sPiDWIvsgAGFC6uGlJDkQ) | 2:58 |
-| 16 | [Eye 4 An Eye](https://open.spotify.com/track/1oWqGjFASBKce5ck6IHq2y) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK), [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Eye 4 An Eye](https://open.spotify.com/album/44QoptHxk6HLEYjKMg64PE) | 3:10 |
-| 17 | [No Apologies \(feat\. Taime Downe\)](https://open.spotify.com/track/12HgVyC0LPDhnMNXKn1hcn) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo), [Taime Downe](https://open.spotify.com/artist/0GNvw9fFzF0NwjzDmlI5Bl) | [Mid Death Crisis](https://open.spotify.com/album/4EEDPJLZsPukCYhPT3Hpyu) | 3:46 |
-| 18 | [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 |
-| 19 | [Pining For Ever](https://open.spotify.com/track/0sIjrzRGDjMpMrWYddlEwk) | [Pelican](https://open.spotify.com/artist/0Gq06EJlfPumvCdMsnkJFp) | [Pining For Ever](https://open.spotify.com/album/06lX8VtM2hd1X27X939DRj) | 7:00 |
-| 20 | [Sports Bar](https://open.spotify.com/track/0wYK8HyYTKsjrQb9brdGvt) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Sports Bar](https://open.spotify.com/album/2vlC2Xx8sijAEAaOjfX1DC) | 3:18 |
+| 1 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
+| 2 | [The Art of War](https://open.spotify.com/track/66GDVPbthQhv9kNIljviXo) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [The Art of War](https://open.spotify.com/album/4u62wKZUvpzQJ9K1mcCgjd) | 3:39 |
+| 3 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
+| 4 | [Subside](https://open.spotify.com/track/0LyQ3mjK2pY1R2xHCcnuLF) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Subside](https://open.spotify.com/album/0APAK0Clnl60TkPqjnEB1s) | 2:41 |
+| 5 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
+| 6 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
+| 7 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
+| 8 | [RHINESTONE COWBOY](https://open.spotify.com/track/4x7QBdkjW2EtEIdXTToetB) | [Knives](https://open.spotify.com/artist/2YoHhPouaTT96k3dUQ8WZK) | [GLITTER](https://open.spotify.com/album/61A1odhmwGxO4babRpvu6q) | 2:23 |
+| 9 | [Pill To Swallow](https://open.spotify.com/track/1zFDTVldgGkboCG98c91d6) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Pill To Swallow](https://open.spotify.com/album/7jg6n0fgOkGDj9fxcIzI0u) | 3:42 |
+| 10 | [Animal](https://open.spotify.com/track/2Z9vZPuoXphxUAl88gSPsZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Animal](https://open.spotify.com/album/6TF4YZhNGumdvBul3MgBeJ) | 4:07 |
+| 11 | [Bitter Life](https://open.spotify.com/track/7BGoeAP4YRpwJMZ9bG6pTj) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn), [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF) | [Bitter Life](https://open.spotify.com/album/6v4OXpmxYqV8DMUlNYnymC) | 2:47 |
+| 12 | [Bodies](https://open.spotify.com/track/4iWQnyHK2lFZvDHa3hmHFd) | [Cwfen](https://open.spotify.com/artist/2osrICe2kgcit3D086z3Lo) | [Bodies](https://open.spotify.com/album/5WT9Rl1YDRnwAo1oex7pzE) | 6:49 |
+| 13 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 |
+| 14 | [In Fire Reborn](https://open.spotify.com/track/2fTWxiSnKXddSvbdxDu0Ss) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [In Fire Reborn](https://open.spotify.com/album/6cxqI93wQAxeSSq5ZDD5IH) | 3:18 |
+| 15 | [Complete Desolation](https://open.spotify.com/track/0XfFwtMDJvzPVe1CdpuWKS) | [Believe In Nothing](https://open.spotify.com/artist/2mkYfrT58YGRBySZQ7EDnw) | [Complete Desolation](https://open.spotify.com/album/58izB4LaXRHJugA7MPJOMY) | 4:22 |
+| 16 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 |
+| 17 | [Plagiarist](https://open.spotify.com/track/0SPj7B6r2PYezxF0KyIYDb) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Plagiarist](https://open.spotify.com/album/4Yf80mJqwGm3WzcCaIgTez) | 3:13 |
+| 18 | [Candle](https://open.spotify.com/track/0ItTJFuV4K30xpBxymoroQ) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Candle](https://open.spotify.com/album/0bLFYPsVH2EfTeHyXLLXoY) | 4:25 |
+| 19 | [Winter Sun](https://open.spotify.com/track/2TeT8IpDDYYIoMGIHZXXPj) | [Beyond Extinction](https://open.spotify.com/artist/38vt0CiehYk43Nu6xcfKXk) | [Winter Sun](https://open.spotify.com/album/2WlV94so7BGU2yuZTUMyMr) | 3:47 |
+| 20 | [Dark Skies](https://open.spotify.com/track/0IA6X2f10GRgi6BInFztiH) | [All Ears Avow](https://open.spotify.com/artist/5gW8mEbsbEyDWU5ORfabcX) | [Dark Skies](https://open.spotify.com/album/1wzX2jj0eoRZz8shFNPoV2) | 4:05 |
 
-Snapshot ID: `AAAM0rPKNdffNaqBkiD/+SkiwcxsoV6c`
+Snapshot ID: `AAAM1SZQVbbrgOIgF01aNeZr7NOLPStc`

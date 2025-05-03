@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: Tasha Cobbs Leonard",
+  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: CeCe Winans",
   "name": "Gospel Hits",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/2uiIrAQPYE0zIuki6esRkg"
@@ -942,6 +942,28 @@
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301130,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L"
     },
     {
       "album": {

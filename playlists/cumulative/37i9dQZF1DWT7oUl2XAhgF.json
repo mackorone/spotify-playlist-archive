@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/5qKeXbW7HY6yxXHBZmW5EP"
+      },
+      "artists": [
+        {
+          "name": "Taylor Williams",
+          "url": "https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/0scJw0FWIuCIYmy1oyhVud"
+    },
+    {
+      "album": {
         "name": "Dreaming In Slow Motion",
         "url": "https://open.spotify.com/album/2t2e95aPXSWBFsaZnMVtir"
       },
@@ -7636,7 +7654,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 190915,
       "name": "Stretch Out",
       "url": "https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU"

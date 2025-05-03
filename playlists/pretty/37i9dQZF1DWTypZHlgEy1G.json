@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537026,
+  "num_followers": 537017,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -351,38 +351,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "En Vogue",
-        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
-      },
-      "artists": [
-        {
-          "name": "Jacques Dutronc",
-          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Il est cinq heures, Paris s'\u00e9veille",
-      "url": "https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "En Vogue",
+        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Il est cinq heures, Paris s'\u00e9veille",
+      "url": "https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Yves Montand - Les feuilles mortes",
-        "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 203382,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Heritage - Jolie M\u00f4me - Philips (1961)",
         "url": "https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166573,
       "name": "Les rupins",
       "url": "https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Yves Montand - Les feuilles mortes",
+        "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 203382,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
     },
     {
       "added_at": "2024-07-25 13:22:22",

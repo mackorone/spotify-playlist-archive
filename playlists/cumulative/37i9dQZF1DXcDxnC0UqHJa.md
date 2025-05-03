@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-298 songs - 18 hr 58 min
+299 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-06-03 | 2024-12-12 |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-04-28 | 2025-03-09 |
 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-12-13 |  |
+| [Harvest](https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Harvest](https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7) | 3:16 | 2025-05-02 |  |
 | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/album/4GDA3v5DT10GdOhOPyY85q) | 3:03 | 2023-05-05 | 2023-09-13 |
 | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/2FeUjUEnlUdnrN9sEzYYMY) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:03 | 2023-11-17 | 2024-04-19 |
 | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 | 2023-11-11 |
@@ -172,7 +173,7 @@
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 | 2024-04-19 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-12-13 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 | 2024-11-22 |  |
-| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 |  |
+| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 | 2025-05-03 |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 | 2022-10-14 | 2024-04-19 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute To John Denver](https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5) | 3:56 | 2021-12-13 | 2022-07-29 |
 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 | 2023-01-20 |  |

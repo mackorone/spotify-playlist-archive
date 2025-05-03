@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,179 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,208 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 38 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 |
 | 39 | [Paisa Note \(From "Comali"\)](https://open.spotify.com/track/6FXKnyOJBnwQYzxDfcTd8i) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Paisa Note \(From "Comali"\)](https://open.spotify.com/album/4EmV12aHy15vDLIaVL2dAD) | 3:04 |
 | 40 | [Nannare](https://open.spotify.com/track/6bpbH9GthYXEdrPS2PoiTE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Uday Mazumdar](https://open.spotify.com/artist/6VWjZcB6nolKvE74s0ds7M) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KUhs5DCSDhq6V1AcgjXab) | 5:28 |
-| 41 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 |
-| 42 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 |
+| 41 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 |
+| 42 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 |
 | 43 | [Maruvaarthai](https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maruvaarthai \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ) | 5:56 |
 | 44 | [Bae](https://open.spotify.com/track/4n7h0fD56BijrFnxNJ2ifV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 4:02 |
 | 45 | [Yennai Izhukkuthadi](https://open.spotify.com/track/5D2sz1jrV060bf55IMbFtR) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kadhalikka Neramillai](https://open.spotify.com/album/7mbvUIVOl6vON1sCqdPJjT) | 3:48 |

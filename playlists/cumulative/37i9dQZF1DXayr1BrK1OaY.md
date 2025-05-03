@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-485 songs - 1 day 5 hr 3 min
+486 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [CAN WE DO BETTER?](https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [CAN WE DO BETTER?](https://open.spotify.com/album/4Rw1TC7L4Of74J9Zjx8ruQ) | 3:07 | 2024-07-05 | 2025-02-22 |
 | [Can't Do Without You](https://open.spotify.com/track/4jdczubN23tbPJoZ1bxBeI) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/1W4kGJYKUseEJQA4Od8JxR) | 3:56 | 2021-04-02 | 2022-04-18 |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2021-04-02 | 2024-03-14 |
+| [Can't find you](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Can't find you](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 | 2025-05-02 |  |
 | [can't get you out of my mind](https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [can’t get you out of my mind](https://open.spotify.com/album/1C1FK5yrVZ7rZQzousGzSb) | 2:05 | 2024-12-27 | 2025-02-22 |
 | [Can't Help But Worry \(Every Night Every Day\)](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i) | [Soluna](https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY) | [Can't Help But Worry \(Every Night Every Day\)](https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX) | 1:49 | 2025-04-18 |  |
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb) | 2:36 | 2021-04-16 | 2022-08-24 |
@@ -490,7 +491,7 @@
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-16 | 2024-03-30 |
 | [You & Me \- Flume Remix](https://open.spotify.com/track/2yl5YlFWTreZRv4hMlcngT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Disclosure Classics](https://open.spotify.com/album/4uFZjHXOKswRVy7r1ry15P) | 4:42 | 2021-04-02 | 2023-12-30 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2023-12-29 |  |
-| [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 | 2025-04-25 |  |
+| [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 | 2025-04-25 | 2025-05-03 |
 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 | 2021-04-02 | 2024-04-06 |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2021-07-30 | 2024-08-17 |
 

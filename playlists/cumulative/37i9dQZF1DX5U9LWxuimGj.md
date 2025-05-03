@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Sammy Arriaga
 
-198 songs - 10 hr 53 min
+199 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 | 2023-12-24 |
 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 | 2023-12-15 | 2024-04-10 |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |
+| [Así Es En México](https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Así Es En México](https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ) | 3:12 | 2025-05-02 |  |
 | [Bartender I'll Take Two](https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC) | [Selestial Alcoser](https://open.spotify.com/artist/4HtKg8ufn3YPH6xsZLQEUn) | [Bartender I'll Take Two](https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57) | 3:38 | 2024-06-17 |  |
 | [Beautiful Crazy \(Bella Locura\) \- Spanish](https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:56 | 2023-12-15 | 2024-04-19 |
 | [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 | 2024-12-14 |
@@ -110,7 +111,7 @@
 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 |  |
 | [Late](https://open.spotify.com/track/6l1OCMAfxY4VjK2XXcxsbE) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:52 | 2023-09-29 | 2024-04-19 |
 | [Leaving With My Heart](https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Leaving With My Heart](https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z) | 2:58 | 2024-06-17 |  |
-| [Left My Heart In Texas](https://open.spotify.com/track/6v8cRGwMABd9EXkti1TLhU) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Left My Heart In Texas](https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl) | 3:06 | 2025-03-28 |  |
+| [Left My Heart In Texas](https://open.spotify.com/track/6v8cRGwMABd9EXkti1TLhU) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Left My Heart In Texas](https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl) | 3:06 | 2025-03-28 | 2025-05-03 |
 | [Lighters](https://open.spotify.com/track/3LzYPwXiaFbqR205cqMvUY) | [Angel Edwards](https://open.spotify.com/artist/5aTxliDWUENg3Gv9UeAkPu) | [Lighters](https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu) | 3:25 | 2021-12-10 | 2024-04-10 |
 | [Little Obsessed](https://open.spotify.com/track/2ZtgCMvuLICClTCq5UogMu) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Little Obsessed](https://open.spotify.com/album/2lG5vFafefPqL3g8UNNTVi) | 3:50 | 2021-12-10 | 2023-04-22 |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |

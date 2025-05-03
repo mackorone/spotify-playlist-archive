@@ -2,9 +2,9 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
-> Perreando toda la noche con El Malilla.
+> Perreando toda la noche con Cris Mj.
 
-1,011 songs - 2 day 5 hr 52 min
+1,012 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [A Distancia](https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mr\. W \(Deluxe\)](https://open.spotify.com/album/0uozDpPbY35wVv78dHMICs) | 3:16 | 2024-06-21 | 2024-12-14 |
 | [A PERRIARLA](https://open.spotify.com/track/3apuZaELjRvEXdVVFJM52K) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [A PERRIARLA](https://open.spotify.com/album/5y5WH77HKAE6hxL5zN5ynt) | 4:01 | 2022-03-11 | 2022-06-24 |
 | [A POKA LUZ](https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [A POKA LUZ](https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi) | 2:24 | 2024-04-12 | 2024-08-17 |
-| [A QUE TE ARUÑO](https://open.spotify.com/track/6cefxRaElHi6EYMU6pxsQ4) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [A QUE TE ARUÑO](https://open.spotify.com/album/5OMDV2WFXkgmFCsBLtcYHV) | 2:53 | 2025-04-18 |  |
+| [A QUE TE ARUÑO](https://open.spotify.com/track/6cefxRaElHi6EYMU6pxsQ4) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [A QUE TE ARUÑO](https://open.spotify.com/album/5OMDV2WFXkgmFCsBLtcYHV) | 2:53 | 2025-04-18 | 2025-05-03 |
 | [A Toda Hora](https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [A Toda Hora](https://open.spotify.com/album/003hJuxeqS9V6z807tXdov) | 3:05 | 2024-05-03 | 2024-07-13 |
 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-03-11 | 2022-05-07 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2023-02-25 |
@@ -197,6 +197,7 @@
 | [Con La Mini](https://open.spotify.com/track/0mo9HCsRSwDE2dMInlm8OJ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg) | [Con La Mini](https://open.spotify.com/album/3n2JUEGnzUlrbZ6ovEmQXA) | 2:37 | 2025-04-25 |  |
 | [Con To'](https://open.spotify.com/track/3mesqg1ztOmGuZIjQcszCX) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Con To'](https://open.spotify.com/album/7lpYfSfvsIkfRZphob0YWr) | 2:44 | 2022-10-27 | 2022-12-01 |
 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 | 2022-09-09 | 2023-01-27 |
+| [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 | 2025-05-02 |  |
 | [Contacto](https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Contacto](https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL) | 3:17 | 2022-07-22 | 2022-11-05 |
 | [Contigo](https://open.spotify.com/track/1kwtHmqEr6rSyUwrBTtE9j) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:43 | 2022-06-10 | 2022-12-10 |
 | [Continental](https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Continental](https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt) | 3:09 | 2024-04-12 | 2024-05-04 |

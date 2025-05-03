@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Bin",
+        "url": "https://open.spotify.com/album/2b2Ld9mFZHvl4iyEpJlXkP"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Bin",
+      "url": "https://open.spotify.com/track/3glw2vbGfpq3aDJ575ZT6n"
+    },
+    {
+      "album": {
         "name": "Bird Ambience",
         "url": "https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 146400,
       "name": "Ecliptic Drift",
       "url": "https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 373973,
       "name": "FEET",
       "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 206400,
       "name": "Plants Feast",
       "url": "https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4"
@@ -3420,6 +3438,24 @@
       "duration_ms": 336433,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158452,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO"
     },
     {
       "album": {
@@ -4880,6 +4916,24 @@
       "duration_ms": 299464,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT"
+    },
+    {
+      "album": {
+        "name": "Garden Studies",
+        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Under the soil",
+      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
     },
     {
       "album": {

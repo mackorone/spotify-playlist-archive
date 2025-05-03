@@ -71171,6 +71171,24 @@
     },
     {
       "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "album": {
         "name": "Low End Love Songs",
         "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
       },
@@ -76066,6 +76084,32 @@
       "duration_ms": 145000,
       "name": "The Antipode",
       "url": "https://open.spotify.com/track/2FkpPwtoUX0fw6ZVJkCxf9"
+    },
+    {
+      "album": {
+        "name": "THE ATL EXPERIENCE (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/4qfDfLD8gFUtuJtFyCJskq"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "THE ATL EXPERIENCE - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/5159OfkK8qNGl60UUEbbIr"
     },
     {
       "album": {

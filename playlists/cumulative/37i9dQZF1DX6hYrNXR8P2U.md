@@ -2,13 +2,14 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> Música sin etiquetas.<br/>📷 Juan Campodónico & Zeballos
+> Música sin etiquetas.<br/>📷 Isla de Caras
 
-456 songs - 1 day 0 hr 5 min
+458 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(re\) play](https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Bruno Donato](https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq) | [dulce o truco](https://open.spotify.com/album/6kILKM5lildeYFJb58Bgb1) | 3:55 | 2024-10-25 | 2024-11-09 |
+| [\(Solo Aire\)](https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [\(Solo Aire\)](https://open.spotify.com/album/2w1lSIsDXVry6h7LquJkog) | 3:10 | 2025-05-02 |  |
 | [\(Te Espero En La\) Playa](https://open.spotify.com/track/08hN4STQPw1MwqaYIJuwRS) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [LA RED](https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM) | 3:52 | 2025-02-21 |  |
 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 | 2023-12-08 | 2024-03-02 |
 | [10percs](https://open.spotify.com/track/3mTjNBCtR0xhnVgb9yH8nf) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 2:06 | 2024-04-05 | 2024-09-28 |
@@ -273,7 +274,7 @@
 | [Nicolás Cage](https://open.spotify.com/track/5KRXGRFDEBA7ukH5MUTQH1) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Nicolás Cage](https://open.spotify.com/album/2r08YHQj8C5sMCexnqfsDe) | 3:30 | 2024-06-14 |  |
 | [NIGHT](https://open.spotify.com/track/3WYDHx5ZdIQ5CbptHDlASI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:44 | 2024-05-24 |  |
 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 | 2025-02-28 |  |
-| [No Entiendo Si Es Amor](https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [No Entiendo Si Es Amor](https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58) | 3:49 | 2024-12-06 |  |
+| [No Entiendo Si Es Amor](https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [No Entiendo Si Es Amor](https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58) | 3:49 | 2024-12-06 | 2025-05-03 |
 | [no fui yo](https://open.spotify.com/track/44xr3vpFH4eSujSoKXLOKd) | [mecha](https://open.spotify.com/artist/7ncAqCHIhv1EDFZRtppEsF) | [no fui yo](https://open.spotify.com/album/4IwNY0KU7qZt8GJaqY0B95) | 3:21 | 2024-03-01 | 2025-03-01 |
 | [No hay más tiempo](https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No hay más tiempo](https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC) | 3:07 | 2024-11-29 |  |
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-04-26 | 2024-08-31 |
@@ -379,7 +380,7 @@
 | [SUNDAY](https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SUNDAY](https://open.spotify.com/album/6OQCwKo6nKn6qGmZ11VZMN) | 2:56 | 2024-08-12 |  |
 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 | 2024-04-05 |  |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-26 | 2024-08-17 |
-| [Take On Me \(live\)](https://open.spotify.com/track/72yYLxu4IDafAuWC0eF7yC) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene \(live\)](https://open.spotify.com/album/28CBMM9zBAHhS9cuJKnaHw) | 3:42 | 2024-09-27 |  |
+| [Take On Me \(live\)](https://open.spotify.com/track/72yYLxu4IDafAuWC0eF7yC) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene \(live\)](https://open.spotify.com/album/28CBMM9zBAHhS9cuJKnaHw) | 3:42 | 2024-09-27 | 2025-05-03 |
 | [Tan Criminal](https://open.spotify.com/track/49MsdPsjKTgRkXwLHOF6MN) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S) | [Tan Criminal](https://open.spotify.com/album/2bux5MZSscFdzAQmgglAVI) | 2:58 | 2025-04-11 |  |
 | [Tanya Loca](https://open.spotify.com/track/3czd1OJ74I5QGwGsKVmcH3) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Tanya Loca](https://open.spotify.com/album/1qWXTvAbEThGH5LZ7JfaP8) | 3:25 | 2024-08-23 | 2024-09-28 |
 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-08 | 2024-11-09 |
@@ -434,6 +435,7 @@
 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 | 2023-10-13 | 2024-03-23 |
 | [Vecinos](https://open.spotify.com/track/7zM7vEt3CEHasWxqRomYuu) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [Vecinos](https://open.spotify.com/album/5balPtR0c16V31I9KdBBm2) | 2:01 | 2025-04-25 |  |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-10-13 | 2024-03-30 |
+| [Veneno](https://open.spotify.com/track/11YOPWfUXX4Q1GNgTNt8oW) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 2:45 | 2025-05-02 |  |
 | [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora Que Te Gusta El Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 | 2025-04-25 |  |
 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 | 2024-05-03 |  |
 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 | 2023-10-13 | 2024-05-25 |

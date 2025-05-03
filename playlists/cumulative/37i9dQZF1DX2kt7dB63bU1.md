@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-823 songs - 2 day 9 hr 12 min
+824 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 | 2022-10-14 | 2024-03-16 |
 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 | 2025-02-28 |  |
 | [Meet Me in New Orleans](https://open.spotify.com/track/2Rc8QvEAbbVEsVX1DE8DJy) | [Leah Ashton](https://open.spotify.com/artist/6bcdnRh3T16mFz42g1D58e) | [Meet Me in New Orleans](https://open.spotify.com/album/6DdzTqDYGItjmDFtEKD1GG) | 4:18 | 2021-02-05 | 2022-07-23 |
-| [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 | 2025-02-07 |  |
+| [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 | 2025-02-07 | 2025-05-03 |
 | [Melancolia](https://open.spotify.com/track/3QEumJ2N6d2aIofXv9TogC) | [Reginald Policard](https://open.spotify.com/artist/2rpkFjDSlvqHvuhNDNPuU2), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Melancolia](https://open.spotify.com/album/1GATA4Xp005aHyOdYpwe9s) | 4:36 | 2023-02-24 | 2024-06-15 |
 | [Mercy](https://open.spotify.com/track/28BuGCSbPIjzmYY3zCmESA) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Mercy](https://open.spotify.com/album/3yghgHELi2zqgEb8K7NYGS) | 5:58 | 2023-01-06 | 2024-04-27 |
 | [Merry Go Round](https://open.spotify.com/track/4TQw94EIYCRO1fQOWkhXNp) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 5:26 | 2020-10-09 | 2022-02-18 |
@@ -718,6 +718,7 @@
 | [They Can't Take That Away From Me](https://open.spotify.com/track/0V3RUFrfJ71hezlZOgEXTI) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [They Can't Take That Away From Me](https://open.spotify.com/album/1O6o4OW0vfLS6sGV1VA5dz) | 2:38 | 2022-05-13 | 2023-03-18 |
 | [They Say It's Spring](https://open.spotify.com/track/18UXGACErp6VwySRavPglK) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 4:48 | 2023-03-24 | 2023-07-22 |
 | [They Say It's Spring](https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [They Say It's Spring](https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX) | 4:48 | 2023-03-24 | 2023-06-24 |
+| [Think of Me Softly](https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Think of Me Softly](https://open.spotify.com/album/2J7DlkkwNSEmjTG4PgbKbs) | 2:28 | 2025-05-02 |  |
 | [Third Time's the Charm](https://open.spotify.com/track/6tisjXGvkpnLQua7CO1R6E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:21 | 2023-06-30 | 2024-11-19 |
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-03-04 | 2023-02-25 |
 | [Thoughts and Prayers](https://open.spotify.com/track/51g81iRcQSaOKfgEHl8qwu) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Thoughts and Prayers](https://open.spotify.com/album/6WpH55pVliCD9gGVrXfYJ8) | 4:06 | 2020-10-09 | 2022-02-06 |

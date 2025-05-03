@@ -2,7 +2,7 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Sara Landry
+> 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
 261 songs - 19 hr 11 min
 

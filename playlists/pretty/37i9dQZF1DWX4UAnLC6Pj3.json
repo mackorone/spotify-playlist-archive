@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Espinoza Paz en portada.",
-  "num_followers": 1265580,
+  "num_followers": 1265679,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 217600,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -943,38 +943,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Puras Complacencias, Vol. 1",
-        "url": "https://open.spotify.com/album/5GaOP53Bq1IYjIpj1GpuRT"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "Suspiros (En Vivo)",
-      "url": "https://open.spotify.com/track/3ssU6votRPPRQyLc7ir8Lp"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Est\u00e1s Cancelada",
-      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -1003,22 +971,34 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
+      "duration_ms": 168480,
+      "name": "Est\u00e1s Cancelada",
+      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Puras Complacencias, Vol. 1",
+        "url": "https://open.spotify.com/album/5GaOP53Bq1IYjIpj1GpuRT"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/3ssU6votRPPRQyLc7ir8Lp"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Sabes Qu\u00e9 Hora Es",
-        "url": "https://open.spotify.com/album/32HvzB8uAa7egWymv0TDzK"
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         },
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 185272,
-      "name": "Sabes Qu\u00e9 Hora Es",
-      "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1075,6 +1055,26 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Sabes Qu\u00e9 Hora Es",
+        "url": "https://open.spotify.com/album/32HvzB8uAa7egWymv0TDzK"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 185272,
+      "name": "Sabes Qu\u00e9 Hora Es",
+      "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -1123,34 +1139,18 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 160285,
-      "name": "Una Historia Mal Contada",
-      "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
+      "duration_ms": 160285,
+      "name": "Una Historia Mal Contada",
+      "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "El Rey del Despecho",
-        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 161935,
-      "name": "Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/5QFIuK2B6MKBdwpXEos7ly"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 180083,
       "name": "Las Edades - En Vivo",
       "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 161935,
+      "name": "Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5QFIuK2B6MKBdwpXEos7ly"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Solo Cenizas",
-        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 262717,
-      "name": "Solo Cenizas",
-      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Solo Cenizas",
+        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 262717,
+      "name": "Solo Cenizas",
+      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Voy A Levantarme",
-        "url": "https://open.spotify.com/album/63F3VkReUeiOf1LSd2MicF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 137466,
-      "name": "Voy A Levantarme",
-      "url": "https://open.spotify.com/track/7sQqPVaiEejICfZK08GI9H"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 237787,
       "name": "De Ellas",
       "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Voy A Levantarme",
+        "url": "https://open.spotify.com/album/63F3VkReUeiOf1LSd2MicF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 137466,
+      "name": "Voy A Levantarme",
+      "url": "https://open.spotify.com/track/7sQqPVaiEejICfZK08GI9H"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "Pa' Olvidarme de tus Besos",
         "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 187448,
       "name": "Pa' Olvidarme de tus Besos",
       "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2025-04-25 07:58:21",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
-    },
-    {
-      "added_at": "2025-04-25 07:58:21",
-      "album": {
         "name": "La Gitanilla",
         "url": "https://open.spotify.com/album/63cidIgeRESLRmQ0Hr2lLT"
       },
@@ -2195,18 +2179,38 @@
     {
       "added_at": "2025-04-25 07:58:21",
       "album": {
-        "name": "Pude",
-        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+    },
+    {
+      "added_at": "2025-04-25 07:58:21",
+      "album": {
+        "name": "Amor Clandestino",
+        "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 227696,
+      "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
+      "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
     }
   ],
   "unique_name": "Banda 2025",

@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Complete Me",
+        "url": "https://open.spotify.com/album/6jwz41fDasOG8iLo3czzEf"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221377,
+      "name": "Complete Me",
+      "url": "https://open.spotify.com/track/1L3EVhVrEPwadvBauSupRk"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },

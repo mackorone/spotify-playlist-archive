@@ -4,7 +4,7 @@
 
 > Nuovi brani di Elodie, Fedez e CLARA, Damiano David, Salmo, Emis Killa e Lazza e tanti altri.
 
-4,667 songs - 9 day 19 hr 30 min
+4,668 songs - 9 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3893,6 +3893,7 @@
 | [speciale](https://open.spotify.com/track/5HfTKkhNAdr2PMZR23xrpR) | [Leyla El Abiri](https://open.spotify.com/artist/3E7G9DQhR8ftQDt18ieMVZ) | [speciale](https://open.spotify.com/album/0qHC9Zm44mrGU9y1ibBJQa) | 3:27 | 2025-03-06 | 2025-03-14 |
 | [Speciali +](https://open.spotify.com/track/0UwZWPgwJMvdstEZUTEaMl) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Speciali +](https://open.spotify.com/album/5qLvhBeNHl6FgWfSKk7eMn) | 2:58 | 2024-12-05 | 2024-12-13 |
 | [Speedphoto](https://open.spotify.com/track/1wclBH2pI6oyHdlt5ufRsM) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ), [Gregorio Sanchez](https://open.spotify.com/artist/2SjrUgcTTEXssNMOtCEAPU) | [Speedphoto](https://open.spotify.com/album/3WRa4TQLvOSzTLRWVek09C) | 3:39 | 2025-01-23 | 2025-01-31 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spento](https://open.spotify.com/track/15wRUu2Jkp4asSNm8ZhCJe) | [Blind](https://open.spotify.com/artist/5OHbkBRl9kGeloz8JjAwDP) | [Spento](https://open.spotify.com/album/5P2UD1HgmViRSCQotmVNlw) | 2:41 | 2025-03-06 | 2025-03-14 |
 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 | 2025-04-03 | 2025-04-11 |
 | [Spero Piova](https://open.spotify.com/track/4pUp5NGBcT2HY8IxYcruu1) | [Chiara Cami](https://open.spotify.com/artist/3dVUsJqt6lEdZ5ZCbS0Zt7) | [Spero Piova](https://open.spotify.com/album/1tBLvyz2hcjg6QZj0T6V9b) | 3:36 | 2025-01-30 | 2025-02-07 |

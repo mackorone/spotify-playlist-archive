@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,340 songs - 11 day 13 hr 59 min
+7,341 songs - 11 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1828,7 +1828,7 @@
 | [Dusty Clouds](https://open.spotify.com/track/0x9eZUZVebUHS7UPrwnqxG) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU), [Goon Hugs](https://open.spotify.com/artist/2y8HR60MymGr6SHVQYTfFU) | [Dusty Clouds](https://open.spotify.com/album/1DHupYDJXv6BwbOoAY0aJ3) | 2:15 | 2024-09-27 |  |
 | [Dusty Donuts](https://open.spotify.com/track/6iRgcGnxISRX7aGayWUyUG) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Dusty Donuts/Two Lovers at Teatime](https://open.spotify.com/album/6o0iraY2SZheUxifaifwkR) | 1:53 | 2022-09-23 | 2023-01-13 |
 | [Dusty Dumplin' Groove](https://open.spotify.com/track/3970iLcSEQMKqRq6VGZNjn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5Kpg8b1SqyfB1bqNYV7zbI) | 2:12 | 2022-12-09 | 2024-03-01 |
-| [Dusty Stacks](https://open.spotify.com/track/6ay7Bta73cO8GYohpS5x5X) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Loose Beats, Vol\. 1](https://open.spotify.com/album/0IgAAwtZUfBjyVfc3wE9eN) | 3:13 | 2025-04-25 |  |
+| [Dusty Stacks](https://open.spotify.com/track/6ay7Bta73cO8GYohpS5x5X) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Loose Beats, Vol\. 1](https://open.spotify.com/album/0IgAAwtZUfBjyVfc3wE9eN) | 3:13 | 2025-04-25 | 2025-05-03 |
 | [Dxy\_Drmng](https://open.spotify.com/track/7A3CVHi9buNUwmI3233EyP) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 2:45 | 2019-07-12 | 2020-01-22 |
 | [Dynosaw](https://open.spotify.com/track/3V7n9K9zCrZC0ff1asymqA) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Dynosaw](https://open.spotify.com/album/6g8pvpjuSzyraQ16uKLiGX) | 2:55 | 2022-11-18 | 2023-01-13 |
 | [Dynosaw](https://open.spotify.com/track/4IjY0Grj8zQcYkjSdqgRYD) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Dynosaw](https://open.spotify.com/album/65I1LdrfPG8xl0KWl9pmoX) | 2:55 | 2022-09-30 | 2022-11-20 |
@@ -2247,7 +2247,7 @@
 | [Florianopolis](https://open.spotify.com/track/4cTAkCLS5RqKHwYlSgGNZE) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Florianopolis](https://open.spotify.com/album/3IyWbIjpbeMTLsvXnuO7kc) | 2:59 | 2022-08-19 | 2023-01-07 |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2020-01-23 | 2021-08-22 |
 | [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 | 2025-01-25 |
-| [Flow](https://open.spotify.com/track/0cBibStw3Zb77l6PYWdC3c) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flow](https://open.spotify.com/album/7sQwmtEGzUMY0s5zcN2r8e) | 2:25 | 2024-09-06 | 2025-03-29 |
+| [Flow](https://open.spotify.com/track/0cBibStw3Zb77l6PYWdC3c) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flow](https://open.spotify.com/album/7sQwmtEGzUMY0s5zcN2r8e) | 2:25 | 2024-09-06 |  |
 | [Flow](https://open.spotify.com/track/7kqjF0uXE6Gps6MvO6Xu6Y) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Flow](https://open.spotify.com/album/37YjtkTCQqG3eDwxTJMy3w) | 1:12 | 2019-06-22 | 2020-10-21 |
 | [Flow & Glow](https://open.spotify.com/track/7i9mp3NNtqCKDY11HeTSDH) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Flow & Glow](https://open.spotify.com/album/0uoyityfoHU9wkc42iXRWf) | 1:35 | 2022-12-02 | 2023-11-17 |
 | [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 | 2022-07-15 | 2022-11-11 |
@@ -4733,7 +4733,7 @@
 | [Out Of Town](https://open.spotify.com/track/1hbUe08DsqnBGtHIsZBHbG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Out Of Town](https://open.spotify.com/album/698JYlUl9q0I5DBKpnOE6Y) | 3:06 | 2022-08-26 | 2022-11-24 |
 | [Out Of Town](https://open.spotify.com/track/3oljtgQpmt5zILVef3bsRf) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Out Of Town](https://open.spotify.com/album/6cYhsNVLmEDexsQVZ3Y1AK) | 3:06 | 2022-11-18 | 2022-12-02 |
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2021-10-02 | 2022-04-08 |
-| [Outer Space](https://open.spotify.com/track/32BfdC0ko3zUZGUzNEgCY5) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Outer Space](https://open.spotify.com/album/3OuRfBKNRGBd3yaUAUoLXs) | 2:06 | 2024-04-26 |  |
+| [Outer Space](https://open.spotify.com/track/32BfdC0ko3zUZGUzNEgCY5) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Outer Space](https://open.spotify.com/album/3OuRfBKNRGBd3yaUAUoLXs) | 2:06 | 2024-04-26 | 2025-05-03 |
 | [outer star](https://open.spotify.com/track/1jNdqPWWOEWYD9jjg8ioZd) | [ideism](https://open.spotify.com/artist/2ZefBt3a3W5DsYp5fq8AwS) | [outer star](https://open.spotify.com/album/3E06YIcXF0IV1pZ7FSSWhv) | 1:56 | 2022-09-30 | 2023-01-13 |
 | [Outerspace](https://open.spotify.com/track/5lhY7uj0qaOSUcWbs1MZQy) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Outerspace](https://open.spotify.com/album/1NI3UFjSEdNiCl0jDdPjFN) | 1:56 | 2023-07-13 | 2023-10-06 |
 | [outerspace](https://open.spotify.com/track/7MB8UryJ9Bozm1Dcb0H5VV) | [rosis.](https://open.spotify.com/artist/6U5KPUBAtm5dS5ukmj2mTb) | [outerspace](https://open.spotify.com/album/2wIYGuVTGggDrzEMylRtOK) | 1:40 | 2024-09-27 | 2024-10-26 |
@@ -6789,6 +6789,7 @@
 | [until we meet again](https://open.spotify.com/track/4WwnDyJgETzTG7tjHdlM27) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [until we meet again](https://open.spotify.com/album/1uMajXkpkeVrHAwJd3DKTR) | 2:05 | 2023-12-01 |  |
 | [until we sleep](https://open.spotify.com/track/6N75srZhg5435inAnNQCiV) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [until we sleep](https://open.spotify.com/album/0OMmRRc8sKSUw2joTVo4Ym) | 2:21 | 2022-11-11 | 2025-03-29 |
 | [Untill Sunset](https://open.spotify.com/track/2Y3Dehoq9vKXGln5zw6KPJ) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Untill Sunset](https://open.spotify.com/album/4JU5czLkg9a3mSczULlMFg) | 1:00 | 2019-06-26 | 2020-10-21 |
+| [untitled love](https://open.spotify.com/track/67GRxaseDCBZ93Zab8Q17W) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [untitled love](https://open.spotify.com/album/3DFqttguzfTpV5dmuJU0PL) | 2:00 | 2025-04-25 |  |
 | [Untold](https://open.spotify.com/track/42fYmhc26wpNg3RqE2OAyJ) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Untold](https://open.spotify.com/album/52sdSXJDTAn9MndTL4lb2x) | 2:06 | 2025-02-14 | 2025-03-22 |
 | [Unwind](https://open.spotify.com/track/4eEQtXiSOPUJfaP3kA47yk) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/63VYJxlq89Dx1BtCA91Wvr) | 4:12 | 2022-09-16 | 2022-11-20 |
 | [Unwind](https://open.spotify.com/track/67p1eyYdwqs3d9CVZdSlzC) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/42R8dikH5xTKY4dUpqbAaW) | 4:12 | 2022-11-18 | 2022-12-24 |

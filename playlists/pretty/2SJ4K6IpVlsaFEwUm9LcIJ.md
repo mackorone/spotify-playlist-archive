@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,987 likes - 90 songs - 5 hr 40 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,983 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 77 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
 | 78 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 |
 | 79 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
-| 80 | [No usa](https://open.spotify.com/track/4WAWDgOppVnkZmlPMZ4CXO) | [ROSSER ELECTRONICS](https://open.spotify.com/artist/6AkTcHrBBdPSDqrC5ZUl7O) | [This time it'll work](https://open.spotify.com/album/1rageEi7EsiawKmzmySfhV) | 3:14 |
-| 81 | [I Never Want To Be Without You](https://open.spotify.com/track/0j5XRIuOKp6Nsx6FRan8Z9) | [AIR](https://open.spotify.com/artist/5I8xhwELTKXC9ZRCq2zzgr) | [In Need of You featuring Googie](https://open.spotify.com/album/2Jn1DbxmIirP7RvA5U1fVW) | 3:22 |
-| 82 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 |
-| 83 | [Caught In A Whirlwind](https://open.spotify.com/track/4NBCr2x879HC9pTJ8K1TcS) | [Richard Stepp](https://open.spotify.com/artist/2uEXs9genwyhKptQdbF8ew) | [Holiday In Hollywood](https://open.spotify.com/album/0JEEMfVta8HnNM1Ornuvb8) | 5:08 |
-| 84 | [Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO) | [Iain Matthews](https://open.spotify.com/artist/30yVqa41V5oNH00p6CBWB9) | [Stealin' Home](https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn) | 3:01 |
-| 85 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 |
-| 86 | [Rain Down \- Purelink's Say Less Mix](https://open.spotify.com/track/6Zl2cwzL5NRTXt2ZzAIzpZ) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 4:55 |
-| 87 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
-| 88 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 |
-| 89 | [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 |
-| 90 | [Blimps Go 90](https://open.spotify.com/track/6HuETBwV7SXoJueNMWVMBE) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:40 |
+| 80 | [Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO) | [Iain Matthews](https://open.spotify.com/artist/30yVqa41V5oNH00p6CBWB9) | [Stealin' Home](https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn) | 3:01 |
+| 81 | [Rain Down \- Purelink's Say Less Mix](https://open.spotify.com/track/6Zl2cwzL5NRTXt2ZzAIzpZ) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 4:55 |
+| 82 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
+| 83 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 |
 
-Snapshot ID: `AAAMWysSFMXQDISdotjKgYB5p+UUHuh/`
+Snapshot ID: `AAAMYCxrT/4bH3OobX/utbtZ7Je5dVFc`

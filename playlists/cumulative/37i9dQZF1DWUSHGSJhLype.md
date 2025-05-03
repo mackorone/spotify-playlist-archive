@@ -2,9 +2,9 @@
 
 ### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Luan Pereira, Grelo, MC Tuto
+> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Kamisa 10, Natanzinho Lima
 
-432 songs - 20 hr 34 min
+433 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 | 2025-01-31 | 2025-04-12 |
 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 | 2023-05-15 | 2024-03-23 |
 | [Eu Juro \- Ao Vivo](https://open.spotify.com/track/2AsWHNjFffTmBqdAS3lwyl) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:46 | 2024-04-19 | 2024-06-01 |
+| [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 | 2025-05-02 |  |
 | [Eu Me Rendo \(feat\. Iguinho e Lulinha\)](https://open.spotify.com/track/37U1pieDm2xSUe8jbb3p6Z) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Eu Me Rendo](https://open.spotify.com/album/4Vtxu380WeNHfIZ2ryBQvb) | 2:57 | 2023-05-15 | 2023-08-26 |
 | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89) | 4:26 | 2024-10-22 | 2024-12-14 |
 | [Eu Só Quero Tu](https://open.spotify.com/track/07gyedLla60LsxCljcKCiv) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ao After e Além](https://open.spotify.com/album/4Wev4HdGi9EVDWCg4GtdwI) | 2:34 | 2024-04-19 | 2024-06-14 |
@@ -330,7 +331,7 @@
 | [Quantas Bocas \- Ao Vivo](https://open.spotify.com/track/28GAkQrnfaEzJv7GeCiGHN) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Quantas Bocas \(Ao Vivo\)](https://open.spotify.com/album/3AicQSEtfUfYZxOOsykKuV) | 2:49 | 2024-05-09 | 2024-05-23 |
 | [Quatro Da Manhã](https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Pagode Urbano \#01](https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM) | 2:59 | 2024-03-29 | 2024-05-10 |
 | [Quer Ser Minha Atriz \(feat\. DJ Lc do Martins\)](https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb) | [DJ Fb de Niteroi](https://open.spotify.com/artist/0t4tLEUHkkktoY9vnaLW3B), [PL Torvic](https://open.spotify.com/artist/6EsIkeJwPhFIfzJ5l8CGSm), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Lc do Martins](https://open.spotify.com/artist/4F8L071IkAkc3QaNKuUReg) | [Quer Ser Minha Atriz \[Remix Funk RJ\]](https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM) | 2:11 | 2023-10-23 | 2023-12-30 |
-| [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 | 2024-05-09 |  |
+| [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 | 2024-05-09 | 2025-05-03 |
 | [Raivinha](https://open.spotify.com/track/1Vtj48CdrulKHNzrEbn9M9) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Tony Salles](https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q) | [Raivinha](https://open.spotify.com/album/79jzOtiK7A8HH5JtfWLSOy) | 2:40 | 2025-01-17 | 2025-02-15 |
 | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/track/47JkzmLFh3iPXmr9V1ADCx) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Wilson Castro](https://open.spotify.com/artist/3ePiu1aYb8oCSlWmJe1S6y) | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/album/2fvBuZ3xMzGYsHMq0Ci3ju) | 2:54 | 2024-12-27 |  |
 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 | 2024-03-01 | 2024-12-27 |

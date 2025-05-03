@@ -2,7 +2,7 @@
 
 ### [crash out](https://open.spotify.com/playlist/37i9dQZF1DXcbAIldMQMIs)
 
-> straight up not having a good time feat\. sombr and his chipped tooth
+> falling apart jk hahaha unless
 
 347 songs - 18 hr 41 min
 

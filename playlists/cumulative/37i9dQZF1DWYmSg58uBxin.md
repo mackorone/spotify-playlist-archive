@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-311 songs - 14 hr 11 min
+313 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2021-01-30 | 2023-09-09 |
 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2021-04-22 | 2022-06-25 |
 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 | 2021-09-18 |  |
+| [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-26 |  |
 | [Clarity \(Piano Rework\)](https://open.spotify.com/track/1PoyoijTLJTmfcXDMntnIZ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [Azure Bay](https://open.spotify.com/artist/48ZLOLlMbd75oXOskHfbTO) | [Clarity \(Piano Rework\)](https://open.spotify.com/album/4dYNGWbPLaQN95kG4OLvTi) | 2:27 | 2023-09-08 |  |
 | [Clive Road](https://open.spotify.com/track/57ZmoxcaETpnR4OrZ1SxRC) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Clive Road](https://open.spotify.com/album/2kPK2Pr9R6v6WO2Yy8VgBw) | 2:34 | 2025-01-07 |  |
@@ -62,6 +63,7 @@
 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 | 2023-09-09 |
 | [comforts of my home](https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [comforts of my home](https://open.spotify.com/album/6DGBy524Vl7oPw4xFN9xsI) | 2:43 | 2023-09-08 |  |
 | [Como angel](https://open.spotify.com/track/4JQhc5MAQi0NswoAy0F4vW) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Como angel](https://open.spotify.com/album/0V51ebp4dxKHeNyFtseoZO) | 2:51 | 2025-01-07 |  |
+| [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 | 2025-05-02 |  |
 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
 | [Creating](https://open.spotify.com/track/1WomdwYcTk5F70E4hxAOE3) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 2:25 | 2020-10-20\* | 2023-09-09 |
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2020-10-20\* | 2023-09-09 |

@@ -1757,6 +1757,36 @@
     },
     {
       "album": {
+        "name": "exi(s)t",
+        "url": "https://open.spotify.com/album/57Bnj9UCQ21WDKRva8Zs4P"
+      },
+      "artists": [
+        {
+          "name": "nonexx",
+          "url": "https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO"
+        },
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        },
+        {
+          "name": "D1 DANI",
+          "url": "https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx"
+        },
+        {
+          "name": "ROSLUV",
+          "url": "https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239977,
+      "name": "barkov",
+      "url": "https://open.spotify.com/track/2PXtENlxYYUMaxS00WOoPA"
+    },
+    {
+      "album": {
         "name": "Basso",
         "url": "https://open.spotify.com/album/7w9rI09GehvbLz3ORJwN4C"
       },
@@ -4094,7 +4124,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"

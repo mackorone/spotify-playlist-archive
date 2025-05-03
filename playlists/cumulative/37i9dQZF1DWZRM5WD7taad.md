@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en Portada
 
-367 songs - 18 hr 17 min
+368 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fuera de Juego](https://open.spotify.com/track/7IZHqbElo3bY7FS8IBon74) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Fuera de Juego](https://open.spotify.com/album/4ohrUceIP0BeRfYJBW8VxQ) | 2:32 | 2023-03-24 | 2023-09-16 |
 | [Furyosa >:\(](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa >:\(](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 | 2023-11-10 |  |
 | [Fé De Más](https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Fé De Más](https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx) | 2:20 | 2024-03-08 |  |
+| [GARDEL EN EL AVIÓN](https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Willy Bronca](https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c) | [GARDEL EN EL AVIÓN](https://open.spotify.com/album/5RPPRhI9UzU2DQDkimiNKM) | 2:25 | 2025-05-02 |  |
 | [God Complex](https://open.spotify.com/track/6154fxuOOHUqA7ICDIeM6i) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Flow Pantera](https://open.spotify.com/album/2Aq6PtHMupEhOKQK0Hm6Cp) | 3:24 | 2024-11-15 |  |
 | [Golpe Avisa](https://open.spotify.com/track/6uXdP0a9lZ6fbWJQUcbN2R) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Golpe Avisa](https://open.spotify.com/album/5wsCUfFhW6pi3iGejBlmNB) | 2:28 | 2023-10-06 |  |
 | [Heredera del Surrealismo](https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [elgaboaraya](https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 2:32 | 2023-11-17 | 2025-03-29 |

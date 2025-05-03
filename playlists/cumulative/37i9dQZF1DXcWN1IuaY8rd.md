@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! © 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-45 songs - 2 hr 26 min
+48 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [Black Catcher](https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Black Catcher](https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3) | 3:15 | 2021-05-26 |  |
 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 | 2021-05-26 |  |
 | [Black to the dreamlight](https://open.spotify.com/track/3lsNKlSXqfctHBNFGOLVTE) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [THE EMPiRE STRiKES START!!](https://open.spotify.com/album/2qDXBi8VyuTID8Q8ALI0BK) | 5:46 | 2021-05-26 |  |
+| [Break Together](https://open.spotify.com/track/0SRwPx7GiMAUXasRcfme78) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Break Together](https://open.spotify.com/album/7l3CJBNqrywZrZi7uole0z) | 3:49 | 2025-05-02 |  |
 | [four](https://open.spotify.com/track/5q0JLhzbWHNOOAXeUCI3mG) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [four](https://open.spotify.com/album/46SKYBNEHeuSmQfNmURKSK) | 3:33 | 2021-05-26 |  |
+| [Grandeur](https://open.spotify.com/track/5G4CMR1175jhaClgPlaeEI) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:37 | 2025-05-02 |  |
 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2021-05-26 |  |
 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 | 2021-05-26 | 2024-04-19 |
 | [Harukamirai](https://open.spotify.com/track/1dN7OMrMKink43A5uhARSR) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [\#HAL \- Black Clover ver\. \-](https://open.spotify.com/album/3pZwhSHgmvwiC41U3TdqSt) | 2:57 | 2021-05-26 | 2022-11-13 |
@@ -30,6 +32,7 @@
 | [Rakugakipeiji](https://open.spotify.com/track/0vIVLPuiWbtufH0lnkY1Zn) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Rakugakipeiji](https://open.spotify.com/album/4cbsfB7a5stVuI42pImJkS) | 3:23 | 2021-05-26 | 2024-04-19 |
 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 | 2021-05-26 |  |
 | [sky & blue](https://open.spotify.com/track/1AZKHiqBKfdBxVcWUnJJUj) | [GIRLFRIEND](https://open.spotify.com/artist/4jMAPB1oOdRVwqvGOnsNGn) | [sky & blue](https://open.spotify.com/album/5tNvYlCJYyNXXLKwlP7vpF) | 3:58 | 2021-05-26 |  |
+| [Stories](https://open.spotify.com/track/4okEi9xbi50bwPbThP4ejk) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:31 | 2025-05-02 |  |
 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 | 2021-05-26 |  |
 | [アンサー](https://open.spotify.com/track/5w3rC66HQ8fQWg2V3gepdS) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [魔法](https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov) | 3:50 | 2023-06-15 | 2024-04-19 |
 | [アンサー](https://open.spotify.com/track/0ud4VAfTH1AOb904kWOTzJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花と解答](https://open.spotify.com/album/1JavH0LMoyFjKlTUKl7mA7) | 3:51 | 2021-05-26 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-971 songs - 2 day 0 hr 6 min
+975 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-04 | 2024-04-24 |
 | [Fear](https://open.spotify.com/track/6eKRCw9oMbKuDJ6gwFwgwM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 4:12 | 2024-08-16 |  |
 | [Feather \(feat\. Cise Starr & Akin from CYNE\)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr & Akin from CYNE](https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 2:55 | 2023-10-03 | 2024-03-05 |
+| [Feds](https://open.spotify.com/track/6z9dbnTL41MKoEn1DRFCYm) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h) | 3:43 | 2025-05-02 |  |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-27 | 2024-03-05 |
 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-05-07 | 2024-11-06 |
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
@@ -276,6 +277,7 @@
 | [First Day](https://open.spotify.com/track/7ktGuYZdRDkvLm7cdUgPK0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [First Day](https://open.spotify.com/album/6iYoXZIicLwoBEl4EGTTAX) | 3:06 | 2025-02-24 |  |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 | 2023-05-09 |
 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 | 2023-12-14 |
+| [Flex](https://open.spotify.com/track/5spOcJZUi3R5AGuTPu63Te) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:50 | 2025-05-02 |  |
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-06-30 | 2024-03-05 |
 | [Fly as Hell](https://open.spotify.com/track/47qTVdjyUwVHRhc0qXKaPE) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Fly as Hell](https://open.spotify.com/album/5DvcMxy9ECEqMxcdO0zvFo) | 2:16 | 2022-11-23 | 2023-04-12 |
 | [Fly by Night \(feat\. Five Deez\)](https://open.spotify.com/track/5ve8FDBRZEFtikETy4w0Hs) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Five Deez](https://open.spotify.com/artist/2fxf19eScHHFOfmTwxWcGz) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 3:57 | 2023-10-12 | 2024-04-24 |
@@ -441,6 +443,7 @@
 | [Josie](https://open.spotify.com/track/1QgLpUJsmrLG61KDVGT0Ux) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 4:33 | 2025-05-01 |  |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-05 |  |
 | [Juice WRLD DID \(feat\. Juice WRLD\)](https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:27 | 2022-08-26 |  |
+| [Jumanji](https://open.spotify.com/track/5i1vNfHD8nAbJVd3iMRhzQ) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:13 | 2025-05-02 |  |
 | [Jump In That Water](https://open.spotify.com/track/6YdItJf1ZFGdCzRosuXHTg) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Jump In That Water](https://open.spotify.com/album/0bq3Do1TB6EwyAeNFwDail) | 2:37 | 2023-01-11 | 2023-04-12 |
 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 | 2024-12-11 |  |
 | [just cant](https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:22 | 2022-07-28 | 2023-05-09 |
@@ -954,6 +957,7 @@
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2023-06-18 | 2023-12-14 |
 | [When in Rome](https://open.spotify.com/track/4lIVN4LUJCmweoGJmk6hK9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:43 | 2025-01-29 |  |
 | [Where we left Off](https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 3:47 | 2022-05-03 | 2024-11-06 |
+| [Where Ya At?](https://open.spotify.com/track/4KAZyvyHDgNSX5Sz07QIvr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:37 | 2025-05-02 |  |
 | [Whiplash'd](https://open.spotify.com/track/4dlsntjrHwjQlDPCFHfqgW) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7lirv2kkhnhhHm2TV1Pk8u) | 1:50 | 2022-09-19 | 2023-05-09 |
 | [Who Dat](https://open.spotify.com/track/7p0WZEpkRg4QqhUoO6bFQ8) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:49 | 2025-05-01 |  |
 | [Who Shot Me?](https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:47 | 2025-01-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=iCGucLxRTtyhYfjJg\-q37A">Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,954 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,149 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 109 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 |
 | 110 | [Higher](https://open.spotify.com/track/4x3Ur7vXn0OGCanM0H14TP) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Higher](https://open.spotify.com/album/25P2aZHiOFgElq2h72SXTq) | 2:24 |
 
-Snapshot ID: `aBQLVQAAAAA2mwYq8MXsPRWTtOmgAIJl`
+Snapshot ID: `aBQLVQAAAACVC/tGNCubxR4dZy+MvgqW`

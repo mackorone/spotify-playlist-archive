@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Narysal
 
-1,197 songs - 2 day 16 hr 10 min
+1,199 songs - 2 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Part Time Lover](https://open.spotify.com/track/2tK0o3mmOXo7OBE4qftoZE) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Part Time Lover](https://open.spotify.com/album/4WLGVZ7qaUY1fZx4CXw5pJ) | 3:35 | 2024-04-25 | 2024-06-14 |
 | [part\-time lover](https://open.spotify.com/track/3zEG10Pt8RtryGhvNHb74Y) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [part\-time lover](https://open.spotify.com/album/67mTUhjtDIsgbgKwK1zcSa) | 2:26 | 2024-06-27 | 2024-11-15 |
 | [Party Tonight](https://open.spotify.com/track/1JXbLh8cttnk3P1NXrJWEa) | [Lydia Ganada](https://open.spotify.com/artist/084FLSUzeGGIRdanJBNKMl), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359) | [Party Tonight](https://open.spotify.com/album/1C3NNgsETbvRBWxZvNsFl4) | 3:37 | 2022-07-14 | 2022-07-22 |
+| [Pastella Baby](https://open.spotify.com/track/1SANaC4C33q3hGnsbVyjsS) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Pastella Baby](https://open.spotify.com/album/3VbO6i3pZRFJbh65KK6RtH) | 2:38 | 2025-05-01 |  |
 | [Pattaya](https://open.spotify.com/track/24lUgoLY3qAdssYOyXbxOc) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [Pattaya](https://open.spotify.com/album/3X965kVOIf7cQsCxE2uFY1) | 2:28 | 2025-03-06 | 2025-04-25 |
 | [Pearl](https://open.spotify.com/track/4DsRgTgw9ywVRrYCCpraTv) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Pearl](https://open.spotify.com/album/3GUmrEh3fTY9x3tE3YhcBS) | 3:12 | 2022-06-08 | 2022-09-30 |
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-06 | 2023-04-15 |
@@ -939,6 +940,7 @@
 | [space \(feat\. Teddy Adhitya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 | 2023-03-23 | 2023-09-08 |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-07-14 | 2022-07-22 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-09 | 2023-03-04 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-04 | 2024-05-25 |
 | [spotlight](https://open.spotify.com/track/1dwSX08pBY60ij4Bw2gEO3) | [Nichole](https://open.spotify.com/artist/2CvpMBzZk0ZX5XxcAiS3fw) | [spotlight](https://open.spotify.com/album/2aU1tgQeVMS0W2Rnlj6s0z) | 1:50 | 2024-07-11 | 2024-07-19 |
 | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/album/5SjhlbPZIgLILg9k6BJsPs) | 3:44 | 2022-10-07 | 2023-03-25 |

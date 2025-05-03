@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Ayra Starr
+> R&Bの最新話題曲をまとめてお届けします。cover: Summer Walker
 
-839 songs - 1 day 21 hr 2 min
+841 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-03-16 | 2024-08-02 |
 | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/track/1gqziOJa2muzilyW88W1Gb) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/album/2cHg3Vkw38yFBfMO7jNfIH) | 2:58 | 2024-02-22 | 2024-07-13 |
 | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk) | 2:46 | 2023-03-16 | 2023-05-19 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 |  |
 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 | 2025-03-20 |  |
 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/71oYGYgvAWdULjk3ffj1oy) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 | 2025-03-06 | 2025-05-02 |
 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-31 | 2025-03-22 |
@@ -827,6 +828,7 @@
 | [YOU ALREADY KNOW](https://open.spotify.com/track/6vsPPVol0ZNKux0Zkdg5zj) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [YOU ALREADY KNOW](https://open.spotify.com/album/4xp4UP0eFK2d8UaEAjlskb) | 3:03 | 2024-10-17 | 2024-11-08 |
 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 | 2023-03-16 | 2023-08-18 |
 | [you are](https://open.spotify.com/track/5KjJXk0hx1JUgF7MK5DQfy) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [you are](https://open.spotify.com/album/1gjtoStxsccrPppTt3FRBe) | 2:40 | 2025-04-13 |  |
+| [You Don't Care About Me](https://open.spotify.com/track/5HFHCGg5i979GUK04UMH91) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 2:57 | 2025-05-02 |  |
 | [You Don't Care About Me](https://open.spotify.com/track/7e4EoaW3Dz8fW6EsSwdXye) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [You Don't Care About Me](https://open.spotify.com/album/5sW8TKxllrahM2SaZ9i6jC) | 2:57 | 2025-03-21 |  |
 | [You Never Know \(SWARVY Remix\) feat\. Melanie Charles](https://open.spotify.com/track/6K7h3LytZMY3EPX2vixyL1) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [You Never Know \(SWARVY Remix\) feat\. Melanie Charles](https://open.spotify.com/album/2BS4N4xbHWvHctAF26e2g7) | 4:46 | 2025-05-01 |  |
 | [You or Nobody \(with Timbaland\)](https://open.spotify.com/track/4jqQxnUg9MEqjgNeAw61BA) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [You Or Nobody](https://open.spotify.com/album/4Q1r9x8b0JJkf3mzRD2OLc) | 2:33 | 2025-03-20 |  |

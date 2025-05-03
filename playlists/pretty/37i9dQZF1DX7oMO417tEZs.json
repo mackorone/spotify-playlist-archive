@@ -1,13 +1,153 @@
 {
-  "description": "A curated space for the avant-garde. Cover: Smerz",
-  "num_followers": 171985,
+  "description": "A curated space for the avant-garde. Cover: model / actriz",
+  "num_followers": 172022,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBEGewAAAAD8JJdEkwXDlDyniRMl+zXv",
+  "snapshot_id": "aBRDWQAAAADgkicmR05NlyLRywSItRXg",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:25",
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Vespers",
+      "url": "https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W"
+    },
+    {
+      "added_at": "2025-05-02 04:00:25",
+      "album": {
+        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+        "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+      "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
+        "name": "Woman Lake",
+        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Woman Lake",
+      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+    },
+    {
+      "added_at": "2025-05-02 04:00:25",
+      "album": {
+        "name": "Jonatan",
+        "url": "https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 171343,
+      "name": "I'm Your Dirt, I'm Your Love",
+      "url": "https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
+        "name": "Spirals On My Tongue",
+        "url": "https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
+        "name": "Laptronica",
+        "url": "https://open.spotify.com/album/1bBOO5ie8hV4skZ8tB984k"
+      },
+      "artists": [
+        {
+          "name": "Jayemkayem",
+          "url": "https://open.spotify.com/artist/6bshT0bIVHCNDfhP2P1OjL"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Drum Memory",
+      "url": "https://open.spotify.com/track/5mxiqi7m8ylNW2UEGPIqrN"
+    },
+    {
+      "added_at": "2025-05-02 04:00:25",
+      "album": {
+        "name": "All I Wanna Do Is Party",
+        "url": "https://open.spotify.com/album/10R5dYwWPAFm8oXGqB3jUx"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "All I Wanna Do Is Party",
+      "url": "https://open.spotify.com/track/0SD1bXMTZ9t0Fsg5oYAi1n"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5"
+    },
     {
       "added_at": "2025-04-29 17:03:55",
       "album": {
@@ -35,58 +175,6 @@
     {
       "added_at": "2025-04-29 17:03:55",
       "album": {
-        "name": "Woman Lake",
-        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 164583,
-      "name": "Woman Lake",
-      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "Spirals On My Tongue",
-        "url": "https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC"
-      },
-      "artists": [
-        {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
-        },
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Spirals On My Tongue",
-      "url": "https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "Hazel",
-        "url": "https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Hazel",
-      "url": "https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
         "name": "Roll the dice",
         "url": "https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt"
       },
@@ -101,20 +189,36 @@
       "url": "https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ"
     },
     {
-      "added_at": "2025-04-29 17:03:55",
+      "added_at": "2025-05-02 04:00:25",
       "album": {
-        "name": "Laptronica",
-        "url": "https://open.spotify.com/album/1bBOO5ie8hV4skZ8tB984k"
+        "name": "A Season In Hell",
+        "url": "https://open.spotify.com/album/5oY70Wyk7hdeICap4IXHZB"
       },
       "artists": [
         {
-          "name": "Jayemkayem",
-          "url": "https://open.spotify.com/artist/6bshT0bIVHCNDfhP2P1OjL"
+          "name": "These New Puritans",
+          "url": "https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a"
         }
       ],
-      "duration_ms": 227586,
-      "name": "Drum Memory",
-      "url": "https://open.spotify.com/track/5mxiqi7m8ylNW2UEGPIqrN"
+      "duration_ms": 303506,
+      "name": "A Season In Hell",
+      "url": "https://open.spotify.com/track/5pYhL6BGZIHGGmDJd9TDZx"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/7yQBl3xgsOQPMSeWfrXVKf"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "pretty",
+      "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -151,6 +255,38 @@
     {
       "added_at": "2025-04-29 17:03:55",
       "album": {
+        "name": "Sweet Danger",
+        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "Sweet Danger",
+      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
+    },
+    {
+      "added_at": "2025-05-02 04:00:25",
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
+    },
+    {
+      "added_at": "2025-04-29 17:03:55",
+      "album": {
         "name": "WITH A VENGEANCE",
         "url": "https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK"
       },
@@ -167,22 +303,6 @@
       "duration_ms": 253500,
       "name": "FREAKY (JUST MY TYPE)",
       "url": "https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/7yQBl3xgsOQPMSeWfrXVKf"
-      },
-      "artists": [
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "pretty",
-      "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -233,20 +353,20 @@
       "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
     },
     {
-      "added_at": "2025-04-29 17:03:55",
+      "added_at": "2025-05-02 04:00:25",
       "album": {
-        "name": "1/17",
-        "url": "https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID"
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
         }
       ],
-      "duration_ms": 252180,
-      "name": "1/17",
-      "url": "https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC"
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -263,22 +383,6 @@
       "duration_ms": 172648,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "Sweet Danger",
-        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "Sweet Danger",
-      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -555,22 +659,6 @@
       "duration_ms": 247978,
       "name": "COLORATURA",
       "url": "https://open.spotify.com/track/5SCKeEcc8msC3pg2tNCc4A"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "I'm Not Your Punchbag",
-        "url": "https://open.spotify.com/album/0bp8AIMSXpFaaNv6bkdIQj"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 153961,
-      "name": "I'm Not Your Punchbag",
-      "url": "https://open.spotify.com/track/6udfenCxoD1RNJfyXMDvaL"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -1167,22 +1255,6 @@
     {
       "added_at": "2025-04-29 17:03:55",
       "album": {
-        "name": "Echoes of Us",
-        "url": "https://open.spotify.com/album/4tKU2r4RtvGsMnrPsPOC4E"
-      },
-      "artists": [
-        {
-          "name": "Baltra",
-          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Echoes of Us",
-      "url": "https://open.spotify.com/track/3ajr2Lw5xjjlZ6qouMuhOP"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
         "name": "Full time papi",
         "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
       },
@@ -1363,22 +1435,6 @@
     {
       "added_at": "2025-04-29 17:03:55",
       "album": {
-        "name": "Nouveau Langage",
-        "url": "https://open.spotify.com/album/5LPAqjB3dGnLJkvnJKJYO8"
-      },
-      "artists": [
-        {
-          "name": "N NAO",
-          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
-        }
-      ],
-      "duration_ms": 224490,
-      "name": "Fleuron",
-      "url": "https://open.spotify.com/track/1Uoi7ozqHcSMIufOZgYwaL"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
         "name": "Forever Yung",
         "url": "https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr"
       },
@@ -1391,26 +1447,6 @@
       "duration_ms": 200370,
       "name": "Forever Yung",
       "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "lucre",
-        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        },
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 89000,
-      "name": "1",
-      "url": "https://open.spotify.com/track/47J3UVkoAlEEcr4tguk4ph"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -1443,22 +1479,6 @@
       "duration_ms": 260488,
       "name": "WANDERER",
       "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1VpU4vyGJzRIHMYZj3Ax6L"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "SUGAR RUSH",
-      "url": "https://open.spotify.com/track/5nsUidvKeOy9JLzQI2QYVt"
     },
     {
       "added_at": "2025-04-29 17:03:55",
@@ -1611,26 +1631,6 @@
       "duration_ms": 147098,
       "name": "untitled",
       "url": "https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a"
-    },
-    {
-      "added_at": "2025-04-29 17:03:55",
-      "album": {
-        "name": "In Waves (Deluxe)",
-        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 217074,
-      "name": "F.U.",
-      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
     },
     {
       "added_at": "2025-04-29 17:03:55",

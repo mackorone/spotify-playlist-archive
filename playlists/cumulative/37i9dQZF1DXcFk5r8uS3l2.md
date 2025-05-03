@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-432 songs - 1 day 3 hr 2 min
+433 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 | 2024-08-10 |
 | [Let It Burn](https://open.spotify.com/track/4kVg423IrwssKhqQF8p97a) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Beneath the Neon Glow](https://open.spotify.com/album/4a2bNYxBEDfmgecp9elbxs) | 4:48 | 2024-08-09 | 2025-03-15 |
 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 | 2024-08-31 |
+| [Let the Music Get Down in Your Soul](https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Let the Music Get Down in Your Soul](https://open.spotify.com/album/1rozu7rLvTKozl701ahTly) | 3:24 | 2025-05-02 |  |
 | [Let's Spend the Night Together](https://open.spotify.com/track/3W8Nl4u2OXTdakJQHVPSao) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Let's Spend the Night Together](https://open.spotify.com/album/6YFUBCGsXiXQuRwTNLw6wQ) | 4:25 | 2022-08-12 | 2024-06-29 |
 | [Let's Walk](https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Let's Walk](https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz) | 4:52 | 2024-06-28 |  |
 | [Lethal Love](https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4) | 3:06 | 2023-03-24 | 2023-05-08 |
@@ -398,7 +399,7 @@
 | [Traveling Man](https://open.spotify.com/track/5ERX02VzXA9LLqxz6cShap) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/7GoCF1jbHhDKCNUu6B9cpy) | 3:35 | 2022-03-18 | 2022-06-11 |
 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-16 | 2024-04-19 |
 | [Trouble](https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d) | [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [Trouble](https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU) | 3:34 | 2024-03-01 |  |
-| [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-19 |  |
+| [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-19 | 2025-05-03 |
 | [True Blue](https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [True Blue](https://open.spotify.com/album/5xcqjv8Qm0h5r7PqIROYyF) | 4:11 | 2023-08-11 | 2023-09-09 |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 | 2023-03-11 |
 | [Unchange](https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 3:24 | 2022-04-29 | 2024-06-15 |

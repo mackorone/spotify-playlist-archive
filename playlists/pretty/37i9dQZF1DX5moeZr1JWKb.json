@@ -1,48 +1,32 @@
 {
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Crudo Means Raw",
-  "num_followers": 23200,
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Delfina Dib",
+  "num_followers": 23203,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Z9sQAAAACmjyqvEVvyL/GqHRGmVClq",
+  "snapshot_id": "aBRKIgAAAAB54G2kGByILccNGUAAj4qk",
   "tracks": [
     {
-      "added_at": "2025-03-28 10:45:05",
+      "added_at": "2025-05-02 04:29:22",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/4pvFRpzPSBouPH6Se6etmh"
+        "name": "GARDEL EN EL AVI\u00d3N",
+        "url": "https://open.spotify.com/album/5RPPRhI9UzU2DQDkimiNKM"
       },
       "artists": [
         {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "ADN",
-      "url": "https://open.spotify.com/track/6A69ir2y3C3mGaTKcSSgaN"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
         },
         {
-          "name": "Tito Agudelo",
-          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
+          "name": "Willy Bronca",
+          "url": "https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c"
         }
       ],
-      "duration_ms": 202771,
-      "name": "Misa de Sanazi\u00f3n",
-      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
+      "duration_ms": 145609,
+      "name": "GARDEL EN EL AVI\u00d3N",
+      "url": "https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -71,8 +55,24 @@
     {
       "added_at": "2025-03-28 10:45:05",
       "album": {
-        "name": "Ya fue",
-        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/4pvFRpzPSBouPH6Se6etmh"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/6A69ir2y3C3mGaTKcSSgaN"
+    },
+    {
+      "added_at": "2025-05-02 04:29:22",
+      "album": {
+        "name": "Oww Nena",
+        "url": "https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq"
       },
       "artists": [
         {
@@ -84,9 +84,29 @@
           "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
         }
       ],
-      "duration_ms": 185685,
-      "name": "Ya fue",
-      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
+      "duration_ms": 147370,
+      "name": "Oww Nena",
+      "url": "https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB"
+    },
+    {
+      "added_at": "2025-02-28 04:59:21",
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Tito Agudelo",
+          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
+        }
+      ],
+      "duration_ms": 202771,
+      "name": "Misa de Sanazi\u00f3n",
+      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -143,6 +163,26 @@
       "duration_ms": 201084,
       "name": "Dios y Madre",
       "url": "https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt"
+    },
+    {
+      "added_at": "2025-03-28 10:45:05",
+      "album": {
+        "name": "Ya fue",
+        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "Ya fue",
+      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -219,54 +259,6 @@
       "duration_ms": 210189,
       "name": "Solo Es Una",
       "url": "https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/0tojwpqnNQyTYhEM6ZDtxo"
-      },
-      "artists": [
-        {
-          "name": "Lasser",
-          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
-        },
-        {
-          "name": "Oblivion's Mighty Trash",
-          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
-        },
-        {
-          "name": "GXNZX",
-          "url": "https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c"
-        }
-      ],
-      "duration_ms": 154412,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/3oWrpOkUZli6IBV8ESQJiO"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5ZZX1hUtEgDikn0ej9EaYh"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        },
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "Faker",
-          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1fNhNyGGQ9d5pkhc8dvqZD"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -451,26 +443,6 @@
     {
       "added_at": "2025-02-28 04:59:21",
       "album": {
-        "name": "M\u00e1s que reales",
-        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "M\u00e1s que reales",
-      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
         "name": "Un Pelito y Un Tamal",
         "url": "https://open.spotify.com/album/69d8lxsfANufzR41UZThPM"
       },
@@ -487,22 +459,6 @@
       "duration_ms": 126383,
       "name": "Un Pelito y Un Tamal",
       "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "M\u00fasica de Contrabando",
-        "url": "https://open.spotify.com/album/2p2oh2pAEte4dB5B7pXOTM"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 273397,
-      "name": "M\u00fasica de Contrabando",
-      "url": "https://open.spotify.com/track/3Kp1DsZ4o4tqldlmrr1BQE"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -551,30 +507,6 @@
       "duration_ms": 224426,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "Copycats",
-        "url": "https://open.spotify.com/album/179O7GapWGZOoXTLmI1P2r"
-      },
-      "artists": [
-        {
-          "name": "Error 999",
-          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
-        },
-        {
-          "name": "Saga Uno",
-          "url": "https://open.spotify.com/artist/1vyFkmTWEMhgKuK1fFwCjZ"
-        },
-        {
-          "name": "N. Hardem",
-          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
-        }
-      ],
-      "duration_ms": 215937,
-      "name": "Copycats",
-      "url": "https://open.spotify.com/track/7e1K8P7VCmTKAEzqiPqgnA"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -983,22 +915,6 @@
       "duration_ms": 186106,
       "name": "For\u00e1neos",
       "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "Llegan Se Van",
-        "url": "https://open.spotify.com/album/6P0kE5u4H2qdOCSn9BpnhQ"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Llegan Se Van",
-      "url": "https://open.spotify.com/track/6NgC4j881mb0KAZUVdOxEE"
     },
     {
       "added_at": "2025-02-28 04:59:21",
@@ -1427,26 +1343,6 @@
       "duration_ms": 214615,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3FNwVWTL8yuT7AuL875x4i"
-    },
-    {
-      "added_at": "2025-02-28 04:59:21",
-      "album": {
-        "name": "Cara/Cruz",
-        "url": "https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Willie DeVille",
-          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Cara/Cruz",
-      "url": "https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc"
     },
     {
       "added_at": "2025-02-28 04:59:21",

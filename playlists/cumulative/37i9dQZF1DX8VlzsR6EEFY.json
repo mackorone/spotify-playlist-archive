@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
+    },
+    {
+      "album": {
         "name": "Cliente Frecuente",
         "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 153315,
       "name": "Contigo Si",
       "url": "https://open.spotify.com/track/0MgcGg1DJ7fdHzBUg5tovc"
@@ -1622,6 +1640,24 @@
       "duration_ms": 155645,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks"
+    },
+    {
+      "album": {
+        "name": "El Bochinche",
+        "url": "https://open.spotify.com/album/7ambyTbKboOpWccO9uDwKm"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183848,
+      "name": "El Bochinche",
+      "url": "https://open.spotify.com/track/5KQ36KcSboXXruI6srqOV0"
     },
     {
       "album": {
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 193207,
       "name": "Lo Que No Saben",
       "url": "https://open.spotify.com/track/2gmtoAkcrH2oRla8QrlQLT"
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 213234,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/48YGzMkh7XLCNeqrhkI2g7"
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 178394,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2vboHgWzsOMBMJJwlUHnWj"
@@ -4893,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "Si Tu Jalas Yo Jalo",
+        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
+    },
+    {
+      "album": {
         "name": "SI TU QUIERES",
         "url": "https://open.spotify.com/album/4WsWSmXb6jVV7VJrELfmdf"
       },
@@ -5338,6 +5392,28 @@
       "duration_ms": 173975,
       "name": "Te Ves Tan Bien",
       "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+    },
+    {
+      "album": {
+        "name": "Te Vi Con \u00c9l",
+        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187536,
+      "name": "Te Vi Con \u00c9l",
+      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
     },
     {
       "album": {

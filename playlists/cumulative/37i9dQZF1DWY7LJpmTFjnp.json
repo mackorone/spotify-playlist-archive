@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Aterciopelados en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Harag\u00e1n y Compa\u00f1\u00eda en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 355657,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 269149,
       "name": "El Negro",
       "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
@@ -1388,6 +1388,24 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "album": {
+        "name": "El Trabajo del Hombre",
+        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239243,
+      "name": "El Trabajo del Hombre",
+      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
     },
     {
       "album": {
@@ -3077,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/0v1CmBSnKEFdu6SUZmtdgd"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211078,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/550qlmHuS9NwNkaKqh0VE3"
+    },
+    {
+      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
       },
@@ -4214,7 +4254,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 247803,
       "name": "Recuerdo De Verano",
       "url": "https://open.spotify.com/track/5TEmvuQw6hZH9UX3mVG2T2"
@@ -5366,6 +5406,24 @@
       "duration_ms": 185237,
       "name": "Trenes Y Gatos",
       "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
+    },
+    {
+      "album": {
+        "name": "Tsunami Mami",
+        "url": "https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140604,
+      "name": "Tsunami Mami",
+      "url": "https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1"
     },
     {
       "album": {

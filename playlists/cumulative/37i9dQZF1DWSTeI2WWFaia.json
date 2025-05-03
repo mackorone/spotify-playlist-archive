@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Saba",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 180731,
       "name": "Armani Section",
       "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 305612,
       "name": "BOSWELL",
       "url": "https://open.spotify.com/track/5uFAi57aZcH5eHexBEcmxn"
@@ -4703,6 +4703,28 @@
     },
     {
       "album": {
+        "name": "Duffel Bag Hottie's Revenge (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/53NPn4aSHFGt2TSVb9C5Xz"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Duffel Bag Hottie's Revenge (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/7IgZMIaBgPUF8jSK6EQqhw"
+    },
+    {
+      "album": {
         "name": "Dump On Em",
         "url": "https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5"
       },
@@ -4850,6 +4872,28 @@
       "duration_ms": 130744,
       "name": "EGYPT",
       "url": "https://open.spotify.com/track/5yD5MO0jgjIfKPXanAtRi6"
+    },
+    {
+      "album": {
+        "name": "EGYPT (Remix)",
+        "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165643,
+      "name": "EGYPT - Remix",
+      "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
     },
     {
       "album": {
@@ -7056,7 +7100,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 193000,
       "name": "How to Impress God",
       "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
@@ -13428,6 +13472,28 @@
       "duration_ms": 114625,
       "name": "Sicilian Gold",
       "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
+    },
+    {
+      "album": {
+        "name": "Excelsior",
+        "url": "https://open.spotify.com/album/5Bnn5OFlwovx4iMhnOFbM6"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170980,
+      "name": "Sign Language",
+      "url": "https://open.spotify.com/track/1716C0wUTcWleTX9X4rvlX"
     },
     {
       "album": {

@@ -1451,6 +1451,32 @@
     },
     {
       "album": {
+        "name": "Irunga Bhai (Remix)",
+        "url": "https://open.spotify.com/album/5oDtNpXdptB3nVS3G1uqHu"
+      },
+      "artists": [
+        {
+          "name": "Rithick J",
+          "url": "https://open.spotify.com/artist/5sNh00l51uyMWZgaCcflnq"
+        },
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "keli.thee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140305,
+      "name": "Irunga Bhai - Remix",
+      "url": "https://open.spotify.com/track/3dRCENAwGJqzOCn2vKUtxF"
+    },
+    {
+      "album": {
         "name": "Jilla (Original Music Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6"
       },
@@ -2722,7 +2748,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 256372,
       "name": "Pakkam Vanthu (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/3FYrauenN3nxu6G9OchcrO"
@@ -2960,6 +2986,24 @@
       "duration_ms": 210768,
       "name": "Raayan Rumble (From \"Raayan\")",
       "url": "https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd"
+    },
+    {
+      "album": {
+        "name": "Ratha Vaada",
+        "url": "https://open.spotify.com/album/6XVhUVNsirS9PJDKPjeRHc"
+      },
+      "artists": [
+        {
+          "name": "Tha Anbu",
+          "url": "https://open.spotify.com/artist/3yg7QLoFurlYyudmr28RrM"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142427,
+      "name": "Ratha Vaada",
+      "url": "https://open.spotify.com/track/68OHTUe2PKRWdMIfchm9X8"
     },
     {
       "album": {
@@ -4340,7 +4384,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 262533,
       "name": "Yedho Mayakkam",
       "url": "https://open.spotify.com/track/5MGdVJRHRfZ95yWQ2hCwRC"

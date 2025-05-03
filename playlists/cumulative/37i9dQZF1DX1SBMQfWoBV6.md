@@ -4,19 +4,22 @@
 
 > Light electronic movements for study, focus and flow.
 
-105 songs - 7 hr 20 min
+113 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/track/0VxNsjxLl7NbQ8XLO8IrOT) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/album/7FceTVx3596dgOCVP1WKuS) | 1:54 | 2024-11-15 |  |
+| [a reminder](https://open.spotify.com/track/24dRz9Dy6RgOlkjn0foM3Q) | [campo](https://open.spotify.com/artist/5txsKElFcU2Pen2ySNlcaq) | [a reminder](https://open.spotify.com/album/7wVI6KGJ0RAOkRpRXnTOZw) | 3:09 | 2025-05-02 |  |
 | [Abstract Ambience](https://open.spotify.com/track/7hnCKEU2LpfD3tkfgEhnKF) | [Zeombala](https://open.spotify.com/artist/1ERLT1kdPcQocPENfka9M8) | [Abstract Ambience](https://open.spotify.com/album/5067Ai9GOj6ROHmVhUX3mn) | 2:49 | 2023-01-31 |  |
 | [Achievement Unlocked](https://open.spotify.com/track/1qlpsQZTzBJ3C9Padf3dCp) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Focus: Work Smart Sounds](https://open.spotify.com/album/5sVSZ4CGxYznBbbO2DTPvV) | 2:16 | 2023-01-31 |  |
 | [Across the Sky](https://open.spotify.com/track/6v8xPSIQSererU5KSy9YkD) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [Across the Sky](https://open.spotify.com/album/1V2l9t4HxfVoVwQnafOv4L) | 2:34 | 2025-02-28 |  |
+| [Alive Again](https://open.spotify.com/track/6hWqiSA4wWym9FQxvN8oRE) | [spcejnk](https://open.spotify.com/artist/3Apvi7QA59smLOrPGcI5g8) | [Alive Again](https://open.spotify.com/album/4ohqqhqhH35w05V0ehVpjy) | 2:57 | 2025-05-02 |  |
 | [Amazing Things to Come](https://open.spotify.com/track/6ocXaLZ1ooYNJejDnGxRx8) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Amazing Things](https://open.spotify.com/album/0DBiS3ynX5LmsZjv7OnvQW) | 2:53 | 2023-01-31 | 2023-10-13 |
 | [Arperious](https://open.spotify.com/track/6NpymTa0H0DXNQcfGBSb9M) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Arperious](https://open.spotify.com/album/5rxLM3dUbhXaItPpAsnKbh) | 2:51 | 2023-01-31 |  |
 | [As the Leaves Fall](https://open.spotify.com/track/6IL0hp5UGrDvL0S1B7UVM1) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 5:28 | 2023-01-31 |  |
 | [Balearic Pulse](https://open.spotify.com/track/3hPrb5z3kXBRO8i5EOLgxw) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:48 | 2023-03-17 |  |
 | [Be Kind](https://open.spotify.com/track/3rkesmzecZXrKZ7HA68OKZ) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 4:07 | 2023-01-31 |  |
+| [Beautiful Design](https://open.spotify.com/track/1Vnqd9ySFHFnXUuOeflQqr) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Beautiful Design](https://open.spotify.com/album/49owziR1u29dhr8009A3ey) | 3:18 | 2025-05-02 |  |
 | [Beloved Exile](https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj) | [Steve Moore](https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05) | [Beloved Exile](https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ) | 5:25 | 2023-01-31 |  |
 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 | 2023-01-31 |  |
 | [Berlin](https://open.spotify.com/track/2ydduzcA723lZ4K9DLq8io) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Entrainment, Pt\. 1](https://open.spotify.com/album/72HmKF1GsLmqCcGgCDFnOV) | 3:55 | 2023-01-31 |  |
@@ -26,6 +29,7 @@
 | [Conversion](https://open.spotify.com/track/2GSbqrO1pSvi46KnEV8t7Q) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Conversion \- Dream House Mix](https://open.spotify.com/album/1YAQjuaR4OMMFq7Mk1QI5X) | 2:31 | 2023-11-24 |  |
 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 | 2023-01-31 |  |
 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 | 2023-01-31 |  |
+| [Dewdrops](https://open.spotify.com/track/55fhFHnHvTlkxetEhrfdpR) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Dewdrops](https://open.spotify.com/album/566HmZ8sTxnoJ0CAmXlECy) | 3:13 | 2025-05-02 |  |
 | [Dust](https://open.spotify.com/track/0SVkJnFaT6y5eCMosHwvVZ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Shikasta](https://open.spotify.com/album/0IONJPCk2P7ym03G3RGwh9) | 4:47 | 2023-01-31 |  |
 | [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 | 2023-04-14 |  |
 | [Electric Pulses](https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 2:58 | 2023-04-14 |  |
@@ -48,6 +52,7 @@
 | [Isostacy](https://open.spotify.com/track/6zwtd6jCS3T4ol5cjVnwNu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Remembrance](https://open.spotify.com/album/2kyXBYYTBjF0vQIux6Vl3D) | 5:24 | 2023-01-31 |  |
 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2023-01-31 |  |
 | [Lavender](https://open.spotify.com/track/1htwBX3EQI0Yn4mRxqa3Ex) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Lavender](https://open.spotify.com/album/7IRB6MzhikdomeqICBAUUW) | 2:09 | 2025-01-10 |  |
+| [Light Candles, To Mark The Way](https://open.spotify.com/track/4okNkZuyAEjqWP1HMM2G4l) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Tender Spirits](https://open.spotify.com/album/0SMHAas5Ll8Y6Rdp7L8mtL) | 8:18 | 2025-05-02 |  |
 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2025-01-10 |  |
 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 | 2023-01-31 |  |
 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 | 2023-01-31 |  |
@@ -75,6 +80,7 @@
 | [Relief Focus Part 2](https://open.spotify.com/track/59hLUdNHEoyvpyNzzkuq2i) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Relief Focus](https://open.spotify.com/album/43OcuIirS6m1pDpabjy9Kx) | 5:08 | 2023-01-31 |  |
 | [Relief Focus Part 3](https://open.spotify.com/track/7pSKNm4guMlOJ3YJPcVD79) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Relief Focus](https://open.spotify.com/album/43OcuIirS6m1pDpabjy9Kx) | 5:18 | 2023-01-31 | 2023-10-05 |
 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 | 2023-01-31 |  |
+| [Resilience](https://open.spotify.com/track/3atOrSKWvssPpQxI7mnbNJ) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Resilience](https://open.spotify.com/album/0TJ4K36wXB3tFXTHTKXVsf) | 2:48 | 2025-05-02 |  |
 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 | 2023-01-31 |  |
 | [Roads](https://open.spotify.com/track/28ihvvOj0MmaQWtmABWxQ4) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1e5MB6FPsENgNnr2U0B4rE) | 5:15 | 2023-01-31 | 2024-04-19 |
 | [Roads](https://open.spotify.com/track/48PzHDQK4fEbevljF8zLsU) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1C1VIZxvGVJiIpmazJICdc) | 5:15 | 2024-03-27 |  |
@@ -97,6 +103,7 @@
 | [Thumb](https://open.spotify.com/track/0xMBvIDJFsMbrs1BHDVpFq) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Lefhanded Fuqs](https://open.spotify.com/album/0oRaS0KTSRRAOfZnZova2C) | 3:45 | 2023-01-31 |  |
 | [Thyone](https://open.spotify.com/track/19GN5lWipW5bg1aa8SCLTE) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Orthosie](https://open.spotify.com/album/4NzbetkU7aw0ccC5pV7LIy) | 3:03 | 2023-01-31 |  |
 | [Time](https://open.spotify.com/track/07tqZO4kbo6KqjKOcP265f) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 2:44 | 2023-08-25 |  |
+| [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 | 2025-05-02 |  |
 | [Tune 2 Awakeness \- Beta @](https://open.spotify.com/track/2M52JGX9RzoeFFEN4lVMqX) | [Hypnostate](https://open.spotify.com/artist/2W4sX0RRSKjnAd599CxiX6) | [Bina\(t\)urality](https://open.spotify.com/album/0yZdZJKrLqir5aQ0PmwtHe) | 3:35 | 2023-01-31 |  |
 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 | 2025-02-28 |  |
 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2023-01-31 | 2024-07-15 |
@@ -104,6 +111,7 @@
 | [Vardagsrummet](https://open.spotify.com/track/6YWvTxRk2dQw2uGCuBLiU1) | [Farbror Resande Mac](https://open.spotify.com/artist/3VMuEdAr2K5O45tO55VSQE) | [Farbror Resande Mac](https://open.spotify.com/album/3hz55vK51FnzXGYfrxAU0w) | 5:16 | 2023-01-31 |  |
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2023-01-31 |  |
 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 | 2023-01-31 |  |
+| [Visionary](https://open.spotify.com/track/0XkVZEVCIQGT7TxlPeB6tp) | [NxCxF](https://open.spotify.com/artist/4Hm3wX5niVGJ8BZ7j4SaCK) | [Visionary](https://open.spotify.com/album/5b49YW0wudV51P3XdQKr4M) | 2:24 | 2025-05-02 |  |
 | [Waiting Room](https://open.spotify.com/track/3kuPtyMyUHU12IY37YpQyn) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Images](https://open.spotify.com/album/30nbMptCBZMuRjdfS0ACdL) | 3:27 | 2023-01-31 |  |
 | [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/5vS2T09cZO5KK8VXLlB4ZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:24 | 2023-01-31 | 2023-08-26 |
 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 | 2023-01-31 |  |

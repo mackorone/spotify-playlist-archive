@@ -2,7 +2,7 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Lacey Sturm
+> Recent hits from all your favorite Christian Rock artists!  Cover: Peyton Parrish
 
 95 songs - 6 hr 1 min
 

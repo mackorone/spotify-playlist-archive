@@ -4,7 +4,7 @@
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-419 songs - 22 hr 3 min
+422 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Astros](https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Astros](https://open.spotify.com/album/3jGQw9Tu58SELgqLSWu208) | 3:23 | 2024-06-04 | 2025-04-23 |
 | [Así Me Enamoré](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Así Me Enamoré](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 | 2023-04-18 | 2024-02-13 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2022-05-13 | 2022-07-29 |
+| [Ay Mamasita](https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Yell0w Yei](https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i) | [Ay Mamasita](https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm) | 2:39 | 2025-05-02 |  |
 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 | 2025-04-23 |  |
 | [Bailar](https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH) | [Bailar](https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt) | 3:28 | 2025-04-23 |  |
 | [Bala](https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bala](https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN) | 3:16 | 2021-10-01 | 2022-05-10 |
@@ -404,6 +405,7 @@
 | [Ven Mujer](https://open.spotify.com/track/3ZnuDEerC0bijcnCbE4X75) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Ven Mujer](https://open.spotify.com/album/5wAdc8iXkd8ZNINTTAN3Vv) | 2:48 | 2022-05-13 | 2022-07-28 |
 | [Venus](https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Venus](https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML) | 2:29 | 2021-10-01 | 2022-05-10 |
 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 | 2025-04-23 |  |
+| [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 | 2025-05-02 |  |
 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 | 2023-04-18 | 2023-07-04 |
 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 | 2025-04-23 |  |
 | [Viva la Muerte](https://open.spotify.com/track/2CY8G2Z8Ek5puK1cnrmwEA) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:18 | 2022-05-11 | 2022-07-21 |
@@ -427,5 +429,6 @@
 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 | 2023-04-18 | 2023-07-04 |
 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 | 2022-05-13 | 2022-08-02 |
 | [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 | 2024-05-20 | 2025-04-23 |
+| [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 | 2025-05-02 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

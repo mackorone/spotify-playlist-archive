@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,780 likes - 278 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,932 likes - 278 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 277 | [breath of snow](https://open.spotify.com/track/3HXV416XC9h0mTyuw7wbOc) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [breath of snow](https://open.spotify.com/album/2c2kNhAGT2T21apTWjg8CB) | 2:16 |
 | 278 | [Serendipia](https://open.spotify.com/track/3lVzlqQPzLnWF4VheKVOIp) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Serendipia](https://open.spotify.com/album/4y9fw4Ngps5SZtxy1shHxr) | 2:27 |
 
-Snapshot ID: `AAAAAHiyjUVa3/7vfYqC3WuIMb7R5n9C`
+Snapshot ID: `Z9zkaQAAAAB2FTbTFMXQo4zsLWTP2nNC`

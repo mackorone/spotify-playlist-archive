@@ -1,12 +1,12 @@
 {
   "description": "it's just one of those days w/ Michael Cera Palin",
-  "num_followers": 66611,
+  "num_followers": 66665,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfY92Sb6L5MdronXm+BUwlSqj/A",
+  "snapshot_id": "Z+bInQAAAADyDR7ouDdH+gHgoUMM6Uiq",
   "tracks": [
     {
       "added_at": "2025-03-28 16:04:45",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Lullabies for Dogs",
-        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
-      },
-      "artists": [
-        {
-          "name": "Chase Petra",
-          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
-        }
-      ],
-      "duration_ms": 223756,
-      "name": "Because I Am My Own Dog",
-      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "The Cleanest of Houses Are Empty",
         "url": "https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 251431,
       "name": "What Are You, A Cop?",
       "url": "https://open.spotify.com/track/2L8eTF6iQtez7xsduIK3DN"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Lullabies for Dogs",
+        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
+      },
+      "artists": [
+        {
+          "name": "Chase Petra",
+          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
+        }
+      ],
+      "duration_ms": 223756,
+      "name": "Because I Am My Own Dog",
+      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Arrowhead",
-        "url": "https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr"
-      },
-      "artists": [
-        {
-          "name": "Charmer",
-          "url": "https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Arrowhead",
-      "url": "https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "the whaler",
         "url": "https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 234651,
       "name": "yes! yes! a thousand times yes!",
       "url": "https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Arrowhead",
+        "url": "https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr"
+      },
+      "artists": [
+        {
+          "name": "Charmer",
+          "url": "https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Arrowhead",
+      "url": "https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "When I Come East",
-        "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
-      },
-      "artists": [
-        {
-          "name": "Thank You, I'm Sorry",
-          "url": "https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "When I Come East",
-      "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "The Highway Signs Will Lead to Nothing",
         "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 279150,
       "name": "The Highway Signs Will Lead to Nothing",
       "url": "https://open.spotify.com/track/6SpavaUktNu788dew49p9U"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "When I Come East",
+        "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
+      },
+      "artists": [
+        {
+          "name": "Thank You, I'm Sorry",
+          "url": "https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "When I Come East",
+      "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
+        "name": "Together In Lonesome (Acoustic EP)",
+        "url": "https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204286,
+      "name": "What Tomorrow Brings / Requiem - Acoustic",
+      "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
         "name": "Lovers Lane",
         "url": "https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 201048,
       "name": "Permanent Resolution",
       "url": "https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
-        "name": "Together In Lonesome (Acoustic EP)",
-        "url": "https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 204286,
-      "name": "What Tomorrow Brings / Requiem - Acoustic",
-      "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+        "name": "Drought",
+        "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
       },
       "artists": [
         {
-          "name": "Mirrortalk",
-          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+          "name": "Guitar Fight from Fooly Cooly",
+          "url": "https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL"
         }
       ],
-      "duration_ms": 187482,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+      "duration_ms": 145602,
+      "name": "Pyramid",
+      "url": "https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "I'm Here And This Is Real",
-        "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
-      },
-      "artists": [
-        {
-          "name": "Park National",
-          "url": "https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Dead On The Page",
-      "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
-        "name": "Drought",
-        "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
-      },
-      "artists": [
-        {
-          "name": "Guitar Fight from Fooly Cooly",
-          "url": "https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Pyramid",
-      "url": "https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "Pool Kids // POOL",
         "url": "https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 224373,
       "name": "No Stranger",
       "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "I'm Here And This Is Real",
+        "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
+      },
+      "artists": [
+        {
+          "name": "Park National",
+          "url": "https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Dead On The Page",
+      "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
     },
     {
       "added_at": "2025-03-28 16:04:45",

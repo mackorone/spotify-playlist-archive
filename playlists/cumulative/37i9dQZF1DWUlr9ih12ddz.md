@@ -2,7 +2,7 @@
 
 ### [ZOMBIES Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUlr9ih12ddz)
 
-> Listen to your favorite songs from the ZOMBIES soundtracks\. Original movie, ZOMBIES 3, now streaming.
+> Get ready for Zombies 4: Dawn of the Vampires by listening to all your favorites music from the hit franchise.
 
 47 songs - 1 hr 59 min
 

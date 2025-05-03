@@ -4,7 +4,7 @@
 
 > Yung Lean presents ✨Jonatan✨
 
-1,835 songs - 4 day 3 hr 3 min
+1,836 songs - 4 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Fooled By Love](https://open.spotify.com/track/7hp1aai8CJx12fgPdYASyC) | [Noahh](https://open.spotify.com/artist/1Vk8Xbn8TTDtYlCOEanuc8) | [Fooled By Love](https://open.spotify.com/album/1AHuOEH0p4LYeuDRLNkRqP) | 1:58 | 2024-04-18 | 2024-05-03 |
 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 | 2024-12-05 | 2025-02-28 |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-19 | 2023-03-18 |
+| [For Igor](https://open.spotify.com/track/0GDw3hXJZ8IB06NsWKUyrV) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [For Igor](https://open.spotify.com/album/2GFKJ09QQRN6R65nKrZ0xd) | 3:05 | 2025-05-02 |  |
 | [For Real](https://open.spotify.com/track/6sYC0737gy4Fwhjsv0Jjr2) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 4:02 | 2023-03-23 | 2023-05-12 |
 | [For The Moment](https://open.spotify.com/track/0gK41dyfWqEzMHnRiKRvsY) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 3:17 | 2023-11-02 | 2024-03-15 |
 | [For Those Who Listen](https://open.spotify.com/track/75eelorYldU6l285We2naG) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [For Those Who Listen](https://open.spotify.com/album/6Sgc3bnKteGSGrUQYF3xMR) | 2:48 | 2023-02-02 | 2023-02-24 |

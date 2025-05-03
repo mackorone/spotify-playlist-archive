@@ -4,7 +4,7 @@
 
 > New music from Damiano David, IIII, Ed Sheeran and more
 
-4,523 songs - 9 day 23 hr 40 min
+4,525 songs - 9 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3607,6 +3607,7 @@
 | [Special \(feat\. Skilla Baby & Flo Milli\)](https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Special \(feat\. Skilla Baby & Flo Milli\)](https://open.spotify.com/album/4dmYcRXZCVL4W98DoRTbJe) | 2:45 | 2024-08-08 | 2024-08-17 |
 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 | 2025-04-24 | 2025-05-02 |
 | [Speelt Verliefd](https://open.spotify.com/track/2T0jRQ5ZZSwW9oiWodY3H6) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Speelt Verliefd](https://open.spotify.com/album/4mnmOxi85GGorUvaIKf6EE) | 3:02 | 2024-11-28 | 2024-12-06 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Spiegel](https://open.spotify.com/track/6ANgmO9fBLeeK8MfVv6je0) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Spiegel](https://open.spotify.com/album/4hJyZ2dQE7siMnOivQBig3) | 2:22 | 2024-06-20 | 2024-06-28 |
 | [Spiegel \- uit Liefde Voor Muziek](https://open.spotify.com/track/2kqnyak90NrMYqVNEBdSdV) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/3nMMO42VqoaodVWscjkC5F) | 3:15 | 2024-05-16 | 2024-05-24 |
@@ -3858,6 +3859,7 @@
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-17 | 2025-04-25 |
 | [The Age of the Bully](https://open.spotify.com/track/3D6AmJenhSeR2AY0qFoY7Z) | [Customs](https://open.spotify.com/artist/4btaBmsYkw6u8umye551rR) | [The Age of the Bully](https://open.spotify.com/album/1E2FwH3fKHkZXv4wBjNjvW) | 3:06 | 2025-02-21 | 2025-02-28 |
 | [The Antipode](https://open.spotify.com/track/2FkpPwtoUX0fw6ZVJkCxf9) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [The Antipode](https://open.spotify.com/album/3z4UhLZVxeOPNc5OhYpoK7) | 2:25 | 2025-03-13 | 2025-03-21 |
+| [THE ATL EXPERIENCE \- from the Short Film "Red Clay"](https://open.spotify.com/track/5159OfkK8qNGl60UUEbbIr) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [THE ATL EXPERIENCE \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4qfDfLD8gFUtuJtFyCJskq) | 4:27 | 2025-05-01 |  |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-16 | 2024-05-24 |
 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 | 2024-08-29 | 2024-09-06 |
 | [The Barber](https://open.spotify.com/track/7FGCJOLUjZalIyBp33vMks) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [The Move](https://open.spotify.com/album/5eI4Z9KHSjgO7P4aCRpiEw) | 2:48 | 2025-02-13 | 2025-02-21 |

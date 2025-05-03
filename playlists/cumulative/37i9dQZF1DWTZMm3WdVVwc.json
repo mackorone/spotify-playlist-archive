@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "FAREWELL",
+        "url": "https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw"
+      },
+      "artists": [
+        {
+          "name": "the BL00M",
+          "url": "https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x"
+        },
+        {
+          "name": "cocomi",
+          "url": "https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "FAREWELL",
+      "url": "https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO"
+    },
+    {
+      "album": {
         "name": "Faster than me",
         "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
       },
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 229654,
       "name": "\u51ac\u67af\u308c\u306e\u30dc\u30ec\u30ed",
       "url": "https://open.spotify.com/track/7xkQJzI4hTZj0vK1G4vKi2"

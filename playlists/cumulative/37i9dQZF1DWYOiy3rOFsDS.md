@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Susana Zabaleta en portada.
 
-343 songs - 19 hr 50 min
+344 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,9 +171,10 @@
 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 | 2023-02-24 | 2023-05-16 |
 | [Mal de Amores](https://open.spotify.com/track/7EMbZ2M4XeHpFWIGtxzzZz) | [Priscila Ninoska](https://open.spotify.com/artist/4QFFZ9N1KxZR2sQ5Zg4z8O), [Delia Valdebenito](https://open.spotify.com/artist/4Kw2WsaPt7T2fNx419MXtJ) | [Mal de Amores](https://open.spotify.com/album/6GQOagdv41A5Ui164oN1p0) | 4:24 | 2021-10-16 | 2022-04-17 |
 | [Maldita condena \(feat\. Colectivo Panamera\)](https://open.spotify.com/track/002fxCOvV4lExD4OYgU3vh) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [La vida no es La la la \(Edición especial\)](https://open.spotify.com/album/7tLNiAmdSjOwJVZ6QqOtYL) | 3:35 | 2022-01-11 | 2022-04-19 |
+| [Mamá](https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Mamá](https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I) | 3:22 | 2025-05-02 |  |
 | [Manteles & Arrugas](https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc) | [Darviin](https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E) | [Manteles & Arrugas](https://open.spotify.com/album/7LeORvjo14xEvtFlZJGBGY) | 3:12 | 2023-10-21 | 2024-08-24 |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2021-10-16 | 2023-10-21 |
-| [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 | 2021-10-16 |  |
+| [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 | 2021-10-16 | 2025-05-03 |
 | [Matemáticamente](https://open.spotify.com/track/0z8IqXyQnzCOvXsYyWimrD) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Matemáticamente](https://open.spotify.com/album/0izjwxgPPPWAivoL5EaQ6I) | 3:02 | 2021-10-16 | 2022-07-24 |
 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 | 2023-03-17 | 2023-11-27 |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 | 2025-02-01 |

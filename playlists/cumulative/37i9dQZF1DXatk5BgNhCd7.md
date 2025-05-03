@@ -4,7 +4,7 @@
 
 > Todo lo nuevo en música tropical 📸 La Delio Valdez.
 
-3,785 songs - 9 day 3 hr 4 min
+3,787 songs - 9 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Con Esta Me Despido](https://open.spotify.com/track/2UO0cwCFzGUEpzFUQdZY7o) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8) | [Con Esta Me Despido](https://open.spotify.com/album/6aZJe8O2cU3aZaH5sOOAWV) | 3:41 | 2023-11-24 | 2023-12-02 |
 | [Con la Mano en el Moño](https://open.spotify.com/track/3ks8JZI6QpfylogVJnHEgx) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Con la Mano en el Moño](https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB) | 3:55 | 2022-12-16 | 2022-12-24 |
 | [Con los Ojitos Cerrados](https://open.spotify.com/track/1GpPlr13pHlP7RUpgokMWj) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Con los Ojitos Cerrados](https://open.spotify.com/album/1SHfb8TKvaCRemf0w5G278) | 3:24 | 2024-08-23 | 2024-09-07 |
+| [Con los Ojitos Cerrados \(En Vivo Gran Rex\)](https://open.spotify.com/track/6jHRRyTWfde4OufLp3imga) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Con los Ojitos Cerrados \(En Vivo Gran Rex\)](https://open.spotify.com/album/6NrASzGrjpU9QE39GrMKRm) | 3:26 | 2025-05-02 |  |
 | [Con Otra](https://open.spotify.com/track/5U53vaxUhZvkUFJcFIbP2G) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Con Otra](https://open.spotify.com/album/5ZEs7vBhttqYwGtyFeZLVo) | 3:54 | 2025-05-02 |  |
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-21 | 2025-05-02 |
 | [Con Un Puñal Por La Espalda \- Estadio Luna Park En Vivo](https://open.spotify.com/track/3fBahHejYslZjXuLa0kIkT) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Con Un Puñal Por La Espalda \(En Vivo Estadio Luna Park\)](https://open.spotify.com/album/49Tm5u3miGTNEY9wiZ8Yo8) | 5:46 | 2024-02-16 | 2024-02-24 |
@@ -1815,6 +1816,7 @@
 | [Lo intentamos](https://open.spotify.com/track/75CEm7l0x7iRJQqCbgrJlE) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Tal Para Cual](https://open.spotify.com/artist/1HNLgt8TV8X5TA5bkMLpk2) | [Lo intentamos](https://open.spotify.com/album/0qtVI7APQBt9Uf8x3Swxxg) | 3:16 | 2023-08-25 | 2023-09-02 |
 | [Lo Mismo Que A Mí](https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Lo Mismo Que A Mí](https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6) | 3:06 | 2024-10-11 | 2024-11-30 |
 | [Lo Que Dejaste](https://open.spotify.com/track/2lWfNy1QMqVp4jw7FO9PTj) | [El Gringo De La Bachata](https://open.spotify.com/artist/6ByP3EiKbSlgvP0tIIXBkH), [Allendy](https://open.spotify.com/artist/5Uq7FLf5XGx74pcKRc2ARl) | [Lo Que Dejaste](https://open.spotify.com/album/3mfKd5D5a9tRkFQ86ogqHu) | 3:39 | 2023-09-08 | 2023-09-16 |
+| [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 | 2025-05-02 |  |
 | [Lo Que Me Duele](https://open.spotify.com/track/14Wzstk2qP0LCh4kbGX4vG) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Lo Que Me Duele](https://open.spotify.com/album/63vlKyBxHBWStZDu47LGvh) | 3:19 | 2023-07-07 | 2023-07-15 |
 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2022-05-06 | 2022-05-28 |
 | [Lo que sea por ti](https://open.spotify.com/track/7KQChK2qYAgC5gj10eEF78) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [Lo que sea por ti](https://open.spotify.com/album/3XYbVd4C0cWCw7S5kC4bcW) | 3:24 | 2022-07-08 | 2022-07-16 |

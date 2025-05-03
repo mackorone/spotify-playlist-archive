@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "There's Still a Riot Goin' On",
+        "url": "https://open.spotify.com/album/0Nme5FPBQHxJQQq1wnEps7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Ella Feingold",
+          "url": "https://open.spotify.com/artist/64WR0nd4TZPPmIKH3cxS4b"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "There's Still a Riot Goin' On",
+      "url": "https://open.spotify.com/track/6EVyZOJERMGuJOeBpvLEnl"
+    },
+    {
+      "album": {
         "name": "The Lotus and the Swamp",
         "url": "https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO"
       },

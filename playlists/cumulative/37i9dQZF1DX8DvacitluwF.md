@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=vklYbcGmQOuokZOSITh7yg"> Burna Boy</a>
 
-510 songs - 1 day 3 hr 23 min
+512 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2024-09-03 |
 | [Phresha](https://open.spotify.com/track/0n9V9D4ccfbV805OYksma0) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Phresha](https://open.spotify.com/album/2o7oABR23cTjZWqet4zEpC) | 2:21 | 2025-04-03 |  |
 | [Pillow Talk](https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 3:36 | 2023-10-12 | 2023-10-20 |
+| [places we could go](https://open.spotify.com/track/7itEIJYEH23jYVXaThaCKk) | [Tymicah](https://open.spotify.com/artist/49Rs6vld6avekU4hwiIblB), [J Clu](https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z) | [places we could go](https://open.spotify.com/album/3q0rQgaSrnrnSeXD2mRNA3) | 2:47 | 2025-05-02 |  |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-09-26 | 2025-04-25 |
 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 | 2024-05-09 | 2024-09-03 |
 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 | 2024-06-27 | 2024-09-03 |
@@ -415,6 +416,7 @@
 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 | 2025-04-28 |  |
 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-05-03 | 2024-09-03 |
 | [SPEEDING](https://open.spotify.com/track/54F5bovArC81dBT3YikEmt) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [ALT\-BOY](https://open.spotify.com/album/2NykPpomaq15Nbj5R0U4Os) | 3:57 | 2024-10-03 | 2025-04-25 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 | 2024-07-27 |
 | [Stay the Night](https://open.spotify.com/track/0JADBJ42q1ab92VOULBh9V) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:21 | 2025-02-13 | 2025-03-01 |

@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Angelitos",
+        "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
+      },
+      "artists": [
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Angelitos",
+      "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
+    },
+    {
+      "album": {
         "name": "La Negra Nieves",
         "url": "https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj"
       },
@@ -2094,7 +2116,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"

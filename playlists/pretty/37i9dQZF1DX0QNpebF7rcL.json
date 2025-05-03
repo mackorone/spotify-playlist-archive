@@ -1,13 +1,29 @@
 {
-  "description": "The best in blues right now. Cover: Southern Avenue",
-  "num_followers": 139207,
+  "description": "The best in blues right now. Cover: D.K. Harrell",
+  "num_followers": 139217,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI6QAAAAALq7+2ijxTRzmWnmVVHVbm",
+  "snapshot_id": "aBRDVAAAAACauze8yDrL6fd6mzUAjFfR",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:20",
+      "album": {
+        "name": "Grown Now",
+        "url": "https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk"
+      },
+      "artists": [
+        {
+          "name": "D.K. Harrell",
+          "url": "https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx"
+        }
+      ],
+      "duration_ms": 232242,
+      "name": "Grown Now",
+      "url": "https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl"
+    },
     {
       "added_at": "2025-04-25 04:00:41",
       "album": {
@@ -1739,26 +1755,6 @@
       "duration_ms": 235908,
       "name": "Two of a Kind",
       "url": "https://open.spotify.com/track/3G9hdpzyteBiVCL7yjQF5b"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Anemouhagh",
-        "url": "https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Fats Kaplin",
-          "url": "https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Anemouhagh",
-      "url": "https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp"
     },
     {
       "added_at": "2023-05-19 04:01:00",

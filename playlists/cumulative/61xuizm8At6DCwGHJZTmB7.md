@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-612 songs - 2 day 11 hr 33 min
+613 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [If it wasn't for Jesus \- from the studio](https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus \(from the studio\)](https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo) | 4:02 | 2025-02-07 |  |
 | [Immigrant's Song](https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Confessio \- Irish American Roots](https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS) | 4:08 | 2022-03-11 | 2022-04-05 |
 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2022-04-05 | 2023-12-14 |
+| [In Christ Alone](https://open.spotify.com/track/5rds8Cp024G2zTHulW9gDp) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe), [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Worship Solutions \(Volume Three\)](https://open.spotify.com/album/624XgloOkKKyn4saf7Sott) | 3:59 | 2025-05-02 |  |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2022-04-05 | 2023-01-05 |
 | [In Christ Alone \- Live From Sydney](https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [In Christ Alone \(Live From Sydney\)](https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH) | 4:09 | 2024-01-12 | 2025-03-21 |
 | [In Control](https://open.spotify.com/track/1XDuCQ3OIjm1dG4BjQOD9N) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [In Control](https://open.spotify.com/album/0fGXjNKhNZM7GqgWELYHHf) | 4:20 | 2024-07-19 | 2025-03-21 |

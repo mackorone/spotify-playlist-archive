@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "baja bird",
+        "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228681,
+      "name": "baja bird",
+      "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
+    },
+    {
+      "album": {
         "name": "Sunshine State Of Mind",
         "url": "https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
@@ -402,6 +420,24 @@
       "duration_ms": 169218,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y"
+    },
+    {
+      "album": {
+        "name": "Cold Heart Criminal",
+        "url": "https://open.spotify.com/album/5TAhONXfoinB1FNRyjo0Lo"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Cold Heart Criminal",
+      "url": "https://open.spotify.com/track/5poPDJH6FlYEDGbCenuZyV"
     },
     {
       "album": {
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -2038,6 +2074,24 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
+    },
+    {
+      "album": {
+        "name": "On This Love",
+        "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169903,
+      "name": "On This Love",
+      "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
     },
     {
       "album": {
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 191895,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH"

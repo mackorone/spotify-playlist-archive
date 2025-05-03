@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Ceren Sagu
 
-93 songs - 4 hr 27 min
+94 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-06-20 | 2024-10-24 |
 | [Kimim Ben?](https://open.spotify.com/track/02XoDvTkJkMAJ1T40Rf0pp) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Kimim Ben?](https://open.spotify.com/album/6hoMnFmrKEwaBzgoDQFehO) | 2:25 | 2024-06-20 | 2024-10-24 |
 | [La Cite](https://open.spotify.com/track/0aohRY8ekBIqFEyUGrAazv) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8) | [La Cite](https://open.spotify.com/album/1YjyzW7gh8Tt4GjMtmPprY) | 2:19 | 2024-06-20 | 2024-10-24 |
+| [lades](https://open.spotify.com/track/1lTeBIg6ZocUySIVp86AEp) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:31 | 2025-05-02 |  |
 | [Leyla](https://open.spotify.com/track/5T5pdiWGRinb5OSNsXtAjg) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Leyla](https://open.spotify.com/album/4Bq01KF82VjwvIu0vgoT9w) | 2:46 | 2024-06-20 | 2024-10-24 |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |

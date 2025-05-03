@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Alison Wonderland",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Eptic",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "RAVE NEW WORLD",
+        "url": "https://open.spotify.com/album/6tXrMP8Hr736a5A04ReBBU"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217765,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/5gVPqdngU2zcwiNqokAE4v"
+    },
+    {
+      "album": {
         "name": "AIN'T MISS A CALL",
         "url": "https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU"
       },
@@ -364,6 +386,32 @@
       "duration_ms": 173333,
       "name": "Aint No Thang",
       "url": "https://open.spotify.com/track/2Dcv2l9LuvSHiptPLvnKlL"
+    },
+    {
+      "album": {
+        "name": "Air (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "Air (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
     },
     {
       "album": {
@@ -3090,7 +3138,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 162327,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/1enFNqBlmIdB0Zsp2bKm00"
@@ -3433,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "BRING ME TO LIFE",
+        "url": "https://open.spotify.com/album/1BMdbpC6t4lRnmQ1VINzzm"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "BRING ME TO LIFE",
+      "url": "https://open.spotify.com/track/5jVFGuH5nziNzCMmYXcsC6"
+    },
+    {
+      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/7DkSbcu3i5zNcGRFcGdQ1G"
       },
@@ -3518,7 +3584,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 147428,
       "name": "bRuh",
       "url": "https://open.spotify.com/track/2f4ttDUMOkMFiIT94FVllM"
@@ -8702,7 +8768,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 164800,
       "name": "Fibonacci (Part 1)",
       "url": "https://open.spotify.com/track/18gHgIFCm364wY342l620P"
@@ -9296,6 +9362,24 @@
       "duration_ms": 229558,
       "name": "For The Love",
       "url": "https://open.spotify.com/track/1LFooC64Ibh6SaFs9Nf8f9"
+    },
+    {
+      "album": {
+        "name": "Darkstar",
+        "url": "https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "Forcefield",
+      "url": "https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl"
     },
     {
       "album": {
@@ -9932,6 +10016,28 @@
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Wall",
+        "url": "https://open.spotify.com/album/3wvgkQafH7J6Ekb5uMg786"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Gaash",
+          "url": "https://open.spotify.com/artist/6GB2Qfxc1dqkStjzIdJtg2"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Ghost In The Wall",
+      "url": "https://open.spotify.com/track/5pHfVokEQi99RAUGiazHj0"
     },
     {
       "album": {
@@ -11759,6 +11865,28 @@
     },
     {
       "album": {
+        "name": "Hunter (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/18o4PXxr70SwQ1VPAh98pq"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220137,
+      "name": "Hunter (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/48GP8MO8zVxnfr4ydZ99Wl"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/2SNoAgXeao4wQ63bni0p8C"
       },
@@ -12849,6 +12977,24 @@
     },
     {
       "album": {
+        "name": "JACKIE KENNEDY",
+        "url": "https://open.spotify.com/album/7fRoY9o4sldKMbx4z3sG8t"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157029,
+      "name": "JACKIE KENNEDY",
+      "url": "https://open.spotify.com/track/75zkQ3SVqVvkm3jqVfypoj"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/0eKVnySU0ZD377SyQrRbA9"
       },
@@ -13566,7 +13712,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
@@ -15362,7 +15508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 196046,
       "name": "Messin' Me Up (feat. EVAN GIIA) - Buunshin Remix",
       "url": "https://open.spotify.com/track/15Fd934swdyG7AZtfcWqI4"
@@ -17368,6 +17514,24 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/3uRo080kALfKk9lrZ1TZ6B"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204966,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2ZPjyVRhewoD1HqkRq1qc7"
     },
     {
       "album": {
@@ -19632,7 +19796,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 199714,
       "name": "RED DOT",
       "url": "https://open.spotify.com/track/0mSs4Qnr4l7uV0ju1VvSDQ"
@@ -20046,7 +20210,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 132827,
       "name": "REWIND",
       "url": "https://open.spotify.com/track/2tYLwCuSefEkUmNUDo09Mz"
@@ -22085,6 +22249,24 @@
     },
     {
       "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+    },
+    {
+      "album": {
         "name": "Overthrown (The Thrones of Blood Remix Album)",
         "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
       },
@@ -22188,7 +22370,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 127674,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/65I233XwMBY6EpVHdJL1wQ"
@@ -22480,7 +22662,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 183200,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/659s4NliEPs3yKGcLSUhe6"
@@ -23894,7 +24076,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 191724,
       "name": "The Code (feat. Micah Martin)",
       "url": "https://open.spotify.com/track/4GZQhGOko9Ufi2GM9jwtrf"
@@ -24388,6 +24570,28 @@
       "duration_ms": 191357,
       "name": "THRASH (PARTY STARTER)",
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
+    },
+    {
+      "album": {
+        "name": "Threats",
+        "url": "https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Versa",
+          "url": "https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Threats",
+      "url": "https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e"
     },
     {
       "album": {

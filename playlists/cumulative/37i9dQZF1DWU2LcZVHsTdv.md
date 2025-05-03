@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-275 songs - 16 hr 45 min
+276 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Everybody Talks To God](https://open.spotify.com/track/4nQ4Ea34XihpPFnJeyoOZ9) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:17 | 2022-07-15 | 2024-04-19 |
 | [Everybody Talks To God](https://open.spotify.com/track/51COR05851Q7xwQVasSPav) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Acoustic Country Hits](https://open.spotify.com/album/6mS7vdbL4zdu9jUXbDnNGi) | 4:17 | 2022-11-04 | 2022-11-13 |
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |
+| [Far Country](https://open.spotify.com/track/71LzlUgNhw641BBrZQkJgq) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/1LB8xxLweOAn1YkPCaSKBV) | 3:52 | 2025-05-02 |  |
 | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg) | 3:11 | 2021-12-10 |  |
 | [Fit For A King](https://open.spotify.com/track/12gjVw7ygbVxSKWhQhQI1T) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Fit For A King](https://open.spotify.com/album/6k8iU1wIQSMHz6wlf0EyCn) | 2:54 | 2024-10-18 |  |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |

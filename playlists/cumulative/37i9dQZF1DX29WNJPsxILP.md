@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-240 songs - 12 hr 20 min
+241 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Maujjan](https://open.spotify.com/track/30IqFmWVT7cZtyrD9sYdji) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [I](https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB) | 4:27 | 2023-03-10 | 2023-10-12 |
 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 | 2024-12-05 |  |
 | [Mi Casa](https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Trapanese](https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu) | 2:21 | 2024-08-20 | 2024-11-30 |
-| [MISFIT](https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [MISFIT](https://open.spotify.com/album/6rJeuCqFpo3YB8s6j4cHvt) | 2:35 | 2024-06-28 |  |
+| [MISFIT](https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [MISFIT](https://open.spotify.com/album/6rJeuCqFpo3YB8s6j4cHvt) | 2:35 | 2024-06-28 | 2025-05-03 |
 | [MOOSA](https://open.spotify.com/track/3FNHdfTPtmxlalX7NtNhoP) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [MOOSA](https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX) | 2:34 | 2023-03-10 | 2023-04-22 |
 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 | 2025-04-15 |  |
 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2025-01-06 |  |
@@ -193,6 +193,7 @@
 | [Sath Chalegi](https://open.spotify.com/track/0mTscimdid589rZpKNJZPu) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rish](https://open.spotify.com/artist/0KzR1TCZ13KSIabw8xUaMK) | [Sath Chalegi](https://open.spotify.com/album/6359k4XlwyF81N12omSDHD) | 2:18 | 2023-03-10 | 2023-10-12 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 | 2024-10-01 |
 | [Scarface](https://open.spotify.com/track/3h7QmY0JmabpwNi5ik98H9) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Scarface](https://open.spotify.com/album/6Wl76DPWglh1jNMiozj4zz) | 3:25 | 2025-04-04 | 2025-04-19 |
+| [Scenario](https://open.spotify.com/track/7jCI1QWpKRWyepOBvgHS2s) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 2:16 | 2025-05-02 |  |
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 | 2023-10-12 |
 | [Shakti Aur Kshama](https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 4:15 | 2024-12-14 | 2025-02-01 |
 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 | 2025-03-14 |  |

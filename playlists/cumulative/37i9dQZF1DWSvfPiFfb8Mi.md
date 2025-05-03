@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-371 songs - 1 day 0 hr 25 min
+372 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Never Let It Go](https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP) | [Final Djs](https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa) | [Never Let It Go](https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q) | 2:38 | 2023-05-19 |  |
 | [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 | 2025-03-28 |  |
 | [No More Stress](https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [No More Stress](https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl) | 3:29 | 2024-11-15 | 2025-01-14 |
+| [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 | 2025-05-02 |  |
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
@@ -318,7 +319,7 @@
 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 | 2021-07-24 | 2023-05-20 |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 | 2025-04-02 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 | 2024-05-25 |
-| [Summertime](https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl) | [Odaiba](https://open.spotify.com/artist/0ZLRzLs36ymAz7aquYoE3l), [Hola Bay](https://open.spotify.com/artist/7tYFTNdaLTVOfW6LXalwvL) | [Summertime](https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ) | 2:47 | 2024-11-01 |  |
+| [Summertime](https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl) | [Odaiba](https://open.spotify.com/artist/0ZLRzLs36ymAz7aquYoE3l), [Hola Bay](https://open.spotify.com/artist/7tYFTNdaLTVOfW6LXalwvL) | [Summertime](https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ) | 2:47 | 2024-11-01 | 2025-05-03 |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 | 2023-09-23 |
 | [Supernova](https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Supernova](https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd) | 3:39 | 2024-11-01 |  |
 | [SURF](https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb) | [SURF](https://open.spotify.com/album/04cgcyb9FV8ZvLwIEhcEZW) | 3:00 | 2025-02-28 | 2025-03-08 |

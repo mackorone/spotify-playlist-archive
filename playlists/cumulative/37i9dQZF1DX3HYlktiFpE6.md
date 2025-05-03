@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-174 songs - 9 hr 24 min
+175 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 | 2022-12-09 |  |
 | [Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl](https://open.spotify.com/track/1ac7570OG3cTPYRXnpssg8) | [The Sing\-Off Contestants](https://open.spotify.com/artist/2z5CLrYoalgmPiXQ13gKuj) | [The Sing\-Off: Season 3: Episode 10 \- Mastermix Medleys & Judge's Choice](https://open.spotify.com/album/47F3CutxucbxCBDMcy2QAW) | 2:59 | 2021-12-24 |  |
 | [Breakeven](https://open.spotify.com/track/40c9ifAThZzmQPmmSVIfeI) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Pitch Slapped \- EP](https://open.spotify.com/album/4bvu2oLQsuHWZZQ6k8jFut) | 3:17 | 2023-01-13 |  |
-| [Butter](https://open.spotify.com/track/6OpM6ZC2jMqWM746dbwmdN) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Butter](https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4) | 2:41 | 2024-08-30 |  |
+| [Butter](https://open.spotify.com/track/6OpM6ZC2jMqWM746dbwmdN) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Butter](https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4) | 2:41 | 2024-08-30 | 2025-05-03 |
 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 | 2022-12-09 | 2023-10-21 |
 | [Can't Hold Us](https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 3:18 | 2021-12-24 | 2023-07-29 |
 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 | 2021-12-24 | 2024-04-19 |
@@ -118,6 +118,7 @@
 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 | 2021-12-24 |  |
 | [Misty Mountains \- Solo Version](https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Songs of Middle Earth](https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ) | 4:18 | 2021-12-24 | 2022-11-14 |
 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 | 2021-12-24 |  |
+| [Northern Sky \(A Cappella\)](https://open.spotify.com/track/6UJsdbb3q4RnwoNPh7vQWa) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16) | [Northern Sky \(A Cappella\)](https://open.spotify.com/album/6jeCd17X5AVrz5b4CF0mOF) | 3:25 | 2025-05-02 |  |
 | [On a Clear Day You Can See Forever](https://open.spotify.com/track/4IAh73A22mxHWlKbo08pOd) | [Voctave](https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2), [Tituss Burgess](https://open.spotify.com/artist/278a67UsMrPtjVfhFDNcwq) | [On a Clear Day You Can See Forever](https://open.spotify.com/album/2s6kmZr6hJbtJ8nPi3dxhK) | 3:50 | 2024-04-12 |  |
 | [Ordinary People](https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [J.None](https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe) | [Ordinary People](https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk) | 1:14 | 2022-12-09 | 2023-10-21 |
 | [Painkiller](https://open.spotify.com/track/6ubO6MOkkPoKWCy7P16suW) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Touch the Sky](https://open.spotify.com/album/046qJmAfnKS0QtBbNbmDiO) | 3:22 | 2023-05-03 |  |

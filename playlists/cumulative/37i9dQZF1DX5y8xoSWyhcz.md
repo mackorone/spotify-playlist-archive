@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,304 songs - 2 day 19 hr 17 min
+1,306 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [and it sounds like \(ice cream\)](https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [and it sounds like \(ice cream\)](https://open.spotify.com/album/6fWHxmatgCkHpC3BmECELk) | 2:35 | 2021-10-30 | 2022-02-26 |
 | [anesthetized](https://open.spotify.com/track/1LG5MEAvKXvuvrWprlOPWH) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [a/b\_\_1](https://open.spotify.com/album/1xT3XuUL2DMkNEJaZZm3MA) | 2:34 | 2023-02-13 | 2024-06-22 |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-01-16 | 2021-03-27 |
+| [Animaru](https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 2:41 | 2025-05-02 |  |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/2lB6Q5nBX3d22RWX59jNj9) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/album/6o9ALcWR4xvtJLux65bLkC) | 3:36 | 2025-04-25 |  |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-10-02 | 2022-01-22 |
 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 | 2023-03-04 |
@@ -263,6 +264,7 @@
 | [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 | 2022-09-02 | 2024-01-13 |
 | [Dancing on This Line](https://open.spotify.com/track/2TzNaQPMjpt2XdEXu3iaWa) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Dancing on This Line](https://open.spotify.com/album/6HCkTmHUKeQ52BVaptGU8e) | 4:12 | 2022-05-06 | 2022-07-16 |
 | [dancing with the dead](https://open.spotify.com/track/3kHeyz9qENrscXY4tBpdS7) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [dancing with the dead](https://open.spotify.com/album/0MfaLfmENi9IrSSNTtZ6UK) | 3:41 | 2021-10-30 | 2021-11-20 |
+| [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-05-02 |  |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2023-02-11 |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 | 2022-10-13 |
 | [Daydream](https://open.spotify.com/track/09a1pEvY2wSOspwZv36WVV) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Daydream](https://open.spotify.com/album/1kbHLIbTXZxwB8vsuWmZzb) | 2:34 | 2021-01-30 | 2021-06-05 |
@@ -443,7 +445,7 @@
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-09 | 2022-02-05 |
 | [God Only Knows](https://open.spotify.com/track/6UyPSZ3eoofOB67QbrlGTx) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [God Only Knows](https://open.spotify.com/album/5ZlfGQXdbl7xmDAVRQX5q5) | 3:47 | 2021-01-16 | 2021-01-23 |
 | [going out](https://open.spotify.com/track/3hDNIAnUnraurZCuiuPegu) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:54 | 2020-11-04 | 2021-03-06 |
-| [going...going...GONE!](https://open.spotify.com/track/7zsK2vksjaqofrsWZjYlpw) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:37 | 2023-10-06 |  |
+| [going...going...GONE!](https://open.spotify.com/track/7zsK2vksjaqofrsWZjYlpw) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:37 | 2023-10-06 | 2025-05-03 |
 | [Golden Eyes](https://open.spotify.com/track/5AttrOwTxBFkAwC9EjSXzY) | [Tide Rider](https://open.spotify.com/artist/4eloIu0JWZycM9HqzL5DnV) | [Golden Eyes](https://open.spotify.com/album/5fpzdodK5qIYdQiP3DsVzG) | 2:18 | 2021-02-20 | 2021-04-10 |
 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 |  |
 | [Gone](https://open.spotify.com/track/3mDZYUiAmHqPr6vl0a9Erv) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Gone](https://open.spotify.com/album/6kllSzXR7OltIa8QkBNEna) | 2:58 | 2022-10-21 | 2024-03-02 |
@@ -1263,7 +1265,7 @@
 | [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 | 2024-06-08 |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-03-14 | 2021-05-08 |
 | [Where to Hide](https://open.spotify.com/track/6NYJemYGiOETSQjKXdPR9T) | [Walmoods](https://open.spotify.com/artist/4B53ZdPG7X8UrnLQB1gFBZ), [Éloïse Marceau](https://open.spotify.com/artist/0D0c8ilPdDXpnbCaZikIKt) | [Where to Hide](https://open.spotify.com/album/1Y2iAWNblONoWMNJ81ZHv9) | 2:48 | 2020-10-29\* | 2020-11-14 |
-| [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2025-01-10 |  |
+| [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2025-01-10 | 2025-05-03 |
 | [Whipped.](https://open.spotify.com/track/4LgyXimHKi1n8McwM0VxAT) | [Malcolm.](https://open.spotify.com/artist/2tKBSStIhOKU5GDrPEeVLS) | [Whipped.](https://open.spotify.com/album/6uPmf15p4mz89hb7m9OyFk) | 3:46 | 2021-03-27 | 2021-06-05 |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-03-19 | 2021-04-10 |
 | [Who Are You?](https://open.spotify.com/track/2yWK6Ji4cZcxI9emAmG0Yj) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [11:11 \(Deluxe\)](https://open.spotify.com/album/2ta3hXGI0CJYoIsP5O9nV8) | 3:03 | 2020-10-29\* | 2021-01-06 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-967 songs - 2 day 1 hr 27 min
+968 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [why so scared to fall?](https://open.spotify.com/track/6rc2jbPZNIsJsrJ4eLBFmT) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte) | [why so scared to fall?](https://open.spotify.com/album/0Gncp9mnaippJnlLFKkXOO) | 3:10 | 2024-10-24 | 2025-01-09 |
 | [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2024-12-05 |  |
 | [Wicked Games](https://open.spotify.com/track/1GGSd9OSx762SF0UgYRiuL) | [Slowsho](https://open.spotify.com/artist/509IhzBMDbDaLfUplZUv9d) | [Wicked Games](https://open.spotify.com/album/1YdZDN7FRVB9L0c4NgOcap) | 3:04 | 2024-12-05 | 2025-03-14 |
+| [Wicked Love](https://open.spotify.com/track/4S40D64SE6tWJGg1GXsvLq) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Wicked Love](https://open.spotify.com/album/6c5A7gzYZvTYIlMzLSqOiQ) | 3:23 | 2025-05-02 |  |
 | [Wildest Energy](https://open.spotify.com/track/2ViFQNyb69XjFpXKmcWDdM) | [DJ Krugger](https://open.spotify.com/artist/33Yj5HmhC3SO8YurJtqexF) | [Wildest Energy](https://open.spotify.com/album/7oqVev147Hf9W8A8CTqVrr) | 3:06 | 2024-03-08 | 2024-04-13 |
 | [Wishlist](https://open.spotify.com/track/1bVmh4lomjgGJf6rHmlt7p) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Wishlist](https://open.spotify.com/album/7Aforyi952UxUSb1XrKjzB) | 3:05 | 2024-03-08 | 2024-04-26 |
 | [Without You \(feat\. EKE\)](https://open.spotify.com/track/3fT0Vy8zVyvCNz9goAmUMQ) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Without You \(feat\. EKE\)](https://open.spotify.com/album/7pig9t4mlEiwxGuVcI6YjA) | 2:58 | 2024-12-05 | 2025-03-14 |

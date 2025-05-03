@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: CeCe Winans",
+  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: Chris Tomlin",
   "name": "Christian Hits",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/09VSG1KLDlanpc5o0TNRJE"
@@ -788,10 +788,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 156199,
       "name": "Come Forth",
       "url": "https://open.spotify.com/track/7G9od7QNw1snBdtiyBE5Eu"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come (Radio Version)",
+        "url": "https://open.spotify.com/album/7GOKgIxyfzPwmUyF1Mxjec"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252567,
+      "name": "Come Jesus Come - Radio Version",
+      "url": "https://open.spotify.com/track/5SUQktBU6pgsvPSgG3uiLA"
     },
     {
       "album": {
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 219266,
       "name": "Cornerstone (feat. Zach Williams)",
       "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
@@ -1678,6 +1696,28 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+    },
+    {
+      "album": {
+        "name": "God Of Wonders",
+        "url": "https://open.spotify.com/album/5VLJAD7494p0RAXn1zITDT"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161129,
+      "name": "God Of Wonders",
+      "url": "https://open.spotify.com/track/3SQ0Ki7UnQ6CkqWzonOl6I"
     },
     {
       "album": {
@@ -5228,6 +5268,24 @@
       "duration_ms": 202333,
       "name": "Yesterday, Today, & Tomorrow",
       "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
+    },
+    {
+      "album": {
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "album": {

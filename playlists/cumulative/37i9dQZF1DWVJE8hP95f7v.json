@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Depois do Amor",
+        "url": "https://open.spotify.com/album/3b5sEZLSfgUoHNLYm6Z78S"
+      },
+      "artists": [
+        {
+          "name": "Samantha Schm\u00fctz",
+          "url": "https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202483,
+      "name": "Depois do Amor",
+      "url": "https://open.spotify.com/track/1DLitp0tvUDULj1Xvji3G8"
+    },
+    {
+      "album": {
         "name": "Derrete",
         "url": "https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z"
       },
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 246177,
       "name": "M\u00e1s Inten\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/3BPtSwO7ys5cP0V35WRyZ6"

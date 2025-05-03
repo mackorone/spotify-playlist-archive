@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-193 songs - 13 hr 34 min
+194 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 | 2022-05-25 | 2024-04-19 |
 | [Enter Sandman](https://open.spotify.com/track/7uclOPUBgZyuowtCNxiopc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 3:51 | 2022-05-25 | 2022-07-29 |
 | [Enter Sandman](https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu) | 3:51 | 2022-06-13 | 2023-02-20 |
-| [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-13 |  |
+| [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-13 | 2025-05-03 |
 | [Everytime We Touch \- TEKKNO Version](https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Everytime We Touch \(TEKKNO Version\)](https://open.spotify.com/album/68b4arc5OggOpXBCMTUdZc) | 3:17 | 2023-06-22 |  |
 | [Ex's and Oh's \- Cover](https://open.spotify.com/track/2Ikik4GXDcvnnEv8lXeY1v) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Ex's and Oh's \(Cover\)](https://open.spotify.com/album/3vRZni6nXRXzASn7YyFcYP) | 3:43 | 2022-05-25 | 2022-09-02 |
 | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO), [David Sanchez](https://open.spotify.com/artist/07cz6I9ahKtbzJaehkJk7E), [Guillermo Izquierdo](https://open.spotify.com/artist/49bTia5VLmmlRthpgzLgkV), [Juli Bazooka](https://open.spotify.com/artist/5IecwP2g6giRRuQ2KpwlPO), [Lenny Bruce](https://open.spotify.com/artist/6aFRZPVhksTpz1GonWgEJ5), [Andrew Hudson](https://open.spotify.com/artist/1t3KT49CcGYnU7DSxP4yON), [Spyros Lafias](https://open.spotify.com/artist/34QHZfCmbQsR7LuxOy4tOr) | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI) | 3:49 | 2022-05-25 | 2022-07-29 |
@@ -67,6 +67,7 @@
 | [God of Thunder](https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Human \(Deluxe Version\)](https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc) | 4:00 | 2022-05-25 | 2023-02-20 |
 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 | 2022-12-12 |  |
 | [Hallowed Be Thy Name](https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Lovecraft & Witch Hearts](https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at) | 7:10 | 2022-05-25 | 2023-02-20 |
+| [Head Over Heels](https://open.spotify.com/track/5nsTZrGlDYRJR5hkKXwYOM) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Head Over Heels](https://open.spotify.com/album/3rREkFIfHmcjSvpOvtaIX0) | 4:58 | 2025-05-02 |  |
 | [Helter Skelter](https://open.spotify.com/track/5klq1o93WBQA3q1HotQS78) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly) | 3:12 | 2024-04-01 | 2024-04-19 |
 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 | 2022-06-13 | 2024-04-19 |
 | [Helter Skelter](https://open.spotify.com/track/7dbjRLY969SvR0inx3h1eP) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5t5vGOuw0QejHZ4KDEtyQR) | 3:35 | 2022-05-25 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
+  "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "You\u2019re My Every Reason (2=1)",
+        "url": "https://open.spotify.com/album/45MUGHHAwFYXowFGSE9cTC"
+      },
+      "artists": [
+        {
+          "name": "Joop Vudtinun",
+          "url": "https://open.spotify.com/artist/3ihPjNwDHETu0jl3gDtvax"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292222,
+      "name": "You\u2019re My Every Reason (2=1)",
+      "url": "https://open.spotify.com/track/2ibQCW19cKBk9WqGif17ni"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e2d\u0e14\u0e43\u0e19\u0e43\u0e08",
         "url": "https://open.spotify.com/album/6cjIQVmyudC1FZ1xNnMQai"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
@@ -703,6 +721,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25 (From \"Last Meal Universe \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e21\u0e37\u0e49\u0e2d\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 \u0e01\u0e48\u0e2d\u0e19\u0e42\u0e25\u0e01\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e14\u0e48\u0e27\u0e19\u0e2d\u0e27\u0e01\u0e32\u0e28\")",
+        "url": "https://open.spotify.com/album/7c8rnAkJRZqNVCXiqQ207h"
+      },
+      "artists": [
+        {
+          "name": "Gun Napat",
+          "url": "https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25 - From \"Last Meal Universe \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e21\u0e37\u0e49\u0e2d\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 \u0e01\u0e48\u0e2d\u0e19\u0e42\u0e25\u0e01\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e14\u0e48\u0e27\u0e19\u0e2d\u0e27\u0e01\u0e32\u0e28\"",
+      "url": "https://open.spotify.com/track/2ho2dFO7J0VogKk8ey0FZj"
+    },
+    {
+      "album": {
         "name": "Best of MR.TEAM",
         "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 224482,
       "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
       "url": "https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 227186,
       "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
       "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
@@ -2288,7 +2324,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
@@ -3391,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) [Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series]",
+        "url": "https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230847,
+      "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) - Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c (Rain wedding) [From \"\u0e27\u0e34\u0e21\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e21\"]",
         "url": "https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8"
       },
@@ -3424,6 +3478,24 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e44\u0e1b (Take All My Love)",
+        "url": "https://open.spotify.com/album/1TZgz2TxlvdSVXmgPxrEIz"
+      },
+      "artists": [
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "\u0e40\u0e2d\u0e32\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e44\u0e1b (Take All My Love)",
+      "url": "https://open.spotify.com/track/7nfx4O5ZGvevkdaPkLzK3d"
     },
     {
       "album": {
@@ -3798,6 +3870,24 @@
       "duration_ms": 194500,
       "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
       "url": "https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e04\u0e23\u0e1a\u0e2d\u0e01\u0e19\u0e32\u0e07\u0e1f\u0e49\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/2pyzSmMfXftuk6kQMR4goO"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e01\u0e49\u0e32 \u0e40\u0e01\u0e23\u0e34\u0e01\u0e1e\u0e25",
+          "url": "https://open.spotify.com/artist/4oqBGocVfZFyysWvD8AbLS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "\u0e43\u0e04\u0e23\u0e1a\u0e2d\u0e01\u0e19\u0e32\u0e07\u0e1f\u0e49\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07",
+      "url": "https://open.spotify.com/track/5DbOTatdnwm0HsrVvlFN9R"
     },
     {
       "album": {

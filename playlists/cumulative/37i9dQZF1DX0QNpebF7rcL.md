@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Southern Avenue
+> The best in blues right now\. Cover: D.K\. Harrell
 
-460 songs - 1 day 6 hr 51 min
+461 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 | 2021-09-24 | 2024-01-27 |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2020-12-14 | 2022-02-26 |
 | [American Dream](https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp) | [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8) | [American Dream](https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA) | 4:11 | 2022-10-28 | 2025-01-18 |
-| [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 | 2023-05-12 |  |
+| [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 | 2023-05-12 | 2025-05-03 |
 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 | 2021-10-15 | 2023-06-17 |
 | [Animal In Me](https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Animal In Me](https://open.spotify.com/album/7DGUiEkagecwFnpucvxKAj) | 2:54 | 2023-09-08 |  |
 | [As The Crow Flies](https://open.spotify.com/track/4RYAAiseMDi3NlWooNNdIz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 4:25 | 2021-11-05 | 2023-08-05 |
@@ -146,6 +146,7 @@
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 | 2022-04-23 |
 | [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 | 2025-01-17 | 2025-04-12 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 | 2024-01-20 |
+| [Grown Now](https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl) | [D.K\. Harrell](https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx) | [Grown Now](https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk) | 3:52 | 2025-05-02 |  |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 | 2022-09-17 |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 | 2023-01-06 |
 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 | 2023-05-19 | 2023-09-16 |

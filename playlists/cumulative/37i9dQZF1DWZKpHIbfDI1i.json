@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Natalia Lafourcade en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Gloria Trevi en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 204413,
       "name": "Al Diablo Tu Ausencia",
       "url": "https://open.spotify.com/track/7vNoUdhkr9q4BnlKAT6BsN"
@@ -3208,6 +3208,28 @@
       "duration_ms": 143231,
       "name": "Beso - Spotify Singles",
       "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+    },
+    {
+      "album": {
+        "name": "Better Than Sex",
+        "url": "https://open.spotify.com/album/6833Z1qOjl0Q3ADeCENCJW"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168919,
+      "name": "Better Than Sex",
+      "url": "https://open.spotify.com/track/4jdkOxKzo8kD8CgnLXUfaL"
     },
     {
       "album": {
@@ -8039,6 +8061,28 @@
     },
     {
       "album": {
+        "name": "El Disfraz Con Denisse Guerrero (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/3vG2KOdXOi9ZugXBNSjoOK"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Denisse Guerrero",
+          "url": "https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168405,
+      "name": "El Disfraz - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/2n0ni9f0CyJ5U450rmbDhF"
+    },
+    {
+      "album": {
         "name": "El D\u00eda Que Te Fuiste",
         "url": "https://open.spotify.com/album/4jNZTWsgOpv4rejGsqn0jy"
       },
@@ -8414,7 +8458,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 420807,
       "name": "El Palomo y La Negra",
       "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
@@ -8780,6 +8824,24 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "album": {
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "album": {
@@ -10682,6 +10744,24 @@
       "duration_ms": 123658,
       "name": "Gracias por Nada",
       "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
+    },
+    {
+      "album": {
+        "name": "RAYMIXes (Remix)",
+        "url": "https://open.spotify.com/album/4CWIgKzPTxVVALsc76v0tt"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209224,
+      "name": "Gritar\u00eda - Remix",
+      "url": "https://open.spotify.com/track/0p1M3S5f6zrHhsuZZTXEdj"
     },
     {
       "album": {
@@ -12940,7 +13020,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 163500,
       "name": "Lado Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
@@ -13066,6 +13146,28 @@
       "duration_ms": 175200,
       "name": "LATIGAZO",
       "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+    },
+    {
+      "album": {
+        "name": "Le Pedir\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/5IoM4oKFcRgsivBnEDfeB1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268460,
+      "name": "Le Pedir\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/3hQLTuhcgmx8VHTg4Wk2Ej"
     },
     {
       "album": {
@@ -15714,7 +15816,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 185000,
       "name": "Mis Cuarenta",
       "url": "https://open.spotify.com/track/1KJt4L1dkAQHGMZOFFkSTc"
@@ -15842,7 +15944,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 131142,
       "name": "Modo Antidepresivo",
       "url": "https://open.spotify.com/track/56x01c0Drtlmd7e0t6G97r"
@@ -22663,6 +22765,24 @@
     },
     {
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133772,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg"
+    },
+    {
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -22925,6 +23045,28 @@
     },
     {
       "album": {
+        "name": "spoiler: sale mal",
+        "url": "https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164342,
+      "name": "spoiler: sale mal",
+      "url": "https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W"
+    },
+    {
+      "album": {
         "name": "SQ LITO",
         "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
       },
@@ -22976,7 +23118,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
@@ -23760,7 +23902,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 172150,
       "name": "Te Ves Muy Bien",
       "url": "https://open.spotify.com/track/6BANB54bdYdgyFIh11mImt"
@@ -27315,6 +27457,28 @@
     },
     {
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Zaira Jabnell",
+          "url": "https://open.spotify.com/artist/603fftWMCkmq7E98J2WzD0"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272386,
+      "name": "Zero (Feat. Zaira Jabnell)",
+      "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
+    },
+    {
+      "album": {
         "name": "Zoom",
         "url": "https://open.spotify.com/album/3ho0FF1z5evkm7FwjFMFAi"
       },
@@ -27752,7 +27916,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 170863,
       "name": "\u00d1ero Session 17",
       "url": "https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU"

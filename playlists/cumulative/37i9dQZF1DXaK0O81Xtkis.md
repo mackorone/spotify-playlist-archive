@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Litany
+> a little indie, a little pop\.  Cover: Daniel Seavey
 
-1,319 songs - 2 day 17 hr 41 min
+1,323 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 | 2022-09-17 |
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 | 2022-06-17 | 2022-08-27 |
+| [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 | 2025-05-02 |  |
 | [Books](https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Books](https://open.spotify.com/album/5makcexyZJmKWVzA7QLpyj) | 2:54 | 2023-11-24 | 2024-01-05 |
 | [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-08-09 | 2024-08-17 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-29 | 2021-12-25 |
@@ -781,13 +782,14 @@
 | [Migraine](https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Migraine](https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl) | 3:26 | 2023-09-22 | 2023-11-25 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-04-12 | 2024-06-22 |
 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 | 2022-04-01 | 2022-04-09 |
-| [Milk & Honey](https://open.spotify.com/track/2bPwkeahjE6gpcgP3n3a0p) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Milk & Honey](https://open.spotify.com/album/3CQnwt4FX7agNEYhfTpll7) | 2:47 | 2025-02-07 |  |
+| [Milk & Honey](https://open.spotify.com/track/2bPwkeahjE6gpcgP3n3a0p) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Milk & Honey](https://open.spotify.com/album/3CQnwt4FX7agNEYhfTpll7) | 2:47 | 2025-02-07 | 2025-05-03 |
 | [Million Dollar Bills](https://open.spotify.com/track/0AAApVAymzFlQtHJdyw676) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Million Dollar Bills](https://open.spotify.com/album/28hOjrWUi7zMpjPweimK06) | 3:11 | 2022-04-22 | 2022-05-20 |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 | 2022-05-28 |
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-13 | 2024-11-16 |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-01-07 | 2022-02-26 |
 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 | 2024-01-05 |
 | [Miracle](https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF) | 3:02 | 2023-10-13 | 2024-01-05 |
+| [Miss America](https://open.spotify.com/track/5EUFD92nWoRTlNVj7zkwUY) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Miss America](https://open.spotify.com/album/6h6s1KGJDUlApKW75qlArL) | 2:53 | 2025-05-02 |  |
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 | 2025-04-12 |
 | [Miss You](https://open.spotify.com/track/6ocMXJqpkBP7KNFNUDLSUN) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Miss You](https://open.spotify.com/album/7h32RpEtJz3qqo4a4AjPet) | 2:47 | 2024-01-05 | 2024-03-30 |
@@ -814,6 +816,7 @@
 | [My Mouth \(la la la\)](https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [My Mouth \(la la la\)](https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7) | 3:11 | 2024-03-22 | 2024-06-01 |
 | [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 | 2023-01-27 | 2023-07-01 |
 | [My Wife & 2 Dogs](https://open.spotify.com/track/5Ofdnu8hv625HP7OXoE2nj) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:18 | 2022-04-01 | 2022-04-09 |
+| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-02 |  |
 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 | 2023-03-24 | 2023-07-22 |
 | [Naive](https://open.spotify.com/track/5IyQ3FaPU3EbE9Sbleq59M) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Naive](https://open.spotify.com/album/17CC61VuUARx8AHynTbmnP) | 3:15 | 2023-02-10 | 2023-04-15 |
 | [Natural](https://open.spotify.com/track/7z9TlbrDkEkwKAyScdDamy) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO) | 2:36 | 2023-06-23 | 2023-07-29 |
@@ -1016,6 +1019,7 @@
 | [skip curfew](https://open.spotify.com/track/2VeLmWAw5HtgedSL2Sp2TY) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:18 | 2021-12-03 | 2022-02-26 |
 | [Slack](https://open.spotify.com/track/2bcKBXhEvtpluFyU5bQNh7) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Slack](https://open.spotify.com/album/399DCOIpeXaQOvUOSRY8yS) | 2:49 | 2024-08-09 | 2024-10-19 |
 | [Sleep When We're Dead](https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Sleep When We're Dead](https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy) | 3:40 | 2025-03-21 |  |
+| [Sleeping With The Lights On](https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:44 | 2025-05-02 |  |
 | [sleepover](https://open.spotify.com/track/4WEi5dUbKYjiOuc3LCQY2n) | [dreamfone](https://open.spotify.com/artist/00BCWGiYaxkXLJOp3zakyc) | [sleepover](https://open.spotify.com/album/6mJomZ2MN6gyUxbO2efeGT) | 2:38 | 2023-09-22 | 2024-01-05 |
 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 | 2024-02-16 | 2024-02-24 |
 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 | 2024-02-23 |

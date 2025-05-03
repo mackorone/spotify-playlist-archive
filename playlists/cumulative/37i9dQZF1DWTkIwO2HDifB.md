@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: DJ Tchouzen, MC Rodrigo do CN
+> Os funks mais 🔑 do Brasil / Foto: Nego Trufa, Dj TC, DJ Japa NK
 
 348 songs - 20 hr 44 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Southern Avenue",
+  "description": "The best in blues right now. Cover: D.K. Harrell",
   "name": "Got Blues",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 224586,
       "name": "Anemouhagh",
       "url": "https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp"
@@ -2654,6 +2654,24 @@
       "duration_ms": 237513,
       "name": "Great Minds Drink Alike - With Horns",
       "url": "https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9"
+    },
+    {
+      "album": {
+        "name": "Grown Now",
+        "url": "https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk"
+      },
+      "artists": [
+        {
+          "name": "D.K. Harrell",
+          "url": "https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232242,
+      "name": "Grown Now",
+      "url": "https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl"
     },
     {
       "album": {

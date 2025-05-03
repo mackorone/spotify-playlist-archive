@@ -1,6 +1,6 @@
 {
   "description": "The best new music from the wide world of punk. Cover: PUP",
-  "num_followers": 325074,
+  "num_followers": 325291,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
       "duration_ms": 153851,
       "name": "No Longer Young",
       "url": "https://open.spotify.com/track/2QgRR2igdWsqymmUy0FSza"
+    },
+    {
+      "added_at": "2025-05-01 23:00:13",
+      "album": {
+        "name": "Right Girl Wrong Time",
+        "url": "https://open.spotify.com/album/1m0vP6vVjZflJp5MNMdVFU"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Guilbert",
+          "url": "https://open.spotify.com/artist/076Gy8u6GxUrHUxbaesJFC"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 149291,
+      "name": "Right Girl Wrong Time",
+      "url": "https://open.spotify.com/track/4gobC5dE1k9njtzIDChBRF"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -425,7 +445,7 @@
         },
         {
           "name": "Pat Flynn",
-          "url": "https://open.spotify.com/artist/0QSSTVzzZDsKY9ga5YFqtc"
+          "url": "https://open.spotify.com/artist/7MhyCOU5ZCJv1hbSWdYYAF"
         }
       ],
       "duration_ms": 178314,

@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Leonchalon.
 
-278 songs - 18 hr 18 min
+279 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Repatriation](https://open.spotify.com/track/5ix1mGbHcNmDaeQLqDwbKY) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Repatriation](https://open.spotify.com/album/4lrBWxskUMFVgEa0oJ0bdq) | 3:38 | 2022-05-06 | 2022-07-15 |
 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 | 2022-05-06 | 2023-01-11 |
 | [Resistencia indígena \- Remaster 2023](https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [SIG RAGGA \(Remaster 2023\)](https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy) | 5:08 | 2023-06-09 | 2024-04-19 |
+| [Revolución](https://open.spotify.com/track/4MPN2y9c3jwxM0kuqlV80r) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X) | [Revolución](https://open.spotify.com/album/0ShUvcqID5CKqRBgHwwYEg) | 4:36 | 2025-05-02 |  |
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2022-05-06 |  |
 | [Rolling](https://open.spotify.com/track/3Rmq4pfpcj3b11twkz7iaH) | [Andrés Cotter](https://open.spotify.com/artist/5LOlcDgC9Q8H5Yp2wC09Nz), [Eitan Avineri](https://open.spotify.com/artist/7JR8J5nzo0Imy2j9xQtEBE), [Western Standard Time Ska Orchestra](https://open.spotify.com/artist/307wefpFQglED5zeNdeDSA) | [Rolling](https://open.spotify.com/album/2iFs0YvvTnRf2d2XYtv5hX) | 3:20 | 2023-08-11 | 2023-08-19 |
 | [Rumbos](https://open.spotify.com/track/5MnnfxY6P5il3uLuNXiqNa) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Rumbos](https://open.spotify.com/album/0I8OcfGllqQ6WApI1abJGw) | 2:49 | 2022-05-06 | 2022-06-19 |
@@ -274,7 +275,7 @@
 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 | 2022-05-06 |  |
 | [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-06 |  |
 | [Voy a Empezar \- En Vivo](https://open.spotify.com/track/3GDVlphGz67WZCrAIqhWAQ) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Vivo en Waikiki Roots](https://open.spotify.com/album/6oByxRETNsn0aeskrfd02q) | 4:19 | 2022-07-01 | 2022-07-15 |
-| [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 | 2022-05-06 |  |
+| [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 | 2022-05-06 | 2025-05-03 |
 | [Waitin](https://open.spotify.com/track/27Kx5R1fh1tov999b6hfSA) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Waitin](https://open.spotify.com/album/4enVRuv9QzD2jsvk6EeLtT) | 3:42 | 2025-04-18 |  |
 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 | 2022-05-06 |  |
 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 | 2022-05-06 | 2024-09-28 |

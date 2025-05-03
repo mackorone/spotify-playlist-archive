@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5bjjHyKeiGnYdupfr3UUCW.md) - [plain]
 
 > Ten hours of ultimate jams —all long, all live.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 43 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 43 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

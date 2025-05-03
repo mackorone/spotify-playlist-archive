@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Nari Nari Naduma Murari
+> Bringing out the best of latest love tracks<br/>Cover : Kingdom
 
-288 songs - 18 hr 42 min
+289 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Krishna Chaitanya](https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq) | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g) | 3:48 | 2024-10-17 | 2024-11-22 |
 | [Hilesso Hilessa \(From "Thandel"\)](https://open.spotify.com/track/66nCmAQwd4RaLVqDxr23FZ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shree Mani](https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh) | [Hilesso Hilessa \(From "Thandel"\)](https://open.spotify.com/album/7jFMSnvSEvOM812n3TV5yy) | 3:29 | 2025-01-24 | 2025-03-22 |
 | [Holare Hola](https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Sony Komanduri](https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW), [Shree Mani](https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh) | [Samajavaragamana](https://open.spotify.com/album/0vYWeWvhip93WkwleOx566) | 4:37 | 2023-07-03 | 2024-08-06 |
+| [Hridayam Lopala \(From "Kingdom"\)](https://open.spotify.com/track/03rxt6G3rQo1n9CtE4h2IB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Hridayam Lopala \(From "Kingdom"\)](https://open.spotify.com/album/6oOYjGQYWUzte674cgbxPe) | 3:40 | 2025-05-02 |  |
 | [Humma Humma](https://open.spotify.com/track/4gkjonokhGz5iVg0Af5z1A) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Tirupathi Jaavana](https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6Sa8qfKnsIgzRch6aR7fga) | 3:09 | 2023-11-06 | 2025-02-07 |
 | [Humsafar](https://open.spotify.com/track/4qW5RErWBLhzNF7cUYDpvu) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Samajavaragamana](https://open.spotify.com/album/7Ig3ccke0kEEMO7Gry9FvV) | 3:47 | 2023-06-19 | 2023-07-15 |
 | [I Love You](https://open.spotify.com/track/2lkLsQueH2Lhb60JuVxtPJ) | [Roshan Salur](https://open.spotify.com/artist/3mz0Zu1iKlvkuS9pBK8IAD), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Rehman](https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7) | [Raju Gari Ammayi Naidu Gari Abbayi](https://open.spotify.com/album/1uZ2kMEP9HM0YAsBMCVT97) | 4:48 | 2023-08-30 | 2024-06-01 |

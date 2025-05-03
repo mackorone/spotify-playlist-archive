@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-77 songs - 6 hr 25 min
+78 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [The Joint](https://open.spotify.com/track/64QrWHRvVUuVZoxMYjeL2y) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:41 | 2022-06-01 |  |
 | [The Lost Foot](https://open.spotify.com/track/4tlQXwwmPcemImLrSFxD89) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:24 | 2022-06-01 |  |
 | [The Shakes](https://open.spotify.com/track/3LwmyD2zbdiRUroKoDTLBw) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru) | [Feel.](https://open.spotify.com/album/1Qk8NpiCbHbJQmdXywo5oo) | 3:46 | 2022-06-01 |  |
+| [There's Still a Riot Goin' On](https://open.spotify.com/track/6EVyZOJERMGuJOeBpvLEnl) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Ella Feingold](https://open.spotify.com/artist/64WR0nd4TZPPmIKH3cxS4b) | [There's Still a Riot Goin' On](https://open.spotify.com/album/0Nme5FPBQHxJQQq1wnEps7) | 4:24 | 2025-05-02 |  |
 | [This Too Shall Pass](https://open.spotify.com/track/5q9E3jb5rjHBcDtDWFxtbM) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA) | [The Lotus and the Swamp](https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO) | 3:54 | 2022-06-01 |  |
 | [Tower Of Inspiration](https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Master Plan](https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h) | 3:59 | 2022-06-01 | 2022-11-17 |
 | [True Praise](https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Origin Band](https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:27 | 2022-09-23 |  |

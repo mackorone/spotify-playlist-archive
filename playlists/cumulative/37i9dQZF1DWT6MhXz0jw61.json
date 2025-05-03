@@ -883,6 +883,54 @@
     },
     {
       "album": {
+        "name": "DESERVING",
+        "url": "https://open.spotify.com/album/7ImfQLUxXWuUIhpBheBucs"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268745,
+      "name": "AGNB/Deserved pt2 (with Mick Jenkins & femdot.)",
+      "url": "https://open.spotify.com/track/5PgIDyBGKbAOOGYotVdIKz"
+    },
+    {
+      "album": {
+        "name": "AIM-HI",
+        "url": "https://open.spotify.com/album/4xZsE4HP6SPRHFW3mfeTHh"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "AIM-HI",
+      "url": "https://open.spotify.com/track/07y2XIcmbCMqA2al0tY2CM"
+    },
+    {
+      "album": {
         "name": "Ain't Reason",
         "url": "https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev"
       },
@@ -2060,6 +2108,24 @@
       "duration_ms": 186000,
       "name": "Backstage in Minneapolis",
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
+    },
+    {
+      "album": {
+        "name": "Bad Brain",
+        "url": "https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163042,
+      "name": "Bad Brain",
+      "url": "https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq"
     },
     {
       "album": {
@@ -19274,7 +19340,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
       "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
@@ -21044,7 +21110,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 121066,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/1r3cKBBY0uZpG47oIpBLNU"
@@ -23464,7 +23530,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 255440,
       "name": "Trae The Truth in Ibiza",
       "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"

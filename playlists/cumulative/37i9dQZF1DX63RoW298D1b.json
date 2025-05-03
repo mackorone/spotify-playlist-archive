@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Floating down the river",
+        "url": "https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133300,
+      "name": "Floating down the river",
+      "url": "https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi"
+    },
+    {
+      "album": {
         "name": "flor",
         "url": "https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw"
       },

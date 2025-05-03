@@ -4001,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0uGjudLAmJJxNagSSRpE2x"
+      },
+      "artists": [
+        {
+          "name": "Harpreet Sran",
+          "url": "https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1eI1KtqC7hO3UB5CilnXGA"
+    },
+    {
+      "album": {
         "name": "Fully Loaded",
         "url": "https://open.spotify.com/album/4HzA6zlnW8M3IznzHHic0U"
       },
@@ -4252,7 +4274,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 122500,
       "name": "Gallan Hundiyan - From \"Majhail\"",
       "url": "https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8"

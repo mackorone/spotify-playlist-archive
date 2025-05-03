@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,700 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,727 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Butter](https://open.spotify.com/track/6OpM6ZC2jMqWM746dbwmdN) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Butter](https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4) | 2:41 |
+| 1 | [Northern Sky \(A Cappella\)](https://open.spotify.com/track/6UJsdbb3q4RnwoNPh7vQWa) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16) | [Northern Sky \(A Cappella\)](https://open.spotify.com/album/6jeCd17X5AVrz5b4CF0mOF) | 3:25 |
 | 2 | [Sleeping In The Cold Below](https://open.spotify.com/track/4ZqqDHKO0vUhiyrHhS4DM2) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Omar Cardona](https://open.spotify.com/artist/5NGEpKKqd2W689g9Ts9wMX) | [Sleeping In The Cold Below](https://open.spotify.com/album/4kPeTuVsq3fOa7YtdG0IRa) | 2:50 |
 | 3 | [Let It Be](https://open.spotify.com/track/0n41tY2CGlawnoAwwfkEKs) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Let It Be](https://open.spotify.com/album/0ACMjPgeuyAGTnGy8siePH) | 3:27 |
 | 4 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 |
 | 100 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 |
 
-Snapshot ID: `ZtFDwAAAAABhYdW1UZizHVHnMo+8dQlg`
+Snapshot ID: `aBRDXQAAAAB72V6yp18ygARp4INuVleE`

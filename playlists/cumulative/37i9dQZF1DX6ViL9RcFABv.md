@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Nena
 
-241 songs - 12 hr 49 min
+242 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2024-06-27 | 2025-01-31 |
 | [Como É Linda](https://open.spotify.com/track/6B43EbmAvIZihRW50LCtav) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Como É Linda](https://open.spotify.com/album/3yniN1hEeGMKDr0k8HmhVd) | 2:57 | 2024-06-27 | 2025-01-17 |
 | [COMPLICADO](https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [OLHAR P’RA BAIXO](https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE) | 2:43 | 2024-07-04 | 2024-08-30 |
-| [Complicado](https://open.spotify.com/track/6XtfK5ZQn2hadtNHnVJyQY) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Complicado](https://open.spotify.com/album/4UliHa4JSC0XnLUPVQfCrd) | 3:42 | 2025-02-28 |  |
+| [Complicado](https://open.spotify.com/track/6XtfK5ZQn2hadtNHnVJyQY) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Complicado](https://open.spotify.com/album/4UliHa4JSC0XnLUPVQfCrd) | 3:42 | 2025-02-28 | 2025-05-03 |
 | [Confiar](https://open.spotify.com/track/7Kk5aJisvyxy40dgtG08nP) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [Fases](https://open.spotify.com/album/7oHyR7VcOyjHad6vvcnjj4) | 3:09 | 2024-11-22 | 2024-12-06 |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-27 | 2025-03-07 |
 | [Contratempo](https://open.spotify.com/track/1QiUcomB2NULRveIHa8T1P) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Contratempo](https://open.spotify.com/album/416ohviXC6mDNnDKW92eo7) | 3:08 | 2024-11-29 | 2025-03-21 |
@@ -246,6 +246,7 @@
 | [Vai Vaguear](https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Vai Vaguear](https://open.spotify.com/album/4pqOlvUgjCoCPVqzvPXfcB) | 3:30 | 2024-09-26 | 2024-10-11 |
 | [VAMPIROS](https://open.spotify.com/track/4Jlh1A7Lv28qVk08mLcdf5) | [Peculiar](https://open.spotify.com/artist/6m3yCxyoE4000Nd18hdEaC) | [VAMPIROS](https://open.spotify.com/album/2KC9XbtziG5bLOEViQAKXF) | 3:08 | 2025-04-24 |  |
 | [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 | 2025-01-10 | 2025-03-28 |
+| [Vou continuar](https://open.spotify.com/track/7I83T3YEHN1IbToCu3btAQ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:39 | 2025-05-02 |  |
 | [À Espera Do Fim](https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [À Espera Do Fim](https://open.spotify.com/album/2thqEo3jisGUBgPkyVOkwP) | 3:18 | 2025-01-03 |  |
 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [Último Esforço](https://open.spotify.com/track/1WShOxlHNjiCvaAQAJ8Epp) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Último Esforço](https://open.spotify.com/album/6MHGpH9jWamp1WKPsssgpZ) | 3:19 | 2024-10-24 | 2024-11-29 |

@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Far Country",
+        "url": "https://open.spotify.com/album/1LB8xxLweOAn1YkPCaSKBV"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Far Country",
+      "url": "https://open.spotify.com/track/71LzlUgNhw641BBrZQkJgq"
+    },
+    {
+      "album": {
         "name": "Finally Home (feat. Craig Morgan)",
         "url": "https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg"
       },

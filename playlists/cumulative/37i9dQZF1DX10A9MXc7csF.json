@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Esau Ortiz",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Julio Caesar",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 221573,
       "name": "777",
       "url": "https://open.spotify.com/track/1uF7kKsAOLM72eJaoWpBo7"
+    },
+    {
+      "album": {
+        "name": "9 Meses",
+        "url": "https://open.spotify.com/album/4CxbPSAJ3xDH2zmvkmJqfD"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155869,
+      "name": "9 Meses",
+      "url": "https://open.spotify.com/track/5LgGOb91mEcfu45eYnVsFB"
     },
     {
       "album": {
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 198500,
       "name": "Ando Dolido",
       "url": "https://open.spotify.com/track/1VUORrGqW7x6u24Egt4Fwm"
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 178043,
       "name": "Besos De Tequila",
       "url": "https://open.spotify.com/track/7ijg1Hg4ZtpJIhjMn8bAK4"
@@ -4026,7 +4044,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 183075,
       "name": "chocolate",
       "url": "https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU"
@@ -4168,6 +4186,24 @@
       "duration_ms": 187336,
       "name": "Claro Que Te Amo",
       "url": "https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK"
+    },
+    {
+      "album": {
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
     },
     {
       "album": {
@@ -5110,7 +5146,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 171968,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/6p74ogC5tEb1tgebeVxtN0"
@@ -8496,7 +8532,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 165034,
       "name": "En Qu\u00e9 Momento",
       "url": "https://open.spotify.com/track/7hqQRn8nYHIESyKoiJsJPz"
@@ -9951,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/0b6nvl9mgW5BjTJtkaP3Tu"
+      },
+      "artists": [
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166858,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/6rxbNI6XdvYMxwr9kGvc3Q"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
       },
@@ -10020,7 +10074,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 145083,
       "name": "Galaxia",
       "url": "https://open.spotify.com/track/6aJTALAO4STpNu6KfB9eVQ"
@@ -11596,6 +11650,28 @@
       "duration_ms": 170783,
       "name": "La Brabus",
       "url": "https://open.spotify.com/track/2nZKuNteyJPjoAk5G50n3b"
+    },
+    {
+      "album": {
+        "name": "La Buena Eras T\u00fa",
+        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202992,
+      "name": "La Buena Eras T\u00fa",
+      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
     },
     {
       "album": {
@@ -14488,7 +14564,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 211324,
       "name": "Me Toc\u00f3 Perder",
       "url": "https://open.spotify.com/track/6uxvVb2bAlEc0r6sCwH0K4"
@@ -16478,7 +16554,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 176750,
       "name": "Nicotina",
       "url": "https://open.spotify.com/track/7xLil2vqumNoP8zLc9LECe"
@@ -16558,6 +16634,24 @@
       "duration_ms": 177500,
       "name": "Ni\u00f1a Gotica",
       "url": "https://open.spotify.com/track/5bdra6IsLflRKQK5gpNzl8"
+    },
+    {
+      "album": {
+        "name": "No Eramos Pobres",
+        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "No Eramos Pobres",
+      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
     },
     {
       "album": {
@@ -19919,6 +20013,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/1HXLmFEMkXFOamjDGNG9qd"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/5Y0rpQekuPPJXS7BflEHw6"
+    },
+    {
+      "album": {
         "name": "QU\u00c9 BONITA",
         "url": "https://open.spotify.com/album/7EzmgX7Dkh3vGd7Yweo9OL"
       },
@@ -20039,6 +20151,24 @@
     },
     {
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6k0uGn4xDTNckdU9EDQ11y"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "rascacielos",
+      "url": "https://open.spotify.com/track/0ThTNgSxaupZCipQWsOWph"
+    },
+    {
+      "album": {
         "name": "Rayando El Sol (En Vivo)",
         "url": "https://open.spotify.com/album/4Z6FaZMiqPHbhdZsWYGyz2"
       },
@@ -20076,7 +20206,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 165609,
       "name": "Rayito De Luz",
       "url": "https://open.spotify.com/track/4WP35e4N3xr7FEhB6iGgz2"
@@ -25477,6 +25607,24 @@
     },
     {
       "album": {
+        "name": "YAKUSA",
+        "url": "https://open.spotify.com/album/3EOBtogMv4NcIEu9TY4n6X"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158253,
+      "name": "YAKUSA",
+      "url": "https://open.spotify.com/track/6EVTKIfElJ0DzO4n5DuGmX"
+    },
+    {
+      "album": {
         "name": "YCQVM",
         "url": "https://open.spotify.com/album/7lurBuFjNftY7NNRV1WWRr"
       },
@@ -25630,6 +25778,28 @@
       "duration_ms": 187250,
       "name": "Zaguf Roma",
       "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5skho2Qc3LR9CB8wxZ9num"
+      },
+      "artists": [
+        {
+          "name": "Drian",
+          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175573,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/3FeSmgUgKHKTjCZZs8dZzv"
     },
     {
       "album": {

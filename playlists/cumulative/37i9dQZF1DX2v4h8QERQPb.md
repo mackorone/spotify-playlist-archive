@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. 📸 Frozouda
 
-358 songs - 17 hr 59 min
+361 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A PLENO](https://open.spotify.com/track/1OKROjCJG2p4Yizvvg17gJ) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A PLENO](https://open.spotify.com/album/631Dbx3X7wwPBZAlhMFkj9) | 2:48 | 2024-12-20 |  |
 | [A TODO GAS](https://open.spotify.com/track/5aQl2bVgHX5Gh8NYjE6Vp9) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [A TODO GAS](https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X) | 2:29 | 2024-05-10 |  |
 | [ACDC](https://open.spotify.com/track/2jJcyBC0I8xsu4t3vpAlgx) | [Dyan](https://open.spotify.com/artist/3hpawnHbN5R65xVPnhJPFY), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY), [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [ACDC](https://open.spotify.com/album/5GgJMELI6lm7Oj18VRRe4i) | 2:23 | 2025-02-28 | 2025-04-12 |
+| [ACRU // Round 15](https://open.spotify.com/track/3CWsQCk670Rlq01J7xZAHZ) | [Room41](https://open.spotify.com/artist/06y9BCJYP2wpYn61S4USLy), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [ACRU // Round 15](https://open.spotify.com/album/7ie9lFAy0IlDbfKmodX3it) | 3:14 | 2025-05-02 |  |
 | [ACTITUD](https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ACTITUD](https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL) | 2:05 | 2023-10-20 | 2024-06-22 |
 | [Adelantado](https://open.spotify.com/track/6bcAaffKIk6lkRAn3CJ8ng) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [808god](https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8) | [Adelantado](https://open.spotify.com/album/5IokoqgSfmhq5unsRNs24S) | 3:53 | 2024-06-28 | 2024-12-14 |
 | [ADRENALINA](https://open.spotify.com/track/1Y7PMEmhBNhwRYdwupj61v) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ADRENALINA](https://open.spotify.com/album/738JDm3WZaOJJUqtCsdDRv) | 3:13 | 2024-08-30 |  |
@@ -163,6 +164,7 @@
 | [Fvck System](https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB) | [N.G.O](https://open.spotify.com/artist/5rje84AB7dr3j1tQukbuzT), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Keis](https://open.spotify.com/artist/0JHeK4aFzFxGpXRe49Ilkx) | [Fvck System](https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo) | 4:01 | 2021-11-26 | 2024-03-23 |
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:48 | 2021-11-26 | 2022-04-12 |
 | [Gané Mi Lugar](https://open.spotify.com/track/6alp7jdqWxGdKsNoFdCTCD) | [Cacha](https://open.spotify.com/artist/2612FpziZcGHTU77hgmdv8) | [Gané Mi Lugar](https://open.spotify.com/album/2d8866oML6XRx9gn3sjRQm) | 2:49 | 2021-11-26 | 2022-04-12 |
+| [GARDEL EN EL AVIÓN](https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Willy Bronca](https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c) | [GARDEL EN EL AVIÓN](https://open.spotify.com/album/5RPPRhI9UzU2DQDkimiNKM) | 2:25 | 2025-05-02 |  |
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2021-11-26 | 2022-04-12 |
 | [GOAT](https://open.spotify.com/track/6jdmP2pVIN5MXZ1G7GPiCN) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Ahora es Religión](https://open.spotify.com/album/202mSKQoBuHqKMtm2X1qDo) | 2:54 | 2024-08-02 |  |
 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 | 2023-05-12 | 2023-08-19 |
@@ -366,5 +368,6 @@
 | [YSH \(Yes So High\) \[feat\. Smokk Trvp\]](https://open.spotify.com/track/4O01gZtosyRrkn5ZPwyVxn) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF), [Smokk Trvp](https://open.spotify.com/artist/5JoNfRjVBSSJossGx5rmgC) | [YSH \(Yes So High\) \[feat\. Smokk Trvp\]](https://open.spotify.com/album/6qCsBeHN4K1GHL8sIFgoWi) | 3:01 | 2021-11-26 | 2022-03-12 |
 | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 | 2021-11-26 | 2025-01-30 |
 | [Zica // Round 14](https://open.spotify.com/track/7ERFRZkhcy59BFyv3Uhp3k) | [Room41](https://open.spotify.com/artist/06y9BCJYP2wpYn61S4USLy), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Zica // Round 14](https://open.spotify.com/album/5BzFjk6kbQNGu4rJHSPcYn) | 2:36 | 2025-04-11 |  |
+| [¿Quién Pierde?](https://open.spotify.com/track/6HO5wfhnNnI6U41jJMSlj8) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Don Lucero](https://open.spotify.com/artist/4wKVLMp3zFby9P6YK8f26B) | [¿Quién Pierde?](https://open.spotify.com/album/4afAxNIoEWNFSR0Goutitn) | 3:07 | 2025-05-02 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

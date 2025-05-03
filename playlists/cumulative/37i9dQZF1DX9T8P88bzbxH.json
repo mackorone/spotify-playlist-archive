@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The nostalgia is real \u2013 Boyce Avenue is back in Singapore! Cover: Boyce Avenue",
+  "description": "Get ready to relive the magic! Cover: M2M",
   "name": "GO Live",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 240177,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/4o6Cvh18rzRfuoRH80va5n"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 212771,
       "name": "A Thousand Years / Say You Won\u2019t Let Go (Live 2017)",
       "url": "https://open.spotify.com/track/4Dl855fAN0nKsqlpsuh8pG"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 223863,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/5sIWgLCTjgAgH4HoKsUyXF"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 203484,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/3yLkEa4AxU5Q0gA0Ha5IV3"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 240482,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5rcp3sJSzl9Lin56P7jaiQ"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 202533,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/2sBGzQ9K7VkbuLSflnmm6g"
@@ -2043,6 +2043,78 @@
     },
     {
       "album": {
+        "name": "The Big Room",
+        "url": "https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/6ZoD1nG4a1ThYx8BsWl5rP"
+    },
+    {
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Don't Mess with My Love",
+      "url": "https://open.spotify.com/track/6wVEkMK5qChJtxYBXBHH2K"
+    },
+    {
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/7pHSdajr1DZKpsGKTKgVvr"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "Don't Save Me",
+      "url": "https://open.spotify.com/track/2gKjzwVGWGjiEeilvJuDxv"
+    },
+    {
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/65i1UPsUtPlEVzewEZR6sY"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -2130,6 +2202,24 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
+        "name": "Songs from a Blackbird",
+        "url": "https://open.spotify.com/album/3YIg4jfeAOQTIcbw3WEwB8"
+      },
+      "artists": [
+        {
+          "name": "Marion Ravn",
+          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2VMEdIZuBJkwQMYDElResT"
     },
     {
       "album": {
@@ -2358,10 +2448,46 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 225106,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5wTa2fOqqANegU8vnNDf4j"
+    },
+    {
+      "album": {
+        "name": "The Big Room",
+        "url": "https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0WEeJ8GgecjoslF4Ut5eV5"
+    },
+    {
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241386,
+      "name": "Everything You Do",
+      "url": "https://open.spotify.com/track/0HHcmoD0ZuhOr7tTWcLJCQ"
     },
     {
       "album": {
@@ -2492,7 +2618,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 304293,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/63wsZUhUZLlh1OsyrZq7sz"
@@ -2640,7 +2766,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 294736,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/2OcZ7956nCJ1OJ6oyNDLtf"
@@ -3472,7 +3598,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 244480,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/4fZ0mkzk0ktr4WVfjqyUv2"
@@ -3530,6 +3656,24 @@
       "duration_ms": 244733,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4v3yqjymOjjVGE3udmiDio"
+      },
+      "artists": [
+        {
+          "name": "Marion Ravn",
+          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/0rGGN2vmKGVVqr6rCnsuY2"
     },
     {
       "album": {
@@ -3829,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want To Talk About It",
+        "url": "https://open.spotify.com/album/4V6R4nOCA2eXxymDuiJVko"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200984,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/0T36mus8brGbc655l8HQaS"
+    },
+    {
+      "album": {
         "name": "GRADIENT",
         "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
       },
@@ -3984,7 +4146,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 221825,
       "name": "I'll Be The One",
       "url": "https://open.spotify.com/track/56FbE5LWyDwlMrllQl48MP"
@@ -4027,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/3yzDzLXFh12fqvp2Lx7Pg5"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "If A Song Could Get Me You",
+      "url": "https://open.spotify.com/track/7hUyHTbWugVMP9SyCm8gkO"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -4056,7 +4236,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 183232,
       "name": "Imperfect Me",
       "url": "https://open.spotify.com/track/63Q1Xlcqk1XmvuRfyBaCfv"
@@ -4164,7 +4344,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 250078,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3w1F2W305dz4CAyYrHuhCT"
@@ -4204,6 +4384,28 @@
       "duration_ms": 127853,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
+    },
+    {
+      "album": {
+        "name": "Bat Out Of Hell 3",
+        "url": "https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        {
+          "name": "Marion Ravn",
+          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365573,
+      "name": "It's All Coming Back To Me Now",
+      "url": "https://open.spotify.com/track/3bc2u7r6xTKh49klARzHiC"
     },
     {
       "album": {
@@ -5067,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "The Big Room",
+        "url": "https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254760,
+      "name": "Love Left for Me",
+      "url": "https://open.spotify.com/track/1Q7bYx5FzqNbWOS1q3AQbt"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -5453,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/2gX1J5hbHs1V7gkHsNglTv"
+    },
+    {
+      "album": {
         "name": "GRADIENT",
         "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
       },
@@ -5536,7 +5774,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 214428,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/0IaRsFSGeP1k24h4j3VVSS"
@@ -5860,7 +6098,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 231853,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3U9FMzSjrXFS0AnElgcw0j"
@@ -6120,7 +6358,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 257390,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4FytmtwjnW4GdycPb4TwF0"
@@ -6178,7 +6416,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 260186,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC"
@@ -6236,6 +6474,24 @@
       "duration_ms": 211647,
       "name": "PMS",
       "url": "https://open.spotify.com/track/5w0lZFIN6sO7I3sYlmhkLp"
+    },
+    {
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279240,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
     },
     {
       "album": {
@@ -6538,7 +6794,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 194182,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1zPgbEPmJV1AxqOUWLeofE"
@@ -6718,7 +6974,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 181011,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/41EjtT4Enbh5ywY7R06usf"
@@ -7086,7 +7342,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 199019,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
@@ -7547,6 +7803,24 @@
     },
     {
       "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "The Day You Went Away",
+      "url": "https://open.spotify.com/track/1rYYJVlUV2EcgehVUnwJvy"
+    },
+    {
+      "album": {
         "name": "RETAS",
         "url": "https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp"
       },
@@ -7634,6 +7908,24 @@
       "duration_ms": 193540,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "album": {
+        "name": "Songs from a Blackbird",
+        "url": "https://open.spotify.com/album/3YIg4jfeAOQTIcbw3WEwB8"
+      },
+      "artists": [
+        {
+          "name": "Marion Ravn",
+          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242986,
+      "name": "The Minute",
+      "url": "https://open.spotify.com/track/01nO6YQUhc5pM39hJ8KoIR"
     },
     {
       "album": {
@@ -7810,7 +8102,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 236640,
       "name": "Torn",
       "url": "https://open.spotify.com/track/2PN4neVrSo8n6ktRU7MC99"
@@ -7990,7 +8282,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 216792,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/4haa75GTHE3CGntDTBkGNe"
@@ -8016,6 +8308,24 @@
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/7pHSdajr1DZKpsGKTKgVvr"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35VR1AGMIO5iQpv1CnGBF6"
     },
     {
       "album": {
@@ -8200,7 +8510,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 203575,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7Dij8mBegb8uhckk1TRJUz"
@@ -8320,6 +8630,24 @@
       "duration_ms": 259466,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
+    },
+    {
+      "album": {
+        "name": "The Big Room",
+        "url": "https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "What You Do About Me",
+      "url": "https://open.spotify.com/track/2eGt0LgnOmA2Zxwe39vPDD"
     },
     {
       "album": {
@@ -8460,7 +8788,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 222765,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/7Bn3EVZQVPgOdqOhta0SvV"

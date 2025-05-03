@@ -1,13 +1,33 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
-  "num_followers": 106468,
+  "num_followers": 106487,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI8QAAAABNIhRwmZ6AJQ5P2uGQmx3s",
+  "snapshot_id": "aBRDUQAAAAAf78iXuTZIH+Us1NIWJ0od",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:17",
+      "album": {
+        "name": "Everything To Lose",
+        "url": "https://open.spotify.com/album/6niZ8S3bNuyMJ0Oqykd6oi"
+      },
+      "artists": [
+        {
+          "name": "Droyd",
+          "url": "https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O"
+        },
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 192012,
+      "name": "Everything To Lose",
+      "url": "https://open.spotify.com/track/6KaMtAMot9zY0I7Qq5uPBY"
+    },
     {
       "added_at": "2025-04-25 04:00:49",
       "album": {
@@ -1543,26 +1563,6 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/4hGVHhlMhp8zbEWgkm7jtY"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        },
-        {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/1NaYVbEFgRgRbhYKKJMYui"
     },
     {
       "added_at": "2022-11-18 05:01:00",

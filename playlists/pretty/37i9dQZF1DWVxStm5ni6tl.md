@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Bells Larsen, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,115 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,160 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,24 +19,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 9 | [L$D](https://open.spotify.com/track/4u2gY21AEBnoXNg6jvFMdu) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [L$D](https://open.spotify.com/album/1j1isqsjZOhqXlvpsY0rTN) | 2:17 |
 | 10 | [Stay](https://open.spotify.com/track/6Z1iS1HDGYuhVbntY3ldOD) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64) | [Stay](https://open.spotify.com/album/3xf2IccomgUEQCbnSmPR4p) | 4:53 |
 | 11 | [everynight](https://open.spotify.com/track/6HDnyFl06LuoAMf89QFF21) | [Cherrykim](https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l) | [everynight](https://open.spotify.com/album/3R9vuiAZi6vgkn6aSDh7uu) | 3:00 |
-| 12 | [Don't Wait](https://open.spotify.com/track/4SpP1XWVKwb0cPiRalTz5z) | [Kryple](https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv), [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Johnny Rich](https://open.spotify.com/album/2NXLuh6XH4dnfDbVtXpDrp) | 2:51 |
-| 13 | [Lost In Time](https://open.spotify.com/track/5bcttbbSEVPrDZE7Z11xMZ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/2HywdkQAKc7OzWUr90ZT5h) | 2:52 |
-| 14 | [Steady Love](https://open.spotify.com/track/1ncVUM12owC2LGfAldPMkp) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [A Chance to Love Everything](https://open.spotify.com/album/3pyHL5ODZ8S5ltTS4Ha3p0) | 2:53 |
-| 15 | [Granito de arena](https://open.spotify.com/track/2b2t5SLRrKEeA8t2L8EYLP) | [El Balcón](https://open.spotify.com/artist/1nXdD5gMqEU2qm1smvgSzG) | [Errante](https://open.spotify.com/album/6PlVwQCE6q4SZuuysABgu7) | 3:15 |
-| 16 | [Mountain Dew](https://open.spotify.com/track/57Jh6aoOZYg9XCxSsUSqzW) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [Mountain Dew](https://open.spotify.com/album/75v2Zmz6W0sWkXZLdo4HLl) | 2:08 |
-| 17 | [Heartbreak Club](https://open.spotify.com/track/7iJ6C5k07SfjYlr7c5785a) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [J'ai quitté le Heartbreak Club](https://open.spotify.com/album/0UGFBfMGBjljra0EJJ1Swj) | 2:37 |
-| 18 | [Mélodie](https://open.spotify.com/track/1Pz44oOFoJ5zIGuaH2gmgK) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Cabinet de curiosités](https://open.spotify.com/album/3hYKz5N8AqRpTRSW2ngnJG) | 4:01 |
-| 19 | [Drink It Up](https://open.spotify.com/track/5XpJPjNecawA2iMevDOKB7) | [Alicia Lov](https://open.spotify.com/artist/61Qn2n0HsOx6g1Ly3ggBEa) | [Drink It Up](https://open.spotify.com/album/649i5ALljL49tXlmXRbERW) | 2:20 |
-| 20 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 |
-| 21 | [MY BAD](https://open.spotify.com/track/2As1du4JxbVRa1QUFlxYL6) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [MY BAD](https://open.spotify.com/album/7200RQmfvLXIfuSfs8WpuS) | 2:38 |
-| 22 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 |
-| 23 | [Better Days](https://open.spotify.com/track/5szZvRuq8F5YGC5diyzNga) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Story To Tell](https://open.spotify.com/album/3dSynGcJjvbIMf3EAXvW8P) | 3:12 |
-| 24 | [Wake Up!](https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Wake Up!](https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb) | 2:36 |
-| 25 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 |
-| 26 | [Magic](https://open.spotify.com/track/7p6PGuRwnFwoRBTNLfgVCM) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [Magic](https://open.spotify.com/album/72bh9HwfIe5H7OaPYwjQw0) | 2:35 |
-| 27 | [My Body, My Problem](https://open.spotify.com/track/1xyksEebfcMaoOzqX5VUMj) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [A Woman That They Want](https://open.spotify.com/album/5HGZWx7Vu6JULPDkSqRjZJ) | 2:50 |
-| 28 | [I Didn't Break Your Heart](https://open.spotify.com/track/1KqZ0UPsUQCiqQ4oculmvR) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [I Didn't Break Your Heart](https://open.spotify.com/album/5fw79yM0ivbGZmSgvTe8o4) | 3:58 |
-| 29 | [STILLCHOOSEU](https://open.spotify.com/track/5PKfuLyqB4bOkSQZRnumrp) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ), [Gordon](https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g) | [THISISWHOiB](https://open.spotify.com/album/1YgmEIiizJ8Oisy4B4zZ3e) | 3:25 |
+| 12 | [Stand in the sun with me](https://open.spotify.com/track/2OYr0kfoge5BWxTzqUspab) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t) | [Stand in the sun with me](https://open.spotify.com/album/70QAOdYgweMKpkTM1drfvo) | 3:19 |
+| 13 | [Don't Wait](https://open.spotify.com/track/4SpP1XWVKwb0cPiRalTz5z) | [Kryple](https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv), [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Johnny Rich](https://open.spotify.com/album/2NXLuh6XH4dnfDbVtXpDrp) | 2:51 |
+| 14 | [Lost In Time](https://open.spotify.com/track/5bcttbbSEVPrDZE7Z11xMZ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/2HywdkQAKc7OzWUr90ZT5h) | 2:52 |
+| 15 | [Steady Love](https://open.spotify.com/track/1ncVUM12owC2LGfAldPMkp) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [A Chance to Love Everything](https://open.spotify.com/album/3pyHL5ODZ8S5ltTS4Ha3p0) | 2:53 |
+| 16 | [Granito de arena](https://open.spotify.com/track/2b2t5SLRrKEeA8t2L8EYLP) | [El Balcón](https://open.spotify.com/artist/1nXdD5gMqEU2qm1smvgSzG) | [Errante](https://open.spotify.com/album/6PlVwQCE6q4SZuuysABgu7) | 3:15 |
+| 17 | [Mountain Dew](https://open.spotify.com/track/57Jh6aoOZYg9XCxSsUSqzW) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [Mountain Dew](https://open.spotify.com/album/75v2Zmz6W0sWkXZLdo4HLl) | 2:08 |
+| 18 | [Heartbreak Club](https://open.spotify.com/track/7iJ6C5k07SfjYlr7c5785a) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [J'ai quitté le Heartbreak Club](https://open.spotify.com/album/0UGFBfMGBjljra0EJJ1Swj) | 2:37 |
+| 19 | [Mélodie](https://open.spotify.com/track/1Pz44oOFoJ5zIGuaH2gmgK) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Cabinet de curiosités](https://open.spotify.com/album/3hYKz5N8AqRpTRSW2ngnJG) | 4:01 |
+| 20 | [Drink It Up](https://open.spotify.com/track/5XpJPjNecawA2iMevDOKB7) | [Alicia Lov](https://open.spotify.com/artist/61Qn2n0HsOx6g1Ly3ggBEa) | [Drink It Up](https://open.spotify.com/album/649i5ALljL49tXlmXRbERW) | 2:20 |
+| 21 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 |
+| 22 | [MY BAD](https://open.spotify.com/track/2As1du4JxbVRa1QUFlxYL6) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [MY BAD](https://open.spotify.com/album/7200RQmfvLXIfuSfs8WpuS) | 2:38 |
+| 23 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 |
+| 24 | [Better Days](https://open.spotify.com/track/5szZvRuq8F5YGC5diyzNga) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Story To Tell](https://open.spotify.com/album/3dSynGcJjvbIMf3EAXvW8P) | 3:12 |
+| 25 | [Wake Up!](https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Wake Up!](https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb) | 2:36 |
+| 26 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 |
+| 27 | [Magic](https://open.spotify.com/track/7p6PGuRwnFwoRBTNLfgVCM) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [Magic](https://open.spotify.com/album/72bh9HwfIe5H7OaPYwjQw0) | 2:35 |
+| 28 | [My Body, My Problem](https://open.spotify.com/track/1xyksEebfcMaoOzqX5VUMj) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [A Woman That They Want](https://open.spotify.com/album/5HGZWx7Vu6JULPDkSqRjZJ) | 2:50 |
+| 29 | [I Didn't Break Your Heart](https://open.spotify.com/track/1KqZ0UPsUQCiqQ4oculmvR) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [I Didn't Break Your Heart](https://open.spotify.com/album/5fw79yM0ivbGZmSgvTe8o4) | 3:58 |
 | 30 | [Virginia](https://open.spotify.com/track/4kLAYwGzImnVASEFfLWeAH) | [Jane & Compagnie](https://open.spotify.com/artist/2wglb10NuWS5IfkWgNbcyu) | [Virginia](https://open.spotify.com/album/6RTuT3b2z8wKAaacYvc49f) | 4:05 |
 | 31 | [PELiGROSA](https://open.spotify.com/track/5IdYcDsECkAoIEUw4Fpt2o) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [PELiGROSA](https://open.spotify.com/album/2np4vqZ3aP4WMfVOJDlApA) | 2:27 |
 | 32 | [What Love Is](https://open.spotify.com/track/7MNvG1z546ka2pH1bujh1j) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [A Quiet Contemplation of Sunshine](https://open.spotify.com/album/1kZZG9xvhNn0gR6VSK35ZA) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Mon chapeau](https://open.spotify.com/track/2aaVZSxGWzPM0KepFybVIB) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Sous mon chapeau](https://open.spotify.com/album/7LqXJSZCu1PtSAvENSmrvi) | 2:58 |
 | 50 | [ViDA LOCA](https://open.spotify.com/track/3uilWWrdQU9LjrtjOWpL6n) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7) | [ViDA LOCA](https://open.spotify.com/album/0cSvsMYcf2EoDk1Ut0FMFl) | 2:21 |
 
-Snapshot ID: `aBGgXgAAAACxZv/KRKeCBrZxA1IAvtde`
+Snapshot ID: `aBTWBgAAAAB0htqW42++1lJMeq1TLgwK`

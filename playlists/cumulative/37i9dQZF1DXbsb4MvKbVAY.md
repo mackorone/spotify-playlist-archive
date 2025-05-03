@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Sara Bee ja Ares.
 
-1,197 songs - 2 day 11 hr 54 min
+1,198 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-25 |  |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 | 2024-09-27 |
+| [barkov](https://open.spotify.com/track/2PXtENlxYYUMaxS00WOoPA) | [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO), [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx), [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [exi\(s\)t](https://open.spotify.com/album/57Bnj9UCQ21WDKRva8Zs4P) | 3:59 | 2025-05-02 |  |
 | [Basso](https://open.spotify.com/track/0Vbh2MYNevljIrqeNKn36q) | [Thelise](https://open.spotify.com/artist/3FpcoMbYBmVX0xUW9NecUm) | [Basso](https://open.spotify.com/album/7w9rI09GehvbLz3ORJwN4C) | 3:07 | 2024-09-19 | 2024-09-27 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 | 2024-10-25 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-06 |  |
@@ -219,7 +220,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-20 | 2025-04-25 |
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-05 | 2024-09-13 |
 | [Dopamiini](https://open.spotify.com/track/7dCNqpQeRcstey3Et90V3T) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Dopamiini](https://open.spotify.com/album/7F6bDJGLXXlJrHo3gBhyN7) | 2:24 | 2025-04-24 |  |
-| [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 |  |
+| [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-05-03 |
 | [Dream Machine](https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Paradise \(Bonus Edition\)](https://open.spotify.com/album/5SWlTGKudlEfbI4hfja9NJ) | 3:26 | 2025-04-17 |  |
 | [dreaming about you](https://open.spotify.com/track/1SAEwa3ebIbgsMiT4zf5Co) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [dreaming about you](https://open.spotify.com/album/7u6HP1Zb7tNvdaocPqYMoo) | 2:36 | 2025-03-27 | 2025-04-04 |
 | [Dreams](https://open.spotify.com/track/7vsD7u9g5YWQ7KaB4lTKPE) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Dreams](https://open.spotify.com/album/39kt89fPRlFXxlNSGMbnIw) | 2:38 | 2025-03-06 | 2025-03-28 |

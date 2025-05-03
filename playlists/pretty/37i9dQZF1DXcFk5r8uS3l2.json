@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 459240,
+  "num_followers": 459311,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI6QAAAABDcyMNGPjcUn3LHMD/OLPr",
+  "snapshot_id": "aBRDUgAAAAC8vqMx+qvArkF0ACFdaGjr",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:18",
+      "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+    },
     {
       "added_at": "2025-04-25 04:00:41",
       "album": {
@@ -755,30 +771,6 @@
       "duration_ms": 210504,
       "name": "In The Pines",
       "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Feel Like Going Home (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        },
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        }
-      ],
-      "duration_ms": 185984,
-      "name": "Trouble (Sunday Version)",
-      "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
     },
     {
       "added_at": "2024-05-03 04:01:00",

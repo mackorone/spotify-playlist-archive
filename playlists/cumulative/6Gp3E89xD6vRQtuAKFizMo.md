@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-433 songs - 20 hr 48 min
+435 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-02-16 | 2025-04-27 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 | 2022-08-06 |
 | [INOXENTE \- Steve Aoki & Dee Mad Remix](https://open.spotify.com/track/719e5fPCJE34Lb3a6upwhV) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI) | [INOXENTE \(Steve Aoki & Dee Mad Remix\)](https://open.spotify.com/album/3OL3ZtuxuF4czRXHoQBLOi) | 3:00 | 2023-05-05 | 2025-04-27 |
+| [Into The Light](https://open.spotify.com/track/46pGbxr3Z8tIT5QEvHJFDb) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Into The Light](https://open.spotify.com/album/58WkOT84TCYtWAjGO2l2K9) | 2:36 | 2025-05-02 |  |
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 | 2025-04-27 |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 | 2025-04-27 |
@@ -209,6 +210,7 @@
 | [Last Call](https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/6cDcKVDFEqRj6BayY9Hkrj) | 3:02 | 2023-11-22 | 2025-04-27 |
 | [Lavender](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-04-28 | 2025-04-27 |
 | [Leave The Light On](https://open.spotify.com/track/1xlypxpI8KiPQxahsIWqWV) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Leave The Light On](https://open.spotify.com/album/0mIcGstMbvfvT5qgvRfEjt) | 3:05 | 2025-03-07 |  |
+| [Left Right](https://open.spotify.com/track/72mLdgdlAxwvz4og7IbygL) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [Gladez](https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM) | [Left Right](https://open.spotify.com/album/0fMj0lFukjqYANNDoxvPO2) | 2:24 | 2025-05-02 |  |
 | [Left To The Right](https://open.spotify.com/track/4Vvrre8ET12YYOVZPGmGRH) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [Left To The Right](https://open.spotify.com/album/2cuNF6EKv5O8ncRHpE66Fu) | 2:04 | 2025-03-07 |  |
 | [Lemme See Ya](https://open.spotify.com/track/10ecK7ny1jfC5bZvA3JVXE) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Lemme See Ya](https://open.spotify.com/album/21OAvezqpIKtQ03fiAyeUX) | 2:26 | 2025-03-21 |  |
 | [Let Go](https://open.spotify.com/track/6db1oTTKdwEgIgfaB6s3cB) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/7vMS8v1bop3ODHwKLBO0YS) | 2:48 | 2023-11-22 | 2025-04-27 |

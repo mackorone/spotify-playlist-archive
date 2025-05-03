@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-356 songs - 17 hr 19 min
+361 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,8 @@
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-05-23 |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
 | [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 | 2022-08-19 |
+| [Catching Up With My Breath](https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Catching Up With My Breath](https://open.spotify.com/album/5GEduN1QsT99aCG3L66fFs) | 2:36 | 2025-05-02 |  |
+| [Chapters](https://open.spotify.com/track/5AeCyaQbjvnCKenrCYoZiy) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Chapters](https://open.spotify.com/album/5vZslmR5nRPc4d7xCptO9M) | 2:33 | 2025-05-02 |  |
 | [Chateau](https://open.spotify.com/track/0YX3lvsJWCYtoWqTxmMHd6) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Chateau](https://open.spotify.com/album/42FntNE1ODzKgrOtpMgteH) | 3:03 | 2022-11-25 | 2024-11-23 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2022-04-15 | 2023-04-22 |
 | [City Heatwave](https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:05 | 2022-04-15 | 2022-05-11 |
@@ -182,14 +184,15 @@
 | [Karmmma](https://open.spotify.com/track/5eUmA5Pmy5qsffDwYVXz7L) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Karmmma](https://open.spotify.com/album/6bh6vzHwqWe4CeisoqyLc9) | 2:20 | 2024-05-11 |  |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2022-04-15 | 2022-05-11 |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
+| [Key Of Life](https://open.spotify.com/track/0SlUaz4oU2MvsQIHe3UaOk) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b), [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Key Of Life](https://open.spotify.com/album/7JFoliQ2brv9wBPRqB1WkC) | 2:41 | 2025-05-02 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
 | [Kimchi](https://open.spotify.com/track/6H2dWaS9qPEbb5xF65YYIH) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Kimchi](https://open.spotify.com/album/1c7Yv5VvSkILCFwKYQn4nP) | 2:40 | 2025-02-21 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 | 2022-09-23 |
 | [leading up](https://open.spotify.com/track/17gWxv1Nfj7H3XjPPbvXus) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [leading up](https://open.spotify.com/album/2S8qduZPKk5gD1n8QqNdBv) | 2:28 | 2024-11-22 |  |
 | [Leftside](https://open.spotify.com/track/5vjlMzjjYZS9WyAPUjkDFj) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Leftside](https://open.spotify.com/album/3LvDHJRgfFbnKz7BylMp6D) | 2:41 | 2025-02-21 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2023-06-20 |
-| [Less Is More](https://open.spotify.com/track/4D4D6Jxim8f68o5Z9BhkXi) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Less Is More](https://open.spotify.com/album/4JBuQYUfBGp0PeTMDEJKy6) | 3:04 | 2023-07-06 |  |
-| [Lonely](https://open.spotify.com/track/2ipDDqlaPr70NlKyLHNkPc) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Lonely](https://open.spotify.com/album/4hQEfdanPMa5GJJIuoYLRB) | 1:56 | 2025-04-11 |  |
+| [Less Is More](https://open.spotify.com/track/4D4D6Jxim8f68o5Z9BhkXi) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Less Is More](https://open.spotify.com/album/4JBuQYUfBGp0PeTMDEJKy6) | 3:04 | 2023-07-06 | 2025-05-03 |
+| [Lonely](https://open.spotify.com/track/2ipDDqlaPr70NlKyLHNkPc) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Lonely](https://open.spotify.com/album/4hQEfdanPMa5GJJIuoYLRB) | 1:56 | 2025-04-11 | 2025-05-03 |
 | [Lonely Sky](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Lonely Sky](https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE) | 3:47 | 2024-12-20 |  |
 | [Look At The Stars](https://open.spotify.com/track/1cHC9pl8CiaW91dWRhNLeO) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Look At The Stars](https://open.spotify.com/album/5BfmlbstYNCmVdcD2m1kDs) | 2:21 | 2024-03-26 | 2025-02-08 |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 |  |
@@ -210,10 +213,12 @@
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-06-20 |
 | [Mountain High](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Mountain High](https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE) | 2:39 | 2024-02-26 |  |
 | [move over](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [move over](https://open.spotify.com/album/5n1V7Kc7BUM5WCFd7fTMdX) | 2:06 | 2024-03-26 |  |
+| [My Chances](https://open.spotify.com/track/5XIaAOU2zFVE61XEiue7Qy) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [My Chances](https://open.spotify.com/album/59PZlSRWeeTdtYlqK84Y5k) | 2:55 | 2025-05-02 |  |
 | [My Inspiration](https://open.spotify.com/track/1rXcob1pAp7klNvu5FIOtF) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [My Inspiration](https://open.spotify.com/album/2KXTFuZvBp6RVsMXYYmXqR) | 2:47 | 2024-11-07 |  |
 | [Nature Plucks](https://open.spotify.com/track/75rVcvOseaI1SMZZgcwqSM) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Nature Plucks](https://open.spotify.com/album/4ZaClNu61vJTzuRG7orxBJ) | 2:52 | 2024-07-14 |  |
 | [New Horizon](https://open.spotify.com/track/5FAKB08xt0bFpcPmqlZ3iP) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [New Horizon](https://open.spotify.com/album/76kOvwW3oYtzslnhGBkmqs) | 2:41 | 2024-06-11 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 | 2024-11-23 |
+| [New Number](https://open.spotify.com/track/2AA387qF18kyjAqIDEidvz) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [New Number](https://open.spotify.com/album/0NTfcon7qKdfszzbRrcskY) | 2:58 | 2025-05-02 |  |
 | [next door](https://open.spotify.com/track/7kRMhOoF5IyH36zsaMAUo2) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [next door](https://open.spotify.com/album/2Yu5BqMu73wOYtd5avbg3c) | 2:31 | 2024-12-20 |  |
 | [Next to Nothing](https://open.spotify.com/track/2EQHe3O0BqIwYJUweqzOD2) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [Next to Nothing](https://open.spotify.com/album/0ZQe7tYhDThzwEOTMuscW1) | 2:13 | 2025-02-07 |  |
 | [nightlife](https://open.spotify.com/track/7atU7r3R9tYis2RZEHgXpx) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [nightlife](https://open.spotify.com/album/6Ydjw4eDdTCFMHiK41q8tm) | 3:39 | 2022-11-25 | 2024-11-08 |
@@ -324,7 +329,7 @@
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-05-11 |
 | [take off](https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [take off](https://open.spotify.com/album/3RtTbtee2kTycEr5JqLJvS) | 2:31 | 2022-10-28 |  |
 | [Talltrees](https://open.spotify.com/track/0WMPYFJiudIN4NlvuZatit) | [Lynn Valley Forest Club](https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V) | [Talltrees](https://open.spotify.com/album/5P9bjbcOhF98K018bFf2Yi) | 2:35 | 2025-03-21 |  |
-| [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 |  |
+| [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 | 2025-05-03 |
 | [Teenage](https://open.spotify.com/track/78bAFyYsTHT4idrO3lZESA) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Teenage](https://open.spotify.com/album/36awS9gqn1o5Z3qxpK7ADc) | 2:49 | 2022-11-25 |  |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2022-04-15 | 2023-04-22 |
 | [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 | 2023-12-01 | 2024-02-27 |

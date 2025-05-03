@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-381 songs - 19 hr 57 min
+382 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Ropes](https://open.spotify.com/track/1t2qKa8K72IBC8yQlhD9bU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Ropes](https://open.spotify.com/album/0cgpcZCPvGGXOCpXVqPrvJ) | 3:08 | 2022-02-03 | 2023-08-11 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-02-03 | 2022-09-15 |
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF) | 3:32 | 2022-02-03 | 2023-08-11 |
+| [Royalty Funk](https://open.spotify.com/track/50y5VdjFgPlB9lFmxIubpL) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty Funk](https://open.spotify.com/album/2g60Hy7fXxHvuHaiiq78Bj) | 2:57 | 2025-05-02 |  |
 | [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 | 2023-11-08 |  |
 | [Run For Your Life](https://open.spotify.com/track/0ivFJ8VFDfgas9orKVxLRO) | [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [Run For Your Life](https://open.spotify.com/album/1TZAMPqQxx3coHnCY9rQhb) | 2:50 | 2022-02-03 | 2022-09-15 |
 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 | 2022-10-27 | 2023-08-11 |

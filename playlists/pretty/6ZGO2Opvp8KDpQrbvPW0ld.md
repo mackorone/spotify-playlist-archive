@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,864 likes - 350 songs - 12 hr 12 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,860 likes - 350 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 37 | [Melodrama](https://open.spotify.com/track/1aXeTmgyUBxRqHmWZtA4rR) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304) | [Melodrama](https://open.spotify.com/album/4rG1MKMykCnxo9I70g3BQK) | 2:12 |
 | 38 | [Cherry Passion](https://open.spotify.com/track/0wDa2LHo5L2x1uM0Y6gN5k) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Silvaa.beats](https://open.spotify.com/artist/3TpGusolSBzkwFqtj9Kwre) | [Cherry Passion](https://open.spotify.com/album/1IBOJeolAhbyzZHqO3di7G) | 1:40 |
 | 39 | [Taste](https://open.spotify.com/track/4QQrP8InxTXY0JRQpO0qo6) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Taste](https://open.spotify.com/album/6f03wRuGszAbMBN4KRiOcI) | 1:51 |
-| 40 | [Headspin](https://open.spotify.com/track/3Vvpa44qccS85DiiOVG9CB) | [recorduroy](https://open.spotify.com/artist/4hPNUiprKDL9UujgXkwiNT) | [Head Spin](https://open.spotify.com/album/49LXp4ocXJg7IDXpZLvAfT) | 1:45 |
+| 40 | [Head Spin](https://open.spotify.com/track/3Vvpa44qccS85DiiOVG9CB) | [recorduroy](https://open.spotify.com/artist/4hPNUiprKDL9UujgXkwiNT) | [Head Spin](https://open.spotify.com/album/49LXp4ocXJg7IDXpZLvAfT) | 1:45 |
 | 41 | [Melodiya](https://open.spotify.com/track/4KCzczpn6V8ywi1XA1cjNV) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Melodiya](https://open.spotify.com/album/57Evv3y4B525zidJBjFrit) | 2:40 |
 | 42 | [Day And Night](https://open.spotify.com/track/6Zfw03Iqdys3rxGcUGb3Fq) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Day And Night](https://open.spotify.com/album/2Fp4UWWIHX9XBqhAOMqFrd) | 2:00 |
 | 43 | [Another Time](https://open.spotify.com/track/6r3YOqtiY4Qopu5mNmiT46) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Another Time](https://open.spotify.com/album/5XnsFPxUDARUzucNYsOdv0) | 1:45 |

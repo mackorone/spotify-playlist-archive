@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Can't Say No",
+        "url": "https://open.spotify.com/album/0Ow1ORYMZy58bqZppQ4lz9"
+      },
+      "artists": [
+        {
+          "name": "Lavish Life",
+          "url": "https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143006,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/5ExV88XemAoke7Yf2y9814"
+    },
+    {
+      "album": {
         "name": "Can't Stop Us Now",
         "url": "https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf"
       },

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Ed Sheeran, LOVA, Yung Lean och Linnea Henriksson med flera\. Happy New Music Friday!
 
-18,862 songs - 40 day 17 hr 30 min
+18,864 songs - 40 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15046,6 +15046,7 @@
 | [Spelet](https://open.spotify.com/track/7HxDD3FRuif5caSLhdPsss) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [VÅGA \(Extended\)](https://open.spotify.com/album/7lYrFVT8gn54SkP4AhIXos) | 2:03 | 2024-11-28 | 2024-12-06 |
 | [spells](https://open.spotify.com/track/5bpwOzqzzqAJF8SOOocI4V) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [spells](https://open.spotify.com/album/3Po5yeGa2UTPVc7qR4E31A) | 3:11 | 2024-06-13 | 2024-06-21 |
 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 | 2022-11-18 | 2022-11-25 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 | 2022-11-03 | 2022-11-05 |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S) | 3:22 | 2022-11-04 | 2022-11-11 |
 | [Spend That Money Honey](https://open.spotify.com/track/22m6SshBBKQPqD45JzoXb7) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Spend That Money Honey](https://open.spotify.com/album/6LwzT63x5AW4HhQDfUFFKg) | 4:20 | 2023-12-08 | 2023-12-15 |
@@ -18155,6 +18156,7 @@
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2023-04-20 | 2023-04-28 |
 | [Where Ever You Go](https://open.spotify.com/track/4eW7yj2U6Frn68W0PW7Pgk) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Where Ever You Go](https://open.spotify.com/album/0jAFSVs3rKwECSwDlaHS8Y) | 2:54 | 2023-12-28 | 2024-01-05 |
 | [Where Flowers Grow](https://open.spotify.com/track/1xgCXywHjvQ6LIq8awx4Th) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG), [Lew](https://open.spotify.com/artist/49PruHEHNzAd3kxuf7fHxb) | [Where Flowers Grow](https://open.spotify.com/album/6npz8UaNjIwG9PkCHrjA2E) | 3:15 | 2024-07-18 | 2024-07-27 |
+| [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-01 |  |
 | [Where Have You Been](https://open.spotify.com/track/11SLazOh7KW79VTDSZW52E) | [Nike Sellmar](https://open.spotify.com/artist/61drgErIKJq61Lbqdd62GP) | [Where Have You Been](https://open.spotify.com/album/3fMkRv31PcBCTyaKwwybfi) | 2:55 | 2025-01-23 | 2025-01-31 |
 | [where I become someone](https://open.spotify.com/track/0ksR5KPinz2gURmTsZpWwU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [where I become someone](https://open.spotify.com/album/6G6nqU2YyUXQKzRNpPJ4mg) | 3:08 | 2021-12-17 | 2021-12-24 |
 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 | 2022-09-01 | 2022-09-09 |

@@ -2727,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/2R6bC0uQkXATAcP9L2o8a6"
+      },
+      "artists": [
+        {
+          "name": "Chris Rusak",
+          "url": "https://open.spotify.com/artist/7pLo6CiE9wZsJTKW8rNIZC"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0bYqs6RGJxU7WEtEYlT5oo"
+    },
+    {
+      "album": {
         "name": "Estebania",
         "url": "https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K"
       },

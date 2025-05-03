@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Sake by the Water
 
-1,407 songs - 3 day 7 hr 28 min
+1,409 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Lagrange](https://open.spotify.com/track/0KUq7N42GfT5WgdmpbOYo1) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Lagrange](https://open.spotify.com/album/6QPj2Ayf6MUwfdtWiyIAkk) | 5:40 | 2024-08-15 | 2024-12-13 |
 | [last dance](https://open.spotify.com/track/0HOtP1tJndPeyNsBUbrlEL) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo), [M37](https://open.spotify.com/artist/6Qi821w1k82weYA1cP04Ro), [dom falso](https://open.spotify.com/artist/09fDsoiQUWyMYJuy8WECJm) | [last dance](https://open.spotify.com/album/1qkD8fLY5YUqd6hv1UEUe8) | 4:02 | 2025-03-13 |  |
 | [Last Dance](https://open.spotify.com/track/36pgnsYrvUUHeT17OXvuhK) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Last Dance](https://open.spotify.com/album/0sIGEXqcZns2OcywMnWeTj) | 2:21 | 2024-05-23 | 2024-11-15 |
+| [Last Day \(feat\. J Jelly\)](https://open.spotify.com/track/6lQLnEkJBFl9hazkoUyTN3) | [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [Last Day \(feat\. J Jelly\)](https://open.spotify.com/album/4aXaXWh27nEM55kq8Q2bRG) | 2:55 | 2025-05-01 |  |
 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 | 2023-07-06 | 2023-09-15 |
 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 | 2023-06-01 | 2023-11-03 |
 | [Last Time](https://open.spotify.com/track/5vunKOrutjeSDDg73dRFSB) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Last Time](https://open.spotify.com/album/4vkW7m6NzG6ybuesQUwpKi) | 1:50 | 2023-08-31 | 2023-12-01 |
@@ -630,6 +631,7 @@
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-03 | 2025-02-14 |
 | [Paranoid](https://open.spotify.com/track/5p386vqrXRc5nwLFj17lZW) | [Squarehead](https://open.spotify.com/artist/2WK00atpKQCYHAEReN2nD2), [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy) | [Paranoid](https://open.spotify.com/album/2ex4x3YbrlsJbiv7QoMG76) | 3:14 | 2022-11-03 | 2023-02-03 |
 | [passer\-by](https://open.spotify.com/track/50oewNmbKYbV4vvPmYghEK) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [passer\-by](https://open.spotify.com/album/4bOUhtPOQhcg27k8brc6gi) | 2:03 | 2023-07-27 | 2023-11-03 |
+| [Pastella Baby](https://open.spotify.com/track/1SANaC4C33q3hGnsbVyjsS) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Pastella Baby](https://open.spotify.com/album/3VbO6i3pZRFJbh65KK6RtH) | 2:38 | 2025-05-01 |  |
 | [Pastries](https://open.spotify.com/track/3aZxmDaau281Xp5KKcPYy0) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Pastries](https://open.spotify.com/album/19dAFsG3fN6iitlCpxoFA5) | 3:11 | 2022-07-21 | 2022-11-04 |
 | [Patience](https://open.spotify.com/track/3kokLvyymKGbXA6SCnvdfa) | [HANK](https://open.spotify.com/artist/4uzeRBv7FlasqkSwj8nsxy) | [Patience](https://open.spotify.com/album/1RO1x4kHAz7qWRw74ZOpfH) | 3:45 | 2025-01-16 | 2025-03-14 |
 | [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 | 2023-11-23 | 2024-02-16 |

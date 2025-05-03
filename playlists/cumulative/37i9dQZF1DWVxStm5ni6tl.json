@@ -34133,6 +34133,24 @@
     },
     {
       "album": {
+        "name": "Stand in the sun with me",
+        "url": "https://open.spotify.com/album/70QAOdYgweMKpkTM1drfvo"
+      },
+      "artists": [
+        {
+          "name": "Alexiane",
+          "url": "https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199272,
+      "name": "Stand in the sun with me",
+      "url": "https://open.spotify.com/track/2OYr0kfoge5BWxTzqUspab"
+    },
+    {
+      "album": {
         "name": "Stand On Business",
         "url": "https://open.spotify.com/album/4rBTeK4PL1nFcrwA5RQBuC"
       },
@@ -34666,7 +34684,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 205718,
       "name": "STILLCHOOSEU",
       "url": "https://open.spotify.com/track/5PKfuLyqB4bOkSQZRnumrp"

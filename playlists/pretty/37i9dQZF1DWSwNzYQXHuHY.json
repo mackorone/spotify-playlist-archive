@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11033,
+  "num_followers": 11039,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-04-29 07:48:50",
       "album": {
-        "name": "Motel California OST Part.9",
-        "url": "https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c"
-      },
-      "artists": [
-        {
-          "name": "Cloud koh",
-          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Seems Like I Like You",
-      "url": "https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC"
-    },
-    {
-      "added_at": "2025-04-29 07:48:50",
-      "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
@@ -847,18 +831,34 @@
     {
       "added_at": "2025-04-29 07:48:50",
       "album": {
-        "name": "Winter Dance",
-        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+        "name": "Motel California OST Part.9",
+        "url": "https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c"
       },
       "artists": [
         {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
         }
       ],
-      "duration_ms": 165504,
-      "name": "Winter Dance",
-      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+      "duration_ms": 176000,
+      "name": "Seems Like I Like You",
+      "url": "https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC"
+    },
+    {
+      "added_at": "2025-04-29 07:48:50",
+      "album": {
+        "name": "First Album",
+        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
+      },
+      "artists": [
+        {
+          "name": "One More Chance",
+          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
+        }
+      ],
+      "duration_ms": 248293,
+      "name": "\ub110 \uc0dd\uac01\ud574",
+      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
     }
   ],
   "unique_name": "\uc378 !",

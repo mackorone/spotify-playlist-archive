@@ -1,13 +1,33 @@
 {
   "description": "So you think you got pocket? Cover: Nate Smith",
-  "num_followers": 30559,
+  "num_followers": 30569,
   "original_name": "Pocket",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAAATUCVcSGkNXBG16G3qc6A5",
+  "snapshot_id": "aBRDVQAAAACpEAgydnt+8LjYDB+kntoR",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:21",
+      "album": {
+        "name": "There's Still a Riot Goin' On",
+        "url": "https://open.spotify.com/album/0Nme5FPBQHxJQQq1wnEps7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Ella Feingold",
+          "url": "https://open.spotify.com/artist/64WR0nd4TZPPmIKH3cxS4b"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "There's Still a Riot Goin' On",
+      "url": "https://open.spotify.com/track/6EVyZOJERMGuJOeBpvLEnl"
+    },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {

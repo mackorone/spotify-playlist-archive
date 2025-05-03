@@ -945,6 +945,42 @@
     },
     {
       "album": {
+        "name": "Catching Up With My Breath",
+        "url": "https://open.spotify.com/album/5GEduN1QsT99aCG3L66fFs"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156485,
+      "name": "Catching Up With My Breath",
+      "url": "https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g"
+    },
+    {
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/5vZslmR5nRPc4d7xCptO9M"
+      },
+      "artists": [
+        {
+          "name": "Mos Becka",
+          "url": "https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153982,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/5AeCyaQbjvnCKenrCYoZiy"
+    },
+    {
+      "album": {
         "name": "Chateau",
         "url": "https://open.spotify.com/album/42FntNE1ODzKgrOtpMgteH"
       },
@@ -3145,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Key Of Life",
+        "url": "https://open.spotify.com/album/7JFoliQ2brv9wBPRqB1WkC"
+      },
+      "artists": [
+        {
+          "name": "Superbandy",
+          "url": "https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b"
+        },
+        {
+          "name": "Elvira Sand",
+          "url": "https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Key Of Life",
+      "url": "https://open.spotify.com/track/0SlUaz4oU2MvsQIHe3UaOk"
+    },
+    {
+      "album": {
         "name": "KIKAROO",
         "url": "https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv"
       },
@@ -3264,7 +3322,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 184000,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/4D4D6Jxim8f68o5Z9BhkXi"
@@ -3282,7 +3340,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 116000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2ipDDqlaPr70NlKyLHNkPc"
@@ -3649,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "My Chances",
+        "url": "https://open.spotify.com/album/59PZlSRWeeTdtYlqK84Y5k"
+      },
+      "artists": [
+        {
+          "name": "Poreniacs",
+          "url": "https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175010,
+      "name": "My Chances",
+      "url": "https://open.spotify.com/track/5XIaAOU2zFVE61XEiue7Qy"
+    },
+    {
+      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/2KXTFuZvBp6RVsMXYYmXqR"
       },
@@ -3718,6 +3794,24 @@
       "duration_ms": 227171,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
+    },
+    {
+      "album": {
+        "name": "New Number",
+        "url": "https://open.spotify.com/album/0NTfcon7qKdfszzbRrcskY"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "New Number",
+      "url": "https://open.spotify.com/track/2AA387qF18kyjAqIDEidvz"
     },
     {
       "album": {
@@ -5712,7 +5806,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 160000,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2"

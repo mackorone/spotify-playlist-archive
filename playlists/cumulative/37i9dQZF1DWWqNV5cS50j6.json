@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 205386,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 205365,
       "name": "Cash Now",
       "url": "https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW"
@@ -16521,6 +16521,24 @@
     },
     {
       "album": {
+        "name": "keep it up",
+        "url": "https://open.spotify.com/album/6q85e8IqXxFi0WGMJGuPkP"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114986,
+      "name": "keep it up",
+      "url": "https://open.spotify.com/track/0QihOt3PvTC50rZKTc7CU0"
+    },
+    {
+      "album": {
         "name": "keep my cool",
         "url": "https://open.spotify.com/album/0RMaV7cv3a2A2vRn0nS23e"
       },
@@ -16916,6 +16934,28 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "album": {
+        "name": "LANDMiNE",
+        "url": "https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr"
+      },
+      "artists": [
+        {
+          "name": "Skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        },
+        {
+          "name": "Lillith",
+          "url": "https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "LANDMiNE",
+      "url": "https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz"
     },
     {
       "album": {

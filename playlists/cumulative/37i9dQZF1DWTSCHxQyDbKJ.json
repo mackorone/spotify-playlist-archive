@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "DONT MAKE THIS WEIRD",
+        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
+      },
+      "artists": [
+        {
+          "name": "DONT MAKE THIS WEIRD",
+          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170905,
+      "name": "DONT MAKE THIS WEIRD",
+      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
+    },
+    {
+      "album": {
         "name": "Cathexis",
         "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
       },
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 191883,
       "name": "You Know What You\u2019ve Done",
       "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"

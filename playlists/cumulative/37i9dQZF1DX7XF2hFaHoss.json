@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
+  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
   "name": "Women of Acoustic",
   "tracks": [
     {
@@ -114,6 +114,36 @@
       "duration_ms": 199346,
       "name": "American Crow",
       "url": "https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg"
+    },
+    {
+      "album": {
+        "name": "Ancient Light",
+        "url": "https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214762,
+      "name": "Ancient Light",
+      "url": "https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI"
     },
     {
       "album": {
@@ -1168,7 +1198,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 236350,
       "name": "Graceland Too",
       "url": "https://open.spotify.com/track/1WCjhRs2WBgyeGaybCX2Po"
@@ -3150,7 +3180,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 231841,
       "name": "Unsteady Ground",
       "url": "https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll"
@@ -3410,7 +3440,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"

@@ -7863,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "Wildcat",
+        "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Rundell",
+          "url": "https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002"
+    },
+    {
+      "album": {
         "name": "Wait A Minute (Dixon Extension)",
         "url": "https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT"
       },
@@ -8046,6 +8064,24 @@
       "duration_ms": 332875,
       "name": "Wild Light",
       "url": "https://open.spotify.com/track/4rgwB6JiF7t0BzpgN4K0r6"
+    },
+    {
+      "album": {
+        "name": "Wildcat",
+        "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Rundell",
+          "url": "https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316444,
+      "name": "Wildcat",
+      "url": "https://open.spotify.com/track/4IiuM8WGdKkSJgedY28RkU"
     },
     {
       "album": {

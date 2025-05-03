@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
@@ -4443,6 +4443,28 @@
     },
     {
       "album": {
+        "name": "Parate de Manos Que Lleg\u00f3 Repiola",
+        "url": "https://open.spotify.com/album/1XvHnrXzcsG95Jsu5ogzSq"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "El Color Que Faltaba",
+          "url": "https://open.spotify.com/artist/1KAZwv1yGQvJCks7TXx6rP"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119048,
+      "name": "Parate de Manos Que Lleg\u00f3 Repiola",
+      "url": "https://open.spotify.com/track/16zIbSjEb9XhKbdBA5SBmA"
+    },
+    {
+      "album": {
         "name": "PATRULLERO",
         "url": "https://open.spotify.com/album/2wmZJ6aDsn8MgQBZ2Z3Y7P"
       },
@@ -4902,6 +4924,24 @@
       "duration_ms": 256463,
       "name": "Quiero una chica",
       "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/7BBCsUsMd1tBvsMWYUz9mV"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179983,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/2L1JSMRsJYGOIVKjSVvYcT"
     },
     {
       "album": {
@@ -6290,7 +6330,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 199484,
       "name": "Una Wacha Piola - REMIX",
       "url": "https://open.spotify.com/track/76GhnOdyvGQdD00x1qKasL"

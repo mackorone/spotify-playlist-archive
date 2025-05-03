@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Margarita (En Vivo 2025)",
+        "url": "https://open.spotify.com/album/1zDatkx50JM8lhHGPcHoFU"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154737,
+      "name": "Mucho, poquito o nada - En Vivo 2025",
+      "url": "https://open.spotify.com/track/2dMmrbfPnbsno3U0Hm4ck7"
+    },
+    {
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 261333,
       "name": "Ya No Vives en M\u00ed (Primera Fila) (feat. Carlos Rivera) - En Vivo",
       "url": "https://open.spotify.com/track/0Ac7gnJokivhO4ZKNVib7r"

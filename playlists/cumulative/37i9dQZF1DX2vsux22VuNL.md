@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Bin
 
-475 songs - 1 day 0 hr 40 min
+476 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 | 2023-11-10 |  |
 | [Cartão Postal](https://open.spotify.com/track/0PURZY6U06lMfqvwnvLWPs) | [Mica Condé](https://open.spotify.com/artist/6dRezA4DOxb22H20hFchpd), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz) | [Cartão Postal](https://open.spotify.com/album/04sMh1eak6G2ucU2tuP7qC) | 2:43 | 2022-05-23 | 2022-06-04 |
 | [Casal 171](https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO) | [ike](https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Casal 171](https://open.spotify.com/album/7hC9jL7eYPa1OwjCDu2SGH) | 3:21 | 2022-05-23 | 2022-12-10 |
+| [Casal de Uma Noite Só](https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw) | [Casal de Uma Noite Só](https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL) | 2:29 | 2025-05-02 |  |
 | [Casal Maior](https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6) | [Casal Maior](https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz) | 2:33 | 2022-06-14 | 2022-09-21 |
 | [Castigo](https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0) | 2:19 | 2022-12-02 | 2023-01-28 |
 | [Caótico](https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0) | [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Caótico](https://open.spotify.com/album/34JUsBa5YJgfglrO4Sum50) | 1:55 | 2022-11-16 | 2023-02-01 |
@@ -262,7 +263,7 @@
 | [MINHA CURA \- REMIX](https://open.spotify.com/track/3LxUi6dRPOza6BFcM6xXdW) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:34 | 2023-05-05 | 2023-09-09 |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-03-31 | 2023-11-18 |
 | [Modo Avião](https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:59 | 2023-03-10 | 2023-10-14 |
-| [Modo Avião](https://open.spotify.com/track/4vNG9tDYPHdTdkglVwtGc5) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Modo Avião](https://open.spotify.com/album/3fOkKmTjhXTY15t5iZVT3I) | 2:31 | 2025-02-14 |  |
+| [Modo Avião](https://open.spotify.com/track/4vNG9tDYPHdTdkglVwtGc5) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Modo Avião](https://open.spotify.com/album/3fOkKmTjhXTY15t5iZVT3I) | 2:31 | 2025-02-14 | 2025-05-03 |
 | [Movimento](https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Movimento](https://open.spotify.com/album/6NKzLG2NXWDb8wUShu2xyB) | 3:18 | 2023-03-31 | 2023-06-24 |
 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 | 2022-10-14 | 2022-11-26 |
 | [Mulher de fé](https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Mulher de fé](https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi) | 2:34 | 2023-04-28 | 2023-06-10 |

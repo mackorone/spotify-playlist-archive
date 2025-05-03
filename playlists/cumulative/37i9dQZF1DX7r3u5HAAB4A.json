@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:1OFOShsIbhy1l5x73yuVyB\">Shenseea</a> ",
+  "description": "A melting pot of Caribbean culture.  Cover: <a href=\"spotify:artist:1gWjcmBsveEYMxOZ0VRi32\">Original Koffee</a> ",
   "name": "Fever",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 203552,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/2Oe2XliopFw2tQ6gsDmdX2"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 262222,
       "name": "Diamond Gal",
       "url": "https://open.spotify.com/track/0cuwOvvWEVOlXcWkEfDRp0"
@@ -1712,6 +1712,24 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "album": {
+        "name": "KOFFEE",
+        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147330,
+      "name": "KOFFEE",
+      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
     },
     {
       "album": {
@@ -2918,6 +2936,24 @@
       "duration_ms": 230930,
       "name": "Sweat (Part II)",
       "url": "https://open.spotify.com/track/0GjbPnBfzwJo72FoheuAs9"
+    },
+    {
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/4Lu3YAr1ESVXk64bKE2Hom"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/7AOKR43gFlnEphVivfm4Hj"
     },
     {
       "album": {

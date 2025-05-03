@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: DJ Tchouzen, MC Rodrigo do CN
+> Os funks mais 🔑 do Brasil / Foto: Nego Trufa, Dj TC, DJ Japa NK
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,528,233 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528,764 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cada Vez Mais Gostosa](https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Cada Vez Mais Gostosa](https://open.spotify.com/album/4QruqlNqDMXyQYOp5oLUq1) | 2:13 |
-| 2 | [Rabetão De Terremoto](https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Rabetão De Terremoto](https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn) | 1:47 |
-| 3 | [Baile do Panta](https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq) | [Nego Trufa](https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy), [Dj TC](https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Baile do Panta](https://open.spotify.com/album/6sPc0S84IlwDrHbPmPV424) | 2:09 |
+| 1 | [Baile do Panta](https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq) | [Nego Trufa](https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy), [Dj TC](https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Baile do Panta](https://open.spotify.com/album/6sPc0S84IlwDrHbPmPV424) | 2:09 |
+| 2 | [Cada Vez Mais Gostosa](https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Cada Vez Mais Gostosa](https://open.spotify.com/album/4QruqlNqDMXyQYOp5oLUq1) | 2:13 |
+| 3 | [Rabetão De Terremoto](https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Rabetão De Terremoto](https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn) | 1:47 |
 | 4 | [Meu Carro nao tem Porta Luva \- Remastered 2024](https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc) | [DJ NATAN 22](https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Meu Carro nao tem Porta Luva \(Remastered 2024\)](https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b) | 2:39 |
 | 5 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
 | 6 | [Descer](https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ) | [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Descer](https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 | 50 | [A Culpa Não É Minha](https://open.spotify.com/track/6RqEGo7zvc8g31ZyG1Mm6Q) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [A Culpa Não É Minha](https://open.spotify.com/album/5ILsdU09Tv2lw6X7LFLxg2) | 2:17 |
 
-Snapshot ID: `aBI+LQAAAACjxiyuHBPSbSVkChFbx9qf`
+Snapshot ID: `aBQ1WQAAAAD0eaLwfSk1joHKkyDRci6Y`

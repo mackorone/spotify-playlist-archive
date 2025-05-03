@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: MØ
 
-1,126 songs - 3 day 2 hr 53 min
+1,127 songs - 3 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Going Through the Motions](https://open.spotify.com/track/5YJdW5AhHeLHfVvggZdb1m) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Going Through the Motions](https://open.spotify.com/album/5aPwpEo5aUFIJHOPcXbkur) | 4:36 | 2024-08-08 | 2024-11-22 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-12-15 | 2023-03-10 |
 | [Goldener Reiter](https://open.spotify.com/track/7sgbBeINoJ4TDUDIloK9li) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV) | [Silberblick](https://open.spotify.com/album/6SpATqe8QjOqOvIA4KPOvd) | 4:39 | 2024-12-26 | 2025-01-02 |
-| [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-19 |  |
+| [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-19 | 2025-05-03 |
 | [Good Kisses](https://open.spotify.com/track/7bjwvWMuGobr3qre7d0Lpc) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Good Kisses](https://open.spotify.com/album/30P5LzvjUMniT9wJcIAM0H) | 3:22 | 2024-11-13 | 2025-01-31 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-03-30 | 2023-04-28 |
 | [GOOD TIMES \- MJ Cole Remix](https://open.spotify.com/track/11VeLYoWaYKAyrmtuBOSyG) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [GOOD TIMES \(MJ Cole Remix\)](https://open.spotify.com/album/4m8KmpwCsY6txydDsN4Pi0) | 3:49 | 2022-12-15 | 2023-03-10 |
@@ -1129,6 +1129,7 @@
 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/2iiaOYbyYd4gW6gGHdWaY9) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl Forever](https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF) | 3:09 | 2024-12-26 | 2025-01-02 |
 | [Your Good Times Will Come](https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Will Come](https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR) | 4:50 | 2022-12-30 | 2023-01-02 |
 | [Your House](https://open.spotify.com/track/5ljsY1nlzoYNDzleN2SMso) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Your House](https://open.spotify.com/album/4zplUtDo7bxG2GgQYG3Heg) | 3:54 | 2023-08-17 | 2023-09-08 |
+| [your love](https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [your love](https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs) | 3:27 | 2025-05-02 |  |
 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 | 2022-12-15 | 2023-02-10 |
 | [your touch](https://open.spotify.com/track/7cPZshG4jWR6pTvhZVL6JG) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6) | [your touch](https://open.spotify.com/album/2Kzha1mmYtrsmCUcFqbFA4) | 1:41 | 2024-11-21 |  |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-03-06 |  |

@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Celene by Candlelight",
+        "url": "https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs"
+      },
+      "artists": [
+        {
+          "name": "\u00d3skar \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Celene by Candlelight",
+      "url": "https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp"
+    },
+    {
+      "album": {
         "name": "Chambers",
         "url": "https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 156611,
+  "num_followers": 156645,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI6AAAAADkl6kkjaCoIRXyNWGWF4uz",
+  "snapshot_id": "aBRDUQAAAAC4szfe5eTT84UtMNaP+u25",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:17",
+      "album": {
+        "name": "Think of Me Softly",
+        "url": "https://open.spotify.com/album/2J7DlkkwNSEmjTG4PgbKbs"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 148042,
+      "name": "Think of Me Softly",
+      "url": "https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV"
+    },
     {
       "added_at": "2025-04-25 04:00:40",
       "album": {
@@ -447,26 +463,6 @@
       "duration_ms": 271177,
       "name": "Love Is a Place",
       "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
-        "name": "Meet Me in Paris",
-        "url": "https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        },
-        {
-          "name": "Scott Mulvahill",
-          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
-        }
-      ],
-      "duration_ms": 224802,
-      "name": "Meet Me in Paris",
-      "url": "https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK"
     },
     {
       "added_at": "2024-10-25 04:00:00",

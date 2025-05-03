@@ -2,35 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 ### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> The nostalgia is real – Boyce Avenue is back in Singapore! Cover: Boyce Avenue
+> Get ready to relive the magic! Cover: M2M
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,104 likes - 24 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,091 likes - 18 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hear Me Now](https://open.spotify.com/track/4fZ0mkzk0ktr4WVfjqyUv2) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [All We Have Left](https://open.spotify.com/album/58MXzvPciaISJgkK9aPXml) | 4:04 |
-| 2 | [A Sky Full of Stars](https://open.spotify.com/track/4o6Cvh18rzRfuoRH80va5n) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 4:00 |
-| 3 | [Every Breath You Take](https://open.spotify.com/track/5wTa2fOqqANegU8vnNDf4j) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 3:45 |
-| 4 | [Cinderella](https://open.spotify.com/track/2sBGzQ9K7VkbuLSflnmm6g) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Road Less Traveled](https://open.spotify.com/album/0K3fhjZFrCYyVmRVNRMipH) | 3:22 |
-| 5 | [Torn](https://open.spotify.com/track/2PN4neVrSo8n6ktRU7MC99) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 3:56 |
-| 6 | [Save Tonight](https://open.spotify.com/track/1zPgbEPmJV1AxqOUWLeofE) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 3:14 |
-| 7 | [Mr\. Brightside](https://open.spotify.com/track/0IaRsFSGeP1k24h4j3VVSS) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Mr\. Brightside](https://open.spotify.com/album/3cC6i96vCXac9swkd0C0o0) | 3:34 |
-| 8 | [I'll Be The One](https://open.spotify.com/track/56FbE5LWyDwlMrllQl48MP) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [No Limits](https://open.spotify.com/album/22nQUXuJAYDf4xRhZmvTmZ) | 3:41 |
-| 9 | [A Thousand Years / Say You Won’t Let Go \(Live 2017\)](https://open.spotify.com/track/4Dl855fAN0nKsqlpsuh8pG) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Live At The Royal Albert Hall](https://open.spotify.com/album/67PRELisKPPiMEurHc671X) | 3:32 |
-| 10 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 |
-| 11 | [Be Somebody](https://open.spotify.com/track/3yLkEa4AxU5Q0gA0Ha5IV3) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Road Less Traveled](https://open.spotify.com/album/0K3fhjZFrCYyVmRVNRMipH) | 3:23 |
-| 12 | [Bitter Sweet Symphony](https://open.spotify.com/track/5rcp3sJSzl9Lin56P7jaiQ) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 4:00 |
-| 13 | [Fast Car](https://open.spotify.com/track/63wsZUhUZLlh1OsyrZq7sz) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 5:04 |
-| 14 | [Imperfect Me](https://open.spotify.com/track/63Q1Xlcqk1XmvuRfyBaCfv) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Road Less Traveled](https://open.spotify.com/album/0K3fhjZFrCYyVmRVNRMipH) | 3:03 |
-| 15 | [Wake Me Up](https://open.spotify.com/track/7Dij8mBegb8uhckk1TRJUz) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:23 |
-| 16 | [Stand by Me](https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Stand by Me](https://open.spotify.com/album/3Ss8pBPxrazhXYoSJcBYN7) | 3:19 |
-| 17 | [On My Way](https://open.spotify.com/track/3U9FMzSjrXFS0AnElgcw0j) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [All We Have Left](https://open.spotify.com/album/58MXzvPciaISJgkK9aPXml) | 3:51 |
-| 18 | [Perfect](https://open.spotify.com/track/4FytmtwjnW4GdycPb4TwF0) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:17 |
-| 19 | [Unchained Melody](https://open.spotify.com/track/4haa75GTHE3CGntDTBkGNe) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 3:36 |
-| 20 | [Sex on Fire](https://open.spotify.com/track/41EjtT4Enbh5ywY7R06usf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Sex on Fire](https://open.spotify.com/album/2ayONCF47bmqQWRASuCSVo) | 3:01 |
-| 21 | [Anchor](https://open.spotify.com/track/5sIWgLCTjgAgH4HoKsUyXF) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Road Less Traveled](https://open.spotify.com/album/0K3fhjZFrCYyVmRVNRMipH) | 3:43 |
-| 22 | [Wonderwall](https://open.spotify.com/track/7Bn3EVZQVPgOdqOhta0SvV) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 6](https://open.spotify.com/album/3K7JQz60YupZIlRg30uDvj) | 3:42 |
-| 23 | [Fix You](https://open.spotify.com/track/2OcZ7956nCJ1OJ6oyNDLtf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:54 |
-| 24 | [Iris](https://open.spotify.com/track/3w1F2W305dz4CAyYrHuhCT) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 4:10 |
+| 1 | [The Day You Went Away](https://open.spotify.com/track/1rYYJVlUV2EcgehVUnwJvy) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 3:42 |
+| 2 | [Everything You Do](https://open.spotify.com/track/0HHcmoD0ZuhOr7tTWcLJCQ) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:01 |
+| 3 | [The Minute](https://open.spotify.com/track/01nO6YQUhc5pM39hJ8KoIR) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Songs from a Blackbird](https://open.spotify.com/album/3YIg4jfeAOQTIcbw3WEwB8) | 4:02 |
+| 4 | [I Don't Want To Talk About It](https://open.spotify.com/track/0T36mus8brGbc655l8HQaS) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [I Don't Want To Talk About It](https://open.spotify.com/album/4V6R4nOCA2eXxymDuiJVko) | 3:20 |
+| 5 | [Love Left for Me](https://open.spotify.com/track/1Q7bYx5FzqNbWOS1q3AQbt) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [The Big Room](https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ) | 4:14 |
+| 6 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
+| 7 | [Here I Am](https://open.spotify.com/track/0rGGN2vmKGVVqr6rCnsuY2) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Set Me Free](https://open.spotify.com/album/4v3yqjymOjjVGE3udmiDio) | 3:52 |
+| 8 | [Don't](https://open.spotify.com/track/6ZoD1nG4a1ThYx8BsWl5rP) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [The Big Room](https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ) | 3:26 |
+| 9 | [Under The Surface](https://open.spotify.com/track/35VR1AGMIO5iQpv1CnGBF6) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Under The Surface](https://open.spotify.com/album/7pHSdajr1DZKpsGKTKgVvr) | 4:14 |
+| 10 | [If A Song Could Get Me You](https://open.spotify.com/track/7hUyHTbWugVMP9SyCm8gkO) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [The Chase](https://open.spotify.com/album/3yzDzLXFh12fqvp2Lx7Pg5) | 3:25 |
+| 11 | [What You Do About Me](https://open.spotify.com/track/2eGt0LgnOmA2Zxwe39vPDD) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [The Big Room](https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ) | 3:02 |
+| 12 | [Driving](https://open.spotify.com/track/2VMEdIZuBJkwQMYDElResT) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Songs from a Blackbird](https://open.spotify.com/album/3YIg4jfeAOQTIcbw3WEwB8) | 3:29 |
+| 13 | [Don't Save Me](https://open.spotify.com/track/2gKjzwVGWGjiEeilvJuDxv) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Under The Surface](https://open.spotify.com/album/7pHSdajr1DZKpsGKTKgVvr) | 3:48 |
+| 14 | [It's All Coming Back To Me Now](https://open.spotify.com/track/3bc2u7r6xTKh49klARzHiC) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz), [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 6:05 |
+| 15 | [Mirror Mirror](https://open.spotify.com/track/2gX1J5hbHs1V7gkHsNglTv) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 3:20 |
+| 16 | [Everything](https://open.spotify.com/track/0WEeJ8GgecjoslF4Ut5eV5) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [The Big Room](https://open.spotify.com/album/4XoYOTCboJwyEog4x8AglJ) | 4:11 |
+| 17 | [Don't Mess with My Love](https://open.spotify.com/track/6wVEkMK5qChJtxYBXBHH2K) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 3:43 |
+| 18 | [Don't Say You Love Me](https://open.spotify.com/track/65i1UPsUtPlEVzewEZR6sY) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 3:45 |
 
-Snapshot ID: `Z/qOFAAAAAC/sqvAjFW/V1S6qlKBURBh`
+Snapshot ID: `aBVyrAAAAADWjnX09h/XUkU5gwmSxmZ+`

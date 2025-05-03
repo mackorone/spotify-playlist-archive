@@ -1,29 +1,13 @@
 {
   "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=vklYbcGmQOuokZOSITh7yg\"> Burna Boy</a>",
-  "num_followers": 21310,
+  "num_followers": 21323,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBPu/AAAAABKrQ9XBpDAY0Y2iTOPLfqB",
+  "snapshot_id": "aBTb+gAAAAARtJqV7Smm77Uzb8ziuI3Y",
   "tracks": [
-    {
-      "added_at": "2025-05-01 22:00:28",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
-    },
     {
       "added_at": "2025-05-01 22:00:28",
       "album": {
@@ -47,6 +31,22 @@
     {
       "added_at": "2025-05-01 22:00:28",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
+    },
+    {
+      "added_at": "2025-05-01 22:00:28",
+      "album": {
         "name": "Smaak To Love (Lamza)",
         "url": "https://open.spotify.com/album/0IDXfOJbWNw4LbWEPWrc1F"
       },
@@ -59,6 +59,22 @@
       "duration_ms": 165600,
       "name": "Smaak To Love (Lamza)",
       "url": "https://open.spotify.com/track/4o8T5mUyp77nDbM1UkDRd3"
+    },
+    {
+      "added_at": "2025-05-01 22:00:28",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2025-05-01 22:00:28",
@@ -235,6 +251,26 @@
       "duration_ms": 143065,
       "name": "DUTTY",
       "url": "https://open.spotify.com/track/7i8vcfoWdoWPKQUf41PYpW"
+    },
+    {
+      "added_at": "2025-05-02 14:51:38",
+      "album": {
+        "name": "places we could go",
+        "url": "https://open.spotify.com/album/3q0rQgaSrnrnSeXD2mRNA3"
+      },
+      "artists": [
+        {
+          "name": "Tymicah",
+          "url": "https://open.spotify.com/artist/49Rs6vld6avekU4hwiIblB"
+        },
+        {
+          "name": "J Clu",
+          "url": "https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "places we could go",
+      "url": "https://open.spotify.com/track/7itEIJYEH23jYVXaThaCKk"
     },
     {
       "added_at": "2025-05-01 22:00:28",

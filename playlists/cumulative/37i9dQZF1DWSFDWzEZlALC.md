@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Elias, ENNIO
 
-1,189 songs - 2 day 8 hr 13 min
+1,190 songs - 2 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Kaviar in Dubai](https://open.spotify.com/track/4aDiJIDqubp3vguy9sIEz3) | [Pannakotta](https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD) | [Kaviar in Dubai](https://open.spotify.com/album/06nM50CXpNgEMxqYUsXEjO) | 3:11 | 2023-06-08 | 2023-06-23 |
 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 | 2023-10-19 | 2024-02-09 |
 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 | 2023-02-13 | 2023-02-15 |
+| [Kein Plan was Liebe ist](https://open.spotify.com/track/5cv1YnIgf2JNHmilYaYq1s) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Kein Plan was Liebe ist](https://open.spotify.com/album/3uvi5jjG5EE6negLTEQTNp) | 2:29 | 2025-05-02 |  |
 | [Kein Stern](https://open.spotify.com/track/617OQB1qwAXCK8G25Yejop) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Kein Stern](https://open.spotify.com/album/5JkMx2Z48GjrjQkkaXK3xC) | 3:38 | 2023-02-02 | 2023-03-03 |
 | [kein ticket](https://open.spotify.com/track/14kynQzPMPaHiUeBFeOda4) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [kein ticket](https://open.spotify.com/album/55IYsLMmytCHMOOemTpYpx) | 2:04 | 2025-02-20 | 2025-04-25 |
 | [Keine Ahnung](https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Keine Ahnung](https://open.spotify.com/album/6JjNfhRXOgqbeIByk4TU22) | 2:16 | 2024-04-04 | 2024-05-24 |
@@ -1035,7 +1036,7 @@
 | [Underdog](https://open.spotify.com/track/7lpwtFvlf5jhNZAfmzFFiY) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Underdog](https://open.spotify.com/album/4h8HTXyIXhsRtDJ39mXUCA) | 3:15 | 2023-11-30 | 2023-12-15 |
 | [Unendlichkeit](https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Unendlichkeit](https://open.spotify.com/album/0DDedQfbStXhO5HzFh4uC3) | 3:18 | 2023-06-15 | 2023-12-15 |
 | [unendlichkeit](https://open.spotify.com/track/5MB5Rsv1zV55oChldxIlpj) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [unendlichkeit](https://open.spotify.com/album/3AiTnxSIokH16CVrXJtHgA) | 3:00 | 2025-02-06 | 2025-04-04 |
-| [unendlichschönversagt](https://open.spotify.com/track/3ccJnVUwGjvTs1pCeiaLxz) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [unendlichschönversagt](https://open.spotify.com/album/1gHVnewnM4dCuxkp9HJfAl) | 2:56 | 2025-04-03 |  |
+| [unendlichschönversagt](https://open.spotify.com/track/3ccJnVUwGjvTs1pCeiaLxz) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [unendlichschönversagt](https://open.spotify.com/album/1gHVnewnM4dCuxkp9HJfAl) | 2:56 | 2025-04-03 | 2025-05-03 |
 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 | 2023-02-02 | 2023-03-10 |
 | [Unique](https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:42 | 2024-02-13 | 2024-02-16 |
 | [Universum groß](https://open.spotify.com/track/1YSL2Q8PYtVeKaH0TEnMqR) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [Tim Tautorat](https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re) | [Universum groß](https://open.spotify.com/album/4cNUzv8xwwRGJ4GBOOdYcG) | 2:51 | 2024-09-05 | 2024-09-27 |

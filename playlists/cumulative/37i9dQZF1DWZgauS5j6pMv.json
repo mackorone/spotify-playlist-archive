@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 188250,
       "name": "All Night Long - Ruck P Remix",
       "url": "https://open.spotify.com/track/6fYFZnIsm74om1JFSgZWZM"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 237653,
       "name": "Everyone Moves To LA (feat. Felicia Douglass)",
       "url": "https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re"
@@ -4349,6 +4349,28 @@
     },
     {
       "album": {
+        "name": "ILLUSIONS Pt. II",
+        "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "ILLUSIONS Pt. II",
+      "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
+    },
+    {
+      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
       },
@@ -5702,6 +5724,24 @@
       "duration_ms": 180700,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/2tA2ISa4vfuVYPX1Gacbwl"
+    },
+    {
+      "album": {
+        "name": "Male Gaze",
+        "url": "https://open.spotify.com/album/1AEgBHfLeEJ79ugZxqVHZi"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155388,
+      "name": "Male Gaze",
+      "url": "https://open.spotify.com/track/5v4nhjFbAwUSdKnkhgUgqZ"
     },
     {
       "album": {

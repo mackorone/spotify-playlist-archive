@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country music that rocks. Cover: Whiskey Myers",
+  "description": "Country music that rocks. Cover: Treaty Oak Revival",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -3298,6 +3298,24 @@
       "duration_ms": 254582,
       "name": "I AIN'T IN THE COUNTRY NO MORE",
       "url": "https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9"
+    },
+    {
+      "album": {
+        "name": "I Mean It",
+        "url": "https://open.spotify.com/album/3qzY6amUI4j16xFsZM4WN0"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "I Mean It",
+      "url": "https://open.spotify.com/track/7ppYbpPqxoNdyxm6117MVK"
     },
     {
       "album": {
@@ -6770,7 +6788,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 188205,
       "name": "Wanna Be Saved",
       "url": "https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k"

@@ -4,7 +4,7 @@
 
 > 🚨
 
-315 songs - 13 hr 48 min
+316 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [MED MIG](https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:09 | 2024-08-15 | 2025-03-28 |
 | [Medellín](https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Medellín](https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8) | 2:56 | 2024-07-18 | 2024-08-16 |
 | [Meet Me](https://open.spotify.com/track/5h4sKMUrBnPgBqgaO1J8kz) | [Stian.](https://open.spotify.com/artist/0me84MJMnB6el4dd4WBw4T), [Rohat](https://open.spotify.com/artist/6DaZsLPQ6JeHURwrrSY0cB) | [Meet Me](https://open.spotify.com/album/0feypZYACSl2PL5m164tU2) | 2:42 | 2025-03-27 |  |
+| [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 |  |
 | [Mi Amor](https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Mi Amor](https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va) | 3:44 | 2025-01-23 | 2025-03-28 |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 | 2024-06-01 |
@@ -282,7 +283,7 @@
 | [Storbyen sin lillebror](https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 3:14 | 2025-02-06 | 2025-04-28 |
 | [STÖRDA](https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ) | [STÖRDA](https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP) | 2:06 | 2025-01-23 | 2025-02-07 |
 | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76) | 2:20 | 2024-10-03 | 2025-03-28 |
-| [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 | 2024-04-27 |  |
+| [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 | 2024-04-27 | 2025-05-03 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |
 | [Sving Min Vei](https://open.spotify.com/track/0QVvaa5drjOup6D3z9HhOH) | [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b), [Petter Beyer](https://open.spotify.com/artist/5IkhRwKXNgNYkkahNLVoQW), [Jonas V](https://open.spotify.com/artist/3Hrm4nJtnnZLGjWITpxvle) | [Sving Min Vei](https://open.spotify.com/album/5wx2EbIVXh88HQzuUsREVq) | 3:02 | 2025-04-03 |  |
 | [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |

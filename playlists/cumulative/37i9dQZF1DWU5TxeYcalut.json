@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/6Z5mTNFF8JrMNAiUoIVPZZ"
+      },
+      "artists": [
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        },
+        {
+          "name": "Marcel Powell",
+          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318674,
+      "name": "Deixa - Ao Vivo",
+      "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
+    },
+    {
+      "album": {
         "name": "Behind the Tea Chronicles",
         "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
       },
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 230179,
       "name": "Latte Lounge",
       "url": "https://open.spotify.com/track/3gYXfglUVYmiPsoxEFjjmL"

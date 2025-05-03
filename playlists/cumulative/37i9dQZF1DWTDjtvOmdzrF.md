@@ -4,10 +4,11 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-162 songs - 10 hr 52 min
+163 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$20](https://open.spotify.com/track/3W0v9AEx1PlDgtefOJSdzJ) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Live Unplugged](https://open.spotify.com/album/28q2tdpI8lEasIntmtXhaE) | 5:42 | 2025-05-02 |  |
 | [17 Juni](https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK) | [Pascal Meliala](https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Cecilia Morinta](https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S) | [17 Juni](https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM) | 5:32 | 2024-07-24 | 2024-09-03 |
 | [Aku Tenang](https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 3:49 | 2022-12-07 | 2024-04-19 |
 | [Alang\-Alang](https://open.spotify.com/track/63heXpwE42bSL8yAReGERs) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp), [Drs\. F\. Achmar](https://open.spotify.com/artist/58bjKFsimBsOP8JxPLI0JP) | [Roekmana's Repertoire \(Remastered\)](https://open.spotify.com/album/115rswXhVTkKcQ9DFFfgii) | 3:51 | 2024-07-24 | 2024-12-10 |
@@ -38,7 +39,7 @@
 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 | 2024-07-24 |  |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2022-12-07 |  |
 | [Denah Rumahmu \(Acoustic Version\)](https://open.spotify.com/track/6zcqxojUVNtOcU7iD1q0zo) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu \(Acoustic Version\)](https://open.spotify.com/album/4CiqZ4dsensCgO7GafXVaw) | 3:58 | 2023-07-14 | 2023-08-31 |
-| [Dengar Bisikku](https://open.spotify.com/track/09xf9RNDZweJOgQmPO34ey) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Hujan Kali Ini](https://open.spotify.com/album/3x7eCH2adg2Bkn3GPV2hU0) | 3:37 | 2024-11-04 |  |
+| [Dengar Bisikku](https://open.spotify.com/track/09xf9RNDZweJOgQmPO34ey) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Hujan Kali Ini](https://open.spotify.com/album/3x7eCH2adg2Bkn3GPV2hU0) | 3:37 | 2024-11-04 | 2025-05-03 |
 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2022-12-07 | 2023-07-03 |
 | [Di Ambang Karam](https://open.spotify.com/track/1D8kctV7MtI4rWZhbYeaF9) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Di Ambang Karam](https://open.spotify.com/album/3ovZcgvyRdFCUlQXzJkFHV) | 4:34 | 2023-06-07 |  |
 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 | 2022-12-07 |  |

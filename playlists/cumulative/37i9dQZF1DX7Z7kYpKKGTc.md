@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Z7kYpKKGTc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Z7kYpKKGTc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Z7kYpKKGTc)
 
-### [Rock romântico](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
+### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> O lado romântico do metal e do rock clássico.
+> The romantic side of classic rock and metal
 
 466 songs - 1 day 11 hr 26 min
 

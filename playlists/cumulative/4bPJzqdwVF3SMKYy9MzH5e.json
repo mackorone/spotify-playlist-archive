@@ -11263,6 +11263,24 @@
     },
     {
       "album": {
+        "name": "envy",
+        "url": "https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg"
+      },
+      "artists": [
+        {
+          "name": "Brothel in Belize",
+          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "envy",
+      "url": "https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -20392,7 +20410,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -31096,6 +31114,28 @@
       "duration_ms": 186193,
       "name": "severed",
       "url": "https://open.spotify.com/track/5dS6OAmkHffFSWyyor7etp"
+    },
+    {
+      "album": {
+        "name": "sex dealer",
+        "url": "https://open.spotify.com/album/5PkfpuleTH72PNp2AMMKbN"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262414,
+      "name": "sex dealer",
+      "url": "https://open.spotify.com/track/2252WLkjUzZaLhNvq8GhXO"
     },
     {
       "album": {

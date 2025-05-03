@@ -1,13 +1,241 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF?si=aSaQzwDoREKUdm4Pi_rGrw\"> 646yf4t</a>. Updates every Wednesday.",
-  "num_followers": 265034,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB?si=2IBwjS70QF-_OM7v1y2rZQ\"> MIRIAH.</a>. Updates every Wednesday.",
+  "num_followers": 265110,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAs8/QAAAABHbFR6ooUEUgxea0V/+t2T",
+  "snapshot_id": "aBRDZwAAAAApve1Lb5f9RvAkFpss/oWW",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "36 Hours",
+        "url": "https://open.spotify.com/album/4wllICGBBJqsMkLrNJsuaM"
+      },
+      "artists": [
+        {
+          "name": "MIRIAH.",
+          "url": "https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB"
+        }
+      ],
+      "duration_ms": 159988,
+      "name": "36 Hours",
+      "url": "https://open.spotify.com/track/7MTQKncQmZorsKjKiyigvA"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "No Can",
+        "url": "https://open.spotify.com/album/09oie9KsVu8uEmRig7fvzk"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 185009,
+      "name": "No Can",
+      "url": "https://open.spotify.com/track/5LReQaF7Wsp0GDaisA3XNn"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/1kbEZayBxfy0oGAKO16K7Z"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 129084,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/0wjxF29m74k2qwi6wVGVDC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/7mHN7d4Ecuc7SJqOd8dByH"
+      },
+      "artists": [
+        {
+          "name": "Joe Leone",
+          "url": "https://open.spotify.com/artist/641Je4lEYQI0NWz8VclwMF"
+        }
+      ],
+      "duration_ms": 206940,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/77RIaFF3FoxmjpcYikaEtE"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Close Enough",
+      "url": "https://open.spotify.com/track/1XYKV9jiG1PCy5sKIhz4LN"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4RtWqTQnjTYNg9WyPsO63m"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "Supa Gaeta",
+          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5uBJvAHpCqffsTGh6BYP2C"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 164122,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Right Back",
+        "url": "https://open.spotify.com/album/5h8e8ciON1Cp3cLKp7PMHu"
+      },
+      "artists": [
+        {
+          "name": "KAYAM",
+          "url": "https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "Right Back",
+      "url": "https://open.spotify.com/track/1prRtIUIf34Kw1MmajIr3M"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "ALLERGIC",
+        "url": "https://open.spotify.com/album/2J5kTMdlXaWST7aLgSvELK"
+      },
+      "artists": [
+        {
+          "name": "Diamond White",
+          "url": "https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "ALLERGIC",
+      "url": "https://open.spotify.com/track/16EEN52YMNd5rhGgXoeSuv"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "NO SLEEP",
+        "url": "https://open.spotify.com/album/4T1psmzWf3rePUGJ9Oiyni"
+      },
+      "artists": [
+        {
+          "name": "The Bonfyre",
+          "url": "https://open.spotify.com/artist/4oIGrMYn1N1xPNYVXcaEZJ"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "NO SLEEP",
+      "url": "https://open.spotify.com/track/4u0Me8gIG4WilGMfaNOeZ0"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4NrBWqd1XcanE0JnMSFgTc"
+      },
+      "artists": [
+        {
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+        }
+      ],
+      "duration_ms": 140425,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4ZwVIdBf6OuWv0hBcYapF4"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/7aKV6xtTcDfWVqkKh7qpYP"
+      },
+      "artists": [
+        {
+          "name": "Joe Trufant",
+          "url": "https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5"
+        }
+      ],
+      "duration_ms": 193992,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4R9K9GyoSM76ftqyZLz5gg"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "As We Wither",
+        "url": "https://open.spotify.com/album/5s5QT4trsQcA50Q8pMbNgC"
+      },
+      "artists": [
+        {
+          "name": "JonoJono",
+          "url": "https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q"
+        }
+      ],
+      "duration_ms": 250941,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1zyXCJqpu6Lp6WdZO0FsZd"
+    },
     {
       "added_at": "2025-04-25 07:11:14",
       "album": {

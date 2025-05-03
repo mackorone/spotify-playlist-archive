@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-229 songs - 10 hr 1 min
+231 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,13 @@
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2025-03-11 | 2025-04-17 |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2025-03-11 |  |
 | [Cat in the Window](https://open.spotify.com/track/26OrB2gpFnRjMe1km54hkw) | [Mia Brentano](https://open.spotify.com/artist/3v8vWzrqhEsmveIrEgWrrW), [Benyamin Nuss](https://open.spotify.com/artist/1VsZbYohHMAA3JiclOf4tt), [Billy Test](https://open.spotify.com/artist/3EME15RrKjq6bJPFc4zJkB) | [Mia Brentano´s Summerhouse](https://open.spotify.com/album/7Hln0PupqAkGSrbJntAn29) | 3:42 | 2025-03-11 |  |
-| [Childhood Memories](https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Childhood Memories](https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc) | 2:25 | 2025-03-26 |  |
+| [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 |  |
+| [Childhood Memories](https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Childhood Memories](https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc) | 2:25 | 2025-03-26 | 2025-05-03 |
 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-11 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2025-03-11 |  |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2025-03-11 |  |
 | [comforts of my home](https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [comforts of my home](https://open.spotify.com/album/6DGBy524Vl7oPw4xFN9xsI) | 2:43 | 2025-03-11 |  |
+| [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 | 2025-05-02 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2025-03-11 |  |
 | [Dagrøm](https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm) | [Flemming Hoovgard](https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT) | [Dagrøm](https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP) | 2:21 | 2025-03-11 |  |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2025-03-11 |  |
@@ -126,7 +128,7 @@
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2025-03-11 | 2025-04-17 |
 | [Morning in Rome](https://open.spotify.com/track/3khHooqz6aYMeFJOQN79gz) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Morning in Rome](https://open.spotify.com/album/6esAVjh47ZytLUpYpdAQYO) | 2:34 | 2025-03-11 |  |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2025-03-11 |  |
-| [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 | 2025-03-11 |  |
+| [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 | 2025-03-11 | 2025-05-03 |
 | [Musa](https://open.spotify.com/track/54wxg8ICliDYXmB9ijR6U9) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Musa](https://open.spotify.com/album/0UBWI3uhES0dtvO6v3cMyy) | 2:38 | 2025-03-11 | 2025-04-03 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2025-03-11 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2025-03-11 |  |
@@ -233,7 +235,7 @@
 | [Window to Another Life](https://open.spotify.com/track/78tOr1AwBWFK9I6MyhS180) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Window to Another Life](https://open.spotify.com/album/485gyREge1p5jbfNpPn7OZ) | 2:24 | 2025-03-11 |  |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2025-03-11 | 2025-04-17 |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2025-03-11 |  |
-| [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 | 2025-03-11 |  |
+| [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 | 2025-03-11 | 2025-05-03 |
 | [Ámbar](https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Monteverde](https://open.spotify.com/album/6e1VBFdJxZ1b7wKQCuw5XY) | 2:42 | 2025-03-11 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2025-03-11 | 2025-04-03 |
 | [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2025-03-11 |  |

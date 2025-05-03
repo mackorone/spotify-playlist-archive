@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-401 songs - 1 day 15 hr 11 min
+403 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Very Chic Blackman \(Horatio Remix\)](https://open.spotify.com/track/60JxGJU55HwhvdXA1YdRlT) | [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo), [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD) | [Very Chic Blackman \(Remixes\)](https://open.spotify.com/album/2yMdBa2weNQI8hHh3URqEx) | 6:39 | 2022-08-15 | 2022-12-01 |
 | [Video Siren \- Mark Broom Remix](https://open.spotify.com/track/7mHzntMAsIAW1ANfs8dhw6) | [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Video Siren \(The Remixes\)](https://open.spotify.com/album/1ddYrBqk5cODw3axH8bhmM) | 4:25 | 2024-09-30 | 2024-11-21 |
 | [Voicemail \- Layton Giordani Remix](https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Voicemail \(Layton Giordani Remix\)](https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo) | 4:35 | 2023-08-03 | 2024-04-30 |
+| [Voyager](https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002) | [Jon Rundell](https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG) | [Wildcat](https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ) | 6:13 | 2025-05-02 |  |
 | [Wait A Minute \- Dixon Extension](https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Wait A Minute \(Dixon Extension\)](https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT) | 6:27 | 2023-08-03 | 2024-04-30 |
 | [Wait A Minute \- Dixon Extension](https://open.spotify.com/track/6A11icgW6M1sn2xdHVIuSi) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Wait a Minute](https://open.spotify.com/album/1BMlO7uf4ecNmDEFBSikBQ) | 6:27 | 2023-10-06 | 2024-04-19 |
 | [Way Back](https://open.spotify.com/track/2KkNO8sVXBgJH1rWSM3wTo) | [Brennen Grey](https://open.spotify.com/artist/342JB4Bfj8Q7qdOraq3nMz) | [UFO Death Cult](https://open.spotify.com/album/7yK4YiQjKQ2frSFPHsqVQ8) | 6:16 | 2022-08-15 | 2023-02-14 |
@@ -402,6 +403,7 @@
 | [Wig Owt \- Extended Mix](https://open.spotify.com/track/6wlZOUhzYqG9vdBGrEFf2J) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Wig Owt](https://open.spotify.com/album/6r86E8aLCHw6OFTSFzl7Cq) | 6:19 | 2023-10-02 | 2024-04-30 |
 | [Wild Language \- Hephaistos Remix](https://open.spotify.com/track/3nueDc50lLRQ1R6vWUUhnH) | [Anderson Noise](https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i), [Hephaistos](https://open.spotify.com/artist/1N733yb5aLsvtvXPpZNEL2) | [Wild Language](https://open.spotify.com/album/4IdL45bw6WyhFKhihsm2Oe) | 7:03 | 2022-08-15 | 2023-02-14 |
 | [Wild Light](https://open.spotify.com/track/4rgwB6JiF7t0BzpgN4K0r6) | [Marco Bailey](https://open.spotify.com/artist/23zJj2W0TQ0SvF4Fwo7mZK) | [Nocturno LP](https://open.spotify.com/album/0N7RKfRP7RMLOAYbNPbA3S) | 5:32 | 2024-11-20 |  |
+| [Wildcat](https://open.spotify.com/track/4IiuM8WGdKkSJgedY28RkU) | [Jon Rundell](https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG) | [Wildcat](https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ) | 5:16 | 2025-05-02 |  |
 | [Work Ya Ass \(Ben Sims JFF Edit\)](https://open.spotify.com/track/4rM7f0BkgINfLGuNleHNhK) | [Truncate](https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50), [Ben Sims](https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt) | [Work Ya Ass](https://open.spotify.com/album/4fo9f5ooi2Jd4cLZ62hjWr) | 5:10 | 2023-08-03 | 2024-04-30 |
 | [World Gone Mad](https://open.spotify.com/track/2R4tRMm5UPHYV3SLhyH1Qk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 4:24 | 2024-06-03 | 2025-01-25 |
 | [World Gone Mad](https://open.spotify.com/track/3Ssta34Ppt7LqYxxLPhQM0) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:24 | 2023-02-13 | 2023-08-04 |

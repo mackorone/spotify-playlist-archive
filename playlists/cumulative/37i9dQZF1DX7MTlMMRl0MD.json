@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Midnight Confessions",
+        "url": "https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP"
+      },
+      "artists": [
+        {
+          "name": "Wilven Bello",
+          "url": "https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234431,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj"
+    },
+    {
+      "album": {
         "name": "El Campe\u00f3n",
         "url": "https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G"
       },

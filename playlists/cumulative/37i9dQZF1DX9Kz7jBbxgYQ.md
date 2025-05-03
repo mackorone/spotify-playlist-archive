@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Yawar Abdal
 
-346 songs - 19 hr 27 min
+347 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2023-09-08 | 2023-11-30 |
 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 | 2022-05-20 | 2022-07-16 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-09-09 |  |
+| [savera](https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [savera](https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ) | 2:57 | 2025-05-02 |  |
 | [SHAAM](https://open.spotify.com/track/1OuwL8fpUKV1TIVaA6hbJh) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [SHAAM](https://open.spotify.com/album/77mickx6ctnKNGiANxDpZR) | 3:28 | 2022-07-15 | 2022-09-02 |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-01-05 |  |
 | [Shokaleo](https://open.spotify.com/track/3qnHZS4qvzcq4J2vLzlgcU) | [Farooque Bhai Project](https://open.spotify.com/artist/6MHzMgnUHxw8eac1qaVXjH) | [Obostha Bujhe Bebostha](https://open.spotify.com/album/34Q8TuadeSiHqHRoD5XC7i) | 2:07 | 2022-05-20 | 2022-09-02 |

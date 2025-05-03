@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 186970,
       "name": "Desculpa - Ao Vivo",
       "url": "https://open.spotify.com/track/1e65vFwyqTM7FJeJ49T5ch"
@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 206700,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e"
@@ -5369,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Check-In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142755,
+      "name": "Tem Amor, Tem Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6C5EczmaeIUmf1pTYux9f1"
+    },
+    {
+      "album": {
         "name": "Termina Comigo Antes",
         "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
       },
@@ -5384,6 +5402,28 @@
       "duration_ms": 187381,
       "name": "Termina Comigo Antes",
       "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
+    },
+    {
+      "album": {
+        "name": "Terminou Pra Que (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3mklbgwCNp8rv9zveQxbHJ"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "Terminou Pra Que - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EFCamXHwc9xbjjoTdcQUW"
     },
     {
       "album": {

@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/17uf0ZUUsLID6ICnx2wCfo"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/6EXNTJth6I1yzujD81e5Ad"
+    },
+    {
+      "album": {
         "name": "We Were Legends",
         "url": "https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72"
       },
@@ -4266,6 +4284,24 @@
       "duration_ms": 144624,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
+    },
+    {
+      "album": {
+        "name": "Noapte",
+        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+      },
+      "artists": [
+        {
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199522,
+      "name": "Noapte",
+      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
     },
     {
       "album": {

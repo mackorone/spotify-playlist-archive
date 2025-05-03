@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Nari Nari Naduma Murari",
-  "num_followers": 150370,
+  "description": "Bringing out the best of latest love tracks\nCover : Kingdom",
+  "num_followers": 150416,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA+CCQAAAAD6TfvOUPBMH+3y3zvacW8S",
+  "snapshot_id": "aBTDAQAAAAAjTUZ1d7QZHNVLrVq2XiFh",
   "tracks": [
+    {
+      "added_at": "2025-05-02 12:51:49",
+      "album": {
+        "name": "Hridayam Lopala (From \"Kingdom\")",
+        "url": "https://open.spotify.com/album/6oOYjGQYWUzte674cgbxPe"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hridayam Lopala (From \"Kingdom\")",
+      "url": "https://open.spotify.com/track/03rxt6G3rQo1n9CtE4h2IB"
+    },
     {
       "added_at": "2025-04-16 03:48:23",
       "album": {

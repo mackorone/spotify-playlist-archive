@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Rayvn Lenae
+> The UK's biggest playlist\. Cover: Ravyn Lenae
 
 306 songs - 16 hr 15 min
 

@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Victoria Nadine  x Kygo
 
-1,796 songs - 3 day 19 hr 16 min
+1,797 songs - 3 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-17 | 2023-09-22 |
 | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/track/4kj39oq6LXxu4FgJg8bHT0) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/album/6YA9lFjba4jca76mAkYUAl) | 3:32 | 2024-06-27 | 2024-08-04 |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-22 | 2023-08-04 |
+| [Concentrate](https://open.spotify.com/track/0ZWyPeITDt4o8iOAaNcwai) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [Concentrate](https://open.spotify.com/album/1B0FlJVgNL9L6t967st0NF) | 2:12 | 2025-05-02 |  |
 | [Concentrate](https://open.spotify.com/track/4Xog5MwTrBLlgNOJoy1UC4) | [Sonic Snares](https://open.spotify.com/artist/40tx66qbWQV574qEFI6fC2), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [Concentrate](https://open.spotify.com/album/6Gao96EEcEs55cIYp0uEYu) | 4:51 | 2023-03-30 | 2023-05-05 |
 | [Conflicted](https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Conflicted](https://open.spotify.com/album/7g0ZQYAbYQosKsuT2Hj9tM) | 3:01 | 2023-02-16 | 2023-03-10 |
 | [Conjunction](https://open.spotify.com/track/2bT2JT5s2pe6OCS7QDbFw1) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Conjunction / Unjetlag](https://open.spotify.com/album/4Rp37adcShnRMntjF18aqe) | 3:44 | 2024-07-26 | 2024-08-30 |

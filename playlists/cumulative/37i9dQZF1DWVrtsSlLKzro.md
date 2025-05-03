@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-382 songs - 22 hr 34 min
+384 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Hero](https://open.spotify.com/track/6vp1C0oz3aJDzqnSzr1DD1) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Hero](https://open.spotify.com/album/0KUyqoyokHa7aCRSIf9Jne) | 3:02 | 2022-07-15 | 2024-04-19 |
 | [Hesitate](https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [side by side we lie awake](https://open.spotify.com/album/6h5zcRHaGnOWGH35d47Ep4) | 2:40 | 2022-03-18 | 2023-06-10 |
 | [Hold My Breath](https://open.spotify.com/track/5AkBK4g1l43iG08PBIBjMi) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde](https://open.spotify.com/album/4a8qG0HferUF9mQ0QhqcCl) | 3:23 | 2021-12-03 | 2022-02-12 |
+| [Holding On To You](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Holding On To You](https://open.spotify.com/album/6VvZQ2f9QdblEkGsbngGmW) | 3:46 | 2025-05-02 |  |
 | [Hollow](https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Hollow](https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq) | 3:33 | 2023-03-10 |  |
 | [Homesick \(feat\. SOUNDR\)](https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Homesick \(feat\. SOUNDR\)](https://open.spotify.com/album/14bud7QbOvXC0FhVBarz1y) | 5:28 | 2021-12-03 |  |
 | [Hope](https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hope](https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT) | 3:13 | 2022-10-28 |  |
@@ -378,6 +379,7 @@
 | [Wish You Well](https://open.spotify.com/track/1ZemrxKbVVPGZtwXziJmtH) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Wish You Well](https://open.spotify.com/album/1uKDqkMfOdf4afBrJYbRua) | 2:54 | 2021-12-03 | 2024-12-14 |
 | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/track/0B5Ono47jEQSIPy8kuVCzp) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/album/08BEmSpq994E3Bb7ikt8Bn) | 3:07 | 2022-05-06 | 2023-06-10 |
 | [Without Me \- ILLENIUM Remix](https://open.spotify.com/track/4bw3ZyWA1ui0Adu285NWDl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Without Me \(ILLENIUM Remix\)](https://open.spotify.com/album/2iiNSk2EKg3d3OQQGlj2N3) | 4:08 | 2021-12-03 |  |
+| [Without You](https://open.spotify.com/track/7r7oqEYb33PFVYBLEDhHeD) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Without You](https://open.spotify.com/album/46TLgNCjOnahxipRUWt7be) | 3:52 | 2025-05-02 |  |
 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 | 2024-03-01 | 2024-11-16 |
 | [Won't Give Up](https://open.spotify.com/track/4GQ27sK6S5rRnlPmWmlVmz) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Won't Give Up](https://open.spotify.com/album/5M73PayyU4KZJIueB53pIl) | 2:59 | 2021-12-03 | 2022-05-07 |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |

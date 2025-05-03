@@ -9865,6 +9865,32 @@
     },
     {
       "album": {
+        "name": "Tiramis\u00f9",
+        "url": "https://open.spotify.com/album/47oTL1uelbP4YXu6tCJXDF"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Bebeto",
+          "url": "https://open.spotify.com/artist/7s6K4YGtN6umad2vEORNM4"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160396,
+      "name": "Tiramis\u00f9",
+      "url": "https://open.spotify.com/track/4rWaO8cmkIdZpQAMnutaP5"
+    },
+    {
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -10510,7 +10536,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 186815,
       "name": "voc\u00ea foi a melhor",
       "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"

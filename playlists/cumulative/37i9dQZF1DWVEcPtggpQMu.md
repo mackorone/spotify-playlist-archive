@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R?si=KKkdi\_0mTuGiq\_RorELE9w">Qwellers</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU?si=6nmcryMWQAa5QswAJym64g">Moozlie</a>
 
-951 songs - 2 day 2 hr 40 min
+952 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Handling Business](https://open.spotify.com/track/1jxHnGpNOqWiyYQ2zaUn93) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Handling Business](https://open.spotify.com/album/2qtCtbe6idi2lZ88Px451Q) | 3:16 | 2023-12-14 | 2024-05-10 |
 | [Happy Vibe](https://open.spotify.com/track/3fpJgPREo1bJm4k2viVpcA) | [Aewon Wolf](https://open.spotify.com/artist/2HdJNbpBYMaUSzsmUMILLC) | [VIBES](https://open.spotify.com/album/7kZF3NyxpIXgyyKl72h9KR) | 3:50 | 2022-03-24 | 2022-04-15 |
 | [HARDER](https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz), [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [HYPE1108](https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV) | [HARDER](https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H) | 3:16 | 2024-06-06 | 2024-10-12 |
+| [HEARTBREAK](https://open.spotify.com/track/7mJ5mnDDClqpNo1cQN5tto) | [Tembipowers](https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg), [LD Beats](https://open.spotify.com/artist/2ZE75yXnmprZkYkqYW69F4) | [THERE'S A WAR OUTSIDE](https://open.spotify.com/album/4VkEc4ea99sNgyW3qel4Q1) | 2:23 | 2025-05-02 |  |
 | [Heavy Is The Head](https://open.spotify.com/track/0yPSzjrG3KN2VYwqa7hn9O) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N) | [Heavy Is The Head](https://open.spotify.com/album/6KygVKYSbcIx9gwhz2e1DF) | 2:44 | 2023-08-31 | 2023-10-21 |
 | [Helicopter](https://open.spotify.com/track/1vZdToBodozHPhx6nyQFnc) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF) | [Helicopter](https://open.spotify.com/album/0i63OSDIjJM3U5PmdkRVmA) | 2:11 | 2022-12-12 | 2023-02-10 |
 | [HELL OF A NIGHT](https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [SAWFSIDE](https://open.spotify.com/album/6z2Ex1oBEB92LKabY5c99U) | 3:12 | 2023-02-06 | 2023-05-05 |

@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: imase",
-  "num_followers": 60658,
+  "num_followers": 60689,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
+        "name": "\u611b\u3068\u304b\u3002",
+        "url": "https://open.spotify.com/album/1YHyYjUNSTLgTRGAj8JOCp"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 234767,
+      "name": "\u611b\u3068\u304b\u3002",
+      "url": "https://open.spotify.com/track/22alwYLfFsS5tOWhO7UbSD"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
         "name": "GORILLA\u829d\u5c45",
         "url": "https://open.spotify.com/album/3n23xpy9vCaYbmTEThzyLd"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 255320,
       "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
       "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
-        "name": "\u611b\u3068\u304b\u3002",
-        "url": "https://open.spotify.com/album/1YHyYjUNSTLgTRGAj8JOCp"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 234767,
-      "name": "\u611b\u3068\u304b\u3002",
-      "url": "https://open.spotify.com/track/22alwYLfFsS5tOWhO7UbSD"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u611b\u306e\u8cde\u5473\u671f\u9650 - Love Expiration Date",
-        "url": "https://open.spotify.com/album/4GErm93PJIwJkaxxzyggyI"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "\u611b\u306e\u8cde\u5473\u671f\u9650 - Love Expiration Date",
-      "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
         "name": "\u51ac\u7d05\u8449",
         "url": "https://open.spotify.com/album/6Rbxlqa85aufeMcK2SKvyD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 322600,
       "name": "\u51ac\u7d05\u8449",
       "url": "https://open.spotify.com/track/0HN7REoMzRrdRfeZUZGXck"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 241630,
+      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+        "name": "\u611b\u306e\u8cde\u5473\u671f\u9650 - Love Expiration Date",
+        "url": "https://open.spotify.com/album/4GErm93PJIwJkaxxzyggyI"
       },
       "artists": [
         {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 241630,
-      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
+      "duration_ms": 216226,
+      "name": "\u611b\u306e\u8cde\u5473\u671f\u9650 - Love Expiration Date",
+      "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u3053\u306e\u4e16\u754c\u306b\u4e8c\u4eba\u3060\u3051",
-        "url": "https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 220350,
-      "name": "\u3053\u306e\u4e16\u754c\u306b\u4e8c\u4eba\u3060\u3051",
-      "url": "https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
         "name": "\u308f\u3092\u3093",
         "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 270900,
       "name": "\u308f\u3092\u3093",
       "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "\u3053\u306e\u4e16\u754c\u306b\u4e8c\u4eba\u3060\u3051",
+        "url": "https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 220350,
+      "name": "\u3053\u306e\u4e16\u754c\u306b\u4e8c\u4eba\u3060\u3051",
+      "url": "https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u96eb",
-        "url": "https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 276133,
-      "name": "\u96eb",
-      "url": "https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
         "name": "\u82b1\u3073\u3089",
         "url": "https://open.spotify.com/album/6hhUahDB8VJmSGP22Gyy4e"
       },
@@ -1299,6 +1279,42 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
+        "name": "\u96eb",
+        "url": "https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "\u96eb",
+      "url": "https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
         "name": "\u30a2\u30ed\u30a8",
         "url": "https://open.spotify.com/album/3c9oQXto9vXIvYDSJQnGDR"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "Jinsei wa mix nuts no kumiawase",
-        "url": "https://open.spotify.com/album/2qEL9SlFDAL6YoIbxfIWzl"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 234289,
-      "name": "Jinsei wa mix nuts no kumiawase",
-      "url": "https://open.spotify.com/track/2zyM9MlG0LULnGhJiQ1ITM"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
         "name": "\u611b\u306f\u7f60",
         "url": "https://open.spotify.com/album/2im9tKQhqcjG8jefWqPQJo"
       },
@@ -1343,6 +1343,38 @@
       "duration_ms": 236797,
       "name": "\u611b\u306f\u7f60",
       "url": "https://open.spotify.com/track/02Vt4VKSg4luOsdCdyPof2"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+        "url": "https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 194871,
+      "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "Jinsei wa mix nuts no kumiawase",
+        "url": "https://open.spotify.com/album/2qEL9SlFDAL6YoIbxfIWzl"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 234289,
+      "name": "Jinsei wa mix nuts no kumiawase",
+      "url": "https://open.spotify.com/track/2zyM9MlG0LULnGhJiQ1ITM"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1367,38 +1399,6 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u5c0f\u5e02\u6c11\u30a4\u30fc\u30a2",
-        "url": "https://open.spotify.com/album/77DueOvyt3iXD8I0Rzu1Ts"
-      },
-      "artists": [
-        {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "\u5c0f\u5e02\u6c11\u30a4\u30fc\u30a2",
-      "url": "https://open.spotify.com/track/2hyGHwdUhrCEvVUqrONRIN"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
-        "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
-        "url": "https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
         "name": "\u8b33\u3046",
         "url": "https://open.spotify.com/album/6E4AjOcvQT4hOjAGeRZOap"
       },
@@ -1415,34 +1415,34 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "\u30df\u30e9\u30fc\u30b8\u30e5",
-        "url": "https://open.spotify.com/album/6PnNeFwRlKSpz8kkGOYefJ"
+        "name": "Retronym of Love",
+        "url": "https://open.spotify.com/album/6p7DsExj89s7AeEZ8jzFJO"
       },
       "artists": [
         {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+          "name": "mekakushe",
+          "url": "https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz"
         }
       ],
-      "duration_ms": 191245,
-      "name": "\u30df\u30e9\u30fc\u30b8\u30e5",
-      "url": "https://open.spotify.com/track/2YzVK6asG4RWixIptGCCqF"
+      "duration_ms": 227929,
+      "name": "Retronym of Love",
+      "url": "https://open.spotify.com/track/53PpGA76EXKIzLwzRibwYd"
     },
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+        "name": "\u5c0f\u5e02\u6c11\u30a4\u30fc\u30a2",
+        "url": "https://open.spotify.com/album/77DueOvyt3iXD8I0Rzu1Ts"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
         }
       ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+      "duration_ms": 221533,
+      "name": "\u5c0f\u5e02\u6c11\u30a4\u30fc\u30a2",
+      "url": "https://open.spotify.com/track/2hyGHwdUhrCEvVUqrONRIN"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1463,18 +1463,34 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "Retronym of Love",
-        "url": "https://open.spotify.com/album/6p7DsExj89s7AeEZ8jzFJO"
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
       "artists": [
         {
-          "name": "mekakushe",
-          "url": "https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 227929,
-      "name": "Retronym of Love",
-      "url": "https://open.spotify.com/track/53PpGA76EXKIzLwzRibwYd"
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
+        "name": "\u30df\u30e9\u30fc\u30b8\u30e5",
+        "url": "https://open.spotify.com/album/6PnNeFwRlKSpz8kkGOYefJ"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 191245,
+      "name": "\u30df\u30e9\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2YzVK6asG4RWixIptGCCqF"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
+        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
+        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
+    },
+    {
+      "added_at": "2025-04-29 18:11:45",
+      "album": {
         "name": "\u9ece\u660e\u671f",
         "url": "https://open.spotify.com/album/6NCOdkqkwklKoJZzk4Uy4o"
       },
@@ -1539,38 +1571,6 @@
       "duration_ms": 189495,
       "name": "\u4e00\u5207\u5408\u5207",
       "url": "https://open.spotify.com/track/01Y5Y1IVEOCUxBmjycQWGI"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
-        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
-        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
-    },
-    {
-      "added_at": "2025-04-29 18:11:45",
-      "album": {
-        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
     },
     {
       "added_at": "2025-04-29 18:11:45",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-04-29 18:11:45",
       "album": {
-        "name": "Dulcet",
-        "url": "https://open.spotify.com/album/75xBUSK7YkL3H5GTQMSpRv"
+        "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
       },
       "artists": [
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 241258,
-      "name": "\u7d76\u8776",
-      "url": "https://open.spotify.com/track/3j9yeUfShopGDJxpSxkApr"
+      "duration_ms": 226514,
+      "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

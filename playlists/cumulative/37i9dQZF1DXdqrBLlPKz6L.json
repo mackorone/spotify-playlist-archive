@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "LA MIEL DEL VENENO",
+        "url": "https://open.spotify.com/album/2o9pjD6n1Y6jPyBqMK0vFk"
+      },
+      "artists": [
+        {
+          "name": "Rafaell Cocoa",
+          "url": "https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc"
+        },
+        {
+          "name": "Young Rebxl",
+          "url": "https://open.spotify.com/artist/2Yk1UW412GPD81uip2AbkC"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197818,
+      "name": "DESACIERTOS",
+      "url": "https://open.spotify.com/track/1nNK67uDQV99OCvgmU2gvK"
+    },
+    {
+      "album": {
         "name": "Flama",
         "url": "https://open.spotify.com/album/0oCoqgiJLn73yyR61MF2Z5"
       },
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 205250,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah"

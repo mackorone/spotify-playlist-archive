@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-329 songs - 1 day 6 hr 4 min
+330 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2020-10-09 | 2022-06-01 |
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2020-10-09 | 2022-06-08 |
 | [Habanera](https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Habanera](https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ) | 4:48 | 2022-08-11 |  |
+| [Here's That Rainy Day](https://open.spotify.com/track/5Iv2VlYp4ehVVPgjc3Lv25) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ) | [Here's That Rainy Day](https://open.spotify.com/album/0xrc4YKlUvxROIgmlmlSOf) | 5:21 | 2025-05-02 |  |
 | [Home](https://open.spotify.com/track/0UuDmmZHUPZb24gIODPiM4) | [Chris Andrew](https://open.spotify.com/artist/5sx4LyraGhj3dBFAN0Vx9u), [Ron Samsom](https://open.spotify.com/artist/4Zn9adi2m5LbnlcBba0nC1), [Olivier Holland](https://open.spotify.com/artist/2MbrIbQ56Etxw2LOu8kkcD), [Roger Manins](https://open.spotify.com/artist/0pKAiNOkOr2Q5FsmFrRF2Y) | [Home](https://open.spotify.com/album/6mBFE2Z2ha5f4fXYnkrzGr) | 6:34 | 2022-09-08 | 2023-10-25 |
 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 | 2020-10-09 | 2022-12-06 |
 | [How Many More](https://open.spotify.com/track/5zpqkOpg31ksUdhuqJ9CQU) | [Courtney Pine](https://open.spotify.com/artist/2OfIB3yNJjX3AElLJnz8am) | [Black Notes from the Deep](https://open.spotify.com/album/38TrCRGLXPUSCMWCbC9Lym) | 6:27 | 2020-10-09 | 2022-02-18 |

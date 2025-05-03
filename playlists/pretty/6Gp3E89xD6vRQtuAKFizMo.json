@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44161,
+  "num_followers": 44158,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaJL4x72g2HDidCyUIvZb5ivjU2NI3",
+  "snapshot_id": "AAAaJtX0ZqcfjOZDuyxsSpxh63po70Ht",
   "tracks": [
+    {
+      "added_at": "2025-05-02 14:54:21",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/58WkOT84TCYtWAjGO2l2K9"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 156595,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/46pGbxr3Z8tIT5QEvHJFDb"
+    },
+    {
+      "added_at": "2025-05-02 14:54:10",
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/0fMj0lFukjqYANNDoxvPO2"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Gladez",
+          "url": "https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM"
+        }
+      ],
+      "duration_ms": 144254,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/72mLdgdlAxwvz4og7IbygL"
+    },
     {
       "added_at": "2025-04-26 19:05:55",
       "album": {

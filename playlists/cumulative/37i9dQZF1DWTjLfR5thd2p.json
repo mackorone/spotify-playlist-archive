@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 120125,
       "name": "A Little Journey",
       "url": "https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 286250,
       "name": "Beneath Your Smile",
       "url": "https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 164000,
       "name": "Can\u00b4t Help Smiling",
       "url": "https://open.spotify.com/track/2iVPty0FBstGSURghngIgo"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 160790,
       "name": "Cloud Postcards",
       "url": "https://open.spotify.com/track/0auem6mJ0CQFwX2Ycvd9Jd"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 187105,
       "name": "Contemporain",
       "url": "https://open.spotify.com/track/4WkE0CevaR93XEmPokzQTp"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 126125,
       "name": "Dawn Breaks While Your Perfume Lingers",
       "url": "https://open.spotify.com/track/3Mmjmabj0WsGMNl4Yowf4U"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 249624,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 204874,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 135232,
       "name": "Evening Inn",
       "url": "https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 154374,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
@@ -2072,6 +2072,24 @@
       "duration_ms": 160000,
       "name": "Fleurs de cerisier",
       "url": "https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf"
+    },
+    {
+      "album": {
+        "name": "Floating down the river",
+        "url": "https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133300,
+      "name": "Floating down the river",
+      "url": "https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi"
     },
     {
       "album": {
@@ -2327,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Go South",
+        "url": "https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Go South",
+      "url": "https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N"
+    },
+    {
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 212911,
       "name": "Habito",
       "url": "https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk"
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 143500,
       "name": "Hope",
       "url": "https://open.spotify.com/track/30bZOzN1pRTpZzHiyHqozh"
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 151542,
       "name": "Improbability Solitaire",
       "url": "https://open.spotify.com/track/6v7O54WyQiQVj8kWLHFcu4"
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 154291,
       "name": "Just a Thought",
       "url": "https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG"
@@ -3076,7 +3112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 184579,
       "name": "La creacion",
       "url": "https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi"
@@ -3166,7 +3202,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 208047,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/4mPxFBPVeyxzlRiujVXQsW"
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 157000,
       "name": "Les Arbres Parlent",
       "url": "https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ"
@@ -3346,7 +3382,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
@@ -3425,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U"
+      },
+      "artists": [
+        {
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134421,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN"
+    },
+    {
+      "album": {
         "name": "Lost in Trees",
         "url": "https://open.spotify.com/album/7yy0RGH5aj74t0EYBeLZHE"
       },
@@ -3472,7 +3526,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 126127,
       "name": "Lumina",
       "url": "https://open.spotify.com/track/7j7h7BivqAe8X5SvoiJvpp"
@@ -3764,7 +3818,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 130804,
       "name": "Min Melodi",
       "url": "https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr"
@@ -3890,7 +3944,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 146777,
       "name": "My Random Heart",
       "url": "https://open.spotify.com/track/2W2fS1W731q3EomZSZEsnI"
@@ -3908,7 +3962,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 180114,
       "name": "M\u00e9canique",
       "url": "https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV"
@@ -4070,7 +4124,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 248000,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB"
@@ -4744,7 +4798,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
@@ -5234,7 +5288,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 127820,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P"
@@ -5378,7 +5432,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 131500,
       "name": "Seuls ensemble",
       "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 126857,
       "name": "Sioux",
       "url": "https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor"
@@ -5558,7 +5612,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 169282,
       "name": "Small windows",
       "url": "https://open.spotify.com/track/54PMgKkErM6O1QUgV3Nk3Q"
@@ -5594,7 +5648,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
@@ -5738,7 +5792,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 150733,
       "name": "Sono innamorato",
       "url": "https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB"
@@ -5864,7 +5918,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 136124,
       "name": "Still",
       "url": "https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj"
@@ -6052,7 +6106,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 163507,
       "name": "Swan Dip",
       "url": "https://open.spotify.com/track/3BreWDRhcZRI9stPke1ydd"
@@ -6088,7 +6142,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 189250,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
@@ -6142,7 +6196,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 120935,
       "name": "Tales of an Oak",
       "url": "https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw"
@@ -6628,7 +6682,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 172000,
       "name": "Tout \u00e0 Fait",
       "url": "https://open.spotify.com/track/7uSZf8A6fYf1MVctQ52cX7"
@@ -6646,7 +6700,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 182949,
       "name": "Tout, sauf mon ombre",
       "url": "https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i"
@@ -6754,7 +6808,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 151750,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/4lYecNh8R7ephdgqMlAs7t"
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 159624,
       "name": "T\u00e5lamod",
       "url": "https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB"
@@ -6826,7 +6880,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 154000,
       "name": "Undisturbed",
       "url": "https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR"
@@ -7078,7 +7132,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 157500,
       "name": "When We Dance",
       "url": "https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv"
@@ -7114,7 +7168,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 187347,
       "name": "Where Stars Are Born",
       "url": "https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4"
@@ -7276,7 +7330,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 150500,
       "name": "With Dreams In Mind",
       "url": "https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy"
@@ -7384,7 +7438,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 147124,
       "name": "You",
       "url": "https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW"

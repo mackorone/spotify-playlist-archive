@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4WYpdgoIcn6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4WYpdgoIcn6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WYpdgoIcn6)
 
-### [Éxitos para relajarse](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
+### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Disfruta de los mejores éxitos relajantes más recientes.
+> Kick back to the best new and recent chill hits.
 
 952 songs - 2 day 3 hr 46 min
 
@@ -900,7 +900,7 @@
 | [Waving Through A Window \- from Dear Evan Hansen](https://open.spotify.com/track/2GlsXuQV0YOOwPy3XKFIS9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Waving Through A Window \(from Dear Evan Hansen\)](https://open.spotify.com/album/6BabrVf6FzOZVIZsvpZasb) | 3:55 | 2019-05-27 | 2019-10-19 |
 | [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-11-08 | 2019-11-09 |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2021-03-08 | 2021-05-22 |
-| [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 |  |
+| [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 | 2025-05-03 |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-05 |  |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-07-07 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/7sE61E9ucuXEomowCaOHlG) | [Henrik Heaven](https://open.spotify.com/artist/5LRY0RhsIERhsESWfV4BGB) | [Weekend](https://open.spotify.com/album/2Mjc8AVfFPNuCbLbeqgC1D) | 3:35 | 2019-06-21 | 2019-06-24 |
@@ -933,7 +933,7 @@
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-04-30 |  |
 | [Woke up in Bangkok](https://open.spotify.com/track/3x63A5hq4vldKE8hWIi1tE) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Martin Gallop](https://open.spotify.com/artist/46WkN3HXolXQ0uLeZZ8Xym) | [Woke up in Bangkok](https://open.spotify.com/album/3wTF7jBER1wfpq8C6SZmgh) | 2:49 | 2019-06-22 | 2019-07-20 |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2020-05-22 | 2021-01-15 |
-| [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-22 | 2022-11-30 |
+| [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-22 |  |
 | [Wrong Direction](https://open.spotify.com/track/7GCVboEDzfL3NKp1NrAgHR) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Wrong Direction](https://open.spotify.com/album/2gjtjSAbxvoeQs6zYHj1HJ) | 4:08 | 2020-01-03 | 2021-05-18 |
 | [Wrong Kind Of People](https://open.spotify.com/track/60CKMDImvHjEpPsQ8qKle5) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Wrong Kind of People](https://open.spotify.com/album/07xkQ5wLIcHVwkdjefCYz0) | 3:13 | 2019-05-25\* | 2020-02-28 |
 | [Wyb?](https://open.spotify.com/track/0L4SbzhWs2MjHvKqLLT86C) | [Parker Polhill](https://open.spotify.com/artist/2kuuTkYvLOxFdEr9cjMUvh), [Abby Rhodes](https://open.spotify.com/artist/7h83wLVlY1FdXfBJh00xYw) | [Wyb?](https://open.spotify.com/album/6CYajViOSYipgCJ9MvZym0) | 3:27 | 2019-06-21 | 2019-10-26 |

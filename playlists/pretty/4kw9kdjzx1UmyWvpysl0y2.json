@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUCEt3R4RG3V6NrbRjhgsStAT5FMIs",
+  "snapshot_id": "AAAUClMharWc4nqO7pFjfci+iLow1nW8",
   "tracks": [
+    {
+      "added_at": "2025-05-02 14:23:05",
+      "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+    },
     {
       "added_at": "2025-05-01 14:32:52",
       "album": {
@@ -1147,42 +1163,6 @@
       "duration_ms": 212500,
       "name": "Something To Hold Onto",
       "url": "https://open.spotify.com/track/2dLalFrekRyApNXvMmgjn5"
-    },
-    {
-      "added_at": "2025-02-10 16:01:14",
-      "album": {
-        "name": "Show Me!",
-        "url": "https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi"
-      },
-      "artists": [
-        {
-          "name": "Franky Nuts",
-          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
-        },
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Show Me!",
-      "url": "https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ"
-    },
-    {
-      "added_at": "2025-02-07 15:31:54",
-      "album": {
-        "name": "Feel Ur Luv",
-        "url": "https://open.spotify.com/album/6IM2n8xlbXMefM1fXRxI40"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Feel Ur Luv",
-      "url": "https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

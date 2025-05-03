@@ -1,13 +1,45 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Foxwarren",
-  "num_followers": 167715,
+  "num_followers": 167707,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBP8gAAAAAAotdHO4VYZ5uGQZ4fqm13P",
+  "snapshot_id": "aBRDZAAAAABwNJwRyiGbf8KV8Z9Ne3gs",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Grieving",
+        "url": "https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
+    },
     {
       "added_at": "2025-05-01 22:58:08",
       "album": {
@@ -35,6 +67,22 @@
     {
       "added_at": "2025-05-01 22:58:08",
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "duration_ms": 265957,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
+    },
+    {
+      "added_at": "2025-05-01 22:58:08",
+      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -49,20 +97,52 @@
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
     },
     {
-      "added_at": "2025-05-01 22:58:08",
+      "added_at": "2025-05-02 04:00:36",
       "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
+        "name": "baja bird",
+        "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
       },
       "artists": [
         {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 265957,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
+      "duration_ms": 228681,
+      "name": "baja bird",
+      "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Final Days",
+      "url": "https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Diminishing Returns",
+        "url": "https://open.spotify.com/album/1gyhsgpxkxYsDDqEannppZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 181494,
+      "name": "Diminishing Returns",
+      "url": "https://open.spotify.com/track/53AeNSNPhCkxQpbNmUm4OK"
     },
     {
       "added_at": "2025-05-01 22:58:08",
@@ -81,6 +161,38 @@
       "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "The Diary of Living",
+        "url": "https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 205250,
+      "name": "The Hopefuls",
+      "url": "https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "wraith",
+        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 245892,
+      "name": "summer in december",
+      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
+    },
+    {
       "added_at": "2025-05-01 22:58:08",
       "album": {
         "name": "SABLE, fABLE",
@@ -95,6 +207,22 @@
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "The Roaming",
+        "url": "https://open.spotify.com/album/2rgwNdmLjEzQMM2byHpVI7"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "duration_ms": 267998,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/4uujou10jmO0iREa0ZrfJ4"
     },
     {
       "added_at": "2025-05-01 22:58:08",
@@ -1535,138 +1663,6 @@
       "duration_ms": 161098,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/7GukStaF1Xjt2p31kgHQyC"
-      },
-      "artists": [
-        {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
-        },
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 179749,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/2CnxDWao2XOYRXnYDIGIv5"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "postcard season",
-        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 172300,
-      "name": "sunflower \u201824",
-      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Only Time (demo)",
-        "url": "https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 274921,
-      "name": "Only Time (demo)",
-      "url": "https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "superstar",
-        "url": "https://open.spotify.com/album/6cHhySy6Nq01honrFzsHv1"
-      },
-      "artists": [
-        {
-          "name": "harper",
-          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
-        }
-      ],
-      "duration_ms": 206196,
-      "name": "superstar",
-      "url": "https://open.spotify.com/track/0bKgXQWKsqrZB0ONvrEHyJ"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Aliocha Schneider (Deluxe)",
-        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La Chambre",
-      "url": "https://open.spotify.com/track/7Km4PvGzWrjEE1p5etb2h7"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "All Means, No End",
-        "url": "https://open.spotify.com/album/0EMbsSxadV2BHa8h5A0OMp"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 269047,
-      "name": "Season of Charade",
-      "url": "https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Clementine",
-        "url": "https://open.spotify.com/album/7vX8fPQqfUKAb0SB9h8cem"
-      },
-      "artists": [
-        {
-          "name": "Nate Daviau",
-          "url": "https://open.spotify.com/artist/01DTIYwgHCJnApYjXJUSFU"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/0zk0ZlEu4ByhYUnlRZOcF3"
     }
   ],
   "unique_name": "Folk & Friends",

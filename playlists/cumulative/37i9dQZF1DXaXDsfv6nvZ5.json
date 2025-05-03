@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Eric Ben\u00e9t",
+  "description": "The soulful tunes to ease you into your day. Cover: Johnny Venus",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -7001,6 +7001,28 @@
     },
     {
       "album": {
+        "name": "HunnyMoon Mountain",
+        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253818,
+      "name": "Little Mistakes - feat. Divine Lightbody",
+      "url": "https://open.spotify.com/track/6RLRgq9Na1imD2rmOSqsdZ"
+    },
+    {
+      "album": {
         "name": "The Mind",
         "url": "https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8"
       },
@@ -9470,7 +9492,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 239000,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/4TKQupawBTN4tbwZpGUJlh"

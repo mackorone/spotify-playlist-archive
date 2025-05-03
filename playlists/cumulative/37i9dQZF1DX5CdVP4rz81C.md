@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Lyn Lapid
 
-1,766 songs - 3 day 21 hr 19 min
+1,767 songs - 3 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-10-18 |
 | [Hercules](https://open.spotify.com/track/4ryBIxbxQa30yxSmE8R6gF) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Hercules](https://open.spotify.com/album/2D79Ri1kZUCadrqVBcnqF9) | 3:28 | 2021-02-12 | 2021-05-08 |
 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 | 2023-09-15 | 2023-10-07 |
-| [here, alone, again](https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [love & limerence](https://open.spotify.com/album/7B4gJ3EYgyZw98HCvcUZRA) | 4:23 | 2024-06-21 |  |
+| [here, alone, again](https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [love & limerence](https://open.spotify.com/album/7B4gJ3EYgyZw98HCvcUZRA) | 4:23 | 2024-06-21 | 2025-05-03 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-24 | 2025-02-08 |
 | [hey bro](https://open.spotify.com/track/18bRHDBUWfVAxCObZM1rri) | [VEN](https://open.spotify.com/artist/2xPLp9tmXTHLlyiIl5KFJ2) | [hey bro](https://open.spotify.com/album/7eFuKU7OiPFfjgiv9UDJiq) | 2:22 | 2021-02-26 | 2021-03-14 |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2021-12-11 | 2022-01-15 |
@@ -1407,6 +1407,7 @@
 | [Someone You Once Had](https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Someone You Once Had](https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67) | 3:12 | 2023-04-14 | 2023-07-03 |
 | [something bout april](https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [something bout april](https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8) | 2:54 | 2024-07-12 |  |
 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 | 2022-06-24 | 2022-11-05 |
+| [Something Sweet](https://open.spotify.com/track/2PEGdMDXT6J033J8nURr6j) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Something Sweet](https://open.spotify.com/album/5wsWBTOvnLAw4UHTZffoi8) | 3:37 | 2025-05-02 |  |
 | [Something To Do](https://open.spotify.com/track/1kWboh3AQlWKzSGSd6Jaep) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once](https://open.spotify.com/album/4wPLBGPd0RsGB1nYuRsss8) | 3:13 | 2022-11-11 | 2022-12-24 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-10 | 2024-04-13 |
 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 | 2022-05-06 | 2022-08-20 |

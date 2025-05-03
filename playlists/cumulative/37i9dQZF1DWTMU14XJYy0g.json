@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "L\u00edneas Generales",
+        "url": "https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198885,
+      "name": "Cerca Lejos",
+      "url": "https://open.spotify.com/track/01d2IW5H2F5tjLIKQO0Ncf"
+    },
+    {
+      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },

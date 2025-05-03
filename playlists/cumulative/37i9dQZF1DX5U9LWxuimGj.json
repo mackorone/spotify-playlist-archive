@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Es En M\u00e9xico",
+        "url": "https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "As\u00ed Es En M\u00e9xico",
+      "url": "https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC"
+    },
+    {
+      "album": {
         "name": "Bartender I'll Take Two",
         "url": "https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57"
       },
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 186464,
       "name": "Left My Heart In Texas",
       "url": "https://open.spotify.com/track/6v8cRGwMABd9EXkti1TLhU"

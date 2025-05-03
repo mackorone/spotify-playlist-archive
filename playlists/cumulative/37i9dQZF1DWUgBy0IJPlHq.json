@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Turnpike Troubadours",
+  "description": "A new shade of Country. Cover: Sam Barber",
   "name": "Indigo",
   "tracks": [
     {
@@ -722,6 +722,24 @@
       "duration_ms": 195346,
       "name": "American Gothic",
       "url": "https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL"
+    },
+    {
+      "album": {
+        "name": "American Trail",
+        "url": "https://open.spotify.com/album/5dSsYiQTgjXPRhF4D0IvFX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255712,
+      "name": "American Trail",
+      "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 254213,
       "name": "Dark Black Coal",
       "url": "https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR"
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 202920,
       "name": "Give It Some Time",
       "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
@@ -10286,7 +10304,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 231837,
       "name": "This Life",
       "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"

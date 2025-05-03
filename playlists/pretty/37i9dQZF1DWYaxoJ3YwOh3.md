@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,272 likes - 97 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,314 likes - 97 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 96 | [Morning Clarity](https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Morning Clarity](https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA) | 3:02 |
 | 97 | [Sorrow of the Wind](https://open.spotify.com/track/5pLqju9ZMDIGRqUuroG1He) | [Eduardo Tarilonte](https://open.spotify.com/artist/49fzCZLTuqOWwAGVcljy9p) | [Sorrow of the Wind](https://open.spotify.com/album/5t2XE6BxZyEHPLjDVgccFq) | 3:05 |
 
-Snapshot ID: `AAAAAJzOvZJBg9kbZX0q46XTUhPRSFAL`
+Snapshot ID: `Z9rb7QAAAABgMeaRoUZZvJkOc08S2pma`

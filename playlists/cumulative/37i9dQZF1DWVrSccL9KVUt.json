@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Lauren Daigle",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Jamie McDonald",
   "name": "Women of Faith",
   "tracks": [
     {
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Abide With Me",
+        "url": "https://open.spotify.com/album/0StGW8DC1xuHr9RQzk7iFZ"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242030,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/1S6ZD6eCmkyX3mQObOcmBY"
+    },
+    {
+      "album": {
         "name": "Alabaster Heart (Live)",
         "url": "https://open.spotify.com/album/5kMHXaEbgek2K2KXUg8c4Y"
       },
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 246000,
       "name": "All Creatures of Our God and King",
       "url": "https://open.spotify.com/track/0PWNQoFdjTZYFfeEonjEGf"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 271081,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0zHAcwJU7C1ewCByIhdmP0"
@@ -470,6 +488,28 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
+    },
+    {
+      "album": {
+        "name": "Believe In Jesus",
+        "url": "https://open.spotify.com/album/5alY3owcfE9O76JLK8tXZ9"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/1JzASUWJ9y5iyEWnhraQyH"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178816,
+      "name": "Believe In Jesus",
+      "url": "https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N"
     },
     {
       "album": {
@@ -748,10 +788,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 301130,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come (Radio Version)",
+        "url": "https://open.spotify.com/album/7GOKgIxyfzPwmUyF1Mxjec"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252567,
+      "name": "Come Jesus Come - Radio Version",
+      "url": "https://open.spotify.com/track/5SUQktBU6pgsvPSgG3uiLA"
     },
     {
       "album": {
@@ -1298,7 +1356,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 208603,
       "name": "Go",
       "url": "https://open.spotify.com/track/30GmfciNhTklAJtIk5GamT"
@@ -1410,6 +1468,24 @@
       "duration_ms": 161981,
       "name": "GPS",
       "url": "https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6D2Fz8wu0a99ogvYbCbK0E"
+      },
+      "artists": [
+        {
+          "name": "Megan Danielle",
+          "url": "https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0LrV4ZhWHjISg05aRPIpH4"
     },
     {
       "album": {
@@ -1651,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Honest Conversation",
+        "url": "https://open.spotify.com/album/1YDRExeN337XGyGfColhjx"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235377,
+      "name": "Honest Conversation",
+      "url": "https://open.spotify.com/track/3BntkfnX7RdZTJSc6E04mC"
+    },
+    {
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -1875,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "I Won\u2019t Lose Heart",
+        "url": "https://open.spotify.com/album/3KlWAcAvrsF6yyLfOUBG3Y"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191348,
+      "name": "I Won\u2019t Lose Heart",
+      "url": "https://open.spotify.com/track/3eoIVgXqN3rjKIOX8oYlg3"
+    },
+    {
+      "album": {
         "name": "I'll Be Okay",
         "url": "https://open.spotify.com/album/3wdOejNCa7uZq7ttTvz3YW"
       },
@@ -1980,6 +2092,24 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx"
+    },
+    {
+      "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/0dt9ly05oN0neEbWnmSara"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/2qFGqRgg3ugOmndpgDfiTp"
     },
     {
       "album": {
@@ -2635,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Mysterious Ways",
+        "url": "https://open.spotify.com/album/5M36isNdU3OOFG4OZe2LXq"
+      },
+      "artists": [
+        {
+          "name": "Rachel Purcell",
+          "url": "https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201886,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/2Rjfbwh11Ert2CRQ2syZgx"
+    },
+    {
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/6if6baS5jKWHQs7OmmmrxH"
       },
@@ -3058,7 +3206,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 198202,
       "name": "Pulchritude 2",
       "url": "https://open.spotify.com/track/0NhvLcRYkE47NsqWrMJS4K"
@@ -3348,6 +3496,24 @@
       "duration_ms": 296561,
       "name": "Send Rescue",
       "url": "https://open.spotify.com/track/62kZfFRexTUqMTSBBdBqeS"
+    },
+    {
+      "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
     },
     {
       "album": {
@@ -3670,6 +3836,24 @@
       "duration_ms": 219378,
       "name": "Surrounds Me - Live",
       "url": "https://open.spotify.com/track/6iN9sMVuodvL5sihElq083"
+    },
+    {
+      "album": {
+        "name": "In The Mighty Name (Live)",
+        "url": "https://open.spotify.com/album/60AC9VfX5Lm555MjtmVKXo"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343458,
+      "name": "Table Of The Lord - Live",
+      "url": "https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB"
     },
     {
       "album": {
@@ -4099,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "We've Weathered Storms Before",
+        "url": "https://open.spotify.com/album/3TTbtmbbHbZxZDL25LLNNY"
+      },
+      "artists": [
+        {
+          "name": "Rambo Women",
+          "url": "https://open.spotify.com/artist/6SIYyOVTCKskcmTyYKzLEu"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193982,
+      "name": "We've Weathered Storms Before",
+      "url": "https://open.spotify.com/track/5C1NIgcmh7Ve5DTzuUrK47"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/0OP6EXNM6ffaHVVPw8TEok"
       },
@@ -4110,7 +4312,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 233660,
       "name": "What Does It Look Like",
       "url": "https://open.spotify.com/track/4yTwZMQRCNSJGnHA1E0YYU"
@@ -4254,7 +4456,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 205349,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26"
@@ -4352,6 +4554,24 @@
       "duration_ms": 128910,
       "name": "WILD & FREE",
       "url": "https://open.spotify.com/track/2oiFHvzXuyYZpnIVQ8kWke"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194251,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
     },
     {
       "album": {
@@ -4478,7 +4698,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 425250,
       "name": "You Can - Live",
       "url": "https://open.spotify.com/track/15EwhHEpjlL5HfUdp44LFi"

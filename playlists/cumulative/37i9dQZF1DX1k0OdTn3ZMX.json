@@ -2345,6 +2345,28 @@
     },
     {
       "album": {
+        "name": "Malware",
+        "url": "https://open.spotify.com/album/4QHXghOu5a2aSmGJAwNJCZ"
+      },
+      "artists": [
+        {
+          "name": "When In Doubt",
+          "url": "https://open.spotify.com/artist/6eZJRqL2OlpvruaVCMFaP1"
+        },
+        {
+          "name": "Cyberdrip$",
+          "url": "https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Malware",
+      "url": "https://open.spotify.com/track/1lllDI2VIFmRhqbUERI0vO"
+    },
+    {
+      "album": {
         "name": "Mascot",
         "url": "https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO"
       },
@@ -2468,6 +2490,24 @@
       "duration_ms": 161552,
       "name": "MY DISASTER",
       "url": "https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ"
+    },
+    {
+      "album": {
+        "name": "Neo Paris",
+        "url": "https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Neo Paris",
+      "url": "https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B"
     },
     {
       "album": {
@@ -4412,6 +4452,24 @@
       "duration_ms": 227330,
       "name": "VIOLENT PRINCIPLES",
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
+    },
+    {
+      "album": {
+        "name": "VIPERS",
+        "url": "https://open.spotify.com/album/3GzoZJgWlgD3JBOWSlnD1w"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "VIPERS",
+      "url": "https://open.spotify.com/track/7hq9JjwYuki5FiARRznk0J"
     },
     {
       "album": {

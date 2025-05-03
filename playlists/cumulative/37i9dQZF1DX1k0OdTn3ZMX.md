@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Tetrarch.
 
-255 songs - 14 hr 23 min
+258 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 | 2024-11-08 |  |
 | [LV Vest](https://open.spotify.com/track/78zLP2XihgPOhIiiItDdjE) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [LV Vest](https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ) | 4:08 | 2024-09-27 | 2024-10-19 |
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 | 2024-11-16 |
+| [Malware](https://open.spotify.com/track/1lllDI2VIFmRhqbUERI0vO) | [When In Doubt](https://open.spotify.com/artist/6eZJRqL2OlpvruaVCMFaP1), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [Malware](https://open.spotify.com/album/4QHXghOu5a2aSmGJAwNJCZ) | 3:37 | 2025-05-02 |  |
 | [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 | 2025-03-07 |  |
 | [Medicine](https://open.spotify.com/track/08OARGejNP5FQLXfJjPIUu) | [Dirty Machine](https://open.spotify.com/artist/1Y21Adie8KSr85kRwGPfrA) | [Medicine](https://open.spotify.com/album/0cyHewm7uwzseWKHVaaixQ) | 3:07 | 2024-10-11 | 2024-10-19 |
 | [Merciless](https://open.spotify.com/track/3JVa8Bai4qTtm6vkip0IFW) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Merciless](https://open.spotify.com/album/4BMssodRLk2w2YFGGxxGmv) | 3:18 | 2025-01-24 |  |
@@ -139,6 +140,7 @@
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-03-29 | 2024-09-07 |
 | [MOTION](https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [MOTION](https://open.spotify.com/album/2uG19GTf3emUepH0nfW8nI) | 3:03 | 2024-11-29 | 2025-01-25 |
 | [MY DISASTER](https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [MY DISASTER](https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w) | 2:41 | 2024-07-26 | 2024-09-14 |
+| [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 | 2025-05-02 |  |
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-14 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 | 2024-05-25 |
 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 | 2024-08-16 |  |
@@ -241,6 +243,7 @@
 | [Veins](https://open.spotify.com/track/1BWQNAch1SIeTWz0RLvc1O) | [Splutter](https://open.spotify.com/artist/7gLhHWy22zWmhRSbmDuPsG) | [Veins](https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1) | 3:15 | 2024-03-29 | 2024-05-03 |
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-10-27 | 2024-02-03 |
 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 | 2023-09-13 | 2024-02-10 |
+| [VIPERS](https://open.spotify.com/track/7hq9JjwYuki5FiARRznk0J) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [VIPERS](https://open.spotify.com/album/3GzoZJgWlgD3JBOWSlnD1w) | 3:15 | 2025-05-02 |  |
 | [Volatile](https://open.spotify.com/track/3IW7iLL6LHVQayWxTnl24R) | [Deadly Apples](https://open.spotify.com/artist/78l6ObjQIOw8H56CFAHbQn), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C), [Danny Lohner](https://open.spotify.com/artist/1rXhjibRAqFFGSUCYeQCSW) | [Volatile](https://open.spotify.com/album/7DjBYoLrsUibyqCDKC2CEs) | 2:56 | 2025-02-07 | 2025-04-05 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [Waiting](https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Waiting](https://open.spotify.com/album/4COHGQrXU0drwFzAe108RV) | 3:37 | 2023-11-10 | 2023-12-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Sammy Arriaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,736 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,767 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 2 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
 | 3 | [Feathered Indians](https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Feathered Indians](https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet) | 2:51 |
 | 4 | [LOW ROAD \- SPANISH VERSION](https://open.spotify.com/track/0Gk6S8LHNwCj9mUOZVryYD) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALTERNATE VERSIONS](https://open.spotify.com/album/0GnbxvjgEGZ8cbWkmjHIbE) | 2:57 |
-| 5 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
-| 6 | [I Got It](https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [I Got It](https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm) | 3:08 |
-| 7 | [Leaving With My Heart](https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Leaving With My Heart](https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z) | 2:58 |
-| 8 | [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 |
-| 9 | [I Don't \- Spanglish Version](https://open.spotify.com/track/5mHXNiKL69t8qxXHejPzP6) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl \- EP](https://open.spotify.com/album/4MbWWjYTBk58xKGTgPeT4m) | 3:51 |
-| 10 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 11 | [Left My Heart In Texas](https://open.spotify.com/track/6v8cRGwMABd9EXkti1TLhU) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Left My Heart In Texas](https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl) | 3:06 |
+| 5 | [Así Es En México](https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Así Es En México](https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ) | 3:12 |
+| 6 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
+| 7 | [I Got It](https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [I Got It](https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm) | 3:08 |
+| 8 | [Leaving With My Heart](https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Leaving With My Heart](https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z) | 2:58 |
+| 9 | [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 |
+| 10 | [I Don't \- Spanglish Version](https://open.spotify.com/track/5mHXNiKL69t8qxXHejPzP6) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl \- EP](https://open.spotify.com/album/4MbWWjYTBk58xKGTgPeT4m) | 3:51 |
+| 11 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 12 | [Digas Lo Que Digas](https://open.spotify.com/track/4fU9fshN8bkL50700ci5tv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Digas Lo Que Digas](https://open.spotify.com/album/0B6yvJLElPicI1x4iPGKVK) | 3:46 |
 | 13 | [Qué Ganas](https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:37 |
 | 14 | [Brothers](https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Brothers](https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM) | 3:24 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 70 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 71 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 
-Snapshot ID: `aAsI9gAAAADQRMz+Bz8I1VV5kEumhw0m`
+Snapshot ID: `aBRDZAAAAACBvLSWjP88FZ+gz+FONHQy`

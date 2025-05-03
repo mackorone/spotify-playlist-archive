@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/14wBrRu7gwBuN5haV2HKmA"
+      },
+      "artists": [
+        {
+          "name": "TRENDZ",
+          "url": "https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/33DkA0THiSLDZTRMlk3ByB"
+    },
+    {
+      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/4yqMcO0ifNRrGi7lBWn6a4"
       },
@@ -1322,6 +1340,24 @@
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "album": {
+        "name": "Cloud_Six (Essential)",
+        "url": "https://open.spotify.com/album/1HlQYDo4FI63sc6SCj0myu"
+      },
+      "artists": [
+        {
+          "name": "KJRGL",
+          "url": "https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Cloud_Six",
+      "url": "https://open.spotify.com/track/0DbDZcemoeTvVEOaQh6U75"
     },
     {
       "album": {
@@ -4427,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177514,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
+    },
+    {
+      "album": {
         "name": "LOVE RACE",
         "url": "https://open.spotify.com/album/1S3hm1VJcpSb6CkDtw4mTA"
       },
@@ -6306,7 +6360,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 150066,
       "name": "Push Down",
       "url": "https://open.spotify.com/track/58b0LN1yVrCmtoaoIy9jx1"
@@ -7377,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "Stop The Rain (TABLO X RM)",
+        "url": "https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI"
+      },
+      "artists": [
+        {
+          "name": "TABLO",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190356,
+      "name": "Stop The Rain (TABLO X RM)",
+      "url": "https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
       },
@@ -8332,7 +8408,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 167570,
       "name": "UV",
       "url": "https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk"

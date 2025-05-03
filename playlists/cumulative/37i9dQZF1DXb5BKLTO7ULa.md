@@ -4,7 +4,7 @@
 
 > Nieuwe muziek van Yves Berendse, Idaly & Miloolaathetlukken, Damiano David en meer...
 
-10,823 songs - 23 day 13 hr 41 min
+10,825 songs - 23 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8514,6 +8514,7 @@
 | [speed up](https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [speed up](https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG) | 2:29 | 2023-10-26 | 2023-11-03 |
 | [Speelt Verliefd](https://open.spotify.com/track/2T0jRQ5ZZSwW9oiWodY3H6) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Speelt Verliefd](https://open.spotify.com/album/4mnmOxi85GGorUvaIKf6EE) | 3:02 | 2024-11-28 | 2024-12-06 |
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-03-30 | 2023-04-07 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 | 2024-09-05 | 2024-09-13 |
 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 | 2023-09-15 |
 | [Sphinx](https://open.spotify.com/track/4ZzyoMlNw21ENYnxmnuULx) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/2AaSud69BePL8F8jKnA4Zz) | 7:37 | 2024-03-07 | 2024-03-15 |
@@ -9108,6 +9109,7 @@
 | [The Architect](https://open.spotify.com/track/2quMv0OKzEJpZDojvhy10E) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [The Architect](https://open.spotify.com/album/4ZqjX8f1q2wa5Q7Do7fYBb) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-14 | 2024-03-22 |
 | [The Artful Dodger](https://open.spotify.com/track/6EKVOr5GhKLFF5uLK1RrFA) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [The Artful Dodger](https://open.spotify.com/album/3lVg2PpFFZxUYhi9YZV5NN) | 2:08 | 2025-03-20 | 2025-03-28 |
+| [THE ATL EXPERIENCE \- from the Short Film "Red Clay"](https://open.spotify.com/track/5159OfkK8qNGl60UUEbbIr) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [THE ATL EXPERIENCE \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4qfDfLD8gFUtuJtFyCJskq) | 4:27 | 2025-05-01 |  |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-16 | 2024-05-24 |
 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 | 2024-08-29 | 2024-09-06 |
 | [The Balcony](https://open.spotify.com/track/3kLbDkBYtfYrSGjFqxI6Rq) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [The Balcony](https://open.spotify.com/album/3zzgXZj7odE6uQVdT08456) | 3:27 | 2025-04-03 | 2025-04-11 |

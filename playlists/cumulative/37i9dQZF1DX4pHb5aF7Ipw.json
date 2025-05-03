@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Billo",
+        "url": "https://open.spotify.com/album/08VgOPrVzaRbin1SEoymq9"
+      },
+      "artists": [
+        {
+          "name": "Sharn",
+          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139263,
+      "name": "Billo",
+      "url": "https://open.spotify.com/track/0vXyRaUmHmRtJexqGWwi2v"
+    },
+    {
+      "album": {
         "name": "DESI TRILL Presents...Brown is Everywhere",
         "url": "https://open.spotify.com/album/5A0U2TgDKVUifuVckuQuFN"
       },
@@ -3733,6 +3751,28 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0uGjudLAmJJxNagSSRpE2x"
+      },
+      "artists": [
+        {
+          "name": "Harpreet Sran",
+          "url": "https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1eI1KtqC7hO3UB5CilnXGA"
+    },
+    {
+      "album": {
         "name": "G 63",
         "url": "https://open.spotify.com/album/7MvOnpoBtLSHLMVbzg6DXe"
       },
@@ -4630,7 +4670,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 150000,
       "name": "Hor Ni",
       "url": "https://open.spotify.com/track/3nAEYCaiQu0P1uwzdbLgoN"
@@ -9084,7 +9124,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 141290,
       "name": "SIMULATION",
       "url": "https://open.spotify.com/track/0pUpdTRS2VhanCMOvwTsvh"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Il goat è in cover della playlist urban più grande in Italia 🐐🔥
+> Tony Boy in cover della playlist urban più grande in Italia 🐐🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,219 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,497 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 45 | [GAME OVER](https://open.spotify.com/track/1slby4wvXGz2xvJudzrqVJ) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx), [Gumma Vybz](https://open.spotify.com/artist/3XOuRvla4WvUpc7jpO5b9P) | [GAME OVER](https://open.spotify.com/album/2I4BCpXcZs3Uelkutq4ya3) | 2:00 |
 | 46 | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/track/6SSA409P7m2TMND2saQETo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/album/6Kgys8Kb1UfLjH9l3nGjDg) | 2:21 |
 | 47 | [Players Club '25](https://open.spotify.com/track/3GArduqQxYZ6ct9nmjYySH) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Players Club '25](https://open.spotify.com/album/2XQ1oe2KuHmn77w5l9WEKr) | 4:49 |
-| 48 | [MEDITERRANEO](https://open.spotify.com/track/1Sa8J8xhhF2n6hLLYogE4H) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:01 |
-| 49 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 |
-| 50 | [Energie](https://open.spotify.com/track/1ryQilIYjZKNQGERDslaRB) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Energie](https://open.spotify.com/album/5H7G8FSkvW0eFoKoSlklF8) | 3:05 |
-| 51 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 |
-| 52 | [TROPPAweed \(feat\. Noyz Narcos\)](https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:45 |
-| 53 | [G Class](https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [G Class](https://open.spotify.com/album/6u19dZ1V8d9lCZgsARSXQY) | 2:28 |
-| 54 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 |
+| 48 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 |
+| 49 | [Energie](https://open.spotify.com/track/1ryQilIYjZKNQGERDslaRB) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Energie](https://open.spotify.com/album/5H7G8FSkvW0eFoKoSlklF8) | 3:05 |
+| 50 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 |
 
-Snapshot ID: `aBPvJgAAAADMWYY4RoTbhaANXJ/eLqza`
+Snapshot ID: `aBTWCQAAAAB5bURxf+muevo/0qJOXINa`

@@ -2449,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "D MENOR",
+        "url": "https://open.spotify.com/album/41kpWLrXoHTJ6ehEVMRA50"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "D MENOR",
+      "url": "https://open.spotify.com/track/2diUzLHpiaYrFwlLK3Jhte"
+    },
+    {
+      "album": {
         "name": "Dale Agachadita",
         "url": "https://open.spotify.com/album/2U9hw9oBgR7lcXofg1t87b"
       },
@@ -6360,7 +6382,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"

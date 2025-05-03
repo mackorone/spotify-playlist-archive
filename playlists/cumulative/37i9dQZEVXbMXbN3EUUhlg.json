@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 216710,
       "name": "A Morte do Autotune",
       "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 167528,
       "name": "Aquele Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
@@ -4972,7 +4972,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 149373,
       "name": "Cacos De Vidro (sample: Esperar pra Ver)",
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
@@ -10602,7 +10602,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 471285,
       "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
       "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
@@ -21017,6 +21017,24 @@
     },
     {
       "album": {
+        "name": "Os Rodeio T\u00e1 Chegando (Pa Pa Pa)",
+        "url": "https://open.spotify.com/album/53xiGjHgAgU47PVps2473h"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104887,
+      "name": "Os Rodeio T\u00e1 Chegando (Pa Pa Pa)",
+      "url": "https://open.spotify.com/track/64glhjITyT7oxYSwtPz4Fw"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -21046,7 +21064,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 128000,
       "name": "OUTRA",
       "url": "https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA"
@@ -21554,7 +21572,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
@@ -22118,7 +22136,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 169634,
       "name": "Pe\u00e7a \u00cdntima",
       "url": "https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt"
@@ -25779,6 +25797,28 @@
     },
     {
       "album": {
+        "name": "Senta e Cala a Boca",
+        "url": "https://open.spotify.com/album/4jVks4nygkGdhyMXI99dRG"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147221,
+      "name": "Senta e Cala a Boca",
+      "url": "https://open.spotify.com/track/2ZrC9CTs01XkbFPtLbpHzl"
+    },
+    {
+      "album": {
         "name": "Senta Pro Bruto",
         "url": "https://open.spotify.com/album/4KyWHPjJZzYfGqM4NbnOyC"
       },
@@ -27462,6 +27502,56 @@
       "duration_ms": 164307,
       "name": "S\u00f3 Vou Namorar",
       "url": "https://open.spotify.com/track/4xEYeY9OSYP7c8dSwlpBFD"
+    },
+    {
+      "album": {
+        "name": "Ta Rico Os Menino Do Gueto",
+        "url": "https://open.spotify.com/album/4YisWbLzD5ZviyVQ3zLSmO"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc guizinho niazi",
+          "url": "https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459692,
+      "name": "Ta Rico Os Menino Do Gueto",
+      "url": "https://open.spotify.com/track/0WFA9Klvxj0rFc9YFe7Zgv"
     },
     {
       "album": {
@@ -29305,6 +29395,24 @@
     },
     {
       "album": {
+        "name": "Sofr\u00eancia no Grau com Diego & Victor Hugo",
+        "url": "https://open.spotify.com/album/4ZczgxUanWgQUq0N8BVwwx"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/4v8MPA001PCxmIiVfxhZPt"
+    },
+    {
+      "album": {
         "name": "Tubar\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
       },
@@ -29316,7 +29424,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"

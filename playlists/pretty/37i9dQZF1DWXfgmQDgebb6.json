@@ -1,6 +1,6 @@
 {
   "description": "  ",
-  "num_followers": 37,
+  "num_followers": 39,
   "original_name": "\ufffd",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2025-04-22 06:32:14",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        },
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7BIQiWbZorPJ02OXKWpyot"
+    },
+    {
+      "added_at": "2025-04-22 06:32:14",
+      "album": {
         "name": "Even When I Smile",
         "url": "https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 163266,
       "name": "oh yeah",
       "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
-    },
-    {
-      "added_at": "2025-04-22 06:32:14",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx"
-      },
-      "artists": [
-        {
-          "name": "WONHO",
-          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
-        },
-        {
-          "name": "YUNHWAY",
-          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/7BIQiWbZorPJ02OXKWpyot"
     },
     {
       "added_at": "2025-04-22 06:32:14",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-04-22 06:32:14",
       "album": {
+        "name": "OH MESS",
+        "url": "https://open.spotify.com/album/2MPImNQGP8bJL62rhcAp3H"
+      },
+      "artists": [
+        {
+          "name": "cott (\ucf67)",
+          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "OH MESS",
+      "url": "https://open.spotify.com/track/2RtjsWYPQg9oJsDFFTOB25"
+    },
+    {
+      "added_at": "2025-04-22 06:32:14",
+      "album": {
         "name": "~",
         "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 244536,
       "name": "BLEACHING (feat. Crush)",
       "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
-    },
-    {
-      "added_at": "2025-04-22 06:32:14",
-      "album": {
-        "name": "OH MESS",
-        "url": "https://open.spotify.com/album/2MPImNQGP8bJL62rhcAp3H"
-      },
-      "artists": [
-        {
-          "name": "cott (\ucf67)",
-          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "OH MESS",
-      "url": "https://open.spotify.com/track/2RtjsWYPQg9oJsDFFTOB25"
     },
     {
       "added_at": "2025-04-22 06:32:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-04-22 06:32:14",
       "album": {
-        "name": "Neap Paradise",
-        "url": "https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N"
-      },
-      "artists": [
-        {
-          "name": "Shin Hae Gyeong",
-          "url": "https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Aspirin Overdose",
-      "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
-    },
-    {
-      "added_at": "2025-04-22 06:32:14",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2025-04-22 06:32:14",
       "album": {
-        "name": "Circulation",
-        "url": "https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by"
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
       },
       "artists": [
         {
-          "name": "Marrakech",
-          "url": "https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Fond",
-      "url": "https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y"
+      "duration_ms": 175448,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn"
+    },
+    {
+      "added_at": "2025-04-22 06:32:14",
+      "album": {
+        "name": "Neap Paradise",
+        "url": "https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N"
+      },
+      "artists": [
+        {
+          "name": "Shin Hae Gyeong",
+          "url": "https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Aspirin Overdose",
+      "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
     }
   ],
   "unique_name": "\ufffd",

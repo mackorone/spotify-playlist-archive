@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Damiano David
 
-1,340 songs - 2 day 20 hr 49 min
+1,341 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,6 +1097,7 @@
 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 | 2025-03-20 | 2025-04-11 |
 | [spacco tutto \(feat\. Meg\)](https://open.spotify.com/track/3wbuxp0jrSNbgHn6pIeAYG) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U), [Meg](https://open.spotify.com/artist/3Rj4K75L3kVCxrJZTZNx6G) | [spacco tutto \(feat\. Meg\)](https://open.spotify.com/album/7dfMihmC3fFgXFmF01A9Cq) | 3:34 | 2025-04-17 |  |
 | [Spazio \(tra le dita\)](https://open.spotify.com/track/2DCQhaOuWlJS34Tls9ocK8) | [Etra](https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF) | [Spazio \(tra le dita\)](https://open.spotify.com/album/11N29nehfGtYQhqToEHUna) | 2:56 | 2024-12-19 | 2025-01-17 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 |  |
 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-06-27 | 2024-07-12 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 | 2025-02-14 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2024-10-11 |

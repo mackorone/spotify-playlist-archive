@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-123 songs - 10 hr 28 min
+124 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [First Gymnopedie](https://open.spotify.com/track/6A5DjTiYSkelNb2QuEV4vt) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Psychicemotus](https://open.spotify.com/album/5FEhFXoPdIEFU33KFf60H7) | 3:27 | 2021-12-02 | 2022-07-29 |
 | [First Gymnopedie](https://open.spotify.com/track/6GbNxj0KVQDlbAQDNz1N4k) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Impulse! 60: The Best of Impulse Records](https://open.spotify.com/album/3kKw4CJ22J3YDjCwRtZzTc) | 3:27 | 2022-10-14 | 2022-11-13 |
 | [Für Elise \- Batiste](https://open.spotify.com/track/53zEryaU5hYSdxk2hsrJeu) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Für Elise \- Batiste](https://open.spotify.com/album/5QICnreyAmyuoITY89NwT4) | 4:04 | 2024-10-14 |  |
+| [Gloria](https://open.spotify.com/track/626St41fxiDw7qyqock3is) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Solo: Miniatures & Tales](https://open.spotify.com/album/79LBODeL0Z7LZIZ2ZID797) | 5:20 | 2025-05-02 |  |
 | [Gnossienne \#1 F minor](https://open.spotify.com/track/3hn1emRxa75rwoL5pVHJDv) | [Richie Beirach Trio](https://open.spotify.com/artist/3XCxhrRdz3GSCP8rg51Pve) | [No Borders](https://open.spotify.com/album/5BmQzH3YOBSwpcjpYQfjK1) | 5:13 | 2022-01-27 | 2022-07-05 |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 | 2021-12-02 |  |
 | [Goldberg Improvisation III](https://open.spotify.com/track/5HfoAH0vfjKt8neoi2w1I5) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 1:27 | 2021-12-02 | 2022-07-05 |

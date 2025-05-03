@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 35431,
+  "num_followers": 35459,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "The Plant Whisperer",
+        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "Maranta",
+      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "I Remember The Time We Spent In The Summercamp",
         "url": "https://open.spotify.com/album/7irMRjQ33R0pobMg1JCx7o"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 112941,
       "name": "I Remember The Time We Spent In The Summercamp",
       "url": "https://open.spotify.com/track/4nsQtyHfmRGGB9iX8bQ6EW"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "The Plant Whisperer",
-        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "Maranta",
-      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Custard",
-        "url": "https://open.spotify.com/album/5rxBQgiR1YDWfOxiLC7JCu"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Custard",
-      "url": "https://open.spotify.com/track/4rDPr3D57E1G2xLpxTAzXI"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
         "name": "El Tambor",
         "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+        "name": "Custard",
+        "url": "https://open.spotify.com/album/5rxBQgiR1YDWfOxiLC7JCu"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
         }
       ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+      "duration_ms": 133636,
+      "name": "Custard",
+      "url": "https://open.spotify.com/track/4rDPr3D57E1G2xLpxTAzXI"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -931,18 +931,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
         }
       ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1011,26 +1015,6 @@
       "duration_ms": 172528,
       "name": "Erick",
       "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1115,38 +1099,6 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -1167,6 +1119,54 @@
       "duration_ms": 150500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "cholula, puebla",
         "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 124044,
       "name": "cholula, puebla",
       "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
         "name": "Capricho N.01",
         "url": "https://open.spotify.com/album/4ibjPtyX70qWJs1vrAHDog"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 110432,
       "name": "El Principio",
       "url": "https://open.spotify.com/track/2W23HpWRQhlHj3sIJb8MdI"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1503,6 +1503,38 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "la zona",
         "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
       },
@@ -1519,18 +1551,18 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+        "name": "forastero.",
+        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
       },
       "artists": [
         {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+          "name": "forastero.",
+          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
         }
       ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+      "duration_ms": 98306,
+      "name": "semilla de merey",
+      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1555,38 +1587,6 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "forastero.",
-        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
-      },
-      "artists": [
-        {
-          "name": "forastero.",
-          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
-        }
-      ],
-      "duration_ms": 98306,
-      "name": "semilla de merey",
-      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
         "name": "todas las ma\u00f1anas",
         "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
       },
@@ -1599,26 +1599,6 @@
       "duration_ms": 147621,
       "name": "todas las ma\u00f1anas",
       "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Sunny Day",
-        "url": "https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q"
-      },
-      "artists": [
-        {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
-        },
-        {
-          "name": "Clipsheet",
-          "url": "https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2"
-        }
-      ],
-      "duration_ms": 104333,
-      "name": "Sunny Day",
-      "url": "https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1643,6 +1623,42 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        },
+        {
+          "name": "Clipsheet",
+          "url": "https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2"
+        }
+      ],
+      "duration_ms": 104333,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "Taco Envenenado",
         "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 118285,
       "name": "Taco Envenenado",
       "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1699,18 +1699,26 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "lavender latte",
-        "url": "https://open.spotify.com/album/6MP5IP8ISceZd8YZGL6H4W"
+        "name": "98 pasos",
+        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        },
+        {
+          "name": "Lofitic",
+          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
         }
       ],
-      "duration_ms": 122926,
-      "name": "lavender latte",
-      "url": "https://open.spotify.com/track/1gRfQnwZEcbbkucYGdbe3s"
+      "duration_ms": 133600,
+      "name": "98 pasos",
+      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1735,26 +1743,18 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "98 pasos",
-        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
+        "name": "lavender latte",
+        "url": "https://open.spotify.com/album/6MP5IP8ISceZd8YZGL6H4W"
       },
       "artists": [
         {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        },
-        {
-          "name": "Lofitic",
-          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
-        },
-        {
-          "name": "Patiotic Records",
-          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 133600,
-      "name": "98 pasos",
-      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+      "duration_ms": 122926,
+      "name": "lavender latte",
+      "url": "https://open.spotify.com/track/1gRfQnwZEcbbkucYGdbe3s"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "En el Cielo",
         "url": "https://open.spotify.com/album/4yE40cxEjhBueMrHhYCRno"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 330382,
       "name": "En el Cielo",
       "url": "https://open.spotify.com/track/5DJGKa53WG0Pn9szJjQ60I"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     }
   ],
   "unique_name": "lofi mexa",

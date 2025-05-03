@@ -4,7 +4,7 @@
 
 > Ny musikk fra UNDERGRUNN, Kygo & Victoria Nadine, AURORA og mange flere!🎵
 
-5,466 songs - 11 day 18 hr 24 min
+5,469 songs - 11 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,6 +1226,7 @@
 | [Doomed](https://open.spotify.com/track/31vyKR506tN2qCQSXyRWIR) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Doomed](https://open.spotify.com/album/5qp1GplgbgUf5be3n0W1fd) | 2:57 | 2025-03-27 | 2025-04-04 |
 | [Doomsday Childsplay](https://open.spotify.com/track/0kNLf4wE1aLe2zL9n4TwBX) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Heavy Glory](https://open.spotify.com/album/2zh8YLgTukVMhUzLSRbNPd) | 3:57 | 2024-10-24 | 2024-11-01 |
 | [Doomsday Christmas Song](https://open.spotify.com/track/06evFnSKdDeOraLjRqmAhq) | [Trollfest](https://open.spotify.com/artist/2GkRxQ8FEGrWxU8BjZKfmh) | [Doomsday Christmas Song](https://open.spotify.com/album/1VYW7hLDdm3znbS3KbS7cv) | 3:36 | 2024-12-05 | 2024-12-13 |
+| [Dope Boy Phone \(with Takeoff\)](https://open.spotify.com/track/3QuxakJMdpWDvu30D5I1hH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Dope Boy Phone \(with Takeoff\)](https://open.spotify.com/album/2bbTlvoX7gaRTjznctL7nu) | 2:08 | 2025-05-02 |  |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-13 | 2024-06-21 |
 | [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 | 2024-09-19 | 2024-09-27 |
 | [Down In Flames](https://open.spotify.com/track/5hhaQJ2TE34eGXPSkvZ0TO) | [Hearts On The Run](https://open.spotify.com/artist/3uYNWWQGAKZPUPJaqVtawd) | [Down In Flames](https://open.spotify.com/album/2DZ6hPRYjZsrdnYdWa8g3B) | 1:51 | 2024-06-20 | 2024-06-28 |
@@ -4407,6 +4408,7 @@
 | [Speed of Darkness](https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed of Darkness](https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG) | 4:09 | 2024-10-03 | 2024-10-11 |
 | [SPEKTRUM](https://open.spotify.com/track/4OdDezStN8yi2InRdjdLE0) | [Frank Løke](https://open.spotify.com/artist/78G38bSvPxoyNTM9AzgkIP), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1) | [SPEKTRUM](https://open.spotify.com/album/4Jg2ngNr1v7qOtEkLdYGFA) | 4:07 | 2024-09-26 | 2024-10-04 |
 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 | 2024-08-01 | 2024-08-09 |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 |  |
 | [Spender For Days \(Moby Dick\)](https://open.spotify.com/track/7E4uCQBJdzEFfLutMUUtlT) | [ÜBER](https://open.spotify.com/artist/7lY2tiKgsWVxd95OasKIRO), [Phill](https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Spender For Days \(Moby Dick\)](https://open.spotify.com/album/2jbSckplA22inCqi5v8fJG) | 2:31 | 2025-01-23 | 2025-01-31 |
 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 | 2024-12-19 | 2025-01-03 |
 | [Spiller](https://open.spotify.com/track/6jvR8z6ueIKraqHMFF9rJ4) | [Selecta](https://open.spotify.com/artist/7t5M9qMpEPj4oXboArlPa3) | [Spiller](https://open.spotify.com/album/41XJE6qXp5dLzwK6s3mk1s) | 2:33 | 2025-01-02 | 2025-01-10 |
@@ -5298,6 +5300,7 @@
 | [where do we go from here](https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [where do we go from here](https://open.spotify.com/album/7MespBHLF05tMB6zYdwpkU) | 2:33 | 2024-10-17 | 2024-10-25 |
 | [Where Do You Go?](https://open.spotify.com/track/3dVpXsROb2OtDf7MA1UgVc) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [8](https://open.spotify.com/album/6XdkP8ys72LuKrUkMyYpeu) | 2:50 | 2024-10-17 | 2024-10-25 |
 | [Where Flowers Grow](https://open.spotify.com/track/1xgCXywHjvQ6LIq8awx4Th) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG), [Lew](https://open.spotify.com/artist/49PruHEHNzAd3kxuf7fHxb) | [Where Flowers Grow](https://open.spotify.com/album/6npz8UaNjIwG9PkCHrjA2E) | 3:15 | 2024-07-18 | 2024-07-27 |
+| [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-02 |  |
 | [Where In Heaven](https://open.spotify.com/track/2o8GwlRdZ6z8UjhJD98TOp) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Where In Heaven](https://open.spotify.com/album/2fkSKARDAL1WwtRCihLHf4) | 2:33 | 2024-12-05 | 2024-12-13 |
 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 | 2024-07-05 |
 | [Where Your Heart Is At](https://open.spotify.com/track/5FpKPX1OziXDrQfAm1eNG4) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Where Your Heart Is At](https://open.spotify.com/album/1HzHwAwopn0hVZMmsLmkOM) | 2:19 | 2024-07-11 | 2024-07-19 |

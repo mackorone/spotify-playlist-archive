@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,763 songs - 5 day 0 hr 12 min
+1,764 songs - 5 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,6 +684,7 @@
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-03-10 | 2024-03-23 |
 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 | 2024-08-30 | 2025-04-17 |
 | [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 | 2024-01-05 | 2024-08-22 |
+| [Holding On To You](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Holding On To You](https://open.spotify.com/album/6VvZQ2f9QdblEkGsbngGmW) | 3:46 | 2025-05-02 |  |
 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 | 2022-09-30 | 2022-10-13 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2021-08-20 | 2022-02-14 |
 | [Hologram](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Hologram](https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt) | 4:26 | 2023-03-10 | 2023-03-23 |
@@ -1356,7 +1357,7 @@
 | [Shimmer](https://open.spotify.com/track/4X2Qg72J6kqCGNqNfXtt4A) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Shimmer](https://open.spotify.com/album/59jjqcR0O0eWGxhG9t15aS) | 3:32 | 2022-12-28 | 2023-01-06 |
 | [Shooting Stars](https://open.spotify.com/track/3j4Q0OcxYgvJYev93mevxz) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [MARSHES](https://open.spotify.com/artist/22QCRSs7Gwn7UmLQ1xImIQ) | [Shooting Stars](https://open.spotify.com/album/7ntE6qOgJMXsyylRY1HGjB) | 3:24 | 2020-07-18 | 2020-10-10 |
 | [Shortline \- Frank Wiedemann Remix](https://open.spotify.com/track/2hmCjVFWlmcaJOmX9eT8hf) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Shortline \(Frank Wiedemann Remix\)](https://open.spotify.com/album/1sGTLVhdlJWyQHn6FCutAg) | 9:20 | 2020-02-29\* | 2020-03-16 |
-| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-18 |  |
+| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-18 | 2025-05-03 |
 | [Show Me](https://open.spotify.com/track/3y8fG2oGK5sx7liKZ9oyx7) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Show Me](https://open.spotify.com/album/2FgS1KHblcOFOiAhN7nJNH) | 3:47 | 2020-05-18 | 2020-07-18 |
 | [show me](https://open.spotify.com/track/5eSpXdMMcdQoLNaAnqrX7g) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 5:41 | 2020-03-20 | 2020-10-09 |
 | [Show Me](https://open.spotify.com/track/1Btk4gaExuQpysaG2FNjaG) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Floro](https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq) | [Show Me](https://open.spotify.com/album/4Ic7qWtNWvx0EIM2jk2ygc) | 4:08 | 2021-04-30 | 2022-07-28 |

@@ -1,13 +1,273 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Rich Brian)",
-  "num_followers": 450276,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: TABLO x RM)",
+  "num_followers": 450348,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAskngAAAABNIa8ZAz9c3hr+qaJQmy7B",
+  "snapshot_id": "aBRDVwAAAAD6A1FG8i+ADWuVKPs9hXeO",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "Stop The Rain (TABLO X RM)",
+        "url": "https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI"
+      },
+      "artists": [
+        {
+          "name": "TABLO",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 190356,
+      "name": "Stop The Rain (TABLO X RM)",
+      "url": "https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5d67cRk9I8tIYRJwNscf7d"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 261182,
+      "name": "Citrus Nioxide",
+      "url": "https://open.spotify.com/track/0CETneHo7v5Fb3huWiKeU9"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "Different (with 42 Dugg)",
+        "url": "https://open.spotify.com/album/1yDFI8tYzHuFuuZ7Y0L8iq"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "Different (with 42 Dugg)",
+      "url": "https://open.spotify.com/track/3CXFeHHhNvwHsgAMdnPCve"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "boom",
+        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "boom",
+      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "Vacay",
+        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 142962,
+      "name": "Vacay",
+      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "BUTTERFLY KISSES",
+        "url": "https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 122933,
+      "name": "BUTTERFLY KISSES",
+      "url": "https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "CALL ZEUS",
+        "url": "https://open.spotify.com/album/14FaE3x8iGns4D7CPLNfAx"
+      },
+      "artists": [
+        {
+          "name": "Loui Paso",
+          "url": "https://open.spotify.com/artist/5zRsfhSi3APNJ4hoB54U9f"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 116167,
+      "name": "CALL ZEUS",
+      "url": "https://open.spotify.com/track/1ya5R9lBwkV1R5zXMZz1Tt"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "SCENTS / SENSES",
+        "url": "https://open.spotify.com/album/0mMujfIHAEv1yuUpau7ZzJ"
+      },
+      "artists": [
+        {
+          "name": "Against Mel",
+          "url": "https://open.spotify.com/artist/0RpKRBN5TzuJtdxfF7BAy2"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/0ePACXwu27KdVfGS5SmXD5"
+        },
+        {
+          "name": "Guccimith",
+          "url": "https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy"
+        },
+        {
+          "name": "Afiq Not Nice",
+          "url": "https://open.spotify.com/artist/4zsMgcLQvJrJkmhrIByhLq"
+        },
+        {
+          "name": "Vertgin",
+          "url": "https://open.spotify.com/artist/26PqsLSw3BZF5fRekyIyRw"
+        },
+        {
+          "name": "ChronicalZ",
+          "url": "https://open.spotify.com/artist/3OvM4PgW1240WvfbIi9hDh"
+        },
+        {
+          "name": "TASHEY",
+          "url": "https://open.spotify.com/artist/4HCmJXK4xVFDKWNIQzkIBn"
+        },
+        {
+          "name": "A.Q.U",
+          "url": "https://open.spotify.com/artist/3L5PEaq6OOPeQD0N5YSgHM"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "LANGITBUMI",
+      "url": "https://open.spotify.com/track/6nt0PTcrMlQOKYXkQ5IIN6"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "Good Music Hypnotizes",
+        "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Porzingis",
+      "url": "https://open.spotify.com/track/1DJfkN0ZZigRHzNFNycKRi"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "My Job is Cool (Feat. Andup, Hanhae, Ugly Duck, Gganmo, Louie, lIlBOI) [Do\u2019Main remix]",
+        "url": "https://open.spotify.com/album/0gwxyRDT1OuhqLo4FezXGb"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Andup",
+          "url": "https://open.spotify.com/artist/4gEUlh9kVS3y11VHiJfS2l"
+        },
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "Gganmo",
+          "url": "https://open.spotify.com/artist/6FtlNVIjvUcbfXvNgqFGvq"
+        },
+        {
+          "name": "moonseophwang",
+          "url": "https://open.spotify.com/artist/6c1vY77ByWunDNlvE77OJS"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Fisherman",
+          "url": "https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4"
+        }
+      ],
+      "duration_ms": 294761,
+      "name": "My Job is Cool (Feat. Andup, Hanhae, Ugly Duck, Gganmo, Louie, lIlBOI) - Do\u2019Main remix",
+      "url": "https://open.spotify.com/track/7GQb4fkTiDfP5zE9dlvnl3"
+    },
+    {
+      "added_at": "2025-05-02 04:00:23",
+      "album": {
+        "name": "HOME?",
+        "url": "https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O"
+    },
     {
       "added_at": "2025-04-25 05:58:54",
       "album": {
@@ -1779,190 +2039,6 @@
       "duration_ms": 173241,
       "name": "permission slip",
       "url": "https://open.spotify.com/track/2ZZi9yZmMk2AFLRPx3HpaA"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "CUT THE LIGHTS.",
-        "url": "https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "CUT THE LIGHTS.",
-      "url": "https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "RATHER LIE (with The Weeknd)",
-      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "803Mayjor Vol. 2",
-        "url": "https://open.spotify.com/album/1yBkqAZCalnkG733Yn8vDO"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 95820,
-      "name": "No Respect",
-      "url": "https://open.spotify.com/track/3uRWGyCSvn5AVkJrO6q3g5"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 225289,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "No Sweat",
-        "url": "https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 155754,
-      "name": "No Sweat",
-      "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "HOTBOX",
-        "url": "https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 182925,
-      "name": "HOTBOX",
-      "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "Can You Please",
-        "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 154505,
-      "name": "Can You Please (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        }
-      ],
-      "duration_ms": 173502,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
-    },
-    {
-      "added_at": "2025-04-17 15:00:22",
-      "album": {
-        "name": "ILBB2 (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
-      },
-      "artists": [
-        {
-          "name": "Jorjiana",
-          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 133589,
-      "name": "ILBB2 (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
     }
   ],
   "unique_name": "Beats & Rhymes",

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,570 songs - 2 day 11 hr 1 min
+1,571 songs - 2 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-11 | 2022-11-26 |
 | [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 | 2025-01-28 |
 | [Albatross](https://open.spotify.com/track/3sxuaiB0g8EqV1YMx3I86d) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Albatross](https://open.spotify.com/album/1JCyIEEoQSANiib69THZdT) | 2:03 | 2025-03-07 |  |
-| [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 | 2025-04-28 |
+| [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 |  |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
 | [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-01-27 | 2023-06-06 |
@@ -298,7 +298,7 @@
 | [Crispy Sage](https://open.spotify.com/track/08zvdKdFjourd8elx88P5U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Crispy Sage](https://open.spotify.com/album/0QqBBwU6LApICEEeVIgaVo) | 2:16 | 2024-01-05 |  |
 | [crunchy leaves](https://open.spotify.com/track/508p8oMRzPqbJIziK3thrv) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW), [Adam Meckler](https://open.spotify.com/artist/3vvgv6M5R6ZdQ0kgDubGRl) | [crunchy leaves](https://open.spotify.com/album/2dh7ZzxwrzQ8s2i60v07iG) | 1:59 | 2022-12-09 | 2023-10-06 |
 | [crush on me](https://open.spotify.com/track/1NNJD3rlNeipFPSpEKXp8P) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:52 | 2022-07-08 |  |
-| [Crust](https://open.spotify.com/track/7DMeds0zEk0Z8phZCLTZUs) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Crust](https://open.spotify.com/album/5KH6h3huwkI1HT1nb90kLg) | 2:46 | 2024-12-06 |  |
+| [Crust](https://open.spotify.com/track/7DMeds0zEk0Z8phZCLTZUs) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Crust](https://open.spotify.com/album/5KH6h3huwkI1HT1nb90kLg) | 2:46 | 2024-12-06 | 2025-05-03 |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-01-27 | 2023-04-21 |
 | [Crystals](https://open.spotify.com/track/224u5HmiQxK7tQLWrFGdrF) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Crystals](https://open.spotify.com/album/2vNj0Ps06Qzx7eOADRP1NC) | 2:07 | 2022-04-15 |  |
 | [Crépuscule](https://open.spotify.com/track/49hM4gDmHiEuVfGxA0Vphz) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Crépuscule](https://open.spotify.com/album/7MgEfkPgcdO1YWmCZMk0E2) | 2:20 | 2023-01-13 | 2023-10-20 |
@@ -709,6 +709,7 @@
 | [Keep It Movin'](https://open.spotify.com/track/2P67A2C3EQ1GdzYM1LfAJD) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Keep It Movin'](https://open.spotify.com/album/3N8YjN6xrLM2E8RC9x9RZX) | 1:32 | 2022-05-13 | 2022-11-26 |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2022-01-27 | 2022-08-19 |
 | [Kerfuffle](https://open.spotify.com/track/1F50B7EAUUNckcHUtCPv2x) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE), [L.M\. Styles](https://open.spotify.com/artist/50vjVDZuPQhs4cB96L4Z2O) | [Midnight Haze](https://open.spotify.com/album/70gZugLYfjgg2CyLqkHSpJ) | 2:46 | 2023-11-17 |  |
+| [Keylime](https://open.spotify.com/track/0s931sIOkTk08MYKR0Emvb) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Keylime](https://open.spotify.com/album/6reKLiAp7QID3jRTbhYLJx) | 2:08 | 2025-04-24 |  |
 | [Khushi](https://open.spotify.com/track/5JqTBl0Dx1lnXiryzSzABE) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Yaatra](https://open.spotify.com/album/2QTCNSD0a6ihWvp0oOo0ck) | 2:21 | 2023-08-03 |  |
 | [Kinda Cosy](https://open.spotify.com/track/17aVAPyDXSYcQrZu9n9ZHf) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Kinda Cosy](https://open.spotify.com/album/0EQONM4373NXUekR8WdAuN) | 1:56 | 2024-09-13 |  |
 | [Knalltrött](https://open.spotify.com/track/4fmb0XpJ5vytptcBM7tCtz) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Knalltrött](https://open.spotify.com/album/5MCeV7auQsyWbJoi5axjrN) | 2:30 | 2022-09-23 | 2024-05-14 |
@@ -1168,7 +1169,7 @@
 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 | 2022-08-19 | 2023-01-07 |
 | [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 | 2025-04-15 |
 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 | 2022-09-30 | 2024-05-19 |
-| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 |  |
+| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 | 2025-05-03 |
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |
 | [Scarlet Sky](https://open.spotify.com/track/5Dion2EQOW0TAUOBpQpZrz) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Scarlet Sky](https://open.spotify.com/album/3FDppEDVawmY49DG2Kf8tz) | 2:29 | 2022-01-27 | 2022-07-15 |
 | [Scientific Magic](https://open.spotify.com/track/1YCfWvnF8t7yubtjAdO7LN) | [Timothy Powers](https://open.spotify.com/artist/3Zt1mZTzihdGr3cBFmKJDB) | [Scientific Magic](https://open.spotify.com/album/69lV3WzDlD1SOc7BGK0lvr) | 2:20 | 2022-08-05 |  |

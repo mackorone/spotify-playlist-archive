@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 285801,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/64p3YVkVBhXEjuxu5NJdoT"
@@ -4524,7 +4524,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 211162,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/0PRXrjDGVkbpXrMq123tl6"
@@ -7495,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/5nh51VKp5Lio307wO6Kkp4"
+      },
+      "artists": [
+        {
+          "name": "Gio Lucca",
+          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/317jFIwYFOmx3UYEbKebRG"
+    },
+    {
+      "album": {
         "name": "Pump This Party",
         "url": "https://open.spotify.com/album/0n0AxX0DyNDjhSLnYjKQAY"
       },
@@ -9501,6 +9519,32 @@
     },
     {
       "album": {
+        "name": "Take My Love",
+        "url": "https://open.spotify.com/album/07WAoaCn3c1dgfgFfDCUQK"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190811,
+      "name": "Take My Love - Prunk Remix",
+      "url": "https://open.spotify.com/track/6iVOj4c1eQIDv2AKBn2NdI"
+    },
+    {
+      "album": {
         "name": "take notes. EP",
         "url": "https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN"
       },
@@ -9570,7 +9614,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 181846,
       "name": "Talk About Bass",
       "url": "https://open.spotify.com/track/2No4HKY2D0FVzecqD843P5"
@@ -11570,6 +11614,24 @@
       "duration_ms": 187529,
       "name": "Z Pack",
       "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"
+    },
+    {
+      "album": {
+        "name": "Z.O.I.D.S",
+        "url": "https://open.spotify.com/album/1mePELu3imiittMS6u6xA8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208153,
+      "name": "Z.O.I.D.S",
+      "url": "https://open.spotify.com/track/4NypWATTPJ1eAMHklEMYhD"
     },
     {
       "album": {

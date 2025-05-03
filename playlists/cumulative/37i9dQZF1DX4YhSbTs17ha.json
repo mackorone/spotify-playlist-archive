@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico.  Caloncho & Daniel, Me Est\u00e1s Matando en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico.  Carin Leon & Ramon Vega en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 164090,
       "name": "A la de Lu",
       "url": "https://open.spotify.com/track/0s9vW98Z7g7fIrlFhzRHyu"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
@@ -3571,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "digo que no, pero si",
+        "url": "https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "digo que no, pero si",
+      "url": "https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP"
+    },
+    {
+      "album": {
         "name": "Dime Que S\u00ed",
         "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
       },
@@ -3817,6 +3839,28 @@
     },
     {
       "album": {
+        "name": "DUE\u00d1O DE TI",
+        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "DUE\u00d1O DE TI",
+      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
+    },
+    {
+      "album": {
         "name": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
         "url": "https://open.spotify.com/album/3UA0ftXwo4zg0qPDrsQhrB"
       },
@@ -4047,6 +4091,28 @@
     },
     {
       "album": {
+        "name": "El Disfraz Con Denisse Guerrero (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/3vG2KOdXOi9ZugXBNSjoOK"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Denisse Guerrero",
+          "url": "https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168405,
+      "name": "El Disfraz - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/2n0ni9f0CyJ5U450rmbDhF"
+    },
+    {
+      "album": {
         "name": "El Doble",
         "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },
@@ -4092,6 +4158,24 @@
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
+    },
+    {
+      "album": {
+        "name": "El Equivocado",
+        "url": "https://open.spotify.com/album/5j8Q6ph4kpanHF2bnKx7mI"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165656,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/7b21sdY6oHTYzQj0Ne5boZ"
     },
     {
       "album": {
@@ -4256,6 +4340,24 @@
       "duration_ms": 256736,
       "name": "El Reloj Cuc\u00fa (feat. Mabel)",
       "url": "https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd"
+    },
+    {
+      "album": {
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "album": {
@@ -5812,6 +5914,28 @@
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
+    },
+    {
+      "album": {
+        "name": "La Buena Eras T\u00fa",
+        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202992,
+      "name": "La Buena Eras T\u00fa",
+      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
     },
     {
       "album": {
@@ -7912,7 +8036,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -8746,7 +8870,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 187174,
       "name": "No Me Acostumbro",
       "url": "https://open.spotify.com/track/5SeyLi7VlCYPaZwmq89uP5"
@@ -10566,7 +10690,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 168376,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
@@ -11208,7 +11332,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 202560,
       "name": "She Hurts Like Tequila",
       "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
@@ -13896,7 +14020,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 171311,
       "name": "\u00bfC\u00f3mo Haces?",
       "url": "https://open.spotify.com/track/1Ket5Fl0iPAIsSm7NsWNha"
@@ -13962,6 +14086,24 @@
       "duration_ms": 184399,
       "name": "\u00bfPor Qu\u00e9 No Te Olvido?",
       "url": "https://open.spotify.com/track/7zIWLLW4YfQkPMCxyLUK54"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Lo Har\u00e1?",
+        "url": "https://open.spotify.com/album/2R49ZJBfLIOSUEolXRoO6n"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198090,
+      "name": "\u00bfQui\u00e9n Lo Har\u00e1?",
+      "url": "https://open.spotify.com/track/6cA1CHqfjoGUo232kJtjMC"
     },
     {
       "album": {

@@ -10,7 +10,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -28,7 +28,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -82,7 +82,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -118,7 +118,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -128,24 +128,6 @@
       "duration_ms": 146000,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3rrYAxy6f1Aj5GO9vVRyDr"
-    },
-    {
-      "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162786,
-      "name": "Allergy",
-      "url": "https://open.spotify.com/track/0afnaAYZk1IPQSFDd2MGw0"
     },
     {
       "album": {
@@ -167,12 +149,30 @@
     },
     {
       "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/0afnaAYZk1IPQSFDd2MGw0"
+    },
+    {
+      "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -208,7 +208,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -226,7 +226,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -280,24 +280,6 @@
     {
       "album": {
         "name": "I love",
-        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204040,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
-    },
-    {
-      "album": {
-        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -312,6 +294,24 @@
       "duration_ms": 204040,
       "name": "Change",
       "url": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
+    },
+    {
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
     },
     {
       "album": {
@@ -338,7 +338,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -356,7 +356,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -374,7 +374,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -392,7 +392,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -446,7 +446,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -464,7 +464,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         },
         {
@@ -490,7 +490,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -516,7 +516,7 @@
           "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
         },
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -534,7 +534,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -552,7 +552,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -588,7 +588,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -606,7 +606,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -756,7 +756,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -774,7 +774,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -792,7 +792,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -810,7 +810,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -820,24 +820,6 @@
       "duration_ms": 236941,
       "name": "Hear me",
       "url": "https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR"
-    },
-    {
-      "album": {
-        "name": "Her Private Life (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/3IGZKqFG3HJwPYorlck0p6"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2022-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238630,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos"
     },
     {
       "album": {
@@ -874,6 +856,24 @@
       "duration_ms": 238630,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0"
+    },
+    {
+      "album": {
+        "name": "Her Private Life (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/3IGZKqFG3HJwPYorlck0p6"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238630,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos"
     },
     {
       "album": {
@@ -922,7 +922,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -940,7 +940,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -958,7 +958,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -976,7 +976,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -994,7 +994,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1092,7 +1092,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1110,7 +1110,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1146,7 +1146,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1164,7 +1164,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1182,7 +1182,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1200,7 +1200,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1218,7 +1218,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1236,7 +1236,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1246,24 +1246,6 @@
       "duration_ms": 181253,
       "name": "LOST",
       "url": "https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH"
-    },
-    {
-      "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197173,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0VkO3m9iY9vzNFtTbdhH3e"
     },
     {
       "album": {
@@ -1282,6 +1264,24 @@
       "duration_ms": 197173,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
+    },
+    {
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0VkO3m9iY9vzNFtTbdhH3e"
     },
     {
       "album": {
@@ -1308,7 +1308,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1326,7 +1326,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1344,7 +1344,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1362,7 +1362,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1380,7 +1380,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1406,7 +1406,7 @@
           "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         },
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         },
         {
@@ -1440,7 +1440,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1476,7 +1476,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1494,7 +1494,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1504,24 +1504,6 @@
       "duration_ms": 165146,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/7xWEF7qpFsMzv9pS7Tnoor"
-    },
-    {
-      "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/5PQPfjjCJn5wBUJWzTXpLE"
     },
     {
       "album": {
@@ -1543,25 +1525,21 @@
     },
     {
       "album": {
-        "name": "Nxde (Steve Aoki Remix)",
-        "url": "https://open.spotify.com/album/7LwmZZ8UeExJ4YfS0xtE3Q"
+        "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167645,
-      "name": "Nxde (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/2qyfkXZhtjf3bZ7WBaY3kT"
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/5PQPfjjCJn5wBUJWzTXpLE"
     },
     {
       "album": {
@@ -1587,12 +1565,34 @@
     },
     {
       "album": {
+        "name": "Nxde (Steve Aoki Remix)",
+        "url": "https://open.spotify.com/album/7LwmZZ8UeExJ4YfS0xtE3Q"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167645,
+      "name": "Nxde (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/2qyfkXZhtjf3bZ7WBaY3kT"
+    },
+    {
+      "album": {
         "name": "I trust",
         "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1610,7 +1610,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1646,7 +1646,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1682,7 +1682,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1718,7 +1718,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1744,7 +1744,7 @@
           "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         },
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         },
         {
@@ -1806,7 +1806,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1842,7 +1842,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1878,7 +1878,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -1946,24 +1946,6 @@
     {
       "album": {
         "name": "I love",
-        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182026,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
-    },
-    {
-      "album": {
-        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -1981,12 +1963,30 @@
     },
     {
       "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2004,7 +2004,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2036,24 +2036,6 @@
     {
       "album": {
         "name": "I love",
-        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186733,
-      "name": "Sculpture",
-      "url": "https://open.spotify.com/track/1fpCZrcCW7Gyg16wsuUK8N"
-    },
-    {
-      "album": {
-        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -2071,12 +2053,30 @@
     },
     {
       "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Sculpture",
+      "url": "https://open.spotify.com/track/1fpCZrcCW7Gyg16wsuUK8N"
+    },
+    {
+      "album": {
         "name": "I made",
         "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2112,7 +2112,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2148,7 +2148,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2166,7 +2166,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2188,7 +2188,7 @@
           "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
         },
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         },
         {
@@ -2262,7 +2262,7 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2280,7 +2280,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2298,7 +2298,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         },
         {
@@ -2320,7 +2320,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2338,7 +2338,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2356,7 +2356,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2374,7 +2374,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2454,7 +2454,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2472,7 +2472,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2490,7 +2490,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2508,7 +2508,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
@@ -2592,7 +2592,7 @@
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
+          "name": "i-dle",
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],

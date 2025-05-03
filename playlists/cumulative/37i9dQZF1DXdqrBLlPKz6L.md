@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
 
-119 songs - 6 hr 28 min
+120 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Corazón Partido](https://open.spotify.com/track/0j78SyCsDsLnEW7YwXEImo) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Corazón Partido](https://open.spotify.com/album/4IFUlum8JjGIe7yaZQ8wQn) | 3:35 | 2022-04-08 | 2022-08-20 |
 | [De Todo](https://open.spotify.com/track/5LR4MmbgcV9cPXXocaM4Fw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [De Todo](https://open.spotify.com/album/6GkuzEN1kTF2XwtIlwLVEP) | 3:24 | 2021-10-15 |  |
 | [Deporte](https://open.spotify.com/track/2hJCUG8IBsBbLY4Apqf1uB) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Nasty Killah](https://open.spotify.com/artist/4hi5yAkJ9QHP8L2zeKprWl), [Ríal Guawankó](https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN) | [Deporte](https://open.spotify.com/album/1xIbSM6XTekttfp6i3yvgH) | 3:48 | 2021-10-15 | 2022-04-09 |
+| [DESACIERTOS](https://open.spotify.com/track/1nNK67uDQV99OCvgmU2gvK) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Young Rebxl](https://open.spotify.com/artist/2Yk1UW412GPD81uip2AbkC) | [LA MIEL DEL VENENO](https://open.spotify.com/album/2o9pjD6n1Y6jPyBqMK0vFk) | 3:17 | 2025-05-02 |  |
 | [Dimelo](https://open.spotify.com/track/1RVWM0wmuQRUsAwbot9mos) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Flama](https://open.spotify.com/album/0oCoqgiJLn73yyR61MF2Z5) | 1:57 | 2021-10-15 |  |
 | [Donde No Se Ve](https://open.spotify.com/track/2QSLg4zuaykHGBvhCgCdO0) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Donde No Se Ve](https://open.spotify.com/album/5RBYr28O3Bz4qrlGhTP4mZ) | 3:16 | 2024-05-24 |  |
 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 | 2021-10-15 |  |
@@ -107,7 +108,7 @@
 | [Si Caigo](https://open.spotify.com/track/40w0db59EY5siISnJjhb2B) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2UJIBCLSahOqrfG2OchUc3) | 3:23 | 2023-03-24 | 2024-03-07 |
 | [Si Caigo](https://open.spotify.com/track/5fcmgOkht9NNEj4xrwcDem) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/0rUlFV3JJNaOt7AyEd3NUy) | 3:23 | 2022-08-19 |  |
 | [Si Te Vas](https://open.spotify.com/track/3vhRrdI29KxI3dvnfRDSjJ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Red Little](https://open.spotify.com/artist/3TtjHxt7XVVJwUWCzvLDyL) | [Si Te Vas](https://open.spotify.com/album/3X5V5wuP5P6ys4Z9snzOT7) | 3:54 | 2021-10-15 | 2022-04-09 |
-| [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 | 2021-10-15 |  |
+| [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 | 2021-10-15 | 2025-05-03 |
 | [Solo](https://open.spotify.com/track/1ZQnUiFdrK4sxIJwBtiU1J) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Music](https://open.spotify.com/album/7AgLyr8Y97Zik2xfyLx30X) | 3:04 | 2021-10-15 | 2025-04-26 |
 | [Sométeme](https://open.spotify.com/track/51Jt04zgh7coezey8YlnRO) | [Stefficrown](https://open.spotify.com/artist/03kZtQufUPClcJ4y4jYTes), [Crabeats](https://open.spotify.com/artist/3N9ZDSxevGQn5u7D1nRlvN) | [Act II](https://open.spotify.com/album/30NxdbAihSxvSAeihvWw7i) | 3:31 | 2021-10-15 |  |
 | [Stupid Bitch](https://open.spotify.com/track/4CbECmRdlREUolSUceI6Yg) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Stupid Bitch](https://open.spotify.com/album/3hVnIIKriPcmwdCDt6JzUb) | 2:16 | 2021-10-15 | 2022-01-29 |

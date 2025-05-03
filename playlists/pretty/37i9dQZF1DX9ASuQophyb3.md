@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Semicenk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,082 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,226 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 12 | [İnsan Lekesi](https://open.spotify.com/track/4VeJczwiJTmswNySNnZ5zU) | [Deniz Seki](https://open.spotify.com/artist/28bHkFlKKHHudmgvnfYpiJ), [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut) | [İnsan Lekesi](https://open.spotify.com/album/2oUfc3983SCTMfmvKIdRis) | 3:02 |
 | 13 | [Yan](https://open.spotify.com/track/5E8s6ZlPAJFWYUqTbVLFdT) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Kırık Gitar](https://open.spotify.com/album/0qSzMyV6UO95NJf3QvMOju) | 2:57 |
 | 14 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 |
-| 15 | [Yankın Var](https://open.spotify.com/track/2Jt2m8urDzCJtUK1SCMDlj) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Yankın Var](https://open.spotify.com/album/5T9bCXbi5KRCC2EZYQH4S8) | 2:29 |
+| 15 | [Yankın Var](https://open.spotify.com/track/2Jt2m8urDzCJtUK1SCMDlj) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Yankın Var](https://open.spotify.com/album/5T9bCXbi5KRCC2EZYQH4S8) | 2:34 |
 | 16 | [Şimdi Böyle Biriymiş](https://open.spotify.com/track/79PkjCJWeNnTx7UB9D55w3) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Demet Özdemir](https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q) | [Şimdi Böyle Biriymiş](https://open.spotify.com/album/7384jiqVU39gp3KzNmCVDm) | 3:09 |
 | 17 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 |
 | 18 | [Aynı Değil Mi](https://open.spotify.com/track/64NLXJ8aMTPRKNpbwpzpoo) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aynı Değil Mi](https://open.spotify.com/album/1ADiBNHQAFzraYTZwFeSa2) | 3:23 |

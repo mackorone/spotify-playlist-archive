@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-630 songs - 2 day 0 hr 16 min
+632 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29\* | 2021-10-01 |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2020-11-29\* | 2021-07-10 |
 | [Hungarian Hangover](https://open.spotify.com/track/4nZ4ZQ16W9dlD79We6FeuD) | [Trick or Treat](https://open.spotify.com/artist/2mj5rXb8mYaRoF7oOHfgqI) | [Hungarian Hangover](https://open.spotify.com/album/5D7CfGe50M8uA8hBUXg6tI) | 3:52 | 2021-05-14 | 2021-12-11 |
-| [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 | 2022-01-21 |  |
+| [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 | 2022-01-21 | 2025-05-03 |
 | [I Can Never Die](https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [I Can Never Die](https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I) | 4:30 | 2024-07-26 | 2025-03-04 |
 | [I See Fire](https://open.spotify.com/track/18xwh83PT4nzB1grNTB31h) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [I See Fire](https://open.spotify.com/album/4NUWjY11cBjHNFBE5HK45V) | 4:55 | 2020-11-29\* | 2021-09-25 |
 | [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-06-04 | 2021-06-25 |
@@ -278,6 +278,7 @@
 | [Ishimura](https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo) | [Jason Richardson](https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY), [Luke Holland](https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb) | [Ishimura](https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y) | 5:40 | 2022-07-29 | 2023-04-15 |
 | [It's Raining on the Moon, Pt\. 1](https://open.spotify.com/track/5K8hsK21BinXBIqrSeEC2L) | [StarSystems](https://open.spotify.com/artist/2JEmeK4NqHMXdtSMxCcWad) | [StarSystems III](https://open.spotify.com/album/50wgSGPzuqsQqkNRHLpl9s) | 4:16 | 2022-07-13 | 2022-07-30 |
 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 | 2023-04-14 |  |
+| [Just A Sacrifice](https://open.spotify.com/track/0lUZEqrzkZ2Lg2HryGeIUh) | [Secret Rule](https://open.spotify.com/artist/4zgiXGA2lONdvZunHOFESG) | [Just A Sacrifice](https://open.spotify.com/album/4hKlGVhVM4YniPgCgHg58k) | 3:44 | 2025-05-02 |  |
 | [Just Another Day](https://open.spotify.com/track/0zVvC9YgrMsrIea5HSaqVC) | [Shining Black](https://open.spotify.com/artist/7dKBBPNjAEI1dZBJe55KSS) | [Just Another Day](https://open.spotify.com/album/2NOle5O8JU8LgaqKjUvy02) | 4:17 | 2020-11-29\* | 2021-09-25 |
 | [Kanangra](https://open.spotify.com/track/0nnXaJ7aMUeBsHzhhaFehw) | [Scoredatura](https://open.spotify.com/artist/22onw6eJUxsmz0SoW0wmac) | [Kanangra](https://open.spotify.com/album/79YqVLkcdFkgMkt262Qz3O) | 7:22 | 2022-07-13 | 2022-07-29 |
 | [Kaufmann und Maid](https://open.spotify.com/track/78B9RvFjcpSQgGFtjy1zBE) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Sasha](https://open.spotify.com/artist/091dY4SjI2cy4YHdvhCjg1), [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI), [Subway To Sally](https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg), [Tanzwut](https://open.spotify.com/artist/1lnAE48Ht3fnUDrcnx2nTM), [Schandmaul](https://open.spotify.com/artist/388Jc5WX2TxTOgGwXidDM7), [dArtagnan](https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ), [Patty Gurdy](https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r) | [Kaufmann und Maid](https://open.spotify.com/album/3P0SjSnnozzn8fU1kSMzZP) | 3:43 | 2020-11-29\* | 2021-10-01 |
@@ -402,7 +403,7 @@
 | [Phantom](https://open.spotify.com/track/1dmIum3DdBarWHvUr4k6Ko) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Neon Theatre](https://open.spotify.com/album/5f2gEO0PghVJ6qMOOCCaVy) | 3:41 | 2022-07-13 | 2022-07-30 |
 | [Phoenix](https://open.spotify.com/track/7xuexpYLiBxemw2EA0qQi2) | [Memoira](https://open.spotify.com/artist/6lVZI6r87sKVxs1wFeCcXg) | [Phoenix](https://open.spotify.com/album/4cU87N38MRPUJDSIgCl2LQ) | 3:40 | 2021-10-16 | 2021-12-17 |
 | [Pixel Heart: Verdant](https://open.spotify.com/track/2SF67CdGk5vDgUKjXyjkHV) | [Stephen Taranto](https://open.spotify.com/artist/1Hjr3351EqOHTlR09x8Dk6) | [Pixel Heart: Verdant](https://open.spotify.com/album/2ThyeiZ4cN5BIm3GSrKPBe) | 5:12 | 2022-07-13 | 2022-07-27 |
-| [Portrait of Us](https://open.spotify.com/track/67uIun0M8fLAW6ZkVqdSSJ) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [A Fortress Called Home](https://open.spotify.com/album/6o0UiW267q52P3LtHCtJfa) | 4:46 | 2024-06-24 |  |
+| [Portrait of Us](https://open.spotify.com/track/67uIun0M8fLAW6ZkVqdSSJ) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [A Fortress Called Home](https://open.spotify.com/album/6o0UiW267q52P3LtHCtJfa) | 4:46 | 2024-06-24 | 2025-05-03 |
 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 | 2024-09-30 |  |
 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 | 2021-12-04 |  |
 | [Proxy](https://open.spotify.com/track/6JdWuk1w8rpzxSMjUAXT2d) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Proxy](https://open.spotify.com/album/70TeLExFCwmHVjgmlQheK6) | 4:28 | 2021-06-25 | 2021-08-14 |
@@ -607,6 +608,7 @@
 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 | 2024-02-05 |  |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2024-04-15 |  |
 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 | 2023-07-17 | 2025-01-13 |
+| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 |  |
 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 | 2023-05-19 | 2024-04-19 |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 | 2023-12-18 |
 | [We're Still Here](https://open.spotify.com/track/7CME4cSHQBk0gPFuUjq56D) | [For Giants](https://open.spotify.com/artist/1E9A2LYYOJEIR7cB7nsYg8) | [Big Sky](https://open.spotify.com/album/4vWzF4n5dcYRDWhcvH8iC9) | 4:24 | 2022-07-13 | 2022-07-30 |

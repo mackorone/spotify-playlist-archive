@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,838 songs - 3 day 16 hr 22 min
+1,840 songs - 3 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-02 | 2024-03-30 |
 | [berkshires](https://open.spotify.com/track/28r0lL76bZnYpgqUsXoKTe) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [berkshires](https://open.spotify.com/album/2n7jggFMyE44u2NxB80Pd9) | 2:17 | 2024-04-26 | 2024-05-25 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-17 | 2022-02-26 |
-| [BETTER](https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [BETTER](https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy) | 3:25 | 2025-02-28 |  |
+| [BETTER](https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [BETTER](https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy) | 3:25 | 2025-02-28 | 2025-05-03 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 | 2022-04-09 |
 | [Better Days](https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Better Days](https://open.spotify.com/album/4qzFpBw5XFOcy2a76DDwQK) | 2:33 | 2023-06-23 | 2023-07-22 |
 | [Big Bank](https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Big Bank \(feat\. Billy Lemos\)](https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6) | 2:42 | 2024-02-02 | 2024-06-01 |
@@ -279,7 +279,7 @@
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2022-10-05 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-20 | 2024-06-01 |
 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 | 2023-03-17 | 2023-06-08 |
-| [Cash Now](https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Cash Now](https://open.spotify.com/album/1HjzwfyDcg1OHv9yAa3BQA) | 3:25 | 2024-11-19 |  |
+| [Cash Now](https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Cash Now](https://open.spotify.com/album/1HjzwfyDcg1OHv9yAa3BQA) | 3:25 | 2024-11-19 | 2025-05-03 |
 | [CASTLE](https://open.spotify.com/track/7oEQApCP6NihfIYfNqlYlw) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [CASTLE](https://open.spotify.com/album/4bBkAvyBa03RflwiflLN8h) | 2:32 | 2020-11-13 | 2022-02-05 |
 | [catf!sh](https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [catf!sh](https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz) | 2:55 | 2023-08-18 | 2023-11-08 |
 | [Caught Up](https://open.spotify.com/track/2q6U5nhaGir7u5JdDlyBcE) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Caught Up](https://open.spotify.com/album/3wS0gOhNVeC22pYC7OlTSn) | 2:14 | 2020-10-13\* | 2021-03-26 |
@@ -870,6 +870,7 @@
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-09-11 | 2021-09-28 |
 | [just sayin \(づ￣ ³￣\)づ](https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [nu genesis](https://open.spotify.com/album/0nRwPTtogG3muGAFSw6J2r) | 2:11 | 2023-09-15 | 2024-01-10 |
 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 | 2021-03-23 | 2021-10-14 |
+| [keep it up](https://open.spotify.com/track/0QihOt3PvTC50rZKTc7CU0) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [keep it up](https://open.spotify.com/album/6q85e8IqXxFi0WGMJGuPkP) | 1:54 | 2025-05-02 |  |
 | [keep my cool](https://open.spotify.com/track/3TLYmF9jKDWCyXGglClcPS) | [Pacific](https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw) | [keep my cool](https://open.spotify.com/album/0RMaV7cv3a2A2vRn0nS23e) | 2:57 | 2022-07-22 | 2022-08-06 |
 | [KEEP UP!](https://open.spotify.com/track/0Z0KOXMTCR86yt7udgKgtb) | [paleblue.](https://open.spotify.com/artist/5Nc11nTr6PdpDe6xJFdUqw), [Monto](https://open.spotify.com/artist/1mXFL9lV4VY7dDstryxvD0) | [KEEP UP!](https://open.spotify.com/album/0aSBe3lB5Rr1z20UQUL14A) | 2:26 | 2023-08-25 | 2023-11-08 |
 | [Keep You Company](https://open.spotify.com/track/7DdpBcVcjDA9zKbKQrsCd7) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Keep You Company](https://open.spotify.com/album/4xrzbr2sh3X6FQlRoPZWoI) | 3:19 | 2023-03-17 | 2023-05-20 |
@@ -891,6 +892,7 @@
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-02-27 | 2024-06-01 |
 | [KRYPTONITE](https://open.spotify.com/track/3mLDq0hbHkafZoy4GvF7EG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:02 | 2024-07-02 | 2024-10-05 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2024-04-26 |
+| [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 | 2025-05-02 |  |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-03-29 | 2022-04-08 |
 | [Last Night!](https://open.spotify.com/track/4RxkErsYUmi1WyjGQvIrxH) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Last Night!](https://open.spotify.com/album/0P7Ws5NtZDmCZuKM8iOkEB) | 2:57 | 2020-10-13\* | 2021-02-13 |
 | [LATE NIGHT](https://open.spotify.com/track/4nMh9zhSlFnUj6vF8mG7IM) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [LATE NIGHT](https://open.spotify.com/album/4zjkHnGvh38hYeGAf7jFG7) | 5:08 | 2020-12-22 | 2021-02-20 |

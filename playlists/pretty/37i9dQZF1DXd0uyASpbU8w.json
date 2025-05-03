@@ -1,12 +1,12 @@
 {
   "description": "New music from De Mthuda, SjavasDaDeejay, Nontokozo Mkhize, Nandipha808  and more.",
-  "num_followers": 126415,
+  "num_followers": 127295,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBPu/QAAAAD82xuqau+ED+6sopD1Btc3",
+  "snapshot_id": "aBSPfgAAAACPECeq/JGQN6Wl4D2g9xze",
   "tracks": [
     {
       "added_at": "2025-05-01 22:00:29",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-05-01 22:00:29",
       "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "added_at": "2025-05-01 22:00:29",
+      "album": {
         "name": "Omama Bomthandazo",
         "url": "https://open.spotify.com/album/4F1ZkdgSY8BzEYfEIaA1al"
       },
@@ -439,34 +455,6 @@
       "duration_ms": 138787,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/5GZyTkTSAAzcbSnwcEcwFD"
-    },
-    {
-      "added_at": "2025-05-01 22:00:29",
-      "album": {
-        "name": "Amazwe",
-        "url": "https://open.spotify.com/album/1uB79d9Uf7t7H4pMoTOESq"
-      },
-      "artists": [
-        {
-          "name": "Zayo",
-          "url": "https://open.spotify.com/artist/0ZdG01zFFM38qFgZmZPE9y"
-        },
-        {
-          "name": "Sfundo",
-          "url": "https://open.spotify.com/artist/0op0566RVAkuZQQ76RWxLG"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        },
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Amazwe",
-      "url": "https://open.spotify.com/track/06hXLzosnqOCy6dn8BPQaT"
     },
     {
       "added_at": "2025-05-01 22:00:29",
@@ -967,22 +955,6 @@
       "duration_ms": 122880,
       "name": "flutter~",
       "url": "https://open.spotify.com/track/02zTUJnYzY6vBM3kQ8RR5X"
-    },
-    {
-      "added_at": "2025-05-01 22:00:29",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 112497,
-      "name": "Believe It",
-      "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
     },
     {
       "added_at": "2025-05-01 22:00:29",

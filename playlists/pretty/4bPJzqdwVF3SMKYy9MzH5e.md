@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,131 songs - 4 day 18 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,133 songs - 4 day 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,7 +420,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 410 | [GENOCIDE](https://open.spotify.com/track/68Y3zzmt2XxzheQVGbbJt4) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [GENOCIDE](https://open.spotify.com/album/6wmwWYzwMK3NrTstuvKasD) | 10:32 |
 | 411 | [FSU](https://open.spotify.com/track/5wHs3O2fHwCFpB1tUrfqvc) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Klitorius B.I.G.](https://open.spotify.com/album/4uM0wAnd3GYjuGrWwdhF46) | 2:12 |
 | 412 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
-| 413 | [LATATA \- English Ver.](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA \(English Ver.\)](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) | 3:22 |
+| 413 | [LATATA \- English Ver.](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA \(English Ver.\)](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) | 3:22 |
 | 414 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 415 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 416 | [19](https://open.spotify.com/track/4jAif33FWQlOCwGKoHXbXg) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [19](https://open.spotify.com/album/4H59aVCV5LwfpvSaiLEBau) | 3:48 |
@@ -2139,5 +2139,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2129 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
 | 2130 | [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 |
 | 2131 | [Rush](https://open.spotify.com/track/4gqakJ2DQ5NoTqNHxyIBAM) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:36 |
+| 2132 | [sex dealer](https://open.spotify.com/track/2252WLkjUzZaLhNvq8GhXO) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [sex dealer](https://open.spotify.com/album/5PkfpuleTH72PNp2AMMKbN) | 4:22 |
+| 2133 | [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [envy](https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg) | 2:08 |
 
-Snapshot ID: `AAAEJkbh8crXBJmwCMlOBK+rk6XKtywd`
+Snapshot ID: `AAAEKJRn3Q3NBSC+l5LL9/QUUUcbCEdp`

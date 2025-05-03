@@ -6291,6 +6291,32 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/0ShUvcqID5CKqRBgHwwYEg"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Sly Dunbar",
+          "url": "https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8"
+        },
+        {
+          "name": "Micah Shemaiah",
+          "url": "https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276101,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/4MPN2y9c3jwxM0kuqlV80r"
+    },
+    {
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -6418,7 +6444,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-03",
       "duration_ms": 259217,
       "name": "Saber a D\u00f3nde ir",
       "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"

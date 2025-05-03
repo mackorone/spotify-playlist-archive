@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-412 songs - 1 day 0 hr 57 min
+413 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/1dN6LzonVuFgQ90x4Ttrse) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/2lqcFHVGcnVbR0SvqSICSv) | 4:30 | 2022-03-04 | 2022-07-29 |
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-03-04 | 2022-09-03 |
 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-09-27 |  |
+| [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 | 2025-05-02 |  |
 | [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 | 2024-05-25 |
 | [El Consejito](https://open.spotify.com/track/7wcATwSV0G8gTTRHEK7hDq) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [Bachata Sweet](https://open.spotify.com/artist/4nr2jZUbQ2cbgxsjJzcmLh) | [El Consejito](https://open.spotify.com/album/7ti61VMmLGJZb9GSwNj4Io) | 3:47 | 2024-09-20 |  |
 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 | 2024-01-13 |

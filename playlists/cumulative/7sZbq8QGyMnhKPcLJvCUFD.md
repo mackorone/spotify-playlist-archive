@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-699 songs - 1 day 11 hr 25 min
+701 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,8 @@
 | [Royalty \- Don Diablo Remix](https://open.spotify.com/track/78zKViVRByb2f2TowJKNEI) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Royalty \(Don Diablo Remix\)](https://open.spotify.com/album/5yZ1s1YJX1MABbvVbZ4VCG) | 2:58 | 2023-12-13 | 2024-07-19 |
 | [Royalty \- Super Slowed + Reverb](https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Royalty \(Sped Up/Slowed\)](https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG) | 4:48 | 2024-11-25 |  |
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/6kl3BgBeYYAUtuxDi5aKQX) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/6JmrofiP260WXR2BhVOfLK) | 3:32 | 2023-08-08 | 2024-01-12 |
+| [Royalty Funk](https://open.spotify.com/track/50y5VdjFgPlB9lFmxIubpL) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty Funk](https://open.spotify.com/album/2g60Hy7fXxHvuHaiiq78Bj) | 2:57 | 2025-05-02 |  |
+| [Royalty Funk \- Slowed](https://open.spotify.com/track/5LpKjR8yRr8jFB4JqRF6nF) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Royalty Funk](https://open.spotify.com/album/2g60Hy7fXxHvuHaiiq78Bj) | 3:18 | 2025-05-02 |  |
 | [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 | 2023-12-13 | 2024-05-15 |
 | [RUINS](https://open.spotify.com/track/7dqPEz5vP4Ehs597W8Qr7l) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [RUINS](https://open.spotify.com/album/2VCQ9VOhjvUqJdXKcHKxLx) | 2:42 | 2024-12-08 |  |
 | [Runaway](https://open.spotify.com/track/4WxfXOGAFvxWHadw9IIPhd) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Runaway](https://open.spotify.com/album/6NeIhmkOSB13wNRmiRSuyP) | 3:39 | 2025-04-16 |  |

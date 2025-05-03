@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain](/playlists/plain/37i9dQZF1DXbADqT0j1Cxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbADqT0j1Cxt)
 
-### [Lullaby Baby](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
+### [Baby Lullabies 2025](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
 
 > Lull your little ones to sleep with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,136 likes - 228 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,121 likes - 228 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 22 | [Little pony](https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Little pony](https://open.spotify.com/album/0Grvlj3TuPZu0QZrRxeC9a) | 1:18 |
 | 23 | [Go Tell it On the Mountain](https://open.spotify.com/track/5HPIg89L5vAPAeGOdnfWbD) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [Go Tell It On The Mountain](https://open.spotify.com/album/5obRCT8ug1dSmVQTSG93zd) | 1:29 |
 | 24 | [Petal\-soft](https://open.spotify.com/track/4w783qm4zlrrFDL8Uov6tR) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Petal\-soft](https://open.spotify.com/album/7mvucJTMhIq6iq4HGivSKb) | 1:29 |
-| 25 | [Candle](https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf) | [Tod Forest](https://open.spotify.com/artist/3dR4DyRnf8FpWedmeoDnNw) | [Candle](https://open.spotify.com/album/44uQ12HqEUAezRIwSUHgez) | 2:48 |
-| 26 | [Polly Wolly Doodle](https://open.spotify.com/track/6k3zfD44SLtPDPqysgTYd9) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Polly Wolly Doodle](https://open.spotify.com/album/6qYgS9txCqExvzBCsZsJRh) | 1:34 |
-| 27 | [Cherry Blossom](https://open.spotify.com/track/1y5trCWdW2mqGjYhOguDxe) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Cherry Blossom](https://open.spotify.com/album/5S95PfTn7BZX3FSua5TQ6L) | 2:00 |
-| 28 | [A Teddy Tale](https://open.spotify.com/track/3KqmBFnuQafY4kfVB9tCne) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [A Teddy Tale](https://open.spotify.com/album/6hGKxzwBDe5BjrA2D2iVQX) | 1:50 |
-| 29 | [Wonder Wheel](https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Wonder Wheel](https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe) | 2:03 |
-| 30 | [My Favourite Lullaby](https://open.spotify.com/track/4xnbJtpHrRhC4Nsiv267uV) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [My Favourite Lullaby](https://open.spotify.com/album/36USCT1gnJvu0VrZdbp4cI) | 1:59 |
-| 31 | [Gentle Summer Whisper](https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF) | [Serenna Rose](https://open.spotify.com/artist/2xf55c70Tg8MFm1ZB6uXfY) | [Gentle Summer Whisper](https://open.spotify.com/album/0sSYuvTwd0x7vgjZIgU1XN) | 2:23 |
-| 32 | [Embers Fade](https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [Embers Fade](https://open.spotify.com/album/1lNduh9ABeVDDbsxvlY3Me) | 2:26 |
+| 25 | [Polly Wolly Doodle](https://open.spotify.com/track/6k3zfD44SLtPDPqysgTYd9) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Polly Wolly Doodle](https://open.spotify.com/album/6qYgS9txCqExvzBCsZsJRh) | 1:34 |
+| 26 | [Cherry Blossom](https://open.spotify.com/track/1y5trCWdW2mqGjYhOguDxe) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Cherry Blossom](https://open.spotify.com/album/5S95PfTn7BZX3FSua5TQ6L) | 2:00 |
+| 27 | [A Teddy Tale](https://open.spotify.com/track/3KqmBFnuQafY4kfVB9tCne) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [A Teddy Tale](https://open.spotify.com/album/6hGKxzwBDe5BjrA2D2iVQX) | 1:50 |
+| 28 | [Wonder Wheel](https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Wonder Wheel](https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe) | 2:03 |
+| 29 | [My Favourite Lullaby](https://open.spotify.com/track/4xnbJtpHrRhC4Nsiv267uV) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [My Favourite Lullaby](https://open.spotify.com/album/36USCT1gnJvu0VrZdbp4cI) | 1:59 |
+| 30 | [Gentle Summer Whisper](https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF) | [Serenna Rose](https://open.spotify.com/artist/2xf55c70Tg8MFm1ZB6uXfY) | [Gentle Summer Whisper](https://open.spotify.com/album/0sSYuvTwd0x7vgjZIgU1XN) | 2:23 |
+| 31 | [Embers Fade](https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [Embers Fade](https://open.spotify.com/album/1lNduh9ABeVDDbsxvlY3Me) | 2:26 |
+| 32 | [Candle](https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf) | [Tod Forest](https://open.spotify.com/artist/3dR4DyRnf8FpWedmeoDnNw) | [Candle](https://open.spotify.com/album/44uQ12HqEUAezRIwSUHgez) | 2:48 |
 | 33 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 |
 | 34 | [Happy Thoughts](https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Happy Thoughts](https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K) | 1:47 |
 | 35 | [Fairytales Land](https://open.spotify.com/track/2Xlio7XTJ68wIbaAgctKJF) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [Fairytales Land](https://open.spotify.com/album/2FpiDvq1DknNezeTyi37uO) | 1:29 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 227 | [Chanson De Berceau](https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Chanson De Berceau](https://open.spotify.com/album/3ksCDiVFTXCwVKxTRV6qh7) | 1:41 |
 | 228 | [When You Wish Upon a Star](https://open.spotify.com/track/2jgqPeRJrWyu1FXxBGifO4) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [When You Wish Upon a Star](https://open.spotify.com/album/5xKiC8TCmet0xTaPhXqPqe) | 1:52 |
 
-Snapshot ID: `aAuiFAAAAADztLv0KkO0QcIr1l3Nq2ii`
+Snapshot ID: `aBTHXgAAAADzYzWInJ5Ks1dKNWFF+4mM`

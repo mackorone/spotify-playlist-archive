@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-216 songs - 11 hr 35 min
+217 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Call It Fate](https://open.spotify.com/track/7bbOBTzOTKmBlq73jaKR0R) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Tanner Olsen Band](https://open.spotify.com/artist/3m96FTKdWG3Qe3AtniTgcy) | [Call It Fate](https://open.spotify.com/album/7LsnPAL7caJqqbU9LQFitH) | 3:34 | 2024-01-19 |  |
 | [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/track/4IyrCFU0VeashNaFySWyQm) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/album/3MCSqRSRpH36UeP6PmeHvt) | 2:18 | 2023-02-03 |  |
 | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/track/0CTLLbwxLjQghLELl6pI2P) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/album/6FoGSb71NHjSYugHNGcppQ) | 4:02 | 2021-12-10 |  |
+| [Can't Say No](https://open.spotify.com/track/5ExV88XemAoke7Yf2y9814) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Can't Say No](https://open.spotify.com/album/0Ow1ORYMZy58bqZppQ4lz9) | 2:23 | 2025-05-02 |  |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-29 |  |
 | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/album/1b6BA0fpdHJyYsO04QQIb6) | 3:30 | 2021-12-10 |  |
 | [Cheatin’ Songs \- Montana Mix](https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Cheatin' Songs \(Montana Mix & Original\)](https://open.spotify.com/album/4de5W0Qd5KMwhImXPRmFpV) | 3:30 | 2021-12-10 |  |

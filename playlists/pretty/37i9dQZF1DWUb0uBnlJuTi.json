@@ -1,13 +1,41 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 381688,
+  "num_followers": 381809,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9OpxQAAAABa0ZnacXj4bu8dKkKUzKkD",
+  "snapshot_id": "aBRDUQAAAABHWk5f2LRh/8x9kijHsqIY",
   "tracks": [
+    {
+      "added_at": "2025-05-02 04:00:17",
+      "album": {
+        "name": "It's Your World",
+        "url": "https://open.spotify.com/album/6G9tEJRppAR7FQ3PVAwxj3"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 354226,
+      "name": "It's Your World - Single Version",
+      "url": "https://open.spotify.com/track/0iRopWFR87lMESKFtcs3Md"
+    },
     {
       "added_at": "2025-01-24 05:00:24",
       "album": {
@@ -2247,22 +2275,6 @@
       "duration_ms": 308880,
       "name": "Got Myself a Good Man",
       "url": "https://open.spotify.com/track/47p7EXLVpPSr3l9wK9bA4E"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Path to Macondo / Those Kind of Blues",
-        "url": "https://open.spotify.com/album/4v7kZ0dLyvVF77QdyiLkrL"
-      },
-      "artists": [
-        {
-          "name": "Brian Jackson",
-          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "Path to Macondo / Those Kind of Blues",
-      "url": "https://open.spotify.com/track/2PXbe0cm5zAfdy6bUHACUe"
     },
     {
       "added_at": "2021-04-09 04:01:00",

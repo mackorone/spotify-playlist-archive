@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,167 likes - 66 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,183 likes - 66 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 11 | [Matterhorn](https://open.spotify.com/track/3Ip1Z02mNhxAKQUPfYefc2) | [The Country Gentlemen](https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd) | [Matterhorn](https://open.spotify.com/album/5JQcYPZdtvwPfjrEKGgXMs) | 2:54 |
 | 12 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 |
 | 13 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 |
-| 14 | [I've Endured](https://open.spotify.com/track/79FJlPAvPAQFUAfz9eN4uO) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [Bud Reed](https://open.spotify.com/artist/4DHyBVt8c56Yf6O2iXK57O), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 2:52 |
+| 14 | [I've Endured \- 1](https://open.spotify.com/track/79FJlPAvPAQFUAfz9eN4uO) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 2:52 |
 | 15 | [Roll In My Sweet Baby's Arms](https://open.spotify.com/track/4E9r16yASQAAVq14J4GhGC) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [The Best Of Flatt and Scruggs](https://open.spotify.com/album/0CRyCufE06Z3RQEUmwKw2b) | 2:37 |
 | 16 | [How Mountain Girls Can Love](https://open.spotify.com/track/3h4ZRO4FPpK53fOYLVZOxJ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers And The Clinch Mountain Boys](https://open.spotify.com/album/4g3jAc1BMq3LCl0YuY6Asz) | 2:07 |
 | 17 | [Molly & Tenbrooks \- 1957 Single Version](https://open.spotify.com/track/5HuQt467HFhwROFQeokgJH) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [20th Century Masters: The Millennium Collection: Best Of Bill Monroe](https://open.spotify.com/album/52sqlqfTLSEJMfO3sEmfC9) | 2:22 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 29 | [Home to the Mountains](https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 3:24 |
 | 30 | [Footprints In The Snow](https://open.spotify.com/track/6wdwUyS3p0YzEIhVLCUsfG) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Winning Combinations](https://open.spotify.com/album/7LGRimdS3Luv7CBis7g3CM) | 2:40 |
 | 31 | [I Get My Whiskey From Rockingham](https://open.spotify.com/track/4cflYCggviRhnRG5S7imFv) | [Earl Johnson](https://open.spotify.com/artist/5gQB55Wng31KUOSUFQHkBM) | [Earl Johnson Vol\. 1 1927](https://open.spotify.com/album/3Rzrkz2HjdEApCXVeO1KoO) | 3:01 |
-| 32 | [High on the Mountain](https://open.spotify.com/track/3H88Mnt8OpEVKqtFK4VvLt) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 3:06 |
+| 32 | [High on the Mountain](https://open.spotify.com/track/3H88Mnt8OpEVKqtFK4VvLt) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 3:06 |
 | 33 | [Memories of Mother](https://open.spotify.com/track/4uk1WENjMkYVgm9a0Of2KQ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Good Old Camp Meeting Songs](https://open.spotify.com/album/7bSng1kchWyLywbkzLiseT) | 2:51 |
 | 34 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 35 | [I Will Always Be Waiting For You](https://open.spotify.com/track/23Ogy9kRYDlusz8o49sJPn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Best Of The Early Years](https://open.spotify.com/album/4CvRWTqKpgMysELjd1pa63) | 2:16 |
