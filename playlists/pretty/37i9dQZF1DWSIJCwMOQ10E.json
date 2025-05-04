@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 100182,
+  "num_followers": 100209,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
+        "name": "De Amor",
+        "url": "https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w"
+      },
+      "artists": [
+        {
+          "name": "Karen Lizarazo",
+          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+        },
+        {
+          "name": "LuisRa",
+          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
+        }
+      ],
+      "duration_ms": 180566,
+      "name": "Dime Que Ves",
+      "url": "https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "De Amor",
-        "url": "https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w"
-      },
-      "artists": [
-        {
-          "name": "Karen Lizarazo",
-          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
-        },
-        {
-          "name": "LuisRa",
-          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
-        }
-      ],
-      "duration_ms": 180566,
-      "name": "Dime Que Ves",
-      "url": "https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl"
     },
     {
       "added_at": "2024-12-20 02:07:29",

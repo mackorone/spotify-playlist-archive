@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Eric Church, Bailey Zimmerman with Luke Combs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,333 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,566 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 48 | [Look The Other Way](https://open.spotify.com/track/1EHHQWjLwz8SadraxQu7gb) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Look The Other Way](https://open.spotify.com/album/15VXLUSChrVcQ7h54qgTez) | 2:30 |
 | 49 | [This Side Of The Dirt \(Midnight\)](https://open.spotify.com/track/49RtVv3qzpzFyWNbO3wvCa) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [This Side Of The Dirt \(Midnight\)](https://open.spotify.com/album/0ra6EAOvTDd8499i1Lw2zg) | 2:54 |
 | 50 | [Calling It Now](https://open.spotify.com/track/4qvyRuSD2DnKbCyfSc9H2V) | [HAYS](https://open.spotify.com/artist/5X3htdReMDESZ48LXgy33t) | [Calling It Now](https://open.spotify.com/album/1adGVmdh6qKpgqOHgcKctq) | 2:28 |
-| 51 | [I'm Not Dumb](https://open.spotify.com/track/4zSFiNzO7RsMzKqS42YxaL) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [I'm Not Dumb](https://open.spotify.com/album/7F51e5MwvZh13JVRcZBK9f) | 2:57 |
+| 51 | [I'm Not Dumb](https://open.spotify.com/track/4zSFiNzO7RsMzKqS42YxaL) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [I'm Not Dumb](https://open.spotify.com/album/7F51e5MwvZh13JVRcZBK9f) | 3:07 |
 | 52 | [Down In History](https://open.spotify.com/track/6pgyp6riH4e5mz8RqvFL0t) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Down In History](https://open.spotify.com/album/1VODPaB5SRadcnRK39xHrr) | 3:11 |
 | 53 | [Yo\-Yo](https://open.spotify.com/track/5mjGCamdfZt5igub3sgvF1) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Yo\-Yo](https://open.spotify.com/album/0Rfrbffryab6aXJeD3xIc0) | 2:43 |
 | 54 | [Every Once In a While](https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Every Once In a While](https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992) | 3:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 84 | [The Touch \(feat\. Marty Stuart\)](https://open.spotify.com/track/4AAB3oiubwh23HUIDkgXiN) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [The Touch \(feat\. Marty Stuart\)](https://open.spotify.com/album/2IxYb3WZLxx9PuleqbfeMB) | 4:51 |
 | 85 | [Stop Loving You \(feat\. Haley Mae Campbell\)](https://open.spotify.com/track/2i38WKm3aFEdDRfiCl64XY) | [Thomas Mac](https://open.spotify.com/artist/4cpxRQtv9dBgqAqLKDTiHf), [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Stop Loving You](https://open.spotify.com/album/4zbSymscMtsNpBdH4HQP0g) | 2:25 |
 
-Snapshot ID: `aBRDZQAAAADAzAVTg/6vRavTxyLvumsU`
+Snapshot ID: `aBRDZQAAAACVh2WKAWcEogwwCrWJCJl7`

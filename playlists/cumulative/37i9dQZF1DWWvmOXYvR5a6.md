@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Huh\(허성현\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-764 songs - 1 day 17 hr 2 min
+765 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [first love \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/2LfXmEBokneZ3InvHhBRa7) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [first love \(Feat\. ASH ISLAND\)](https://open.spotify.com/album/4cHnK7DeplVJuEg6iyS7r6) | 3:24 | 2024-09-03 | 2024-10-31 |
 | [Fix Me](https://open.spotify.com/track/2TzQZ6iJyZqz0tjFkcFrPe) | [LOGI](https://open.spotify.com/artist/0ewSxMPycHkb7j1ciLzGUW) | [Fix Me](https://open.spotify.com/album/6RFbxZglh7xXZrkkxXWOGv) | 3:08 | 2022-06-09 | 2022-07-14 |
 | [Flamingo](https://open.spotify.com/track/1fLLxMudwvBxDyYGooLJ4K) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [Flamingo](https://open.spotify.com/album/0AWzM5jb8KCBx6eF5L9w4I) | 3:02 | 2022-04-01 | 2022-04-21 |
-| [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-04-01 |  |
+| [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-04-01 | 2025-05-04 |
 | [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 | 2022-08-08 |
 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 | 2022-05-28 | 2022-07-15 |
 | [Fool To Love](https://open.spotify.com/track/1xF51lGbgdTmJ2QZGbUfwA) | [YELLA D](https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog) | [Fool To Love](https://open.spotify.com/album/7dJniFYQQHL7cybhKvOEl4) | 3:04 | 2022-04-01 | 2022-04-21 |
@@ -598,6 +598,7 @@
 | [Shhh \(Feat.Leellamarz\) \(Prod.GRAY\)](https://open.spotify.com/track/0x3WxddWUurD9VTkgcFt9a) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MUSE](https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y) | 3:29 | 2022-08-12 | 2022-10-16 |
 | [Shmammered remix](https://open.spotify.com/track/4R6ZIs33DFXUF4oWnmfsMB) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:02 | 2022-04-01 | 2022-04-21 |
 | [Shoot it up! \(Feat\. h3hyeon\)](https://open.spotify.com/track/7dHtlOyaKKZSrBKEN0w5bC) | [KANGXIHO](https://open.spotify.com/artist/3llwzHsnLXfNZM2WHBIKSE), [황세현](https://open.spotify.com/artist/6MDYgZ07ut5rAWHI45PtwR) | [Fear of the \( \)](https://open.spotify.com/album/5FFXoBzV315Rey6CfVEdVu) | 2:32 | 2022-06-20 | 2022-06-23 |
+| [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 | 2025-04-30 |  |
 | [Show Window \(Feat\. pH\-1\)](https://open.spotify.com/track/2kNyLmoOsWq89SNSJzdoUs) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:59 | 2022-04-21 | 2022-07-28 |
 | [Shy \(eh o\)](https://open.spotify.com/track/4OGE9JDSqSGrfi7AF158uG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Organic](https://open.spotify.com/album/2GwAfaPbHNEfxwhMWNuNko) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [Shy \(eh o\)](https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 3:23 | 2022-07-24 | 2024-04-19 |

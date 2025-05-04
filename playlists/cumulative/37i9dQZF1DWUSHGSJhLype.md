@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Kamisa 10, Natanzinho Lima
 
-433 songs - 20 hr 37 min
+434 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Golzinho Vermelho \- Ao Vivo](https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Golzinho Vermelho \(Ao Vivo\)](https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3) | 2:35 | 2023-08-25 | 2024-12-27 |
 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 | 2024-07-05 |  |
 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 | 2023-05-15 | 2024-12-27 |
+| [Grudinho](https://open.spotify.com/track/3kR2kKH30gMT93QP2Efwsi) | [Leo Marques](https://open.spotify.com/artist/5Jv18wWPLUN7h82hWaF45I), [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Grudinho](https://open.spotify.com/album/11yvcxMQky9UOxR4K2oaxl) | 2:37 | 2025-05-02 |  |
 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/1V4l4h7kYaKyXJk74g6ilu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp) | 2:33 | 2023-10-23 | 2023-11-18 |
 | [Hackearam\-me](https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 3:21 | 2023-05-15 | 2023-09-16 |
 | [Halls na Língua](https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Halls na Língua](https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09) | 3:12 | 2023-05-15 | 2024-12-27 |
@@ -372,7 +373,7 @@
 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 | 2024-11-08 | 2025-02-25 |
 | [Surra De Toma \- Ao Vivo](https://open.spotify.com/track/3lzZ8IKfeyefBvv7qVbUmR) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 2:14 | 2025-01-10 |  |
 | [Surto Coletivo \- Ao Vivo](https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 3:10 | 2024-12-20 |  |
-| [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-07-23 |  |
+| [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-07-23 | 2025-05-04 |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2023-05-15 | 2023-10-24 |
 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-12 | 2025-02-01 |
 | [Só No Aquecimento](https://open.spotify.com/track/6dqp2TrrFUyqxXHMGbBeml) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Nuzio Medeiros](https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL), [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Só No Aquecimento](https://open.spotify.com/album/3Kot1u0EnG4vFmjouH3ylx) | 2:20 | 2025-04-25 |  |

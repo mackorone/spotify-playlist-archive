@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Karmento.",
-  "num_followers": 129244,
+  "num_followers": 129267,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+        },
+        {
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+        }
+      ],
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Esto No Es un Disco Vol.2",
-        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o de la Hipoteca",
-          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
-        },
-        {
-          "name": "Sandra Bautista",
-          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
-        }
-      ],
-      "duration_ms": 158341,
-      "name": "Testamento - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
+        "name": "Traigo un canto guardado",
+        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 228555,
+      "name": "Traigo un canto guardado",
+      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 212019,
       "name": "T\u00f3came",
       "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Traigo un canto guardado",
-        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 228555,
-      "name": "Traigo un canto guardado",
-      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Me lo merezco",
-        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Me lo merezco",
-      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
+        "name": "Me lo merezco",
+        "url": "https://open.spotify.com/album/4AJJoolBDiitJ7qZJzZgHP"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
         }
       ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
+      "duration_ms": 158306,
+      "name": "Me lo merezco",
+      "url": "https://open.spotify.com/track/1QDWKOcIKpo8UMkufMdpQG"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Te quiere todo el mundo",
+        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
+      },
+      "artists": [
+        {
+          "name": "Pablo Und Destruktion",
+          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
+        }
+      ],
+      "duration_ms": 200998,
+      "name": "La reacci\u00f3n sexual",
+      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Te quiere todo el mundo",
-        "url": "https://open.spotify.com/album/2Ubl2p3wTkn8zyM4yFoewI"
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
       },
       "artists": [
         {
-          "name": "Pablo Und Destruktion",
-          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 200998,
-      "name": "La reacci\u00f3n sexual",
-      "url": "https://open.spotify.com/track/4kFvjPO8tDRGLirZWl3qRP"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Cenicientes del carb\u00f3n",
-        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 244742,
-      "name": "Cenicientes del carb\u00f3n",
-      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1407,6 +1391,22 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Cenicientes del carb\u00f3n",
+        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 244742,
+      "name": "Cenicientes del carb\u00f3n",
+      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1571,22 +1571,34 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Nana Huracanada",
-        "url": "https://open.spotify.com/album/3vBaYl0h7xTkgxe2U72VBZ"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Guada\u00f1a",
-          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
-        },
-        {
-          "name": "Kike Ganso",
-          "url": "https://open.spotify.com/artist/36tPNZknXnTBC0LcuxEXgU"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 196053,
-      "name": "Nana Huracanada",
-      "url": "https://open.spotify.com/track/7ngsxv8EkSTXWXc5Gcz7zz"
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mariana Senna",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1607,18 +1619,22 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+        "name": "Nana Huracanada",
+        "url": "https://open.spotify.com/album/3vBaYl0h7xTkgxe2U72VBZ"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Mar\u00eda Guada\u00f1a",
+          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
+        },
+        {
+          "name": "Kike Ganso",
+          "url": "https://open.spotify.com/artist/36tPNZknXnTBC0LcuxEXgU"
         }
       ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+      "duration_ms": 196053,
+      "name": "Nana Huracanada",
+      "url": "https://open.spotify.com/track/7ngsxv8EkSTXWXc5Gcz7zz"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1635,22 +1651,6 @@
       "duration_ms": 214835,
       "name": "ella calma mi tormenta",
       "url": "https://open.spotify.com/track/4Wf2cR3BjqBGjFxVNZyTFI"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
-      },
-      "artists": [
-        {
-          "name": "Mariana Senna",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "S\u00edgueme",
-        "url": "https://open.spotify.com/album/3ii6PrA2My1Pz2nnOzmUs9"
-      },
-      "artists": [
-        {
-          "name": "Ove",
-          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
-        }
-      ],
-      "duration_ms": 231642,
-      "name": "S\u00edgueme",
-      "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/3ii6PrA2My1Pz2nnOzmUs9"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "duration_ms": 231642,
+      "name": "S\u00edgueme",
+      "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
     },
     {
       "added_at": "2025-05-01 22:00:20",

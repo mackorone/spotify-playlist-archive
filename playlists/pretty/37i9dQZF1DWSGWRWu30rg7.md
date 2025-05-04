@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  NO NA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,901 likes - 88 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,908 likes - 88 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 9 | [Letters in the Wind](https://open.spotify.com/track/5xvNuTJW5v37hfYghdATPQ) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [Letters in the Wind](https://open.spotify.com/album/3xcny7wzkygg6VbFZYVhcc) | 3:14 |
 | 10 | [Rindu](https://open.spotify.com/track/07Pb2bHaD0QnsoEyCggpqE) | [Chrisalia](https://open.spotify.com/artist/53b5B5Gxk2C8JdtmLdcvjg) | [Rindu](https://open.spotify.com/album/5I9GnQQZQvxYrXenQb5fW5) | 4:05 |
 | 11 | [Wildfires](https://open.spotify.com/track/38AAuWfmItCn3dQaYixUUA) | [Karsha](https://open.spotify.com/artist/1AnRPfFu4rRNCrfOWMYHOO) | [Wildfires](https://open.spotify.com/album/28iZ66KRRKQ73pd755X7s0) | 3:41 |
-| 12 | [CUKUUP!](https://open.spotify.com/track/7JtnrSSkQeFJGyEbqhctSY) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI), [Concerto](https://open.spotify.com/artist/4zARraGJGuaC9hoeFpMKmk) | [CUKUUP!](https://open.spotify.com/album/1lmLWnyuS4w3CrnLYdKmye) | 2:16 |
+| 12 | [CUKUUP!](https://open.spotify.com/track/7JtnrSSkQeFJGyEbqhctSY) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI), [Concerto](https://open.spotify.com/artist/4NS5bBuhLGEigxOjxTtzSZ) | [CUKUUP!](https://open.spotify.com/album/1lmLWnyuS4w3CrnLYdKmye) | 2:16 |
 | 13 | [The Fall Of A Confused Empire](https://open.spotify.com/track/1XFz2E1iiL5XFCmxq59m7m) | [Alfian Emir Adytia](https://open.spotify.com/artist/7ckzCiGZWG0uX83L5haBZL) | [The Fall Of A Confused Empire](https://open.spotify.com/album/5a98RlQSqszL7TYdebL7VD) | 4:40 |
 | 14 | [Love Paradox](https://open.spotify.com/track/7sGEZgK8kExfs4bKT3BuYL) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt), [Elle Husodo](https://open.spotify.com/artist/0nUilFmCmSPDA0mslJwywO) | [Love Paradox](https://open.spotify.com/album/1oER41VExJajSeKBLzek1c) | 4:49 |
 | 15 | [Atau Mati Terlebih Dulu?](https://open.spotify.com/track/3WqI4EWvpkNDnbQChDjIql) | [PVLETTE](https://open.spotify.com/artist/2dYQxSe7fIwcSxwo8nMtMe) | [Atau Mati Terlebih Dulu?](https://open.spotify.com/album/4RtUadGZRDGXso5vJtfKEq) | 4:27 |

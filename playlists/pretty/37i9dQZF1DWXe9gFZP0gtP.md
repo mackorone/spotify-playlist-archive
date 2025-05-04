@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650,166 likes - 210 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,650,519 likes - 210 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 209 | [Sacred Haven](https://open.spotify.com/track/58KoCXSQfOYtqIiLHJrbFq) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Haven](https://open.spotify.com/album/62ojiGKjVjxc53HVl5gS7M) | 3:24 |
 | 210 | [Savasana](https://open.spotify.com/track/6VMFFTc67fa6tWoLofoW7j) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Savasana](https://open.spotify.com/album/0lSmXvIVnx92pianue5amK) | 3:15 |
 
-Snapshot ID: `AAAAAOtA3cKDyihBmyJtqqf1Cql30RUo`
+Snapshot ID: `aApIAgAAAABmgcwb8cpAyr+bu7peMwf6`

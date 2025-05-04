@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-279 songs - 14 hr 18 min
+280 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 | 2022-09-23 | 2023-01-04 |
 | [Kiss Me \- Acoustic](https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Kiss Me \(Acoustic\)](https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR) | 2:15 | 2024-09-06 | 2024-10-26 |
 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 | 2022-04-10 | 2024-07-27 |
+| [Landslide \- Acoustic](https://open.spotify.com/track/1EvKNWy03koO00YezaSYLv) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Landslide \(Acoustic\)](https://open.spotify.com/album/0cNmFRc8lFjIGwdtgJYLjp) | 2:56 | 2025-05-03 |  |
 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 | 2023-12-15 |  |
 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 | 2019-10-13 |  |
 | [Lay All Your Love On Me \- Acoustic](https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Lay All Your Love On Me \(Acoustic\)](https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq) | 2:44 | 2023-09-30 | 2025-02-10 |

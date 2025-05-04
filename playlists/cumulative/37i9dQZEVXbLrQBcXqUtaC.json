@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 219266,
       "name": "Aybaah",
       "url": "https://open.spotify.com/track/5iyZWYdb4RmL94Ul9Nfta7"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -7370,7 +7370,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 251305,
       "name": "Enta Be Damy",
       "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
@@ -8036,7 +8036,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -10094,7 +10094,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 400320,
       "name": "Hbnah Antaha",
       "url": "https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7"
@@ -11596,7 +11596,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
@@ -11614,7 +11614,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n"
@@ -23170,7 +23170,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -23188,7 +23188,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -26576,7 +26576,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -27567,6 +27567,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a , \u0631\u0627\u062d\u0646 \u0633\u0646\u064a\u0646 \u0627\u0644\u0639\u0645\u0631):",
+        "url": "https://open.spotify.com/album/0cUupAZ9IAXHn9MPCca5gy"
+      },
+      "artists": [
+        {
+          "name": "\u0646\u06af\u0633 fM .",
+          "url": "https://open.spotify.com/artist/31BZU1194ikYzxWhAIaejq"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a , \u0631\u0627\u062d\u0646 \u0633\u0646\u064a\u0646 \u0627\u0644\u0639\u0645\u0631):",
+      "url": "https://open.spotify.com/track/61O5dNJOyQDkMg0PEke2IZ"
+    },
+    {
+      "album": {
         "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a , \u0634\u0644\u0648\u0646 \u0645\u0627\u0644\u062d\u0642\u062a \u0627\u0648\u062f\u0639\u0643 \u0648\u0644\u0627\u0642\u0648\u0644\u0643 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0647 , \u0634\u0644\u0648\u0646 \u0627\u0639\u064a\u0634 \u0627\u0644\u062f\u0646\u064a\u0627 \u0628\u0639\u062f\u0643 #\u0639\u0631\u0627\u0642\u064a",
         "url": "https://open.spotify.com/album/5m9Py8ZXORpIkkudBX14VE"
       },
@@ -28152,7 +28170,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 262368,
       "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
       "url": "https://open.spotify.com/track/3iPUqYAqDdpnTmCF2FRFdX"

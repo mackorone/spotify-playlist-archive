@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Jude York
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,784 likes - 26 songs - 1 hr 18 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,782 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 18 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
 | 19 | [Grapevine](https://open.spotify.com/track/7vgjOfFCwU7dxc3l7tyan3) | [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH) | [Grapevine](https://open.spotify.com/album/26HldAj8uHjalZXRTWo8w9) | 3:41 |
 | 20 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
-| 21 | [Spacer \(feat\. NOEMIE\) \[unfazed Remix\]](https://open.spotify.com/track/38DOoMDs5sBm81uFm0Ekuj) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ), [NOEMIE](https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Spacer \(feat\. NOEMIE\) \[unfazed Remix\]](https://open.spotify.com/album/4OlzFQTq5XyB1xlIpLzPrg) | 2:46 |
+| 21 | [Spacer \(unfazed Remix\)](https://open.spotify.com/track/38DOoMDs5sBm81uFm0Ekuj) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [NOEMIE](https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Spacer \(unfazed Remix\)](https://open.spotify.com/album/4OlzFQTq5XyB1xlIpLzPrg) | 2:46 |
 | 22 | [5 Days In Búzios](https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [5 Days In Búzios](https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt) | 4:03 |
 | 23 | [More Life](https://open.spotify.com/track/1XFTkAAL8bO2f3WHFNeXBN) | [Floris van Oranje](https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o) | [More Life](https://open.spotify.com/album/7yCIuNN0dwqhRo3VmnosFX) | 2:20 |
 | 24 | [Mafeesh Mostaheel \(feat\. Abd El Basset Hamouda\)](https://open.spotify.com/track/2eNuVCIqg9GpMhUL1DY2AM) | [SHAF](https://open.spotify.com/artist/3MSIHwtYvvLf0CLu6rUWOy), [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Mafeesh Mostaheel \(feat\. Abd El Basset Hamouda\)](https://open.spotify.com/album/6YgoTt2GxQczjteviRMI55) | 5:01 |

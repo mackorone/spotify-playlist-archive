@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kajetan Wolas
 
-443 songs - 21 hr 28 min
+445 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Najdłuższy Dzień w Tym Roku](https://open.spotify.com/track/2p9Lo0e233bxNmbeJMA9Ey) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Najdłuższy Dzień w Tym Roku](https://open.spotify.com/album/7Ci8l4QkTaj941tg4gqw8Z) | 2:54 | 2024-06-28 | 2024-07-19 |
 | [Narkotyk](https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Narkotyk](https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ) | 2:07 | 2024-10-18 | 2025-01-24 |
 | [Nasze lato](https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Nasze lato](https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu) | 2:19 | 2024-08-01 | 2024-10-05 |
-| [Nic ci nie powiem](https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Nic ci nie powiem](https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu) | 3:08 | 2025-04-10 |  |
+| [Nic ci nie powiem](https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Nic ci nie powiem](https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu) | 3:08 | 2025-04-10 | 2025-05-04 |
 | [nic\(i\)](https://open.spotify.com/track/3A1JBCrP4dlR4ZT0pK3jtt) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:18 | 2025-01-23 | 2025-03-07 |
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-28 | 2024-08-31 |
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-03 | 2025-04-18 |
@@ -268,6 +268,7 @@
 | [Nigdy więcej nie tańcz ze mną](https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [KAPEWU](https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB) | 2:57 | 2024-06-28 | 2024-11-08 |
 | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/track/1bYBqT5E4ryPuJOND0T8tg) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/album/4Acsz9wsCjiNjexIh91u1p) | 2:15 | 2024-11-21 | 2025-01-24 |
 | [NINA](https://open.spotify.com/track/2P1QcxwtZlOa75rEG0v15I) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DEMOLKA](https://open.spotify.com/album/4OTDkkILQUW0uQrfrOKvNK) | 2:47 | 2025-02-13 | 2025-03-08 |
+| [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 | 2025-05-01 |  |
 | [No sorry](https://open.spotify.com/track/52a7a5SEgQp16NUUKTMOWC) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [No sorry](https://open.spotify.com/album/076dSxuEN0KF6I2O28AySr) | 2:14 | 2024-11-07 | 2025-01-24 |
 | [Noc Aniołów](https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Noc Aniołów](https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka) | 2:37 | 2024-08-01 | 2024-09-28 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 |  |
@@ -332,6 +333,7 @@
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-23 | 2025-03-21 |
 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 | 2025-04-03 |  |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 | 2024-08-02 |
+| [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 |  |
 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 | 2025-02-27 |  |
 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 | 2024-06-28 | 2024-08-02 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-13 | 2025-05-02 |
@@ -369,7 +371,7 @@
 | [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 | 2025-03-09 |
 | [szukam](https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [szukam](https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef) | 3:25 | 2024-08-22 | 2025-01-24 |
 | [Słodka woda](https://open.spotify.com/track/1qcoxUi3yDT5tkslYJfFsR) | [ANGELENA](https://open.spotify.com/artist/7KfmCy4af3n3VBbIvY1Cck), [Klaudia Borczyk](https://open.spotify.com/artist/2Jw1ZJ2kRO9sV7VQLwps8x) | [Słodka woda](https://open.spotify.com/album/3kYMaNtY92K9eNY2zlRWGa) | 3:42 | 2024-07-25 | 2024-08-23 |
-| [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 | 2025-04-24 |  |
+| [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 | 2025-04-24 | 2025-05-04 |
 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 | 2024-09-19 | 2025-01-24 |
 | [Tak widzę nas \(za 20 lat\)](https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tak widzę nas \(za 20 lat\)](https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx) | 2:48 | 2024-07-18 | 2025-01-24 |
 | [taki nawyk](https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY) | [PK sisters](https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [taki nawyk](https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k) | 2:34 | 2024-11-21 | 2025-01-24 |

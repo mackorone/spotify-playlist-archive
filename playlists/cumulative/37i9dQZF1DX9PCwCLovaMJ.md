@@ -4,7 +4,7 @@
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-174 songs - 8 hr 59 min
+175 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Crumbs](https://open.spotify.com/track/7uhU4IYKI9e7leuQXCmHzG) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [Crumbs](https://open.spotify.com/album/4qCWEnBAq9LJpkIUi3s2vV) | 1:55 | 2023-11-29 | 2024-12-05 |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-12-04 |  |
 | [Daylight](https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daylight](https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1) | 2:07 | 2024-12-04 |  |
+| [dayones](https://open.spotify.com/track/74wAMYdAqfDFx76Ll6zG5D) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [dayones](https://open.spotify.com/album/7lLwYb8U0UIro72ix3s00z) | 1:58 | 2024-12-04 |  |
 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 | 2023-11-29 | 2024-12-05 |
 | [DEJ](https://open.spotify.com/track/4SQ6M0PFvvZ0CM1uy0ePuM) | [LUA](https://open.spotify.com/artist/6wm2Tx4v7VopkIHfBOjNX4) | [DEJ](https://open.spotify.com/album/4mMFHE6InLn4q6kpw9Je7f) | 3:00 | 2023-11-29 | 2024-12-05 |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-11-29 | 2024-12-05 |
@@ -161,7 +162,7 @@
 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 | 2024-12-04 |  |
 | [TIKTOK](https://open.spotify.com/track/3GIUq2N1YFL1KZe2zjw7qz) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [AS SEEN ON TV](https://open.spotify.com/album/35G6ItQb4YVubOm6fuThYh) | 2:47 | 2023-11-29 | 2024-12-05 |
 | [Time for Us](https://open.spotify.com/track/03hTMTJujRmDTV7P1aSgGl) | [Lalu](https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs) | [Time for Us](https://open.spotify.com/album/3M2Xhw60yNd3hJ9U3ukQcS) | 3:14 | 2023-11-29 | 2024-12-05 |
-| [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 | 2024-12-04 |  |
+| [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 | 2024-12-04 | 2025-05-04 |
 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 | 2023-11-29 | 2024-12-05 |
 | [under isen](https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [under isen](https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF) | 2:26 | 2024-12-04 |  |
 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 | 2024-12-04 |  |

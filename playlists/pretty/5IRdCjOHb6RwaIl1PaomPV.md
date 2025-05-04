@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Eartheater &amp; Shygirl, plus the latest cuts from Niko Demus, MRD and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,976 likes - 100 songs - 5 hr 23 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,975 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

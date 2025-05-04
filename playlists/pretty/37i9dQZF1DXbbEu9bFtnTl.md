@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,341 likes - 114 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,351 likes - 114 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 121 songs - 8 hr 4 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 122 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,5 +129,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 119 | [Starburster / In Heaven \(Lady in the Radiator Song\)](https://open.spotify.com/track/653n07EfYnFGDxt5ANpqoC) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 4:26 |
 | 120 | [Take My Hand](https://open.spotify.com/track/1PFnGxajsG0dsdgXNx22gy) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto) | [Take My Hand](https://open.spotify.com/album/5gM9JiqnQENfy2B47kySFS) | 2:51 |
 | 121 | [How Beautiful I Am](https://open.spotify.com/track/29wvuq2uL6sbOSx7OoK9PY) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Iechyd Da](https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ) | 4:18 |
+| 122 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 
-Snapshot ID: `AAAA7osfveqfZMi3FurSd/tDrkqs9fRH`
+Snapshot ID: `AAAA74fo3iIEfiV2lhHYWy/S7vL5DdD8`

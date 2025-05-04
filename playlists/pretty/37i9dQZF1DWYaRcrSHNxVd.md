@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Dashawn Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,944 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,929 likes - 36 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 35 | [Fasho](https://open.spotify.com/track/7LY0FaI4sMbgxfdAnlozmu) | [Zion Wright](https://open.spotify.com/artist/6jqn8NTCJyfvCxGhp2gEYK) | [Fasho](https://open.spotify.com/album/1pi4F08vFTg1R1jkcO28YR) | 2:21 |
 | 36 | [LTID](https://open.spotify.com/track/4faxBISUetkg23KbzCGLoj) | [JAHSH](https://open.spotify.com/artist/5FbDg0FUDhfrrbOI0SUoTX) | [INTROVERT](https://open.spotify.com/album/45z79u3oBNqzuq0WluqeWZ) | 1:47 |
 
-Snapshot ID: `Z+tkwgAAAADOUuxHeGaGwXYo/PtGCoBr`
+Snapshot ID: `Z+tkwgAAAACVBZ6fMWXCMC02rkGrn9NT`

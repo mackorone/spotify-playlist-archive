@@ -2,7 +2,7 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
+> 😈 welcome to the rave 😈  Cover: Sara Landry
 
 261 songs - 19 hr 11 min
 
@@ -190,7 +190,7 @@
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 |  |
 | [Queen of the Banshees \- Nico Moreno Remix](https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Queen of the Banshees](https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA) | 5:42 | 2024-04-09 |  |
 | [Rage Power](https://open.spotify.com/track/0PX8SXZQLoEKhqdTbCTWhv) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Rage Power](https://open.spotify.com/album/1CNDOIgDMn3zc77HWT4mOh) | 5:23 | 2024-04-09 | 2024-07-04 |
-| [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 | 2025-05-02 |
+| [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 |  |
 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 | 2025-01-09 | 2025-01-30 |
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2024-04-09 |  |
 | [Rave Nation](https://open.spotify.com/track/4aquVCFVojUxZXhVwEj7a9) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Rave Nation](https://open.spotify.com/album/53aj8TSRvB45xOxRXokV24) | 3:03 | 2024-10-24 | 2024-12-18 |
@@ -206,7 +206,7 @@
 | [Self Command \- Radio Edit](https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Self Command](https://open.spotify.com/album/1AFzsjPNA1cxjLvVF2Oq2f) | 3:18 | 2025-02-20 |  |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
-| [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 |  |
+| [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 | 2025-05-04 |
 | [Shanti](https://open.spotify.com/track/2lV0ugOkfP0vQ4Z4oKEsF4) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [Shanti](https://open.spotify.com/album/3qwT2VYkWGjg79LdHTIhWb) | 4:37 | 2025-03-19 | 2025-04-05 |
 | [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 | 2025-04-04 |  |
 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 | 2024-10-24 |  |

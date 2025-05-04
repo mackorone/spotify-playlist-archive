@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ivan Cornejo, Lali, Fuerza Regida and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,432 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,453 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [Dame un beso](https://open.spotify.com/track/23uuImTuDanu1YOYJlE42k) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Dame un beso](https://open.spotify.com/album/07UBWI1SXXBcPzGTevk3er) | 3:01 |
 | 38 | [Así Es En México](https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Así Es En México](https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ) | 3:12 |
 | 39 | [Lluvia](https://open.spotify.com/track/1gwSddaVyOKECHkcdWfm9u) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX) | [Lluvia](https://open.spotify.com/album/5dgtQiX1HvIq8kqQv1vBhG) | 2:36 |
-| 40 | [Ocean Park](https://open.spotify.com/track/5wbqDa5uPEX64AAThsbSMZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Omen](https://open.spotify.com/album/51TV3xr0ytNQHlh55HHYEu) | 2:50 |
+| 40 | [Ocean Park](https://open.spotify.com/track/5wbqDa5uPEX64AAThsbSMZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Omen](https://open.spotify.com/album/51TV3xr0ytNQHlh55HHYEu) | 3:55 |
 | 41 | [spoiler: sale mal](https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [spoiler: sale mal](https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW) | 2:44 |
 | 42 | [MARTINI+](https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Hassi](https://open.spotify.com/artist/1Ng2SjGvxtzr7tFRBi2c5j), [Kyoshi Reyes](https://open.spotify.com/artist/0892v5aJKxs8tcXf9BCe8E) | [SENSACIONES+](https://open.spotify.com/album/4T4RB4clLd86DhlSoAT5Jt) | 3:03 |
 | 43 | [Querida Yo](https://open.spotify.com/track/782nCYFr5YBTzE7lhFRHAE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Querida Yo](https://open.spotify.com/album/5ZtxpX4GZk1voFF0j0bil4) | 2:39 |

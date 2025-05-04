@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,846 songs - 3 day 23 hr 47 min
+1,848 songs - 3 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-07 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-08-17 |
+| [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 | 2025-05-01 |  |
 | [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 | 2023-06-25 |
 | [Good Parts](https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Good Parts](https://open.spotify.com/album/5tsdwoSxgUo6pjNhIa0GKb) | 2:30 | 2022-05-12 | 2022-07-18 |
 | [Good Things Come to Those Who Wait](https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Good Things Come to Those Who Wait](https://open.spotify.com/album/1RofMBvXnZBRLb0FKsWejZ) | 3:37 | 2022-01-13 | 2022-05-07 |
@@ -619,6 +620,7 @@
 | [gravity \- alternative version](https://open.spotify.com/track/6zq4g1UiKjge8SbJ6IrgEg) | [sad dad](https://open.spotify.com/artist/0W2hFxt7ifMmoTVXedX5qU), [leoblu](https://open.spotify.com/artist/1gJctVXTu7xYbZbs7gvcar) | [gravity \(alternative version\)](https://open.spotify.com/album/0w1Senxcwve0CXQHSHrd2n) | 3:12 | 2024-01-25 | 2024-01-28 |
 | [Ground Zero](https://open.spotify.com/track/45gZh2WFXYkxUNKnu5sIFz) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Ground Zero](https://open.spotify.com/album/5Ty7WNx9pKidF4yQj3rOSZ) | 3:46 | 2024-05-02 | 2024-06-01 |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 |  |
+| [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/album/4F8dhrVlBLcrXGyYTygyX1) | 2:09 | 2025-05-01 |  |
 | [Grät](https://open.spotify.com/track/2nlqyj01smLQFngHVuxFJN) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Grät](https://open.spotify.com/album/2QpFnswrI1v7H8u3Eup2Fu) | 4:18 | 2024-01-11 | 2024-03-15 |
 | [Gråt inte mer](https://open.spotify.com/track/021Ja91kIji3tI8qguxer6) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/1hdMYrIDrIMxgowte5V9w4) | 3:28 | 2022-07-28 | 2022-09-16 |
 | [Gråt inte mer](https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Gråt inte mer](https://open.spotify.com/album/7aNTcA7BfHWL8tYzS9BSxV) | 3:28 | 2021-12-16 | 2022-07-29 |
@@ -1081,7 +1083,7 @@
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-13 | 2024-08-16 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
-| [Morena](https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Morena](https://open.spotify.com/album/2Ek5tJoeZq7mqe4eoFuxmD) | 2:36 | 2025-03-28 |  |
+| [Morena](https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Morena](https://open.spotify.com/album/2Ek5tJoeZq7mqe4eoFuxmD) | 2:36 | 2025-03-28 | 2025-05-04 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-10-20 |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
@@ -1592,7 +1594,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
-| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 |  |
+| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 | 2025-05-04 |
 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-11-17 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The only thing](https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4) | [Jarn](https://open.spotify.com/artist/4J2RKCwmEVYJlkbZvKJgW9) | [The only thing](https://open.spotify.com/album/5QdGTPzyfzPaDcUUhWga78) | 3:17 | 2024-01-25 | 2024-02-23 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,428 songs - 3 day 10 hr 24 min
+1,429 songs - 3 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 | 2023-04-28 | 2024-12-14 |
 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 | 2025-02-14 |  |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 | 2024-04-10 |
-| [Lay Me Down](https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lay Me Down](https://open.spotify.com/album/5AIWJ1zabzxrzboNYzKlxz) | 2:27 | 2024-05-31 |  |
+| [Lay Me Down](https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lay Me Down](https://open.spotify.com/album/5AIWJ1zabzxrzboNYzKlxz) | 2:27 | 2024-05-31 | 2025-05-04 |
 | [Lay Right Here \- Original Mix](https://open.spotify.com/track/7uhNjVyCKuRzsB1TJ3mkt7) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Introducing Pierce Fulton](https://open.spotify.com/album/2x2lPbrGVWChJImFTb2c0u) | 7:30 | 2019-08-09\* | 2019-08-27 |
 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 | 2022-02-25 | 2023-04-24 |
 | [Lean On Me](https://open.spotify.com/track/5acSb48zFAcXTdL5Wsk8xx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:29 | 2021-05-07 | 2022-04-29 |
@@ -974,6 +974,7 @@
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-14 | 2021-09-25 |
 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-11-17 |  |
 | [PURE LOVE](https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/22AuMsgiDu1rAu7hPAylZE) | 3:24 | 2025-02-21 | 2025-02-28 |
+| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-05-02 |  |
 | [Rather Be With You](https://open.spotify.com/track/6uHJca2r3DtdyNh2Jwke34) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Rather Be With You](https://open.spotify.com/album/3yvMr96Iaet6cpz7IIqGly) | 3:08 | 2023-12-01 | 2024-04-10 |
 | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/track/4Kc1nMxyLCWtx3BganIsQs) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/album/5rSdbJ0urwMgblnOxW460H) | 3:08 | 2021-12-03 | 2023-12-11 |
 | [Reach for You \- Maratone Remix](https://open.spotify.com/track/5ji9a1vYqp7ciW3h2iKy9W) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7) | [Reach for You \(Maratone Remix\)](https://open.spotify.com/album/1GmUGlzaZ2AzaXsyFEcD3h) | 4:01 | 2024-05-31 | 2025-03-21 |

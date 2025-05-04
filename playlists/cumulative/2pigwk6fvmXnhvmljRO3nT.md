@@ -4,7 +4,7 @@
 
 > 
 
-7,047 songs - 18 day 8 hr 2 min
+7,049 songs - 18 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Airplanes \(feat\. Hayley Williams of Paramore\)](https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:00 | 2024-12-10 |  |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2025-04-12 |  |
 | [Alert](https://open.spotify.com/track/5qMRRyJsowk6etf1lxoT3L) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 1:58 | 2025-03-08 |  |
+| [Alien felines from beyond the galaxy](https://open.spotify.com/track/3FJQ07gFtBFnwLRH5WIGfj) | [Supergombo](https://open.spotify.com/artist/2IRev1maVOLaKbFofZ7AtB) | [Sigitolo](https://open.spotify.com/album/7GefsY8VELPJzLDDdnFED8) | 5:54 | 2025-05-04 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2025-01-15 |  |
 | [Alive \(Nightmare\)](https://open.spotify.com/track/3HG3QFERdP3Q1b6VGahwWs) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 4:06 | 2025-01-03 |  |
 | [Alka Tale](https://open.spotify.com/track/1A4aC0KMMmPsR1v2RTsmhj) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 4:49 | 2025-04-24 |  |
@@ -5572,6 +5573,7 @@
 | [To you](https://open.spotify.com/track/1LWNVbiGRc7RkxIQ3Qh5Cn) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/1VAGcoDkrvxGURbqzh7m5l) | 4:24 | 2025-01-15 |  |
 | [To you](https://open.spotify.com/track/6PzIUL43UjAX2APzjg2M15) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/201xIzWgRnQlZXGSkaqYQy) | 4:24 | 2025-03-21 |  |
 | [To You Who Knows My Sorrow](https://open.spotify.com/track/5JEy2mEU7holanTc9S8vbj) | [조하문](https://open.spotify.com/artist/1PyMXIa4mB5JyyribZ8Qud) | [Destiny / To You Who Knows My Sorrow](https://open.spotify.com/album/7JAVQe7fUadGc5mn1EZwcl) | 4:21 | 2025-01-15 |  |
+| [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2025-05-03 |  |
 | [Today \(feat\. Gunna\)](https://open.spotify.com/track/7z3rc7SCgjbAztt1cbXkVj) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:02 | 2024-12-14 |  |
 | [TOGETHER](https://open.spotify.com/track/45WkcBtgPS8xulUwEg63X1) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 3:34 | 2024-12-05 |  |
 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 | 2025-04-20 |  |

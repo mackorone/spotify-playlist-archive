@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de Javiera Mena y Santiago Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,466 likes - 104 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,458 likes - 104 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

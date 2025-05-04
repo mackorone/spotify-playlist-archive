@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,398 songs - 6 day 23 hr 31 min
+4,399 songs - 6 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Armagosa](https://open.spotify.com/track/4hpVe9mtln0F74fbADIVPU) | [Heitech](https://open.spotify.com/artist/4FZqkBu4TXfyD3SqjkuK2u) | [Armagosa](https://open.spotify.com/album/6IbnNQY0GFx1V4WM49Yy09) | 2:23 | 2022-03-17 | 2022-04-21 |
 | [Arpoador](https://open.spotify.com/track/5PVJi0Z0PPqda1tneSNPnD) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Arpoador](https://open.spotify.com/album/0ptMX7Jd4VfymLTrmHyyCE) | 2:20 | 2021-05-14 | 2023-04-28 |
 | [Arrival](https://open.spotify.com/track/5XqujNgAEGWLFecsPVFoow) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Arrival](https://open.spotify.com/album/3stLRsyCYQkdcBsLMc0TBV) | 2:58 | 2024-07-04 | 2024-08-02 |
-| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 | 2024-11-21 |
+| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 |  |
 | [Art Clone](https://open.spotify.com/track/40KzjjmjBrdWi3qWzAnT0R) | [Jtwig](https://open.spotify.com/artist/47ZdMwDzDhjHcMNcAbl9FX) | [Unreleased](https://open.spotify.com/album/0HIvKZqhF8FnKO3yGoxPeD) | 3:32 | 2021-02-20 | 2021-06-25 |
 | [As Time Goes By](https://open.spotify.com/track/0xh8FDAOAhaUh5R090cNwR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [As Time Goes By](https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h) | 1:27 | 2022-12-22 | 2023-10-20 |
 | [AsleepInStormyWeather](https://open.spotify.com/track/2nasu1BH3DBRGs6d3nKEMl) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [AsleepInstormyweather](https://open.spotify.com/album/4cju1zfSvEnBDckIr7NHLV) | 2:10 | 2020-08-30 | 2021-02-12 |
@@ -675,7 +675,7 @@
 | [Chilled Room](https://open.spotify.com/track/4tgjY8FWisEWosCJZglA37) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:29 | 2021-03-06 | 2021-06-25 |
 | [Chillhop Cherry Blossoms](https://open.spotify.com/track/5CivYEyPt4RqLKLvqv4ylz) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [Take one](https://open.spotify.com/album/0H75GI27n5WCpAePVLhwF1) | 1:10 | 2021-07-17 | 2021-08-27 |
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-05-11 |
-| [Chillwalk](https://open.spotify.com/track/19Cm2BhY04tNN9iXEGGfin) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Chillwalk](https://open.spotify.com/album/5QlsKNPbwKUWP3LzekUlwy) | 2:16 | 2023-10-19 |  |
+| [Chillwalk](https://open.spotify.com/track/19Cm2BhY04tNN9iXEGGfin) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Chillwalk](https://open.spotify.com/album/5QlsKNPbwKUWP3LzekUlwy) | 2:16 | 2023-10-19 | 2025-05-04 |
 | [chilly mornings](https://open.spotify.com/track/3WRukday4c6UcVdX8JsD4U) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Wish You Were Here](https://open.spotify.com/album/0ja9DJrEB9a1pYyLqw0c5C) | 2:04 | 2019-05-26\* | 2019-08-13 |
 | [Chilly Night](https://open.spotify.com/track/6P37KIXwqglon8XbGEZrS8) | [Seeweed](https://open.spotify.com/artist/3vY6SsmX9WFNkLJPqfYGvv) | [In the Twilight](https://open.spotify.com/album/1TAAqHGtb2WxUtZPmvNcvb) | 3:10 | 2020-03-31 | 2020-06-05 |
 | [Chime](https://open.spotify.com/track/3np8jFrLxrWPOYW3mv1Thk) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/21WyYkF4blA4UzeFhssGwD) | 1:49 | 2022-09-22 | 2022-10-22 |
@@ -3585,6 +3585,7 @@
 | [Streets Of Rio](https://open.spotify.com/track/3D7tHItozfNTG5jJGxkMCV) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Streets Of Rio](https://open.spotify.com/album/4tIMrN38VbtyL42qFURzy7) | 2:37 | 2024-10-24 | 2025-02-07 |
 | [String Rider](https://open.spotify.com/track/5l5ns1POwdBQAapLru70S0) | [Funkonami](https://open.spotify.com/artist/6JkzdEK1Ow5fUGJQ5zGgkk) | [Interstellar Funk \(El Mundo\) / String Rider](https://open.spotify.com/album/4BXZc5BFahNTaGgFFIw5yo) | 2:56 | 2020-09-19 | 2021-04-09 |
 | [Stroll](https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Stroll](https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc) | 2:15 | 2024-01-11 | 2024-02-16 |
+| [stroll in the park](https://open.spotify.com/track/5y4ibVlHMCmJikusLyZAa8) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [stroll in the park](https://open.spotify.com/album/4JAg3p0zYowK6jI6fCJSWa) | 2:08 | 2025-05-02 |  |
 | [Strolling](https://open.spotify.com/track/6M5K2XS8Chefq5MvzCM8VM) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Strolling](https://open.spotify.com/album/4wc8ncOeR7srC6EX9QlQDV) | 3:16 | 2024-09-16 |  |
 | [Study Babyyy](https://open.spotify.com/track/0DgwyHW3TQQG0dGW15vdM1) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Study Babyyy](https://open.spotify.com/album/5uQUympwgyBRAEbvTqS8lz) | 2:25 | 2020-07-24 | 2021-04-16 |
 | [Stuntin](https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Stuntin](https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL) | 2:20 | 2024-10-24 |  |
@@ -3798,7 +3799,7 @@
 | [Taproot](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L) | [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vol\. III](https://open.spotify.com/album/0GWgASUE1sbXFw2uqI6PPZ) | 2:32 | 2023-11-13 | 2024-08-23 |
 | [Targa](https://open.spotify.com/track/7DRk4leuSMGMAWzG7hNvxb) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Targa](https://open.spotify.com/album/7IDya817iVQjLTTjM13wRE) | 2:04 | 2024-05-30 |  |
 | [Taribo](https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Taribo](https://open.spotify.com/album/1lqU2ocXf4uMlP0eiFEL0f) | 2:29 | 2021-10-22 | 2022-06-03 |
-| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 |  |
+| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 | 2025-05-04 |
 | [Tato](https://open.spotify.com/track/5V0f1iD7FIVKSyexZk3WcP) | [SP kOwi](https://open.spotify.com/artist/7gVcXipsVVlTpZ8mMjzsJL) | [Tokio EP Vol\. II](https://open.spotify.com/album/5CQvE9tYoGvpAYsYXR3qSK) | 1:49 | 2022-04-28 | 2022-06-01 |
 | [tautte.](https://open.spotify.com/track/56y8VbwDjaKZfnBZIZMR1y) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [tautte.](https://open.spotify.com/album/2gId9ow9rRjrs6n3JaRmeY) | 1:32 | 2019-06-08 | 2019-11-15 |
 | [tavo lara](https://open.spotify.com/track/3prAccfg2dgn8UM1RI482W) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [tavo lara](https://open.spotify.com/album/0Rnv3Qv4VNIpY03zkfrOQP) | 2:19 | 2019-07-16 | 2019-11-12 |

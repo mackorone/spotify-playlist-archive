@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
@@ -4774,7 +4774,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 168980,
       "name": "Cuidado Que Te Supero",
       "url": "https://open.spotify.com/track/2Xetks48zQL2K7xUbJBHRn"
@@ -8630,7 +8630,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -10870,7 +10870,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 149685,
       "name": "LOKURA",
       "url": "https://open.spotify.com/track/4FwfhC0cDr9hKryYTVVjSR"
@@ -19679,6 +19679,24 @@
     },
     {
       "album": {
+        "name": "Tengo Una Cadena",
+        "url": "https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120012,
+      "name": "Tengo Una Cadena",
+      "url": "https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp"
+    },
+    {
+      "album": {
         "name": "Terapia de Choque",
         "url": "https://open.spotify.com/album/4rZWSZV7dKQ8lTFwLD5zA6"
       },
@@ -20958,7 +20976,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 160750,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"

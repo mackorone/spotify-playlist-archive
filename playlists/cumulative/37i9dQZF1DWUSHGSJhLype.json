@@ -3817,6 +3817,28 @@
     },
     {
       "album": {
+        "name": "Grudinho",
+        "url": "https://open.spotify.com/album/11yvcxMQky9UOxR4K2oaxl"
+      },
+      "artists": [
+        {
+          "name": "Leo Marques",
+          "url": "https://open.spotify.com/artist/5Jv18wWPLUN7h82hWaF45I"
+        },
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157710,
+      "name": "Grudinho",
+      "url": "https://open.spotify.com/track/3kR2kKH30gMT93QP2Efwsi"
+    },
+    {
+      "album": {
         "name": "Let's Bora (Ao Vivo)",
         "url": "https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp"
       },
@@ -8480,7 +8502,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 175000,
       "name": "S\u00e3o Amores",
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"

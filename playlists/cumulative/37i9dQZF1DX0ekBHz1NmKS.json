@@ -11229,6 +11229,24 @@
     },
     {
       "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186900,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
+    },
+    {
+      "album": {
         "name": "Golvet i hallen",
         "url": "https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW"
       },
@@ -11428,6 +11446,32 @@
       "duration_ms": 188601,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "album": {
+        "name": "Gr\u00e4set p\u00e5 andra sidan (feat. Newkid & ORKID)",
+        "url": "https://open.spotify.com/album/4F8dhrVlBLcrXGyYTygyX1"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        },
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129090,
+      "name": "Gr\u00e4set p\u00e5 andra sidan (feat. Newkid & ORKID)",
+      "url": "https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r"
     },
     {
       "album": {
@@ -20098,7 +20142,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 156151,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW"
@@ -29636,7 +29680,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 174115,
       "name": "The Haze",
       "url": "https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN"

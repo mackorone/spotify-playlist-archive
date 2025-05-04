@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: I Mean Us
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,777 likes - 128 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,774 likes - 128 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 127 | [天空](https://open.spotify.com/track/7uZz8xyiFlmp5AWgo2q5Hb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [海螺記](https://open.spotify.com/album/6f4m2xgk0N2mDM7dhUTI6j) | 2:38 |
 | 128 | [純愛戰士](https://open.spotify.com/track/6aW92pDPW6izEo5TDnmbAk) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt), [怕胖團 閃亮](https://open.spotify.com/artist/0kh5zrvVQJ1xnvemx66K0g) | [純愛戰士](https://open.spotify.com/album/2HOfNHeFVyeQZBo4LDOSoi) | 3:00 |
 
-Snapshot ID: `AAAAANvWg844ellAxRAi2e2HtqOxPE23`
+Snapshot ID: `aBOaiwAAAABK0OgxA5T7leFGyzTmu455`

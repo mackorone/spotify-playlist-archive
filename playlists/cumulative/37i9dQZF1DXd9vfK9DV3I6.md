@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-309 songs - 22 hr 37 min
+310 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [In Control \(feat\. Selin\)](https://open.spotify.com/track/1JDwfM6fzE7HtRukcJSZDd) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ali Arutan](https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [In Control \(feat\. Selin\)](https://open.spotify.com/album/2k5oEpL6XqBHLWWm2Ygq9M) | 2:59 | 2023-12-04 | 2024-04-19 |
 | [In Control \(feat\. Selin\)](https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ali Arutan](https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [In Control \(feat\. Selin\)](https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe) | 2:59 | 2020-10-30 | 2023-12-11 |
 | [In the Harem](https://open.spotify.com/track/2Vjyh9lYP0jRMO23rod3ZF) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [In the Harem](https://open.spotify.com/album/1qwAeW8FUAtGo4VfB31aMU) | 5:22 | 2023-08-19 | 2023-11-18 |
+| [Ishq](https://open.spotify.com/track/0BIUZCo5SaRVqaYTnTTqmp) | [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [Ansick](https://open.spotify.com/artist/7GQecKLZA0CrMdLt5VdTiG), [Fake Tattoos](https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx) | [Ishq](https://open.spotify.com/album/3RzdnksCj22JV4MbCHwkje) | 2:44 | 2025-05-02 |  |
 | [Isla Bonita](https://open.spotify.com/track/237piArDEVghCWdWXFcY7i) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/1zpMJrknblXdoE5PW9xmr2) | 3:01 | 2023-07-21 | 2024-04-19 |
 | [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 | 2021-09-01 | 2023-05-16 |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-27 | 2023-06-25 |
@@ -235,7 +236,7 @@
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 | 2022-11-14 |
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-01-21 | 2023-03-18 |
 | [Oud Love](https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO) | [Camil Kanouni](https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC) | [O.M.M.A](https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe) | 3:41 | 2020-10-18\* | 2023-08-06 |
-| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* |  |
+| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* | 2025-05-04 |
 | [Overdose \- Sait Esmeray Remix](https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW) | [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9), [Sait Esmeray](https://open.spotify.com/artist/0ay99LpZruYu1GkaQxWWe4) | [Overdose \(Sait Esmeray Remix\)](https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq) | 2:38 | 2021-05-22 |  |
 | [Painter](https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs) | [Lady Ocean](https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn) | [Painter](https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ) | 3:23 | 2021-06-07 |  |
 | [Play the Game](https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play the Game](https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w) | 2:22 | 2021-08-13 | 2022-07-29 |

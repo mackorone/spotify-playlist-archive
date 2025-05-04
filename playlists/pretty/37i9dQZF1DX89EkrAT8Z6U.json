@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1244985,
+  "num_followers": 1245178,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
     },
     {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "NO HANDS",
-        "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 180580,
-      "name": "PACKAPUNCH (feat. Danny Brown)",
-      "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
-    },
-    {
       "added_at": "2025-02-21 22:48:04",
       "album": {
         "name": "COWBELL WARRIORS!",
@@ -807,6 +787,26 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIORS!",
       "url": "https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "NO HANDS",
+        "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "PACKAPUNCH (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -923,30 +923,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "EVERYBODY LOVES RAYGUN",
-        "url": "https://open.spotify.com/album/6bbcE0TACg7guxv9vFgtcz"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 195963,
-      "name": "EVERYBODY LOVES RAYGUN",
-      "url": "https://open.spotify.com/track/2ePfpPUTnniAYFFtZMT81e"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
       },
@@ -959,22 +935,6 @@
       "duration_ms": 146000,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1007,6 +967,46 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "EVERYBODY LOVES RAYGUN",
+        "url": "https://open.spotify.com/album/6bbcE0TACg7guxv9vFgtcz"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 195963,
+      "name": "EVERYBODY LOVES RAYGUN",
+      "url": "https://open.spotify.com/track/2ePfpPUTnniAYFFtZMT81e"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "dedd barchetta",
-        "url": "https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL"
-      },
-      "artists": [
-        {
-          "name": "Sugs",
-          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
-        }
-      ],
-      "duration_ms": 80029,
-      "name": "dedd barchetta",
-      "url": "https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "MAMBO",
@@ -1251,6 +1235,22 @@
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "dedd barchetta",
+        "url": "https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL"
+      },
+      "artists": [
+        {
+          "name": "Sugs",
+          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
+        }
+      ],
+      "duration_ms": 80029,
+      "name": "dedd barchetta",
+      "url": "https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9"
     },
     {
       "added_at": "2024-09-18 21:12:46",

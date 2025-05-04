@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-1,047 songs - 3 day 4 hr 29 min
+1,049 songs - 3 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Fear of the Living Dead](https://open.spotify.com/track/3HkSXurIHBYyj49T7e9BdW) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Fear of the Living Dead](https://open.spotify.com/album/0LMkqvZviArY5KbCwzNitV) | 5:31 | 2021-12-29 | 2022-05-07 |
 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 | 2022-07-13 | 2022-08-06 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-12-17 |  |
-| [Feeding Demons](https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Feeding Demons](https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG) | 3:17 | 2023-12-06 |  |
+| [Feeding Demons](https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Feeding Demons](https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG) | 3:17 | 2023-12-06 | 2025-05-04 |
 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 | 2022-01-21 | 2022-08-20 |
 | [Feral](https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Out Of The Shadows 2.0](https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv) | 3:39 | 2024-04-19 | 2025-04-26 |
 | [Fever Dreams](https://open.spotify.com/track/2Ei1eAAU4ME4ld72p9wCbW) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Magica](https://open.spotify.com/album/2E457EiUG9l2rD1EaWcRM4) | 4:37 | 2021-12-17 | 2022-08-20 |
@@ -340,7 +340,7 @@
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 |  |
 | [Fucked for Life](https://open.spotify.com/track/2Ly86wAzT0zDAF7GvDj9Op) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 3:53 | 2023-03-24 | 2023-04-04 |
 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 | 2021-12-17 |  |
-| [Full Disclosure](https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:16 | 2023-10-27 |  |
+| [Full Disclosure](https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:16 | 2023-10-27 | 2025-05-04 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2022-10-08 |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 | 2024-04-19 |
 | [Get a Grip](https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Evil Eye / Get a Grip](https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF) | 4:01 | 2024-05-31 | 2024-07-12 |
@@ -619,6 +619,7 @@
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2022-08-19 | 2024-11-23 |
 | [NOTHING TO SOME \[Feat\. Corey Taylor\]](https://open.spotify.com/track/4CQH8JIwp62Qy5EMnfNK1c) | [FLAT BLACK](https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [NOTHING TO SOME \[Feat\. Corey Taylor\]](https://open.spotify.com/album/6ApUUibTW1Vwd3FMmsisWI) | 3:25 | 2024-03-22 | 2025-04-27 |
 | [Now the Screaming Starts](https://open.spotify.com/track/4TW7ReI5Jzvm3TQ59DWA7v) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Now the Screaming Starts](https://open.spotify.com/album/4afU6LdO2FFF1ANLoGBrC8) | 4:03 | 2021-12-17 | 2022-07-29 |
+| [Now You Belong With the Dead](https://open.spotify.com/track/7h1we7IIO9uRgdfZr87hUv) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [Now You Belong With the Dead](https://open.spotify.com/album/7Lch8F6pGTAUGkXGW8Utfh) | 5:43 | 2025-05-02 |  |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-11-04 |  |
 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 | 2022-08-12 | 2023-03-11 |
 | [Oblivion](https://open.spotify.com/track/6tlfAL7rJ85eDXSZgq5eC4) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Oblivion](https://open.spotify.com/album/1Q20gWIgDF9Fr7CSme9VwH) | 3:51 | 2021-12-17 | 2022-04-20 |
@@ -1037,6 +1038,7 @@
 | [Wolves Of War](https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Interludium \(Deluxe Version\)](https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk) | 3:58 | 2023-04-14 | 2023-07-16 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-08 | 2024-07-13 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-07-25 |
+| [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 |  |
 | [WRONG END OF THE KNIFE](https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [...'Til The World's Blind](https://open.spotify.com/album/7c2mlvKNDXM8Y2AnPg6azN) | 3:32 | 2024-11-22 | 2025-02-01 |
 | [Year Of The Dragon](https://open.spotify.com/track/2dybzipzkpcPA4DZZkLnPJ) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [Gods Of Metal \(Year Of The Dragon\)](https://open.spotify.com/album/0PTbTBttAKA3cOx9Bnumdv) | 3:18 | 2024-08-23 | 2024-12-16 |
 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-26 | 2024-03-23 |

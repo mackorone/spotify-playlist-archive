@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 227375,
+  "num_followers": 227469,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
-      },
-      "artists": [
-        {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Too Real",
         "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 186000,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+      },
+      "artists": [
+        {
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Wotless Carnival Album",
         "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 218228,
       "name": "Wotless",
       "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Heroes Riddim",
-        "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
-      },
-      "artists": [
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        },
-        {
-          "name": "Coutain",
-          "url": "https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C"
-        }
-      ],
-      "duration_ms": 188512,
-      "name": "Jamtown",
-      "url": "https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Mood (feat. Kes)",
         "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 217009,
       "name": "Mood (feat. Kes)",
       "url": "https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Heroes Riddim",
+        "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
+      },
+      "artists": [
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        },
+        {
+          "name": "Coutain",
+          "url": "https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C"
+        }
+      ],
+      "duration_ms": 188512,
+      "name": "Jamtown",
+      "url": "https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 186393,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 238153,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 186393,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Carnival Contract",
-        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Carnival Contract",
-      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210238,
       "name": "Mas",
       "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Carnival Contract",
+        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Carnival Contract",
+      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 258864,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 238032,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263693,
       "name": "Sak Pas\u00e9",
       "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Mas Go Play",
-        "url": "https://open.spotify.com/album/3wm5DmlWD4sFyRcujrXVa1"
-      },
-      "artists": [
-        {
-          "name": "Erphaan Alves",
-          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
-        }
-      ],
-      "duration_ms": 171230,
-      "name": "Mas Go Play",
-      "url": "https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Mas Go Play",
+        "url": "https://open.spotify.com/album/3wm5DmlWD4sFyRcujrXVa1"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        }
+      ],
+      "duration_ms": 171230,
+      "name": "Mas Go Play",
+      "url": "https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
       },
       "artists": [
         {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
         }
       ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
+      "duration_ms": 217846,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Soak It Good",
         "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 182125,
       "name": "Soak It Good",
       "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
       },
@@ -1683,6 +1667,38 @@
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1707,34 +1723,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+        "name": "Project 5 Riddim",
+        "url": "https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b"
       },
       "artists": [
         {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
         }
       ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8"
+      "duration_ms": 274000,
+      "name": "Wining Queen",
+      "url": "https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw"
     }
   ],
   "unique_name": "Massive Soca Hits",

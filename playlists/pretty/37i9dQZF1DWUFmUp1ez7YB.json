@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 854064,
+  "num_followers": 854566,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Vacilando Rico Con Zaperoko",
-        "url": "https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9"
-      },
-      "artists": [
-        {
-          "name": "ZAPEROKO La Resistencia Salsera del Callao",
-          "url": "https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif"
-        }
-      ],
-      "duration_ms": 849425,
-      "name": "Vacilando Rico Con Zaperoko",
-      "url": "https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 502920,
       "name": "El Fais\u00e1n",
       "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Vacilando Rico Con Zaperoko",
+        "url": "https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9"
+      },
+      "artists": [
+        {
+          "name": "ZAPEROKO La Resistencia Salsera del Callao",
+          "url": "https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif"
+        }
+      ],
+      "duration_ms": 849425,
+      "name": "Vacilando Rico Con Zaperoko",
+      "url": "https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE"
     },
     {
       "added_at": "2024-06-21 20:58:37",

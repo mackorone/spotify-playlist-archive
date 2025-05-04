@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Hol' up: let's talk about the Black artists in the U.K\. who are making waves\. Click into the feed! Cover: <a href="spotify:artist:3bO19AOone0ubCsfDXDtYt">Myles Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,723 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,878 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 51 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
 | 52 | [Never Gonna Change](https://open.spotify.com/track/4BL160qB8SvMypB9Pkfrnl) | [Trae Taylor](https://open.spotify.com/artist/2pT7KoajeJudQMhB5rNGl4) | [Never Gonna Change](https://open.spotify.com/album/2q1C1rVPle1k5S8rQJMrHC) | 2:56 |
 | 53 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
-| 54 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
+| 54 | [All The Way](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
 | 55 | [Animal](https://open.spotify.com/track/2Z9vZPuoXphxUAl88gSPsZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Animal](https://open.spotify.com/album/6TF4YZhNGumdvBul3MgBeJ) | 4:07 |
 | 56 | [Aretha](https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Aretha](https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd) | 2:15 |
 | 57 | [Day One](https://open.spotify.com/track/57Il3OuTJdiF42Qwz1A17n) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Day One](https://open.spotify.com/album/2CcUmK9yjStElQjVffDX6s) | 3:07 |

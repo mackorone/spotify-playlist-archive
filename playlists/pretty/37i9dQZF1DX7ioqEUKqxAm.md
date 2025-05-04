@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [【プレッシャー=大事なモノ】日本のサーファーは世界を獲る。五十嵐カノアから学ぶサーフィンという競技と人生必勝法](https://open.spotify.com/episode/0PRrjRnjUBhu9PDe5nnJHz) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 54:47 |
+| 1 | [【プレッシャー=大事なモノ】日本サーファーが世界を獲る。五十嵐カノアから学ぶサーフィンという競技と人生必勝法](https://open.spotify.com/episode/0PRrjRnjUBhu9PDe5nnJHz) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 54:47 |
 | 2 | [\#141　「実家太い」にまつわるあれこれ](https://open.spotify.com/episode/6AnbMRuSEqPL6ZgVU8cw6P) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 41:58 |
 | 3 | [ファミマの服どんだけすごいか](https://open.spotify.com/episode/5nysxRsyo2d7jSH03GFGcI) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 51:22 |
 | 4 | [\#69 【竹田ダニエル登場!】アメリカ在住のジャーナリストに聞くUS最新事情。トランプ政権になって何が変わった??](https://open.spotify.com/episode/2HZIsJHIfL9ttJjkErw432) | [UNDERDOG in Tokyo](https://open.spotify.com/show/29gi5EprvrgyfO1BIhSEio) | [UNDERDOG in Tokyo](https://open.spotify.com/album/29gi5EprvrgyfO1BIhSEio) | 56:49 |

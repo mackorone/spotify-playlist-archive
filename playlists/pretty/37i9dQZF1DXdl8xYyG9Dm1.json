@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Riky Rick",
-  "num_followers": 170836,
+  "num_followers": 170872,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-04-07 07:47:26",
       "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
+    },
+    {
+      "added_at": "2025-04-07 07:47:26",
+      "album": {
         "name": "Hayi Costa",
         "url": "https://open.spotify.com/album/5xUG3IiaEtaamCifbkG9Ar"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 311415,
       "name": "Hayi Costa",
       "url": "https://open.spotify.com/track/5lAHj2Dgl2UaSlGxa0ImOE"
-    },
-    {
-      "added_at": "2025-04-07 07:47:26",
-      "album": {
-        "name": "Fly Girl",
-        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        }
-      ],
-      "duration_ms": 194100,
-      "name": "Fly Girl",
-      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
     },
     {
       "added_at": "2025-04-07 07:47:26",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-04-07 07:47:26",
       "album": {
-        "name": "EKELEBE (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "EKELEBE (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
-    },
-    {
-      "added_at": "2025-04-07 07:47:26",
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2025-04-07 07:47:26",
+      "album": {
+        "name": "EKELEBE (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "EKELEBE (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
     },
     {
       "added_at": "2025-04-07 07:47:26",

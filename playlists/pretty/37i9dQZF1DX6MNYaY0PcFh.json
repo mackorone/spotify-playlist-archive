@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 87197,
+  "num_followers": 87232,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "lemons",
-        "url": "https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI"
-      },
-      "artists": [
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 149552,
-      "name": "lemons",
-      "url": "https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "DUWML",
         "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 190869,
       "name": "DUWML",
       "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "lemons",
+        "url": "https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 149552,
+      "name": "lemons",
+      "url": "https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7vR5vnHZE0Zx6CqDDZEJ9P"
+        "name": "High (MJ Cole Remix)",
+        "url": "https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0"
       },
       "artists": [
         {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
         }
       ],
-      "duration_ms": 163972,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ"
+      "duration_ms": 192305,
+      "name": "High - MJ Cole Remix",
+      "url": "https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "High (MJ Cole Remix)",
-        "url": "https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7vR5vnHZE0Zx6CqDDZEJ9P"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
         }
       ],
-      "duration_ms": 192305,
-      "name": "High - MJ Cole Remix",
-      "url": "https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W"
+      "duration_ms": 163972,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ"
     },
     {
       "added_at": "2025-04-17 23:00:35",

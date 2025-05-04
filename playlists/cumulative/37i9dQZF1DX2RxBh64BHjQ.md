@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3gBZUcNeVumkeeJ19CY2sX">Ken Carson</a>
 
-2,299 songs - 4 day 6 hr 13 min
+2,300 songs - 4 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 | 2023-03-17 | 2023-06-10 |
 | [FACETIME WITH MY MAMA](https://open.spotify.com/track/6f8bXgoJA7izsmzPvcFVx5) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Still King \(Deluxe\)](https://open.spotify.com/album/3zipr2j6VaDZNIOP9r5sAk) | 2:22 | 2024-10-04 | 2024-11-02 |
 | [fafo](https://open.spotify.com/track/0tgFHDNf2ZNeY1J90oGbUW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:38 | 2021-12-25 | 2022-01-08 |
+| [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 | 2025-05-03 |  |
 | [FAKE LOVE](https://open.spotify.com/track/0mCiennGRXNGxodWqSQocg) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:58 | 2024-10-25 | 2024-11-23 |
 | [Fall Fast in Love](https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fall Fast in Love](https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo) | 2:52 | 2024-09-27 | 2024-10-05 |
 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 | 2023-05-26 | 2023-08-19 |
@@ -1689,7 +1690,7 @@
 | [Retaliation](https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Retaliation](https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2) | 2:28 | 2021-09-24 | 2022-02-05 |
 | [Revenue](https://open.spotify.com/track/4lXWdBuxBmbuA6YsoBXgzt) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Revenue](https://open.spotify.com/album/3vs53eZfqC6NQGto1qjSdR) | 3:15 | 2023-03-17 | 2023-06-10 |
 | [Rich Baby Mama](https://open.spotify.com/track/25zgoxL9MmTCVpWPiN8Lk9) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Rich Baby Mama](https://open.spotify.com/album/7IvVb6HodS1L4ggPZmUQvu) | 2:01 | 2023-06-23 | 2023-08-12 |
-| [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 | 2025-04-25 |  |
+| [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 | 2025-04-25 | 2025-05-04 |
 | [Rich How I'm Dyin](https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Rich How I'm Dyin](https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF) | 2:33 | 2022-06-17 | 2022-09-24 |
 | [Rich Junkies](https://open.spotify.com/track/1uyxg9j4cxUDWjVA3EOvub) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Rich Junkies](https://open.spotify.com/album/4HRFlJWRLrbbCMwcZj8rmK) | 2:47 | 2025-03-07 |  |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-01 | 2022-08-06 |

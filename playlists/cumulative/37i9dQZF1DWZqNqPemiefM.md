@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-776 songs - 2 day 12 hr 11 min
+777 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Mkwaju](https://open.spotify.com/track/6EXxt6R2ziKNUeClSiLg1L) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/2PeTfaXfMczJeduhKAMsZV) | 6:28 | 2022-03-31 | 2022-04-19 |
 | [Moby Dick](https://open.spotify.com/track/3Dm8QM1QErb865Tre9ae4I) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 9:58 | 2022-03-30 | 2022-07-20 |
 | [Moby Dick \(Revisited\)](https://open.spotify.com/track/5R1Jc11XDr3aMBCaXuzovh) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 1:58 | 2022-03-31 | 2022-06-29 |
-| [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 | 2024-02-15 |  |
+| [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 | 2024-02-15 | 2025-05-04 |
 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 | 2023-04-06 | 2024-02-09 |
 | [montage](https://open.spotify.com/track/2vy9htJ5lfBHoOnuLvJIpL) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [still life](https://open.spotify.com/album/5qfOJegGelCj3EaKJ5dGAd) | 3:01 | 2024-07-12 | 2024-09-06 |
 | [Moon Palace](https://open.spotify.com/track/5hxAMeHC2UTepO4tmG3z3Y) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 5:15 | 2022-03-31 | 2022-07-25 |
@@ -560,6 +560,7 @@
 | [sen no hikari](https://open.spotify.com/track/4WDB7Tp4DeisyWa8OgUIyr) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [sen no hikari](https://open.spotify.com/album/1WATQU72oeUUFSuTiHFh6y) | 6:24 | 2024-05-09 | 2024-05-24 |
 | [Sepia Tone](https://open.spotify.com/track/0STwHoXTxqI4ESr3jsPGBH) | [M\-Koda](https://open.spotify.com/artist/6dut1BTL7lPjehxMgA9865) | [External Reference](https://open.spotify.com/album/4C1D3Iiz8Ftpsg4pSlAetA) | 2:38 | 2022-03-31 | 2022-04-03 |
 | [sequence\_03](https://open.spotify.com/track/5NVo3uIs3ovNFSxA3mvOXV) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [暗やみの色 Colors of the Dark](https://open.spotify.com/album/6UkBkE4Xtw80cdd3JV8DRu) | 4:04 | 2022-03-31 | 2022-07-27 |
+| [Sewing a Button](https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [The Luckiest Man in America OST](https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6) | 3:19 | 2025-05-02 |  |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2022-04-07 | 2024-02-09 |
 | [Shimmer in the Sky](https://open.spotify.com/track/5LNuw8cXIpN3Oc3YD9EbID) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 2:17 | 2022-03-31 | 2022-07-29 |
 | [Shimmering Lake Emblaze the Shady Trees.](https://open.spotify.com/track/6tHjusOqbHBxr5LEKYXTwe) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Opitope](https://open.spotify.com/artist/5GhcNZictH4RHb1qWXHs4f) | [The Crepuscular Grove](https://open.spotify.com/album/7kM1y74RIDRGD931Sh0uRP) | 7:19 | 2022-03-31 | 2022-06-24 |

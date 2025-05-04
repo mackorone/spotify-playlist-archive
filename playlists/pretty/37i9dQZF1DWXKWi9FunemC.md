@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,154 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,289 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 44 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
 | 45 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
 | 46 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
-| 47 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
-| 48 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
-| 49 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
+| 47 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
+| 48 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
+| 49 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 50 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 | 51 | [Open My Eyes](https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [The Antidote](https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3) | 3:51 |
 | 52 | [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 |
 | 60 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 |
 | 61 | [Like the Dawn](https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC) | [Becky Higg](https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv) | [Maybe Just Maybe](https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8) | 5:19 |
-| 62 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
-| 63 | [Grace after Grace](https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace](https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O) | 4:13 |
+| 62 | [Grace after Grace](https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace](https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O) | 4:13 |
+| 63 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
 | 64 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 |
 | 65 | [Foolish & Ruined](https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Foolish & Ruined](https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK) | 4:59 |
 | 66 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 |

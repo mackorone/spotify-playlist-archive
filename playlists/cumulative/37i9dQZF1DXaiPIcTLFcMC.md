@@ -2,9 +2,9 @@
 
 ### [바니와 오빠들 \(Crushology 101\)](https://open.spotify.com/playlist/37i9dQZF1DXaiPIcTLFcMC)
 
-> Listen to the soundtracks of Crushology 101! \(바니와 오빠들의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+> Listen to the soundtracks of Crushology 101\. \(바니와 오빠들의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-25 songs - 1 hr 20 min
+29 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,9 @@
 | [BRAIN](https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Chocolate Box](https://open.spotify.com/album/4ilhdkJzJudY6RBp0PifGw) | 3:28 | 2025-05-02 |  |
 | [By Your Side](https://open.spotify.com/track/0PCHcxzHaTNwTICqX0ieTR) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [By Your Side \(Crushology 101 OST Part.4\)](https://open.spotify.com/album/70cfev45DG06SUDKef1eHM) | 3:58 | 2025-05-02 |  |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-05-02 |  |
+| [Curated by Cho Jun young](https://open.spotify.com/track/75IgCU8RhuAKPeSjveIECu) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:30 | 2025-05-03 |  |
+| [Curated by Lee Chae min](https://open.spotify.com/track/18PfRHUpFl3oglLVcLtkmB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:30 | 2025-05-03 |  |
+| [Curated by Roh Jeong eui](https://open.spotify.com/track/161Iv9QnoFMqRUEg0WHRiI) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:38 | 2025-05-03 |  |
 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 | 2025-05-02 |  |
 | [Ep.1 \- Crushology 101](https://open.spotify.com/track/2K83szQ8xLJS83zFK4fzfs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Audio Liners](https://open.spotify.com/album/7mczFTgs0ABMBwfVSRYcY4) | 0:21 | 2025-05-02 |  |
 | [Ep.2 \- Crushology 101](https://open.spotify.com/track/42cz54hWMPkZAvyw9u60Ix) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Audio Liners](https://open.spotify.com/album/7mczFTgs0ABMBwfVSRYcY4) | 0:14 | 2025-05-02 |  |
@@ -32,6 +35,7 @@
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2025-05-02 |  |
 | [What else](https://open.spotify.com/track/489iFTivqvY74tf9LSyTHK) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [What else \(Crushology 101 OST Part.5\)](https://open.spotify.com/album/6fLPZLlVwHR3eXFSz283Ay) | 3:09 | 2025-05-02 |  |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2025-05-02 |  |
+| [You pour down on me](https://open.spotify.com/track/6JByP5H4cLlSfhxVezPGvm) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [You pour down on me \(Crushology 101 OST Part.6\)](https://open.spotify.com/album/3feWfZ0aIFH2C7PoRkHGZc) | 3:59 | 2025-05-03 |  |
 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 | 2025-05-02 |  |
 
 \*This playlist was first scraped on 2025-05-03. Prior content cannot be recovered.

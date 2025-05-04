@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS?si=zB5Yt39aTUmPPs2CC5\-bZg">Summer Walker</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=ODYUO\-AxRxqrQRgbMg371w">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=MPQG0uQrSCOrK8C4NUjq9w">Xduppy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,506 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,516 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

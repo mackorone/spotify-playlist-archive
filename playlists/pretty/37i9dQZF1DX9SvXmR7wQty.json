@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: mokina",
-  "num_followers": 44626,
+  "num_followers": 44632,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-05-02 16:01:42",
       "album": {
+        "name": "PAY!",
+        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 130699,
+      "name": "PAY!",
+      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
+    },
+    {
+      "added_at": "2025-05-02 16:01:42",
+      "album": {
         "name": "Arcane League of Legends: Season 2 Original Soundtrack (Extended Edition)",
         "url": "https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 201933,
       "name": "Ma Meilleure Ennemie ft. Coldplay (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv"
-    },
-    {
-      "added_at": "2025-05-02 16:01:42",
-      "album": {
-        "name": "PAY!",
-        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 130699,
-      "name": "PAY!",
-      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
     },
     {
       "added_at": "2025-05-02 16:01:42",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-05-02 16:01:42",
       "album": {
-        "name": "solo",
-        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/5akNMeRxTASzv3Fcowk6kk"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
         }
       ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
+      "duration_ms": 214143,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/2RouBNPT9c8lzQ5Hc7V45c"
     },
     {
       "added_at": "2025-05-02 16:01:42",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-05-02 16:01:42",
       "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/5akNMeRxTASzv3Fcowk6kk"
+        "name": "solo",
+        "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
       },
       "artists": [
         {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 214143,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/2RouBNPT9c8lzQ5Hc7V45c"
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
     },
     {
       "added_at": "2025-05-02 16:01:42",

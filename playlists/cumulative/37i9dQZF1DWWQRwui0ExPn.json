@@ -6747,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "apple sauce",
+        "url": "https://open.spotify.com/album/6LPcmzdfV2tDeIjmMsli2j"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "apple sauce",
+      "url": "https://open.spotify.com/track/72bnqWOrKvRM6Wg6DZ5S76"
+    },
+    {
+      "album": {
         "name": "Apples & Bananas",
         "url": "https://open.spotify.com/album/4FxnFoxIajmf5Jk600OhBR"
       },
@@ -130438,7 +130456,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 162222,
       "name": "Two Fishes",
       "url": "https://open.spotify.com/track/1DuWjr1daphiUoOwYCGRfY"

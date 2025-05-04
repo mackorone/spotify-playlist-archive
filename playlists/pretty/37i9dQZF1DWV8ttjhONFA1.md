@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera & Hipnótica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,811 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,807 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 98 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 |
 | 99 | [Fin del día](https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Fin del día](https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j) | 4:37 |
 
-Snapshot ID: `aAvslQAAAAD5V7uuBG74lb8I5tEsmzeo`
+Snapshot ID: `aAvslQAAAAD+h0Dl7wParSMWUC5TA+dD`

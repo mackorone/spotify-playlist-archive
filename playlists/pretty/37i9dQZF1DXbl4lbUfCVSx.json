@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 34260,
+  "num_followers": 34265,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-04-22 12:14:26",
       "album": {
+        "name": "Mortal kompa",
+        "url": "https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx"
+      },
+      "artists": [
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        }
+      ],
+      "duration_ms": 273835,
+      "name": "Mortal kompa",
+      "url": "https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz"
+    },
+    {
+      "added_at": "2025-04-22 12:14:26",
+      "album": {
         "name": "I'll Yayad (Pretty Bumpy)",
         "url": "https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 267586,
       "name": "I'll Yayad - Pretty Bumpy",
       "url": "https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW"
-    },
-    {
-      "added_at": "2025-04-22 12:14:26",
-      "album": {
-        "name": "Mortal kompa",
-        "url": "https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx"
-      },
-      "artists": [
-        {
-          "name": "lucas seb",
-          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
-        }
-      ],
-      "duration_ms": 273835,
-      "name": "Mortal kompa",
-      "url": "https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz"
     },
     {
       "added_at": "2025-04-22 12:14:26",

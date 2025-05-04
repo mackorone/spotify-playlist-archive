@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sidewalks and Skeletons, Sky Ferreira and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,867 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,880 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Sea, Swallow Me \- 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies \(2024 Remaster\)](https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm) | 3:09 |
 | 50 | [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 |
 
-Snapshot ID: `aBV9NwAAAACPB4OFrdL0ao3qfIo1LA2o`
+Snapshot ID: `aBbGWwAAAACza6LuIxSTvjVUnDO3pc64`

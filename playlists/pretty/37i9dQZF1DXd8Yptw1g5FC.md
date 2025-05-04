@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Wegh x Reynmen ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,742 likes - 88 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,795 likes - 88 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

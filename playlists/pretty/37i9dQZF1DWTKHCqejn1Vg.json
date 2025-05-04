@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33559,
+  "num_followers": 33563,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMlI7ZEaPvcg4yFAu4G0KcMJr78",
+  "snapshot_id": "aBQjNAAAAACJSsq+4nr6cD3SVijT5Nw6",
   "tracks": [
     {
       "added_at": "2025-05-02 01:43:16",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-05-02 01:43:16",
       "album": {
+        "name": "MY RIDE",
+        "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
+      },
+      "artists": [
+        {
+          "name": "JASMINE",
+          "url": "https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "MY RIDE",
+      "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
+    },
+    {
+      "added_at": "2025-05-02 01:43:16",
+      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2025-05-02 01:43:16",
-      "album": {
-        "name": "MY RIDE",
-        "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
-      },
-      "artists": [
-        {
-          "name": "JASMINE",
-          "url": "https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "MY RIDE",
-      "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
     },
     {
       "added_at": "2025-05-02 01:43:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-02 01:43:16",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2025-05-02 01:43:16",
-      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "added_at": "2025-05-02 01:43:16",
+      "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+      },
+      "artists": [
+        {
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2025-05-02 01:43:16",

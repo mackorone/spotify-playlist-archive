@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Marie Welch
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,714 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,758 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 16 | [Bendecido](https://open.spotify.com/track/1UIsRbF0BDVaxWKI0PHjQ8) | [Marky](https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Bendecido](https://open.spotify.com/album/7AmFvgPJvwvPiSNNT2WwiM) | 3:28 |
 | 17 | [Somos Cristianos](https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Somos Cristianos](https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH) | 2:20 |
 | 18 | [No Soy Santo](https://open.spotify.com/track/0BDzg4BhhbNlYHlnCiyEVX) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa) | [No Soy Santo](https://open.spotify.com/album/7fn5uqH6oTfBRK97RvSOXn) | 2:19 |
-| 19 | [La Gran Comisión](https://open.spotify.com/track/6olXBuD9i4v5AT9JSGevwW) | [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7), [Danny El Soldado Del Rap](https://open.spotify.com/artist/4mqpauoHIPmyHFdGGh4epg), [Menyg](https://open.spotify.com/artist/5yU5Tj4o3WZpYrzp5J9FJV), [A2c](https://open.spotify.com/artist/6bDoDluBtDWhls9XfHJe6J), [Kano la Esencia](https://open.spotify.com/artist/4A7lVbzXa3ODodGw8mA83N), [Krazy Prophet](https://open.spotify.com/artist/2gfF0BrQupZQ4c0X9AwmPv) | [La Gran Comisión](https://open.spotify.com/album/3HbzjY9W1CstZJHh2fU5FN) | 4:17 |
+| 19 | [La Gran Comisión](https://open.spotify.com/track/6olXBuD9i4v5AT9JSGevwW) | [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7), [Danny El Soldado Del Rap](https://open.spotify.com/artist/4mqpauoHIPmyHFdGGh4epg), [Menyg](https://open.spotify.com/artist/5yU5Tj4o3WZpYrzp5J9FJV), [A2c](https://open.spotify.com/artist/6bDoDluBtDWhls9XfHJe6J), [Kano la Esencia](https://open.spotify.com/artist/4A7lVbzXa3ODodGw8mA83N), [Krazy Prophet](https://open.spotify.com/artist/2gfF0BrQupZQ4c0X9AwmPv), [Allan Z](https://open.spotify.com/artist/0YJlLcU13FM3pqXRkIi1WQ) | [La Gran Comisión](https://open.spotify.com/album/3HbzjY9W1CstZJHh2fU5FN) | 4:17 |
 | 20 | [Estoy Convencido](https://open.spotify.com/track/7MynTdhN8F9nSQPov5bqpW) | [Gerstronik](https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE) | [Estoy Convencido](https://open.spotify.com/album/5QjRMUdwMYsIe6MTYzKPpD) | 3:18 |
 | 21 | [Abre Tus Ojos](https://open.spotify.com/track/7A6aqwr3G2NWBGhJi39oBG) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [CLST](https://open.spotify.com/artist/5IuDvzu8dEdAUlAZCKDFxP), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Abre Tus Ojos](https://open.spotify.com/album/0kcURHxvhRaeR0dFbq9Kt4) | 3:38 |
 | 22 | [Vengan y Vean](https://open.spotify.com/track/3ML4PR7vYby13O1QbEpyMf) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Vengan y Vean](https://open.spotify.com/album/1PXuLd5Om2stClhROOdtqU) | 4:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,912 likes - 98 songs - 4 hr 12 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,892 likes - 98 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 7 | [Delilah](https://open.spotify.com/track/6BDyn04oAhaT9jof1FSITO) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Delilah](https://open.spotify.com/album/3sQoRiW52oeCysgH2bMk5M) | 2:54 |
 | 8 | [Never Tell You](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Never Tell You](https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo) | 2:11 |
 | 9 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 |
-| 10 | [Lonely](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Lonely](https://open.spotify.com/album/3ONM4W4ug6OFfeiqHJs0ch) | 1:51 |
+| 10 | [Lonely](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) | [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [Lonely](https://open.spotify.com/album/3ONM4W4ug6OFfeiqHJs0ch) | 1:51 |
 | 11 | [Our Way](https://open.spotify.com/track/4uAyfGoQcu1tmM0uvQxQI8) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [Keely Keyz](https://open.spotify.com/artist/4GyZgtnuaI35gkhi22yZTE), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Our Way](https://open.spotify.com/album/6YiODwq71WRPqdk2cl8l2B) | 2:18 |
 | 12 | [Never Let You Go](https://open.spotify.com/track/0ftfltMmpV2zBDTCYCWaAp) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Never Let You Go](https://open.spotify.com/album/6sgfY5O8UWyW8CUX7QdSiq) | 2:40 |
 | 13 | [Electric](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [chameleon](https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB) | [Electric](https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0) | 2:13 |

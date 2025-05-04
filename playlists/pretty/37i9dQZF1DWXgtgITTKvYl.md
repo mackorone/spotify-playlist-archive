@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,332 likes - 75 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,400 likes - 75 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 39 | [This Red Sky](https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8) | [Coma Rossi](https://open.spotify.com/artist/5IxE24msVbzRsG6cDxg7KA) | [Void](https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc) | 8:51 |
 | 40 | [A Long Long Way From Home](https://open.spotify.com/track/1JoObHW5QGdgXavWTw7ql2) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [A Long Long Way From Home](https://open.spotify.com/album/5bQq1LOkiyABlMIG9E4EYT) | 5:08 |
 | 41 | [In the Shadows](https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf) | [Venamoris](https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [In the Shadows](https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy) | 3:52 |
-| 42 | [On Reflection \- 2025 Dan Bornemark Mix](https://open.spotify.com/track/3c9U9O7Q54o1eqa1x1LGzh) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Playing The Fool \- The Complete Live Experience \(2025 Remaster\)](https://open.spotify.com/album/48fIizFHgy4RWItJY1C48b) | 6:32 |
+| 42 | [On Reflection \- 2025 Dan Bornemark Mix](https://open.spotify.com/track/3c9U9O7Q54o1eqa1x1LGzh) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Playing The Fool – The Complete Live Experience \(2025 Dan Bornemark Mix\) \[2025 Remaster\]](https://open.spotify.com/album/48fIizFHgy4RWItJY1C48b) | 6:32 |
 | 43 | [Genesis \(Live at the Factory in Deep Ellum\)](https://open.spotify.com/track/2N0rwlgJPmNoYhciIhtTkU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Live at the Factory in Deep Ellum](https://open.spotify.com/album/5ego3KkRnlTNUJNbfsYSDQ) | 4:26 |
 | 44 | [Hic Sunt Dracones](https://open.spotify.com/track/2smxyXP8rB7OLViYP2Zfev) | [Algal](https://open.spotify.com/artist/6AU6DQHPVlHvPh175WIXHa) | [Hic Sunt Dracones](https://open.spotify.com/album/5M49LX6tVtgvlG47FkuH0W) | 4:12 |
 | 45 | [The Kiss And The Lie](https://open.spotify.com/track/5V7zj2rKl3K4JZeuhZin62) | [In The Woods...](https://open.spotify.com/artist/41E3QF87uVy2sVvX2TobhI) | [Otra](https://open.spotify.com/album/0CwgAZPYjHITuRGwqCBcSh) | 5:30 |

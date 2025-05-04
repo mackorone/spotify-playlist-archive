@@ -4,7 +4,7 @@
 
 > 
 
-2,150 songs - 4 day 19 hr 30 min
+2,151 songs - 4 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,7 @@
 | [ENTER: A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/track/3pyMCe3ShAnk0TzOoVuGsL) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 1:31 | 2022-07-23 |  |
 | [Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:59 | 2022-02-18 |  |
 | [envy](https://open.spotify.com/track/2qSKseevVOjxtOU1uT1ZkM) | [3LI](https://open.spotify.com/artist/4T0pY3JMTszcEPmNfLYYMY) | [envy](https://open.spotify.com/album/4mTJlYjuefjFfRLzNtr7Bu) | 1:21 | 2022-12-14 |  |
-| [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [envy](https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg) | 2:08 | 2025-05-02 |  |
+| [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [envy](https://open.spotify.com/album/3bUJmOyMZ1Ow5X181T3UIg) | 2:08 | 2025-05-02 | 2025-05-04 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-11 |  |
 | [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [Pathetic](https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 | 2021-12-30 |  |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-11-14 |  |
@@ -649,6 +649,7 @@
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2021-08-05 |  |
 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 | 2021-08-05 |  |
 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 | 2021-08-05 |  |
+| [Fashion Killa](https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:56 | 2025-05-03 |  |
 | [Fast Life](https://open.spotify.com/track/5u1vw4nmCG8iuerg6ppBf0) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Fast Life](https://open.spotify.com/album/0yJzvNLSI3clU0lZGoqrVn) | 2:21 | 2024-11-05 |  |
 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 | 2021-08-05 |  |
 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 | 2022-06-06 |  |
@@ -1500,7 +1501,7 @@
 | [Pu\-Li\-Ru\-La](https://open.spotify.com/track/6uMPkdGH35dqC2jEdfLW63) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:31 | 2022-06-30 |  |
 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 | 2024-06-10 |  |
 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 | 2024-07-12 |  |
-| [PUMP UP THE BASS](https://open.spotify.com/track/5Q9mHHuDrl0IycDKmfIflc) | [Insane teknology](https://open.spotify.com/artist/6v482Hj3a2V6SB0RQN3MLI) | [PUMP UP THE BASS](https://open.spotify.com/album/4nVq6Qr5PYWyIT8EJjDPkS) | 7:01 | 2025-04-18 |  |
+| [PUMP UP THE BASS](https://open.spotify.com/track/5Q9mHHuDrl0IycDKmfIflc) | [Insane teknology](https://open.spotify.com/artist/6v482Hj3a2V6SB0RQN3MLI) | [PUMP UP THE BASS](https://open.spotify.com/album/4nVq6Qr5PYWyIT8EJjDPkS) | 7:01 | 2025-04-18 | 2025-05-04 |
 | [Pump Up The Jam](https://open.spotify.com/track/6A6HvIp5b9vif0Jhm9r7Oe) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Car All Hits](https://open.spotify.com/album/3xCW1OsVpfdj8HHY01GIek) | 5:20 | 2021-12-30 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2021-08-05 |  |
 | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/track/3sdYpdTTn4fdfu4cyisnt0) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/album/5H7ninGfbxKP554yChPCWw) | 2:28 | 2021-08-05 |  |
@@ -2073,7 +2074,7 @@
 | [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:40 | 2021-08-05 |  |
 | [What Was Really Said](https://open.spotify.com/track/7dO1Pnoy2Evv4QyL1fimWc) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:33 | 2024-01-15 |  |
 | [what we did in the desert](https://open.spotify.com/track/48NL8GMxz08wkiGmGK6Wie) | [eightiesheadachetape](https://open.spotify.com/artist/0zqkC2avtnLE51BUOhuV21) | [for a while](https://open.spotify.com/album/5qrlcvSfVekFSErw48sV2u) | 4:27 | 2022-06-09 |  |
-| [What You Waiting](https://open.spotify.com/track/5W6s3LvNMZNypFmHyqMyQp) | [Magben](https://open.spotify.com/artist/1EOj8IJGq8OrTQmTWTkn9t) | [What You Waiting](https://open.spotify.com/album/6VxVZnlH3AhpdtS1XJgbFE) | 7:21 | 2025-04-17 |  |
+| [What You Waiting](https://open.spotify.com/track/5W6s3LvNMZNypFmHyqMyQp) | [Magben](https://open.spotify.com/artist/1EOj8IJGq8OrTQmTWTkn9t) | [What You Waiting](https://open.spotify.com/album/6VxVZnlH3AhpdtS1XJgbFE) | 7:21 | 2025-04-17 | 2025-05-04 |
 | [Wheels on the Bus](https://open.spotify.com/track/2plUcsOZm6pi1kFUncqLni) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:40 | 2021-08-05 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2021-08-05 |  |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2022-04-03 |  |

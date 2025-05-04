@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4wta20PHgwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4wta20PHgwo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4wta20PHgwo)
 
-### [Jazz nocturno](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
+### [Late Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
 
-> La música de fondo perfecta para relajarse en soledad por la tarde.
+> The perfect backdrop to an evening spent relaxing in solitude.
 
 509 songs - 1 day 21 hr 57 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Lights, Jorja Smith, PUP, Summer Walker and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,849 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,921 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 93 | [Take It On](https://open.spotify.com/track/220i4mwZlOZoUbFt7RpBmo) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Take It On](https://open.spotify.com/album/00eDgidMKFRDRiMHhMcxcy) | 4:50 |
 | 94 | [Coming Back Around](https://open.spotify.com/track/0qfbDlCzkr56Gnoq2CHIz8) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Coming Back Around](https://open.spotify.com/album/48vgbiazG9M1Zhcybl9tWX) | 2:45 |
 | 95 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
-| 96 | [Rewind.](https://open.spotify.com/track/6LkotBsjKqbiTlW0tP0XOS) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Be Kind\. Rewind.](https://open.spotify.com/album/7fK730tW19STsACwRPhqFO) | 1:17 |
+| 96 | [Rewind.](https://open.spotify.com/track/6LkotBsjKqbiTlW0tP0XOS) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Be Kind\. Rewind.](https://open.spotify.com/album/7fK730tW19STsACwRPhqFO) | 3:13 |
 | 97 | [La Bohème](https://open.spotify.com/track/1Dd7eWQOzmZ9hMLUdbN2XZ) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMS for Location, Vol\. 6](https://open.spotify.com/album/2TmJgJ4o5KMLN57mR7HiSF) | 2:42 |
 | 98 | [6:25](https://open.spotify.com/track/4adHUlpHedj2PKkj9IkF3T) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [6:25](https://open.spotify.com/album/067hqinbexfCaNGC2VbP8x) | 2:25 |
 | 99 | [Think Of Me](https://open.spotify.com/track/5JvvemygdB8jliIliR3Zuw) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Think Of Me](https://open.spotify.com/album/0i3IraI8JUUOsVQtf1yL9k) | 3:00 |

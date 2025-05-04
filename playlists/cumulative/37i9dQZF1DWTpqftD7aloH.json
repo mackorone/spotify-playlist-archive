@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Jeov\u00e1 Jireh (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rw2jXf4iEB18NyCKZCrHj"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455413,
+      "name": "Jeov\u00e1 Jireh (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2ZKRZ7EcmwZmRmxmtTtcD2"
+    },
+    {
+      "album": {
         "name": "Temporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/7rraIXg79Z1H4GPzs9vWyf"
       },
@@ -5272,6 +5290,28 @@
       "duration_ms": 399243,
       "name": "O Que Sua Gl\u00f3ria Fez Comigo",
       "url": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X"
+    },
+    {
+      "album": {
+        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/113BIkOZTB7RiZ9EnhnTqR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Renovado",
+          "url": "https://open.spotify.com/artist/0NWtWAXadyumDoXvvYwawf"
+        },
+        {
+          "name": "100 Preconceito",
+          "url": "https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217429,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bKGZ3mPLFQaxTE8FIn3uf"
     },
     {
       "album": {
@@ -7026,7 +7066,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 484837,
       "name": "Seja o Centro - Ao Vivo",
       "url": "https://open.spotify.com/track/58JGBmbh8BAraMsBxmIBWj"
@@ -8694,7 +8734,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 220000,
       "name": "Yeshua - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5fGFmFAZl5O4lmsB0gJZrL"

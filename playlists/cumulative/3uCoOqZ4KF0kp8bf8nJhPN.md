@@ -4,7 +4,7 @@
 
 > 
 
-164 songs - 6 hr 23 min
+168 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [COME GET UR MANZ!](https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [COME GET UR MANZ!](https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD) | 2:25 | 2025-01-16 |  |
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2024-12-31 |  |
+| [degen.](https://open.spotify.com/track/4aD0uQvbDJDWaHzEb4tpg5) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [degen.](https://open.spotify.com/album/6go8FVAAVxTHhhnYcfiqru) | 2:52 | 2025-05-03 |  |
 | [DINNER!](https://open.spotify.com/track/2ntvY5etas0PYYF5bPujuh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/5VFwh2DtKqihtJPFG2J6qK) | 2:16 | 2025-01-20 |  |
 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 | 2025-04-10 |  |
 | [DON’T MAKE ME LAUGH!](https://open.spotify.com/track/0ABN1KoOlUNUVkM1yIdsl2) | [KARMAMØB](https://open.spotify.com/artist/0v29jVkGQdZAkJkcLwnOo3), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [DON’T MAKE ME LAUGH!](https://open.spotify.com/album/1PPVBkJvUe2EQMEaYhUlJy) | 1:48 | 2025-01-11 |  |
@@ -116,6 +117,7 @@
 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 | 2025-03-14 |  |
 | [NOMOTION](https://open.spotify.com/track/2jvdBpGG2TXmrNTA7SxFEP) | [kuya](https://open.spotify.com/artist/1iqagAfuLHGpm140nMYhRP), [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [NOMOTION](https://open.spotify.com/album/0X4l37wfioPNxtNBvlFrGd) | 1:51 | 2025-04-11 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2025-01-17 |  |
+| [oh, you don't say?!!](https://open.spotify.com/track/3xhKONvY5OfqTT5es5HpQg) | [idkwhyy](https://open.spotify.com/artist/4fipNOIWi1qnCRQRg7C0mr) | [oh, you don't say?!!](https://open.spotify.com/album/15zemNR2rRtd09VVH5YM3h) | 2:23 | 2025-05-03 |  |
 | [ON A TREE!](https://open.spotify.com/track/3y5ywnLJb9EzlbcnJZRBDV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:10 | 2025-03-24 |  |
 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2025-03-07 |  |
 | [OPPER STOPPER!](https://open.spotify.com/track/1TMM3EMVNc5pP6TLrSxpnE) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [OPPER STOPPER!](https://open.spotify.com/album/1XHhZKb7PTtFCM9IGCow3v) | 1:38 | 2025-01-08 |  |
@@ -158,6 +160,7 @@
 | [Twilight Lament](https://open.spotify.com/track/3RxKY6Yxbqzs0gwsy1Fbtb) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Twilight Lament](https://open.spotify.com/album/6kMTAisbydVlrVkvwzxl2g) | 1:32 | 2025-04-12 |  |
 | [u ma type.](https://open.spotify.com/track/0fzMv0ui4hnVIVeeES6XhW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [u ma type.](https://open.spotify.com/album/1lNXC5JsYet2b0Z7WHZLDp) | 1:47 | 2024-11-23 |  |
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
+| [waiting \. \. .](https://open.spotify.com/track/0B3r9IpM4jrFWc9qMm5sDA) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd), [eldlofi](https://open.spotify.com/artist/6hRAyhxOe18fjdgBVvAj3x) | [waiting \. \. .](https://open.spotify.com/album/1UbN6E2VT4p0GjpT2IFUpH) | 2:07 | 2025-05-03 |  |
 | [walkupinthebuilding.mp3](https://open.spotify.com/track/5JfF2pd3K2xqVYgsCxETpg) | [kuya](https://open.spotify.com/artist/1iqagAfuLHGpm140nMYhRP) | [walkupinthebuilding.mp3](https://open.spotify.com/album/1vL1FzEzTSjySkNoaiiOZ6) | 1:34 | 2025-04-11 |  |
 | [Warm Stay](https://open.spotify.com/track/0gKYihhcPJtiLoJnZFe3wk) | [Blossom](https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R) | [Warm Stay](https://open.spotify.com/album/2wZYj9n81S3M2YwzbbzbQw) | 2:49 | 2025-03-11 |  |
 | [WATCH OUT](https://open.spotify.com/track/2m0LxplWmMmMkrZiu2Zvdl) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [era](https://open.spotify.com/artist/31Ns4smj7SDd9zdCZ3qtXr) | [WATCH OUT](https://open.spotify.com/album/1MpombUoJM8s3a8cgeTlQv) | 1:09 | 2025-04-11 |  |
@@ -165,6 +168,7 @@
 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 | 2025-01-17 |  |
 | [WHAT?](https://open.spotify.com/track/6MIaCadFk3NxEuY7yCOJls) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [WHAT?](https://open.spotify.com/album/0nqOP9Duwfkl88PSOm68yC) | 1:57 | 2024-12-26 |  |
 | [WHATITMEAN!?](https://open.spotify.com/track/3T6Cx9YYK38MSiHXKRwb0U) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [WHATITMEAN!?](https://open.spotify.com/album/2WwACGlMbQxWhwDkSRhza5) | 1:00 | 2025-04-11 |  |
+| [whats the use?](https://open.spotify.com/track/0eyiSPQKRiWUBYqlswj0m8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [whats the use?](https://open.spotify.com/album/6LRWRsdhgXRHNOGrGLnG1T) | 2:18 | 2025-05-03 |  |
 | [why try?](https://open.spotify.com/track/4TaktbfwiMLBG8TI49Qi9o) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [why try?](https://open.spotify.com/album/4UnwglMgm3Slopx5HGDoJb) | 2:39 | 2025-01-16 |  |
 | [WOA!](https://open.spotify.com/track/4pBZbCEiabXZrWfSFpm7Bs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 2:26 | 2024-12-08 |  |
 | [WTFG!](https://open.spotify.com/track/7kMFqDbwdxt6XMKGF2uyL6) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [BLCKK](https://open.spotify.com/artist/4Zs1wgcjD3aYvaN1lFRMRt), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [WTFG!](https://open.spotify.com/album/6kfvKS1TNG7bnqR2rRr9pV) | 2:44 | 2025-04-12 |  |

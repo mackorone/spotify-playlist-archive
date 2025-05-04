@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Rubí is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,283 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,259 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 14 | [UN TRIO](https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [UN TRIO](https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8) | 2:37 |
 | 15 | [CHICA ATRACTIVA](https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 2:45 |
 | 16 | [Minnie 2](https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Minnie 2](https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ) | 4:23 |
-| 17 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [ROSÉ](https://open.spotify.com/artist/1c2msIuPdhUmppenPEonjv), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
+| 17 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
 | 18 | [Party MJ](https://open.spotify.com/track/6sm7XqRLVN6mhJ2xxoKO1B) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Party MJ](https://open.spotify.com/album/6k0iCmB82Zp5C0t5un7j7R) | 4:07 |
 | 19 | [En la Urus](https://open.spotify.com/track/1eCwg3Db7ISFFOehnJ8MKO) | [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [4Play](https://open.spotify.com/album/7nadGAPvo3ciZlC7Toep7X) | 3:29 |
 | 20 | [como antes](https://open.spotify.com/track/2ckeBjD8GCw01pRFRMaSZg) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [me estoy volviendo loca](https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s) | 3:02 |
 
-Snapshot ID: `aBP4RwAAAAACz/ltF53ChJKocimnxu8d`
+Snapshot ID: `aBP4RwAAAACWZrwyjMYfkzRPolcu/3/g`

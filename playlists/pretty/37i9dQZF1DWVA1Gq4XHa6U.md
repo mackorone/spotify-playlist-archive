@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! When hip\-hop meets jazz\. Fusion and samples\. Cover: Common
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,876,020 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,876,430 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [My Nigga](https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:55 |
 | 50 | [Tell Me](https://open.spotify.com/track/7aXXjA800sXYKpM8D9pCVT) | [Smilez and Southstar](https://open.spotify.com/artist/2ZwdTnCl6ck2cEnTNRL09I) | [Crash the Party](https://open.spotify.com/album/2tjXTKIUkNfzhWA69MHaXo) | 4:38 |
 
-Snapshot ID: `AAAAAHaaWxkUEFcEhva8gN4dk2QKAD78`
+Snapshot ID: `aBP24wAAAADqYVv7BBjXOoQJwnl7Kg5d`

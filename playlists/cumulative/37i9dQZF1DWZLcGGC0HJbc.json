@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Oh Wide World",
+        "url": "https://open.spotify.com/album/7lAy11wBJhfqMwtURlwGgj"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179291,
+      "name": "Oh Wide World",
+      "url": "https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv"
+    },
+    {
+      "album": {
         "name": "Old Fashioned Parade",
         "url": "https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR"
       },
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 159200,
       "name": "This House",
       "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"

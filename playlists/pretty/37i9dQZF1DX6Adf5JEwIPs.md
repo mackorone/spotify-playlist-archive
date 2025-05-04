@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ángela Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,117 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,196 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [Que Diablos Quieres](https://open.spotify.com/track/5dLx3rZpiGX0pNoI95BMuf) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Que Diablos Quieres](https://open.spotify.com/album/0UKHcbHWDKqFHU5gElkXPf) | 3:45 |
 | 33 | [9 Meses](https://open.spotify.com/track/5LgGOb91mEcfu45eYnVsFB) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [9 Meses](https://open.spotify.com/album/4CxbPSAJ3xDH2zmvkmJqfD) | 2:35 |
 | 34 | [YAKUSA](https://open.spotify.com/track/6EVTKIfElJ0DzO4n5DuGmX) | [Bryan Martínez](https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP) | [YAKUSA](https://open.spotify.com/album/3EOBtogMv4NcIEu9TY4n6X) | 2:38 |
-| 35 | [Sueños De La Calle: X Ella](https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 2:37 |
+| 35 | [Sueños De La Calle: X Ella](https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 2:37 |
 | 36 | [5 Mentarios](https://open.spotify.com/track/4xONVS9KViDrqlEzzzaJLp) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [5 Mentarios](https://open.spotify.com/album/3yQk6phJ91vRCw4NB4pVNw) | 3:13 |
 | 37 | [No Es A Mí](https://open.spotify.com/track/36Tl6hIMgNU4V8K2xsOKdd) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [No Es A Mí](https://open.spotify.com/album/5RFOm2YjYO2FLy2IV3Rs9X) | 3:19 |
 | 38 | [Abro Hilo](https://open.spotify.com/track/2dqmVBMs8NtwZ8JgeefNUa) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Abro Hilo](https://open.spotify.com/album/4IQEBPfNvSh1IR9GnKqSwj) | 3:11 |

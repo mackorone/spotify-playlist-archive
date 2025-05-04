@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 6683,
+  "num_followers": 6708,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
-        "name": "DATE",
-        "url": "https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG"
-      },
-      "artists": [
-        {
-          "name": "Yasuyuki Okamura",
-          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Super Girl",
-      "url": "https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc"
-    },
-    {
-      "added_at": "2024-08-28 15:33:15",
-      "album": {
         "name": "\u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4 \u751f\u8a9590\u5468\u5e74 \u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4 TV MUSIC HISTORY II -\u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4\u4f5c\u54c1\u96c62-",
         "url": "https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 265432,
       "name": "\u306f\u3058\u3081\u3066\u306e\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL"
+    },
+    {
+      "added_at": "2024-08-28 15:33:15",
+      "album": {
+        "name": "DATE",
+        "url": "https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG"
+      },
+      "artists": [
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Super Girl",
+      "url": "https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc"
     },
     {
       "added_at": "2024-08-28 15:33:15",

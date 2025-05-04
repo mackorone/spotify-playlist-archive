@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-451 songs - 1 day 2 hr 37 min
+452 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Estrelas](https://open.spotify.com/track/1hPSpQqJaN416LtfTHvl1k) | [Leo Bomeny](https://open.spotify.com/artist/0H9Aeerg6h7o6XU4dob0p0) | [Estrelas](https://open.spotify.com/album/5XFMZNRMYKDyTWLQPxqn2t) | 3:41 | 2022-03-25 | 2022-06-28 |
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-01-21 | 2022-07-22 |
 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 | 2021-12-24 |  |
+| [EU TE AMO](https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [EU TE AMO](https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV) | 3:28 | 2025-05-02 |  |
 | [Eu Te Amo Demais](https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Rodrigo Carazo](https://open.spotify.com/artist/0zuCB4mpzbAyPiU4PzuTYv) | [Eu Te Amo Demais](https://open.spotify.com/album/2RwxaLaJ4mHbjrFc2zoskp) | 2:20 | 2021-12-24 | 2022-07-28 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-08 | 2024-12-11 |
 | [Expectativando](https://open.spotify.com/track/3mT5ozcly6OB2VtftGl00v) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Expectativando](https://open.spotify.com/album/537ABUoiMjWvrt182Egi86) | 2:47 | 2021-12-24 | 2022-07-27 |
@@ -241,7 +242,7 @@
 | [Medo de Amar](https://open.spotify.com/track/3cPclQoSPNYPijnxuMd52l) | [Léo Vieira](https://open.spotify.com/artist/0XxePJXaakWSiVVyITL408) | [Partilha & Solidão](https://open.spotify.com/album/0YNKtgcZTBTLPrCB5vLAog) | 3:22 | 2021-12-24 | 2022-06-03 |
 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 | 2022-02-11 | 2022-07-21 |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-01-21 | 2022-04-17 |
-| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 |  |
+| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 | 2025-05-04 |
 | [Meu Amor É Seu](https://open.spotify.com/track/4kc7hKuZFE3XYd2xMVvdxS) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Só Conheço o Mar](https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Meu Bem](https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0) | [Meu Bem](https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F) | 3:51 | 2021-12-24 | 2022-06-28 |
 | [Meu Bem](https://open.spotify.com/track/0ytvLIAhBCFT504fZU5pUo) | [Guil](https://open.spotify.com/artist/2XHBtzbbgnF9s2QRvmmZi2) | [Guil](https://open.spotify.com/album/4bC19EkmFsVCI0S5Ke1Cro) | 2:51 | 2022-03-25 | 2022-04-20 |

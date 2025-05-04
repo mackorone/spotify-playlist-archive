@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "99 Problemer",
+        "url": "https://open.spotify.com/album/4jv7JUXugDpAu0bHx89Q4n"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152158,
+      "name": "99 Problemer",
+      "url": "https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 127403,
       "name": "Tilbake",
       "url": "https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX"

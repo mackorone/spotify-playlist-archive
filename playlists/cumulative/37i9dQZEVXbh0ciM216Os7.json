@@ -23021,6 +23021,28 @@
     },
     {
       "album": {
+        "name": "Immortals",
+        "url": "https://open.spotify.com/album/2VRoycF0yKgwpogZuVvuhi"
+      },
+      "artists": [
+        {
+          "name": "DJ Flipcyide",
+          "url": "https://open.spotify.com/artist/2ZEoVkriVtu0SdMhMSqVie"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116640,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/0zOihokXmECr7l0jOC6Bob"
+    },
+    {
+      "album": {
         "name": "Impressions (Live)",
         "url": "https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b"
       },
@@ -44618,7 +44640,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 184285,
       "name": "Teriyaki Hockey",
       "url": "https://open.spotify.com/track/10WSM6EwpfO5MVKu1NN84O"
@@ -50524,7 +50546,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 192702,
       "name": "Warriors Two, Cooley High",
       "url": "https://open.spotify.com/track/1iQP1M9QaGdinNToo1k2Cw"
@@ -50554,7 +50576,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 192702,
       "name": "Warriors Two, Cooley High",
       "url": "https://open.spotify.com/track/3meUWngyJwuYjJxQ334vXd"

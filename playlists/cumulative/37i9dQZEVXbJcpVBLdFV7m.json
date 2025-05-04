@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
@@ -5964,7 +5964,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 177940,
       "name": "Doubt (demo)",
       "url": "https://open.spotify.com/track/0vsW1vAlNYiy9Y5briGT8Y"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 213370,
       "name": "EGO",
       "url": "https://open.spotify.com/track/6u8zIK6HYplBustcCWAbQI"
@@ -10210,7 +10210,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 184630,
       "name": "ILMB (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
@@ -10804,7 +10804,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 137599,
       "name": "KAD JA UMREM DRAGA",
       "url": "https://open.spotify.com/track/432d9CK8yaTlqFkKeQb4pP"
@@ -13657,6 +13657,32 @@
     },
     {
       "album": {
+        "name": "Miss Me (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/3yxWLkkzkRVKRDwkm8GH1N"
+      },
+      "artists": [
+        {
+          "name": "trxndsetter",
+          "url": "https://open.spotify.com/artist/2HT0WOH8KBT0W8iHBtHr8R"
+        },
+        {
+          "name": "svmy",
+          "url": "https://open.spotify.com/artist/5t8Yw1bYWCfmF2M1GyLKDZ"
+        },
+        {
+          "name": "trefuego1",
+          "url": "https://open.spotify.com/artist/6reXgtyluLaF5M04MiRI43"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187665,
+      "name": "Miss Me - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/427rOszWsnCmSHfZp4Xhzn"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -15240,7 +15266,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
@@ -18909,6 +18935,24 @@
     },
     {
       "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC"
+    },
+    {
+      "album": {
         "name": "Shake It To The Max (FLY) (Kalash & Maureen Remix)",
         "url": "https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle"
       },
@@ -20580,10 +20624,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
+    },
+    {
+      "album": {
+        "name": "A Minecraft Movie (Songs from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78TxL9TbTSn0HDIVjVPvSq"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/78HOAddeAcXmcuhoanspry"
     },
     {
       "album": {
@@ -23826,7 +23888,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 108923,
       "name": "VOLKSWAGEN FUNK - super slowed",
       "url": "https://open.spotify.com/track/4WFgUkgd1gCHBFwgZ1Dj8K"
@@ -24246,7 +24308,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
@@ -24472,7 +24534,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 244026,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"

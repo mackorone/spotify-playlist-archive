@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mega Shinnosuke
 
-2,365 songs - 6 day 3 hr 38 min
+2,366 songs - 6 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [Motion \(2019 Sessions\)](https://open.spotify.com/track/7gRYo4ZETjCw8n3MqCs2Ut) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk) | [Sessions](https://open.spotify.com/album/1ML2YxT5dB7PeXoOtw3enA) | 6:18 | 2023-03-30 | 2023-04-19 |
 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 | 2023-07-25 | 2023-10-11 |
 | [mp4](https://open.spotify.com/track/3nTfpPpnDVCHulWWRu1Dmk) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [mp4](https://open.spotify.com/album/1fiLuScWK4IZfM2qVTbEXn) | 2:32 | 2023-11-21 | 2023-11-29 |
+| [MTHRFCKR](https://open.spotify.com/track/2yZUNKSFHC00He0XASgfr8) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [ANTI SOCIAL SOUNDSYSTEM](https://open.spotify.com/album/42NEfZglWqoZtDQwlWkslq) | 3:14 | 2025-05-01 |  |
 | [Mukashi no Maho](https://open.spotify.com/track/1kOEFMYAMaEdDAyrez7XSn) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Mukashi no Maho](https://open.spotify.com/album/0Ksif7jpdq0jh5fCzDipw8) | 3:41 | 2023-02-21 | 2023-03-01 |
 | [Murmurs](https://open.spotify.com/track/5ZPy8Xb1NzDyo93FTjAThz) | [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [LAYLAND](https://open.spotify.com/album/4Tf7khtrhm0kD1QgUmi949) | 3:57 | 2024-02-27 | 2024-03-13 |
 | [Mushroom Beats](https://open.spotify.com/track/5uJImPxcrsokmLjKHsRw67) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Mushroom Beats](https://open.spotify.com/album/1KtKcO4HY80jXFNuoq9pWp) | 2:14 | 2023-02-28 | 2023-04-05 |
@@ -2108,7 +2109,7 @@
 | [放春花](https://open.spotify.com/track/0jZRUt5GtTFu1WjZsPTe7v) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [放春花](https://open.spotify.com/album/12DSwGJs8J0aGZqTdrpE5v) | 4:15 | 2025-04-15 | 2025-04-23 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |
 | [教室](https://open.spotify.com/track/1ZXFFU0y2lRb720TQx6d7F) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [教室](https://open.spotify.com/album/57CEZjUNjOTpDBlqKzlI8h) | 3:55 | 2024-10-08 | 2024-12-11 |
-| [散歩の天才](https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [散歩の天才](https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o) | 4:33 | 2025-03-11 |  |
+| [散歩の天才](https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [散歩の天才](https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o) | 4:33 | 2025-03-11 | 2025-05-04 |
 | [新喜劇](https://open.spotify.com/track/0f1V0xG8CD5JKo7vEkJvyS) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [新喜劇](https://open.spotify.com/album/1UoOZDWX76GzhlMubuzxL4) | 3:21 | 2024-08-06 | 2024-09-02 |
 | [新約「償い」](https://open.spotify.com/track/4lRuUjGbQZXgietBKMpLWU) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [新約「償い」](https://open.spotify.com/album/1mx6uzMW6vsBK3T5qBRkOA) | 4:58 | 2023-10-17 | 2023-10-19 |
 | [新約・人権MaxPrincess](https://open.spotify.com/track/0AQNJ1R8qB3sSdMpTSutqL) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2) | [新約・人権MaxPrincess](https://open.spotify.com/album/25omOOqbdDuMXIBJ0TF0NP) | 3:12 | 2023-10-10 | 2023-10-12 |

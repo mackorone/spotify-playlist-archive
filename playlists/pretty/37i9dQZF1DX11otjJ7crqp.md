@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,376 likes - 111 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,628 likes - 111 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,640 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,924 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 7 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 8 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
 | 9 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 |
-| 10 | [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『WIND BREAKER』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『WIND BREAKER』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 |
+| 10 | [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 |
 | 11 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/4rvIcSHZXDxbUmS8TWAUKc) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/1O12uQUwJC6XOw2szvYKp4) | 2:28 |
 | 12 | [明日を訪ねて（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/6YCUh8Q8ZF6cjiYbKnJtST) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [明日を訪ねて（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/2pU1RfDQkn8hchuvEUH03N) | 2:28 |
 | 13 | [雪中花（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/2mhBLE7VdxgkMery54dNIk) | [きしかな子](https://open.spotify.com/artist/4EQx960hoDfnN2DLfXxS0u), [内田ましろ](https://open.spotify.com/artist/7arDNJAk4aH7PIG52EWblU), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [雪中花（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/34zfpmqy0jl18dxfTQcjHN) | 2:41 |

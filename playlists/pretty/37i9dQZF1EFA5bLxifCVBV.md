@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 187 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 187 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 111 | [Noah](https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:21 |
 | 112 | [Pretty to Walk With \- Remastered](https://open.spotify.com/track/6cG8Uv5r9xr8Fe2OQz93T7) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Stormy Weather \(The Audio Pearls Collection\)](https://open.spotify.com/album/0cKZt5KRdA8bTF1eyi2p3b) | 2:55 |
 | 113 | [Jerusalem \- Live](https://open.spotify.com/track/66RNWVcr1p2BndiNBZvQbF) | [Aquabella](https://open.spotify.com/artist/5KyFe21EBZxVaT1FP5FQIB) | [Jubilee Live](https://open.spotify.com/album/4sJoPgpsGYX4sUJEAvzvy2) | 5:06 |
-| 114 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
-| 115 | [The Springtime Cometh](https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 3:21 |
+| 114 | [The Springtime Cometh](https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 3:21 |
+| 115 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
 | 116 | [Drivin' and Dreamin'](https://open.spotify.com/track/6ZPYXoReVWFvkk0nvpzIlr) | [Alan O'Day](https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:26 |
 | 117 | [Whip\-Poor\-Will](https://open.spotify.com/track/4LmVQgpgIxcNQCNjHEVCMT) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn Plays Jerome Kern](https://open.spotify.com/album/2VFVOgYzdHJk2TBeOg7SC9) | 4:25 |
 | 118 | [Water Under the Bridge](https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Vernon Duke](https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH) | 3:04 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 186 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbwXigAAAAC6GiTgdevAgkzSXkkJ+e/+`
+Snapshot ID: `AbwdKgAAAABgIHDX1dZD1YxayhevLl7i`

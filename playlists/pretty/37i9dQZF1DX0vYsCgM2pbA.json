@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 143156,
+  "num_followers": 143175,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Come To Me",
-        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
       "artists": [
         {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+      "duration_ms": 150000,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 259424,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 259424,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Still The Same",
-        "url": "https://open.spotify.com/album/2aobNbBUhYIm9TB98BH2Yv"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
-        }
-      ],
-      "duration_ms": 204393,
-      "name": "Still The Same",
-      "url": "https://open.spotify.com/track/3MIo7ob9Rg1XqVeRiHAQp2"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Gimme Some More (feat. Shungudzo)",
         "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 225558,
       "name": "Gimme Some More (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/2aobNbBUhYIm9TB98BH2Yv"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+        }
+      ],
+      "duration_ms": 204393,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/3MIo7ob9Rg1XqVeRiHAQp2"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
+      },
+      "artists": [
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 228688,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
-      },
-      "artists": [
-        {
-          "name": "Open Till L8",
-          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
-        },
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "Frauds (Mall Grab Remix)",
         "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 216838,
       "name": "Frauds (Mall Grab Remix)",
       "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
-        }
-      ],
-      "duration_ms": 210210,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Hurt This Bad",
-        "url": "https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Hurt This Bad",
-      "url": "https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "Hurt This Bad",
+        "url": "https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Hurt This Bad",
+      "url": "https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/6Lk2GxLShFuDGt7iIGYXPs"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 177422,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Mosquito Love",
-        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 262427,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/60i4dFCWO9bmqfNEVdAptj"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
       },
       "artists": [
         {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk"
+      "duration_ms": 262427,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/60i4dFCWO9bmqfNEVdAptj"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1707,6 +1691,22 @@
       "duration_ms": 293281,
       "name": "Why 1.3 [2012 Export Wav]",
       "url": "https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "make it right",
-        "url": "https://open.spotify.com/album/7M0WcdxpnFqMU2KNyEp5SB"
-      },
-      "artists": [
-        {
-          "name": "upsidedownhead",
-          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
-        },
-        {
-          "name": "Elmar",
-          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "make it right",
-      "url": "https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 162857,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "make it right",
+        "url": "https://open.spotify.com/album/7M0WcdxpnFqMU2KNyEp5SB"
+      },
+      "artists": [
+        {
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
+        },
+        {
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "make it right",
+      "url": "https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1851,18 +1851,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Burn It (Reworked)",
-        "url": "https://open.spotify.com/album/5DR2QPx2Kyg0VJD3iweeJu"
+        "name": "Touch (feat. Rromarin)",
+        "url": "https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
         }
       ],
-      "duration_ms": 264984,
-      "name": "Burn It - RONA. Ware Rework",
-      "url": "https://open.spotify.com/track/3neOJy2yv6175WoUgK1clY"
+      "duration_ms": 206250,
+      "name": "Touch (feat. Rromarin)",
+      "url": "https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK"
     }
   ],
   "unique_name": "Sunday Sessions",

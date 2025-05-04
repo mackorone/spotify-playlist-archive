@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready to relive the magic! Cover: M2M
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,091 likes - 18 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,073 likes - 18 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

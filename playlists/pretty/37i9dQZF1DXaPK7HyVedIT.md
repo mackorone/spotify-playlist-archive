@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,321 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,218 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 28 | [Connected](https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Connected](https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0) | 2:25 |
 | 29 | [The Feeling](https://open.spotify.com/track/5PVHVg0FZBB45nlCR43aSx) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [The Feeling](https://open.spotify.com/album/4x8FhD1sVZn6vf3xcrUc3c) | 3:33 |
 | 30 | [Hollaback Girl](https://open.spotify.com/track/532gUQw045MyBKmh0Wsaiv) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Hollaback Girl](https://open.spotify.com/album/154vD3Lcgt8zHEKlfZRYH5) | 2:37 |
-| 31 | [Spacer \(feat\. NOEMIE\) \[unfazed Remix\]](https://open.spotify.com/track/38DOoMDs5sBm81uFm0Ekuj) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ), [NOEMIE](https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Spacer \(feat\. NOEMIE\) \[unfazed Remix\]](https://open.spotify.com/album/4OlzFQTq5XyB1xlIpLzPrg) | 2:46 |
+| 31 | [Spacer \(unfazed Remix\)](https://open.spotify.com/track/38DOoMDs5sBm81uFm0Ekuj) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [NOEMIE](https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Spacer \(unfazed Remix\)](https://open.spotify.com/album/4OlzFQTq5XyB1xlIpLzPrg) | 2:46 |
 | 32 | [Samba de Janeiro \- Carnaval Mix](https://open.spotify.com/track/3pNwxSZI5aMN0EGvXCerAc) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro \(Carnaval Mix\)](https://open.spotify.com/album/0dMAx4XTT7n3idEx0ohlm0) | 2:24 |
 | 33 | [In Love Today](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [In Love Today](https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn) | 2:45 |
 | 34 | [Along the Way](https://open.spotify.com/track/7rNc89YMWNecDHdG6tRnva) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [KAIANN](https://open.spotify.com/artist/1guzwdaV5deYCs3Q4F3oeU) | [Along the Way](https://open.spotify.com/album/0bJ90MY5oXujmTLowLKKDY) | 3:00 |

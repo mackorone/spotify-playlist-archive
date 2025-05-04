@@ -4,7 +4,7 @@
 
 > 
 
-849 songs - 2 day 18 hr 49 min
+850 songs - 2 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [Yüce Dağ Başında](https://open.spotify.com/track/5lcqXXSHHdEsugnaAYWOtC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l) | 4:18 | 2022-08-06 |  |
 | [Zadie bobo](https://open.spotify.com/track/29qaWfIMA2PnthxI5AjDVg) | [Ernesto Djédjé](https://open.spotify.com/artist/1kx4uuCLwvOUQNyXPEbmSb) | [Hot Casa Records, Vol\. 1](https://open.spotify.com/album/3pdmm1aqnSNlG6ckV2vhIP) | 3:46 | 2020-10-10 |  |
 | [Zanmi kanmarad](https://open.spotify.com/track/2o62X25kY8tAFOSvvNWEgy) | [Claudette et Ti Pierre](https://open.spotify.com/artist/2WDPrCIY085DFu1XEpKERx) | [Les fleurs d'Haïti, vol\. 1 \(Pour les gens de bien\)](https://open.spotify.com/album/5e9VGU4YeAOkxo004LhPAw) | 6:36 | 2022-12-26 |  |
+| [Zippycher](https://open.spotify.com/track/63fkZeXYVeXdOQnQauV9C2) | [Spray](https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf) | [VT Trad](https://open.spotify.com/album/5fWVFeRglKvEw3IRMwbUZx) | 5:42 | 2025-05-03 |  |
 | [Zontimenteel](https://open.spotify.com/track/0OC4BXddBcVc3mXUdJVA3x) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Zontimenteel](https://open.spotify.com/album/2GM8GXXo49HyOT6LVS3rvx) | 4:37 | 2023-11-14 |  |
 | [Zorro \- Original 12" Version](https://open.spotify.com/track/50c19cKUakspSB12AxXxg4) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Zorro](https://open.spotify.com/album/56u6g00FCqIp334Pa1GmBL) | 5:57 | 2024-06-05 |  |
 | [Zum\-Zum](https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Cantiga De Longe](https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP) | 2:50 | 2021-05-06 |  |

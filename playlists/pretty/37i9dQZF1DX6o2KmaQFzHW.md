@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,801 likes - 91 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,937 likes - 91 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

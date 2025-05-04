@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alu Mix, Doony Graff y Ezya bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,993 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,384 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 5 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
 | 6 | [Pal Apareo](https://open.spotify.com/track/4Yfpy474PIwVElFkhCKCWR) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [Pal Apareo](https://open.spotify.com/album/4dN2iAFdatJQitWmacRSUz) | 2:26 |
 | 7 | [Hermanas de leche](https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Hermanas de leche](https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp) | 2:45 |
-| 8 | [TITAPU](https://open.spotify.com/track/7zId2qpErETlJOQRL4is9N) | [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Uriel Pierce](https://open.spotify.com/artist/4NoLS9yBlwajpHwt9z7jwx), [Leinvd](https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk) | [TITAPU](https://open.spotify.com/album/1uiEC2q4U2NKMpfGNnelVK) | 2:46 |
+| 8 | [TITAPU](https://open.spotify.com/track/7zId2qpErETlJOQRL4is9N) | [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Uriel Pierce](https://open.spotify.com/artist/4NoLS9yBlwajpHwt9z7jwx), [Leinvd](https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk), [Sismous](https://open.spotify.com/artist/4XrM0zCCl5hpOH1VaJFjUZ) | [TITAPU](https://open.spotify.com/album/1uiEC2q4U2NKMpfGNnelVK) | 2:46 |
 | 9 | [Espantan \- Remix](https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Espantan \(Remix\)](https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5) | 3:38 |
 | 10 | [D MENOR](https://open.spotify.com/track/2diUzLHpiaYrFwlLK3Jhte) | [Tryzty](https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [D MENOR](https://open.spotify.com/album/41kpWLrXoHTJ6ehEVMRA50) | 2:12 |
 | 11 | [Linda Mujer](https://open.spotify.com/track/116NyTQvOVrcAWLrGwTiSA) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Linda Mujer](https://open.spotify.com/album/4ArFsKMhKbHdMhBQiWIfbN) | 3:54 |

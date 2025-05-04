@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Listen here for the best emerging British Acts, across pop, alternative and more
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 101,328 likes - 56 songs - 3 hr 0 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 101,312 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

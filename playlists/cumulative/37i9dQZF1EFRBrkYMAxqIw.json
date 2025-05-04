@@ -1775,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "My Birthday",
+        "url": "https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136172,
+      "name": "My Birthday",
+      "url": "https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v"
+    },
+    {
+      "album": {
         "name": "Lovedrunk",
         "url": "https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54"
       },

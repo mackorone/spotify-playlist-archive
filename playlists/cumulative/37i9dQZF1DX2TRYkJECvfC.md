@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-595 songs - 2 day 1 hr 20 min
+596 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-08 | 2022-02-22 |
 | [Seagulls](https://open.spotify.com/track/7DGGaogybfys4M7iozhbay) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Seagulls / The Mind](https://open.spotify.com/album/70vhtZIWRTamfOWQ2tdDrj) | 3:26 | 2025-02-18 |  |
 | [searchingforthelights](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [searchingforthelights](https://open.spotify.com/album/0PHUdMruU2l6acvyz0RvXD) | 3:12 | 2024-10-11 | 2025-05-03 |
-| [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 |  |
+| [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 | 2025-05-04 |
 | [She's A Replicant \- Afriqua Remix](https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [The Replicant EP](https://open.spotify.com/album/3oQWq2N3ZHTLTHZATQorQU) | 8:23 | 2021-12-08 | 2022-07-27 |
 | [Sherwood Forest](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sherwood Forest](https://open.spotify.com/album/0yhqyTd1ulAT8kADrHfRiu) | 2:55 | 2023-06-30 |  |
 | [Shine \- Original Mix](https://open.spotify.com/track/3VJaqeaWFRZYoGeDKJbkqu) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Alex Hook](https://open.spotify.com/artist/5crDtS0zvUv8JInPEHiige), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Shine](https://open.spotify.com/album/7vNzxzPntk22ND2FtukCls) | 5:44 | 2021-12-08 | 2022-11-17 |
@@ -553,6 +553,7 @@
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 |  |
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-12-08 | 2024-07-13 |
 | [Turning My Head](https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI) | 6:41 | 2022-05-03 | 2023-03-06 |
+| [U](https://open.spotify.com/track/23PfB4eAXabSLb82EgMjJZ) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [U](https://open.spotify.com/album/2lEWCEizZYmRrt9wRPT1qG) | 3:36 | 2025-05-02 |  |
 | [uHambo](https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [uHambo](https://open.spotify.com/album/5LgIiLg49gLvR0YmYPoXqp) | 7:20 | 2024-04-12 | 2025-03-05 |
 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 | 2025-03-14 |  |
 | [Unknown Neighbor](https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w) | [Jonny Sum](https://open.spotify.com/artist/0OxVqyycCKHoJKWeuAmBOz) | [Unknown Neighbor](https://open.spotify.com/album/0UC3kcUEraSFCxRROvkiCb) | 6:27 | 2021-12-08 | 2022-07-29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Médine
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,404 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,427 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [stentor](https://open.spotify.com/track/6nvUH6Fwxg7PEM1Tl6jKIj) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [stentor](https://open.spotify.com/album/3yBJ3dGRsVt41m2igrrgw2) | 3:00 |
 | 2 | [COMPTE DOUBLE](https://open.spotify.com/track/4CaTP8Wgz9vZFQW6HMbEZO) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [HIVER AUTOMNE](https://open.spotify.com/album/2h9FjQnnf9LAVYfE1wrr9K) | 3:56 |
 | 3 | [La bohème.](https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [La bohème.](https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J) | 1:53 |
-| 4 | [Héro](https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Héro](https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn) | 3:52 |
+| 4 | [Hero](https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Hero](https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn) | 3:52 |
 | 5 | [Paraît que les miracles n'existent pas](https://open.spotify.com/track/4qx7QpLMWmG2xgjbin6Bah) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Paraît que les miracles n'existent pas](https://open.spotify.com/album/52GUdRYgqUQJkwGGWCEHwB) | 3:27 |
 | 6 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 |
 | 7 | [Veille de rentrée](https://open.spotify.com/track/1rWdxTy0RRkU1ivGBYZQqQ) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Veille de rentrée](https://open.spotify.com/album/5D7GWSEYB09Eve10swCHUE) | 3:12 |

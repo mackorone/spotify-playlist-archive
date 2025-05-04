@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Key Glock, 2 Chainz, Quavo & Takeoff and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,508 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,708 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [Athlete](https://open.spotify.com/track/4tcJnvDPa6mbYuxgeaAooV) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Athlete](https://open.spotify.com/album/1uTVv67WwJ2Y8obUWQRO9A) | 2:20 |
 | 25 | [Audemar](https://open.spotify.com/track/5vqfajCQL1ZHqiWU1Esbd0) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Dubba\-AA](https://open.spotify.com/artist/0imTTiC5dn6qy1VNS9Ituf) | [The Collection Vol\. 4 \(Dubba\-AA Edition\)](https://open.spotify.com/album/5xBFDe8dRnpwbNNN6c3VNa) | 2:46 |
 | 26 | [This Way Forever](https://open.spotify.com/track/4udypJIqGrzAh3pyfMevp2) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [This Way Forever](https://open.spotify.com/album/3KbwOzIFQ5gJxUqiLMPET3) | 2:12 |
-| 27 | [Problems & Answers \(feat\. Rylo Rodriguez & Oodaredevil\)](https://open.spotify.com/track/3vaJzGnU6BwjuhwfRUpykv) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [Oodaredevil](https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Problems & Answers \(feat\. Rylo Rodriguez & Oodaredevil\)](https://open.spotify.com/album/5QISFYUvQYwFIS5pt8KjDB) | 4:45 |
+| 27 | [Problems & Answers \(feat\. Rylo Rodriguez & Oodaredevil\)](https://open.spotify.com/track/3vaJzGnU6BwjuhwfRUpykv) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [Oodaredevil](https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Problems & Answers \(feat\. Rylo Rodriguez & Oodaredevil\)](https://open.spotify.com/album/5QISFYUvQYwFIS5pt8KjDB) | 4:47 |
 | 28 | [DELILAH](https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [DELILAH](https://open.spotify.com/album/4pHMTMoksFCRbF5ICBA2zb) | 3:13 |
-| 29 | [Over Active \(feat\. Jdot Breezy\)](https://open.spotify.com/track/72cApi4Ro5pM8xtE561R7M) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Over Active \(feat\. Jdot Breezy\)](https://open.spotify.com/album/7lpcyDms2YI2eckJWYkzFM) | 2:15 |
+| 29 | [Over Active](https://open.spotify.com/track/72cApi4Ro5pM8xtE561R7M) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Over Active](https://open.spotify.com/album/7lpcyDms2YI2eckJWYkzFM) | 2:15 |
 | 30 | [Mad Too](https://open.spotify.com/track/5KOHIsXrjFHEHQjpIrK0ek) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Mad Too](https://open.spotify.com/album/6ehZ0IhefZ1LRYbnp3rxJJ) | 2:41 |
 | 31 | [Wouldn’t Believe \(feat\. Lil Tony Official\)](https://open.spotify.com/track/3SshqCdK9RkYXbiCArB9Ze) | [Luhh Dyl](https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Wouldn’t Believe \(feat\. Lil Tony Official\)](https://open.spotify.com/album/1SaXqNf0QtkeCo942cMDAU) | 2:26 |
 | 32 | [Charger](https://open.spotify.com/track/381eAGAmip1AlQpfFG4dM0) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [FBLMANNY](https://open.spotify.com/artist/29zYlVnxOedPw8LlhHdKCQ) | [OverKrash](https://open.spotify.com/album/4080cLxC0bfhy8CtntxFrK) | 3:24 |

@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>",
-  "num_followers": 13263,
+  "num_followers": 13277,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -693,26 +693,6 @@
       "url": "https://open.spotify.com/track/1MHGzvIAbQtXxrC6Oa4L33"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
-    },
-    {
       "added_at": "2025-02-07 00:01:02",
       "album": {
         "name": "Ever Present Help",
@@ -731,6 +711,26 @@
       "duration_ms": 329038,
       "name": "Ever Present Help",
       "url": "https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
       "added_at": "2025-02-28 00:01:32",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-03-07 00:01:32",
       "album": {
+        "name": "BETHEL",
+        "url": "https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Kele Jehovah",
+      "url": "https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5"
+    },
+    {
+      "added_at": "2025-03-07 00:01:32",
+      "album": {
         "name": "According To Brother Nwachukwu",
         "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
       },
@@ -929,20 +945,20 @@
       "url": "https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
+      "added_at": "2024-10-25 00:01:00",
       "album": {
-        "name": "BETHEL",
-        "url": "https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv"
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
       },
       "artists": [
         {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
         }
       ],
-      "duration_ms": 131866,
-      "name": "Kele Jehovah",
-      "url": "https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5"
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
       "added_at": "2025-03-07 00:01:32",
@@ -967,22 +983,6 @@
       "duration_ms": 200689,
       "name": "Kumama",
       "url": "https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     }
   ],
   "unique_name": "Redeemed",

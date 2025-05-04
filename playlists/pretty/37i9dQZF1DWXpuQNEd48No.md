@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Krish Rao
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,064 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,199 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cash Cash](https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Cash Cash](https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS) | 2:19 |
 | 2 | [Gudgamma Gang](https://open.spotify.com/track/4DsO9pGrWVjmTNZff6rxaj) | [Deep13Bhai](https://open.spotify.com/artist/718tfbSBs9LZeNVAAn19XD), [DJ Sunny](https://open.spotify.com/artist/1oh9WLpDYRZH9z1P81Erbu), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shaitan](https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3) | [Gudgamma Gang](https://open.spotify.com/album/2OQkbg1tj5saRVv9gCbirf) | 4:32 |
 | 3 | [Chore Albadi \- From "Incomparable"](https://open.spotify.com/track/0ivHqJTvof0LaIaJCM1jXu) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Chore Albadi \(From "Incomparable"\)](https://open.spotify.com/album/6eNrYzQlPXfxYfaJDZTbJt) | 2:24 |
-| 4 | [Hookless \(From Death Row Haryana 3\)](https://open.spotify.com/track/4ZEUpQtSnNov0PKa10NmMo) | [Summy](https://open.spotify.com/artist/3iMwDt7uEy7NQhojR3o4Dz), [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L), [Aman Mangali Aala](https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR) | [Death Row Haryana 3](https://open.spotify.com/album/2JJBtIQW0xqNXtfAvsr1K6) | 3:42 |
+| 4 | [Hookless \(From Death Row Haryana 3\)](https://open.spotify.com/track/4ZEUpQtSnNov0PKa10NmMo) | [Summy](https://open.spotify.com/artist/3iMwDt7uEy7NQhojR3o4Dz), [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H), [Aman Mangali Aala](https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Death Row Haryana 3](https://open.spotify.com/album/2JJBtIQW0xqNXtfAvsr1K6) | 3:42 |
 | 5 | [Gaabru](https://open.spotify.com/track/6KBHavoX3xsd8Fa0hfSCWh) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ), [Adit Muxic](https://open.spotify.com/artist/12LM6kAHyZOLhOwG2kh8Pi) | [Gaabru](https://open.spotify.com/album/44U8dJ9LPNYPnNDjAOdjMZ) | 3:05 |
 | 6 | [Expelled](https://open.spotify.com/track/0ELzctzDOxFi8eSGREvQum) | [ADDI KALYAN](https://open.spotify.com/artist/6s3N1jFz2YrJPCEvbF5gDN), [Varun Rana](https://open.spotify.com/artist/34bsUwR2hSCqyem7PH2s05) | [Expelled](https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n) | 2:36 |
 | 7 | [Jeelo Jeelo](https://open.spotify.com/track/1ESGLmUnjmCQm17B6meNcr) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Jeelo Jeelo](https://open.spotify.com/album/2VyHMIzG8NH8sCszrfgqoR) | 3:21 |

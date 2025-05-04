@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,037 songs - 18 day 7 hr 29 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,039 songs - 18 day 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7045,5 +7045,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7035 | [hot slow](https://open.spotify.com/track/2hIPKg0LBYhZYmwZS6eQ20) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:35 |
 | 7036 | [明日も](https://open.spotify.com/track/2GICOigS4ByugDisRegs3M) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 4](https://open.spotify.com/album/4VTW1hXoAKX27j4PZSOzuh) | 6:09 |
 | 7037 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 |
+| 7038 | [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 |
+| 7039 | [Alien felines from beyond the galaxy](https://open.spotify.com/track/3FJQ07gFtBFnwLRH5WIGfj) | [Supergombo](https://open.spotify.com/artist/2IRev1maVOLaKbFofZ7AtB) | [Sigitolo](https://open.spotify.com/album/7GefsY8VELPJzLDDdnFED8) | 5:54 |
 
-Snapshot ID: `AAAFz5XEMc6D+12Vi1XOZN8lyPW4gPo3`
+Snapshot ID: `AAAF0XgzUinD4WcnzRhZngFWVC4vjbBW`

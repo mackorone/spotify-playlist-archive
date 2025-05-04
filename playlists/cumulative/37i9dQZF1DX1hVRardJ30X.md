@@ -4,7 +4,7 @@
 
 > New music by Ivan Cornejo, Lali, Fuerza Regida and more! Updates every Friday.
 
-9,502 songs - 20 day 16 hr 40 min
+9,502 songs - 20 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6199,7 +6199,7 @@
 | [Obvio](https://open.spotify.com/track/2zWXAu6j8r1afr1f4uq62P) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Obvio](https://open.spotify.com/album/4IZW69xOi4UBYn21YS6vQx) | 2:28 | 2024-09-27 | 2024-10-05 |
 | [Obvio Bien](https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Obvio Bien](https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM) | 4:14 | 2024-05-31 | 2024-06-08 |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-06-16 | 2023-06-24 |
-| [Ocean Park](https://open.spotify.com/track/5wbqDa5uPEX64AAThsbSMZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Omen](https://open.spotify.com/album/51TV3xr0ytNQHlh55HHYEu) | 2:50 | 2025-05-02 |  |
+| [Ocean Park](https://open.spotify.com/track/5wbqDa5uPEX64AAThsbSMZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Omen](https://open.spotify.com/album/51TV3xr0ytNQHlh55HHYEu) | 3:55 | 2025-05-02 |  |
 | [Ocupado](https://open.spotify.com/track/6YUU3aBi1uHnOB17KJY9uJ) | [Jan Paul](https://open.spotify.com/artist/1ZPwILALmE6ggDHUlphThb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Ocupado](https://open.spotify.com/album/2ADi2qgPGB3cCBPKEFPd9h) | 3:20 | 2025-03-07 | 2025-03-15 |
 | [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-21 | 2025-03-01 |
 | [OD](https://open.spotify.com/track/0rSaXHayRChBE2aqKFBOfb) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [OD](https://open.spotify.com/album/3iFiYkCmECYbvDAyy1SonL) | 2:53 | 2023-12-08 | 2023-12-16 |

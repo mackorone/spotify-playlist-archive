@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,043 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,075 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 30 | [Tantas Veces](https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Dj Peche](https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Tantas Veces](https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM) | 2:29 |
 | 31 | [Singular \(feat\. El Chojin\)](https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 4:36 |
 | 32 | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2), [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw), [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ) | 3:35 |
-| 33 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
-| 34 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 |
+| 33 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 |
+| 34 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 35 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
 | 36 | [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:16 |
 | 37 | [Rap da Rap quita](https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Rap da Rap quita](https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P) | 4:49 |

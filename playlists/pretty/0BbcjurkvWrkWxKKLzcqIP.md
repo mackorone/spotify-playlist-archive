@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

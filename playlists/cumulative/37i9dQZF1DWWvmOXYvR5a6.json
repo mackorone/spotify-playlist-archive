@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 209685,
       "name": "flight",
       "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
@@ -12590,6 +12590,28 @@
       "duration_ms": 152874,
       "name": "Shoot it up! (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/7dHtlOyaKKZSrBKEN0w5bC"
+    },
+    {
+      "album": {
+        "name": "Show Must Go On",
+        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Show Must Go On",
+      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: JJ Hairston
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,195 likes - 75 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,239 likes - 75 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

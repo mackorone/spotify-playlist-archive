@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Nicky Jam y Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,206 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,221 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 25 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
 | 26 | [KASSANDRA](https://open.spotify.com/track/6mP16Mr2X3ZU2bNmWBUqzK) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:03 |
 | 27 | [Apolo](https://open.spotify.com/track/3sOGMTwbLJMORZRRuVt8Nz) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Alberto Toral](https://open.spotify.com/artist/7ioLIYKoKn2YfhA1i6L47p), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Apolo](https://open.spotify.com/album/4Pjs29ST9AUnkhlGlkkwgt) | 2:30 |
-| 28 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [ROSÉ](https://open.spotify.com/artist/1c2msIuPdhUmppenPEonjv), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
+| 28 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
 | 29 | [Lo Desconocido \- Summer Series Vol\. 1](https://open.spotify.com/track/47rk3EQw4X9wfHKEon7968) | [Polo H](https://open.spotify.com/artist/0uvm9Q23SvPpKotSUKNcNW), [MAGGIO](https://open.spotify.com/artist/2tqdf4dKPr7Gy87BgIcNWk) | [Lo Desconocido \- Summer Series Vol\. 1](https://open.spotify.com/album/50uwn9qhEjF8D4BcwynCsB) | 2:31 |
 | 30 | [EL PROCESO](https://open.spotify.com/track/2YqcyQUmnVIZgO7uciCfGW) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [EL PROCESO](https://open.spotify.com/album/5zTjAnCunxEOH2PARBfaBM) | 2:18 |
 | 31 | [La P4red](https://open.spotify.com/track/1s0q4fTG0Uamvt9btIvX3s) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Tu Put4 Obsesi0n](https://open.spotify.com/album/77foPnVITCbEBMJWvJM2Z3) | 2:36 |

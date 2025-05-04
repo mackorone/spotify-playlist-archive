@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,341 songs - 11 day 14 hr 1 min
+7,342 songs - 11 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Apple](https://open.spotify.com/track/4CWY4ISUUdFrN8YDrqETzh) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Apple](https://open.spotify.com/album/1qrnjn8odAEDmEe5ttFPlj) | 2:21 | 2022-08-26 | 2023-01-07 |
 | [Apple Pie](https://open.spotify.com/track/1Ege44big1iOrGLDGKuZW4) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Apple Pie](https://open.spotify.com/album/0L8bvpzM8YADGKO5NXgvyd) | 2:21 | 2022-03-11 | 2022-08-12 |
 | [Apple Pie](https://open.spotify.com/track/2z7RteoF2cj52dNLMshNmw) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Apple Pie](https://open.spotify.com/album/2c80e1VvP1eCkXZKyK68om) | 1:44 | 2022-10-28 | 2025-03-29 |
+| [apple sauce](https://open.spotify.com/track/72bnqWOrKvRM6Wg6DZ5S76) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [apple sauce](https://open.spotify.com/album/6LPcmzdfV2tDeIjmMsli2j) | 2:06 | 2025-04-25 |  |
 | [Apples & Bananas](https://open.spotify.com/track/5DCWBwovqvYUQd88QFZrpW) | [Invisible Beach](https://open.spotify.com/artist/3xlDAzWOZoDGyuoSEfVFjt) | [Apples & Bananas](https://open.spotify.com/album/4FxnFoxIajmf5Jk600OhBR) | 3:09 | 2024-01-26 |  |
 | [Approved](https://open.spotify.com/track/0V9uCHm1l89qm0iNNtRcSx) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Approved](https://open.spotify.com/album/5l16Ij5mq6zWb2woOcMZrv) | 2:00 | 2023-02-21 | 2023-03-09 |
 | [Apricot Jam](https://open.spotify.com/track/25ZwqFpEm6mxebHPzmyRwi) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Apricot Jam & Taco Tuesday](https://open.spotify.com/album/5b4dPsLNiW4Zin1RA3jJ2j) | 2:14 | 2020-05-09 | 2021-01-21 |
@@ -6709,7 +6710,7 @@
 | [Twit Wun Two](https://open.spotify.com/track/3DRfBaYS58sSY1wwgOk6tr) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Audda Control](https://open.spotify.com/album/2z4RbgcrgqjYkWXOMn22HT) | 2:35 | 2021-11-20 | 2022-06-10 |
 | [Two Birds](https://open.spotify.com/track/2ksZ4YveGzkh2BXuFQpbsx) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Two Birds](https://open.spotify.com/album/5pty9mqwaXpvcxMuzDlhJL) | 2:06 | 2022-06-17 | 2022-10-07 |
 | [Two Dolla$](https://open.spotify.com/track/1q5P7Khpqav45bVdi5KXrM) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Two Dolla$](https://open.spotify.com/album/1fFaLQJWtZgGElW4gI1Of8) | 2:10 | 2023-02-10 | 2024-03-22 |
-| [Two Fishes](https://open.spotify.com/track/1DuWjr1daphiUoOwYCGRfY) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Two Fishes](https://open.spotify.com/album/1TPccWA9hrh969Zvo6OmeI) | 2:42 | 2023-12-15 |  |
+| [Two Fishes](https://open.spotify.com/track/1DuWjr1daphiUoOwYCGRfY) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Two Fishes](https://open.spotify.com/album/1TPccWA9hrh969Zvo6OmeI) | 2:42 | 2023-12-15 | 2025-05-04 |
 | [Two Margaritas Please](https://open.spotify.com/track/7yljYFhmlXd9N9JkM07ps5) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Two Margaritas Please](https://open.spotify.com/album/4mAhVAyMEcPlFdRM6yIvBF) | 2:08 | 2021-11-20 | 2022-06-03 |
 | [Two on Two](https://open.spotify.com/track/6bLEY6HfEzXG2ZF24AfO68) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Songbirds & Two on Two](https://open.spotify.com/album/6eB4oBmpGoaySkxFqkqjLU) | 2:43 | 2022-08-26 | 2023-01-07 |
 | [Two Seasons](https://open.spotify.com/track/1660CbuStgh2M3qwjciEYm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Two Seasons](https://open.spotify.com/album/7zNWqg96savDPOwFwzqd7R) | 2:16 | 2022-11-11 | 2023-01-20 |

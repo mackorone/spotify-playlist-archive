@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 90482,
+  "num_followers": 90539,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "A volta de Secos & Molhados",
+        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Flora Matos Vs. Stereodubs",
         "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 147466,
       "name": "Pretin (Ver\u00e3o, Pt. 1)",
       "url": "https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "A volta de Secos & Molhados",
-        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Braseiro",
-        "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 233426,
-      "name": "Pelas Tabelas",
-      "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Nem um Dia (JAH-VAN)",
         "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 335796,
       "name": "Nem um Dia - JAH-VAN",
       "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Braseiro",
+        "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 233426,
+      "name": "Pelas Tabelas",
+      "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
     }
   ],
   "unique_name": "Baile Maravilha",

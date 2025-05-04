@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Indigo De Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,516 likes - 106 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,457 likes - 106 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

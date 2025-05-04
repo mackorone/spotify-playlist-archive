@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes w/ country experimentation feat\. music from Greg Freeman 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,374 likes - 149 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,425 likes - 149 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 148 | [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 |
 | 149 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/3UQh0f5HtW2WmcwMvjhiIJ) | 5:01 |
 
-Snapshot ID: `aAsI9AAAAAAladTmJR4wNT2WgrE7shb4`
+Snapshot ID: `aAsI9AAAAAC+TEjDoOu8m4U1qDNh2/AH`

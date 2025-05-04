@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 76446,
+  "num_followers": 76760,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2025-05-02 04:26:55",
       "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2025-05-02 04:26:55",
+      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/1s44DLWFcVvwNNfE45KKPr"
       },
@@ -1647,22 +1667,22 @@
     {
       "added_at": "2025-05-02 04:26:55",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+        "name": "Asereje (Remix)",
+        "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         },
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
         }
       ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+      "duration_ms": 157440,
+      "name": "Asereje - Remix",
+      "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
     },
     {
       "added_at": "2025-05-02 04:26:55",
@@ -1699,26 +1719,6 @@
       "duration_ms": 214153,
       "name": "Dame De Eso",
       "url": "https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP"
-    },
-    {
-      "added_at": "2025-05-02 04:26:55",
-      "album": {
-        "name": "Asereje (Remix)",
-        "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        },
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Asereje - Remix",
-      "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
     },
     {
       "added_at": "2025-05-02 04:26:55",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-05-02 04:26:55",
       "album": {
-        "name": "Vampira",
-        "url": "https://open.spotify.com/album/0sj2iAHicKAQCG6VlGjSYi"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Vampira",
-      "url": "https://open.spotify.com/track/3FJsHNe7DQxDv4Pa5pkwsN"
-    },
-    {
-      "added_at": "2025-05-02 04:26:55",
-      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-05-02 04:26:55",
+      "album": {
+        "name": "Vampira",
+        "url": "https://open.spotify.com/album/0sj2iAHicKAQCG6VlGjSYi"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Vampira",
+      "url": "https://open.spotify.com/track/3FJsHNe7DQxDv4Pa5pkwsN"
     },
     {
       "added_at": "2025-05-02 04:26:55",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2025-05-02 04:26:55",
       "album": {
-        "name": "OBRIGADO",
-        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
       },
       "artists": [
         {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Toca Me Ft. Michelle Marrero",
-      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
+      "duration_ms": 163124,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
     },
     {
       "added_at": "2025-05-02 04:26:55",

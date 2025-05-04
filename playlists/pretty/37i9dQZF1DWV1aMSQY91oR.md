@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Quavo & Takeoff
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,341 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,366 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 24 | [X n The City](https://open.spotify.com/track/13ABknW77eZ7up9s4tsRzh) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [X n The City](https://open.spotify.com/album/4Rn1PI71FTHWXKSbK3B9CY) | 2:28 |
 | 25 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 |
 | 26 | [Forever My Moment](https://open.spotify.com/track/7jGGRba9a8sy2kpxaKmvZr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Forever My Moment](https://open.spotify.com/album/48W9TxqbCaM49ICfJs1hU5) | 3:02 |
-| 27 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
+| 27 | [All The Way](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
 | 28 | [Can't Get Right](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Can't Get Right](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 |
 | 29 | [Pent Up in a Penthouse](https://open.spotify.com/track/5YBVVafrJb11MTtn9ZGNSo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Pent Up in a Penthouse](https://open.spotify.com/album/016JNDa2gYproCeQBLEp73) | 3:15 |
 | 30 | [Sign Language](https://open.spotify.com/track/1716C0wUTcWleTX9X4rvlX) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Excelsior](https://open.spotify.com/album/5Bnn5OFlwovx4iMhnOFbM6) | 2:50 |

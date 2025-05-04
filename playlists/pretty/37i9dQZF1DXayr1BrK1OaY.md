@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,866 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,918 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,15 +123,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 113 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
 | 114 | [Miss U](https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Miss U](https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre) | 2:37 |
 | 115 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
-| 116 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 |
-| 117 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
+| 116 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
+| 117 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 |
 | 118 | [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 |
 | 119 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 |
 | 120 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 121 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
-| 122 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
-| 123 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
-| 124 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 |
-| 125 | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V) | 3:08 |
+| 122 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
+| 123 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
+| 124 | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V) | 3:08 |
+| 125 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 |
 
 Snapshot ID: `aBRUpAAAAAAjAK9T4FCTaPD7XRntIZne`

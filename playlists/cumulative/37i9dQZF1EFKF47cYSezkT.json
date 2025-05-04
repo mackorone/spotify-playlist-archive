@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "MOONBEANS",
+        "url": "https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq"
+      },
+      "artists": [
+        {
+          "name": "Alissic",
+          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2025-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185291,
+      "name": "MOONBEANS",
+      "url": "https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk"
       },

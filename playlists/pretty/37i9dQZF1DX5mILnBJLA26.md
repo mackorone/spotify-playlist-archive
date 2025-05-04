@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW?si=dZ1Q7bFuSlqxyJJ\-KhJmDg">Nandipha808</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,376 likes - 61 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,933 likes - 61 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

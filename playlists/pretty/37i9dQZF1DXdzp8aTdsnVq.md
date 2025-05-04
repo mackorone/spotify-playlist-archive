@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Celebrando la 58a edición del Festival de la Leyenda Vallenata, con Omar Geles en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,077 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,113 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 10 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/4sOGuDdfYuKqldmhlG4NcB) | [Daniel Geles](https://open.spotify.com/artist/0WkV2v3v3opDLJpvOri90b) | [Continuando la Historia](https://open.spotify.com/album/2f1sabcRf7G4woLvEmByFp) | 5:02 |
 | 11 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
 | 12 | [Sin Decir Con Quien](https://open.spotify.com/track/2pLgAAkotApT8ZIeD6CZ9o) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Sin Decir Con Quien](https://open.spotify.com/album/2f96z3F2XtZvn3VBsdYJnk) | 4:21 |
-| 13 | [Dos Horas](https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Horas](https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq) | 3:38 |
+| 13 | [Dos Horas](https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Horas](https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq) | 3:37 |
 | 14 | [Acabaste Conmigo](https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [Acabaste Conmigo](https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4) | 3:37 |
 | 15 | [INALCANZABLE](https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [INALCANZABLE](https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl) | 3:38 |
 | 16 | [Reina Hermosa](https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Reina Hermosa](https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI) | 4:04 |

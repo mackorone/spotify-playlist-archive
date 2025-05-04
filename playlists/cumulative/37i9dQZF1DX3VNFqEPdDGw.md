@@ -4,12 +4,12 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-277 songs - 14 hr 23 min
+278 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 0:00 | 2022-06-28 | 2023-07-27 |
-| [18 Lakh Da](https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Preeta](https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 2:57 | 2025-01-08 |  |
+| [18 Lakh Da](https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Preeta](https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 2:57 | 2025-01-08 | 2025-05-04 |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2023-09-01 |  |
 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 | 2025-01-28 |  |
 | [3 Round \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/2ZOqIZEA5nLtWotbAEaGZv) | [Wilson Brar](https://open.spotify.com/artist/0j7J3wf8J3uAHjsS80IEjd), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [3 Round \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/1tu3KN0G0zadsL5Upidu0D) | 2:56 | 2025-04-07 |  |
@@ -253,6 +253,7 @@
 | [Taseer](https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Taseer](https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu) | 2:42 | 2025-03-25 |  |
 | [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 | 2024-12-03 |
 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 | 2025-01-08 |  |
+| [Teesi](https://open.spotify.com/track/6HBZnstI3gzT5gFvCHUkF0) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Jaadugar](https://open.spotify.com/album/3eWBtoZp2c2skkiEuz4YSQ) | 3:13 | 2025-05-02 |  |
 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-06 |  |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |
 | [Teri Jatti](https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Teri Jatti](https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1) | 2:35 | 2025-01-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,215 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,226 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 2 | [NALE](https://open.spotify.com/track/4UrPdb0pMaoesMndj9mOQe) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [NALE](https://open.spotify.com/album/4chZ9FISEuX3ui3GH5KzCl) | 2:20 |
 | 3 | [Seaside](https://open.spotify.com/track/5GzKwlyP8skeSpVM4fsSMp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Seaside](https://open.spotify.com/album/0WtiDurUDmsFSIXuf9mZN0) | 3:08 |
 | 4 | [02:34](https://open.spotify.com/track/73OdVr9HsrpRpbdXvqxHYm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [02:34](https://open.spotify.com/album/0BbICx4813rb9ZUpKP29Eg) | 2:57 |
-| 5 | [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 |
+| 5 | [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 |
 | 6 | [Storebror](https://open.spotify.com/track/0GUOGpGfwEXga77OmPDfqx) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Storebror](https://open.spotify.com/album/79D7m9ctuf7uIlhSjS6Lgk) | 2:40 |
 | 7 | [Nirvana](https://open.spotify.com/track/7FbK2BzUIByoRUdHVIyjx7) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Nirvana](https://open.spotify.com/album/73LdlHaHDzAtCPypzcpJpw) | 2:34 |
 | 8 | [Til Stede](https://open.spotify.com/track/2VKs1Cvg89HfMHTfGtXbc4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:52 |

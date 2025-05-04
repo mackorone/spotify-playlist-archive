@@ -12269,6 +12269,32 @@
     },
     {
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/34cwLFc3QmyRTmNGGgZ60a"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Yana Mahal",
+          "url": "https://open.spotify.com/artist/5Nmskigiv8LDxohxxGUYFB"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236718,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/5W6ODgCKVlH6jSHF5MYkSI"
+    },
+    {
+      "album": {
         "name": "Mr Machine",
         "url": "https://open.spotify.com/album/3qreINmrmmeC9r7MPMWtl0"
       },
@@ -13430,7 +13456,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 200625,
       "name": "Nowhere to Hide",
       "url": "https://open.spotify.com/track/0qZg3QCosvFW93KqKVDtDt"
@@ -18203,6 +18229,24 @@
     },
     {
       "album": {
+        "name": "Telephone Ringin'",
+        "url": "https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Telephone Ringin'",
+      "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
+    },
+    {
+      "album": {
         "name": "TELL ME",
         "url": "https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0"
       },
@@ -18850,7 +18894,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 231044,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"

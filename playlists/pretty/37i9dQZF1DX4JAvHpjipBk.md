@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ed Sheeran, Maroon 5 & LISA, Don Toliver & Doja Cat, Summer Walker, Turnstile & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,362,247 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,362,797 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Maroon 5 & LISA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,099 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,124 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 31 | [Si j'pouvais](https://open.spotify.com/track/4tTfUZz1UxYpw5DKCbbCz4) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Si j'pouvais](https://open.spotify.com/album/2Fw1bNmKVq208kNjKnZfwR) | 2:22 |
 | 32 | [Moonshine](https://open.spotify.com/track/21Nb7qDsJfsriKj56bTQGn) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Moonshine](https://open.spotify.com/album/2HDu2nCNc1W7Jv1dOPF9TD) | 2:43 |
 | 33 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |
-| 34 | [Héro](https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Héro](https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn) | 3:52 |
+| 34 | [Hero](https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Hero](https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn) | 3:52 |
 | 35 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 |
 | 36 | [100K](https://open.spotify.com/track/3nSqcUglgyOF0sE7e0fF4U) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [100K](https://open.spotify.com/album/6ebZCGvcdZ1YG8kGygdahG) | 2:35 |
 | 37 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305,135 likes - 200 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,637 likes - 200 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

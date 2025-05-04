@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 67167,
+  "num_followers": 67298,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "Legend - The Best Of Fairuz",
-        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 349266,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
-    },
-    {
-      "added_at": "2025-02-25 11:19:20",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "Badak Maleoun Seneh",
-        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
       },
       "artists": [
         {
-          "name": "Melhem Barakat",
-          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
         }
       ],
-      "duration_ms": 954506,
-      "name": "Ala Babee Waqef Qamaren",
-      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+      "duration_ms": 349266,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -503,6 +487,22 @@
       "duration_ms": 392840,
       "name": "Ya Sarek Makatibi",
       "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
+    },
+    {
+      "added_at": "2025-02-25 11:19:20",
+      "album": {
+        "name": "Badak Maleoun Seneh",
+        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "duration_ms": 954506,
+      "name": "Ala Babee Waqef Qamaren",
+      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "With an Oud Around Beirut",
-        "url": "https://open.spotify.com/album/37g61Be46cWx2HXFG38lmM"
-      },
-      "artists": [
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
-        }
-      ],
-      "duration_ms": 727053,
-      "name": "Alalah Toud",
-      "url": "https://open.spotify.com/track/4pV9OyOLe5wRh5XFsM50yt"
-    },
-    {
-      "added_at": "2025-02-25 11:19:20",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 666840,
       "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
       "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
+    },
+    {
+      "added_at": "2025-02-25 11:19:20",
+      "album": {
+        "name": "With an Oud Around Beirut",
+        "url": "https://open.spotify.com/album/37g61Be46cWx2HXFG38lmM"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
+        }
+      ],
+      "duration_ms": 727053,
+      "name": "Alalah Toud",
+      "url": "https://open.spotify.com/track/4pV9OyOLe5wRh5XFsM50yt"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "Kfoury Classic",
-        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
+        "name": "Chante Philemon Wehbe Volume 1",
+        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
       },
       "artists": [
         {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
         }
       ],
-      "duration_ms": 342973,
-      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
-      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+      "duration_ms": 226821,
+      "name": "Ya Mersal El Marasil",
+      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+    },
+    {
+      "added_at": "2025-02-25 11:19:20",
+      "album": {
         "name": "Khodni Habibi",
         "url": "https://open.spotify.com/album/1uZKkPLUIu7hIQcQqp8Ihp"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 357200,
       "name": "Amm Yess'alouni Aleyk",
       "url": "https://open.spotify.com/track/1IzvSfblwi7EJuIjQbGXvL"
-    },
-    {
-      "added_at": "2025-02-25 11:19:20",
-      "album": {
-        "name": "Asmar",
-        "url": "https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw"
-      },
-      "artists": [
-        {
-          "name": "Samira Tawfik",
-          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Asmar",
-      "url": "https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "Chante Philemon Wehbe Volume 1",
-        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
+        "name": "Asmar",
+        "url": "https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw"
       },
       "artists": [
         {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+          "name": "Samira Tawfik",
+          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
         }
       ],
-      "duration_ms": 226821,
-      "name": "Ya Mersal El Marasil",
-      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
+      "duration_ms": 333306,
+      "name": "Asmar",
+      "url": "https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL"
     },
     {
       "added_at": "2025-02-25 11:19:20",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-02-25 11:19:20",
       "album": {
-        "name": "E'tazalt El Gharam",
-        "url": "https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17"
-      },
-      "artists": [
-        {
-          "name": "Majida El Roumi",
-          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
-        }
-      ],
-      "duration_ms": 467973,
-      "name": "E\u2019tazalt El Gharam",
-      "url": "https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR"
-    },
-    {
-      "added_at": "2025-02-25 11:19:20",
-      "album": {
         "name": "Hal El Garih",
         "url": "https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 441493,
       "name": "Bent Al Oumara",
       "url": "https://open.spotify.com/track/4RkXYEi2q9WsyYx2FUi9uZ"
+    },
+    {
+      "added_at": "2025-02-25 11:19:20",
+      "album": {
+        "name": "E'tazalt El Gharam",
+        "url": "https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17"
+      },
+      "artists": [
+        {
+          "name": "Majida El Roumi",
+          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
+        }
+      ],
+      "duration_ms": 467973,
+      "name": "E\u2019tazalt El Gharam",
+      "url": "https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR"
     },
     {
       "added_at": "2025-02-25 11:19:20",

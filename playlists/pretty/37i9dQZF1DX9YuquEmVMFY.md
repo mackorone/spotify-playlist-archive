@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 COLDPLAY : MUSIC OF THE SPHERES  4월 16, 18, 19, 22, 24, 25일 @ 고양종합운동장 주경기장
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,466 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,616 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

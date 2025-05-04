@@ -4,7 +4,7 @@
 
 > New music from Ed Sheeran, Lights, Jorja Smith, PUP, Summer Walker and more!
 
-16,921 songs - 37 day 10 hr 9 min
+16,921 songs - 37 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12125,7 +12125,7 @@
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-03-01 |
 | [Rewind](https://open.spotify.com/track/1f1aL7qDsOZSedhp7kSSMM) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Rewind](https://open.spotify.com/album/2GZw7jLfxHiVfJFN7q7Tfh) | 2:41 | 2023-11-17 | 2023-11-25 |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-01-07 | 2022-01-15 |
-| [Rewind.](https://open.spotify.com/track/6LkotBsjKqbiTlW0tP0XOS) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Be Kind\. Rewind.](https://open.spotify.com/album/7fK730tW19STsACwRPhqFO) | 1:17 | 2025-05-02 |  |
+| [Rewind.](https://open.spotify.com/track/6LkotBsjKqbiTlW0tP0XOS) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Be Kind\. Rewind.](https://open.spotify.com/album/7fK730tW19STsACwRPhqFO) | 3:13 | 2025-05-02 |  |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-10 | 2023-03-18 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2022-10-22 |
 | [Rhythm](https://open.spotify.com/track/1nga9f11uUQS6mSz427Jrz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Rhythm](https://open.spotify.com/album/0HbPiygzxaLpx6ba5Lb1QW) | 2:32 | 2023-02-17 | 2023-02-25 |

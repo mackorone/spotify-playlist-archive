@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-585 songs - 1 day 16 hr 39 min
+586 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Coming Down](https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Coming Down](https://open.spotify.com/album/63YuEPlpI89krdvctGytaa) | 3:34 | 2025-02-21 |  |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1) | 3:32 | 2023-09-01 | 2024-04-19 |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/7ydQgqQNPbKNoIJa7A2G08) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/73vidbzZG7bYIoCf9OfH6q) | 3:32 | 2023-08-25 | 2023-09-02 |
+| [Communicate](https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Communicate](https://open.spotify.com/album/1A4e6I1K9UfIsOXfCn21GV) | 5:38 | 2025-05-02 |  |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-20 | 2022-10-29 |
 | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ) | 4:04 | 2024-01-05 | 2024-04-02 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 | 2024-01-05 |
@@ -342,7 +343,7 @@
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Let Me Go](https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9) | 5:37 | 2025-02-28 |  |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
-| [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 |  |
+| [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 | 2025-05-04 |
 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-19 |  |
 | [No Need To Hide](https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Quibus](https://open.spotify.com/artist/55rtigPkEd4FHbLBF2bwz4), [Marcel Young](https://open.spotify.com/artist/3MpVjrkJSjDGuqopgOqoPm) | [Whatever Realm / No Need To Hide](https://open.spotify.com/album/5FKnTHA2BcxHui4xe8qNgQ) | 4:39 | 2021-08-27 | 2022-07-28 |
 | [No One’s Coming](https://open.spotify.com/track/1OEV1ikFNp6iGH2oIixzhA) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:38 | 2024-04-19 | 2024-06-15 |

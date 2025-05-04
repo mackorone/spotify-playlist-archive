@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,332 likes - 134 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,366 likes - 134 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 
 > The Anime Awards return soon!  Listen to the music behind the 2025 nominees as you cast your fan vote.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 62 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,833 likes - 62 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

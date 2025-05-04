@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-797 songs - 1 day 12 hr 0 min
+798 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [sanctuary](https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [sanctuary](https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t) | 3:15 | 2025-02-09 | 2025-04-01 |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
-| [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 |  |
+| [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 | 2025-05-04 |
 | [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 | 2025-02-09 |  |
 | [sea birth](https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [sea birth](https://open.spotify.com/album/2VrDUcY0fGBOoLi7g4khGa) | 2:38 | 2022-01-06 | 2022-01-09 |
 | [Seadragon](https://open.spotify.com/track/7boUHR6t1fhZ3ClhU8lJ3C) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Seadragon](https://open.spotify.com/album/5TsByUC60f0sDd5FjadG1B) | 2:40 | 2024-12-14 | 2025-04-18 |
@@ -677,6 +677,7 @@
 | [Sun Drop](https://open.spotify.com/track/6rITQQhavaBXV2AwZPqMwa) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Dusk Till Dawn](https://open.spotify.com/album/6jAndBmWe4DdxiWLQAlURr) | 2:37 | 2022-03-24 | 2022-04-13 |
 | [Sun Shower](https://open.spotify.com/track/51bpkKHVzbH70ATH18AZ5M) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Sun Shower](https://open.spotify.com/album/5fT54xmeW7hkwF8qwUcfd9) | 2:40 | 2022-01-06 | 2022-07-25 |
 | [Sunday Burger](https://open.spotify.com/track/1wqj078Th6WnoIQrPjIZE0) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [OLD WAYS WON'T OPEN NEW DOOR](https://open.spotify.com/album/3Sa35KpRmVffMhH4b73h0J) | 2:12 | 2022-01-13 | 2022-06-11 |
+| [Sunday Rain](https://open.spotify.com/track/6uGP5WmWAB3Yp8xkjHum76) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunday Rain](https://open.spotify.com/album/3P6GzukowsZhxK0CrgnGXY) | 1:57 | 2025-05-02 |  |
 | [Sunlight](https://open.spotify.com/track/1ERwuTx0trzOreb3GcdP8P) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sunlight](https://open.spotify.com/album/7cq3zDj5M57yU1otnKnXmp) | 1:55 | 2025-03-06 |  |
 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-02-09 |  |
 | [sunrise](https://open.spotify.com/track/2k61tAqGJe9nZXbmsrmGxp) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/2WSSsVSgLA4dtUeDKlmz4l) | 2:56 | 2023-01-19 | 2023-01-21 |

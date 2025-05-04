@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Небеса и Ад \(Heaven and Hell\)](https://open.spotify.com/track/3ZihH4wA7tfaN3Unvmyz30) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Небеса и Ад \(Heaven and Hell\)](https://open.spotify.com/album/5w97NUPqLzCJOQhpRvMS3B) | 5:34 |
 | 30 | [Napalm in the Morning \(2021 \- Remaster\)](https://open.spotify.com/track/7xWgCUckC7bAQfrXGZ8l5e) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16 \(20th Anniversary Edition\)](https://open.spotify.com/album/6loHWT2ZYOKSZDdpUQqgTr) | 5:56 |
 
-Snapshot ID: `aA79QAAAAACaDy2UxDGebUHyqMOeCJw4`
+Snapshot ID: `aA79QAAAAADJsZdfU9srSKSi5KNicRWv`

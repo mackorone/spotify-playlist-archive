@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Omar Courtz, Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,582 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,636 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 38 | [Hasta Que Me Muera](https://open.spotify.com/track/7quuwATpqJ08SMd21aXLVM) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hasta Que Me Muera](https://open.spotify.com/album/0UMqFJTDMerVXdDKutw2o2) | 2:59 |
 | 39 | [Lolly \(with Clarent\)](https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 2:39 |
 | 40 | [Quickie](https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quickie](https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1) | 2:03 |
-| 41 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [ROSÉ](https://open.spotify.com/artist/1c2msIuPdhUmppenPEonjv), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
+| 41 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
 | 42 | [Oh, Baby!](https://open.spotify.com/track/4HolbU9Yjvr69EpuITpQ5a) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Oh, Baby!](https://open.spotify.com/album/0HRgeAzttAzYWEgqsfjxW5) | 3:26 |
 | 43 | [El Reggaetón del Disco](https://open.spotify.com/track/2bAegfjScymS90CzWlGF5B) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [El Reggaetón del Disco](https://open.spotify.com/album/7GjEd77JonjCkuf1Fp1hdl) | 3:23 |
 | 44 | [Orilla](https://open.spotify.com/track/4zEW9cHkayxZk2eojf6cgA) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Orilla](https://open.spotify.com/album/660WBhfDrgHNtkXNfyPs6Z) | 3:13 |

@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Paris Paloma
 
-427 songs - 1 day 2 hr 8 min
+428 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Millennial](https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 2:53 | 2021-03-05 | 2022-03-09 |
 | [Mine](https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Mine](https://open.spotify.com/album/6YnO3WHIIFG4y6SgFqf9CW) | 3:08 | 2024-07-05 |  |
 | [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 | 2021-03-05 | 2022-03-09 |
-| [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-03-05 |  |
+| [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-03-05 | 2025-05-04 |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2022-03-08 |  |
 | [Morning Has Broken](https://open.spotify.com/track/1nkFZjphM5e4rYwElipV28) | [Mary O'Hara](https://open.spotify.com/artist/1KFfz9kGndyx6q0Zf1MdZv) | [At The Royal Festival Hall](https://open.spotify.com/album/42cLGbUdsFerpoxrc8UZTT) | 2:32 | 2021-03-05 | 2022-07-16 |
 | [Mosh Pit](https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Mosh Pit](https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l) | 5:23 | 2025-05-02 |  |
@@ -395,6 +395,7 @@
 | [Vini Wè](https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vini Wè](https://open.spotify.com/album/05sG8hbCEVtuHbtoA2QdYr) | 4:34 | 2022-03-08 | 2022-07-29 |
 | [Waiting Around To Die](https://open.spotify.com/track/2qBz7DV3byGYHpNudhXCJ0) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Chinatown](https://open.spotify.com/album/4NXD9KtwcJYAWyknDvHTWe) | 5:13 | 2021-03-05 | 2022-02-23 |
 | [Waiting Around To Die](https://open.spotify.com/track/0AduS1e4FWNLdnUNmMwQQd) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Chinatown](https://open.spotify.com/album/3C8YdZjiQ4fwVDJUdfuXQV) | 5:14 | 2021-03-05 | 2022-10-15 |
+| [Want](https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 4:58 | 2025-05-02 |  |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-03-05 | 2022-07-28 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2021-03-05 |  |
 | [Wax & Wane](https://open.spotify.com/track/35RPFHlFGdNLK0cDKA9V3V) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2GoRc0TJhQKgrFYnvI8yja) | 4:31 | 2021-03-05 | 2022-07-25 |

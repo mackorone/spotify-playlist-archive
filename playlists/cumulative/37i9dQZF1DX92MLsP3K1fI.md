@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! ARIA BELA en portada.
 
-476 songs - 1 day 0 hr 6 min
+477 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [16 De Diciembre](https://open.spotify.com/track/4WJ57xmxSOGghPfnv3EGHg) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [16 De Diciembre](https://open.spotify.com/album/7MQsMNuLurwpFogz1oBTu9) | 2:32 | 2022-02-04 | 2022-06-26 |
 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 | 2022-02-04 | 2022-07-28 |
 | [2 traguito, y tú?](https://open.spotify.com/track/5oRUOmMWdDMQQhmUOt3z3M) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [2 traguito, y tú?](https://open.spotify.com/album/5QqfzFfIkwkIoSmJ5r95p4) | 2:32 | 2024-06-28 | 2024-08-24 |
-| [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 | 2024-07-26 |  |
+| [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 | 2024-07-26 | 2025-05-04 |
 | [2mil horas](https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [2mil horas](https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC) | 3:27 | 2024-05-17 | 2024-06-22 |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-05 |  |
 | [500 Palabras](https://open.spotify.com/track/4oTe0Xp6N2Hbq1YFfPz0A5) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY) | [500 Palabras](https://open.spotify.com/album/3VGIpszGIrdgDwfzak2fkG) | 3:27 | 2025-02-14 | 2025-03-22 |
@@ -161,6 +161,7 @@
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2024-10-18 | 2024-11-23 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-07-28 | 2024-10-05 |
 | [El Reloj del Corazón](https://open.spotify.com/track/5q20ChVvFID1D8wL6TSxjm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [El Reloj del Corazón](https://open.spotify.com/album/2TjqjtOX5CqlqMXQFV08TD) | 3:25 | 2024-07-26 | 2024-09-21 |
+| [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 | 2025-05-02 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-23 |  |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-08-25 | 2024-02-24 |
 | [En El Alma](https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [En el Alma](https://open.spotify.com/album/1DgBKSa074CmHpAxJ8XLJu) | 3:46 | 2023-03-31 | 2023-07-29 |

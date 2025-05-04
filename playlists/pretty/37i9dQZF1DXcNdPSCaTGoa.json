@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM_9GqSrCkUNwtfpaCPQ\">Pro Kid</a> ",
-  "num_followers": 85845,
+  "num_followers": 85921,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Sbali",
-      "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Y U 4 Me",
         "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 451466,
       "name": "Y U 4 Me",
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Sbali",
+      "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Rain Man: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
-      },
-      "artists": [
-        {
-          "name": "Savuka",
-          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
-        },
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Scatterlings Of Africa",
-      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Rain Man: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
+      },
+      "artists": [
+        {
+          "name": "Savuka",
+          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
+        },
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Scatterlings Of Africa",
+      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
       "added_at": "2025-04-24 22:10:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,242 likes - 345 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,641 likes - 345 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 344 | [love letters](https://open.spotify.com/track/21XkocVCtac38dQXNMpkgU) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [love letters](https://open.spotify.com/album/23UOHZJ15vp7TshXOrg32U) | 2:36 |
 | 345 | [Slow Cooking](https://open.spotify.com/track/5j2XoGbv1XotCDFeZVuE1p) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Slow Cooking](https://open.spotify.com/album/1mziZNi2frxcEDGBJSyeHf) | 1:55 |
 
-Snapshot ID: `AAAAAO+UPQ0ZCRxa9ihnjxPXi6Y2i8Jz`
+Snapshot ID: `aAosHwAAAAChfiUba3WjDHVoRFEdr4u0`

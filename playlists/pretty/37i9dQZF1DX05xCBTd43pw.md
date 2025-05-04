@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Entdecke die Songauswahl von Joya Marleen\. <br/>Discover Joya Marleen's song selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,311 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,332 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

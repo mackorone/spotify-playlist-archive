@@ -9555,6 +9555,28 @@
     },
     {
       "album": {
+        "name": "I JUST",
+        "url": "https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2025-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170557,
+      "name": "I JUST",
+      "url": "https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX"
+    },
+    {
+      "album": {
         "name": "alacarte",
         "url": "https://open.spotify.com/album/7g6vqYJi6CvSnD4Bs5VL34"
       },
@@ -10456,7 +10478,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-04",
       "duration_ms": 296082,
       "name": "Judgement?",
       "url": "https://open.spotify.com/track/5MGVaOgYQ3UclF6l7ctMFA"

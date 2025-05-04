@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: El Malilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,786 likes - 143 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,887 likes - 143 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 31 | [Dónde Estará](https://open.spotify.com/track/0TiOhaTwBRJEZeln0zfdti) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Dónde Estará](https://open.spotify.com/album/5JTdL3DmMpIOCt0rBKDOzG) | 3:18 |
 | 32 | [Oye Mami](https://open.spotify.com/track/3QPXotMsTKvE1e4epy4J8B) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Oye Mami](https://open.spotify.com/album/0XUrTIky8SFyS5pWwd9VOp) | 3:11 |
 | 33 | [TINTIAO](https://open.spotify.com/track/6VzN0x4SxG66lrXFtQMi2D) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [TINTIAO](https://open.spotify.com/album/0ZlhtrhcIzPbl42X6FsA2l) | 2:07 |
-| 34 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [ROSÉ](https://open.spotify.com/artist/1c2msIuPdhUmppenPEonjv), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
+| 34 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
 | 35 | [Vetements](https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:20 |
 | 36 | [SINGLE](https://open.spotify.com/track/4UVREm3By424k44PT1x7Of) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [SINGLE](https://open.spotify.com/album/42EuLDrBlpkjSCTuS7TfME) | 3:03 |
 | 37 | [VENTE CONMIGO](https://open.spotify.com/track/78dcaF6ZYb01TzEMKd0bXE) | [Piromano El Del Flow Gitano](https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0) | [VENTE CONMIGO](https://open.spotify.com/album/51omn3WMPZxtFwvK0UMQl2) | 2:51 |

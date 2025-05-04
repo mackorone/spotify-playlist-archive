@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Olamide, Niniola, Ayo Maff and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,994 likes - 56 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,215 likes - 56 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 6 | [How Much](https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [ROOKIES don’t sound this good](https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW) | 2:19 |
 | 7 | [Follow Her \(feat\. Kizz Daniel\)](https://open.spotify.com/track/1n75T4YcMVF247pHqT678d) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Follow Her \(feat\. Kizz Daniel\)](https://open.spotify.com/album/6J21SHXfesoYfvOWjvmRFB) | 2:46 |
 | 8 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
-| 9 | [4GET IT \(feat\. Prettyboy D\-O\)](https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [4GET IT \(feat\. Prettyboy D\-O\)](https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY) | 2:56 |
+| 9 | [4GET IT](https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [4GET IT](https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY) | 2:56 |
 | 10 | [Korobo II](https://open.spotify.com/track/3EQ3uM24iQZQrbjSA97697) | [Idyl](https://open.spotify.com/artist/2L7Vza3szswJ0fGJiVK61J), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Korobo II](https://open.spotify.com/album/6sjF5WvzxkjrAvG25dFADT) | 3:17 |
 | 11 | [Towa](https://open.spotify.com/track/5c7Zx5YZKOSKtnb9ZIS2Ki) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Towa](https://open.spotify.com/album/1vIMJdQKb9z3ISdzYN9A8d) | 2:41 |
 | 12 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
