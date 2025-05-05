@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 149841,
+  "num_followers": 149907,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
         "name": "Still the River Flows",
         "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 154552,
       "name": "Moment Of Peace (Forest Birds)",
       "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2025-02-18 15:28:48",

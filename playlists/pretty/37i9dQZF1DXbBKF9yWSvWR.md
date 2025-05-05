@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Min Taka
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,094 likes - 110 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,096 likes - 110 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

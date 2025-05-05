@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-535 songs - 2 day 3 hr 54 min
+536 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Blessings Follow Me](https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [KS Bloom](https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A) | [Blessings Follow Me](https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm) | 2:45 | 2022-09-30 | 2023-05-08 |
 | [Boundless Love](https://open.spotify.com/track/2Zh4ebJfOM4U3m3Gf6eqC3) | [Chigozie Wisdom](https://open.spotify.com/artist/1FVTCLEgnDnnE4kdK7l43z) | [Endless Worship](https://open.spotify.com/album/0RzwSPDwajoGi1WgGevbxX) | 6:55 | 2025-04-25 |  |
 | [Bow Down \(Live\)](https://open.spotify.com/track/1fnSUD48l6ZX3xXiiFl18Y) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Bow Down \(Live\)](https://open.spotify.com/album/7BNZkjHLGtQRe1jTNJPGfT) | 5:40 | 2025-03-07 | 2025-03-21 |
-| [BURN](https://open.spotify.com/track/1IG95S18k0RC5nUpyFCRfF) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Steph Ade](https://open.spotify.com/artist/3HqZE7YMwvtMRBUw3GvoGU) | [BURN](https://open.spotify.com/album/67GxAXdtyiSkbBbm8XIGYV) | 3:34 | 2025-02-28 |  |
+| [BURN](https://open.spotify.com/track/1IG95S18k0RC5nUpyFCRfF) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Steph Ade](https://open.spotify.com/artist/3HqZE7YMwvtMRBUw3GvoGU) | [BURN](https://open.spotify.com/album/67GxAXdtyiSkbBbm8XIGYV) | 3:34 | 2025-02-28 | 2025-05-05 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 | 2025-04-26 |
 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 | 2023-10-06 | 2023-12-15 |
@@ -182,6 +182,7 @@
 | [Greatest Name](https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest Name](https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK) | 10:21 | 2024-08-30 | 2024-09-13 |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 | 2023-06-04 |
 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-13 | 2025-03-21 |
+| [Hagiazo \- Live](https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hagiazo \(Live\)](https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw) | 15:01 | 2025-04-18 |  |
 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 | 2024-07-26 | 2024-09-13 |
 | [Hallelu](https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Hallelu](https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM) | 2:36 | 2022-10-21 | 2023-01-20 |
 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 | 2022-09-30 | 2023-04-15 |

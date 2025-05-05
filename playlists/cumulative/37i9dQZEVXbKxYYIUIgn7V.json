@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"
+    },
+    {
+      "album": {
         "name": "Asteromata",
         "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
       },
@@ -6598,7 +6616,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 192862,
       "name": "Drinking Wine Feeling Fine",
       "url": "https://open.spotify.com/track/4gUFxJ0FH76iMgsePtYdYr"
@@ -9852,7 +9870,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 144722,
       "name": "FICKA",
       "url": "https://open.spotify.com/track/1LbccDWO37QQUaRvoI2LjV"
@@ -16490,7 +16508,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -30340,6 +30358,32 @@
       "duration_ms": 73231,
       "name": "Trap Royalty",
       "url": "https://open.spotify.com/track/5MV9Uf9hoW7ZSxs8w5ybRh"
+    },
+    {
+      "album": {
+        "name": "Tretboot",
+        "url": "https://open.spotify.com/album/3esd5bWFrgFl5nMcj86Lwx"
+      },
+      "artists": [
+        {
+          "name": "Der Zipfelbube",
+          "url": "https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az"
+        },
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Magic Marco",
+          "url": "https://open.spotify.com/artist/7n06TGcsWnh52CkH4fNGVK"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Tretboot",
+      "url": "https://open.spotify.com/track/7DwKk0tYBLfQ8R3ggR3wNh"
     },
     {
       "album": {

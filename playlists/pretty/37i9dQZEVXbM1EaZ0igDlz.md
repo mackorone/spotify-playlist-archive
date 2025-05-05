@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,558 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,559 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 34 | [Verwandtschaftstreffen](https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Verwandtschaftstreffen](https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p) | 2:45 |
 | 35 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
 | 36 | [Gianna \- Harris & Ford x BIG TIM Remix](https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Gianna \(Harris & Ford x BIG TIM Remix\)](https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH) | 2:25 |
-| 37 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
+| 37 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 |
 | 38 | [STREIT](https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [STREIT](https://open.spotify.com/album/7eLC3rF5nbATqQQrA2zUYz) | 3:32 |
 | 39 | [bissu dumm ¿ MEGALODON REMIX](https://open.spotify.com/track/1IMa0Il4w988MwZCUcISix) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [AchtVier](https://open.spotify.com/artist/6JOYrJkaS8ZKxLoUdNNdWr), [AK 33](https://open.spotify.com/artist/3803JqLnUACUJcuCLmK3xz), [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Big Toe](https://open.spotify.com/artist/18Zq5h68TQ6kurXzRNHJDo), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Celo & Abdi](https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO), [Crackaveli](https://open.spotify.com/artist/27ERI8hVciwqhL2mYZMaqu), [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym), [Hakan Abi](https://open.spotify.com/artist/5IbRFfGADDwo49rmydNHuV), [Haze](https://open.spotify.com/artist/3SxrBNpBsKhqOA4WX7HSV5), [Jaill](https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM) | [bissu dumm ¿ MEGALODON REMIX](https://open.spotify.com/album/1QsNFGsyAsJ7jBx5inCQ4F) | 18:34 |
 | 40 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Gata Only](https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 3:42 |
 | 50 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 
-Snapshot ID: `L6mLUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L6raeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

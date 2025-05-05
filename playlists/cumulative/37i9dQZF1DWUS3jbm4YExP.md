@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-786 songs - 2 day 7 hr 56 min
+787 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [AO Longo Do Rio](https://open.spotify.com/track/1guNEjxD2ZIxKti8jtMehV) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [AO Longo Do Rio](https://open.spotify.com/album/6ceZRBfduXzV866yCtMzxV) | 4:34 | 2021-10-06 | 2022-07-01 |
 | [Apollo Solar Drive](https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg), [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW) | [Apollo Solar Drive](https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx) | 3:52 | 2025-01-31 | 2025-04-12 |
 | [Arabesque Breakin' Suite \- Live at Jam PDM](https://open.spotify.com/track/1DZrA46ffYRT7tplL5kk99) | [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [Arabesque Breakin' Suite \(Live at Jam PDM\)](https://open.spotify.com/album/1qgkuxxjPDX4k7VzGnWhz1) | 3:04 | 2021-10-06 | 2022-07-05 |
+| [Arabutã](https://open.spotify.com/track/4Lm16xRBk71F4BJ3w9XQAB) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Arabutã](https://open.spotify.com/album/1gY8B9XXKpWYDk7GMXThrw) | 5:53 | 2025-05-02 |  |
 | [Aruenda](https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Telenova](https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn) | 3:20 | 2023-05-22 | 2023-10-12 |
 | [Ascensión](https://open.spotify.com/track/0HddcExCVtmIDJmrU811VC) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Ascensión](https://open.spotify.com/album/13SKT7r4ye3ndcOFOzB19p) | 3:22 | 2022-06-08 | 2022-07-28 |
 | [Ascensión](https://open.spotify.com/track/35o92ikbXQApq9xBjLgbnV) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Dreaming In Four Dimensions](https://open.spotify.com/album/5YU3RcCFC9zjsK4cmvxNIj) | 3:22 | 2023-09-18 | 2024-04-19 |
@@ -633,7 +634,7 @@
 | [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 |  |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-06 |  |
 | [Sorna Lorestan](https://open.spotify.com/track/7grp4TrONV4cu99mhbjOga) | [Ehsan Abdi Pour](https://open.spotify.com/artist/7tcYfMImH0mnRsjB5yUOAb) | [Sorna Lorestan](https://open.spotify.com/album/41spzG46heSG7Dy8dHmxfa) | 2:36 | 2021-10-06 | 2022-07-28 |
-| [Souk el Ahad](https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:51 | 2023-07-24 |  |
+| [Souk el Ahad](https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:51 | 2023-07-24 | 2025-05-05 |
 | [Soy Una Nube \- Bosq Remix](https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Soy Una Nube \(Bosq Remix\) \- Single](https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT) | 5:47 | 2022-04-17 | 2024-12-09 |
 | [Soñar](https://open.spotify.com/track/7enzDGteT9zKzzJaHesj5N) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Soñar](https://open.spotify.com/album/3fjZPowER8O51pIYcoEfPg) | 3:40 | 2021-10-06 | 2022-04-16 |
 | [Space](https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 2:31 | 2021-10-06 | 2024-04-19 |

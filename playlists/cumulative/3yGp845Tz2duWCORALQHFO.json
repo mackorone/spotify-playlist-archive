@@ -55593,6 +55593,24 @@
     },
     {
       "album": {
+        "name": "EYESONYOU",
+        "url": "https://open.spotify.com/album/2cUWBJiTJ35rHdeH9lzB3h"
+      },
+      "artists": [
+        {
+          "name": "Elis",
+          "url": "https://open.spotify.com/artist/2SBGFN4SWI1avoQDc39osF"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142987,
+      "name": "VISION",
+      "url": "https://open.spotify.com/track/0yXUEQoWtiHRAevsJiasW2"
+    },
+    {
+      "album": {
         "name": "Viva l'Opera",
         "url": "https://open.spotify.com/album/7bm7dbkB0iExYNKbddfwTE"
       },

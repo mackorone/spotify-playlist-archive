@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: North Point Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,128 likes - 74 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,165 likes - 74 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,063 songs - 2 day 9 hr 20 min
+1,064 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bae](https://open.spotify.com/track/6w4OGyITwsctUVy1lpo3rX) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [Bae](https://open.spotify.com/album/1Ugqw9M5thJorCZNixZPKh) | 2:27 | 2025-02-22 | 2025-04-09 |
 | [BAIJA BAIJA](https://open.spotify.com/track/5ldQU1s9WKdCljXcg8BSTD) | [Aaman Trikha](https://open.spotify.com/artist/2MMPzBpMeCZVPRnV5mddc3) | [BAIJA BAIJA](https://open.spotify.com/album/0k3Ewft7xjE0DOAOKYJkiK) | 3:03 | 2024-09-09 | 2024-09-21 |
 | [Baith Kol](https://open.spotify.com/track/1k7rYDge3QkW428fFhXTKK) | [Pooja M Suresh](https://open.spotify.com/artist/2kyyWFCwV1iTPxo69lZXid), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Namyoho Studios](https://open.spotify.com/artist/4s3S5ufnXrulmx1a4xIftH) | [Baith Kol](https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ) | 3:40 | 2022-10-25 | 2022-12-16 |
+| [Bakamaal](https://open.spotify.com/track/0z0YLQO9wkDIgaPjkKkCEK) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Bakamaal](https://open.spotify.com/album/6sfYrl5m2fjUNAGdhrl0A6) | 3:30 | 2025-05-04 |  |
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 | 2022-07-06 |
 | [Band Theke](https://open.spotify.com/track/0fmYXWzzqFYD6knpZK0Jal) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Band Theke](https://open.spotify.com/album/5oSCmWYXzDRAf0LGdCSRgw) | 3:07 | 2022-09-01 | 2023-02-04 |
 | [Bande Banjo](https://open.spotify.com/track/3XcS6alWOBfANFmLdm6Sah) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [PRIME](https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY) | 2:17 | 2025-03-26 |  |
@@ -889,7 +890,7 @@
 | [Suit Karda](https://open.spotify.com/track/3TTJvDkZxcab1rVHMjSaZS) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Suit Karda](https://open.spotify.com/album/0B8x8Oum8dwT7yuCRVFSK4) | 3:00 | 2022-08-05 | 2023-02-04 |
 | [Suit Purane](https://open.spotify.com/track/3JmpJDQTyYnLlQSDVFR1vT) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Suit Purane](https://open.spotify.com/album/2HXJnIbm2a140pa9f4j1zX) | 2:56 | 2021-12-02 | 2022-02-05 |
 | [Suita To Payara](https://open.spotify.com/track/2sh6Ny6YTf6Ku0ShOmbCmW) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 2:40 | 2022-02-03 | 2022-02-12 |
-| [Sukoon](https://open.spotify.com/track/3MsYW2rHLwdxEYyg8QQlaw) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sukoon](https://open.spotify.com/album/45Iu7k4XRZFvFFF7Vfd8y7) | 3:16 | 2025-04-14 |  |
+| [Sukoon](https://open.spotify.com/track/3MsYW2rHLwdxEYyg8QQlaw) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sukoon](https://open.spotify.com/album/45Iu7k4XRZFvFFF7Vfd8y7) | 3:16 | 2025-04-14 | 2025-05-05 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-05-27 | 2025-01-17 |
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |

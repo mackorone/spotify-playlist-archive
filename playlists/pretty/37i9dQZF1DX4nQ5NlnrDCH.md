@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nQ5NlnrDCH.md) - [plain]
 
 > Retrouvez les chansons trop trop rigolotes de L'âne Trotro
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,114 likes - 16 songs - 31 min 43 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,131 likes - 16 songs - 31 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

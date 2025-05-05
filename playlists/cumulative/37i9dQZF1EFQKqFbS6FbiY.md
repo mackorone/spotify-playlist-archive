@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-611 songs - 1 day 5 hr 45 min
+613 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 | 2023-12-30 |  |
 | [Beijo Misturado](https://open.spotify.com/track/1vffSXM7Ofv8YkATg130fs) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:28 | 2024-09-25 | 2024-10-07 |
 | [Beijo Misturado](https://open.spotify.com/track/3TDKF1QuNERsAdiPn3HfOW) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1MlcxSB05CeMatnJ0CnM4c) | 2:28 | 2024-10-06 | 2024-11-26 |
+| [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/10pUDfb6LPtfDB2ff4IRSf) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:28 | 2025-05-04 |  |
 | [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/4dcMXkx4o93mhfOXlOG0r2) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/5ki70BPFec5faQR49hkB5s) | 2:28 | 2024-11-25 | 2025-01-27 |
-| [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/7vBMliaXhfMPo7NojBqAOC) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:28 | 2025-01-26 |  |
+| [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/7vBMliaXhfMPo7NojBqAOC) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:28 | 2025-01-26 | 2025-05-05 |
 | [Bem Dada](https://open.spotify.com/track/66j9Z2UTR9shv041n42UX2) | [Diego Franco & Rafael](https://open.spotify.com/artist/6ZIm24FzNXL4HN5O8Dv4aq) | [Bem Dada](https://open.spotify.com/album/5TJB5lLhHlkpRIdBojFkWL) | 2:39 | 2023-12-30 |  |
 | [Bem Longe de Você](https://open.spotify.com/track/2pv3kN9taPduP7MKlTzk9Q) | [Althaír & Alexandre](https://open.spotify.com/artist/6UtAd1rrgAMSdH8uF8AvqL) | [Composições](https://open.spotify.com/album/4WKb9ZZMwxzjIm64sM9kxs) | 3:19 | 2023-12-30 |  |
 | [Berrante \- Ao Vivo](https://open.spotify.com/track/3xOcpM0DL26LCNXK62VdpB) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:52 | 2025-01-09 | 2025-04-12 |
@@ -308,8 +309,9 @@
 | [Labiazinha](https://open.spotify.com/track/1dHGB7Ay2Cq9OrpxSrnwID) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1Def8valDFweGxVkDHoHpe) | 2:58 | 2024-08-25 | 2024-08-29 |
 | [Labiazinha](https://open.spotify.com/track/4pQaEpZxby2nbfpU9UbTsv) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1MlcxSB05CeMatnJ0CnM4c) | 2:58 | 2024-10-06 | 2024-11-26 |
 | [Labiazinha](https://open.spotify.com/track/5xtuLXRbUcmQ4R5aQAjqvx) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:58 | 2024-08-28 | 2024-10-07 |
+| [Labiazinha \- Ao Vivo](https://open.spotify.com/track/0c0o2r5EwBTXc84J84zE5r) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:58 | 2025-05-04 |  |
 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/1HFr4aMlgN29mHOv4WYzYV) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/5ki70BPFec5faQR49hkB5s) | 2:58 | 2024-11-25 | 2025-01-27 |
-| [Labiazinha \- Ao Vivo](https://open.spotify.com/track/6c91OdzgGcHrmMEEBpNKB9) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:58 | 2025-01-26 |  |
+| [Labiazinha \- Ao Vivo](https://open.spotify.com/track/6c91OdzgGcHrmMEEBpNKB9) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:58 | 2025-01-26 | 2025-05-05 |
 | [Ladra de Sonhos \- Ao Vivo](https://open.spotify.com/track/217uGYqLm5iEX4sLaqPaCX) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 3:13 | 2023-12-30 |  |
 | [Latada Na Vida \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/4A7ou2QZzuwGY1YmBvMncy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Despertar \- A Série \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/0Z9R80X33v3rvVcTqtywkP) | 2:28 | 2023-12-30 |  |
 | [Laudo](https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 1](https://open.spotify.com/album/3kww8Qg2g6ZGURQO5YS0bq) | 2:20 | 2023-12-30 |  |

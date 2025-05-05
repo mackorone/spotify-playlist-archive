@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,458 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,593 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 79 | [ナハト](https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [MOLTING AND DANCING](https://open.spotify.com/album/5iiTVjvlqwtOGpTSl59Ure) | 3:05 |
 | 80 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 |
 
-Snapshot ID: `aBDpdwAAAACyYz/he3H09YvRaRAXraCS`
+Snapshot ID: `aBeBCAAAAAAlMW7g0XiUtCVxTB8TwYy+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0ilOR20NgwNiwJXM9Uwd4p">DON Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,844 likes - 16 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,847 likes - 16 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

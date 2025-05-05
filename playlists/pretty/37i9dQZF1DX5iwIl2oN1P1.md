@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Donald Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,562 likes - 64 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,609 likes - 64 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

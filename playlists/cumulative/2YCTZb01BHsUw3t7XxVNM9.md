@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-501 songs - 1 day 10 hr 50 min
+502 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Hell Flame \[feat\. Noizenecio\] \- Noizenecio Remix](https://open.spotify.com/track/2Cf5VUdv8cCcVdD60y29fs) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [EXTRA HARD \[2\]](https://open.spotify.com/album/1AUjCJD5t7HxJwAhipbo9U) | 3:25 | 2021-01-12 |  |
 | [Hell's Bells](https://open.spotify.com/track/0ZlBQn2x7Fu9s6L43aRNPf) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 2:36 | 2022-11-04 |  |
 | [Heretic](https://open.spotify.com/track/66vrUXtVpKxXrvvD7tZqb0) | [Falchion](https://open.spotify.com/artist/3EvBMz7QylG4pgFqmmPqHr) | [Japanese Stream Hardcore Vol.9](https://open.spotify.com/album/2P3kBlX0Sma19x7Zq3kUkA) | 5:02 | 2019-02-01 |  |
+| [Hex](https://open.spotify.com/track/5ZS0LsKEK3AuvnX0Q5w5Mh) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Hex](https://open.spotify.com/album/0eG98O2NBz98XgKFWZpMpQ) | 4:06 | 2025-05-04 |  |
 | [Hideous Heresy](https://open.spotify.com/track/0nNdExmxoM1FSROTKMJACD) | [moro](https://open.spotify.com/artist/4TIcqGdemPlj8RZpKsrhux) | [JAPANESE STREAM HARDCORE VOL.7](https://open.spotify.com/album/1leIzjC3IG0jIxQlGC3W1e) | 5:45 | 2019-01-29 |  |
 | [Hierarchy of Kicks](https://open.spotify.com/track/0GEHcO0J0vB3O7zUNpVmmJ) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [TOKYO UPTEMPO WARRIOR](https://open.spotify.com/album/2SFMCKp7hvPZIneEr7EoSS) | 4:35 | 2019-01-29 |  |
 | [High Pressure Man](https://open.spotify.com/track/47Sduq0OxJvfPrVtoUIQhe) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Brutal Decibel](https://open.spotify.com/album/0kYumnaF4YKyNUZ7WwPUGW) | 4:16 | 2021-04-30 |  |

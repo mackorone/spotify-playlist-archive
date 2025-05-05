@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=jWhEYZpoSD6Q494Jkdbz4A>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,906 likes - 99 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,923 likes - 99 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

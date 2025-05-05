@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 80776,
+  "num_followers": 80793,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Quiet Melodies",
-        "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
-      },
-      "artists": [
-        {
-          "name": "Jolene Cedar",
-          "url": "https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Quiet Melodies",
-      "url": "https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Aspect of Mind",
         "url": "https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 177297,
       "name": "Aspect of Mind",
       "url": "https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Quiet Melodies",
+        "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
+      },
+      "artists": [
+        {
+          "name": "Jolene Cedar",
+          "url": "https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Quiet Melodies",
+      "url": "https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Sleeping Moons",
-        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191484,
-      "name": "Sleeping Moons",
-      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Aetheris",
         "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
       },
@@ -651,18 +635,34 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Circle Of Everything",
-        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
+        "name": "Sleeping Moons",
+        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
       },
       "artists": [
         {
-          "name": "Dance Of Centuries",
-          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Circle Of Everything",
-      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
+      "duration_ms": 191484,
+      "name": "Sleeping Moons",
+      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Mountain View",
+        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 152974,
+      "name": "Mountain View",
+      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Mountain View",
-        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+        "name": "Circle Of Everything",
+        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
       },
       "artists": [
         {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
         }
       ],
-      "duration_ms": 152974,
-      "name": "Mountain View",
-      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
+      "duration_ms": 162000,
+      "name": "Circle Of Everything",
+      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Quiet Moments",
-        "url": "https://open.spotify.com/album/6rBELPcFLQMlCdmJ5n7Q8t"
-      },
-      "artists": [
-        {
-          "name": "Natthiko",
-          "url": "https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Quiet Moments",
-      "url": "https://open.spotify.com/track/5AcLksLgWKiVt6WfXciyMk"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 206291,
       "name": "Towards The Light",
       "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Quiet Moments",
+        "url": "https://open.spotify.com/album/6rBELPcFLQMlCdmJ5n7Q8t"
+      },
+      "artists": [
+        {
+          "name": "Natthiko",
+          "url": "https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Quiet Moments",
+      "url": "https://open.spotify.com/track/5AcLksLgWKiVt6WfXciyMk"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Unfolding",
-        "url": "https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7"
-      },
-      "artists": [
-        {
-          "name": "Manolakas",
-          "url": "https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi"
-        }
-      ],
-      "duration_ms": 152986,
-      "name": "Unfolding",
-      "url": "https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Freya",
         "url": "https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 144766,
       "name": "Huma",
       "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7"
+      },
+      "artists": [
+        {
+          "name": "Manolakas",
+          "url": "https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi"
+        }
+      ],
+      "duration_ms": 152986,
+      "name": "Unfolding",
+      "url": "https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Issa",
-        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
-      },
-      "artists": [
-        {
-          "name": "Sufi Pyramid",
-          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "ISSA",
-      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "A Mind At Peace",
         "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 162907,
       "name": "A Mind At Peace",
       "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Issa",
+        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
+      },
+      "artists": [
+        {
+          "name": "Sufi Pyramid",
+          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "ISSA",
+      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Moonrise",
-        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
-      },
-      "artists": [
-        {
-          "name": "Asa Kora",
-          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "duration_ms": 208515,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Sleep Sequence",
         "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
         "name": "Tensions",
         "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+        "name": "Sleep - Vol 4",
+        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+      "duration_ms": 255578,
+      "name": "Reinstatement",
+      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Sleep - Vol 4",
-        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 255578,
-      "name": "Reinstatement",
-      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Moonchild's First Flight",
         "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 172372,
       "name": "Moonchild's First Flight",
       "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 184545,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2025-03-19 12:55:10",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-03-19 12:55:10",
       "album": {
-        "name": "Prieks",
-        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 145524,
-      "name": "Prieks",
-      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
-    },
-    {
-      "added_at": "2025-03-19 12:55:10",
-      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
+    },
+    {
+      "added_at": "2025-03-19 12:55:10",
+      "album": {
+        "name": "Prieks",
+        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 145524,
+      "name": "Prieks",
+      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
     },
     {
       "added_at": "2025-03-19 12:55:10",

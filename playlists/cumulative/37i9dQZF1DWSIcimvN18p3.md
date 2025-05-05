@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Paris Paloma
 
-428 songs - 1 day 2 hr 13 min
+429 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-10-14 |  |
 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 | 2021-03-05 |  |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-03-08 |  |
+| [Faeries](https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [I'm Not Around](https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId) | 3:25 | 2025-05-02 |  |
 | [Fair Game](https://open.spotify.com/track/5IOnNlFKHfiWgzu9Yu4FKc) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 2:34 | 2025-05-02 |  |
 | [Fall](https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 2:59 | 2023-08-04 | 2024-04-19 |
 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 | 2021-03-05 | 2024-02-10 |
@@ -410,7 +411,7 @@
 | [White Lies](https://open.spotify.com/track/5i7g5BIOAQeZu4cXkuXh1H) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [White Lies](https://open.spotify.com/album/0jEb2g4SUcHyXBYItiOCGw) | 4:07 | 2022-03-08 | 2022-07-29 |
 | [White Lies](https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 4:07 | 2022-03-08 | 2024-03-09 |
 | [Who Knows Where The Time Goes? \- BBC Session \- John Peel 11/9/73](https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [Like An Old Fashioned Waltz \(Deluxe Edition\)](https://open.spotify.com/album/1TanbE0knS2g91OueucHT9) | 5:35 | 2021-03-05 | 2024-04-19 |
-| [Who Knows Where The Time Goes? \- BBC Session \- John Peel 11/9/73](https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The Best Of The BBC Recordings](https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4) | 5:36 | 2021-03-05 |  |
+| [Who Knows Where The Time Goes? \- BBC Session \- John Peel 11/9/73](https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The Best Of The BBC Recordings](https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4) | 5:36 | 2021-03-05 | 2025-05-05 |
 | [Who You Are](https://open.spotify.com/track/2o6KyL5Yo4vN0YA4sTyrPE) | [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [Who You Are](https://open.spotify.com/album/4dr0GU9HpLwxU2XSKn08fZ) | 3:51 | 2022-03-08 | 2022-07-27 |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-08-04 | 2024-05-24 |
 | [Wild Swimming](https://open.spotify.com/track/41V6ShOvonWDsDYWlVSvNy) | [Martha Tilston](https://open.spotify.com/artist/7qYuquYwhkc9HEa9tV3QXM) | [Lucy and the Wolves](https://open.spotify.com/album/7tjNeeTCDNpzxa1JRCddBf) | 3:40 | 2021-03-05 | 2022-07-27 |

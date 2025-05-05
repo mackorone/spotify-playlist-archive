@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -18225,6 +18225,24 @@
     },
     {
       "album": {
+        "name": "El Ingeniero vs Me Rehuso (Mashup dj Remix)",
+        "url": "https://open.spotify.com/album/1Lomk1ZStPZ1I80Zw1D3aV"
+      },
+      "artists": [
+        {
+          "name": "Vilu Gontero",
+          "url": "https://open.spotify.com/artist/5bPIRYYgVG70w7LNFW8a9P"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222127,
+      "name": "El Ingeniero vs Me Rehuso (Mashup dj Remix)",
+      "url": "https://open.spotify.com/track/6JcaezefReCHsaDoYxSSfI"
+    },
+    {
+      "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
       },
@@ -31894,10 +31912,36 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
+    },
+    {
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "album": {
@@ -41184,7 +41228,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
@@ -51594,7 +51638,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 127346,
       "name": "Shake It To The Max (FLY)",
       "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"

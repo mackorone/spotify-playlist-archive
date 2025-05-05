@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 今年的金曲獎要來了！看看你的年度歌曲和獲獎的作品會不會是其中一首吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,373 likes - 120 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,371 likes - 120 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -735,6 +735,28 @@
     },
     {
       "album": {
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152736,
+      "name": "Kicsi Juanita",
+      "url": "https://open.spotify.com/track/5fKkaKrHwy2CqFsJv0mXCV"
+    },
+    {
+      "album": {
         "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
@@ -1471,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop"
+    },
+    {
+      "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
@@ -1614,6 +1654,24 @@
       "duration_ms": 174000,
       "name": "Szeretsz-e",
       "url": "https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM"
+    },
+    {
+      "album": {
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121136,
+      "name": "Szexbomb",
+      "url": "https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD"
     },
     {
       "album": {

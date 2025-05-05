@@ -12916,7 +12916,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 115764,
       "name": "Filter FFP4",
       "url": "https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ"
@@ -17698,7 +17698,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -29544,7 +29544,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 105729,
       "name": "Play and Stop",
       "url": "https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk"
@@ -37010,6 +37010,24 @@
       "duration_ms": 134028,
       "name": "Sunset Wish",
       "url": "https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr"
+    },
+    {
+      "album": {
+        "name": "sunsets",
+        "url": "https://open.spotify.com/album/27siAV8NCZUjH6rjln0U1B"
+      },
+      "artists": [
+        {
+          "name": "disco robots",
+          "url": "https://open.spotify.com/artist/6R3cgq9nqaTLLM2KvAijIN"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "sunsets",
+      "url": "https://open.spotify.com/track/6QTqbwdH2cRdYKdYBlgGa1"
     },
     {
       "album": {

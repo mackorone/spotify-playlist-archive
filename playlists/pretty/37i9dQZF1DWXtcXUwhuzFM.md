@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Pihlajalta, Sara Beeltä & Arekselta, Ed Sheeranilta ja NEEA RIVERiltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,404 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,410 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

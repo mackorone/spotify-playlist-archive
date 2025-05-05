@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Morgan Seatree
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,873 likes - 63 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,849 likes - 63 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

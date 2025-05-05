@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 
 > From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,582 likes - 97 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,795 likes - 97 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

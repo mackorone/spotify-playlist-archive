@@ -4,7 +4,7 @@
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-62 songs - 4 hr 11 min
+63 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [From Season to Season!](https://open.spotify.com/track/6HX1Lswa8KH7hnIilwjWCG) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [KICS](https://open.spotify.com/artist/2mIL6foP0C2WznBB5Mtgyf) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:50 | 2025-04-22 |  |
 | [Gamer's High](https://open.spotify.com/track/2YObSaepbHWKFT9hYWUTto) | [茅ヶ崎至\(CV:浅沼晋太郎\)](https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE) | [A3! Blooming SPRING EP](https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb) | 3:43 | 2024-07-10 |  |
 | [GOLDEN ENCORE!](https://open.spotify.com/track/5DMdNNSU4xLSTK1niFEaFS) | [BRBRookies!](https://open.spotify.com/artist/1J51fE64FFrosV0OIf16zf), [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO), [兵頭九門\(CV:畠中祐\)](https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013), [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA), [ガイ\(CV:日野聡\)](https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc) | [GOLDEN ENCORE!](https://open.spotify.com/album/3Asr0w8ovcO63Nk4pceDmI) | 4:40 | 2024-07-10 |  |
+| [Hey, Buddy!](https://open.spotify.com/track/20Pur3BdS0TPMS9zgqmDdG) | [エリート商社マンズ](https://open.spotify.com/artist/0vITJOqU0KsaqDibAaBRKs) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:57 | 2025-04-22 |  |
 | [Home](https://open.spotify.com/track/18DhagiE6jaD6bhdsqYNZH) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [Home/オレンジ・ハート](https://open.spotify.com/album/157NkKigC4XesOsNGcwLmf) | 4:19 | 2024-07-10 |  |
 | [ITTEKI～義経異聞録～](https://open.spotify.com/track/2sVUwXsYrzxqu7Odil4TXS) | [クロウ&ベンケイ](https://open.spotify.com/artist/5DWjbhk0ba5dTLgtczeVQJ), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [皆木綴\(CV:西山宏太朗\)](https://open.spotify.com/artist/5cstQE5eMNhvkVsJmOJz3N) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 4:18 | 2024-08-27 |  |
 | [Just For Myself](https://open.spotify.com/track/3HzM39Uj7U0FLzLqXOtudU) | [ヴォルフ\[伏見臣\(CV:熊谷健太郎\)\]](https://open.spotify.com/artist/2zUq4WFQ6wzxBZw9KAVjL7), [ゼロ\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1Db3nv4s9FccdwVxOR9zX4) | [A3! Blooming AUTUMN EP](https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb) | 3:30 | 2024-07-10 |  |
@@ -54,7 +55,7 @@
 | [ゲキ夏☆Go My Way!](https://open.spotify.com/track/3Au4alj3n6RDNMrKCWXTik) | [夏組](https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:51 | 2025-04-22 |  |
 | [スーパーウルトライージーモード](https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m) | [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:58 | 2024-07-10 |  |
 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 | 2024-07-10 |  |
-| [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 | 2024-07-10 |  |
+| [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 | 2024-07-10 | 2025-05-05 |
 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 | 2024-07-10 |  |
 | [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 | 2024-08-27 |  |
 | [ロードトゥ饅頭マスター!](https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH) | [チャン\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI), [ユン\[泉田莇\(CV:小西成弥\)\]](https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:01 | 2024-07-10 |  |

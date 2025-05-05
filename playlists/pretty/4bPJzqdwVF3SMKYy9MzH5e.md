@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,131 songs - 4 day 18 hr 14 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,133 songs - 4 day 18 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2139,5 +2139,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2129 | [Rush](https://open.spotify.com/track/4gqakJ2DQ5NoTqNHxyIBAM) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:36 |
 | 2130 | [sex dealer](https://open.spotify.com/track/2252WLkjUzZaLhNvq8GhXO) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [sex dealer](https://open.spotify.com/album/5PkfpuleTH72PNp2AMMKbN) | 4:22 |
 | 2131 | [Fashion Killa](https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:56 |
+| 2132 | [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Amnesty \(I\)](https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU) | 3:08 |
+| 2133 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
 
-Snapshot ID: `AAAELOpj/EYpyyw2+kEKBRkvd9sO+Qt+`
+Snapshot ID: `AAAELjBPWB3Xj/QU/SSWnbolsNdh9RTR`

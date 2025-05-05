@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,781 songs - 6 day 6 hr 44 min
+2,782 songs - 6 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2604,6 +2604,7 @@
 | [Vespera](https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Vespera](https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p) | 3:58 | 2024-09-05 | 2024-09-13 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-05 | 2024-09-13 |
 | [Viking's Call](https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Viking's Call](https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu) | 3:41 | 2024-09-05 | 2024-09-13 |
+| [VISION](https://open.spotify.com/track/0yXUEQoWtiHRAevsJiasW2) | [Elis](https://open.spotify.com/artist/2SBGFN4SWI1avoQDc39osF) | [EYESONYOU](https://open.spotify.com/album/2cUWBJiTJ35rHdeH9lzB3h) | 2:22 | 2025-05-04 |  |
 | [Viva l'Opera](https://open.spotify.com/track/06AHOI8pzCfAhhvIB8s1Pe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Viva l'Opera](https://open.spotify.com/album/7bm7dbkB0iExYNKbddfwTE) | 3:07 | 2024-12-13 | 2024-12-20 |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2024-09-05 | 2024-09-07 |
 | [Vogue \- Will Watt Remix](https://open.spotify.com/track/1ZkU9H7b4qzRXZv7PucOmP) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [Vogue \(Will Watt Remix\)](https://open.spotify.com/album/0ztkOCQp75vjGk9BNtAvWY) | 3:32 | 2024-11-29 | 2024-12-06 |

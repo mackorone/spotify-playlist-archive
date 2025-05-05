@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,188 songs - 5 day 3 hr 46 min
+2,189 songs - 5 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1787,6 +1787,7 @@
 | [Sweet Melody](https://open.spotify.com/track/00JVkBS6jBTPxgrihQL45a) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sweet Melody](https://open.spotify.com/album/0UUXwwkKZsd7xxg0cS8jcd) | 2:29 | 2024-04-05 | 2024-05-21 |
 | [Sweetest Lines feat\. Tristan Henry](https://open.spotify.com/track/4TEadGjpOz8mBnS0vyewFh) | [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU), [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Sweetest Lines](https://open.spotify.com/album/3697Ula7NDv7138824vRRA) | 2:34 | 2024-06-28 | 2024-07-20 |
 | [Switch](https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Switch](https://open.spotify.com/album/1Jpk8k6Ji1yQdMsX2gW8eC) | 3:20 | 2024-09-13 | 2024-11-09 |
+| [SXY](https://open.spotify.com/track/4MVOhTnAMyUl3g323pNn76) | [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [SXY EP](https://open.spotify.com/album/1fia45ZfeADV2hNlpDOXO5) | 3:30 | 2025-05-04 |  |
 | [Syncopat](https://open.spotify.com/track/7mnilfyiiOHEtOMA1nsDxB) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Syncopat](https://open.spotify.com/album/5gidNifqUlhBb3Vp6AE4dj) | 3:17 | 2025-04-18 |  |
 | [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System EP](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 | 2023-11-17 | 2023-11-28 |
 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-06-27 |  |

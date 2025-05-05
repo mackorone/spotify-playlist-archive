@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 101 songs - 5 hr 12 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 104 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,8 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 99 | [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 |
 | 100 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
 | 101 | [rizz](https://open.spotify.com/track/333LqMnXvcMXagCHz9YDO9) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf), [Rimóczi Dóri](https://open.spotify.com/artist/73Gk6HXJP0u2ffrJ6K2m2S) | [EDM TRIP](https://open.spotify.com/album/6pxnEvaTp3Ok0YJRe1a4ma) | 2:53 |
+| 102 | [Szexbomb](https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:01 |
+| 103 | [ROCKSTAR](https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [ROCKSTAR](https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb) | 3:30 |
+| 104 | [Kicsi Juanita](https://open.spotify.com/track/5fKkaKrHwy2CqFsJv0mXCV) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:32 |
 
-Snapshot ID: `AAAAwprSDI4gHKvqOC2syNWV1DygHkw/`
+Snapshot ID: `AAAAxfJqSCIbithiiGawtAxY03zqXtp+`

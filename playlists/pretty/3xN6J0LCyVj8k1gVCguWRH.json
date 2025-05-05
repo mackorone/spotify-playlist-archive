@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAwC35tFhHNF2YEddeaww5koGAtkboC",
+  "snapshot_id": "AAAwEdT4LKY7Hiny0NHoI2HxuPoO9b2c",
   "tracks": [
     {
       "added_at": "2025-04-15 13:35:16",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/7mPoT8Mzw48tGdRQctsP3q"
     },
     {
-      "added_at": "2025-05-04 00:00:57",
-      "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/6YI79FIZO76CDbqCJFklvO"
-      },
-      "artists": [
-        {
-          "name": "Thea Lissi",
-          "url": "https://open.spotify.com/artist/0c4tBcwo6GwaXAKyabYIaj"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Sweeter",
-      "url": "https://open.spotify.com/track/0gV3vs6RxP4qEEncIh34fK"
-    },
-    {
       "added_at": "2025-05-03 14:50:16",
       "album": {
         "name": "The Way I Love You",
@@ -451,22 +435,6 @@
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2025-05-04 00:00:53",
-      "album": {
-        "name": "Love Run Cold",
-        "url": "https://open.spotify.com/album/00lrUUGcr5HJyneI9I5CxD"
-      },
-      "artists": [
-        {
-          "name": "Noah James",
-          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
-        }
-      ],
-      "duration_ms": 258769,
-      "name": "Love Run Cold",
-      "url": "https://open.spotify.com/track/1E6uCU9deWbhsGRmLivXyi"
     },
     {
       "added_at": "2025-04-25 13:36:46",
@@ -2197,6 +2165,102 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2025-05-04 06:00:50",
+      "album": {
+        "name": "Buy Yourself a Dream",
+        "url": "https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk"
+      },
+      "artists": [
+        {
+          "name": "Monotronic",
+          "url": "https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Buy Yourself a Dream",
+      "url": "https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG"
+    },
+    {
+      "added_at": "2025-05-04 00:00:57",
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/6YI79FIZO76CDbqCJFklvO"
+      },
+      "artists": [
+        {
+          "name": "Thea Lissi",
+          "url": "https://open.spotify.com/artist/0c4tBcwo6GwaXAKyabYIaj"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/0gV3vs6RxP4qEEncIh34fK"
+    },
+    {
+      "added_at": "2025-05-04 06:00:44",
+      "album": {
+        "name": "last flight",
+        "url": "https://open.spotify.com/album/2LTXabqVUdbhmARwCv5HdK"
+      },
+      "artists": [
+        {
+          "name": "Lainey Dionne",
+          "url": "https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ"
+        }
+      ],
+      "duration_ms": 221920,
+      "name": "last flight",
+      "url": "https://open.spotify.com/track/3iNAY1Ji7cJ3diWgMQrNeJ"
+    },
+    {
+      "added_at": "2025-05-04 06:00:47",
+      "album": {
+        "name": "Love Wins",
+        "url": "https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "duration_ms": 229299,
+      "name": "No Stoppin' This Train",
+      "url": "https://open.spotify.com/track/55lrjPDHBVfKUD5ipPzWCy"
+    },
+    {
+      "added_at": "2025-05-04 00:00:53",
+      "album": {
+        "name": "Love Run Cold",
+        "url": "https://open.spotify.com/album/00lrUUGcr5HJyneI9I5CxD"
+      },
+      "artists": [
+        {
+          "name": "Noah James",
+          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
+        }
+      ],
+      "duration_ms": 258769,
+      "name": "Love Run Cold",
+      "url": "https://open.spotify.com/track/1E6uCU9deWbhsGRmLivXyi"
+    },
+    {
+      "added_at": "2025-05-04 06:01:42",
+      "album": {
+        "name": "Busch Light Papi",
+        "url": "https://open.spotify.com/album/36wBjXICPxDpPxIEsWIPTy"
+      },
+      "artists": [
+        {
+          "name": "justbrandon",
+          "url": "https://open.spotify.com/artist/7CyqA1buhWVdcfgAVdhGVu"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Busch Light Papi",
+      "url": "https://open.spotify.com/track/5YNxSUnGUHl2Keo7BvQXaS"
+    },
+    {
       "added_at": "2025-05-03 12:06:22",
       "album": {
         "name": "ALONE.",
@@ -2623,126 +2687,6 @@
       "duration_ms": 252866,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/2OAdrGZAJBUZ448fEk2ytL"
-    },
-    {
-      "added_at": "2025-04-23 18:03:15",
-      "album": {
-        "name": "Bad Apple",
-        "url": "https://open.spotify.com/album/7nPEFmFgmWfdFOHdvyM2Mn"
-      },
-      "artists": [
-        {
-          "name": "Aidan Rhys",
-          "url": "https://open.spotify.com/artist/6yopXsmwXQQRnsN6aUwERA"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Bad Apple",
-      "url": "https://open.spotify.com/track/3cn5lX9wwlEQdJL9lDrQ8J"
-    },
-    {
-      "added_at": "2025-04-23 23:24:42",
-      "album": {
-        "name": "Unburdened",
-        "url": "https://open.spotify.com/album/5Qmu4TqwIxzDEPi3wydJ97"
-      },
-      "artists": [
-        {
-          "name": "Steve Maggiora",
-          "url": "https://open.spotify.com/artist/2bcMIMHrZ3PRRf8T9cbyod"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Family Is Forever",
-      "url": "https://open.spotify.com/track/6kZsfwG6V6I3hOs0yq2gag"
-    },
-    {
-      "added_at": "2025-04-23 23:25:50",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/1xNQRRdCmJjrdCkSxcStDV"
-      },
-      "artists": [
-        {
-          "name": "Songs of Solomon",
-          "url": "https://open.spotify.com/artist/7aYhaJ4WASFumNOpfA9Eyy"
-        }
-      ],
-      "duration_ms": 169684,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/7BnbPE2IBecaGxkugX3WsW"
-    },
-    {
-      "added_at": "2025-04-23 23:14:37",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1mueA6AK1eeARqzdTJnPTE"
-      },
-      "artists": [
-        {
-          "name": "Kat Upchurch",
-          "url": "https://open.spotify.com/artist/77UU30Tcd9XjT3Cy4h2vk9"
-        }
-      ],
-      "duration_ms": 225610,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0t6NU3JxHcKFZVM0XeXK5m"
-    },
-    {
-      "added_at": "2025-04-23 18:03:10",
-      "album": {
-        "name": "Slow It Down (with Cruza & Isaiah Falls)",
-        "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
-      },
-      "artists": [
-        {
-          "name": "Joe Kay",
-          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
-        },
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 146594,
-      "name": "Slow It Down (with Cruza & Isaiah Falls)",
-      "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
-    },
-    {
-      "added_at": "2025-04-23 06:11:40",
-      "album": {
-        "name": "W.O.W. (Walk On Water)",
-        "url": "https://open.spotify.com/album/4Tt2zX2wTPHmc78UFFQHjf"
-      },
-      "artists": [
-        {
-          "name": "Lena Byrd-Miles",
-          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "W.O.W. (Walk On Water)",
-      "url": "https://open.spotify.com/track/2XcEGsf2Kw9wvEIYUmKPD2"
-    },
-    {
-      "added_at": "2025-04-23 06:11:26",
-      "album": {
-        "name": "Dph",
-        "url": "https://open.spotify.com/album/1ZCBP6H4P9dv0VZ6tXFrcQ"
-      },
-      "artists": [
-        {
-          "name": "Greazebeats",
-          "url": "https://open.spotify.com/artist/1USccuxj154FZufzl0Hm21"
-        }
-      ],
-      "duration_ms": 185483,
-      "name": "Dph",
-      "url": "https://open.spotify.com/track/6oCpVBLVMGuD8EUT3kbJrA"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

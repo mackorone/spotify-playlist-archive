@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- M.M. Keeravaani",
-  "num_followers": 76898,
+  "num_followers": 76935,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,42 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
+        "name": "Aaqa - Coke Studio Season 9",
+        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 507000,
+      "name": "Aaqa - Coke Studio Season 9",
+      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Gulon Main Rang",
+        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 379881,
+      "name": "Gulon Main Rang",
+      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -407,22 +443,6 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
-        "name": "Gulon Main Rang",
-        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 379881,
-      "name": "Gulon Main Rang",
-      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
         "name": "Text me when you reach",
         "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 91325,
       "name": "Text me when you reach",
       "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
-        "name": "Aaqa - Coke Studio Season 9",
-        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
-      },
-      "artists": [
-        {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
-        },
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 507000,
-      "name": "Aaqa - Coke Studio Season 9",
-      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
     },
     {
       "added_at": "2025-05-01 18:00:22",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "duration_ms": 355441,
+      "name": "Tum Naraz Ho",
+      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
         "name": "Coke Studio Season 10: Episode 7",
         "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 471195,
       "name": "Baanware",
       "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2025-05-01 18:00:22",
@@ -683,22 +715,6 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
         "name": "Between Flowers",
         "url": "https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 183750,
       "name": "BAALMAA",
       "url": "https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        }
-      ],
-      "duration_ms": 355441,
-      "name": "Tum Naraz Ho",
-      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
     },
     {
       "added_at": "2025-05-01 18:00:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
-        "name": "Bewajah",
-        "url": "https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI"
-      },
-      "artists": [
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352334,
-      "name": "Bewajah - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/3EzqUvtr993ok47KHLveON"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
@@ -795,6 +779,42 @@
       "duration_ms": 717190,
       "name": "Rang",
       "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352334,
+      "name": "Bewajah - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3EzqUvtr993ok47KHLveON"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        },
+        {
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
+        }
+      ],
+      "duration_ms": 339226,
+      "name": "Ronay Na Diya",
+      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
     },
     {
       "added_at": "2025-05-01 18:00:22",
@@ -843,6 +863,26 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Waves of India",
+        "url": "https://open.spotify.com/album/35aS938B4MUYiWKBKC3z3r"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Samaaira Chandhoke",
+          "url": "https://open.spotify.com/artist/4dq5i7dV1WOBfZvGW6RO4d"
+        }
+      ],
+      "duration_ms": 278823,
+      "name": "Shubhaarambh",
+      "url": "https://open.spotify.com/track/7iCw3eDIkmcribvB9MsY7N"
     },
     {
       "added_at": "2025-05-01 18:00:22",
@@ -927,26 +967,6 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        },
-        {
-          "name": "Zaw Ali",
-          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
-        }
-      ],
-      "duration_ms": 339226,
-      "name": "Ronay Na Diya",
-      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
         "name": "Dekho Sakhi",
         "url": "https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h"
       },
@@ -1003,46 +1023,6 @@
     {
       "added_at": "2025-05-01 18:00:22",
       "album": {
-        "name": "Waves of India",
-        "url": "https://open.spotify.com/album/35aS938B4MUYiWKBKC3z3r"
-      },
-      "artists": [
-        {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
-        },
-        {
-          "name": "Samaaira Chandhoke",
-          "url": "https://open.spotify.com/artist/4dq5i7dV1WOBfZvGW6RO4d"
-        }
-      ],
-      "duration_ms": 278823,
-      "name": "Shubhaarambh",
-      "url": "https://open.spotify.com/track/7iCw3eDIkmcribvB9MsY7N"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
-        "name": "Between Flowers",
-        "url": "https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB"
-      },
-      "artists": [
-        {
-          "name": "OAFF",
-          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
-        },
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        }
-      ],
-      "duration_ms": 118520,
-      "name": "NEU",
-      "url": "https://open.spotify.com/track/70qRMWQ1bO98R6bE2jwSFf"
-    },
-    {
-      "added_at": "2025-05-01 18:00:22",
-      "album": {
         "name": "Padharo Mhare Des (Folk Fusion)",
         "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 348000,
       "name": "Padharo Mhare Des - Folk Fusion",
       "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+    },
+    {
+      "added_at": "2025-05-01 18:00:22",
+      "album": {
+        "name": "Nadiya Bairi Bhayi",
+        "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Nadiya Bairi Bhayi",
+      "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
     }
   ],
   "unique_name": "Fusion Finds",

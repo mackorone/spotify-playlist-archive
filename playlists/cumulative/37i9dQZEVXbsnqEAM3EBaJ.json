@@ -15070,7 +15070,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
@@ -21810,7 +21810,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 199685,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4mhBl7hPzQjvXGdMGpbUQa"
@@ -22256,6 +22256,28 @@
       "duration_ms": 311362,
       "name": "Jet Boy - 2023 Re-Mastered [Studio Demo]",
       "url": "https://open.spotify.com/track/0rbnkpMM9srEXScCqYsLBf"
+    },
+    {
+      "album": {
+        "name": "Activist",
+        "url": "https://open.spotify.com/album/1vxbDz56Hmt0KcDGKhDmBA"
+      },
+      "artists": [
+        {
+          "name": "SinCityKid",
+          "url": "https://open.spotify.com/artist/51DCCOoJi1RtZRyeOinwqT"
+        },
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109017,
+      "name": "Jetta",
+      "url": "https://open.spotify.com/track/5pLwXM5xr3rXD6B1SNTrnH"
     },
     {
       "album": {
@@ -24973,6 +24995,28 @@
     },
     {
       "album": {
+        "name": "Lunar Requiem",
+        "url": "https://open.spotify.com/album/3od4znekpKlRaa3eGOrQjH"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75337,
+      "name": "Lijan",
+      "url": "https://open.spotify.com/track/7oIqkbNbzKJIHhNNWiy470"
+    },
+    {
+      "album": {
         "name": "Like A Stone (Reimagined)",
         "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
       },
@@ -25002,7 +25046,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 291706,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5"
@@ -25188,7 +25232,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
@@ -26388,7 +26432,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 256226,
       "name": "Lvciferaeon",
       "url": "https://open.spotify.com/track/2j6iypUWoFMCzc0QEp1dkd"
@@ -29016,7 +29060,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 198880,
       "name": "Negative Space",
       "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
@@ -29328,7 +29372,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 184219,
       "name": "Ni Un Segundo M\u00e1s",
       "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
@@ -40670,10 +40714,36 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 297907,
       "name": "Swim North (feat. Trevor Phipps)",
       "url": "https://open.spotify.com/track/4sQlM5or0jJ5UKfb9B8iYH"
+    },
+    {
+      "album": {
+        "name": "With Hell In His Eyes",
+        "url": "https://open.spotify.com/album/3acexfGPaiUiZu1h1G8ZMm"
+      },
+      "artists": [
+        {
+          "name": "Paradise Slaves",
+          "url": "https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm"
+        },
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        },
+        {
+          "name": "Trevor Phipps",
+          "url": "https://open.spotify.com/artist/3njiX96ToxEYIMsuropXS1"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297907,
+      "name": "Swim North (feat. Trevor Phipps)",
+      "url": "https://open.spotify.com/track/5qQe2bNM8owhxv2Et04bIr"
     },
     {
       "album": {
@@ -43856,7 +43926,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 241833,
       "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
       "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
@@ -44584,7 +44654,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 200089,
       "name": "There's No Future In Optimism",
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
@@ -45972,7 +46042,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 232321,
       "name": "Trigger Discipline",
       "url": "https://open.spotify.com/track/3juGcDx9vNMNEPr6QeF5A5"
@@ -46082,7 +46152,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 71000,
       "name": "Trivetz",
       "url": "https://open.spotify.com/track/1rrW3raUipcF1zlAr1rQjL"
@@ -46232,7 +46302,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 211710,
       "name": "Tu Esp\u00edritu",
       "url": "https://open.spotify.com/track/3zByplYcYM8f1UPZfp4DLJ"
@@ -46550,7 +46620,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 157609,
       "name": "Two-Love",
       "url": "https://open.spotify.com/track/1JXg1B7dBondyV2BnekU4Y"
@@ -47878,7 +47948,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 288321,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/2nYVyATpPb7EqGvOJ9YnFj"
@@ -51358,7 +51428,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 458553,
       "name": "\u00c1ngeles Del Barro",
       "url": "https://open.spotify.com/track/2szfQuYfXiIWyq9MHujMWc"

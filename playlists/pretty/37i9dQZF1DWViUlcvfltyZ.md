@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Any Other in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,408 likes - 106 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,401 likes - 106 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

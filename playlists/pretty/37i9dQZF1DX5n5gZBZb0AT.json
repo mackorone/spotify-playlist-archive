@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 917735,
+  "num_followers": 917916,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
-      },
-      "artists": [
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
         "name": "MONTAGEM LADRAO",
         "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 75240,
       "name": "MONTAGEM LADRAO",
       "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "ECOS DO ABISMO",
@@ -339,6 +323,38 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 77923,
       "name": "GANO - Slowed",
       "url": "https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "fragment",
-        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
-      },
-      "artists": [
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 97857,
-      "name": "fragment - slowed",
-      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
+        "name": "Mortals Funk Remix",
+        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        }
+      ],
+      "duration_ms": 146364,
+      "name": "Mortals Funk Remix",
+      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
         "name": "Montagem Totally Strange",
         "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 145351,
       "name": "Montagem Totally Strange",
       "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "Mortals Funk Remix",
-        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Warriyo",
-          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
-        }
-      ],
-      "duration_ms": 146364,
-      "name": "Mortals Funk Remix",
-      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
     },
     {
       "added_at": "2025-03-28 00:00:48",

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,311 songs - 3 day 16 hr 2 min
+2,312 songs - 3 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 | 2022-04-15 | 2022-10-08 |
 | [fight the flab](https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk) | [teen mtnt](https://open.spotify.com/artist/1ALWskzFjZDKZiaBNigjr4) | [fight the flab](https://open.spotify.com/album/1aCURXh2Alk0Uj1Yw39CYY) | 2:19 | 2023-07-13 | 2024-10-30 |
 | [fika](https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [fika](https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq) | 1:44 | 2024-10-11 |  |
-| [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 |  |
+| [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 | 2025-05-05 |
 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 | 2023-02-06 | 2023-09-29 |
 | [find whats lost](https://open.spotify.com/track/2iDjJIo3TsomxvqSNd2k1i) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [find whats lost](https://open.spotify.com/album/0CXb8FVMWwuEcLZuVYTUGm) | 2:08 | 2024-11-08 |  |
 | [Findings](https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Findings](https://open.spotify.com/album/5am6AqmZgScCkMkjWfoGs2) | 2:17 | 2024-01-19 | 2025-01-27 |
@@ -945,7 +945,7 @@
 | [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 | 2025-02-28 |
 | [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 | 2025-03-30 |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2023-02-06 |  |
-| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 |  |
+| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 | 2025-05-05 |
 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 | 2022-07-08 | 2022-12-03 |
 | [I\-65](https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [I\-65](https://open.spotify.com/album/2z8x3yAvj3mnvngPn1xVII) | 2:00 | 2024-06-21 |  |
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-11-12 |
@@ -1574,7 +1574,7 @@
 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-03-22 |  |
 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 | 2023-03-08 |  |
 | [Plant Haze](https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu) | [WFPB](https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM) | [Plant Haze](https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA) | 2:01 | 2022-12-16 |  |
-| [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-09-02 | 2025-05-01 |
+| [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-09-02 |  |
 | [Playdew](https://open.spotify.com/track/6P6iIyHwCCHWC7IsRUV8Mp) | [Picky Vines](https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf) | [Playdew](https://open.spotify.com/album/1mbkGqUxjkGLOf7vEv2Ia5) | 2:21 | 2022-04-15 | 2022-05-27 |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-04-15 | 2022-05-27 |
 | [pLUCKY](https://open.spotify.com/track/2UeMeI3vB8mZn8zegcnljf) | [SeeLegs](https://open.spotify.com/artist/4IjDQjo6pvuwlhx3jWotcp) | [pLUCKY](https://open.spotify.com/album/5JhHOtntNf8S6iAhZ89Jkb) | 3:22 | 2022-04-15 | 2022-07-22 |
@@ -1972,6 +1972,7 @@
 | [Sunset Over the Boardwalk](https://open.spotify.com/track/4brNxJy0JcQYtgnjk33lj1) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Sunset Over the Boardwalk](https://open.spotify.com/album/4eZwnvYBZwqqqMsevU4hQI) | 2:28 | 2025-01-17 |  |
 | [Sunset Together](https://open.spotify.com/track/75mJEftO6ErEtCUvJqQWyr) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Sunset Together](https://open.spotify.com/album/0HC3inL4vY0Ck0lbjOEcNf) | 1:45 | 2024-09-06 |  |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2022-04-15 | 2022-09-02 |
+| [sunsets](https://open.spotify.com/track/6QTqbwdH2cRdYKdYBlgGa1) | [disco robots](https://open.spotify.com/artist/6R3cgq9nqaTLLM2KvAijIN) | [sunsets](https://open.spotify.com/album/27siAV8NCZUjH6rjln0U1B) | 2:11 | 2025-04-25 |  |
 | [sunshine.](https://open.spotify.com/track/7yl5I1XGr8cLd3NbXBcaY4) | [Azukori](https://open.spotify.com/artist/5DRwanve8WNydsqtMtwO3Q), [Beteulan](https://open.spotify.com/artist/2NMzOZnJtj8fTeORPhWyCT), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [evolutions vol\. 1](https://open.spotify.com/album/1pP4xKGVOBN2IQ2NB6e6JK) | 2:08 | 2022-10-28 | 2023-01-20 |
 | [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 | 2022-04-15 | 2023-08-18 |

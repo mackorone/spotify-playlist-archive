@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 32113,
+  "num_followers": 32136,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -159,70 +159,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
-      },
-      "artists": [
-        {
-          "name": "Garifuna Kids",
-          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
-        }
-      ],
-      "duration_ms": 396303,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 401600,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
       },
@@ -239,18 +175,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
       },
       "artists": [
         {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
         }
       ],
-      "duration_ms": 282723,
-      "name": "Punta Silver",
-      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -287,6 +223,38 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
         "name": "Bunabou Live",
         "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
       },
@@ -299,6 +267,70 @@
       "duration_ms": 449201,
       "name": "Bunabou Live - Live",
       "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 401600,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 282723,
+      "name": "Punta Silver",
+      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 308920,
+      "name": "Pobre Marinero",
+      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -335,22 +367,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 308920,
-      "name": "Pobre Marinero",
-      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Metela Sacala",
         "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
       },
@@ -379,38 +395,6 @@
       "duration_ms": 248826,
       "name": "Punta Raton - Remix",
       "url": "https://open.spotify.com/track/7oWeHjwwEdPyZZVSV6koR2"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
-        }
-      ],
-      "duration_ms": 256116,
-      "name": "Por la Playa",
-      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -463,6 +447,22 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
         "name": "Batalla de las Puntas, Vol. 6",
         "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
       },
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Fiesta de Punta USA",
-        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 268560,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
+      "duration_ms": 196676,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 342334,
+      "name": "Puntas Criollas",
+      "url": "https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
         "name": "Punta Gold, Vol. 1",
         "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
       },
@@ -539,6 +555,22 @@
       "duration_ms": 193516,
       "name": "Carolina (Club Mix)",
       "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Fiesta de Punta USA",
+        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -559,38 +591,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 3",
-        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 342334,
-      "name": "Puntas Criollas",
-      "url": "https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Mete y Saca",
         "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 113475,
-      "name": "Vamos Vamos Todos Con la Seleccion",
-      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+      "duration_ms": 232724,
+      "name": "Biamaangui",
+      "url": "https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9"
     },
     {
       "added_at": "2024-07-12 22:32:28",

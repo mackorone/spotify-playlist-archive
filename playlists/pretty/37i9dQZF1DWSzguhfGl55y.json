@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 647072,
+  "num_followers": 647124,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
-        "name": "Stadtaffe",
-        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Schwarz zu blau",
-      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Die John Bello Story, Vol. 3",
-        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Rhythmus meines Lebens",
-      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
         "name": "Palmen aus Plastik",
         "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN"
       },
@@ -191,18 +159,34 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+        "name": "Die John Bello Story, Vol. 3",
+        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
+      "duration_ms": 196946,
+      "name": "Rhythmus meines Lebens",
+      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Stadtaffe",
+        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Schwarz zu blau",
+      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -263,6 +247,22 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
         "name": "Urlaub f\u00fcrs Gehirn",
         "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
       },
@@ -379,6 +395,82 @@
       "duration_ms": 241973,
       "name": "Urlaub f\u00fcrs Gehirn",
       "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Joshi Mizu",
+          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "Ol\u00e9 Ol\u00e9",
+      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Up2Date XXL",
+        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Poesie Album",
+      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -410,103 +502,15 @@
         {
           "name": "Beginner",
           "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
-      },
-      "artists": [
+        },
         {
           "name": "Samy Deluxe",
           "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Joshi Mizu",
-          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "Ol\u00e9 Ol\u00e9",
-      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -531,26 +535,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Carlo Cokxxx Nutten II (Saad)",
-        "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Saad",
-          "url": "https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e"
-        }
-      ],
-      "duration_ms": 242360,
-      "name": "Nie ein Rapper",
-      "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -582,39 +566,11 @@
         {
           "name": "K.I.Z",
           "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        },
-        {
-          "name": "Drama Kuba",
-          "url": "https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG"
-        },
-        {
-          "name": "Cannibal Rob",
-          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Neuruppin",
-      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -631,22 +587,6 @@
       "duration_ms": 231800,
       "name": "Traumreise",
       "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Hinterland",
-      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -675,6 +615,58 @@
       "duration_ms": 366133,
       "name": "A-N-N-A",
       "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Carlo Cokxxx Nutten II (Saad)",
+        "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Saad",
+          "url": "https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e"
+        }
+      ],
+      "duration_ms": 242360,
+      "name": "Nie ein Rapper",
+      "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Hinterland",
+      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -735,6 +727,30 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        },
+        {
+          "name": "Drama Kuba",
+          "url": "https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG"
+        },
+        {
+          "name": "Cannibal Rob",
+          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Neuruppin",
+      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 225173,
       "name": "...Hab' geh\u00f6rt...",
       "url": "https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
+        "name": "Blast Action Heroes",
+        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Gustav Gans",
+      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -787,22 +819,6 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
         "name": "Ich bin jung und brauche das Geld",
         "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 266573,
       "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
       "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Das Urteil",
-      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
     },
     {
       "added_at": "2025-04-24 11:56:03",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Das Urteil",
+      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
+    },
+    {
+      "added_at": "2025-04-24 11:56:03",
+      "album": {
         "name": "Deluxe Records - Let's Go",
         "url": "https://open.spotify.com/album/64hi8ncvzVl16X6b5QG2Ff"
       },
@@ -887,34 +903,18 @@
     {
       "added_at": "2025-04-24 11:56:03",
       "album": {
-        "name": "Blast Action Heroes",
-        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
+        "name": "#Beste",
+        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Gustav Gans",
-      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
-    },
-    {
-      "added_at": "2025-04-24 11:56:03",
-      "album": {
-        "name": "Deluxe Soundsystem",
-        "url": "https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL"
-      },
-      "artists": [
-        {
-          "name": "Dynamite Deluxe",
-          "url": "https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "Ladies & Gentlemen",
-      "url": "https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr"
+      "duration_ms": 250680,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

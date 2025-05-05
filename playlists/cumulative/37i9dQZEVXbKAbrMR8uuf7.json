@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/4Y1OvQ9jpPqjXSWTcGZldP"
+      },
+      "artists": [
+        {
+          "name": "Venno",
+          "url": "https://open.spotify.com/artist/5fOKkqvcClPZKgw4zJgw7c"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147326,
+      "name": "Bajo La Luna",
+      "url": "https://open.spotify.com/track/4S7Nj8IBzsT0vjI8seUwjg"
+    },
+    {
+      "album": {
         "name": "Bajo Mundo",
         "url": "https://open.spotify.com/album/5ndn0oBqrG6iZhzF3HJ6WY"
       },
@@ -12118,7 +12136,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 186212,
       "name": "FANTAS\u00cdA",
       "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
@@ -17324,7 +17342,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 270638,
       "name": "La Patrulla",
       "url": "https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA"
@@ -19332,7 +19350,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -22544,7 +22562,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 188930,
       "name": "morena",
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
@@ -27596,7 +27614,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 164794,
       "name": "Pr\u00e9stame",
       "url": "https://open.spotify.com/track/6u3u92DhUeTXr3zomJyfjL"
@@ -30762,7 +30780,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 194062,
       "name": "secuestro",
       "url": "https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw"
@@ -34082,6 +34100,28 @@
       "duration_ms": 196022,
       "name": "Tenerte",
       "url": "https://open.spotify.com/track/79U2fS41tzUFSdnAb9MhAk"
+    },
+    {
+      "album": {
+        "name": "Tengo Deseo",
+        "url": "https://open.spotify.com/album/1OCSOgjvUgF6Ai9kR2f3cG"
+      },
+      "artists": [
+        {
+          "name": "Unik0",
+          "url": "https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c"
+        },
+        {
+          "name": "La Yumi Rd",
+          "url": "https://open.spotify.com/artist/78yTMwVxgBhdCrEoP733k4"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152841,
+      "name": "Tengo Deseo",
+      "url": "https://open.spotify.com/track/30gdfpJCK63a7BG9MeqnDQ"
     },
     {
       "album": {
@@ -37644,7 +37684,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
@@ -38244,7 +38284,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 270426,
       "name": "Y No Voy a Llorar",
       "url": "https://open.spotify.com/track/7FR264nhGbLqFleEIM0HGc"

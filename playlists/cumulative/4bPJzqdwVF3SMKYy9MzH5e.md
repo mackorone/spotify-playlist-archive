@@ -4,7 +4,7 @@
 
 > 
 
-2,151 songs - 4 day 19 hr 33 min
+2,153 songs - 4 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Bitchboy](https://open.spotify.com/track/4c2S2MELHhh3nspK1Rmef7) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/1dLzdrQ9uVcUqv6PMHNQ9z) | 1:47 | 2022-02-04 |  |
 | [Bitches](https://open.spotify.com/track/7wwLxmUVLCfySaJ0fdyelI) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Frankenstein Girls Will Seem Strangely Sexy](https://open.spotify.com/album/4Ii2BtJDsrOXL8EkrLvzAm) | 2:45 | 2021-08-05 |  |
 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 | 2021-08-05 |  |
+| [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 | 2025-05-05 |  |
 | [Bite Your Teeth](https://open.spotify.com/track/41hXrd90DAopizgFpqI2mY) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 2:42 | 2021-08-05 |  |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-09-27 |  |
 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 | 2021-08-05 |  |
@@ -371,6 +372,7 @@
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/5MsFZK0d5v1baCwRke86GB) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/57KFwKnC0ZjaIQGnhE7ops) | 4:59 | 2021-11-30 |  |
 | [Change \(In The House Of Flies\) \- Tourist Remix](https://open.spotify.com/track/4pkzHLMGqci0b1GZ9opUvj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [White Pony \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/57KFwKnC0ZjaIQGnhE7ops) | 5:02 | 2022-08-02 |  |
 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 | 2024-12-13 |  |
+| [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Amnesty \(I\)](https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU) | 3:08 | 2025-05-05 |  |
 | [Charlie's Inferno](https://open.spotify.com/track/1ONC00cKNdFgKiATMtcxEc) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, the Head Goes to Hell](https://open.spotify.com/album/19nAM8YpXFtHaAT9ZfTha4) | 3:44 | 2022-07-23 |  |
 | [Cheap Vodka](https://open.spotify.com/track/1bwsm58CrY1xbTKqpau4NA) | [Acid Bath](https://open.spotify.com/artist/3n5jeTRWZEbTPJWyHSYUqn) | [When the Kite String Pops](https://open.spotify.com/album/7GFYpb7GvKZZcPTze1uAp8) | 2:14 | 2022-06-02 |  |
 | [Cheat Codez](https://open.spotify.com/track/1c4vsfJtxS3VnIB8xEfEU3) | [DEAD RAT CVLT](https://open.spotify.com/artist/3dYxCUin6eEt0qjfgEP6Xq) | [Cheat Codez](https://open.spotify.com/album/4NjrtjSLyzGWBBtjEtawUJ) | 2:50 | 2022-02-04 |  |

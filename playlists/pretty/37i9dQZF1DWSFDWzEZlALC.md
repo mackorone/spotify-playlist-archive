@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Elias, ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,293 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,417 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heimweh \(mit ENNIO\)](https://open.spotify.com/track/3Vza3OooLHGSIlc51d2Ivm) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Heimweh \(mit ENNIO\)](https://open.spotify.com/album/7v83LwftJtcrD2lETvGRPy) | 3:28 |
-| 2 | [Tut es noch weh](https://open.spotify.com/track/56j9kV2a2O8xXyMfpeySKe) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [Ich liebe dich für immer](https://open.spotify.com/album/2CncrH725HIGt6h665DTQi) | 2:47 |
-| 3 | [pillen](https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [pillen](https://open.spotify.com/album/4qLIlG4qoGzAqnxdCLd9RX) | 3:07 |
-| 4 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 |
+| 2 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 |
+| 3 | [Tut es noch weh](https://open.spotify.com/track/56j9kV2a2O8xXyMfpeySKe) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [Ich liebe dich für immer](https://open.spotify.com/album/2CncrH725HIGt6h665DTQi) | 2:47 |
+| 4 | [verlieren](https://open.spotify.com/track/7y4PRDeSwAwl3pnuZ51Mvm) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [kein plan, aber davon ne ganze menge](https://open.spotify.com/album/2ozIgj0HCtoAXdH0lBdcW1) | 2:08 |
 | 5 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
 | 6 | [Tanktop in weiß](https://open.spotify.com/track/1QO6A6YsufugovuDMGnJPf) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Tanktop in weiß](https://open.spotify.com/album/1buE1NXVYqsOhf7tHivWqT) | 2:48 |
-| 7 | [Atlantis](https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Atlantis](https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1) | 1:50 |
-| 8 | [verlieren](https://open.spotify.com/track/7y4PRDeSwAwl3pnuZ51Mvm) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [kein plan, aber davon ne ganze menge](https://open.spotify.com/album/2ozIgj0HCtoAXdH0lBdcW1) | 2:08 |
-| 9 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
-| 10 | [Bürgermeister von Altona](https://open.spotify.com/track/4xkRGsnjs6q8CFWVZDI3Yy) | [diamando](https://open.spotify.com/artist/3cz29L4q7oud1GnAccNTWk), [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T), [DeeLou](https://open.spotify.com/artist/0PKd9ULK3JUpTTB62AhZP7) | [Bürgermeister von Altona](https://open.spotify.com/album/2IcdHPQ5wEMqtjwnkhjMg1) | 2:18 |
-| 11 | [Verliebt](https://open.spotify.com/track/1zXKNXhMs4D9ESWx0sok6W) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [Verliebt](https://open.spotify.com/album/2wTNz8rJ8IVufjrd8SCofo) | 2:15 |
+| 7 | [pillen](https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [pillen](https://open.spotify.com/album/4qLIlG4qoGzAqnxdCLd9RX) | 3:07 |
+| 8 | [Bürgermeister von Altona](https://open.spotify.com/track/4xkRGsnjs6q8CFWVZDI3Yy) | [diamando](https://open.spotify.com/artist/3cz29L4q7oud1GnAccNTWk), [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T), [DeeLou](https://open.spotify.com/artist/0PKd9ULK3JUpTTB62AhZP7) | [Bürgermeister von Altona](https://open.spotify.com/album/2IcdHPQ5wEMqtjwnkhjMg1) | 2:18 |
+| 9 | [Verliebt](https://open.spotify.com/track/1zXKNXhMs4D9ESWx0sok6W) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [Verliebt](https://open.spotify.com/album/2wTNz8rJ8IVufjrd8SCofo) | 2:15 |
+| 10 | [Atlantis](https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Atlantis](https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1) | 1:50 |
+| 11 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
 | 12 | [Unterwegs](https://open.spotify.com/track/40jJzV9jbjOBffMaSNeWXT) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Unterwegs](https://open.spotify.com/album/6XlZr5BuPXtawE2KIZ89Up) | 2:30 |
 | 13 | [Wunder gibt es immer wieder \- Spotify Singles](https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Wunder gibt es immer wieder \(Spotify Singles\)](https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH) | 2:41 |
 | 14 | [von dir geträumt](https://open.spotify.com/track/7xHcOAeui7OO0JF2gZH5zN) | [Liebestrunken](https://open.spotify.com/artist/3gvRLEBCD3TSdqvHNScTTY) | [von dir geträumt](https://open.spotify.com/album/1zZ41BZ4lVL09jVLVvY2mA) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Blumen aus Metall](https://open.spotify.com/track/67fg0iyO7n7neiV2zj8qJZ) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Blumen aus Metall](https://open.spotify.com/album/5ruFbp1f7HBCdxHD8U0is2) | 3:26 |
 | 75 | [Keine Zeit/Selbstmitleid](https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Keine Zeit/Selbstmitleid](https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp) | 2:51 |
 
-Snapshot ID: `aBSF8gAAAACbf0cPYl/4Dk9s6bGzRAsm`
+Snapshot ID: `aBczSgAAAAAH2nZpIZ8lkxTSPFqVVD2b`

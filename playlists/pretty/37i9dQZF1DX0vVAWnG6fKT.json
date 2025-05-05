@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 147532,
+  "num_followers": 147534,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -203,38 +203,6 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -251,22 +219,6 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Can The Circle Be Unbroken: Country Music's First Family",
-        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
-      },
-      "artists": [
-        {
-          "name": "The Carter Family",
-          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Can the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
@@ -279,6 +231,38 @@
       "duration_ms": 168160,
       "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
       "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Can The Circle Be Unbroken: Country Music's First Family",
+        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
+      },
+      "artists": [
+        {
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Can the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -311,6 +295,22 @@
       "duration_ms": 196293,
       "name": "Old Shep",
       "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
-      },
-      "artists": [
-        {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
-        }
-      ],
-      "duration_ms": 129133,
-      "name": "Cool Water",
-      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 148733,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+        }
+      ],
+      "duration_ms": 129133,
+      "name": "Cool Water",
+      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -703,34 +687,18 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
       },
       "artists": [
         {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 167826,
-      "name": "Take an Old Cold 'Tater (and Wait)",
-      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -783,6 +751,38 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Take an Old Cold 'Tater (and Wait)",
+      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -831,82 +831,18 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 171466,
-      "name": "Heavy Traffic Ahead",
-      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
-      },
-      "artists": [
-        {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "You Two-Timed Me One Time Too Often",
-      "url": "https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "The Legend of Merle Travis",
-        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Steel Guitar Rag",
-      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+      "duration_ms": 128199,
+      "name": "My Window Faces the South",
+      "url": "https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -927,18 +863,82 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
         }
       ],
-      "duration_ms": 128199,
-      "name": "My Window Faces the South",
-      "url": "https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1"
+      "duration_ms": 171466,
+      "name": "Heavy Traffic Ahead",
+      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+      },
+      "artists": [
+        {
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "You Two-Timed Me One Time Too Often",
+      "url": "https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "The Legend of Merle Travis",
+        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Steel Guitar Rag",
+      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
-        "name": "Pistol Packin' Mama - The Best of Al Dexter",
-        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
         "name": "Country Hoedown",
         "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176573,
       "name": "Slowpoke",
       "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
     },
     {
       "added_at": "2025-02-18 00:33:48",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-02-18 00:33:48",
       "album": {
+        "name": "Pistol Packin' Mama - The Best of Al Dexter",
+        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+    },
+    {
+      "added_at": "2025-02-18 00:33:48",
+      "album": {
         "name": "Retrospective: Volume 2",
         "url": "https://open.spotify.com/album/47ymTrwffavz5onalcmEP9"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a"
-    },
-    {
-      "added_at": "2025-02-18 00:33:48",
-      "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 98066,
-      "name": "Headin' Down The Wrong Highway",
-      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
     },
     {
       "added_at": "2025-02-18 00:33:48",

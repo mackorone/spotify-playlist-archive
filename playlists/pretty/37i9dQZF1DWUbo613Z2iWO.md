@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Xavier Omär
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,993 likes - 194 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,010 likes - 194 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

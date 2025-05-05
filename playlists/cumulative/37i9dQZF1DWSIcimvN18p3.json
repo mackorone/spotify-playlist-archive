@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Around",
+        "url": "https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Faeries",
+      "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
+    },
+    {
+      "album": {
         "name": "Bloodless",
         "url": "https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h"
       },
@@ -7640,7 +7658,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 336333,
       "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
       "url": "https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp"

@@ -2,9 +2,9 @@
 
 ### [スローバックTHURSDAY: 1998年のヒット曲](https://open.spotify.com/playlist/37i9dQZF1DX5xQj9GaDkMP)
 
-> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
+> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: KinKi Kids ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-125 songs - 10 hr 13 min
+126 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [つつみ込むように･･･](https://open.spotify.com/track/2YMbBShmkH9LvW3hKztcVZ) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [つつみ込むように・・・](https://open.spotify.com/album/64UxqPFvBs10eOq73xwdtp) | 5:50 | 2023-07-22 |  |
 | [めざせポケモンマスター](https://open.spotify.com/track/5rguyGUoFOAXp8aSEeZBX3) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:11 | 2023-07-22 |  |
 | [カムフラージュ](https://open.spotify.com/track/0X4jJ9FgGykuDw0N80aRl7) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU) | 5:28 | 2023-07-22 |  |
+| [ジェットコースター・ロマンス](https://open.spotify.com/track/0VG2JPyNoETeWO6uWtCIJ3) | [KinKi Kids](https://open.spotify.com/artist/5ki9pRkPNIXLjuiqG1Jh84) | [ジェットコースター・ロマンス](https://open.spotify.com/album/7lGFYSt170Kz3BVW4F6E80) | 4:56 | 2025-05-04 |  |
 | [ニシエヒガシエ](https://open.spotify.com/track/0RmvPXNNGtY1X3oIZ6JD4p) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/3lgWNR4z50snPMpUQinTTm) | 4:57 | 2023-07-22 |  |
 | [ニシエヒガシエ](https://open.spotify.com/track/5OYXO1TNKpxBeIQxGcY8lE) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/0Flc2u2vyWHvk1BGpyviPN) | 4:57 | 2023-07-22 | 2024-04-19 |
 | [ロマンス \- 20th Ver.](https://open.spotify.com/track/2q6lq5ak9xc2Cbwto8sHN3) | [PENICILLIN](https://open.spotify.com/artist/7JMKZglYmjZYT9hi7K6weT) | [20th Anniversary Fan Selection Best DRAGON HEARTS](https://open.spotify.com/album/6MeQbJHVjxuTfee3BzyAQx) | 4:57 | 2023-07-22 |  |

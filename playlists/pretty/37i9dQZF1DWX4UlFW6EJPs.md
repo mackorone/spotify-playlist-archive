@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,520 likes - 92 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,821 likes - 92 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Through the Valley](https://open.spotify.com/track/7fy6O1FnOQb4rKRFX9DbLy) | [Ashley Johnson](https://open.spotify.com/artist/4Th8ot6JTBxri6CBIkHCAU), [Chris Rondinella](https://open.spotify.com/artist/6FnsD5PJTFEnFKYhMQEXLQ) | [The Last of Us Part II: Covers and Rarities](https://open.spotify.com/album/2SOJkkY1edgKG56QAGXerh) | 3:13 |
-| 2 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
-| 3 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 |
-| 4 | [Ecstasy](https://open.spotify.com/track/2V9p00deRkvclpg7A7FWaz) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 6:13 |
-| 5 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
-| 6 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
-| 7 | [I Got You Babe](https://open.spotify.com/track/228jEjW3dgYStlF1JrZfdq) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama: The Complete Muscle Shoals Sessions \(Remastered\)](https://open.spotify.com/album/3bPHCNCuSbUMVvjopQjmJG) | 2:28 |
-| 8 | [All or None](https://open.spotify.com/track/4o7SYOv7mNJAPe0tsxgbHc) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 4:37 |
-| 9 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
+| 1 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
+| 2 | [Through the Valley](https://open.spotify.com/track/7fy6O1FnOQb4rKRFX9DbLy) | [Ashley Johnson](https://open.spotify.com/artist/4Th8ot6JTBxri6CBIkHCAU), [Chris Rondinella](https://open.spotify.com/artist/6FnsD5PJTFEnFKYhMQEXLQ) | [The Last of Us Part II: Covers and Rarities](https://open.spotify.com/album/2SOJkkY1edgKG56QAGXerh) | 3:13 |
+| 3 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
+| 4 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 |
+| 5 | [Ecstasy](https://open.spotify.com/track/2V9p00deRkvclpg7A7FWaz) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 6:13 |
+| 6 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
+| 7 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
+| 8 | [I Got You Babe](https://open.spotify.com/track/228jEjW3dgYStlF1JrZfdq) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama: The Complete Muscle Shoals Sessions \(Remastered\)](https://open.spotify.com/album/3bPHCNCuSbUMVvjopQjmJG) | 2:28 |
+| 9 | [All or None](https://open.spotify.com/track/4o7SYOv7mNJAPe0tsxgbHc) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 4:37 |
 | 10 | [Just Like Heaven](https://open.spotify.com/track/4UzXNnMuJxEwbq7fUltTBY) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Cure](https://open.spotify.com/album/4g8z4lndGfNGx4IVyxLjJ7) | 4:17 |
 | 11 | [Prologue \- The Battlefield \- 2021 Remaster](https://open.spotify.com/track/2DtxE4vJtQ6HvW57S9CVfQ) | [Dan Forden](https://open.spotify.com/artist/650dcrtZlVexenaiXxgUU9) | [Mortal Kombat II \(Soundtrack from the Arcade Game\) \[2021 Remaster\]](https://open.spotify.com/album/1U6jxhrx8qG9rvt9n0St6V) | 2:28 |
 | 12 | [The Dead Pool \- 2021 Remaster](https://open.spotify.com/track/0zxbHcfh7VHaXH3TYbK1nZ) | [Dan Forden](https://open.spotify.com/artist/650dcrtZlVexenaiXxgUU9) | [Mortal Kombat II \(Soundtrack from the Arcade Game\) \[2021 Remaster\]](https://open.spotify.com/album/1U6jxhrx8qG9rvt9n0St6V) | 1:43 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 | 91 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 |
 | 92 | [The Path](https://open.spotify.com/track/5pSsTNmq2WKFqa93HI2Ztb) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:40 |
 
-Snapshot ID: `aAWYpQAAAADV7r8R92ZoyTl9mRLFb+IL`
+Snapshot ID: `aBgNnwAAAACN54Tt9JCfiDGe/M73tc7i`

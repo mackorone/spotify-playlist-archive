@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "TT2",
+        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221350,
+      "name": "Aldebaran (feat. Vinni)",
+      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
+    },
+    {
+      "album": {
         "name": "FLUS (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63"
       },
@@ -4478,7 +4500,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 163702,
       "name": "Over mitt lik (feat. Molly Hammar)",
       "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
@@ -4724,7 +4746,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 184583,
       "name": "Put 'Em Up",
       "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
@@ -6132,7 +6154,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 221780,
       "name": "Venner & Fiender",
       "url": "https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ángela Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,196 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,245 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 41 | [POR CALIENTE](https://open.spotify.com/track/3pOwSXcIh0qNqBaDI5BsLm) | [Hijos De Leyva](https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe) | [POR CALIENTE](https://open.spotify.com/album/1n2yChjWRGnoplDL4pI0fB) | 3:09 |
 | 42 | [Así Es En México](https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Así Es En México](https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ) | 3:12 |
 | 43 | [Escorpion](https://open.spotify.com/track/5yf5ntnu868ZSezmoksPkm) | [La Nueva Fortaleza](https://open.spotify.com/artist/6HTv9bnrNYD277uCcUqdve), [Eminente](https://open.spotify.com/artist/5BEd0FTdSuSQhEBOOcWvf4) | [Escorpion](https://open.spotify.com/album/1hzP34HN2AAT7JZbQqotll) | 2:49 |
-| 44 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/4rzRnLy0OniLRyTfMpeUJj) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Max Peraza En Vivo Desde Maza](https://open.spotify.com/album/6Iu5ZYnZ6DpxGQrKU8eX6r) | 3:11 |
+| 44 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/4rzRnLy0OniLRyTfMpeUJj) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Max Peraza En Vivo Desde Maza](https://open.spotify.com/album/6Iu5ZYnZ6DpxGQrKU8eX6r) | 3:10 |
 | 45 | [No Supe Olvidarte](https://open.spotify.com/track/7lLzAPBxNmQLvrvZ5pk8Ag) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [No Supe Olvidarte](https://open.spotify.com/album/4O2kXqbAqltWOCoKw1t9ot) | 3:03 |
 | 46 | [Julieta](https://open.spotify.com/track/5D3SVU5eWLfZewrXJKIECQ) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Julieta](https://open.spotify.com/album/4cB12jciisijHtDKiCz1Wh) | 2:44 |
 | 47 | [Ya Se La Saben](https://open.spotify.com/track/7eSPTdBJwyHr5OHZa8Olto) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik) | [Ya Se La Saben](https://open.spotify.com/album/0bIoUQlalI5yHq6zGOHBJQ) | 2:18 |

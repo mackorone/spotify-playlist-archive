@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 262000,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/3cn5lX9wwlEQdJL9lDrQ8J"
@@ -11804,7 +11804,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 183947,
       "name": "Busch Light Papi",
       "url": "https://open.spotify.com/track/5YNxSUnGUHl2Keo7BvQXaS"
@@ -11894,7 +11894,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 248933,
       "name": "Buy Yourself a Dream",
       "url": "https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG"
@@ -14256,7 +14256,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 225610,
       "name": "Change",
       "url": "https://open.spotify.com/track/0t6NU3JxHcKFZVM0XeXK5m"
@@ -22152,7 +22152,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 185483,
       "name": "Dph",
       "url": "https://open.spotify.com/track/6oCpVBLVMGuD8EUT3kbJrA"
@@ -25838,7 +25838,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 148720,
       "name": "Family Is Forever",
       "url": "https://open.spotify.com/track/6kZsfwG6V6I3hOs0yq2gag"
@@ -27466,7 +27466,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 169684,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/7BnbPE2IBecaGxkugX3WsW"
@@ -44121,6 +44121,24 @@
     },
     {
       "album": {
+        "name": "last flight",
+        "url": "https://open.spotify.com/album/2LTXabqVUdbhmARwCv5HdK"
+      },
+      "artists": [
+        {
+          "name": "Lainey Dionne",
+          "url": "https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221920,
+      "name": "last flight",
+      "url": "https://open.spotify.com/track/3iNAY1Ji7cJ3diWgMQrNeJ"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -56070,6 +56088,24 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "album": {
+        "name": "Love Wins",
+        "url": "https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229299,
+      "name": "No Stoppin' This Train",
+      "url": "https://open.spotify.com/track/55lrjPDHBVfKUD5ipPzWCy"
     },
     {
       "album": {
@@ -71044,7 +71080,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 146594,
       "name": "Slow It Down (with Cruza & Isaiah Falls)",
       "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
@@ -85480,7 +85516,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 232500,
       "name": "W.O.W. (Walk On Water)",
       "url": "https://open.spotify.com/track/2XcEGsf2Kw9wvEIYUmKPD2"

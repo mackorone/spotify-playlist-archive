@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23266,
+  "num_followers": 23268,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Ocean Views",
-      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -387,26 +371,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Just For Me (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 217394,
-      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
-      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 203588,
       "name": "RISE! (feat. DAISY WORLD)",
       "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Ocean Views",
+      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Just For Me (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
+      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275162,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Plead The .45th",
         "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "no sense",
-        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
+        "name": "Action Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Chocolate Milk",
+          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
         }
       ],
-      "duration_ms": 170765,
-      "name": "no sense",
-      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
+      "duration_ms": 211186,
+      "name": "Action Speaks Louder Than Words",
+      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Action Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
+        "name": "no sense",
+        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
       },
       "artists": [
         {
-          "name": "Chocolate Milk",
-          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 211186,
-      "name": "Action Speaks Louder Than Words",
-      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
+      "duration_ms": 170765,
+      "name": "no sense",
+      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
     }
   ],
   "unique_name": "Archie Davis' Taste",

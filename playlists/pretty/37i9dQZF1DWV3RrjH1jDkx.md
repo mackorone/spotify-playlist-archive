@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra UNDERGRUNN, Kygo & Victoria Nadine, AURORA og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,400 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,406 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 60 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 |
 | 61 | [Freaking You Out](https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Freaking You Out](https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3) | 3:02 |
 | 62 | [Si meg](https://open.spotify.com/track/5Vtlj101MH3diZdmhf9uCz) | [Doni Mula](https://open.spotify.com/artist/3fyfsTvQF9YE5lfRQFbVDf) | [Si meg](https://open.spotify.com/album/4RInkuspmR7WAXeozm89ji) | 2:42 |
-| 63 | [du vil aldri se det\. \(feat\. Hkeem\)](https://open.spotify.com/track/5owNXa6RQGOKGmGAhpFr0U) | [Primz](https://open.spotify.com/artist/60nYLk8UsZl3dXCCkMELOE), [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [du vil aldri se det\. \(feat\. Hkeem\)](https://open.spotify.com/album/1jolwPh6tDLboSAMZurudj) | 2:30 |
+| 63 | [du vil aldri se det.](https://open.spotify.com/track/5owNXa6RQGOKGmGAhpFr0U) | [Primz](https://open.spotify.com/artist/60nYLk8UsZl3dXCCkMELOE), [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [du vil aldri se det.](https://open.spotify.com/album/1jolwPh6tDLboSAMZurudj) | 2:30 |
 | 64 | [Så lenge det fins håp](https://open.spotify.com/track/4O4L1DOcQBWsDyxP6CjzZx) | [Frode Alnæs](https://open.spotify.com/artist/10KsOu0AxDLBloCXOeir2P) | [Så lenge det fins håp](https://open.spotify.com/album/6oK8ctNUzJ8bcmfXj9nolN) | 3:43 |
 | 65 | [Make It Better](https://open.spotify.com/track/6EXcBGbA9M0Q2WhMCept69) | [Sūn Byrd](https://open.spotify.com/artist/32PUtLgz3SzD5Ihjdxoa6r) | [Make It Better](https://open.spotify.com/album/4XidQXQMfbXWjXv5B0D3Vm) | 3:55 |
 | 66 | [Helt normalt](https://open.spotify.com/track/3Fuqj28E5fQdQIGUpIFxVi) | [Daniel Owen](https://open.spotify.com/artist/2MhO4JuaAkNwVAMRK0kq8e) | [Helt normalt](https://open.spotify.com/album/5p4y8ygbQWOTgCCDGRoErz) | 2:51 |

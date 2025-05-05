@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Lucky Brown & Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,843 likes - 107 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,821 likes - 107 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

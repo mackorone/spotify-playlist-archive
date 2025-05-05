@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,819 likes - 198 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,843 likes - 198 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

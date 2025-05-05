@@ -3793,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/0eG98O2NBz98XgKFWZpMpQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246517,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/5ZS0LsKEK3AuvnX0Q5w5Mh"
+    },
+    {
+      "album": {
         "name": "JAPANESE STREAM HARDCORE VOL.7",
         "url": "https://open.spotify.com/album/1leIzjC3IG0jIxQlGC3W1e"
       },

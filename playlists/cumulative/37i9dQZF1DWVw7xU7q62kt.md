@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-498 songs - 23 hr 6 min
+499 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Lament](https://open.spotify.com/track/1RGNKh9SaJr6UNXiUe33UM) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Blue Turn](https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km) | 2:48 | 2023-10-13 | 2024-12-06 |
 | [Laminar](https://open.spotify.com/track/11WO4NEL8X56PGQi0F2LqD) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Laminar](https://open.spotify.com/album/2IpmiuingrjKA53aL03GE5) | 1:48 | 2024-11-22 | 2025-04-21 |
 | [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2023-08-22 | 2024-09-13 |
-| [Lark](https://open.spotify.com/track/2ROtdh14YltIbcT42rHuZm) | [Matt Paull](https://open.spotify.com/artist/19pBPYYL9OPlpamPuKZojI) | [Lark](https://open.spotify.com/album/0ioS07TfyPOKOdxqeW9cyj) | 2:18 | 2025-04-11 |  |
+| [Lark](https://open.spotify.com/track/2ROtdh14YltIbcT42rHuZm) | [Matt Paull](https://open.spotify.com/artist/19pBPYYL9OPlpamPuKZojI) | [Lark](https://open.spotify.com/album/0ioS07TfyPOKOdxqeW9cyj) | 2:18 | 2025-04-11 | 2025-05-05 |
 | [Late Night Vibes](https://open.spotify.com/track/67Y0o1RFXaLYN7XLiN2onZ) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Late Night Vibes](https://open.spotify.com/album/2bDCbDHxEJ6OnNyAUcKTHV) | 2:35 | 2025-04-18 |  |
 | [Le club](https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Le club](https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz) | 3:10 | 2023-08-22 | 2025-04-12 |
 | [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-08-30 |  |
@@ -452,6 +452,7 @@
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 | 2024-09-01 |
 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 | 2024-12-14 |
 | [The Portal](https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [The Portal](https://open.spotify.com/album/7tXAy7j7gTTOkvChmnplAt) | 2:34 | 2024-08-23 | 2024-10-05 |
+| [The Rain](https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Shoganai](https://open.spotify.com/artist/2ye57fswWGmqTjYVUNxH9X) | [The Rain](https://open.spotify.com/album/7DPQ8dSpEogHEaTNpmwarp) | 3:10 | 2025-05-02 |  |
 | [The Road Ends Here](https://open.spotify.com/track/1YAFhTLsFCBrOTxm2kIrje) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [The Road Ends Here](https://open.spotify.com/album/0ycy8md7dKU4mmETlUmcVL) | 2:14 | 2025-04-11 |  |
 | [The Sunrise Fool](https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Sunrise Fool](https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6) | 2:54 | 2024-10-25 | 2024-11-16 |
 | [The Winds Of Change](https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [The Winds Of Change](https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi) | 2:42 | 2024-12-13 |  |

@@ -378,7 +378,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 117830,
       "name": "1000 SCHRITTE - Slowed",
       "url": "https://open.spotify.com/track/1oflsLRC2ABnEreNYtXL2C"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 153417,
       "name": "100K",
       "url": "https://open.spotify.com/track/7eG0GWinCxj5w1SA7MRXxQ"
@@ -12285,6 +12285,28 @@
     },
     {
       "album": {
+        "name": "DAS IST DIE REGEL HIER",
+        "url": "https://open.spotify.com/album/3TMO7ZjpI6p1giLElQ76Uk"
+      },
+      "artists": [
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        },
+        {
+          "name": "DJ HARDWICK",
+          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76838,
+      "name": "DAS IST DIE REGEL HIER - Slowed",
+      "url": "https://open.spotify.com/track/1P3yg4GA1lltDZlmtcDFEF"
+    },
+    {
+      "album": {
         "name": "DOBA LEDOV\u00c1",
         "url": "https://open.spotify.com/album/1jyZd1GgCmz0AEIn4o9pIy"
       },
@@ -19534,7 +19556,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 176842,
       "name": "Ghetto Breeze",
       "url": "https://open.spotify.com/track/4S5G6C9lu7Ce6BpyeHV1Dj"
@@ -27070,7 +27092,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 137599,
       "name": "KAD JA UMREM DRAGA",
       "url": "https://open.spotify.com/track/432d9CK8yaTlqFkKeQb4pP"
@@ -34986,7 +35008,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
@@ -36326,7 +36348,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 153230,
       "name": "M\u011b Nedostanou",
       "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
@@ -48517,6 +48539,24 @@
     },
     {
       "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC"
+    },
+    {
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
       },
@@ -57712,7 +57752,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -59954,7 +59994,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
@@ -61496,7 +61536,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
@@ -61686,7 +61726,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 123124,
       "name": "YOGA",
       "url": "https://open.spotify.com/track/1sYNEtYpeq5hcKgmsyw55W"

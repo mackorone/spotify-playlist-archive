@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Torey D'Shaun & Ty Brasel
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,264 likes - 166 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,283 likes - 166 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: mokina
 
-3,262 songs - 7 day 5 hr 2 min
+3,263 songs - 7 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1109,7 +1109,7 @@
 | [golden hour \- Version Française](https://open.spotify.com/track/6Y9HP2CDrCISKcvAqY0fBo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [golden hour \(Version Française\)](https://open.spotify.com/album/2rVrUrani6tXmWVg3uODg3) | 2:19 | 2023-02-03 | 2023-02-18 |
 | [Gone](https://open.spotify.com/track/5s70L5LgWCgsG27fSB032T) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Gone](https://open.spotify.com/album/52JYkXM9uEo4Bw9rdJ82Ig) | 3:53 | 2022-11-18 | 2022-12-10 |
 | [GONE!](https://open.spotify.com/track/5U0a4MxQwguUfubabxFhQR) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [GONE!](https://open.spotify.com/album/60wOCCyvuO5e4209ZQBOPo) | 2:48 | 2023-08-25 | 2023-09-02 |
-| [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-04-18 |  |
+| [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-04-18 | 2025-05-05 |
 | [Good Trip](https://open.spotify.com/track/2FVmqS8vIKc28l5XZJGpuo) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Good Trip](https://open.spotify.com/album/2abswK4r6EGW7uMfbNjIEw) | 3:13 | 2024-09-20 | 2024-09-28 |
 | [Gossip](https://open.spotify.com/track/5GWE2impMFvY0oeRd1Xivt) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Gossip](https://open.spotify.com/album/2RBHpIgzKjrGmmkLPUcVI3) | 4:01 | 2022-03-18 | 2022-04-02 |
 | [Goutte à goutte](https://open.spotify.com/track/4ZvRRZWjrC6Wl5GgHzfXVr) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Idéal tempo](https://open.spotify.com/album/2N6unlsUnhJrdBjIHqoV3i) | 2:52 | 2023-03-24 | 2023-04-09 |
@@ -2312,6 +2312,7 @@
 | [Pied de poule](https://open.spotify.com/track/3cf8vWYBDE2qZO4C5yssUk) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [BONJOUR \(BIS\)](https://open.spotify.com/album/5Snsg0R4yKgTOc5dS7piYZ) | 4:26 | 2024-10-11 | 2024-10-19 |
 | [Pigalle](https://open.spotify.com/track/61CqSFg78pMYNSJpqHOzQr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Pigalle](https://open.spotify.com/album/22AW5DN7qVOybGo4JKx2Ku) | 4:19 | 2023-02-03 | 2023-02-18 |
 | [Pile ou face](https://open.spotify.com/track/2FuCqBjuBEvxczXxBePZIn) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Pile ou face](https://open.spotify.com/album/46l1EyQdPcjmvaeemxpTjr) | 3:25 | 2022-02-11 | 2022-02-19 |
+| [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 | 2025-05-02 |  |
 | [Pinceau au tombeau](https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Pinceau au tombeau](https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7) | 4:11 | 2023-03-17 | 2023-04-01 |
 | [Pink Sh!t](https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Pink Sh!t](https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe) | 2:24 | 2025-01-17 | 2025-01-25 |
 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 | 2022-07-08 | 2022-07-23 |

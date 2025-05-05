@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 789977,
+  "num_followers": 790038,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 220566,
       "name": "Ai, Amor",
       "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Ter o cora\u00e7\u00e3o no ch\u00e3o",
-      "url": "https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
         "name": "V\u00e1rias Queixas",
         "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 156970,
       "name": "Vento Alecrim",
       "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Ter o cora\u00e7\u00e3o no ch\u00e3o",
+      "url": "https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
         "name": "Ef\u00eamera",
         "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
-        "name": "Silva Canta Marisa",
-        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
         "name": "As Super Novas",
         "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 246280,
       "name": "Quando A Chuva Passar",
       "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Um certo algu\u00e9m",
+      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -899,22 +899,6 @@
       "duration_ms": 245714,
       "name": "Meu I\u00f4 I\u00f4",
       "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Um certo algu\u00e9m",
-      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -943,6 +927,22 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
+        "name": "Silva Canta Marisa",
+        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Beija Eu",
+      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
         "name": "Melhores Momentos",
         "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 151306,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -999,6 +1015,22 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
         "name": "Urbano",
         "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -1095,22 +1095,6 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "Mais Raro",
-        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mais Raro",
-      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -1175,6 +1159,22 @@
       "duration_ms": 182325,
       "name": "Quero Acordar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "Mais Raro",
+        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mais Raro",
+      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
         }
       ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+      "duration_ms": 250453,
+      "name": "Velha Infancia - 2004 Digital Remaster;",
+      "url": "https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-04-04 05:57:49",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Velha Infancia - 2004 Digital Remaster;",
-      "url": "https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
         "name": "O Amor \u00c9 o Segredo",
         "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 183542,
       "name": "O Amor \u00c9 o Segredo",
       "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
+    },
+    {
+      "added_at": "2025-04-04 05:57:49",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2025-04-04 05:57:49",
@@ -1607,22 +1623,6 @@
       "duration_ms": 186400,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"
-    },
-    {
-      "added_at": "2025-04-04 05:57:49",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2025-04-04 05:57:49",

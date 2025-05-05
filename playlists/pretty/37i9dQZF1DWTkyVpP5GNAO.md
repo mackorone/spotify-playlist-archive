@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Marco Witt & Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,737 likes - 70 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,852 likes - 70 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

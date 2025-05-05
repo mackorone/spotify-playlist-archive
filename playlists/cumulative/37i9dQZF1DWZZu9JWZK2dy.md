@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-122 songs - 8 hr 40 min
+123 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 | 2021-09-14 |  |
 | [JOINT](https://open.spotify.com/track/4Tfao8rUHTsmE1chDISzk9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/7fIMsVvuT3qjRVLOwG4izc) | 4:01 | 2024-01-31 | 2024-04-19 |
 | [Kerot! to March](https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH) | [Nobuaki Kakuda](https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx), [Juri Ihata](https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK) | ["SERGEANT KERORO" KERORO Songs](https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY) | 3:11 | 2022-07-06 | 2024-04-19 |
+| [KinKiのやる気まんまんソング](https://open.spotify.com/track/6s9phlbXoLtWVy7jUB3hnL) | [KinKi Kids](https://open.spotify.com/artist/5ki9pRkPNIXLjuiqG1Jh84) | [好きになってく 愛してく / KinKiのやる気まんまんソング](https://open.spotify.com/album/0bZHthx2ZJiajcvfp4Qpum) | 5:10 | 2025-05-05 |  |
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-07-06 | 2024-04-19 |
 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 | 2021-09-14 |  |
 | [MAJI DE KANSHA!](https://open.spotify.com/track/7fNIWITkFbwDZXLJsvlMcK) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [GANBARIYO!](https://open.spotify.com/album/0Fw8zPzz10quVBw8tL2oZq) | 5:25 | 2023-09-29 | 2024-04-19 |

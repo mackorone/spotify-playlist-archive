@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-1,416 songs - 3 day 2 hr 33 min
+1,417 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [find u](https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [find u](https://open.spotify.com/album/79cTjmw9O6NVhQgpnaNqe6) | 1:58 | 2023-04-07 | 2024-06-29 |
 | [fingerprints](https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:26 | 2023-06-30 | 2025-02-15 |
-| [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 | 2024-06-14 |  |
+| [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 | 2024-06-14 | 2025-05-05 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-04-01 | 2022-04-15 |
 | [FKA MESS](https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [FKA MESS](https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S) | 6:01 | 2023-03-31 | 2023-04-22 |
 | [Flashbacks \(feat\. Miguel & St\. Beauty\)](https://open.spotify.com/track/2IQjNT6EXEEJhR3x5KnlOU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [St\. Beauty](https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 4:02 | 2021-03-19 | 2022-07-10 |
@@ -482,6 +482,7 @@
 | [get back](https://open.spotify.com/track/1kr266GQyqocYCrfcYz2lH) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [brownboy](https://open.spotify.com/album/2mbgV2Ofl5xsTcOH9uOgaV) | 1:41 | 2023-09-01 | 2024-04-19 |
 | [Get Back](https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [Get Back](https://open.spotify.com/album/6ECWMYaP6WjVX8IUdtnfaf) | 1:41 | 2023-09-01 | 2023-10-28 |
 | [Get It B4](https://open.spotify.com/track/14OYmvxPRx8lABHthDN4AX) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Idol Episode 3 \(Music from the HBO Original Series\)](https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI) | 4:22 | 2023-06-23 | 2023-11-20 |
+| [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 | 2025-05-02 |  |
 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 | 2022-08-05 | 2022-10-14 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-09 | 2023-08-12 |
 | [Ghostin'](https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Ghostin'](https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd) | 3:17 | 2021-03-19 | 2022-07-13 |

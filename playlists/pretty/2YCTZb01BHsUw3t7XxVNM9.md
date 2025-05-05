@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Panguino](https://open.spotify.com/user/megustager) - 656 likes - 501 songs - 1 day 10 hr 50 min
+[Panguino](https://open.spotify.com/user/megustager) - 656 likes - 502 songs - 1 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,5 +509,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 499 | [Ghost](https://open.spotify.com/track/6MPv73U1k6fsjsJ8m8Ld3Q) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 3:49 |
 | 500 | [EdgE of xtAsiE](https://open.spotify.com/track/1cIae1DhPfifIuzIV49DPJ) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 4:58 |
 | 501 | [Divineness](https://open.spotify.com/track/5RpkyjazrAGLmrAZwRdkPR) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 5:14 |
+| 502 | [Hex](https://open.spotify.com/track/5ZS0LsKEK3AuvnX0Q5w5Mh) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Hex](https://open.spotify.com/album/0eG98O2NBz98XgKFWZpMpQ) | 4:06 |
 
-Snapshot ID: `AAACU0T26p+k/1UgfPtm7eQo6lXMLcXt`
+Snapshot ID: `AAACVNqnQUm4BAZpgKNSo46xdwcsTabh`

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 130702,
+  "num_followers": 130683,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191956,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Beat the Devil's Tattoo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 188813,
       "name": "Blood Gets Thin",
       "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Beat the Devil's Tattoo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Attack Of The Ghost Riders",
-        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 159883,
       "name": "Evil",
       "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Attack Of The Ghost Riders",
+        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "We Need Medicine",
-        "url": "https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "We Need Medicine",
+        "url": "https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9"
     },
     {
       "added_at": "2024-11-14 23:00:00",

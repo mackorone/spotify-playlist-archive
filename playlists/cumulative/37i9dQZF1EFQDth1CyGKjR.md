@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-455 songs - 1 day 5 hr 37 min
+458 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Found You](https://open.spotify.com/track/5QlWzeA7AVTcpVcZudwtI7) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Found You](https://open.spotify.com/album/4owVEraax9jCn7ixS8LAWO) | 2:31 | 2024-01-29 |  |
 | [Freak](https://open.spotify.com/track/4qlPE8Y01t2ns0rkbgp9HH) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Freak](https://open.spotify.com/album/49xM56AWeNLOfPifoIm6f7) | 3:17 | 2024-01-29 |  |
 | [FutureSex / LoveSound](https://open.spotify.com/track/0B1QILlvPWfc9vovFYuUuk) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:01 | 2024-01-29 |  |
+| [Gahu Bounce](https://open.spotify.com/track/3YsjAHKmD8r0nVeHo7Bg9k) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 3:51 | 2025-05-04 |  |
 | [Get A Light](https://open.spotify.com/track/0brst8Eu2TRY13cwTQMcQc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:41 | 2024-01-29 |  |
 | [Get Down](https://open.spotify.com/track/7xqDBZkjo0i4XtkrbuFARV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:40 | 2024-01-29 |  |
 | [Get Involved](https://open.spotify.com/track/4bBGJpJkPhT2TI0Rez62m3) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [A Man's Thoughts](https://open.spotify.com/album/6zMnKooccAD1GmUjHMNJgJ) | 3:38 | 2024-01-29 |  |
@@ -213,6 +214,7 @@
 | [Let the Groove Get In](https://open.spotify.com/track/2AobDJxjDp5TbxGdR3JGen) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 7:11 | 2024-01-29 |  |
 | [Lie To Me](https://open.spotify.com/track/0ZtMJPqVJRR4R6tfD1jfSn) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 3:33 | 2024-01-29 |  |
 | [Lightweight](https://open.spotify.com/track/6kjpm6cOnouNy4ct8eACRm) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 4:01 | 2024-01-29 |  |
+| [Lion's Roar](https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 2:46 | 2025-05-04 |  |
 | [Live In The Moment \(feat\. Jussie Smollett & Yazz\)](https://open.spotify.com/track/1dYdSMAEwQwijL7hRpZme2) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS) | [Empire: The Complete Season 1](https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd) | 2:20 | 2024-01-29 |  |
 | [Live It Up](https://open.spotify.com/track/5nA1ICrywPpPd9c1plpooF) | [Cosha TG](https://open.spotify.com/artist/7MnjIprFDumi6FjVBXPJM6) | [Summer Nights](https://open.spotify.com/album/4DyHFmLUmJBaLJmBExrowP) | 2:52 | 2024-01-29 |  |
 | [Lola](https://open.spotify.com/track/5YTzujpJ9tZpMItuiO16Qv) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Still Here](https://open.spotify.com/album/6vSX9WPe83akRqVdh8SuLD) | 3:01 | 2024-01-29 |  |
@@ -326,6 +328,7 @@
 | [RUN](https://open.spotify.com/track/7LaLv7r8FLaAhOqKf2N99N) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/2hdRJLsW5qdvVZ0yaYpqO4) | 1:47 | 2024-01-29 |  |
 | [Russian Roulette](https://open.spotify.com/track/7F7D2Q5lL6pP8eussipabb) | [Cosha TG](https://open.spotify.com/artist/7MnjIprFDumi6FjVBXPJM6) | [Summer Nights](https://open.spotify.com/album/4DyHFmLUmJBaLJmBExrowP) | 2:52 | 2024-01-29 |  |
 | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/track/1tXCF7TwDnuHRgwQ63FeM5) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/album/6xBCjXyKJPnuCXt7xb7MpL) | 3:11 | 2024-01-29 |  |
+| [Sabar Bounce](https://open.spotify.com/track/4SGhwD2zGeWcK7CrwyKpLu) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 2:04 | 2025-05-04 |  |
 | [Sauce](https://open.spotify.com/track/249c7UYQRwLb8tUykq8IwX) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:05 | 2024-01-29 |  |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2024-02-01 |  |
 | [Say It Right](https://open.spotify.com/track/459vuxUsUwJ5INdnp5URJa) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Say It Right \(Closed Captioned\)](https://open.spotify.com/album/25kmX6K0acxhf0eZGEEico) | 3:54 | 2024-01-29 | 2024-02-02 |

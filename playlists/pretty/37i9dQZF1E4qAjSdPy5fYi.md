@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [人気インフルエンサー☆](https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU), [Maruyama Yuki](https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 1:48 |
 | 50 | [narcissist](https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [forrest nelson](https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE) | [narcissist](https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH) | 2:50 |
 
-Snapshot ID: `aBbS5wAAAABE2XB4OtIGGaMAoajs3w9k`
+Snapshot ID: `aBgy7wAAAABunmYJMNOp9i6a4+tdUhI/`

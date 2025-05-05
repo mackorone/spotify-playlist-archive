@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: swetty, Elle Teresa
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Elle Teresa
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,823 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,841 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 79 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 80 | [CINDERELLA BABY](https://open.spotify.com/track/58bYuUJ8nRL3JbzgtgWIKC) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [CINDERELLA BABY](https://open.spotify.com/album/1idMA7THKFuFjh0M3T2r4a) | 2:50 |
 
-Snapshot ID: `aBGP6gAAAAB4YUkBJUSPT45qZtCyp2t3`
+Snapshot ID: `aBeDHQAAAABvEADSmXcAPfdgR/8KLwit`

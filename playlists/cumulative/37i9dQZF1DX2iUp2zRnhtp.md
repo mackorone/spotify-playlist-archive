@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-286 songs - 14 hr 23 min
+287 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-16 | 2024-09-20 |
 | [BAD BOYZ I NØRREBRO](https://open.spotify.com/track/39MnVqoagdJMP1xiKiisc1) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S), [Udenzi](https://open.spotify.com/artist/3fcXJDohuzXUFFSGjtoYAD) | [BAD BOYZ I NØRREBRO](https://open.spotify.com/album/6BEgLJykNGVFFgEevOeWtO) | 2:22 | 2024-09-19 | 2024-10-04 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-09-19 | 2025-04-25 |
+| [Bare kom](https://open.spotify.com/track/6ofEiPfpIHBp0EvMOqEvlC) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [FULL FYR](https://open.spotify.com/album/2dfh0gZs8T3ir5puEVjfJn) | 3:49 | 2025-05-01 |  |
 | [Batmobile](https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Batmobile](https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE) | 1:57 | 2025-02-13 | 2025-02-21 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 | 2025-03-08 |
 | [Bench Sitter](https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bench Sitter](https://open.spotify.com/album/0nNymRnk0T4JRu3VKBJGmU) | 2:48 | 2025-04-30 |  |
@@ -208,7 +209,7 @@
 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 | 2024-11-21 | 2025-03-28 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-27 | 2025-05-01 |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-30 |  |
-| [Prettybois \(feat\. Hani\)](https://open.spotify.com/track/5kl549yI4pzG5M9F7erqOF) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [Hani](https://open.spotify.com/artist/1iez0WYRS99rvCKrSXHnIy) | [Prettybois \(feat\. Hani\)](https://open.spotify.com/album/67mqYXfyDo5Gfz85XDkn71) | 2:41 | 2025-04-30 |  |
+| [Prettybois \(feat\. Hani\)](https://open.spotify.com/track/5kl549yI4pzG5M9F7erqOF) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [Hani](https://open.spotify.com/artist/1iez0WYRS99rvCKrSXHnIy) | [Prettybois \(feat\. Hani\)](https://open.spotify.com/album/67mqYXfyDo5Gfz85XDkn71) | 2:41 | 2025-04-30 | 2025-05-05 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-01 |  |
 | [Problemer](https://open.spotify.com/track/6OvwiUMWFWALFGWVDBkcYR) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [GolfSzn](https://open.spotify.com/album/01gVWUQkxU3QFNEryFeWIN) | 2:07 | 2024-11-21 | 2025-01-10 |
 | [PRTY](https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [PRTY](https://open.spotify.com/album/6sQANND4JzoOmXQ9Ymq7Yy) | 2:07 | 2025-04-30 |  |

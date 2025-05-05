@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74806,
+  "num_followers": 74810,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105913,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Inappropriate Behaviour",
         "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
       },
@@ -335,38 +351,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105913,
-      "name": "Girl Like You",
-      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "you, all along",
-        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
-      },
-      "artists": [
-        {
-          "name": "This New Light",
-          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
-        }
-      ],
-      "duration_ms": 260049,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Feel Like Clarity",
         "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 226789,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "you, all along",
+        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "duration_ms": 260049,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "duration_ms": 238174,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Evermore",
         "url": "https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 204573,
       "name": "Every Side Of You",
       "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 191889,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Dawn Sounds",
         "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223560,
       "name": "Midnight Moon",
       "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 191889,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Is an Open Road",
-        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
-      },
-      "artists": [
-        {
-          "name": "Israel Cannan",
-          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Is an Open Road",
-      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Love Is an Open Road",
+        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
+      },
+      "artists": [
+        {
+          "name": "Israel Cannan",
+          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Is an Open Road",
+      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
@@ -831,38 +831,6 @@
       "duration_ms": 188149,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Breach, A Vast Decade",
-        "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 195512,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -887,6 +855,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Breach, A Vast Decade",
+        "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Tell Me What You Dream About",
         "url": "https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197184,
       "name": "Tell Me What You Dream About",
       "url": "https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 195512,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
     },
     {
       "added_at": "2023-11-30 13:00:00",

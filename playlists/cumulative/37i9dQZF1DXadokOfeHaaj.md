@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Real Lies
 
-295 songs - 18 hr 38 min
+296 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-10-28 | 2024-04-12 |
 | [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 | 2025-03-07 |  |
 | [Girl Feels Good](https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID) | 3:56 | 2025-01-31 |  |
-| [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-21 |  |
+| [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-21 | 2025-05-05 |
 | [Going Through the Motions](https://open.spotify.com/track/5YJdW5AhHeLHfVvggZdb1m) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Going Through the Motions](https://open.spotify.com/album/5aPwpEo5aUFIJHOPcXbkur) | 4:36 | 2024-08-15 | 2025-02-14 |
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-03 | 2025-04-28 |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2025-01-17 |
@@ -235,6 +235,7 @@
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-03 |  |
 | [Shapeshift](https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Shapeshift](https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5) | 4:50 | 2025-04-17 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-02-23 | 2024-07-27 |
+| [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 | 2025-04-17 |  |
 | [Shut My Mouth](https://open.spotify.com/track/5cI4oDkASkMmaXxMVNzqKK) | [The Valla](https://open.spotify.com/artist/4YhQHwK37kKWxXGiNbCu1R) | [Shut My Mouth](https://open.spotify.com/album/0mTMooSBjeE2INrKU8AVqf) | 3:26 | 2021-10-28 | 2024-02-02 |
 | [Sister Infinity \- Edit](https://open.spotify.com/track/2FmxpCtAKpL2VT7abM5Jeq) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L) | [Sister Infinity](https://open.spotify.com/album/1sDjnXH9RgKCRPi2tczLy7) | 3:19 | 2021-10-28 | 2024-02-23 |
 | [So Late \(Goldteeth Remix\)](https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Goldteeth](https://open.spotify.com/artist/0npO8yNUPxsLaomZudHo8w) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/6SVRd1EYyIbnGjojfjXY8K) | 2:57 | 2021-10-28 | 2023-08-10 |

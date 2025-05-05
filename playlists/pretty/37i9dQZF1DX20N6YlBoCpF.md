@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Riana Nel, Brendan Peyper, Bobby Van Jaarsveld, Marno van der Merwe, Nicholis Louw, Zaan Sonnekus en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,643 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,659 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

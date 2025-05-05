@@ -4,7 +4,7 @@
 
 > 
 
-194 songs - 10 hr 15 min
+195 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 | 2023-08-01 |  |
 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2023-01-13 |  |
 | [Sunrise\_\_\_](https://open.spotify.com/track/32ZLROie2BHCySw8JFZ9IL) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 1:06 | 2023-05-26 |  |
+| [Take Me Down](https://open.spotify.com/track/4xBmYI9A0YucqiFC8lnER8) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Take Me Down](https://open.spotify.com/album/7CkVFAJfR6J8iexUsdFTYI) | 2:11 | 2025-05-04 |  |
 | [Taking Chances](https://open.spotify.com/track/4V6OQMf2e6cNnwUiV1zTgE) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:50 | 2023-01-23 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2023-09-24 |  |
 | [The Answer](https://open.spotify.com/track/62vVbTLJrEWEx7YD584wqs) | [SV](https://open.spotify.com/artist/6ABoiNLC8RChkiFvzIOqKi), [Antonia Marquee](https://open.spotify.com/artist/2knrCbiVXjHbxY4g5U6Vnz), [Kevon Scott](https://open.spotify.com/artist/0QQRd94fteqgMZD8SQiojh) | [Past Partial](https://open.spotify.com/album/3q6jIkvn5lzHN2IKCIbaXY) | 1:57 | 2025-04-11 |  |

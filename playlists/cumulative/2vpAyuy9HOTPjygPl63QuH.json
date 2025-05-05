@@ -36103,6 +36103,24 @@
     },
     {
       "album": {
+        "name": "SXY EP",
+        "url": "https://open.spotify.com/album/1fia45ZfeADV2hNlpDOXO5"
+      },
+      "artists": [
+        {
+          "name": "Carvalho(BR)",
+          "url": "https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "SXY",
+      "url": "https://open.spotify.com/track/4MVOhTnAMyUl3g323pNn76"
+    },
+    {
+      "album": {
         "name": "Syncopat",
         "url": "https://open.spotify.com/album/5gidNifqUlhBb3Vp6AE4dj"
       },

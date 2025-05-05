@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > "Si mi delito es rockear, me declaro culpable mi amor" frases que Jay de la Cueva sí dijo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,090 likes - 23 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,055 likes - 23 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

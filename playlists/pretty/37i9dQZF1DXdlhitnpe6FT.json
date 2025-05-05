@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 288873,
+  "num_followers": 288999,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 130493,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 206653,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 130493,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -223,6 +223,26 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
+        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Entertainer",
+      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Say It With Music",
         "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
       },
@@ -255,38 +275,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
-        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
       "artists": [
         {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        },
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 233600,
-      "name": "The Entertainer",
-      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "La m\u00e9lodie du lac d'amour",
         "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 172266,
       "name": "Dolannes m\u00e9lodie",
       "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Al Caiola",
-        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tribute to Richard Clayderman: Collection",
         "url": "https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 144373,
       "name": "Ballade pour Adeline",
       "url": "https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Al Caiola",
+        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Lost Hits Of The 60's",
-        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
-      },
-      "artists": [
-        {
-          "name": "Don Costa And His Orchestra",
-          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Ultimate John Barry",
         "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 167133,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Lost Hits Of The 60's",
+        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
+      },
+      "artists": [
+        {
+          "name": "Don Costa And His Orchestra",
+          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Unforgettable Sounds of Esquivel",
         "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 161773,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Themes",
         "url": "https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211208,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Grandes Orquestas / Bert Kaempfert",
         "url": "https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i"
       },
@@ -1731,22 +1715,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "16 Grandes \u00c9xitos Instrumentales",
-        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
-      },
-      "artists": [
-        {
-          "name": "John Days",
-          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Before The Rain",
         "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
       },
@@ -1759,6 +1727,38 @@
       "duration_ms": 495466,
       "name": "Before the Rain",
       "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "16 Grandes \u00c9xitos Instrumentales",
+        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
+      },
+      "artists": [
+        {
+          "name": "John Days",
+          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Pink Panther (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2W7Ie9HmDd4fNMJmhY5AZB"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "Something for Sellers",
-      "url": "https://open.spotify.com/track/4Co9m7SzabppimfOHMFZKp"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "45 Greatest Hits",
         "url": "https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 149360,
       "name": "Always in my heart",
       "url": "https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Pink Panther (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2W7Ie9HmDd4fNMJmhY5AZB"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Something for Sellers",
+      "url": "https://open.spotify.com/track/4Co9m7SzabppimfOHMFZKp"
     }
   ],
   "unique_name": "Golden Instrumentals",

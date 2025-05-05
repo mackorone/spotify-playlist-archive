@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,990 songs - 4 day 11 hr 38 min
+1,992 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/track/13KjMbVC5JLTaEG2NI6ytg) | [LAUREN](https://open.spotify.com/artist/5zK6Y7XOLDFFg0sdThkVxr), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/album/3gDG8Nco79Nm6mvXJTA2g0) | 1:55 | 2022-03-24 | 2022-08-02 |
 | [Fui El Borrego](https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fui El Borrego](https://open.spotify.com/album/0Gba5NI1R8k8LUiflUEgbg) | 3:20 | 2023-09-15 | 2023-10-14 |
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-05-03 | 2024-06-01 |
-| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 |  |
+| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 | 2025-05-05 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-23 | 2025-04-05 |
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-01-19 | 2024-04-19 |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-03-31 | 2022-08-27 |
@@ -1169,6 +1169,7 @@
 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 | 2024-06-21 | 2024-12-14 |
 | [Number One](https://open.spotify.com/track/0gb6KfibP8ehI8JSjScGpc) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Number One](https://open.spotify.com/album/2VUF1kPLKLvgWgnxrX8If3) | 3:00 | 2024-09-06 | 2024-10-10 |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2024-04-19 | 2024-08-24 |
+| [NY1504](https://open.spotify.com/track/1ZQ4VjqMG7v24ynzQoA6Fc) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [NY1504](https://open.spotify.com/album/3NigFUiM9FTxwVdbdY7rIl) | 2:29 | 2025-05-02 |  |
 | [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 | 2025-01-31 | 2025-04-05 |
 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 | 2022-03-24 | 2022-04-20 |
 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 | 2022-08-01 | 2022-09-16 |
@@ -1342,7 +1343,7 @@
 | [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-04-18 | 2025-05-04 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-27 | 2024-05-04 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2022-08-27 |
-| [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 |  |
+| [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 | 2025-05-05 |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-04-12 | 2023-04-18 |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-06-28 | 2024-12-14 |
 | [Respuesta Cero](https://open.spotify.com/track/07piZvs54drv7466oPLTt0) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk) | 3:23 | 2022-06-27 | 2022-08-02 |
@@ -1790,6 +1791,7 @@
 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 | 2023-11-11 |
 | [À nos jours](https://open.spotify.com/track/5vu4ohLMtoQ8F1ozWnim3Q) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:39 | 2022-03-24 | 2022-08-02 |
 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 | 2023-05-30 | 2024-03-09 |
+| [Ça m'a laissé](https://open.spotify.com/track/2Eq1F0m1GNynZRHFBA8fOJ) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Ça m'a laissé](https://open.spotify.com/album/7k8wa4qkm15nGIIgojJA9B) | 2:16 | 2025-05-02 |  |
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-07 |  |
 | [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 | 2025-04-25 |  |
 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 | 2023-11-17 | 2024-01-20 |

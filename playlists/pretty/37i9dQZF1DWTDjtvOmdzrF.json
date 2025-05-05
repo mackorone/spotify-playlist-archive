@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 557823,
+  "num_followers": 557841,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 373824,
       "name": "Membasuh",
       "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "Melukis Senja",
-        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 251119,
-      "name": "Melukis Senja",
-      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
+        "name": "Melukis Senja",
+        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 251119,
+      "name": "Melukis Senja",
+      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
         "name": "Daur Hidup",
         "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
         "name": "Monokrom",
         "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 195914,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
-        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        }
-      ],
-      "duration_ms": 286313,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "semua, semua.",
-        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
       },
       "artists": [
         {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
         }
       ],
-      "duration_ms": 201479,
-      "name": "Kembalikanku",
-      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
+      "duration_ms": 286313,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+        "name": "semua, semua.",
+        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
         }
       ],
-      "duration_ms": 239466,
-      "name": "Gajah",
-      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+      "duration_ms": 201479,
+      "name": "Kembalikanku",
+      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -1123,6 +1107,22 @@
       "duration_ms": 261030,
       "name": "Sedang Sayang Sayangnya",
       "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Gajah",
+      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
     },
     {
       "added_at": "2025-04-17 17:06:09",

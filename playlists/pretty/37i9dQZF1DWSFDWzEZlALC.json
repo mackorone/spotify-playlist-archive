@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Elias, ENNIO",
-  "num_followers": 455293,
+  "num_followers": 455417,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBSF8gAAAACbf0cPYl/4Dk9s6bGzRAsm",
+  "snapshot_id": "aBczSgAAAAAH2nZpIZ8lkxTSPFqVVD2b",
   "tracks": [
     {
       "added_at": "2025-05-02 08:44:34",
@@ -27,6 +27,22 @@
       "duration_ms": 208026,
       "name": "Heimweh (mit ENNIO)",
       "url": "https://open.spotify.com/track/3Vza3OooLHGSIlc51d2Ivm"
+    },
+    {
+      "added_at": "2025-05-02 08:44:34",
+      "album": {
+        "name": "Dieser Sommer",
+        "url": "https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "duration_ms": 126314,
+      "name": "Dieser Sommer",
+      "url": "https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA"
     },
     {
       "added_at": "2025-05-02 08:44:34",
@@ -55,34 +71,18 @@
     {
       "added_at": "2025-05-02 08:44:34",
       "album": {
-        "name": "pillen",
-        "url": "https://open.spotify.com/album/4qLIlG4qoGzAqnxdCLd9RX"
+        "name": "kein plan, aber davon ne ganze menge",
+        "url": "https://open.spotify.com/album/2ozIgj0HCtoAXdH0lBdcW1"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
         }
       ],
-      "duration_ms": 187761,
-      "name": "pillen",
-      "url": "https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii"
-    },
-    {
-      "added_at": "2025-05-02 08:44:34",
-      "album": {
-        "name": "Dieser Sommer",
-        "url": "https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e"
-      },
-      "artists": [
-        {
-          "name": "Rowli",
-          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
-        }
-      ],
-      "duration_ms": 126314,
-      "name": "Dieser Sommer",
-      "url": "https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA"
+      "duration_ms": 128003,
+      "name": "verlieren",
+      "url": "https://open.spotify.com/track/7y4PRDeSwAwl3pnuZ51Mvm"
     },
     {
       "added_at": "2025-05-02 08:44:34",
@@ -119,50 +119,18 @@
     {
       "added_at": "2025-05-02 08:44:34",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1"
+        "name": "pillen",
+        "url": "https://open.spotify.com/album/4qLIlG4qoGzAqnxdCLd9RX"
       },
       "artists": [
         {
-          "name": "falcke",
-          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 110896,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX"
-    },
-    {
-      "added_at": "2025-05-02 08:44:34",
-      "album": {
-        "name": "kein plan, aber davon ne ganze menge",
-        "url": "https://open.spotify.com/album/2ozIgj0HCtoAXdH0lBdcW1"
-      },
-      "artists": [
-        {
-          "name": "Vince",
-          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
-        }
-      ],
-      "duration_ms": 128003,
-      "name": "verlieren",
-      "url": "https://open.spotify.com/track/7y4PRDeSwAwl3pnuZ51Mvm"
-    },
-    {
-      "added_at": "2025-05-02 08:44:34",
-      "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa"
-      },
-      "artists": [
-        {
-          "name": "Sandra Isabel",
-          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
-        }
-      ],
-      "duration_ms": 201878,
-      "name": "Geist",
-      "url": "https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E"
+      "duration_ms": 187761,
+      "name": "pillen",
+      "url": "https://open.spotify.com/track/11I1cPItEgZ3Os98JRP6Ii"
     },
     {
       "added_at": "2025-05-02 08:44:34",
@@ -203,6 +171,38 @@
       "duration_ms": 135004,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/1zXKNXhMs4D9ESWx0sok6W"
+    },
+    {
+      "added_at": "2025-05-02 08:44:34",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "duration_ms": 110896,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX"
+    },
+    {
+      "added_at": "2025-05-02 08:44:34",
+      "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "duration_ms": 201878,
+      "name": "Geist",
+      "url": "https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E"
     },
     {
       "added_at": "2025-05-02 08:44:34",

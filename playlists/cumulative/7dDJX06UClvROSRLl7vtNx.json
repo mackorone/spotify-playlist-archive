@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 148500,
       "name": "A Few Good Reasons",
       "url": "https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 136200,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 147151,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/0iydBOqwHjGPOE2OWBgIFA"
@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 144959,
       "name": "Defender",
       "url": "https://open.spotify.com/track/0aEGr7B1y5OVGdIXxQVnMS"
@@ -6392,7 +6392,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 158400,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3xWlinzkmeYJeTn6p94Kmt"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 158550,
       "name": "I\u2018m so tired\u2026",
       "url": "https://open.spotify.com/track/3IMseMABkQy4BLMRwyQQZD"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 160714,
       "name": "Lights",
       "url": "https://open.spotify.com/track/4l1XdASpI6Tx8i9dPPthD0"
@@ -9920,6 +9920,24 @@
       "duration_ms": 166028,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/65bbhJgz7RI0Ptl7R5Cvhl"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173543,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3fSdGxtm9tod3B7LGMcc1P"
     },
     {
       "album": {
@@ -10916,6 +10934,28 @@
       "duration_ms": 141577,
       "name": "Miss You More",
       "url": "https://open.spotify.com/track/0hRSKEiWSEyV2QxlvHXQ76"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/696qgg2xKDRJnhJYGgO1B3"
+      },
+      "artists": [
+        {
+          "name": "Matvey Emerson",
+          "url": "https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa"
+        },
+        {
+          "name": "PHURS",
+          "url": "https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1Hrf64ujV8POIEljEmh85L"
     },
     {
       "album": {

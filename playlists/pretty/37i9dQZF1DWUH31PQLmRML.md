@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH31PQLmRML.md) - [plain]
 
 > pieces of u, curated by Kizzy Edgell\. Angst and romance all disjointed\. Heartstopper S3 now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,719 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,758 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

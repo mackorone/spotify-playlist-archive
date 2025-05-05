@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 322041,
+  "num_followers": 322068,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Elle a les yeux revolver",
+      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -147,66 +163,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
       },
       "artists": [
         {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Elle a les yeux revolver",
-      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Savoir Aimer",
-        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "Savoir aimer",
-      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Addictions (Ultimate Version)",
-        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Longtemps",
-      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Joe Dassin",
-        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Et si tu n'existais pas",
-      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -227,34 +195,50 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+        "name": "Savoir Aimer",
+        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
         }
       ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
+      "duration_ms": 281213,
+      "name": "Savoir aimer",
+      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
     },
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Joe Dassin",
+        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 206240,
+      "name": "Et si tu n'existais pas",
+      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Addictions (Ultimate Version)",
+        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Longtemps",
+      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -271,6 +255,22 @@
       "duration_ms": 235866,
       "name": "Le lac",
       "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "S'il Suffisait D'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 280826,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "S'il Suffisait D'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Morgane De Toi (Remastered)",
         "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
       "artists": [
         {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
         }
       ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 219226,
       "name": "J'te l'dis quand m\u00eame",
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Solune",
         "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Salut les amoureux - City of New Orleans",
+      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Joe",
-        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Salut les amoureux - City of New Orleans",
-      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Toujours moi",
-        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
       "artists": [
         {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
         }
       ],
-      "duration_ms": 245973,
-      "name": "Parce que c'est toi",
-      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
+      "duration_ms": 222413,
+      "name": "Nous deux contre le reste du monde",
+      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+        "name": "Toujours moi",
+        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
       },
       "artists": [
         {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
         }
       ],
-      "duration_ms": 222413,
-      "name": "Nous deux contre le reste du monde",
-      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
+      "duration_ms": 245973,
+      "name": "Parce que c'est toi",
+      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
     },
     {
       "added_at": "2024-10-15 19:50:17",

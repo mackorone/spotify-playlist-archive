@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Speculate",
+        "url": "https://open.spotify.com/album/3zOEXt6kycTIPYMDjm4LZ3"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Speculate",
+      "url": "https://open.spotify.com/track/6Gb4QUbmRj6JW8wPaiuIxY"
+    },
+    {
+      "album": {
         "name": "Spot a Fake",
         "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
       },
@@ -4714,7 +4732,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 121304,
       "name": "Svara",
       "url": "https://open.spotify.com/track/6N54tKu2o2JpxfYJXxYRu3"

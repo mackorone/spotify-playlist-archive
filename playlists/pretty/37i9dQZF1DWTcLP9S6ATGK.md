@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: raissa anggiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,409 likes - 101 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,418 likes - 101 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

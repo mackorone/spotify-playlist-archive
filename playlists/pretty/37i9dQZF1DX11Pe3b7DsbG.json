@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231790,
+  "num_followers": 231783,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -227,38 +227,6 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Feijoada Completa",
-      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
         "name": "Latin Grooves - Samba",
         "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 195493,
       "name": "Gostoso Veneno",
       "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Feijoada Completa",
+      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2025-04-04 14:30:42",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
         "name": "Nova Bis - Clara Nunes",
         "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 216933,
       "name": "Menina Voc\u00ea Bebeu",
       "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2025-04-04 14:30:42",
@@ -615,38 +615,6 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
-        "name": "Argumento",
-        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "No Pagode Do Vav\u00e1",
-      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
-        "name": "Zeca Pagodinho",
-        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Spc",
-      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
         "name": "A Voz Do Samba (Disco 03)",
         "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
       },
@@ -663,6 +631,22 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
         "name": "Da M\u00fasica",
         "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 264466,
       "name": "Pintou uma Lua L\u00e1",
       "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
     },
     {
       "added_at": "2025-04-04 14:30:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
-        "name": "Cora\u00e7\u00e3o Leviano",
-        "url": "https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Cora\u00e7\u00e3o Leviano",
-      "url": "https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
         "name": "O Samba Em Mim (Ao Vivo Na Lapa)",
         "url": "https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256783,
       "name": "Meu Pitel",
       "url": "https://open.spotify.com/track/7uTGKM0QXSukI6UMMOzXu8"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Leviano",
+        "url": "https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh"
     },
     {
       "added_at": "2025-04-04 14:30:42",
@@ -827,6 +827,26 @@
       "duration_ms": 151900,
       "name": "Heran\u00e7a de Partideiro",
       "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
+        "name": "Na Veia",
+        "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "duration_ms": 188058,
+      "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
+      "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
     },
     {
       "added_at": "2025-04-04 14:30:42",
@@ -915,26 +935,6 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
-        "name": "Na Veia",
-        "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        },
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        }
-      ],
-      "duration_ms": 188058,
-      "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
-      "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
     },
     {
       "added_at": "2025-04-04 14:30:42",

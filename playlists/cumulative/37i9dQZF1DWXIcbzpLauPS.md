@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,195 songs - 3 day 1 hr 31 min
+1,196 songs - 3 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 | 2021-12-17 | 2022-03-18 |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2022-07-13 | 2022-07-16 |
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-07-13 | 2022-07-23 |
-| [Crève](https://open.spotify.com/track/4s6VevTwhAr0WJ5Mz4Nrgy) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Crève](https://open.spotify.com/album/30R13mjibcY6nOfzJN07Yp) | 3:48 | 2024-11-22 |  |
+| [Crève](https://open.spotify.com/track/4s6VevTwhAr0WJ5Mz4Nrgy) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Crève](https://open.spotify.com/album/30R13mjibcY6nOfzJN07Yp) | 3:48 | 2024-11-22 | 2025-05-05 |
 | [CTRL](https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [CTRL](https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3) | 2:43 | 2024-07-12 | 2024-10-19 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-09 | 2024-03-28 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 |  |
@@ -948,6 +948,7 @@
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-06-04 | 2024-12-19 |
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-27 | 2024-06-05 |
+| [Souls Devoured](https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Souls Devoured](https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr) | 4:15 | 2025-05-02 |  |
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 | 2025-02-22 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-07-22 |
 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 | 2024-11-08 |  |

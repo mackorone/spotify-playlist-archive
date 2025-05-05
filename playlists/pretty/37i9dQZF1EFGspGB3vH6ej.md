@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,241 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,244 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 187 | [Languishing \(the interlude\)](https://open.spotify.com/track/3hzjE3yHWmC2AeoAcJ6xNf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 2:33 |
 | 188 | [You Need Me](https://open.spotify.com/track/4OEKDOXGcMuiUs9zei5HLm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:51 |
 | 189 | [My All / Stay Awhile \(feat\. Lord Tariq & Peter Gunz\) \- So So Def Remix](https://open.spotify.com/track/3d6LtBADD19TFLxhFYrORb) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Lord Tariq](https://open.spotify.com/artist/5EC3MUN6vECf8sxUU9IVw6), [Peter Gunz](https://open.spotify.com/artist/2P5QeggPPvmSmFFJ9EcaNp), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Carl\-So\-Lowe](https://open.spotify.com/artist/0bNgsavBjpzU4uq2jewsKN) | [My All EP](https://open.spotify.com/album/12irT6L2R2wHmPJaz75TQW) | 4:44 |
-| 190 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) / House Top Celebration \(feat\. Snoop Dogg & Jermaine Dupri\)](https://open.spotify.com/track/6OkevUybUFp70w4PhGdo63) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Mariah Carey's Magical Christmas Special \(Apple TV+ Original Soundtrack\)](https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84) | 2:20 |
-| 191 | [O.O.C.](https://open.spotify.com/track/3ciZpadwgMv5bvH4L3o4Xn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:26 |
+| 190 | [O.O.C.](https://open.spotify.com/track/3ciZpadwgMv5bvH4L3o4Xn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:26 |
+| 191 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) / House Top Celebration \(feat\. Snoop Dogg & Jermaine Dupri\)](https://open.spotify.com/track/6OkevUybUFp70w4PhGdo63) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Mariah Carey's Magical Christmas Special \(Apple TV+ Original Soundtrack\)](https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84) | 2:20 |
 | 192 | [Bye Bye \- So So Def Remix](https://open.spotify.com/track/2fXPWxrFr2TokVVCfSAbTy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Bye Bye \[So So Def Remix featuring JAY\-Z \(Explicit\)\]](https://open.spotify.com/album/4JQh3a9LJkY4MREMn1WOJf) | 3:53 |
 | 193 | [Reflections \(Care Enough\)](https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:20 |
 | 194 | [Do You Think of Me](https://open.spotify.com/track/4t99ozH6ai7AGBDAWcZ3hw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:48 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbwdKgAAAAC+tdmfoyhqsvtWr6fO1n1P`
+Snapshot ID: `Abwi/AAAAAD/aVUuiRhrr+u6sgiAlVqC`

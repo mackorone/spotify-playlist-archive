@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,179 likes - 49 songs - 2 hr 43 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,180 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 47 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
 | 48 | [Back To The Deep](https://open.spotify.com/track/4P4qvNmbAHebx1JIOU7lWB) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Back To The Deep](https://open.spotify.com/album/2kgR1xdyu3IBorXlcRwnfD) | 5:24 |
 | 49 | [Dance To My Beat](https://open.spotify.com/track/20lt25AyM3QVE4Li7uedrT) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Dance To My Beat](https://open.spotify.com/album/50CeL37i1INXpB7eHYBvQx) | 3:15 |
+| 50 | [SXY](https://open.spotify.com/track/4MVOhTnAMyUl3g323pNn76) | [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [SXY EP](https://open.spotify.com/album/1fia45ZfeADV2hNlpDOXO5) | 3:30 |
 
-Snapshot ID: `AAAlpPxvtB5QkK9pceYgCsKlvwgRv3OM`
+Snapshot ID: `AAAlpXk4nffrSKA9I8WkJRjJJv1qOzq9`

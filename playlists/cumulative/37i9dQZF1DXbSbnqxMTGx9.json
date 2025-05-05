@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 280960,
       "name": "Having A Party",
       "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 155986,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
@@ -6944,6 +6944,24 @@
       "duration_ms": 247120,
       "name": "Night Nurse",
       "url": "https://open.spotify.com/track/0Z3lDnRk5HVajtknUg5Z0L"
+    },
+    {
+      "album": {
+        "name": "Night Nurse",
+        "url": "https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248693,
+      "name": "Night Nurse",
+      "url": "https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6"
     },
     {
       "album": {
@@ -9970,7 +9988,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-05",
       "duration_ms": 219906,
       "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
       "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"

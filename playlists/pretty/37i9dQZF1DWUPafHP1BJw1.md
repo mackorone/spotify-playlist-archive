@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,151 likes - 176 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,235 likes - 176 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 159 | [Let's Get Loud](https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Let's Get Loud](https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR) | 3:47 |
 | 160 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 |
 | 161 | [Fake Plastic Trees](https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO) | [Christopher O'Riley](https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I) | [True Love Waits \(Christopher O'Riley Plays Radiohead\)](https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm) | 4:54 |
-| 162 | [Something Just Like This / Hungarian Rhapsody](https://open.spotify.com/track/7tPETW7bPcWw0IpTkeo150) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Guy Berryman](https://open.spotify.com/artist/2R0YxXQyGLURmOrY26P1kZ), [Jonathan Buckland](https://open.spotify.com/artist/6ZK1R7WvOURjOviPQkVJEm), [William Champion](https://open.spotify.com/artist/2DXdrllW1KAUjT9KJsB9NH), [Chris Martin](https://open.spotify.com/artist/5esOg4joS5bpE6xBsMLcBi), [Andrew Taggart](https://open.spotify.com/artist/0fztDa29WvYXWSGqU2kLEF), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Something Just Like This / Hungarian Rhapsody](https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu) | 3:53 |
+| 162 | [Something Just Like This / Hungarian Rhapsody](https://open.spotify.com/track/7tPETW7bPcWw0IpTkeo150) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Guy Berryman](https://open.spotify.com/artist/2R0YxXQyGLURmOrY26P1kZ), [Jonathan Buckland](https://open.spotify.com/artist/6ZK1R7WvOURjOviPQkVJEm), [William Champion](https://open.spotify.com/artist/2DXdrllW1KAUjT9KJsB9NH), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2), [Andrew Taggart](https://open.spotify.com/artist/0fztDa29WvYXWSGqU2kLEF), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Something Just Like This / Hungarian Rhapsody](https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu) | 3:53 |
 | 163 | [Firework](https://open.spotify.com/track/5Y2g2734P6TcuJJmDwz9QO) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Red](https://open.spotify.com/album/48sxpy1XGBS2dVU8ebh9lY) | 3:42 |
 | 164 | [Bastille: The Piano Tribute Medley](https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Bastille: The Piano Tribute Medley](https://open.spotify.com/album/3sCEvqtJngunwfa5yZHGhi) | 5:31 |
 | 165 | [Take Me to Church](https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ) | 4:10 |

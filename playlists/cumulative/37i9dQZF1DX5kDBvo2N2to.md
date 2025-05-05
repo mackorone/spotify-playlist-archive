@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-297 songs - 16 hr 25 min
+298 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 | 2024-09-19 | 2025-04-25 |
 | [Spacer \(Reimagined\)](https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Spacer \(Reimagined\)](https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q) | 3:08 | 2024-06-28 | 2024-08-30 |
+| [Speculate](https://open.spotify.com/track/6Gb4QUbmRj6JW8wPaiuIxY) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Speculate](https://open.spotify.com/album/3zOEXt6kycTIPYMDjm4LZ3) | 2:39 | 2025-05-01 |  |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 |  |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-28 | 2024-10-25 |
 | [Stannar vi kvar här så dör vi](https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Stannar vi kvar här så dör vi](https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT) | 3:00 | 2024-10-04 |  |
@@ -263,7 +264,7 @@
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 | 2025-04-18 |
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-03-13 |  |
 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-28 | 2024-10-05 |
-| [Svara](https://open.spotify.com/track/6N54tKu2o2JpxfYJXxYRu3) | [Ani](https://open.spotify.com/artist/7sFdmA7tTTMABriYt3xKDp) | [Svara](https://open.spotify.com/album/53uNJDFmTxOYZqkz4WtYlV) | 2:01 | 2025-04-24 |  |
+| [Svara](https://open.spotify.com/track/6N54tKu2o2JpxfYJXxYRu3) | [Ani](https://open.spotify.com/artist/7sFdmA7tTTMABriYt3xKDp) | [Svara](https://open.spotify.com/album/53uNJDFmTxOYZqkz4WtYlV) | 2:01 | 2025-04-24 | 2025-05-05 |
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-19 | 2025-04-25 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 |  |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-28 | 2025-04-18 |
