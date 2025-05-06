@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=vklYbcGmQOuokZOSITh7yg"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,362 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,371 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

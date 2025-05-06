@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: rainwrld Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,725 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,744 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 10 | [Pahiram](https://open.spotify.com/track/15jcNSXzJmrvqkqMV1M91g) | [KIER](https://open.spotify.com/artist/1wszxvohWpHUxhiw8UFvhg) | [Pahiram](https://open.spotify.com/album/2hnRqGQgyOdrfRt8p1BgTl) | 4:17 |
 | 11 | [kariktan](https://open.spotify.com/track/6gzQ7nNBnUFbjEKmDOLsIw) | [Gabe Lerios](https://open.spotify.com/artist/1BOkbl2JT58196uHze2JqP) | [kariktan](https://open.spotify.com/album/3nby3lBtmM2wqvLGFBZjPm) | 4:39 |
 | 12 | [Tanang Butang Naay Rason](https://open.spotify.com/track/0ncJqTQpDfQV7sX6rGBMIo) | [AEVNDX](https://open.spotify.com/artist/0oAwy3Gzv8mIrizpatnuXq) | [Tanang Butang Naay Rason](https://open.spotify.com/album/3FX9WVgmmqflf83GpvpOQo) | 2:53 |
-| 13 | [Ibigay Mo Na](https://open.spotify.com/track/4FO8yUDSkpvybXMZxG3LFB) | [Derfy](https://open.spotify.com/artist/4BKjws5js5mF9DcpSxdgz5), [Avian](https://open.spotify.com/artist/35sgf5PPri0laH36hdxclR), [Val](https://open.spotify.com/artist/5FLeLeGDXmKKjEuCHVW5kL) | [Ibigay Mo Na](https://open.spotify.com/album/6sE9IZz5E0IwqowJScy5Xj) | 3:36 |
+| 13 | [Ibigay Mo Na](https://open.spotify.com/track/4FO8yUDSkpvybXMZxG3LFB) | [Derfy](https://open.spotify.com/artist/2neKnP2ZijIS5QKN2cxIAt), [Avian](https://open.spotify.com/artist/35sgf5PPri0laH36hdxclR), [Val](https://open.spotify.com/artist/5FLeLeGDXmKKjEuCHVW5kL) | [Ibigay Mo Na](https://open.spotify.com/album/6sE9IZz5E0IwqowJScy5Xj) | 3:36 |
 | 14 | [Toyo](https://open.spotify.com/track/3swCmgkJL1LtMGMQPlGUK0) | [Mikee Genie](https://open.spotify.com/artist/3gWcGwZWiX2vcQylqC552M) | [Toyo](https://open.spotify.com/album/1ROZNS7QSkmr8mQddlC5yD) | 3:54 |
 | 15 | [Mayumi](https://open.spotify.com/track/1upGwiPA49OpUCJH2Txo27) | [melancholia](https://open.spotify.com/artist/50QxjnH8vSN3bgcmNLUoXw), [Raph Severino](https://open.spotify.com/artist/0WAZYHqG4X5uKmdx9VxSyX) | [Mayumi](https://open.spotify.com/album/4DdkP1IJVo3h1phGs3So6y) | 3:53 |
 | 16 | [Eclipse](https://open.spotify.com/track/0ih3dMxeerkELbTQyHY2TB) | [Finding Apollo](https://open.spotify.com/artist/1RUTrzLBLQL8CWW7nVrWln) | [Eclipse](https://open.spotify.com/album/7F9JgO9Cv7AOPnAyDzWzb9) | 3:12 |

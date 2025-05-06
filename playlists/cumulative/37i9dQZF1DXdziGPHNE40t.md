@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-701 songs - 1 day 17 hr 36 min
+704 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Faded pictures of the past](https://open.spotify.com/track/4RRX9y5c5BZWFV1VHifBaI) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Faded pictures of the past](https://open.spotify.com/album/1klQ4UOFEcvzyASnUsvLwK) | 3:27 | 2023-08-10 | 2024-06-25 |
 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 | 2023-10-27 |  |
 | [Faelleshaven](https://open.spotify.com/track/53USGewhM8Uehqyxqg4CM2) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Faelleshaven](https://open.spotify.com/album/09ODQ6boVCHlsARYiJV3rf) | 4:13 | 2024-12-09 | 2025-01-21 |
+| [False Hopes](https://open.spotify.com/track/39d8lPrYec7TOYQJ7HQDsn) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [False Hopes](https://open.spotify.com/album/5cHf3AKOc5JBIDxGNHVOlP) | 2:52 | 2025-05-05 |  |
 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 | 2022-05-17 | 2025-02-04 |
 | [Fascination](https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Fascination](https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M) | 4:23 | 2024-07-15 | 2025-02-18 |
 | [Fictional Characters](https://open.spotify.com/track/2CnQ47NMVVLaweU6L88Xqj) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Fictional Characters](https://open.spotify.com/album/24icDB7xHNdjBuPnEcf5Ai) | 3:20 | 2024-07-22 |  |
@@ -195,6 +196,7 @@
 | [For Theodora](https://open.spotify.com/track/782yLVaT5RonpqxonaqbNu) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [For Theodora](https://open.spotify.com/album/06Ld3YPBpEKNrpFCwrURO3) | 3:08 | 2022-11-10 | 2024-07-23 |
 | [Forest of Knives](https://open.spotify.com/track/6qXA3xpqm95uyDC8rKGL4G) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Forest of Knives](https://open.spotify.com/album/5srrRSGOl4yXHuoPEL2dbd) | 3:23 | 2024-05-23 | 2025-02-25 |
 | [Forever](https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Forever](https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4) | 3:07 | 2023-10-27 | 2025-02-18 |
+| [Forever My Heart](https://open.spotify.com/track/6BKJ634q3HHteD7awITm1p) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Forever My Heart](https://open.spotify.com/album/329q33uqZEYrunOFQl3uIm) | 3:49 | 2025-05-05 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 | 2023-02-24 |
 | [Forgetful](https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Forgetful](https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN) | 4:06 | 2024-02-23 | 2024-11-06 |
@@ -215,7 +217,7 @@
 | [Having a Hard Time](https://open.spotify.com/track/0823AjOkg3Nb4VlucCEDQE) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Having a Hard Time](https://open.spotify.com/album/7trHYyPRE7bnvNo2rwnAzA) | 3:20 | 2024-08-06 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-05-24 | 2023-03-03 |
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2022-12-22 | 2024-08-07 |
-| [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 |  |
+| [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 | 2025-05-06 |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Help You Understand](https://open.spotify.com/track/5kaOT9THuBmY70BZaS88n6) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Help You Understand](https://open.spotify.com/album/4IHpFZkZro9QOBaaTxBEyv) | 3:28 | 2024-02-23 | 2024-10-02 |
 | [Her Conversation](https://open.spotify.com/track/6K2aRbro2PrqBu5r48tFsG) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Her Conversation](https://open.spotify.com/album/3n3QOFYssFytooqKAsSPXj) | 3:31 | 2025-03-18 |  |
@@ -474,7 +476,7 @@
 | [Rhythm of the City](https://open.spotify.com/track/2lIBvRZeHGoxpQlh8Mc3Jr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rhythm of the City](https://open.spotify.com/album/4DNMzms3jYncztKWhUVAQL) | 3:02 | 2023-08-10 | 2024-08-07 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2023-04-14 |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-10 |  |
-| [Rue Cler](https://open.spotify.com/track/6lh2GskB3nwoDHKar5wTAQ) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Rue Cler](https://open.spotify.com/album/6YBskAeSjooasuR5EufMSI) | 3:26 | 2024-09-27 |  |
+| [Rue Cler](https://open.spotify.com/track/6lh2GskB3nwoDHKar5wTAQ) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Rue Cler](https://open.spotify.com/album/6YBskAeSjooasuR5EufMSI) | 3:26 | 2024-09-27 | 2025-05-06 |
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-04-20 | 2024-07-13 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 |  |
 | [Sailing Stones](https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Sailing Stones](https://open.spotify.com/album/5be5TnG6tg6gRfx09QinvK) | 3:20 | 2024-05-10 |  |
@@ -600,6 +602,7 @@
 | [There's Something](https://open.spotify.com/track/57WkEsl35BbjihKAnDNh4N) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [There's Something](https://open.spotify.com/album/4WqhUlSM1wVrDjc0zpobcV) | 3:33 | 2024-04-23 | 2025-03-19 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-05-17 | 2024-06-25 |
 | [They Said](https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [They Said](https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t) | 3:38 | 2023-08-24 | 2024-08-13 |
+| [Things to Come](https://open.spotify.com/track/0NRF9w7LctAV898JHeoc5v) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Things to Come](https://open.spotify.com/album/4g727JuPcNoAcXKOBtMrQh) | 3:37 | 2025-05-05 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-02 | 2024-04-11 |
 | [Things You Should Mention](https://open.spotify.com/track/6YgAO785fxKfWRI7fx6c6S) | [Swing City Affair](https://open.spotify.com/artist/61VUtRySMVPXlpOCFILlpX) | [Things You Should Mention](https://open.spotify.com/album/7fAHlTmyMpFXeclwlAgmAO) | 3:58 | 2024-11-25 | 2025-03-04 |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-05-17 | 2024-06-25 |

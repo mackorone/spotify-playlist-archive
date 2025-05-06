@@ -2,7 +2,7 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: FIFTY FIFTY\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: HITGS\(힛지스\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
 476 songs - 1 day 2 hr 7 min
 
@@ -67,7 +67,7 @@
 | [Candy Boy](https://open.spotify.com/track/0SY4Q05g5eazjmgr3Dxr5y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 2:46 | 2022-01-04 | 2022-07-12 |
 | [Candy Crush](https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 3 : Candy Crush>](https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX) | 3:00 | 2024-04-26 | 2024-06-17 |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-07-04 | 2023-02-04 |
-| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 | 2025-05-01 |
+| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 |  |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
@@ -183,7 +183,7 @@
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-06 | 2025-04-06 |
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [I Like U Too Much](https://open.spotify.com/track/4h4qpoI8wWMQNYcr3Li4Yd) | [SONAMOO](https://open.spotify.com/artist/2MY1GcYSTw3QH2C1Umzsq0) | [I Like U Too Much](https://open.spotify.com/album/2udU7pnOygUDxkOth4gYcJ) | 3:24 | 2021-11-29 | 2022-07-07 |
-| [I Like You](https://open.spotify.com/track/6RX842AkuW01Sb15Mcix6l) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 1st MINI ALBUM \[I Like You\]](https://open.spotify.com/album/1l7d3Od3i2xjxU3AnkSXxH) | 2:51 | 2025-04-15 |  |
+| [I Like You](https://open.spotify.com/track/6RX842AkuW01Sb15Mcix6l) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 1st MINI ALBUM \[I Like You\]](https://open.spotify.com/album/1l7d3Od3i2xjxU3AnkSXxH) | 2:51 | 2025-04-15 | 2025-05-06 |
 | [I Want You Every Day](https://open.spotify.com/track/4H12mDiB75kAZolrHjMjza) | [JUDY](https://open.spotify.com/artist/37VjCKfHNYyumIW88jZW7T) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK) | 3:19 | 2022-03-29 | 2022-03-31 |
 | [I Wish](https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [From\. WJSN](https://open.spotify.com/album/5662dhD6LraFCUIzKujPej) | 3:38 | 2021-11-29 | 2022-07-25 |
 | [ICE CHU](https://open.spotify.com/track/7ucHQ2HqTl2nO5Eyd5jfft) | [OGUOGU](https://open.spotify.com/artist/0zMyf4jK7R5v4E1qitQAZS) | [ICE CHU](https://open.spotify.com/album/3uANATuTqvsbIBcAAhhMia) | 3:15 | 2022-03-29 | 2022-06-03 |

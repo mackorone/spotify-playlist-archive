@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 68 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 68 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 29 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 |
 | 30 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 |
 | 31 | [Heart Never Broke](https://open.spotify.com/track/4LfuwwWPuYzZ2vxnHK2cog) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Heart Never Broke](https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q) | 2:38 |
-| 32 | [note to myself](https://open.spotify.com/track/2FnWOTzG3SuGmAYIjMScWn) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:06 |
-| 33 | [Vermisse gar nichts \- Akustik Version](https://open.spotify.com/track/0GNUZmcZjInPaJBufzfXYu) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Besser kann ich es nicht erklären \(Deluxe\)](https://open.spotify.com/album/5ZFDT3yYk1te0ROLbXjUld) | 3:15 |
+| 32 | [Vermisse gar nichts \- Akustik Version](https://open.spotify.com/track/0GNUZmcZjInPaJBufzfXYu) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Besser kann ich es nicht erklären \(Deluxe\)](https://open.spotify.com/album/5ZFDT3yYk1te0ROLbXjUld) | 3:15 |
+| 33 | [note to myself](https://open.spotify.com/track/2FnWOTzG3SuGmAYIjMScWn) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:06 |
 | 34 | [Normal Fühlen](https://open.spotify.com/track/6iCHAxZFmGJu2bsGVUFhh8) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:10 |
 | 35 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
 | 36 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 43 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
 | 44 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
 | 45 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
-| 46 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
-| 47 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
+| 46 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
+| 47 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 48 | [Met Yet](https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [Met Yet](https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu) | 2:35 |
 | 49 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
 | 50 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 67 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 68 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbwiwAAAAABxYcmcWxlHkd0gYjTYP+3t`
+Snapshot ID: `AbwofgAAAAD+zlf1pR+ngq79uzdW3ol8`

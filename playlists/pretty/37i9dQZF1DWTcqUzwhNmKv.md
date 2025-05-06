@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Disturbed are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,601 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,366 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
 | 2 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
-| 3 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
-| 4 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 |
-| 5 | [By a Monster's Hand](https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster's Hand](https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7) | 3:42 |
-| 6 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 |
-| 7 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 |
-| 8 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 |
+| 3 | [By a Monster's Hand](https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster's Hand](https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7) | 3:42 |
+| 4 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 |
+| 5 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 |
+| 6 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
+| 7 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 |
+| 8 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 |
 | 9 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
 | 10 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
 | 11 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 |
 | 80 | [Mindframe](https://open.spotify.com/track/5RSZLtJ4AzbggHqYLywVW7) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Mindframe](https://open.spotify.com/album/1tng5yz3AyNEX5nHLqycex) | 3:06 |
 
-Snapshot ID: `aBZIagAAAACEoclFNlSZXZVdspaPkONt`
+Snapshot ID: `aBiaOwAAAADbF5fjgDx0l9taQ3Uz0nMa`

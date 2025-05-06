@@ -4,10 +4,11 @@
 
 > Money on my Mind\. Mind on my money.
 
-695 songs - 1 day 9 hr 19 min
+695 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2vnglz6rHOemjbDHg8PHyR) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/album/7k5DAMHj2Vx0t6k0NVJ6PT) | 0:00 | 2025-04-18 |  |
 | [+234](https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [+234](https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc) | 2:12 | 2022-07-28 | 2023-11-23 |
 | [+234](https://open.spotify.com/track/4jcMUbPIu4CAfTwNJw4HGZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 | 2023-11-17 | 2024-01-13 |
 | [1 billi \(feat\. Majeeed\)](https://open.spotify.com/track/6Iw6lAzDTqTWHHPBJYyhdO) | [Xbusta](https://open.spotify.com/artist/4MXhHvUOSehGxYEXHioArJ), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [1 billi \(feat\. Majeeed\)](https://open.spotify.com/album/0IxR8Nsm9xsT73bpG0Rr3Z) | 2:21 | 2023-03-03 | 2023-03-11 |
@@ -429,7 +430,6 @@
 | [Money Long](https://open.spotify.com/track/62XYvzEYmhxet6HpkaV35Q) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Niggas From The South](https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe) | 2:47 | 2024-11-15 | 2024-11-22 |
 | [Money Road](https://open.spotify.com/track/1HJz4T66kwhoS0sPxVSqtP) | [Slimo](https://open.spotify.com/artist/7hmLPcMBeEEewpkACjntJw), [Aduni](https://open.spotify.com/artist/1NP0iZYaRQ499naC6u3oGh) | [Money Road](https://open.spotify.com/album/0WmazXdNjuGZyKwRnPWwFY) | 2:55 | 2024-05-17 | 2024-06-01 |
 | [Money Talks](https://open.spotify.com/track/7An5oH1uyF3NQzTl5qj2vq) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [UGLY \(U Gatts Love Yourself\)](https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On) | 2:14 | 2024-04-19 | 2024-06-01 |
-| [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/track/2vnglz6rHOemjbDHg8PHyR) | [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/album/7k5DAMHj2Vx0t6k0NVJ6PT) | 2:11 | 2025-04-18 |  |
 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 |  |
 | [Mulla](https://open.spotify.com/track/7x9Jg12Lu8hxhGZlLkj6eD) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Mulla](https://open.spotify.com/album/2ygIsRaS6dDmGRQdNHFCSZ) | 2:45 | 2025-03-28 | 2025-04-01 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 | 2023-08-04 |

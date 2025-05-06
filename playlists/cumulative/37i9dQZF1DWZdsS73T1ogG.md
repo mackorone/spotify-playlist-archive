@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: El Malilla
 
-1,802 songs - 3 day 22 hr 34 min
+1,803 songs - 3 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,6 +946,7 @@
 | [Marquesina \- Spotify Singles](https://open.spotify.com/track/7BHXZzga7nV1LuTyn1PF2q) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Marquesina \- Spotify Singles](https://open.spotify.com/album/66kMhD2bCMzhwgAtaEzhLM) | 2:17 | 2023-04-28 | 2023-08-05 |
 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 | 2024-04-26 | 2024-06-23 |
 | [MARTINI](https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MARTINI](https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5) | 3:05 | 2023-03-03 | 2023-05-20 |
+| [MARTINI+](https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Hassi](https://open.spotify.com/artist/1Ng2SjGvxtzr7tFRBi2c5j), [Kyoshi Reyes](https://open.spotify.com/artist/0892v5aJKxs8tcXf9BCe8E) | [SENSACIONES+](https://open.spotify.com/album/4T4RB4clLd86DhlSoAT5Jt) | 3:03 | 2025-05-05 |  |
 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 | 2023-03-03 | 2023-05-20 |
 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 | 2023-11-10 | 2024-02-17 |
 | [Mata](https://open.spotify.com/track/0T4MMlCKhE4vUPAWGdIEF0) | [Rafa](https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh) | [Mata](https://open.spotify.com/album/3o0IVVfIDCT6QjayNaEPRB) | 2:21 | 2022-08-11 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Damiano David, IIII, Ed Sheeran and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,052 likes - 88 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,056 likes - 88 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 87 | [What Hurts The Most](https://open.spotify.com/track/288SBnV65NZ4NgsOmoINhM) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [What Hurts The Most](https://open.spotify.com/album/2DZobefozyw6OtL3NNYK4w) | 3:31 |
 | 88 | [On The Run](https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [On The Run](https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6) | 3:19 |
 
-Snapshot ID: `aBP8+QAAAADOD4HqyFq7LZEOhk0Y370J`
+Snapshot ID: `aBkJWgAAAAAVwEbP4NY4NBfkIIx5t01j`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "your favourite playlist's favourite playlist &lt;3. shop the pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Lorde",
+  "description": "your favourite playlist's favourite playlist &lt;3. shop the pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Maroon 5 &amp; LISA",
   "name": "Summer Pop Hits",
   "tracks": [
     {
@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "A6",
+        "url": "https://open.spotify.com/album/29ggbvlcCPiVSzVoPG1Axs"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201217,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/0kQWK9I3NRCuxRLuuGsv8X"
+    },
+    {
+      "album": {
         "name": "DAMAGE",
         "url": "https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j"
       },
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 134457,
       "name": "Female Intuition",
       "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
@@ -5994,7 +6012,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -6593,6 +6611,28 @@
     },
     {
       "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -6604,7 +6644,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
@@ -7322,7 +7362,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 165405,
       "name": "Situations",
       "url": "https://open.spotify.com/track/4Kx3VCXLvPHkyI0uoLD2Gt"

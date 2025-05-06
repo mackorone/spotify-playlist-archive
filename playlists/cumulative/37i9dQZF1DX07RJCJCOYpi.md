@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Sofía Reyes, Alan Walker
 
-391 songs - 20 hr 18 min
+392 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 | 2023-05-26 | 2023-12-16 |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2023-03-03 |  |
 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 | 2022-07-21 | 2023-05-27 |
+| [MARTINI+](https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Hassi](https://open.spotify.com/artist/1Ng2SjGvxtzr7tFRBi2c5j), [Kyoshi Reyes](https://open.spotify.com/artist/0892v5aJKxs8tcXf9BCe8E) | [SENSACIONES+](https://open.spotify.com/album/4T4RB4clLd86DhlSoAT5Jt) | 3:03 | 2025-05-05 |  |
 | [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 | 2024-06-21 |  |
 | [Me Medicaron \(Remix\)](https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/2tHaAgiYRoqiE674uJRO1u) | 3:22 | 2022-07-13 | 2022-07-29 |
 | [Me Medicaron \- Remix](https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n) | 3:22 | 2022-07-22 | 2023-05-27 |

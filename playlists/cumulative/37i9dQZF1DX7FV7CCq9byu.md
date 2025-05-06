@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-787 songs - 1 day 16 hr 10 min
+791 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 | 2025-01-10 |
 | [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 | 2024-11-23 |
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-24 | 2024-12-20 |
+| [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-05 |  |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-02-21 |
 | [ARI](https://open.spotify.com/track/4xZALaMQNhvses6epSwBD5) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [ARI](https://open.spotify.com/album/3c2W7IyMg1x9im3Hhz9WLo) | 2:19 | 2025-02-21 | 2025-03-28 |
 | [Armani](https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 3:02 | 2024-11-18 | 2025-01-24 |
@@ -449,6 +450,7 @@
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-13 | 2024-10-25 |
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-10-31 | 2025-01-10 |
+| [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 | 2025-05-05 |  |
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-17 | 2025-02-21 |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 | 2024-10-25 |
 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 | 2024-07-02 | 2024-08-23 |
@@ -740,6 +742,7 @@
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-19 | 2024-10-25 |
 | [Vill bara veta](https://open.spotify.com/track/2yVwXcq0ia6uhEKteFadrw) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Vill bara veta](https://open.spotify.com/album/1Fx8INrqUB2L1BO0vLek8D) | 2:33 | 2025-01-23 | 2025-03-14 |
 | [Vill va honom](https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Vill va honom](https://open.spotify.com/album/4syylJ7CrezyUxNdkSFsuI) | 3:04 | 2024-06-27 | 2024-08-23 |
+| [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 | 2025-05-05 |  |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 | 2024-07-19 |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-01-10 |
 | [Världen är vår](https://open.spotify.com/track/2rY652I4fSonQSRc5j88aQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Världen är vår](https://open.spotify.com/album/0yX52C858pOUF1Ya32DKHk) | 3:14 | 2024-09-05 | 2024-10-11 |
@@ -764,6 +767,7 @@
 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 | 2024-10-10 | 2024-11-23 |
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-09 | 2025-02-07 |
 | [Where Flowers Grow](https://open.spotify.com/track/1xgCXywHjvQ6LIq8awx4Th) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG), [Lew](https://open.spotify.com/artist/49PruHEHNzAd3kxuf7fHxb) | [Where Flowers Grow](https://open.spotify.com/album/6npz8UaNjIwG9PkCHrjA2E) | 3:15 | 2024-07-18 | 2024-09-13 |
+| [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-05 |  |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-19 | 2025-02-07 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-04 | 2024-11-01 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-08-26 | 2024-10-04 |

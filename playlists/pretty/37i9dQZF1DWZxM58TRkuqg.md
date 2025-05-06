@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,518 likes - 93 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,589 likes - 93 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

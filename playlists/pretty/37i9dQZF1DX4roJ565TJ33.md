@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,258 likes - 156 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,256 likes - 156 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

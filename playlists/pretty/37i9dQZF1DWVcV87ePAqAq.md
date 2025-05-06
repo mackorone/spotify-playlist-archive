@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,806 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,786 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

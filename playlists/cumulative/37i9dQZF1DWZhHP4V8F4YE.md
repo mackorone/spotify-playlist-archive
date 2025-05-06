@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-774 songs - 1 day 23 hr 29 min
+775 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID) | 4:40 | 2023-11-13 | 2024-04-19 |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2024-01-08 | 2024-03-12 |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2023-02-28 | 2023-03-21 |
-| [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 | 2025-04-22 |  |
+| [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 | 2025-04-22 | 2025-05-06 |
 | [Darling Jesus](https://open.spotify.com/track/3ePKfVhpGQWdcm05CDKM36) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus](https://open.spotify.com/album/2BP5xcuHfvDJVNdH1m8kMu) | 2:01 | 2023-09-18 | 2023-11-28 |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-11-15 | 2023-01-17 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-15 | 2023-06-06 |
@@ -589,6 +589,7 @@
 | [reason](https://open.spotify.com/track/4tX2xt8g17C6Kyv4EAnsYw) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone: Deluxe Edition](https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq) | 2:27 | 2024-04-16 | 2025-01-14 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-07-17 | 2024-04-19 |
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-03-20 | 2023-03-28 |
+| [Respect Your Elders](https://open.spotify.com/track/7ADy8k9CTu3m5kZrrwpGet) | [2Rymce](https://open.spotify.com/artist/0ZfT739SV75HWru0ItoiRk) | [Respect Your Elders](https://open.spotify.com/album/1ebIS8lEPW3L5uD4OSx3QB) | 3:22 | 2025-05-05 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-12-12 | 2023-01-17 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-09-11 | 2023-09-19 |
 | [Ripo Ripo](https://open.spotify.com/track/0t80WJiBrW5PxGdNezgIBK) | [Justyc](https://open.spotify.com/artist/7i45RS4ePh4PuQlIIRUz0B) | [Ripo Ripo](https://open.spotify.com/album/3gCyb4IsC7NsGYkby7Dx5p) | 3:07 | 2023-07-10 | 2023-08-01 |

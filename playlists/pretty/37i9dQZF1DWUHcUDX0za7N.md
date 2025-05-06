@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Dan Dizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,294 likes - 69 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,346 likes - 69 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

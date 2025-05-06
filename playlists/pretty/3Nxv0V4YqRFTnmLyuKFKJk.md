@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY TYLER BRADEN\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 59,876 likes - 50 songs - 2 hr 52 min
+[Topsify](https://open.spotify.com/user/topsify) - 59,878 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 | 49 | [The Fool](https://open.spotify.com/track/1rVZ7EqoVJfrciRW80Uljh) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Lee Ann Womack](https://open.spotify.com/album/6GfwKwr0IXUY95d5UaRgC3) | 3:32 |
 | 50 | [The Good Stuff](https://open.spotify.com/track/1sR3kJi14jA8Gau3a0yXAo) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Shoes, No Shirt, No Problems](https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc) | 3:20 |
 
-Snapshot ID: `AAAD2iLs6yG/loPaL3yv+4YfHTcFaVwf`
+Snapshot ID: `AAAD2+pPNbkzGgJFeRhZ90H9q0oG452K`

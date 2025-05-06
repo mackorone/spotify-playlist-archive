@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:1otG4oP2AJMnYAW0ufLKEU">Leon Krześniak</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,069 likes - 158 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,070 likes - 158 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

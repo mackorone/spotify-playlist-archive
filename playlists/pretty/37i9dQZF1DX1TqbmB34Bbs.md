@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: JAEHA\(재하\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,615 likes - 200 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,614 likes - 200 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

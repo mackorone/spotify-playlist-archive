@@ -4,10 +4,11 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 El Zar.
 
-379 songs - 23 hr 34 min
+380 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Solo Aire\)](https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [\(Solo Aire\)](https://open.spotify.com/album/2w1lSIsDXVry6h7LquJkog) | 3:10 | 2025-05-05 |  |
 | [03.10 pm](https://open.spotify.com/track/79vJknY5yQxlhOD5GtMNRT) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [03.10 pm](https://open.spotify.com/album/6z6DglLQsqOGzZlLAsbRBr) | 3:50 | 2024-06-14 |  |
 | [200 Monos](https://open.spotify.com/track/5tC4Y8NJGK3quJEdVVP6a9) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [200 Monos](https://open.spotify.com/album/7JV9A7P1hZrWrrMtFx7RPI) | 4:10 | 2023-11-10 | 2024-09-07 |
 | [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2023-04-14 | 2024-03-08 |
@@ -38,7 +39,7 @@
 | [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 | 2023-03-18 |
 | [Bancate ese defecto](https://open.spotify.com/track/5VoeA0AKKnAvJBIRoOowDF) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [LUKIAN](https://open.spotify.com/artist/5zKwmTSKHIc2oul3glT8s8) | [Bancate ese defecto](https://open.spotify.com/album/6SpkP6BeW6jw22HQ8av0gg) | 5:19 | 2025-04-25 |  |
 | [Bigote](https://open.spotify.com/track/1UH9NTgFF6woodUUm8uqPF) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Bigote](https://open.spotify.com/album/45lR1Wb5koRQjb0P0WoRkL) | 3:31 | 2024-09-12 | 2024-10-19 |
-| [Botella](https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Botella](https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi) | 2:12 | 2024-08-23 |  |
+| [Botella](https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Botella](https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi) | 2:12 | 2024-08-23 | 2025-05-06 |
 | [Buen dia otra vez](https://open.spotify.com/track/0ltdWScdZexaPqkpmYlzp9) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Ladrones del Silencio](https://open.spotify.com/album/28ziAOccefr5GomoW4YoVV) | 3:20 | 2025-03-28 |  |
 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 | 2023-08-25 | 2024-08-17 |
 | [Buena Pipa](https://open.spotify.com/track/1fohzzs0G5mDdAmNoVHq4d) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 4:05 | 2023-09-08 | 2023-09-27 |
@@ -255,7 +256,7 @@
 | [Nada que Perder](https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [El Modo](https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm) | 2:58 | 2023-01-27 | 2023-06-03 |
 | [Ni Mierda](https://open.spotify.com/track/3wJHwgJ2UXYicGth7OCkUD) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Abran Paso](https://open.spotify.com/album/1I6Tfo2FpfHPuvC3Pvaq39) | 4:44 | 2022-06-24 | 2023-03-04 |
 | [No Aguanto Más](https://open.spotify.com/track/2cqFQ9mcQCRpW2kdvAxUPM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:46 | 2023-03-03 | 2024-04-27 |
-| [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-09-06 |  |
+| [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-09-06 | 2025-05-06 |
 | [No Estés Triste](https://open.spotify.com/track/4Bm9mh2IiaMU77PuIqIvsR) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [No Estés Triste](https://open.spotify.com/album/725IopLufwMCMGq5pc3aux) | 3:46 | 2022-09-02 | 2023-09-27 |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 | 2024-08-24 |
 | [No Me Dejan Salir](https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Me Dejan Salir](https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5) | 4:13 | 2023-11-10 | 2023-12-09 |

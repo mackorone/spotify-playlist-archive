@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,327 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,447 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

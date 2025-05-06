@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "TPS",
+        "url": "https://open.spotify.com/album/5wnB3WsAiqAiH30W8lUVqP"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Contrat Diction",
+      "url": "https://open.spotify.com/track/1K2YZW5H3UHdA869QK9cc8"
+    },
+    {
+      "album": {
         "name": "COUNT ON ME",
         "url": "https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig"
       },

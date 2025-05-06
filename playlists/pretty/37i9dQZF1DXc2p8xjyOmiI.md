@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Jasiel Nuñez, Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,811 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,009 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

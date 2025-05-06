@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 215 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 215 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 191 | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY) | 3:11 |
 | 192 | [Cry Baby](https://open.spotify.com/track/0KXcvoQDhA4bt2hjhJcN7O) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/71JVxlGlLQHZZ1anFXkeej) | 3:42 |
 | 193 | [roots](https://open.spotify.com/track/0cB3Loy7nNn0RdptFUvKws) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [vital](https://open.spotify.com/album/07hIcfKFcbsOSWpvsGslyE) | 3:49 |
-| 194 | [Never Be Lonely \- The Voice Performance](https://open.spotify.com/track/1yFdJalk3I2F3gIEd22iKh) | [Aliyah Moulden](https://open.spotify.com/artist/1aEkjoj4B25OAcJOxp3Jk7) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/27nUKJK5iECqPzyaBHasRU) | 2:43 |
-| 195 | [Death Grip](https://open.spotify.com/track/6bA83ldB28Xl1CLnTYVpq8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Could’ve Been Anyone](https://open.spotify.com/album/7Btm2MR9ygjv2oTyBJ3Mzi) | 3:08 |
+| 194 | [Death Grip](https://open.spotify.com/track/6bA83ldB28Xl1CLnTYVpq8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Could’ve Been Anyone](https://open.spotify.com/album/7Btm2MR9ygjv2oTyBJ3Mzi) | 3:08 |
+| 195 | [Never Be Lonely \- The Voice Performance](https://open.spotify.com/track/1yFdJalk3I2F3gIEd22iKh) | [Aliyah Moulden](https://open.spotify.com/artist/1aEkjoj4B25OAcJOxp3Jk7) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/27nUKJK5iECqPzyaBHasRU) | 2:43 |
 | 196 | [Rent Money](https://open.spotify.com/track/0EG27a3cBSGE5bQvkVdAhY) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:12 |
 | 197 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 |
 | 198 | [Nostalgia](https://open.spotify.com/track/3vZzVdbzeg8hbSmEKTqR2S) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Nostalgia](https://open.spotify.com/album/27VyDOinSlqrIMJLHjARWu) | 3:27 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 214 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 215 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Abwi3gAAAAAjT/3Hx+xs9RTtkOQMEjvd`
+Snapshot ID: `AbwodQAAAAAuFXxlgS7N9rKM5dtvNNDI`

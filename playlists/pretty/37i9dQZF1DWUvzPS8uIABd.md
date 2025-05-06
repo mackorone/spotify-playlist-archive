@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Costee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,972 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,985 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
-| 2 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 1 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 2 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
 | 3 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
-| 4 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
-| 5 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 |
-| 6 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 |
-| 7 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 |
-| 8 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
+| 4 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
+| 5 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 6 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 |
+| 7 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 |
+| 8 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 |
 | 9 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
 | 10 | [Rikki mutta riittävä](https://open.spotify.com/track/3QT7f1k2dDjmSbOC3kc8CA) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Rikki mutta riittävä](https://open.spotify.com/album/1bK8gzhKWIfhVHXzUHAR8e) | 3:01 |
 | 11 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 74 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
 | 75 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
 
-Snapshot ID: `aBPhHAAAAAB/FX5Y8JzMNsJWxx9SG6PH`
+Snapshot ID: `aBhdwAAAAACyBFYdqHvyeSt5J2PFb2UI`

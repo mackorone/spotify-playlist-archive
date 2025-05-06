@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Sierra Hull
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,883 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,893 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

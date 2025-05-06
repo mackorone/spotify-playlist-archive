@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,359 likes - 250 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,427 likes - 250 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

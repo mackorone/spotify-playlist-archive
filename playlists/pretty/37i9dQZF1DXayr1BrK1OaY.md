@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,977 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,029 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

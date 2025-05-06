@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,099 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,150 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,608 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,666 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

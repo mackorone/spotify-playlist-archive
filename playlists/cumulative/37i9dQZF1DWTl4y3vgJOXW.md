@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Amen Thompson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander and Nikola Jokić
 
 805 songs - 1 day 17 hr 26 min
 

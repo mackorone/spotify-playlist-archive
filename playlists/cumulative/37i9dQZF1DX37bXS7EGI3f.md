@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-632 songs - 2 day 0 hr 22 min
+633 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Tales from the North](https://open.spotify.com/track/2h1nhjGCI0otQYmkp0f4gw) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Tales from the North](https://open.spotify.com/album/2oFRy2lPJVJ9wiOxaVRXsg) | 5:39 | 2024-02-23 |  |
 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 | 2022-02-11 |  |
 | [Tempest Of Blades](https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 3:32 | 2022-04-29 |  |
+| [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-05-05 |  |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2022-07-13 | 2022-07-30 |
 | [Terial the Hawk](https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Terial the Hawk](https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf) | 4:49 | 2021-10-16 | 2021-11-27 |
 | [Terminal Velocity](https://open.spotify.com/track/2UpxJ9ZFDsWOlwhCH52vkm) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/7iWSG80aISZQFUccpBFoT1) | 6:07 | 2022-07-13 | 2022-07-30 |
@@ -524,7 +525,7 @@
 | [The Gospel of Judas](https://open.spotify.com/track/5fDfOivURFfaa91vz5W2Eh) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Gospel of Judas](https://open.spotify.com/album/4kl8qGOuNY1TKWCe6XVxiy) | 4:05 | 2021-07-04 | 2022-03-23 |
 | [The Grand Inferno](https://open.spotify.com/track/6wvS71j5iww95t0Wu07kJI) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [The Grand Inferno](https://open.spotify.com/album/0pa0VDXc571gPfHDTICWiq) | 4:42 | 2024-09-20 | 2024-12-02 |
 | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/track/4xXkmpsOPJtR7z7dy0tiNn) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/album/73I0s203vjEG5d7ZC2PtsV) | 5:03 | 2022-10-14 | 2022-10-27 |
-| [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 | 2023-01-20 |  |
+| [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 | 2023-01-20 | 2025-05-06 |
 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 |  |
 | [The Hawthorn](https://open.spotify.com/track/1Kyu2V8kxobYLdGHVrrmFU) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Hawthorn](https://open.spotify.com/album/0rhNvRLBxdsDYjrRotRsuW) | 4:59 | 2020-11-29\* | 2021-11-20 |
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2022-07-13 | 2022-07-30 |

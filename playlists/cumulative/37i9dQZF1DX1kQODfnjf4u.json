@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295880,
+      "name": "AENE",
+      "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -1754,7 +1780,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 151666,
       "name": "Rest In Piss",
       "url": "https://open.spotify.com/track/237OELq03CgubC3t7LwvUq"
@@ -1798,6 +1824,28 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "album": {
@@ -2116,7 +2164,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"

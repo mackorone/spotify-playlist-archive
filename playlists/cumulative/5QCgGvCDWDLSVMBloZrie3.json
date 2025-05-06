@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Denim Jacket",
+        "url": "https://open.spotify.com/album/7ifMITCjYzKVcimkxmUoOY"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247518,
+      "name": "Denim Jacket",
+      "url": "https://open.spotify.com/track/0YMeOermYNkQRit6AvxZhX"
+    },
+    {
+      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },

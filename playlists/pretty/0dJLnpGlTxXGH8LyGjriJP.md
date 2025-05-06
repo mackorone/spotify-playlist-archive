@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 845 songs - 1 day 19 hr 13 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 846 songs - 1 day 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -853,5 +853,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 843 | [Dough](https://open.spotify.com/track/2rw5cbtHTyzy8iruujD28d) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 3:18 |
 | 844 | [Back To Back](https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Back To Back](https://open.spotify.com/album/79qV4McLzhs8U3FyRKnocz) | 2:50 |
 | 845 | [Flex Up \(feat\. Future & Playboi Carti\)](https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 2:50 |
+| 846 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 |
 
-Snapshot ID: `AAAECQ4OabHqToPtklwqw7gIVHwuAnDM`
+Snapshot ID: `AAAECrYvt780YyRlMrk5i3FFTQFIqRlR`

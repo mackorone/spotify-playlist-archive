@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,569 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,589 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

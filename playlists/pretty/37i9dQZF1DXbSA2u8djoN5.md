@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Sami G, Badd G
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,756 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,764 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 31 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
 | 32 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 33 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
-| 34 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 |
+| 34 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/42mfDl5UWXtoRxvr5pNg5r), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 |
 | 35 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 36 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 37 | [BANII](https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [BANII](https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ) | 2:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 May 18:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 May 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -42329,6 +42329,24 @@
     },
     {
       "album": {
+        "name": "Keep On Bringin' The BOOM!",
+        "url": "https://open.spotify.com/album/04g1piXGwiSaG4jKjM1TaH"
+      },
+      "artists": [
+        {
+          "name": "A.J. & Big Justice",
+          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Keep On Bringin' The BOOM!",
+      "url": "https://open.spotify.com/track/2gSFelgLlDY9RHiWU3ne3p"
+    },
+    {
+      "album": {
         "name": "Keep on Moving (Korean Ver.)",
         "url": "https://open.spotify.com/album/2NxMNcy8R5dHoE0vkyoWGR"
       },
@@ -47326,7 +47344,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
@@ -59168,7 +59186,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 284080,
       "name": "Pink Elephant",
       "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
@@ -82878,6 +82896,24 @@
       "duration_ms": 120032,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/3VPvbDjR0UOekMVCYa22iF"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212487,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat 🔁 Fedez e CLARA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,793 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,947 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 9 | [PERFECT \(feat\. Sarah Toscano\)](https://open.spotify.com/track/3jz5JqovbsESNYMxqHQ85k) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [NOTTI BRAVE AMARCORD](https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J) | 3:13 |
 | 10 | [Islanda](https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Islanda](https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R) | 3:37 |
 | 11 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
-| 12 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
-| 13 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 |
-| 14 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 |
-| 15 | [In auto alle 6:00 \(feat\. Lazza\)](https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [In auto alle 6:00 \(feat\. Lazza\)](https://open.spotify.com/album/0mlweBLcmpcETOH9OubY9o) | 2:47 |
-| 16 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
-| 17 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 |
-| 18 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
-| 19 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
+| 12 | [In auto alle 6:00 \(feat\. Lazza\)](https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [In auto alle 6:00 \(feat\. Lazza\)](https://open.spotify.com/album/0mlweBLcmpcETOH9OubY9o) | 2:47 |
+| 13 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
+| 14 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 |
+| 15 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
+| 16 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 |
+| 17 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
+| 18 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 |
+| 19 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
 | 20 | [Non sono io](https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non sono io](https://open.spotify.com/album/5236ysAzQAdy67A3fM6etk) | 2:52 |
 | 21 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 |
 | 22 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 64 | [Tilt](https://open.spotify.com/track/6EzqfLXQSgs0JeTY73VZob) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tilt](https://open.spotify.com/album/2dZj4dQ0l93htP9jv6HD1Z) | 2:25 |
 | 65 | [Non ci credo più](https://open.spotify.com/track/4czkrkPWjiOOUG0sKMSlyI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Non ci credo più](https://open.spotify.com/album/2d9K88liqAdkgG1rRzJCe3) | 3:22 |
 
-Snapshot ID: `aBPvJgAAAAD86v5SfXMJEkFQfBFEJo+i`
+Snapshot ID: `aBjhZwAAAABZTyWAHZ1eOFbAPTMoVIm2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,386 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

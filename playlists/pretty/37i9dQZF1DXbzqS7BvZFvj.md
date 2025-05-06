@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,834 likes - 79 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,835 likes - 79 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 8 | [10 Second Phone Call](https://open.spotify.com/track/6aW3v9Y9h5Ml5zWRiUdopK) | [Badius](https://open.spotify.com/artist/6BuRJR75o95H52H3jycRjD), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [10 Second Phone Call](https://open.spotify.com/album/1y96Gsamv6ZILInp13tAEo) | 2:41 |
 | 9 | [Different \(with 42 Dugg\)](https://open.spotify.com/track/3CXFeHHhNvwHsgAMdnPCve) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Different \(with 42 Dugg\)](https://open.spotify.com/album/1yDFI8tYzHuFuuZ7Y0L8iq) | 2:58 |
 | 10 | [Vanish Mode](https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:03 |
-| 11 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMI3N](https://open.spotify.com/artist/4dS6GlLsrqLFMaTkzbbrAe) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
+| 11 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMIEN](https://open.spotify.com/artist/0IzBfoIbXMYXpBFV7oCsCm) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
 | 12 | [Home Sweet Home](https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [HOME?](https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo) | 4:08 |
 | 13 | [Vacay](https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Vacay](https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX) | 2:22 |
 | 14 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |

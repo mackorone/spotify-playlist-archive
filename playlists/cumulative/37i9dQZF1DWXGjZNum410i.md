@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las canciones pop para toda la familia!
 
-176 songs - 9 hr 26 min
+177 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 | 2021-07-28 | 2023-03-23 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-02-16 | 2024-07-06 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-08-06 | 2024-02-17 |
-| [El Día del Niño](https://open.spotify.com/track/441xY6XTBpORXqBWMVmgia) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Saritah Bebé](https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk) | [El Día del Niño](https://open.spotify.com/album/05sGOCr8j1EyN4hpEWThXW) | 2:39 | 2025-04-11 |  |
+| [El Día del Niño](https://open.spotify.com/track/441xY6XTBpORXqBWMVmgia) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Saritah Bebé](https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk) | [El Día del Niño](https://open.spotify.com/album/05sGOCr8j1EyN4hpEWThXW) | 2:39 | 2025-04-11 | 2025-05-06 |
 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 | 2020-04-22 | 2022-07-29 |
 | [Eres Tú](https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:38 | 2023-03-22 | 2023-09-09 |
 | [Escríbeme](https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Escríbeme](https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL) | 2:24 | 2020-04-22 | 2023-03-23 |
@@ -106,6 +106,7 @@
 | [Me Oyen, Me Escuchan](https://open.spotify.com/track/0bEVnt3U8vqdHuld2Db4sd) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Me Oyen, Me Escuchan](https://open.spotify.com/album/5n1UqvUj254EQbn1XiV4ct) | 2:42 | 2020-04-22 | 2022-07-29 |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2023-09-08 |  |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2020-04-22 | 2023-03-23 |
+| [Medley Homenaje A Timbiriche](https://open.spotify.com/track/45Hve1K3LVVv6GU0vqqGyi) | [Los Meñiques De La Casa](https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR), [Lara Campos](https://open.spotify.com/artist/4i59SkjxpeY2MTZTVyO1QH), [Saritah Bebé](https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk) | [Medley Homenaje A Timbiriche](https://open.spotify.com/album/3Cq7jpvZpDnqGWOYHWeA2v) | 5:03 | 2025-05-05 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-09-08 | 2024-03-16 |
 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 | 2023-03-22 | 2024-02-17 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2024-02-22 |  |

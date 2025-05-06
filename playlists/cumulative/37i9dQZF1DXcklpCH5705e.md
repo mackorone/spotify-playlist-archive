@@ -2,7 +2,7 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
+> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
 
 187 songs - 12 hr 29 min
 

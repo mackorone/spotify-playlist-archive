@@ -4,7 +4,7 @@
 
 > Balti en tête de la playlist numéro un en Tunisie.
 
-249 songs - 14 hr 59 min
+250 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
 | [mahoumch ashabi](https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0) | [Aymen Ghzel](https://open.spotify.com/artist/0X6ml3Vhkfxz86Njojnnk8) | [mahoumch ashabi](https://open.spotify.com/album/79WrGdFAu7qD1XD7Sv9Au0) | 3:38 | 2024-12-18 | 2025-01-04 |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 | 2024-08-03 |
+| [Makina](https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [MOOTJEYEK](https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH) | [Makina](https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ) | 3:47 | 2025-05-05 |  |
 | [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 | 2023-12-13 |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 | 2024-07-10 |
 | [Manetfergou](https://open.spotify.com/track/3cPaU2mPl07jFske7Oa6BM) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/3FSUMn0xQilIzfsPjyQptP) | 3:17 | 2024-07-16 |  |

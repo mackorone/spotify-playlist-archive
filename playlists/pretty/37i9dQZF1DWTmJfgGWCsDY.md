@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,591 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 71 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 |
 | 72 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
 | 73 | [Singeli Twista](https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Singeli Twista](https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb) | 3:24 |
-| 74 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
+| 74 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [Kinkau](https://open.spotify.com/artist/5rvEeHjcYfgx7xpGO4OQhb), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
 | 75 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 |
 
 Snapshot ID: `aBQKxwAAAABrbBUk9qSfskiXTLlxIuCf`

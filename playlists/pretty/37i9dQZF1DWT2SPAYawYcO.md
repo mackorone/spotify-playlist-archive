@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ed Sheeran, Flume, Selena Gomez, Bailey Zimmerman & Luke Combs, Doja Cat + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,446 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,478 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

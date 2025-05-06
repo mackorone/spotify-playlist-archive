@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 247478,
       "name": "3NDL3SS",
       "url": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 171000,
       "name": "4 Morant (Better Luck Next Time)",
       "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 227160,
       "name": "Black Out Days",
       "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Crushcrushcrush",
       "url": "https://open.spotify.com/track/6ZCGKyXcGbYc6tdP6unPVY"
@@ -7900,6 +7900,24 @@
     {
       "album": {
         "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "album": {
+        "name": "Le Tigre",
         "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
       },
       "artists": [
@@ -7910,7 +7928,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 184686,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 275226,
       "name": "Don't Delete The Kisses",
       "url": "https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22"
@@ -9620,7 +9638,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 270104,
       "name": "Eternal Rest",
       "url": "https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU"
@@ -10634,7 +10652,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -14778,7 +14796,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -18202,7 +18220,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 199280,
       "name": "Lovers From The Past",
       "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
@@ -20698,7 +20716,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 238293,
       "name": "Nightmusic",
       "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
@@ -23714,7 +23732,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 243000,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV"
@@ -25842,7 +25860,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 213610,
       "name": "Sheesh (feat. Grimes)",
       "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
@@ -26290,7 +26308,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"
@@ -28914,7 +28932,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 284613,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi"
@@ -31252,7 +31270,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/3gGMsx3jxYKfhXq8LMj1tz"
@@ -31642,7 +31660,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 118853,
       "name": "Visiting Statue",
       "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"

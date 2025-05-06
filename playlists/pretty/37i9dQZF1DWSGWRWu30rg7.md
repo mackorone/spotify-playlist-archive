@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  NO NA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,907 likes - 88 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,908 likes - 88 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 2 | [Pelita](https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw) | [Adityaa Bagus](https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL) | [Pelita](https://open.spotify.com/album/2XfMU1K2vxSDZFl8VmSXl0) | 4:41 |
 | 3 | [Kena Lagi di Hati](https://open.spotify.com/track/0aI33N2KhawK8cfPbfWdRv) | [Timun Jelita](https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn) | [Volume 2](https://open.spotify.com/album/1BSgGqkdbZqdX6K6yfFzvK) | 3:50 |
-| 4 | [Terlanjur Basah](https://open.spotify.com/track/6Y7TsvGPPaBspwNW6rBLmL) | [Keanu Angelo](https://open.spotify.com/artist/2RxXqaJ5dhiDm5Dy1Yw4RT), [Anya Geraldine](https://open.spotify.com/artist/25Voe2ivdhVWeyFwHg53K9) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:07 |
+| 4 | [Terlanjur Basah](https://open.spotify.com/track/6Y7TsvGPPaBspwNW6rBLmL) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20), [Anya Geraldine](https://open.spotify.com/artist/25Voe2ivdhVWeyFwHg53K9) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:07 |
 | 5 | [DIAL](https://open.spotify.com/track/3X8Bs7p1JETpwWPoKIMOxB) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr), [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [DIAL](https://open.spotify.com/album/4cx4kw7Bv1lWzujkxIsTNQ) | 3:25 |
 | 6 | [Malam Nirwana](https://open.spotify.com/track/44zBSotYhpaIicffJAv2bL) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Malam Nirwana](https://open.spotify.com/album/2qh8FM3GQvTsPcPPTGEkQ8) | 3:40 |
 | 7 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 |

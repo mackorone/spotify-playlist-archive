@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,249 likes - 350 songs - 20 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,262 likes - 350 songs - 20 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

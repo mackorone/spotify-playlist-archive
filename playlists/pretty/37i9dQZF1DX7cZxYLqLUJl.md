@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,324 likes - 92 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,354 likes - 92 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

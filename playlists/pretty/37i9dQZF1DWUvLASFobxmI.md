@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. emmanuellcortess\_, Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,890 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,968 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

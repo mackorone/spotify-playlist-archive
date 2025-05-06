@@ -4,7 +4,7 @@
 
 > 
 
-551 songs - 1 day 11 hr 2 min
+552 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Deja Vu \(feat\. JAY\-Z\) \- Homecoming Live](https://open.spotify.com/track/7Id9WVdUZXIK1jchXxvRH3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:49 | 2023-12-03 |  |
 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 | 2022-07-20 | 2025-03-08 |
 | [Denim Jacket](https://open.spotify.com/track/0070lcYeexRMKyj7sa8J9f) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Denim Jacket](https://open.spotify.com/album/2EMBHHF9JJBQYygis010To) | 4:07 | 2023-12-20 |  |
+| [Denim Jacket](https://open.spotify.com/track/0YMeOermYNkQRit6AvxZhX) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Denim Jacket](https://open.spotify.com/album/7ifMITCjYzKVcimkxmUoOY) | 4:07 | 2025-05-06 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2024-01-31 |  |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 |  |
 | [Diet Mountain Dew](https://open.spotify.com/track/20Dr6PsU4KweNgqDw7Vo0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) | 3:42 | 2023-10-22 | 2025-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Ayo Maff
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,964 likes - 59 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,111 likes - 59 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

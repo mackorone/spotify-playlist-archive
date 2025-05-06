@@ -4,11 +4,12 @@
 
 > Guided meditations for a variety of needs.
 
-139 songs - 16 hr 46 min
+141 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Minute Daily Meditation](https://open.spotify.com/track/7kP4DiNJumBpIxI3nsoiQx) | [Aimee Rebekah Shea](https://open.spotify.com/artist/5hQLoOfmtLQHYtIaEAm8Tv) | [Chakra Healing: Guided Meditation and Creative Visualization](https://open.spotify.com/album/1m28AJYK9tWcuK4KXZ3SxA) | 11:13 | 2024-02-20 |  |
+| [4\-7\-8 Breathwork For Relaxation & Aniety Relief](https://open.spotify.com/track/6AuFHGqke5eHWCQmJWGdlb) | [Shandy Dhungana](https://open.spotify.com/artist/0v9y2tJUGqAQPuaikxoREI) | [4\-7\-8 Breathwork For Relaxation & Aniety Relief](https://open.spotify.com/album/3cLffnPGYEpvvnybYQDRli) | 12:46 | 2025-05-05 |  |
 | [5 Minute Guided Meditation for Deep Sleep](https://open.spotify.com/track/37dsjUA67eiuIxhyOrFQcm) | [Guided Meditation](https://open.spotify.com/artist/5lWKhMEB1HAYGo8i3AndCm) | [Guided Meditations for Deep Sleep](https://open.spotify.com/album/1g7mADMaeo7LhAU8apYhg8) | 5:00 | 2023-08-22 |  |
 | [5 Minute Guided Morning Meditation \(Spiritual Morning\)](https://open.spotify.com/track/5jV01YQUUOQo9hWjKOOz0l) | [Meditation Family](https://open.spotify.com/artist/7gUWbtZiWcLUxuhIqGrd2r) | [5 Minute Guided Meditations](https://open.spotify.com/album/25cQ9rlSnGdc5Ek7I8JsVg) | 6:39 | 2023-08-22 |  |
 | [5 Minute Morning Meditation](https://open.spotify.com/track/5BORc1Unb7pxS89vM1AHOS) | [Serenity Symphony](https://open.spotify.com/artist/4uPsbe0BKt1O8ZxJUyly8z) | [5 Minute Morning Meditation](https://open.spotify.com/album/5b6Bcgxm2bYHl9PtHJEDMu) | 4:58 | 2023-08-22 |  |
@@ -49,8 +50,9 @@
 | [Embracing Abundance and Confidence](https://open.spotify.com/track/1xuY4L7Qgyc04xqR85COzG) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Affirmation Meditations](https://open.spotify.com/album/2Ls6UmY3eo36KLnWXgwclQ) | 5:03 | 2024-01-25 |  |
 | [Embracing Positivity and Self Love](https://open.spotify.com/track/4fctKO6Yz0baFEu83io6e1) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Affirmation Meditations](https://open.spotify.com/album/2Ls6UmY3eo36KLnWXgwclQ) | 3:28 | 2024-01-25 |  |
 | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/track/2LuOb3ZBWt05ECgQgdfUOc) | [The Honest Guys](https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V) | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/album/3Dd4WuCF8HvasKUWfoOlkw) | 9:55 | 2023-08-22 |  |
-| [Fear](https://open.spotify.com/track/305MoTuHU2wrKAZJce5Z9A) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/4tNyKoCRMx8zhHOpkDh4TJ) | 1:57 | 2024-04-11 |  |
+| [Fear](https://open.spotify.com/track/305MoTuHU2wrKAZJce5Z9A) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/4tNyKoCRMx8zhHOpkDh4TJ) | 1:57 | 2024-04-11 | 2025-05-06 |
 | [Fear](https://open.spotify.com/track/3z3MwJyOz8gfYJP3juPie1) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/2z4A7jYYtKSk1Dceafkip3) | 1:57 | 2023-08-22 | 2024-04-19 |
+| [Find Calm Within: 8 Minutes of Peaceful Breathing](https://open.spotify.com/track/0AwgBjN7WcgydTQrFjKtVA) | [Kristina Lindsey](https://open.spotify.com/artist/529EkfijubAfQkj70B0e2N) | [Find Calm Within: 8 Minutes of Peaceful Breathing](https://open.spotify.com/album/4cJC3176UCd7KmAJtCg2tt) | 8:30 | 2025-05-05 |  |
 | [Gratitude \(with Guided Meditation\)](https://open.spotify.com/track/1WhSiIdd2NR3RvWnO3mggO) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Gratitude](https://open.spotify.com/album/5ScFsECiROA6op1LT2lYkD) | 4:14 | 2023-08-22 |  |
 | [Gratitude Meditation](https://open.spotify.com/track/1B2BEQ5MBUmTnloR5HhC77) | [The Guided Meditation Gurus](https://open.spotify.com/artist/0iXhnZJOVEgRuSBIzawn87) | [Gratitude Meditation](https://open.spotify.com/album/55rugSQQmqZ2W6INromCi7) | 7:58 | 2025-01-24 |  |
 | [Grounded \- Guided Meditation](https://open.spotify.com/track/7J6goi1udgaBa1nVAoeCoH) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Grounded \- Guided Meditation](https://open.spotify.com/album/3ghWlIj8OyoYPVj7af8KNc) | 6:04 | 2023-08-22 |  |

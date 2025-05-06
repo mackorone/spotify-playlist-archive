@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Hol' up: let's talk about the Black artists in the U.K\. who are making waves\. Click into the feed! Cover: <a href="spotify:artist:3bO19AOone0ubCsfDXDtYt">Myles Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,868 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,883 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 27 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 28 | [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 |
 | 29 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
-| 30 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 30 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 31 | [BUTTERFLY KISSES](https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BUTTERFLY KISSES](https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM) | 2:02 |
 | 32 | [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 |
 | 33 | [Sweet Love](https://open.spotify.com/track/7AOKR43gFlnEphVivfm4Hj) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/4Lu3YAr1ESVXk64bKE2Hom) | 3:32 |

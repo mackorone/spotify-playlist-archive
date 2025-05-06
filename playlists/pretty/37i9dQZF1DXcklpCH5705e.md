@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
+> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,025 likes - 62 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,051 likes - 62 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 61 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 |
 | 62 | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/track/0sk1CPmvdzL03FpdMDud57) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/album/24wLyLLvLG8L0f4tvWOwJP) | 3:34 |
 
-Snapshot ID: `aBOajAAAAAAB22P5uFcuoyHnGJkb2tqM`
+Snapshot ID: `aBivYgAAAAC4ff1rC2rzzEa328eMDzvL`

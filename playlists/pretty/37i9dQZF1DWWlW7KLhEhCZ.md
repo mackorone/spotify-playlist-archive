@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: AKA AFK
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,734 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,725 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [Tomara Que Caia](https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Por Você...](https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK) | 2:05 |
 | 14 | [NÃO PARO](https://open.spotify.com/track/2kxXntABtdnck6LcMEuP6N) | [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p), [Toniazzo](https://open.spotify.com/artist/0lBAm5t6C2FeWZxdL8NquZ), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei) | [NÃO PARO](https://open.spotify.com/album/3csmR2CiCgYkWPcIrKLCyc) | 2:06 |
 | 15 | [Depois de Você](https://open.spotify.com/track/7bO5HJUhhyzB4sNQcRBY2o) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [Depois de Você](https://open.spotify.com/album/6p7nkw9Wiqga1HVdatVgpi) | 2:35 |
-| 16 | [Fora de Sp](https://open.spotify.com/track/5eOf60kCLBfEh2VxSJ56f1) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Tempos de Fuga](https://open.spotify.com/album/1MOc8kBh5WNAdr5h8XiSRS) | 3:17 |
+| 16 | [Fora de Sp](https://open.spotify.com/track/5eOf60kCLBfEh2VxSJ56f1) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Tempos de Fuga](https://open.spotify.com/album/1MOc8kBh5WNAdr5h8XiSRS) | 3:17 |
 | 17 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 18 | [Conjunto do Paris](https://open.spotify.com/track/38tRjaqubA8aWXkaXGzQIg) | [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Conjunto do Paris](https://open.spotify.com/album/3aJgUny17AJwSIwp3GcCKE) | 2:38 |
 | 19 | [AFTERPARTY](https://open.spotify.com/track/0cAZEIKg7yMOZ52RkcwWqc) | [GALE](https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Leto](https://open.spotify.com/artist/6cBbuYnPDPljc1kybBU6Y8), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [¿¿¿??? Vol\. Ī: Redenção](https://open.spotify.com/album/1TyBATNkhs1YGBKp2SnPed) | 2:39 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,870 likes - 113 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,885 likes - 113 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tere Bina \- DAYTIMERS Presents: Alterations](https://open.spotify.com/track/7EAktOQGwDbZt1GkX9cvmt) | [DAYTIMERS](https://open.spotify.com/artist/2ozabOPMFPRDDU6uVajiyr), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Tere Bina \(DAYTIMERS Presents: Alterations\)](https://open.spotify.com/album/7nhuXdxvdBesnbx76v1nYE) | 3:46 |
+| 1 | [Tere Bina \- DAYTIMERS Presents: Alterations](https://open.spotify.com/track/7EAktOQGwDbZt1GkX9cvmt) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [DAYTIMERS](https://open.spotify.com/artist/2ozabOPMFPRDDU6uVajiyr), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Tere Bina \(DAYTIMERS Presents: Alterations\)](https://open.spotify.com/album/7nhuXdxvdBesnbx76v1nYE) | 3:46 |
 | 2 | [Chug Chug](https://open.spotify.com/track/6xKahEaJiuBZJxfCoeXapP) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2) | [Chug Chug / Taka Doom](https://open.spotify.com/album/0jisVfCyz4ER1o7ZXscw1x) | 3:21 |
 | 3 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 4 | [GULAB XX](https://open.spotify.com/track/0HPYbPgdKlcwutDKIsq54L) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:19 |

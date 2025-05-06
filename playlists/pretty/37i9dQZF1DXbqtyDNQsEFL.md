@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=nsy7DqQhTJmoqB6H2VtyMA>Joe Mettle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,789 likes - 80 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,820 likes - 80 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,325 songs - 3 day 7 hr 48 min
+1,328 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 3:20 | 2022-07-05 | 2023-11-18 |
 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 3:20 | 2022-01-19 |  |
 | [Any Ol’ Barstool \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/3iZ7yYvQ1oxWgYvMMM23WH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 3:20 | 2023-10-02 | 2024-04-19 |
+| [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-05 |  |
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
 | [Arnaq \- Spotify Singles](https://open.spotify.com/track/0T4IShtGeuGZS3siXj4MJe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:39 | 2023-11-22 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-24 |  |
@@ -368,6 +369,7 @@
 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-10-03 |  |
 | [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2022-01-19 |  |
 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 | 2022-01-19 |  |
+| [Fovame \- Spotify Singles](https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fovame \- Spotify Singles](https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf) | 2:48 | 2025-05-05 |  |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-08-31 |  |
 | [Fresh Eyes \(Spotify Singles\)](https://open.spotify.com/track/0bJJw1WQ1TjiXHkOwhBoJu) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles \(Spotify Exclusive\)](https://open.spotify.com/album/2SJtePiXbTDlsxU4OKUa20) | 3:16 | 2023-10-02 | 2024-04-19 |
 | [Fresh Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1TzHpSSy3oL0tTR3mXsQke) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/4JNZCTcuenAhagoD43YUJy) | 3:16 | 2022-01-19 |  |
@@ -1104,6 +1106,7 @@
 | [Take Me To Church](https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 4:30 | 2023-10-18 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-10-03 |  |
 | [Taste \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spotify Singles](https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg) | 7:43 | 2022-01-19 |  |
+| [Tattoo \- Spotify Singles](https://open.spotify.com/track/3OOl2L4LrjlRRSMDzIpua8) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Tattoo \- Spotify Singles](https://open.spotify.com/album/4aISMGKmjSm9b6uWlmpGef) | 2:33 | 2025-05-05 |  |
 | [Te Metiste \- Spotify Single](https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Te Metiste \- Spotify Single](https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr) | 3:22 | 2025-02-20 |  |
 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 2:43 | 2023-06-08 |  |
 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0kdaH9AO4ddOgIAYrnf2tU) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/72ekwhd1WlpvNWvSFirYfr) | 2:43 | 2023-10-02 | 2024-04-19 |

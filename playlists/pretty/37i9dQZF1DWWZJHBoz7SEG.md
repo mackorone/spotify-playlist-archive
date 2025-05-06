@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mayo mayito mayititito empieza en compañía de Fuerza Regida y muchas pero muchas rolas chiditas ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,933 likes - 61 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,018 likes - 61 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:2hVWBpjLW4Q7fboYz2pVYK">MOLIY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,801 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,845 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 15 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
 | 16 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 17 | [TRICK DADDY](https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 1:53 |
-| 18 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 18 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 19 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 20 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |
 | 21 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |

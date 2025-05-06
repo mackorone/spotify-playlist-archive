@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: DPR ARTIC\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,063 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,065 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

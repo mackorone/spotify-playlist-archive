@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SNIK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 177272,
       "name": "ANATOLI",
       "url": "https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 166198,
       "name": "Bam",
       "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
@@ -912,6 +912,24 @@
       "duration_ms": 94999,
       "name": "BLICK",
       "url": "https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV"
+    },
+    {
+      "album": {
+        "name": "POP TOO",
+        "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156862,
+      "name": "BLOUZAKI",
+      "url": "https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP"
     },
     {
       "album": {
@@ -1191,6 +1209,32 @@
     },
     {
       "album": {
+        "name": "DANNY PHANTOM",
+        "url": "https://open.spotify.com/album/0SyY81pSlirz049SGjE1JN"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147415,
+      "name": "DANNY PHANTOM",
+      "url": "https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4"
+    },
+    {
+      "album": {
         "name": "De Thymame",
         "url": "https://open.spotify.com/album/07dcBpz8dEedBFSURQbWqg"
       },
@@ -1350,7 +1394,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 150000,
       "name": "DOLLA DOLLA",
       "url": "https://open.spotify.com/track/1Q4fXnDsfRVN1KTH3TEaN3"
@@ -2580,7 +2624,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 207058,
       "name": "Kataramenos",
       "url": "https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg"
@@ -3210,7 +3254,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
@@ -4552,7 +4596,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 201931,
       "name": "SKG DRILL",
       "url": "https://open.spotify.com/track/3YKFn6I4dDHORAFWCNgvFU"
@@ -4596,6 +4640,50 @@
       "duration_ms": 184999,
       "name": "Skrofa",
       "url": "https://open.spotify.com/track/3jMYVOiX7gAt2gFal1VL9T"
+    },
+    {
+      "album": {
+        "name": "SOS 2",
+        "url": "https://open.spotify.com/album/4RVpjTkGxzG2E2YgxxGalG"
+      },
+      "artists": [
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "SOS 2",
+      "url": "https://open.spotify.com/track/12EQ1xDHqPMmnLtP1z6bi8"
+    },
+    {
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
     },
     {
       "album": {
@@ -4684,6 +4772,24 @@
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
+    },
+    {
+      "album": {
+        "name": "CAPO DEI CAPI",
+        "url": "https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "SUPERTRAP",
+      "url": "https://open.spotify.com/track/1fMGV4Q1hxPtn2XNB2ETeD"
     },
     {
       "album": {
@@ -5010,6 +5116,24 @@
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
+    },
+    {
+      "album": {
+        "name": "CAPO DEI CAPI",
+        "url": "https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181033,
+      "name": "TONY MONTANA II",
+      "url": "https://open.spotify.com/track/2gj90hNzA3rO1rqCcosPes"
     },
     {
       "album": {

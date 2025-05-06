@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Kawtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,997 likes - 47 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,005 likes - 47 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

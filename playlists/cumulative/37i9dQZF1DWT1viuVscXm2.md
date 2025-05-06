@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-367 songs - 21 hr 3 min
+368 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2022-08-05 |  |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-10-20 | 2024-03-30 |
 | [Llamadas Extrañas](https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [15 Años](https://open.spotify.com/album/7ednM399J2qf4ZzpQqTq6n) | 3:14 | 2024-12-13 |  |
+| [Llegó el Lunes \(Remix\)](https://open.spotify.com/track/5jORaKAuneXipXzKWWKNH8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Llegó el Lunes \(Remix\)](https://open.spotify.com/album/7MXoyK8SRuAdS7t4dbJs3L) | 3:46 | 2025-05-05 |  |
 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 | 2021-12-24 |  |
 | [Llorarás Más de 10 Veces](https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Llorarás Más de 10 Veces](https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz) | 3:30 | 2022-08-05 | 2024-04-06 |
 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-04-11 |  |
@@ -363,7 +364,7 @@
 | [Ya Re Fue](https://open.spotify.com/track/1XbWDGxWXD69Lsi9R5tq6Q) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Ya Re Fue](https://open.spotify.com/album/2gkQ5vr0YlePsiKD7Szdud) | 3:44 | 2021-12-24 | 2022-03-05 |
 | [Ya Sera Tarde](https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ya Sera Tarde](https://open.spotify.com/album/6jiWZxtBjLgknEKGJAeVCR) | 3:40 | 2024-05-24 | 2024-10-05 |
 | [Ya Verás](https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Ya Verás](https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E) | 3:27 | 2023-03-31 | 2023-05-13 |
-| [Yo Me Lo Busqué](https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/4Mca9dy70yjLL1p79ItASf) | 2:40 | 2025-01-17 |  |
+| [Yo Me Lo Busqué](https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/4Mca9dy70yjLL1p79ItASf) | 2:40 | 2025-01-17 | 2025-05-06 |
 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 | 2022-07-15 | 2022-08-27 |
 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 | 2021-12-24 |  |
 | [Yo Te Quiero](https://open.spotify.com/track/3ogRdwXNsRj7yYp6pQHIon) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Yo Te Quiero](https://open.spotify.com/album/7FsltKZuJw6Lbd1t8eRcwp) | 3:35 | 2024-11-01 | 2025-02-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,588 likes - 208 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,702 likes - 208 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 9 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
 | 10 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 |
 | 11 | [Bad Brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
-| 12 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 12 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 13 | [Just Like Me](https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Just Like Me](https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh) | 3:24 |
 | 14 | [Again](https://open.spotify.com/track/0Vaqtnussbw1IhNow4vD1c) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Woody McClain](https://open.spotify.com/artist/3J0AbCSmVh4WFe6TvB5wkd) | [JL \(Clean\)](https://open.spotify.com/album/6M5xq8pxCeebT68ZaocduM) | 3:06 |
 | 15 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |

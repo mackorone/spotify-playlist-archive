@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,843 songs - 4 day 1 hr 9 min
+1,844 songs - 4 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,7 +1625,7 @@
 | [TELEFONO NUEVO](https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 5:54 | 2023-10-14 | 2024-01-13 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-07 |
 | [Tenerte](https://open.spotify.com/track/79U2fS41tzUFSdnAb9MhAk) | [Jay Aponte](https://open.spotify.com/artist/6ZO8MJdmtvD2p4zblbSSQx) | [Tenerte](https://open.spotify.com/album/68MKCGqSjFcUYBrXBuwa3t) | 3:16 | 2024-06-23 | 2024-06-26 |
-| [Tengo Deseo](https://open.spotify.com/track/30gdfpJCK63a7BG9MeqnDQ) | [Unik0](https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c), [La Yumi Rd](https://open.spotify.com/artist/78yTMwVxgBhdCrEoP733k4) | [Tengo Deseo](https://open.spotify.com/album/1OCSOgjvUgF6Ai9kR2f3cG) | 2:32 | 2025-05-04 |  |
+| [Tengo Deseo](https://open.spotify.com/track/30gdfpJCK63a7BG9MeqnDQ) | [Unik0](https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c), [La Yumi Rd](https://open.spotify.com/artist/78yTMwVxgBhdCrEoP733k4) | [Tengo Deseo](https://open.spotify.com/album/1OCSOgjvUgF6Ai9kR2f3cG) | 2:32 | 2025-05-04 | 2025-05-06 |
 | [Teteo](https://open.spotify.com/track/1rnTP7ptxaj0rq2Iyc4Ufv) | [El Marci](https://open.spotify.com/artist/4bJuppq8R7GPtZfc8W7wx2) | [The World Is Mine](https://open.spotify.com/album/0nJ8vP6SNGyINePsl6GdlG) | 2:25 | 2023-06-09 | 2023-06-19 |
 | [TETEO](https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [TETEO](https://open.spotify.com/album/1mnkzLm2harcXTYeKIJqVJ) | 2:32 | 2024-01-09 | 2024-02-08 |
 | [TETEO \(feat\. Axel Rulay, White Star\)](https://open.spotify.com/track/0Vhn5cKzaOuAXq0G7fnY0H) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [White Star](https://open.spotify.com/artist/70nM9ixtEAtdmEQrmxgMHf) | [REAL](https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf) | 4:05 | 2024-10-26 | 2024-11-04 |
@@ -1731,6 +1731,7 @@
 | [un x100to](https://open.spotify.com/track/4QctbZRsuWYPT0pbKg7u75) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:14 | 2023-08-04 | 2023-09-01 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-18 | 2023-08-05 |
 | [UNA BOKA](https://open.spotify.com/track/3wSZvk3xWv2bzUpUAalO55) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Toploud](https://open.spotify.com/artist/5tgFUVWQA7u6tF7Ut79Mge) | [UNA BOKA](https://open.spotify.com/album/7j9E8n2j2T948hupgcuqBw) | 2:30 | 2024-10-26 | 2024-11-09 |
+| [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 | 2025-05-05 |  |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2021-03-27\* | 2021-07-04 |
 | [Una Malita](https://open.spotify.com/track/4L6Il4csGOZ077lp8g4cvo) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Alex Roxario](https://open.spotify.com/artist/0FKz97QfwXKxjFy3mAqNUZ) | [Una Malita](https://open.spotify.com/album/7AaqOLgnZTJBA3ppJIfCk0) | 1:51 | 2024-03-30 | 2024-04-10 |
 | [Una Morena](https://open.spotify.com/track/3bJrHqKHhQ10oU8CVaZtmY) | [TDA Papi](https://open.spotify.com/artist/3gthjmP4998NIbsk126ltK), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Una Morena](https://open.spotify.com/album/1DApU1LgwY4LLNb6PtmxSK) | 2:47 | 2022-10-09 | 2022-11-12 |

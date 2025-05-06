@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 406 songs - 21 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 406 songs - 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,8 +286,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 276 | [How's Your Romance](https://open.spotify.com/track/0bdgJQZVwLz9ZchgExCg5u) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:22 |
 | 277 | [Love For Sale](https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [SESJUN RADIO SHOWS VOL.2](https://open.spotify.com/album/7FAkmTKo6gCz6n3xiwTk4J) | 12:11 |
 | 278 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
-| 279 | [Bull Dog](https://open.spotify.com/track/0Vza9SdU65IiAgmVrWwPsf) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 1:58 |
-| 280 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 |
+| 279 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 |
+| 280 | [Bull Dog](https://open.spotify.com/track/0Vza9SdU65IiAgmVrWwPsf) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 1:58 |
 | 281 | [The Law](https://open.spotify.com/track/2BmUV89Lac3uczBg7jRWmj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:48 |
 | 282 | [The Cocotte](https://open.spotify.com/track/7oSwEGKB1EFISGthtWyiP5) | [Performances By Famous Artists](https://open.spotify.com/artist/235XUDTs7PKPOSf4OrrWjX), [Taken From Kic Cd 7136](https://open.spotify.com/artist/2efQ4HtaNhguJIxloaJ4dg) | [Porter, Cole \- Cole Porter In The 1930s's Volume 1](https://open.spotify.com/album/5XNqbZPMTYxrVSpU9foKNK) | 2:44 |
 | 283 | [Me And Marie](https://open.spotify.com/track/0Bv2wU9vpGWixdotorxR4q) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 406 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Abwi/AAAAACFMmx5ITS5GGwDP5NNG7/I`
+Snapshot ID: `AbwonAAAAAACzvLRVpZgd5K4MLpdnyKm`

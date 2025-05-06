@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Kenia Os, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,150 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,204 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

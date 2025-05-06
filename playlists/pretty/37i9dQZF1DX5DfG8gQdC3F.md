@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Lights, Jorja Smith, PUP, Summer Walker and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,933 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,954 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 51 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |
 | 52 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 |
 | 53 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
-| 54 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 54 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 55 | [Virginia's Daughter](https://open.spotify.com/track/2y7QKAPbpbpJaoaNuOw9BL) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Virginia's Daughter](https://open.spotify.com/album/7oPxY7MUZ4xOHgHzmZvx34) | 3:08 |
 | 56 | [Girl at the Station](https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Girl at the Station \(feat\. Jeremy Passion\)](https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK) | 2:25 |
 | 57 | [i'll keep protecting you](https://open.spotify.com/track/1BKhntZCveBlk6IwOz2LMz) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [i'll keep protecting you](https://open.spotify.com/album/4YtS5XcSP2mNO9jJOEcIOG) | 3:06 |

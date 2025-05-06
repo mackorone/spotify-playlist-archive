@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,885 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,886 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,7 +342,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 332 | [Moving](https://open.spotify.com/track/3C9BSRfaiZGIO7H4cT69wY) | [73 Keys](https://open.spotify.com/artist/1mhNzQc6b2ESbUivdL9oHx), [Iris Reid](https://open.spotify.com/artist/5fB1PoVDMVQbFUPaQAvo3q) | [Moving](https://open.spotify.com/album/77HGEpcZm5YTHGc8q6Eg3U) | 2:20 |
 | 333 | [Water Polo](https://open.spotify.com/track/3362xQSfmnXoZOwUjJwpAu) | [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [Mary Bozaan](https://open.spotify.com/artist/0FrE3epxv4G2vMH5WStxzx) | [Water Polo](https://open.spotify.com/album/4WaJkAHjNcuIBWif7wUJBV) | 4:18 |
 | 334 | [Porto Cristo](https://open.spotify.com/track/7rdHK9Y4soN4bNOGQxxICz) | [BROTHER](https://open.spotify.com/artist/2gJtsSRIUscYcbwFHUFInV), [Zerbin](https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT), [Peter Mol](https://open.spotify.com/artist/2huny4063R3FQOtrm9rbOo) | [Porto Cristo](https://open.spotify.com/album/6wl5rcO1ijuDJlzv6j99qW) | 3:40 |
-| 335 | [On me dit tu](https://open.spotify.com/track/7ywxxldfodopLxjHA0VVWb) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [À ta merci](https://open.spotify.com/album/4tsA4rdVsoe9wnHV7ilJgD) | 3:40 |
+| 335 | [On me dit tu](https://open.spotify.com/track/7ywxxldfodopLxjHA0VVWb) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [À ta merci](https://open.spotify.com/album/4tsA4rdVsoe9wnHV7ilJgD) | 3:40 |
 | 336 | [Before I Die](https://open.spotify.com/track/6GXi8Spd3TAPOUpLpCJBRv) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Golden Rail Motel](https://open.spotify.com/album/6Y6R7wsmuiDujjf2kceQ3Y) | 3:28 |
 | 337 | [When I Turn It On](https://open.spotify.com/track/0eOwQL8cSV3N5sDXHEJ5oI) | [MATS](https://open.spotify.com/artist/4Ve52Oa5gQzsbSg0fwZr3A) | [When I Turn It On](https://open.spotify.com/album/6Bq1wiNqnTn3bqeutFrc6E) | 2:41 |
 | 338 | [Battlecry](https://open.spotify.com/track/5IwXIWJiXjkwfVvWUG2j9U) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Battlecry](https://open.spotify.com/album/3L5tVN6ugLPzFCaWRRCnGW) | 2:38 |

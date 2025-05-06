@@ -1,12 +1,12 @@
 {
   "description": "Balti en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
-  "num_followers": 101352,
+  "num_followers": 101362,
   "original_name": "Hot Hits Tunisia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA05NgAAAABGQ8pOiFASGp0nDQPd+tlR",
+  "snapshot_id": "aBho4QAAAABE5cXsWJNhLwYxCjgd6JDl",
   "tracks": [
     {
       "added_at": "2025-04-26 19:51:18",
@@ -87,6 +87,26 @@
       "duration_ms": 226631,
       "name": "Wasa3",
       "url": "https://open.spotify.com/track/6hUElQZZP5c72sjFh8RTov"
+    },
+    {
+      "added_at": "2025-05-05 07:28:26",
+      "album": {
+        "name": "Makina",
+        "url": "https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        },
+        {
+          "name": "MOOTJEYEK",
+          "url": "https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH"
+        }
+      ],
+      "duration_ms": 227215,
+      "name": "Makina",
+      "url": "https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy"
     },
     {
       "added_at": "2025-04-26 19:51:18",

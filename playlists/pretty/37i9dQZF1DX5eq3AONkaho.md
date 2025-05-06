@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,552 likes - 200 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,565 likes - 200 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

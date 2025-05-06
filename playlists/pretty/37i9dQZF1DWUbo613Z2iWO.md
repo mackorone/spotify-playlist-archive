@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Xavier Omär
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,010 likes - 194 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,029 likes - 194 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 4 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 5 | [Emergency](https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [It's Complicated](https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo) | 2:40 |
 | 6 | [Just Like Me](https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Just Like Me](https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh) | 3:24 |
-| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 8 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |
 | 9 | [Do For Love](https://open.spotify.com/track/3SMRP2eGrpxBS1I1rZNFLP) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Do For Love](https://open.spotify.com/album/7oRjaEMoi6IEErNGCuoigJ) | 2:08 |
 | 10 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |

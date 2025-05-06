@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Guitarricadelafuente, Morad, Álvaro de Luna, Lali con Duki, Selena Gomez y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,517 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,544 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

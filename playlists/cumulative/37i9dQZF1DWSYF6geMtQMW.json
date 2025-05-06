@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05d5\u05d3\u05d9\u05d4   ",
+  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05e8\u05d5\u05df \u05d7\u05d9\u05d5\u05df    ",
   "name": "\u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05de\u05e0\u05e6\u05d7\u05ea \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/2uAgJT5Ew4CrFcikwitcFT"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198605,
+      "name": "\u05d4\u05d7\u05d3\u05e8 \u05de\u05e1\u05ea\u05d5\u05d1\u05d1",
+      "url": "https://open.spotify.com/track/6kbhnbcZeYz8RvsFlLkhNH"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d9\u05d5\u05dd \u05e7\u05de\u05ea\u05d9 \u05e9\u05de\u05d7",
         "url": "https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v"
       },
@@ -2082,7 +2100,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 181558,
       "name": "\u05e2\u05d5\u05d3 \u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/15leAeXFh1WX1QOxp1LnOS"
@@ -2300,6 +2318,24 @@
       "duration_ms": 224000,
       "name": "\u05e8\u05d5\u05d6",
       "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
+        "url": "https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY"
+      },
+      "artists": [
+        {
+          "name": "Mor",
+          "url": "https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178409,
+      "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
+      "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"
     },
     {
       "album": {

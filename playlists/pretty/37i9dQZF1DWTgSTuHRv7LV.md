@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Santa Fe Klan
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,525 likes - 185 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,639 likes - 185 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

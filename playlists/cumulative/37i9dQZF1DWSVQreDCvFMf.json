@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Kape",
+        "url": "https://open.spotify.com/album/3MpVBleiTg2fGZ9cvXRaRq"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273421,
+      "name": "Kape",
+      "url": "https://open.spotify.com/track/4yaIMZ86wsyni0V9b8p52v"
+    },
+    {
+      "album": {
         "name": "kapoy (feat. ZOYA)",
         "url": "https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,655 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,934 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 |
 | 80 | [Sweet Like](https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Sweet Like](https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG) | 2:26 |
 
-Snapshot ID: `aBeBCAAAAACS3Kzf0Yq0QVIi65gQHjgz`
+Snapshot ID: `aBjScAAAAABs8821XjNw2zrcLtZwPqVp`

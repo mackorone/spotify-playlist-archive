@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,608 likes - 35 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,610 likes - 35 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

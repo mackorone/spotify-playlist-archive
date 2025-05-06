@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,547 likes - 50 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 50 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

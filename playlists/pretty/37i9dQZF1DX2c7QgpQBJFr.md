@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Rkomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,948 likes - 115 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,952 likes - 115 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 148 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 148 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 13 | [Passion Flower \- Instrumental](https://open.spotify.com/track/0O727spQJQDjTLEBnnchAG) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Roy Haynes](https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo) | [Wanton Spirit With Charlie Haden And Roy Haynes](https://open.spotify.com/album/014Yi62dTNyZsmXlTsU4zj) | 7:36 |
 | 14 | [Nutcracker Suite \(Arr\. Ellington & Strayhorn\): Sugar Rum Cherry \(Dance of the Sugar Plum Fairy\)](https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Harmonie Ensemble/New York](https://open.spotify.com/artist/0GfLwr0Zsx7NNi8Hl4bJlo), [Steven Richman](https://open.spotify.com/artist/0brDqEtzVsH4OxYr4xEzhm) | [Tchaikovsky & Ellington: The Nutcracker Suites, Classical & Jazz](https://open.spotify.com/album/5WpLO4jvVGe7I237Jmjvcj) | 3:06 |
 | 15 | [Remember](https://open.spotify.com/track/7rvuYWWPi0m86nnxXYwWTT) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 2:34 |
-| 16 | [Sunset And The Mocking Bird \- The Queen's Suite](https://open.spotify.com/track/67BBamyXyAaWjHtJwEBPDa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:47 |
-| 17 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 |
+| 16 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 |
+| 17 | [Sunset And The Mocking Bird \- The Queen's Suite](https://open.spotify.com/track/67BBamyXyAaWjHtJwEBPDa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:47 |
 | 18 | [Blood Count](https://open.spotify.com/track/2FN3icajFPjlWRlhSqe37u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
 | 19 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 20 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Abwi1AAAAABOijLuhbtqTy3LtfjTxbdx`
+Snapshot ID: `AbwodQAAAABU8NgVInVOz9m8sGRAI7i7`

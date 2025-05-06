@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 330 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 330 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 252 | [Why Do You Suppose](https://open.spotify.com/track/2hfZlDKc6JwyKcbf9hWML7) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [Dave Pell Octet Plays Rodgers & Hart](https://open.spotify.com/album/1muhbtz2yxWhNhyK4X1hMv) | 3:03 |
 | 253 | [I Had Twins](https://open.spotify.com/track/3iFpQi6sSyhQfHAE4q7IAH) | [Patrick Quinn](https://open.spotify.com/artist/01IfgtjGDee7BsoXu50er6), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [The Boys From Syracuse: A Musical Comedy Sensation \(1997 Original New York Recording\)](https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp) | 4:39 |
 | 254 | [Ev'ry Sunday Afternoon](https://open.spotify.com/track/7HxHA3dEo7mVVCEojxwRNP) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Rodgers and Hart](https://open.spotify.com/artist/0nQUbpmd7XAM7ep5Z6H4ww), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Rodgers & Hart](https://open.spotify.com/album/5WfKuSoHpAZ66yTVphN9JX) | 3:37 |
-| 255 | [Fair Is Fair](https://open.spotify.com/track/2o041UoE3JDzToXlGKSsUv) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [Struttin' At The World's Fair](https://open.spotify.com/album/7cNu86alJYAiIwUPTTbfKU) | 2:02 |
-| 256 | [Jupiter Forbid](https://open.spotify.com/track/6nABcCNQDPepUfCarb1wgi) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 4:08 |
+| 255 | [Jupiter Forbid](https://open.spotify.com/track/6nABcCNQDPepUfCarb1wgi) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 4:08 |
+| 256 | [Fair Is Fair](https://open.spotify.com/track/2o041UoE3JDzToXlGKSsUv) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [Struttin' At The World's Fair](https://open.spotify.com/album/7cNu86alJYAiIwUPTTbfKU) | 2:02 |
 | 257 | [Song Of The High Seas](https://open.spotify.com/track/3F9Vm9mgJRdV60qMr3YCpR) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 |
 | 258 | [Danger Down Deep](https://open.spotify.com/track/2nODfvtMNFVidNKxAHpulq) | [RCA Symphony Orchestra](https://open.spotify.com/artist/3k5jXckGxVF5jvZ6wap7fh), [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Victory at Sea \(Highlights\)](https://open.spotify.com/album/5PU45HipLqx3wu7JxEqmQx) | 3:51 |
 | 259 | [My Man Is On The Make \- Harpies In Sheep's Clothing](https://open.spotify.com/track/1a2NHVSL4sp4nJcnFMbEyH) | [Ben Selvin & His Orchestra](https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6) | [Women With Attitude](https://open.spotify.com/album/4P91Hu1uk3OzKeRrD7bXd5) | 2:32 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Abwi/AAAAABc71lGTlyRxIGbSnH4s2cR`
+Snapshot ID: `AbwonAAAAACJl3TuJl5WB+iQxK+d/qDn`

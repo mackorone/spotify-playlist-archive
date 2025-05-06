@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,675 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,723 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

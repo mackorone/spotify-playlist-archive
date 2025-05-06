@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,441 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,497 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 3 | [Lose You](https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll](https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq) | 3:13 |
 | 4 | [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 |
 | 5 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/3mDFJuPmEsbNhzkR7yyJkZ) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
-| 6 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
+| 6 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
 | 7 | [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 |
 | 8 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
 | 9 | [Break Free](https://open.spotify.com/track/1VfXJzDrhqwHrORhdSRBOx) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Break Free](https://open.spotify.com/album/4nEu0JLNGGAq3Sf0Bwo0hg) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 73 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 73 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 34 | [Diviser pour mieux régner](https://open.spotify.com/track/2SyhVw4qt5p5PDIWkO1XE2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:40 |
 | 35 | [Horizon vertical](https://open.spotify.com/track/7LkRAV3RI042FnhSg7nKmI) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:37 |
 | 36 | [Oh My](https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:18 |
-| 37 | [Ma wife](https://open.spotify.com/track/3OGISTawri5xIRd4dmmN6N) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:18 |
-| 38 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
+| 37 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
+| 38 | [Ma wife](https://open.spotify.com/track/3OGISTawri5xIRd4dmmN6N) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:18 |
 | 39 | [1992](https://open.spotify.com/track/0Hzgsewk4Rikq44haxwfTO) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:52 |
 | 40 | [Adios](https://open.spotify.com/track/4z8pJ74Yw4B4G3SToTzCKL) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:02 |
 | 41 | [2014](https://open.spotify.com/track/7eIAX5Kkm0N3aQCAEa9QsV) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:57 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 72 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 73 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `Abwi1AAAAACQlT1m62P2BZrc9W/i3+1e`
+Snapshot ID: `AbwodAAAAACFTkLiZM8TIsQSAY8lbJb2`

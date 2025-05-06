@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,882 likes - 89 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,886 likes - 89 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
-| 2 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
-| 3 | [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 |
-| 4 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
-| 5 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
-| 6 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
-| 7 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
-| 8 | [Lifeline](https://open.spotify.com/track/6dYRVP8CYMAaUpXprCY2BW) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Lifeline](https://open.spotify.com/album/1Gmxq2ikim2BeBGda3bS9E) | 3:31 |
-| 9 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
-| 10 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
-| 11 | [Blasphemous Paradise](https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Blasphemous Paradise](https://open.spotify.com/album/5iimgNW82dhY6JIJo8VeDq) | 3:36 |
+| 2 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
+| 3 | [Lifeline](https://open.spotify.com/track/6dYRVP8CYMAaUpXprCY2BW) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Lifeline](https://open.spotify.com/album/1Gmxq2ikim2BeBGda3bS9E) | 3:31 |
+| 4 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
+| 5 | [Blasphemous Paradise](https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Blasphemous Paradise](https://open.spotify.com/album/5iimgNW82dhY6JIJo8VeDq) | 3:36 |
+| 6 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 7 | [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 |
+| 8 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
+| 9 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 10 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
+| 11 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
 | 12 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
 | 13 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
 | 14 | [The Cradle](https://open.spotify.com/track/3qJZ8TynOJAIfexv1m2xRi) | [Laurenne / Louhimo](https://open.spotify.com/artist/5pmtBo3993oBwmOMFSUBpf) | [The Cradle](https://open.spotify.com/album/2iVAFo42n2uWTyzYvDaPmN) | 4:08 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 88 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 89 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
 
-Snapshot ID: `aBPhHAAAAABYp+c1/8hnaWo1Bggg6i+Z`
+Snapshot ID: `aBhf3AAAAABdZVqcJ/kcRigVlT4zn91r`

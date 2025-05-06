@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 May 18:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 May 03:04 UTC.
 
-4,677 songs - 10 day 20 hr 0 min
+4,679 songs - 10 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2208,6 +2208,7 @@
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-13 | 2024-12-19 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-17 | 2025-01-25 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-25 | 2025-04-01 |
+| [Keep On Bringin' The BOOM!](https://open.spotify.com/track/2gSFelgLlDY9RHiWU3ne3p) | [A.J\. & Big Justice](https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp) | [Keep On Bringin' The BOOM!](https://open.spotify.com/album/04g1piXGwiSaG4jKjM1TaH) | 1:49 | 2025-05-06 |  |
 | [Keep on Moving \(Korean Ver.\)](https://open.spotify.com/track/7hNTFfq6DSEYry168OYNfn) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Ver.\)](https://open.spotify.com/album/2NxMNcy8R5dHoE0vkyoWGR) | 3:06 | 2024-09-24 | 2024-09-27 |
 | [Keep Pushing](https://open.spotify.com/track/1E7PjlgEcRsGB4oT6SNaYW) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Jonathan Snipes](https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M), [William Hutson](https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm) | [Keep Pushing](https://open.spotify.com/album/0dnmwmD83U5t6es4eoJURO) | 3:46 | 2024-11-11 | 2024-11-26 |
 | [Keeping Your Memory Alive](https://open.spotify.com/track/4pE7KT0ex54PTtQfG9PsV4) | [Tub Ring](https://open.spotify.com/artist/4ZRsSvxF588eUkyfFRLWEn) | [Keeping Your Memory Alive](https://open.spotify.com/album/0njHpmDnOwPf2QbTCpNxKI) | 2:28 | 2024-09-10 | 2024-09-13 |
@@ -2469,7 +2470,7 @@
 | [Loveless Suffering](https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Loveless Suffering](https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX) | 4:07 | 2024-05-08 | 2024-05-11 |
 | [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 | 2024-06-20 | 2024-06-22 |
 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 | 2024-12-04 | 2024-12-07 |
-| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-25 |  |
+| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-25 | 2025-05-06 |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2024-11-07 | 2024-11-09 |
 | [Lowdown \(part i\)](https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Lowdown](https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS) | 3:15 | 2024-09-12 | 2024-09-14 |
 | [lower](https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [lower](https://open.spotify.com/album/3su4g4uYeEPRCKlOyaAZIo) | 3:58 | 2024-09-20 | 2024-09-26 |
@@ -3084,7 +3085,7 @@
 | [Pink Cactus Café](https://open.spotify.com/track/7wG9eW4Gdhrvnw1b3r0shg) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Pink Cactus Café](https://open.spotify.com/album/0tX1nXVVy096AzQfQApY4s) | 3:25 | 2024-09-12 | 2024-09-14 |
 | [PINK CLOUD](https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [nrv](https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g) | 3:10 | 2024-11-09 | 2024-11-26 |
 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 | 2024-12-29 | 2025-01-12 |
-| [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 | 2025-04-25 |  |
+| [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 | 2025-04-25 | 2025-05-06 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-05-27 |
 | [Pink Sky](https://open.spotify.com/track/3JARzxcCGXCuxXESPhbuuv) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Pink Sky](https://open.spotify.com/album/49cUxYFCjaYtakVTjuTgJc) | 3:20 | 2024-05-15 | 2024-05-18 |
 | [PINK!](https://open.spotify.com/track/4bmlGixi0hvRrgYxU2PdYP) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK!](https://open.spotify.com/album/1ZGMooaMB45vQCthgyTOpm) | 1:46 | 2024-12-20 | 2024-12-29 |
@@ -4322,6 +4323,7 @@
 | [vivo ou morto, um problema](https://open.spotify.com/track/34YInRrO9FD164VPFP3lb2) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3) | [vivo ou morto, um problema](https://open.spotify.com/album/25aHEO79rmhh7s99zceShL) | 3:43 | 2025-03-03 | 2025-03-12 |
 | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-10 | 2024-06-13 |
 | [Vogue](https://open.spotify.com/track/3VPvbDjR0UOekMVCYa22iF) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Vogue](https://open.spotify.com/album/5dtFERfTQIfkXsji8xBAKI) | 2:00 | 2024-08-24 | 2024-08-29 |
+| [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 | 2025-05-06 |  |
 | [Voices Carry](https://open.spotify.com/track/1daQ8ywh31Dqf1f880EcFB) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Voices Carry](https://open.spotify.com/album/2igyLjiFl6Qac1VLWleNI4) | 4:47 | 2024-08-28 | 2024-08-31 |
 | [VOLCA](https://open.spotify.com/track/4Dyvo6xZamG6kwTRA9P0li) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [VOLCA](https://open.spotify.com/album/4vtaEfHGUFUfkcVK1aEzNM) | 3:06 | 2024-06-20 | 2024-06-22 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-12 | 2025-02-16 |

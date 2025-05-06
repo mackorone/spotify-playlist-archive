@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 187 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 187 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 163 | [Napoleon's A Pastry](https://open.spotify.com/track/7G75sxDTlJZGenltun6qS0) | [Cynthia Crane](https://open.spotify.com/artist/2RC2BxcroaVm1XXaR5t87d) | [I'm Confused, Therefore I Am](https://open.spotify.com/album/4ncC3FE8AaibowTISkFUtq) | 4:10 |
 | 164 | [The Rakish Young Man with the Whiskahs](https://open.spotify.com/track/1zySHyAUFSbiADrZ8D7EVM) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 3:15 |
 | 165 | [Dusty Shoes](https://open.spotify.com/track/6lwldurksSlyXeiJXKXTYE) | [Leslie A\. Hutchinson](https://open.spotify.com/artist/6PJmqHWnjjvZcrqnoJdU69) | [Hutch At The Piano](https://open.spotify.com/album/5ex3tZE3opPxy7o2Eo1l7W) | 3:28 |
-| 166 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
-| 167 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
+| 166 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
+| 167 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
 | 168 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
 | 169 | [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 |
 | 170 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 186 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbwiwAAAAAAX4uyLSAVWF0FdUZ3uJb08`
+Snapshot ID: `AbwoYAAAAAATzxQvbxn5p33PeTF/0zRD`

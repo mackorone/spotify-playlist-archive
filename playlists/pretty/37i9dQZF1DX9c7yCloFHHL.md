@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Kara\-Lis Coverdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,625 likes - 106 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,725 likes - 106 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 2 | [Under The Mariana Trench](https://open.spotify.com/track/0IEl7oEXcyhD3ETT2sWydg) | [Pan\-American](https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds), [Kramer](https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg) | [Under The Mariana Trench](https://open.spotify.com/album/6OMb9bvjAwzJxrC2z1f5cK) | 3:35 |
 | 3 | [Freedom](https://open.spotify.com/track/5relEzd6zHW4duiUhwVFdS) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Freedom](https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH) | 6:58 |
 | 4 | [Untitled](https://open.spotify.com/track/11LtL5wzNLv5f5Pml8n3A0) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Untitled](https://open.spotify.com/album/3bnouKu9cbmxIurDOvhLLv) | 3:30 |
-| 5 | [H2O: VIII\. Aurora \- Piano + Nature Sounds Version](https://open.spotify.com/track/5QxcqZucYl5fWR8KvRPdiS) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [H2O \(Deluxe\)](https://open.spotify.com/album/34az3A9Dnr8PNbdPcqLHlK) | 4:58 |
+| 5 | [H2O: VIII\. Aurora \- Piano Version \- Ambient Water Mix](https://open.spotify.com/track/5QxcqZucYl5fWR8KvRPdiS) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [H2O \(Deluxe\)](https://open.spotify.com/album/34az3A9Dnr8PNbdPcqLHlK) | 4:58 |
 | 6 | [Sewing a Button](https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [The Luckiest Man in America OST](https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6) | 3:19 |
 | 7 | [M4 \- Future Days Mix](https://open.spotify.com/track/6h24wnpxvThfULdlavJqey) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Magniificent Little Dudes \(The Remixes\)](https://open.spotify.com/album/0ogqBah5cedRe2uoyKSLnc) | 5:51 |
 | 8 | [Beautification Technologies](https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Beautification Technologies](https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu) | 4:53 |

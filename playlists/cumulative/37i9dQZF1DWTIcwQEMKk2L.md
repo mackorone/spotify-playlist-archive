@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-177 songs - 8 hr 12 min
+179 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2025-03-24 |  |
 | [At Least Give Me My Dreams Back, You Negligent Whore!](https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Another Year of Disaster](https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6) | 5:11 | 2023-11-20 | 2024-04-19 |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2025-03-24 |  |
+| [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2025-05-05 |  |
+| [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2025-05-05 |  |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-11-20 |  |
 | [Beautiful Day.](https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Beautiful Day.](https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK) | 1:39 | 2023-11-20 | 2024-06-12 |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2023-11-20 | 2025-02-04 |
@@ -60,7 +62,7 @@
 | [Endless Time](https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl) | [Roberto Cacciapaglia](https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG) | [Atlas \- Cacciapaglia Collection](https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X) | 3:14 | 2023-11-20 | 2024-04-19 |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2023-11-20 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2023-11-20 | 2024-04-24 |
-| [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2024-07-29 |  |
+| [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2024-07-29 | 2025-05-06 |
 | [Feathers](https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 2:52 | 2023-11-20 |  |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2024-01-15 |  |
 | [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 | 2025-02-18 |
@@ -184,6 +186,6 @@
 | [Willow](https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I) | [Helen Jane Long](https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX) | [Intervention](https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr) | 3:25 | 2023-11-20 |  |
 | [Winter Birds](https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:50 | 2024-08-12 | 2024-08-24 |
 | [You Are Peace](https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [You Are Peace](https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT) | 3:24 | 2023-11-20 |  |
-| [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2024-12-09 |  |
+| [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2024-12-09 | 2025-05-06 |
 
 \*This playlist was first scraped on 2023-11-26. Prior content cannot be recovered.

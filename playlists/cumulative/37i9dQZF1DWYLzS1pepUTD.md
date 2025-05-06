@@ -4,7 +4,7 @@
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-121 songs - 5 hr 54 min
+121 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [WWE: We Got the Rage \(Damage CTRL\)](https://open.spotify.com/track/2u0FP3AyqWzUBTUmj28tvS) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: We Got the Rage \(Damage CTRL\)](https://open.spotify.com/album/5LurWuaokkLb4WbHeSkb1z) | 2:17 | 2024-04-01 | 2024-07-30 |
 | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/track/5jfRVmqByNplDG7D4k8bZj) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [Stevie Stone](https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN) | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/album/1wWZHGtu4HU2ldzCjYZVSm) | 2:45 | 2025-04-14 |  |
 | [WWE: Welcome To LA \(LA Knight\)](https://open.spotify.com/track/5S0GH351CuCat6w6r41NYJ) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Welcome To LA \(LA Knight\)](https://open.spotify.com/album/1i6ZgvmIWyIcGBodo9MoMK) | 2:51 | 2024-04-01 | 2024-11-26 |
-| [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/track/4e36XFVChaw4rTz4zV3LXs) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/album/6TteJvQpZ6TRF9R5SyjsN6) | 2:43 | 2024-11-25 |  |
+| [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/track/4e36XFVChaw4rTz4zV3LXs) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/album/6TteJvQpZ6TRF9R5SyjsN6) | 2:29 | 2024-11-25 |  |
 | [WWE: Who Want It \(Je'Von Evans\)](https://open.spotify.com/track/1JwyTc98Nqvb964lj2p695) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [J\-Frost](https://open.spotify.com/artist/7qM0TH8OBDmovHGexv6JBO) | [WWE: Who Want It \(Je'Von Evans\)](https://open.spotify.com/album/3iDCxajCrXHiF3eSkshpW6) | 3:13 | 2024-11-25 |  |
 | [WWE: With A Smile \(Ethan Page\)](https://open.spotify.com/track/2xUKMa23rkBxkHhVGiabLC) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: With A Smile \(Ethan Page\)](https://open.spotify.com/album/3yqrE5RFVfYnGF4lBIX3dA) | 2:44 | 2024-11-25 |  |
 | [WWE: World Of Ivy \(Ivy Nile\)](https://open.spotify.com/track/0fGZaNzf4mdO9nzcCFQztK) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: World Of Ivy \(Ivy Nile\)](https://open.spotify.com/album/46wBtkI46khtvIpQTJh1sO) | 3:00 | 2024-04-01 | 2024-11-26 |

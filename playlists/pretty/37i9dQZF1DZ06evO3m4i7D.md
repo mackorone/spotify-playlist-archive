@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3m4i7D.md) - [plain]
 
 > This is Eugenio Esquivel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

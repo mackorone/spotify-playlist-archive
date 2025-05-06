@@ -4,12 +4,14 @@
 
 > Lmao \-.\-
 
-289 songs - 16 hr 28 min
+291 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [......](https://open.spotify.com/track/0hZcG4Uw0sieOgwi4E0WbM) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [......](https://open.spotify.com/album/4PjasvlU6CzI86k1yQlSON) | 2:26 | 2023-10-23 |  |
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2023-10-30 |  |
+| [\_\_\_\_\_\_](https://open.spotify.com/track/0NjGohOFKKxpJLLAovsEtO) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\_\_\_\_\_\_](https://open.spotify.com/album/2XgpdopvOJdcBC9Oq3xtCE) | 2:21 | 2025-05-05 |  |
+| [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 | 2025-05-05 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
 | [ACHE IN PULSE](https://open.spotify.com/track/0Iqcphch06zxuUFcljKjaI) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:28 | 2023-11-08 |  |
 | [aishiteitanoni](https://open.spotify.com/track/16kqUisnDZz1DC789Ks1lE) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/4hDLuHOt6Mo98I2SVufLji) | 3:39 | 2025-04-09 |  |

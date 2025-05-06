@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Stereo Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,585 likes - 113 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,616 likes - 113 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

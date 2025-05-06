@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 290 songs - 15 hr 26 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 291 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,5 +298,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 288 | [Jumanji](https://open.spotify.com/track/5i1vNfHD8nAbJVd3iMRhzQ) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:13 |
 | 289 | [Where Ya At?](https://open.spotify.com/track/4KAZyvyHDgNSX5Sz07QIvr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:37 |
 | 290 | [Feds](https://open.spotify.com/track/6z9dbnTL41MKoEn1DRFCYm) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h) | 3:43 |
+| 291 | [The Caves Of Altamira](https://open.spotify.com/track/4IBoDzxcRRRhQ6dozP28aQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 3:33 |
 
-Snapshot ID: `AAAeQ5NgSREYCseaNdDkUe+wZ6w159Vf`
+Snapshot ID: `AAAeRIC+7rTnb11gqrTWGGKIFeqCveAr`

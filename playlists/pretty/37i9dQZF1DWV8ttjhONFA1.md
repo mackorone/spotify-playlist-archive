@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera & Hipnótica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,799 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,803 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Elle Teresa
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: swetty, Elle Teresa
 
 1,598 songs - 3 day 9 hr 37 min
 

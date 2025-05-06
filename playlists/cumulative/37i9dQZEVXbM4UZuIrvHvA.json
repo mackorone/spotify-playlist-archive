@@ -9317,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "Simula at Wakas",
+        "url": "https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215497,
+      "name": "DUNGKA!",
+      "url": "https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
       },
@@ -15190,7 +15208,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -16312,7 +16330,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -19532,7 +19550,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 168453,
       "name": "M a k e I t T o T h e M o r n i n g",
       "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
@@ -31072,7 +31090,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -31276,7 +31294,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"

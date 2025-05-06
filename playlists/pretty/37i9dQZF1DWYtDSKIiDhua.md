@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Narysal
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,789 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,801 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Werenoi and GIMS, Ed Sheeran, Noizy and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,161 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,168 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

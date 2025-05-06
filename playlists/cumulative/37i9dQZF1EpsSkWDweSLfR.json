@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4q9C30KUZLq6UK4SWhsuoK"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -3452,6 +3452,24 @@
       "duration_ms": 226736,
       "name": "orange show speedway",
       "url": "https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
     },
     {
       "album": {
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 388800,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/3RdUgst4llmyJkVtNaqHGv"
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 201989,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/1cf92Y99d8eC2LvrEV7hZX"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"

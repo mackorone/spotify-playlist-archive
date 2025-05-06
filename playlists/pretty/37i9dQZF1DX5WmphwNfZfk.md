@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Baby Nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,113 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,111 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 4 | [I Saw the Devil](https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [I Saw the Devil](https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe) | 3:20 |
 | 5 | [Times Two](https://open.spotify.com/track/210XcfUCIcPM2NojtekQD0) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Times Two](https://open.spotify.com/album/172KoRUjOGEFU420xNUtWs) | 2:02 |
 | 6 | [Original Thoughts](https://open.spotify.com/track/1CzM4bpk0upYDKlqpOFPoA) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Original Thoughts](https://open.spotify.com/album/781XRTRlOFQWfJnAh0hPYz) | 2:47 |
-| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 8 | [Lost In Time](https://open.spotify.com/track/5bcttbbSEVPrDZE7Z11xMZ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/2HywdkQAKc7OzWUr90ZT5h) | 2:52 |
 | 9 | [Questions](https://open.spotify.com/track/1FtGSIacJuTkab911nWQNs) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:25 |
 | 10 | [Just Like Me](https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Just Like Me](https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh) | 3:24 |

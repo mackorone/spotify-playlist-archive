@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover:  Nafeesisboujee
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,343 likes - 88 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,364 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

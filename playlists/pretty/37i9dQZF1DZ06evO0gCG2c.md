@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,367 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,416 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 24 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
 | 25 | [Kush \- Main](https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Kush](https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B) | 3:55 |
 | 26 | [I'll Still Kill](https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 3:43 |
-| 27 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMI3N](https://open.spotify.com/artist/4dS6GlLsrqLFMaTkzbbrAe) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
+| 27 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMIEN](https://open.spotify.com/artist/0IzBfoIbXMYXpBFV7oCsCm) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
 | 28 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
 | 29 | [I Tried](https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:47 |
 | 30 | [Keep You Much Longer](https://open.spotify.com/track/6yDvLWVeAdIFTmEZYyqEQl) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:20 |

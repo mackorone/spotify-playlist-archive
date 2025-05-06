@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,508 likes - 116 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,509 likes - 116 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 54 | [Fool In Love](https://open.spotify.com/track/6ikk2CSM0lLh4WpY3qH7IA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 4:15 |
 | 55 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
 | 56 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
-| 57 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:25 |
-| 58 | [We Are \- From "Ice Age: Continental Drift"/Theme](https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [We Are \(From "Ice Age: Continental Drift"/Theme\)](https://open.spotify.com/album/5zeZOKZQwl2nKUEEuUDZTL) | 3:09 |
+| 57 | [We Are \- From "Ice Age: Continental Drift"/Theme](https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [We Are \(From "Ice Age: Continental Drift"/Theme\)](https://open.spotify.com/album/5zeZOKZQwl2nKUEEuUDZTL) | 3:09 |
+| 58 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:25 |
 | 59 | [I Want It All](https://open.spotify.com/track/6GciucEjChWvkyxUGlN09o) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:47 |
 | 60 | [Beautiful Sinner](https://open.spotify.com/track/7rckdz1lRk0xXOlm2W2DCi) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:47 |
 | 61 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 115 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 116 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Abwi/AAAAACWW0/WEwd0NWYrOY/E22jk`
+Snapshot ID: `AbwonAAAAAAmuPIyGmChGQvJ8M4KGNHF`

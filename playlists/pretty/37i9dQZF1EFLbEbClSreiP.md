@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 27 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 712 likes - 27 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 12 | [The Band And I](https://open.spotify.com/track/4gEYooYobqQWokcdP4aKPr) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:55 |
 | 13 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 14 | [Therapy](https://open.spotify.com/track/7s9gcI3vON7hpTzQO2PEun) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:57 |
-| 15 | [Antichrist](https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:20 |
-| 16 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
+| 15 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
+| 16 | [Antichrist](https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:20 |
 | 17 | [Two Hands](https://open.spotify.com/track/2Bd5Gr4HhMZb0sAnVM3zBG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:02 |
 | 18 | [Truth Is](https://open.spotify.com/track/25JGrdT3bi62ZzPeNxZiBu) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:17 |
 | 19 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 26 | [siren calling](https://open.spotify.com/track/0VWfoM5mnhtLMFoKofXjxF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:42 |
 | 27 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 
-Snapshot ID: `Abwi/AAAAABOE/M8OP4tCa2WKulZ2rY4`
+Snapshot ID: `AbwokgAAAACkBiXuBU2AL04+PJlpp+4E`

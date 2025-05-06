@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Myst, Might, Mayhem\(괴력난신\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,530 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,524 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,215 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,216 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

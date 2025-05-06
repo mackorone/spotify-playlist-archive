@@ -388,6 +388,32 @@
     {
       "album": {
         "name": "100 dni do matury",
+        "url": "https://open.spotify.com/album/4cA2a9w1gSzJEIdbhwUrsH"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        },
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/4RjfmBZznj6JLBG3CoPAh4"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301573,
+      "name": "100 dni do matury",
+      "url": "https://open.spotify.com/track/4eNKssDPD3UIDbSvbmLCXZ"
+    },
+    {
+      "album": {
+        "name": "100 dni do matury",
         "url": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL"
       },
       "artists": [
@@ -8684,7 +8710,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 159428,
       "name": "Co noc",
       "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
@@ -9692,7 +9718,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 172388,
       "name": "CZEMU NIE \u015aPISZ?",
       "url": "https://open.spotify.com/track/0AQAWCKi8sFyIpqxEEBL9b"
@@ -18336,7 +18362,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 197040,
       "name": "Interpol",
       "url": "https://open.spotify.com/track/0SSzxRyRVHfVZywNMlvuIp"
@@ -21258,6 +21284,32 @@
       "duration_ms": 170508,
       "name": "Kiss cam (podryw roku)",
       "url": "https://open.spotify.com/track/5hfJcAXpOVb65HtYqgtoE4"
+    },
+    {
+      "album": {
+        "name": "M\u0142ody Matczak",
+        "url": "https://open.spotify.com/album/1IWxPZI6rElVjS1XbzcFn1"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Kiss cam (podryw roku)",
+      "url": "https://open.spotify.com/track/4A86mVVA7hwCfWa1O1tTce"
     },
     {
       "album": {
@@ -37664,7 +37716,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 171694,
       "name": "R\u00f3\u017c",
       "url": "https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi"
@@ -37860,7 +37912,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -40380,7 +40432,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
@@ -41908,7 +41960,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 186219,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/72RjC359lcwhf1cON9ppls"
@@ -48576,7 +48628,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"

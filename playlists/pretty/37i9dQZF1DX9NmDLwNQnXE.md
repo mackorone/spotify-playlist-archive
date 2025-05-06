@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,911 likes - 275 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,929 likes - 275 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

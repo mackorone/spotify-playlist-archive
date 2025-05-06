@@ -4,7 +4,7 @@
 
 > Future hits in the Philippines! Cover: Selena Gomez, benny blanco
 
-350 songs - 18 hr 16 min
+351 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/6nLUacmejwxurxcknrSWFG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [California Sober](https://open.spotify.com/album/75lI4JQh8ULt7OwPe5iZLl) | 3:24 | 2024-08-19 | 2024-09-17 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-24 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2024-07-01 | 2024-07-10 |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-05-05 |  |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-13 | 2025-03-17 |
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-20 | 2025-03-11 |
 | [Chanel No.5](https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Chanel No.5](https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG) | 2:40 | 2024-07-01 | 2024-07-23 |

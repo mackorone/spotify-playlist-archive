@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-528 songs - 1 day 5 hr 38 min
+529 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Alag Aasman](https://open.spotify.com/track/4VgkQazKMpeWrCX2LT8CtW) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA) | [Alag Aasman](https://open.spotify.com/album/4nhqssTZYpv8dTO29InlEG) | 2:23 | 2023-10-26 | 2023-11-08 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Andhere Ka Sawera](https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU) | [Lavanya Dixit](https://open.spotify.com/artist/4TIlUf7GZgIhIHnLrdYxLm) | [Andhere Ka Sawera](https://open.spotify.com/album/6kbg7stADaZUYHWduMBzw4) | 1:22 | 2024-04-19 | 2024-05-29 |
+| [Arziyaan](https://open.spotify.com/track/49zLvT6TozhbD6ZYue8DUO) | [himRAAG](https://open.spotify.com/artist/79mjISM2eHu96BNO8xZx6X) | [Arziyaan](https://open.spotify.com/album/6spzdYgHt3Q6CHn0puHuOi) | 4:28 | 2025-05-05 |  |
 | [Awaara](https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Awaara](https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF) | 2:52 | 2025-03-07 |  |
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 | 2023-09-23 |
 | [Baahon Mein Teri \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/10iPsqVBevgJOVj77WnaPe) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 4:43 | 2023-12-11 | 2024-06-22 |
@@ -473,7 +474,7 @@
 | [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 | 2023-07-20 |
 | [Tu Jo Mere Sath Hai](https://open.spotify.com/track/2tNKVkeaaRIBRGgVeAL1o3) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Tu Jo Mere Sath Hai](https://open.spotify.com/album/40nHmHreiid0xbbe8hLbFg) | 3:16 | 2025-03-07 |  |
 | [Tu Jo Mila](https://open.spotify.com/track/6TcBL3NDg3OimfoNiYOAQW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Tu Jo Mila](https://open.spotify.com/album/0Dzmn1tHBaEeLc9b8lVB8M) | 3:23 | 2024-05-06 | 2024-06-29 |
-| [Tu Jo Mila Hai](https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP) | [Tu Jo Mila Hai](https://open.spotify.com/album/4e3aIxckh2Ox1SsPiwwN19) | 3:31 | 2025-04-22 |  |
+| [Tu Jo Mila Hai](https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP) | [Tu Jo Mila Hai](https://open.spotify.com/album/4e3aIxckh2Ox1SsPiwwN19) | 3:31 | 2025-04-22 | 2025-05-06 |
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 | 2024-04-01 |
 | [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 | 2023-07-24 | 2023-12-27 |
 | [Tu Mera](https://open.spotify.com/track/28NU6UqoWWOUdR71Hh8jQQ) | [Adhyay](https://open.spotify.com/artist/6sexqYPa6pcLAwqhLGe2Oq) | [Tu Mera](https://open.spotify.com/album/1xbAC0d42PUiSipmSmqVUx) | 3:19 | 2025-01-05 | 2025-02-19 |

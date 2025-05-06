@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > <a href="spotify:artist:22P1OY4TRFRwhP0q29loQ8">Lali</a> presenta <a href="spotify:album:56BPpEYgadIVVXYLabO5Je">NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,472,184 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,472,172 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

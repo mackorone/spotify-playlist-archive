@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Kamisa 10, Natanzinho Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,507 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,283 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

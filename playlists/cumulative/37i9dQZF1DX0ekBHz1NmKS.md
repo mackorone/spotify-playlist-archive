@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,848 songs - 3 day 23 hr 52 min
+1,849 songs - 3 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,7 +905,7 @@
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
-| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 |  |
+| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-05-06 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
@@ -1468,6 +1468,7 @@
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 |  |
+| [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-05 |  |
 | [Springer](https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Springer](https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe) | 3:23 | 2023-11-09 | 2024-02-09 |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 | 2024-08-09 |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |

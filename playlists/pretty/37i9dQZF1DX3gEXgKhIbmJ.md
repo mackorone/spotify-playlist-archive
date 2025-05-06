@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,899 likes - 59 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,910 likes - 59 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Hey Kid",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -242,6 +242,24 @@
       "duration_ms": 215320,
       "name": "5 SENT\u00cdOS",
       "url": "https://open.spotify.com/track/7n12wwP15l3KhIKgMoUiZY"
+    },
+    {
+      "album": {
+        "name": "6 DE FEBRERO",
+        "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175584,
+      "name": "6 DE FEBRERO",
+      "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
     },
     {
       "album": {
@@ -7593,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "me va a doler",
+        "url": "https://open.spotify.com/album/0OQ0o2WnpBF98wmQURzQRN"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "me va a doler",
+      "url": "https://open.spotify.com/track/0R01AGV2d57DXUN1HtcCXa"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ"
       },
@@ -7880,7 +7916,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 213970,
       "name": "mi chico",
       "url": "https://open.spotify.com/track/1uVTPJ0aA3i2gzU0JLRQrO"
@@ -8228,7 +8264,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
@@ -10696,7 +10732,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 154063,
       "name": "Readyactiva",
       "url": "https://open.spotify.com/track/2hC3hT2iAyHlsANVNjt0kN"
@@ -11468,6 +11504,24 @@
       "duration_ms": 177433,
       "name": "Si te encuentras con mi Ex",
       "url": "https://open.spotify.com/track/0lH1Hpd5lbYqLVYOMrCeEE"
+    },
+    {
+      "album": {
+        "name": "Si te vuelvo a llamar",
+        "url": "https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175754,
+      "name": "Si te vuelvo a llamar",
+      "url": "https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5"
     },
     {
       "album": {

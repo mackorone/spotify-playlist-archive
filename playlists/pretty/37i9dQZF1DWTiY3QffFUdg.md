@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,462 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,567 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

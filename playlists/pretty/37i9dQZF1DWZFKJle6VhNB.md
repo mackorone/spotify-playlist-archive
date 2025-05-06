@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,060 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,056 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

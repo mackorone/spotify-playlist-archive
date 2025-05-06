@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Zikar
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,672 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,678 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Loaded](https://open.spotify.com/track/7c3LluuFcYY9b9n3L0WrTD) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:30 |
+| 1 | [Loaded](https://open.spotify.com/track/7c3LluuFcYY9b9n3L0WrTD) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:30 |
 | 2 | [End Time](https://open.spotify.com/track/5wtDJShtlFYYlfIXqrI7Ib) | [Lakha Gill](https://open.spotify.com/artist/5Luoy2Ol53ASZ0xvC6o4Nt), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [End Time](https://open.spotify.com/album/09rExYmPxxDB04MOUvue1x) | 3:09 |
 | 3 | [Na Rusdi](https://open.spotify.com/track/6S7lhgXMRRAVWHG54pSiHs) | [Shahid Khan](https://open.spotify.com/artist/1qcQfkXy5mpXD3ofmJLohp), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Appu Beats](https://open.spotify.com/artist/7Kv9UknAuQpxLvziYfsAhz) | [Na Rusdi](https://open.spotify.com/album/1OMB7r32I1t99bTLAD9vBF) | 3:46 |
 | 4 | [New Day](https://open.spotify.com/track/4GVP7re4mfKXWzfWxx5n9O) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [New Day](https://open.spotify.com/album/3V1QeeArAAZr6GUSkx8Hcz) | 2:49 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 12 | [Sand Bolde](https://open.spotify.com/track/2ZZOQYt0dZztTtaoEOJQxw) | [Vicky Maan](https://open.spotify.com/artist/2VC3bA2IchCVpMS1U5FRtg) | [Sand Bolde](https://open.spotify.com/album/71BoNRzIB8qocWy4ylTrj3) | 2:21 |
 | 13 | [Kalli Bi](https://open.spotify.com/track/5eaOnbhw8VCitmqY3QKikD) | [Zabar](https://open.spotify.com/artist/3CNza9Tg1IVE50uJHPUBVY), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Kalli Bi](https://open.spotify.com/album/6Ayk2AdXOAyiqWgLsHlgti) | 2:28 |
 | 14 | [Pehchaan](https://open.spotify.com/track/3U2lnkX2RaczWPYT0JOaoD) | [Navi Bawa](https://open.spotify.com/artist/7nhPav4gq7xGwoAOYuVfRc) | [Essence](https://open.spotify.com/album/6nz6QAzLMOS8GNYhbzXHPl) | 4:28 |
-| 15 | [OG](https://open.spotify.com/track/0HcjEdQRixnQZN2KUSzHEk) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:09 |
+| 15 | [OG](https://open.spotify.com/track/0HcjEdQRixnQZN2KUSzHEk) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:09 |
 | 16 | [Rona Aaya Na](https://open.spotify.com/track/6r71exas2Bbhd7QIGDASvD) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Rona Aaya Na](https://open.spotify.com/album/2yTah8RpncHHIZ8JQNG92P) | 3:22 |
 | 17 | [Sin](https://open.spotify.com/track/4W8o3qlBQ9AWbj23KW9URP) | [Harman Bal](https://open.spotify.com/artist/1yMBYy61KoKvjIj6zoXnYp) | [Sin](https://open.spotify.com/album/31AOCUimN7qeoOVP89toUw) | 1:46 |
 | 18 | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN) | [Arshaan Basaati](https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Zora Ahluwalia](https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2) | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl) | 2:59 |

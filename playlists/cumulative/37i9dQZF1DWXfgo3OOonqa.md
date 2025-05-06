@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,862 songs - 3 day 8 hr 19 min
+1,863 songs - 3 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Den ja e](https://open.spotify.com/track/3OGYS5Ptq6GzybyDjG74CQ) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Den ja e](https://open.spotify.com/album/5r4AM90rT6yaN4BJxgEamH) | 2:34 | 2022-07-21 | 2022-08-12 |
 | [DERBY](https://open.spotify.com/track/6BbxOaw7A0RtJwFSqD3CT1) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [DERBY](https://open.spotify.com/album/7uJUZcxPHsROB24PV1GWE5) | 2:16 | 2025-01-02 | 2025-04-18 |
 | [Deregna](https://open.spotify.com/track/4Iu0U8U9PkivbcJvSkrSqg) | [XO](https://open.spotify.com/artist/4kBuSaq9Vb6XlJUgqFie4a), [Loco Ivo](https://open.spotify.com/artist/5aQNmyn9l28EzN7uwneL0Y), [Gigo](https://open.spotify.com/artist/14RRQZprirjq9tBb9T1Kgw) | [Deregna](https://open.spotify.com/album/2CJ6Iw6i5bj9YbvQZLcRBl) | 3:50 | 2023-08-10 | 2023-08-13 |
+| [Det Går Snabbt](https://open.spotify.com/track/0FMOF5JuOaVLOsjzTQIGYE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 2:55 | 2025-05-05 |  |
 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 | 2025-02-20 |  |
 | [Devilish](https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Devilish](https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF) | 2:28 | 2022-09-15 | 2022-11-25 |
 | [Dexter](https://open.spotify.com/track/7lEvAbpXa91doVdZGMkQHy) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:55 | 2022-09-01 | 2022-09-30 |

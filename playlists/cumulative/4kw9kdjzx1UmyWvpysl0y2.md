@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-974 songs - 2 day 6 hr 57 min
+975 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 | 2025-03-12 |  |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-19 | 2023-09-26 |
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
+| [Arise](https://open.spotify.com/track/36V2mq0XX524f9n4pKbr4b) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Arise](https://open.spotify.com/album/4SUn5yPsflAUc37H0TxVxQ) | 3:49 | 2025-05-05 |  |
 | [Arise](https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Arise](https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv) | 3:16 | 2022-08-03 | 2022-10-19 |
 | [Arms Race](https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Arms Race](https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ) | 3:59 | 2022-01-18 | 2022-03-26 |
 | [Around Me](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Around Me](https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci) | 3:18 | 2024-08-20 | 2024-11-13 |
@@ -779,7 +780,7 @@
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |
 | [Someone To Forget \- BUSTED by Herobust](https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Together As One \(Remixes\)](https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3) | 4:41 | 2024-04-22 | 2024-07-12 |
-| [Something To Hold Onto](https://open.spotify.com/track/2dLalFrekRyApNXvMmgjn5) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Something To Hold Onto](https://open.spotify.com/album/6qeNU8lMvf4M1A9SEZrPRx) | 3:32 | 2025-02-11 |  |
+| [Something To Hold Onto](https://open.spotify.com/track/2dLalFrekRyApNXvMmgjn5) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Something To Hold Onto](https://open.spotify.com/album/6qeNU8lMvf4M1A9SEZrPRx) | 3:32 | 2025-02-11 | 2025-05-06 |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |
 | [sound therapy](https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [sound therapy](https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk) | 4:10 | 2024-03-05 | 2024-05-24 |
 | [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 | 2022-11-24 |

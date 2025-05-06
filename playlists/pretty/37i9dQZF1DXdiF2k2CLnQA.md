@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,325 likes - 84 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,332 likes - 84 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
-| 2 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
-| 3 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
-| 4 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
-| 5 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 |
-| 6 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 2 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 3 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
+| 4 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 5 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
+| 6 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 |
 | 7 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 |
 | 8 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 |
 | 9 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 83 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 4:00 |
 | 84 | [The World Belongs To Me](https://open.spotify.com/track/4IMFeclMZPanzmyx5m9mZr) | [Battering Ram](https://open.spotify.com/artist/5ZE8smCT2oR50Kq9yLZ3GW) | [The World Belongs To Me](https://open.spotify.com/album/7GD749YVkYURBaBGLuT4lW) | 3:51 |
 
-Snapshot ID: `aBPvIwAAAADrQDaFzosa/6neTXOWcxHh`
+Snapshot ID: `aBhgRAAAAAAZ01FnPiZePbnEf5GLLrYx`

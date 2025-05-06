@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ"
+    },
+    {
+      "album": {
         "name": "Story of Me",
         "url": "https://open.spotify.com/album/6sbx4lCpIoLgk9LBGMpwMe"
       },

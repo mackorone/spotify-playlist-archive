@@ -1,13 +1,73 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238144,
+  "num_followers": 238164,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBJuKQAAAAByHwmzxmkvBg3YBf1X226V",
+  "snapshot_id": "aBi6lQAAAACiTB5tPxGjiqz+9UvtmTUG",
   "tracks": [
+    {
+      "added_at": "2025-05-05 13:18:13",
+      "album": {
+        "name": "Arcade (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 159143,
+      "name": "Arcade (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi"
+    },
+    {
+      "added_at": "2025-05-05 13:12:31",
+      "album": {
+        "name": "Fovame - Spotify Singles",
+        "url": "https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 168441,
+      "name": "Fovame - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX"
+    },
+    {
+      "added_at": "2025-05-05 13:12:31",
+      "album": {
+        "name": "Tattoo - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aISMGKmjSm9b6uWlmpGef"
+      },
+      "artists": [
+        {
+          "name": "BABIE LATO",
+          "url": "https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        },
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 153922,
+      "name": "Tattoo - Spotify Singles",
+      "url": "https://open.spotify.com/track/3OOl2L4LrjlRRSMDzIpua8"
+    },
     {
       "added_at": "2025-04-30 04:00:29",
       "album": {

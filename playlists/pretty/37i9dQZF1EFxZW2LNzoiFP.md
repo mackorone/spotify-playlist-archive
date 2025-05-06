@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 132 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 |
 | 133 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
 | 134 | [Silly Rabbit](https://open.spotify.com/track/7xEl5JBUiuEmaMxRCFkFGs) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:39 |
-| 135 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
-| 136 | [Ambroxyde](https://open.spotify.com/track/20L8K1fFqdqn088ZX66pHW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:57 |
+| 135 | [Ambroxyde](https://open.spotify.com/track/20L8K1fFqdqn088ZX66pHW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:57 |
+| 136 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
 | 137 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
 | 138 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
 | 139 | [Jackie](https://open.spotify.com/track/1pwDBJXeVPRUpdmaHbbV0I) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:01 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 208 | [Altitude](https://open.spotify.com/track/6prfPFBCmz1we1DMf5BWnC) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:54 |
 | 209 | [Don't Wonder Why](https://open.spotify.com/track/3evBwYwL2CXNZQTrmVcu46) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Don't Wonder Why](https://open.spotify.com/album/70mvdgnAIzoEi0Ix2a9psB) | 2:56 |
 | 210 | [Blackout](https://open.spotify.com/track/0B64RZOkUha8wr9Xg0yGET) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Blackout](https://open.spotify.com/album/2ZxY6rfhCChRUUeAXEI2Lc) | 2:59 |
-| 211 | [Island in the Sun](https://open.spotify.com/track/3Eeu2dS49d29PO1KrvNWya) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:31 |
-| 212 | [Jenny](https://open.spotify.com/track/3U0cXbHSxCG6M6RboTsIk1) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:38 |
+| 211 | [Jenny](https://open.spotify.com/track/3U0cXbHSxCG6M6RboTsIk1) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:38 |
+| 212 | [Island in the Sun](https://open.spotify.com/track/3Eeu2dS49d29PO1KrvNWya) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:31 |
 | 213 | [Busy With It](https://open.spotify.com/track/7kigNPNPm9KfwHfGt3LNNR) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:56 |
 | 214 | [Needless to Say](https://open.spotify.com/track/2zinC0U05Y3M50OKAEnoXZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:12 |
 | 215 | [IRL](https://open.spotify.com/track/11JxdFkpuXNmxfVzNfX9Vb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:00 |
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 238 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
 | 239 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Abwi1AAAAAAu2LWtbydopF5FjRORvqEV`
+Snapshot ID: `AbwonAAAAACW8Zt6OatC8+235eHg7Q2Q`

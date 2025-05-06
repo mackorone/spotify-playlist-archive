@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-161 songs - 10 hr 52 min
+162 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bertengkar Manis](https://open.spotify.com/track/7jQQZRS69OWGT2asKcmp6p) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 4:05 | 2023-10-06 | 2025-03-11 |
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 | 2025-02-05 |
 | [Biarku Merindu](https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Biarku Merindu](https://open.spotify.com/album/3ZGwkNHkhqkw3J9id6LVgG) | 2:57 | 2024-02-13 |  |
+| [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 | 2025-05-06 |  |
 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-07 |  |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2024-02-13 |  |
 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 | 2025-03-05 |  |

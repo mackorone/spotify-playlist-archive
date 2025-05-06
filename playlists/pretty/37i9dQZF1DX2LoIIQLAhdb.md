@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,768 likes - 39 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,802 likes - 39 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

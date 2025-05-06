@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רון חיון
 
-131 songs - 6 hr 58 min
+133 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-07-01 | 2024-09-24 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 | 2024-09-10 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2025-02-18 |
-| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-03-03 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-03-03 | 2025-05-06 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2024-12-17 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-07 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-08-27 |
@@ -75,6 +75,7 @@
 | [גשם](https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר כהן](https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX) | 3:04 | 2025-04-14 |  |
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-19 |  |
 | [החדר מסתובב](https://open.spotify.com/track/5MjRIL2ySrPGoATyTk2ZT9) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [החדר מסתובב](https://open.spotify.com/album/5zt4KurZ2h13Q9XNsoWFpR) | 3:18 | 2025-03-24 |  |
+| [החדר מסתובב](https://open.spotify.com/track/6kbhnbcZeYz8RvsFlLkhNH) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [אהבה מנצחת הכל](https://open.spotify.com/album/2uAgJT5Ew4CrFcikwitcFT) | 3:18 | 2025-05-05 |  |
 | [היום קמתי שמח](https://open.spotify.com/track/28hmfseWQTUSMuTNuXg4eI) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [היום קמתי שמח](https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v) | 3:49 | 2025-01-27 | 2025-04-15 |
 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 | 2024-12-02 |  |
 | [ואיך שלא](https://open.spotify.com/track/0SMDtYt5HghaTMFc61nCnP) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [ואיך שלא](https://open.spotify.com/album/77Th0DmusP9RkETEPjFBRx) | 3:24 | 2024-07-01 | 2024-11-01 |
@@ -115,7 +116,7 @@
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-22 |  |
 | [עברנו הכל](https://open.spotify.com/track/4L5Uj4Dt6rjFL0H7hl2qHF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עברנו הכל](https://open.spotify.com/album/3PIMlTzSQFaYRYcsD2pwPn) | 3:15 | 2024-09-23 |  |
 | [עובד בכפר](https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [עובד בכפר](https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw) | 3:02 | 2024-08-26 | 2025-03-11 |
-| [עוד אוהבת אותך](https://open.spotify.com/track/15leAeXFh1WX1QOxp1LnOS) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [עוד אוהבת אותך](https://open.spotify.com/album/4MKFSpjafLqBkzJuyhLkVJ) | 3:01 | 2025-01-13 |  |
+| [עוד אוהבת אותך](https://open.spotify.com/track/15leAeXFh1WX1QOxp1LnOS) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [עוד אוהבת אותך](https://open.spotify.com/album/4MKFSpjafLqBkzJuyhLkVJ) | 3:01 | 2025-01-13 | 2025-05-06 |
 | [עוד לא נגמר](https://open.spotify.com/track/2tVQnp6k62bMTsWQJYvQXz) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:46 | 2024-07-29 | 2024-09-10 |
 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2024-07-01 | 2024-12-03 |
 | [עכשיו התור לאהבה](https://open.spotify.com/track/49pn67BTjYDLqzDkOFrm1E) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עכשיו התור לאהבה](https://open.spotify.com/album/2BdF5BnILzlecemuSOuzxE) | 3:31 | 2024-10-07 | 2024-11-19 |
@@ -127,6 +128,7 @@
 | [צמוד צמוד](https://open.spotify.com/track/1Jx6aZyJR985kw8CWUZ15O) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [צמוד צמוד](https://open.spotify.com/album/6HScIxtqplEa92gqOUiVsh) | 2:43 | 2024-07-01 | 2025-01-08 |
 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 | 2024-07-01 | 2025-04-08 |
 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-07-01 | 2025-04-23 |
+| [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-05 |  |
 | [רק הזמן](https://open.spotify.com/track/1KMT5j1608afIjko14UBNP) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [רק הזמן](https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl) | 2:55 | 2024-09-30 | 2024-11-26 |
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-07-01 | 2025-03-18 |
 | [רשימת קניות](https://open.spotify.com/track/5AjrNeUIzRkWzMz5hgujD2) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רשימת קניות](https://open.spotify.com/album/0Ib14azeY0eTF80dpEqqIk) | 2:34 | 2025-04-07 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-107 songs - 5 hr 28 min
+108 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [rút](https://open.spotify.com/track/5bSRJo4Ox8mlk0JoOu5l7N) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2024-12-07 |  |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2024-12-13 | 2025-03-18 |
 | [SENKI NEM SZÓL RÁNK](https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [BANNANI](https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO) | 2:50 | 2024-11-20 |  |
-| [Someone Like You](https://open.spotify.com/track/3bNv3VuUOKgrf5hu3YcuRo) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 4:45 | 2024-11-15 |  |
+| [Someone Like You](https://open.spotify.com/track/3bNv3VuUOKgrf5hu3YcuRo) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 4:45 | 2024-11-15 | 2025-05-06 |
 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 | 2025-02-13 |  |
 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 | 2024-10-17 |  |
 | [Szeretsz\-e](https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:54 | 2025-03-16 |  |
@@ -94,6 +94,7 @@
 | [szosziazi](https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:26 | 2024-11-28 |  |
 | [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 | 2025-04-20 |  |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-10-17 |  |
+| [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 | 2025-05-05 |  |
 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 | 2025-02-18 |  |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-04-25 |  |
 | [tevagyazalány](https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:18 | 2024-12-11 |  |

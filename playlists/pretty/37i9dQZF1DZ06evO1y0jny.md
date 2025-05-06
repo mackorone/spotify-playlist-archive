@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 
 > This is Keauhou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 31 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 31 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

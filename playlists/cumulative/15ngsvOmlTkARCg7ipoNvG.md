@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,970 songs - 1 day 15 hr 57 min
+1,972 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Grey Clouds \- Cello Version](https://open.spotify.com/track/2odqtKbRwTHtQj4tInqVC5) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 | 2024-01-30 |
 | [Grow](https://open.spotify.com/track/6x6ZkY3UhwD5mn7xOjzAdL) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Grow](https://open.spotify.com/album/5VKSEIXx5oiRsV2g1o3cb2) | 1:00 | 2024-07-02 |  |
+| [Growing Love Arr\. For Piano](https://open.spotify.com/track/5iD2TYOtmOm4wJA5xzSgDg) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Growing Love Arr\. For Piano](https://open.spotify.com/album/13lnsYbjX6W7ZuV2w2sbI4) | 1:00 | 2025-05-05 |  |
 | [Growing Together](https://open.spotify.com/track/11lQzsXA1CyFsAn4mC3O5Y) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Growing Together](https://open.spotify.com/album/6TK4mJBtKwRIJdhJqSDuK2) | 1:00 | 2024-10-29 |  |
 | [Growth](https://open.spotify.com/track/1LbKdbtf825ZPB2IjwMttX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Growth](https://open.spotify.com/album/6pf7cRfAtAy0WcVXmmAEeD) | 1:00 | 2024-01-30 |  |
 | [Guide Me](https://open.spotify.com/track/6Z4Bk4ByJOrDiejt3DdJJV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Contemplations](https://open.spotify.com/album/1dznYay8D0VTWRGPHTri3S) | 1:23 | 2024-01-29 |  |
@@ -849,6 +850,7 @@
 | [Hopeful Days](https://open.spotify.com/track/1tAuKGdkhRNDLZwvHrLZ3M) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Hopeful Days](https://open.spotify.com/album/6Ljq4T0dD2GrdYy3kGz9nt) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Hopeful Moment](https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Hopeful Morning](https://open.spotify.com/track/1TnOhiUZEe6G9anlA6PyYj) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hopeful Morning](https://open.spotify.com/album/3EhXEXXJioJWOd61Na89zR) | 1:01 | 2025-03-11 |  |
+| [Hopeful Night Arr\. For Piano](https://open.spotify.com/track/609opaixGJZZg86CodFGDR) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Hopeful Night](https://open.spotify.com/album/0FtGJeu6rS4OWY0iy8Ywb7) | 1:00 | 2025-05-05 |  |
 | [Hopeful Reflections](https://open.spotify.com/track/24vycfedMpXmM0g7x3A8Rn) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grace](https://open.spotify.com/album/7u09esJxNXcRMBGAHoQ8EC) | 1:49 | 2024-01-29 |  |
 | [Hopeful Sky](https://open.spotify.com/track/2DDduq9J3MDkRolZcLYg0G) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Hopeful Sky](https://open.spotify.com/album/0Zqva90f6DeEM3J1zHAYsr) | 1:00 | 2025-03-04 |  |
 | [Hoping Once Again](https://open.spotify.com/track/0H6gTW4pXekohMH881nYHt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:05 | 2022-01-21 |  |

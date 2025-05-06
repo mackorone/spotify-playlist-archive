@@ -4,7 +4,7 @@
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Lazaro
 
-174 songs - 9 hr 26 min
+175 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 | 2023-10-27 |
 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-25 | 2025-01-02 |
 | [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
+| [Khiyana](https://open.spotify.com/track/2lR6Rca2ib6D63AYAw2Yr8) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Khiyana](https://open.spotify.com/album/77nd2bNKjX80AONYQGPLII) | 2:43 | 2025-05-05 |  |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-07-07 | 2024-05-18 |
 | [Kolchi belmouktab](https://open.spotify.com/track/6aySaMjVrS7XYy93MwBaej) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Kolchi belmouktab](https://open.spotify.com/album/4cjJA19wIQCYNTDdmA3tYB) | 2:34 | 2025-01-19 |  |
 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 | 2023-07-07 | 2024-04-12 |

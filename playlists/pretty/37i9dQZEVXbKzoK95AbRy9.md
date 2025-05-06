@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,397 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,440 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 |
 | 50 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
 
-Snapshot ID: `L6raeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L6wr+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

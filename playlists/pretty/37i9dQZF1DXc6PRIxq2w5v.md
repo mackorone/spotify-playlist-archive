@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,034 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,055 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 28 | [Redenção](https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Redenção](https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO) | 2:17 |
 | 29 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 |
 | 30 | [Autenticidade](https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Autenticidade](https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo) | 2:21 |
-| 31 | [Homenzinho Torto](https://open.spotify.com/track/0HPBBepTP6AvAkEfXJ07R3) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Homenzinho Torto](https://open.spotify.com/album/5QnnujCF9eebqbbn6zAp6F) | 2:25 |
+| 31 | [Homenzinho Torto](https://open.spotify.com/track/0HPBBepTP6AvAkEfXJ07R3) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Mxth](https://open.spotify.com/artist/3IQwI3ws7GfNgbVan7JlOR) | [Homenzinho Torto](https://open.spotify.com/album/5QnnujCF9eebqbbn6zAp6F) | 2:25 |
 | 32 | [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 |
 | 33 | [Chove Cedo](https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Chove Cedo](https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR) | 3:12 |
 | 34 | [Saudade do Pai](https://open.spotify.com/track/5GgWY9iBiVq7T52sZAYpsP) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Wesley Cruz](https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN) | [Saudade do Pai](https://open.spotify.com/album/39bv2gw4t0iKZb1GEF2kdn) | 4:35 |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: IS:SUE
 
-1,454 songs - 3 day 5 hr 31 min
+1,455 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-25 | 2025-03-07 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-12-06 |
 | [TOP IT ALL](https://open.spotify.com/track/3NgUFQiasVnIDoZsRfsCuK) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [TOP IT ALL](https://open.spotify.com/album/21gho4vpEe5FHsjtv8ScMl) | 3:09 | 2025-04-22 |  |
+| [TORNADO](https://open.spotify.com/track/6X0HaPlb8AscV8YU7beQzT) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [TORNADO / No Drip](https://open.spotify.com/album/5N4ANp1ZcyZoHSQcLpdWKn) | 3:13 | 2025-05-05 |  |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2025-04-07 |
 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 | 2024-10-11 | 2025-01-09 |
 | [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-18 |  |
@@ -1286,7 +1287,7 @@
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-07 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Up! \(Japanese version\)](https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:12 | 2022-09-06 | 2022-11-16 |
-| [Upboomboom](https://open.spotify.com/track/5VlcvZcEhDIiQlDbJJvEDu) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [Upboomboom](https://open.spotify.com/album/4xrjI5OehxaFfZv3ldTmS8) | 2:53 | 2025-03-31 |  |
+| [Upboomboom](https://open.spotify.com/track/5VlcvZcEhDIiQlDbJJvEDu) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [Upboomboom](https://open.spotify.com/album/4xrjI5OehxaFfZv3ldTmS8) | 2:53 | 2025-03-31 | 2025-05-06 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-07-29 |
 | [UTSUROI](https://open.spotify.com/track/0I0qAmshkm5ae8UhMjc8bx) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [UTSUROI](https://open.spotify.com/album/2UP7NsOKpBRlFUfJSCLsv6) | 4:00 | 2022-08-01 | 2022-08-18 |
 | [UTSUROI](https://open.spotify.com/track/3ZpE5mKaWZqeZAdlARpNZq) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [UTSUROI](https://open.spotify.com/album/2Fu6s7oGgT1Ap3I2xZqvGv) | 4:03 | 2022-08-16 | 2022-10-05 |

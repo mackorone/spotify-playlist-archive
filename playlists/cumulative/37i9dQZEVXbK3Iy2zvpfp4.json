@@ -378,7 +378,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 117830,
       "name": "1000 SCHRITTE - Slowed",
       "url": "https://open.spotify.com/track/1oflsLRC2ABnEreNYtXL2C"
@@ -11534,7 +11534,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
@@ -12300,7 +12300,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 76838,
       "name": "DAS IST DIE REGEL HIER - Slowed",
       "url": "https://open.spotify.com/track/1P3yg4GA1lltDZlmtcDFEF"
@@ -16728,7 +16728,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 229500,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/74kalpHrS2ngqa68XFL0dS"
@@ -35008,7 +35008,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
@@ -49763,6 +49763,24 @@
     },
     {
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "Sleeping With The Lights On",
+      "url": "https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX"
+    },
+    {
+      "album": {
         "name": "Ketamine Girl",
         "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
       },
@@ -50616,7 +50634,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 52866,
       "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
       "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
@@ -50940,7 +50958,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 204236,
       "name": "Sound of You",
       "url": "https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn"
@@ -51686,6 +51704,28 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "album": {
+        "name": "starly",
+        "url": "https://open.spotify.com/album/3QTpe6V5SQlW9grsSr1ZiS"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "riserayss",
+          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172979,
+      "name": "starly - Slowed",
+      "url": "https://open.spotify.com/track/2ao4kVf8DsGghi3mUGaVEr"
     },
     {
       "album": {
@@ -57752,7 +57792,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -57792,6 +57832,28 @@
       "duration_ms": 123333,
       "name": "Vad\u00edm Ti",
       "url": "https://open.spotify.com/track/78rMJvpjTo9vGN0DvO1R1S"
+    },
+    {
+      "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
     },
     {
       "album": {
@@ -59994,7 +60056,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"

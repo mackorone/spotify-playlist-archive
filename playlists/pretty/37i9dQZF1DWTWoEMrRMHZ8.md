@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Tim Bernardes
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,202 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,222 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

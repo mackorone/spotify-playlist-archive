@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,267 likes - 935 songs - 2 day 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,789 likes - 935 songs - 2 day 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

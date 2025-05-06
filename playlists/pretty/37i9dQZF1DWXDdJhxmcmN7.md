@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,476 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,558 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

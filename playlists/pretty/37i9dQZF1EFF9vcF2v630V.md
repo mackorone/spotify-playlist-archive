@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 67 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 68 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 54 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 |
 | 55 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 |
 | 56 | [I Belong With You](https://open.spotify.com/track/4ZuLCd1A2WRgzNj51thB0M) | [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LIV](https://open.spotify.com/artist/7teUw80MXDDZlELFKbJsuz) | [I Belong With You](https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG) | 2:48 |
-| 57 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
-| 58 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 |
-| 59 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
-| 60 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
-| 61 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
-| 62 | [Girl](https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girl](https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL) | 3:06 |
-| 63 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 64 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
-| 65 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 66 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
-| 67 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
+| 57 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
+| 58 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
+| 59 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 |
+| 60 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
+| 61 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
+| 62 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
+| 63 | [Girl](https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girl](https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL) | 3:06 |
+| 64 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
+| 65 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
+| 66 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 67 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
+| 68 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `Abwi1AAAAACTNBHANcShCaH8/lK7w6vU`
+Snapshot ID: `AbwodQAAAABMHG1ZRV43X6iKtKM6DvXt`

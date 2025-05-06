@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,243 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,257 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 79 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 80 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 | 81 | [2 de Octubre](https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 3:11 |
-| 82 | [Balada Del Asalariado](https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:16 |
+| 82 | [Balada del Asalariado](https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:16 |
 | 83 | [Canción De Alicia En El País \- En Vivo](https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 4:17 |
 | 84 | [La Casita](https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 7:10 |
 | 85 | [Plegaria A Un Labrador](https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [20 Grandes Exitos](https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN) | 3:13 |

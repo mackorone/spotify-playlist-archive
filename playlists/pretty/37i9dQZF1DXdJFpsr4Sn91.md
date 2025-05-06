@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Ed Sheeran.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,994 likes - 88 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,996 likes - 88 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
-| 2 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
-| 3 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
-| 4 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 |
-| 5 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
-| 6 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
-| 7 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 2 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 |
+| 3 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 4 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 5 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
+| 6 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
+| 7 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
 | 8 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
 | 9 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 |
 | 10 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 87 | [Rikki mutta riittävä](https://open.spotify.com/track/3QT7f1k2dDjmSbOC3kc8CA) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Rikki mutta riittävä](https://open.spotify.com/album/1bK8gzhKWIfhVHXzUHAR8e) | 3:01 |
 | 88 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 
-Snapshot ID: `aBPhHAAAAACJSNF4KvbWK2qLkGcpFK51`
+Snapshot ID: `aBheGQAAAACa4PE9eNwNb3jPch6Os6n0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Loathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,402 likes - 289 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,381 likes - 289 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes w/ country experimentation feat\. music from Greg Freeman 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,460 likes - 149 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,514 likes - 149 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

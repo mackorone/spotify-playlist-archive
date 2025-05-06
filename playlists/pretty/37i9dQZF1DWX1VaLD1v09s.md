@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,015 likes - 150 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,007 likes - 150 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

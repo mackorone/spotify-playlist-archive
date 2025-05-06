@@ -4,7 +4,7 @@
 
 > a7san ma kayn f rap maghribi\. Cover: Dizzy DROS
 
-384 songs - 20 hr 23 min
+385 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 | 2025-04-16 | 2025-04-26 |
 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 | 2024-11-12 | 2024-11-29 |
 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 | 2024-09-02 |
+| [Contrat Diction](https://open.spotify.com/track/1K2YZW5H3UHdA869QK9cc8) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [TPS](https://open.spotify.com/album/5wnB3WsAiqAiH30W8lUVqP) | 4:32 | 2025-05-05 |  |
 | [COUNT ON ME](https://open.spotify.com/track/1kHEexeZFetNsQ2fIJbFKL) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [COUNT ON ME](https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig) | 2:47 | 2024-01-13 | 2024-02-14 |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
 | [Crocodile](https://open.spotify.com/track/7qNjrURi3blSkQT5e8G76d) | [Lee Browz](https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS) | [Crocodile](https://open.spotify.com/album/6rVdRe3s9TEmut5H04wstl) | 2:27 | 2024-11-21 | 2024-12-22 |

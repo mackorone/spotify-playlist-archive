@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 32593,
+  "num_followers": 32596,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z72PlQAAAACZ3FBiFJ8SI/KX8APJlqbF",
+  "snapshot_id": "aBi3gAAAAABPeVmahTkqVzgIeO9TArhn",
   "tracks": [
     {
       "added_at": "2025-02-25 09:38:29",
@@ -537,6 +537,26 @@
       "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
     },
     {
+      "added_at": "2025-05-05 13:05:04",
+      "album": {
+        "name": "Plexus Plexus",
+        "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
+      },
+      "artists": [
+        {
+          "name": "Web Web",
+          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
+        },
+        {
+          "name": "Roberto Di Gioia",
+          "url": "https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Bird\u00b4s Lament",
+      "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
+    },
+    {
       "added_at": "2025-02-25 09:38:29",
       "album": {
         "name": "Contenta tu",
@@ -555,22 +575,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
       },
@@ -583,6 +587,22 @@
       "duration_ms": 487573,
       "name": "IL VELO DI M\u0100Y\u0100 \u109f",
       "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1685,6 +1705,22 @@
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
+      "added_at": "2025-05-05 13:05:04",
+      "album": {
+        "name": "Planisfero",
+        "url": "https://open.spotify.com/album/7Mqlor2B60Fqi79kmj072f"
+      },
+      "artists": [
+        {
+          "name": "Roberto Porzio",
+          "url": "https://open.spotify.com/artist/0BoR4pZI2VKYNl5SyShhsG"
+        }
+      ],
+      "duration_ms": 241187,
+      "name": "Planisfero",
+      "url": "https://open.spotify.com/track/4j5zfAxwoCzzv9oew8qDeV"
+    },
+    {
       "added_at": "2025-02-25 09:38:29",
       "album": {
         "name": "Ma Gnossienne",
@@ -1939,22 +1975,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Meridies",
         "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
       },
@@ -1971,22 +1991,6 @@
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
-      },
-      "artists": [
-        {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     }
   ],
   "unique_name": "Jazz Italia",

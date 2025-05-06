@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : NORDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,799 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,813 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

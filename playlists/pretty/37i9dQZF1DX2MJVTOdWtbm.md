@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Samantha Barrón & Snow Tha Product
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,970 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,003 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-856 songs - 1 day 19 hr 44 min
+857 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 | 2023-07-07 |  |
 | [AYE SAY GANG](https://open.spotify.com/track/3SfqAvcloZcg65r9Si6ziJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:28 | 2024-09-20 | 2024-09-24 |
 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 | 2023-06-22 |  |
+| [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 | 2025-05-05 |  |
 | [Baby Birkin](https://open.spotify.com/track/0BOmhToQ03yOdpzYKMEnAg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:01 | 2022-12-28 |  |
 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 | 2022-11-16 |  |
 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:54 | 2023-04-20 |  |

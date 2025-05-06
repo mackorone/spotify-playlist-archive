@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 
 > Antes de entrar, permita salir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,749 likes - 150 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,822 likes - 150 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 | 126 | [Tu Con El](https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd) | [Frankie Ruiz y Su Orquesta](https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh) | [Esta Cobardía](https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj) | 5:03 |
 | 127 | [Desnúdate Mujer](https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:47 |
 | 128 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
-| 129 | [Estacion Del Metro Balderas](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
+| 129 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 | 130 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
 | 131 | [Me Dijiste](https://open.spotify.com/track/76BHLyDd9woVltXW21oBol) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 3:26 |
 | 132 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |

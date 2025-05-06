@@ -4,7 +4,7 @@
 
 > 
 
-975 songs - 2 day 0 hr 18 min
+976 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-03-04 | 2024-04-24 |
 | [Thank You \- Radio Edit](https://open.spotify.com/track/1boN869O5BJIYgX7ANzC4B) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [elijahdior](https://open.spotify.com/artist/6e7qUgEO2fWE5dt2PMXGdB) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:27 | 2022-08-05 | 2023-04-12 |
 | [The Bees Knees](https://open.spotify.com/track/1n4eqIG0RRUCuPT4vnsVlv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 5:25 | 2023-03-20 | 2024-04-24 |
+| [The Caves Of Altamira](https://open.spotify.com/track/4IBoDzxcRRRhQ6dozP28aQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 3:33 | 2025-05-05 |  |
 | [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 | 2023-05-09 |
 | [The Feeling](https://open.spotify.com/track/30u6eg92jaKaY2lYQb8sFd) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:50 | 2024-03-28 | 2024-11-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Sofía Álvez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,917 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,920 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

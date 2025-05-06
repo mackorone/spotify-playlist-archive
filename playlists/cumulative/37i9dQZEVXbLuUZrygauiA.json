@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 178320,
       "name": "Baby Please",
       "url": "https://open.spotify.com/track/71jWljGDgSEpsa1LA5LHSg"
@@ -36026,7 +36026,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -45182,10 +45182,32 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Viejo",
+        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/6UulhuFnVh60zaE2q4tavZ"
     },
     {
       "album": {

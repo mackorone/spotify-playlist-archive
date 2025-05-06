@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,792 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,795 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
 | 75 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
 
-Snapshot ID: `Z/xpOgAAAAC9qiD0jCjN2+61qyMdDBFE`
+Snapshot ID: `aBgs8wAAAAD+NM8jGpouHIK2/+BHKO9w`

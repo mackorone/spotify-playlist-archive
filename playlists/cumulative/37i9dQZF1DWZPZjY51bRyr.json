@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 152915,
       "name": "432 Hz - Din Aur Raat",
       "url": "https://open.spotify.com/track/3TM9284Jq1JRm0EouDrEGa"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 214869,
       "name": "A Time To Pause",
       "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 188571,
       "name": "Afternoon in Gelug",
       "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 158750,
       "name": "Algol",
       "url": "https://open.spotify.com/track/0WrV4m8QUHlbW9UuZm4G58"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 242060,
       "name": "Alternating Current",
       "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 176796,
       "name": "Ancient Prayer",
       "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 154751,
       "name": "Asha",
       "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 141874,
       "name": "Awakening Gaia",
       "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 258687,
       "name": "Bachcha",
       "url": "https://open.spotify.com/track/1XwTAXVT6DcwYyCd8sMFX4"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 313000,
       "name": "Bansuri Devi",
       "url": "https://open.spotify.com/track/2qJS00DNGAoDey317CPZqM"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 190382,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 377250,
       "name": "Captain Speaking",
       "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 164302,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 163436,
       "name": "Clearing Your Mind",
       "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 190066,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Distant Dreams",
+        "url": "https://open.spotify.com/album/2z1UhXqkbpP1owcqp3zj5A"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159648,
+      "name": "Distant Dreams",
+      "url": "https://open.spotify.com/track/5QdtZJlec7TLKELoxNXlQA"
+    },
+    {
+      "album": {
         "name": "Dock Of A Bay",
         "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 195643,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 144705,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
@@ -1913,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Flowing Breath",
+        "url": "https://open.spotify.com/album/6u2hvqaV7GhELObzOX3bRQ"
+      },
+      "artists": [
+        {
+          "name": "NAYAT",
+          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220358,
+      "name": "Flowing Breath",
+      "url": "https://open.spotify.com/track/2B7kI5FQVJJMxFrmN0ngGM"
+    },
+    {
+      "album": {
         "name": "Flute Healing",
         "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
       },
@@ -1942,7 +1978,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 224407,
       "name": "Flute Meditation",
       "url": "https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
@@ -2500,7 +2536,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 235875,
       "name": "Jenna\u2019s Lullaby",
       "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
@@ -2590,7 +2626,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 229411,
       "name": "Lake Reflections",
       "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
@@ -2626,7 +2662,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 177101,
       "name": "Lemon Balm",
       "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
@@ -3454,7 +3490,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 165639,
       "name": "Pure And Calm",
       "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
@@ -3814,7 +3850,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 183414,
       "name": "Search For The Light",
       "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
@@ -3850,7 +3886,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 341966,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/1n234FI6z2v1rUO4oQ9vQe"
@@ -3962,6 +3998,24 @@
       "duration_ms": 187169,
       "name": "Shimmering Forest",
       "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
+    },
+    {
+      "album": {
+        "name": "Shores",
+        "url": "https://open.spotify.com/album/6xfPalwKRIyEIDSh3EHZqB"
+      },
+      "artists": [
+        {
+          "name": "Anais Byrne",
+          "url": "https://open.spotify.com/artist/4tNwZLqZ99lS5gs93v9sV1"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167508,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/4iLuqXagZetYISDGpw4XuU"
     },
     {
       "album": {
@@ -4192,7 +4246,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
@@ -4300,7 +4354,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 172000,
       "name": "Starting Fresh",
       "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
@@ -4372,7 +4426,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 171250,
       "name": "Strings Of Serenity",
       "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
@@ -4480,7 +4534,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 183857,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
@@ -4624,7 +4678,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 169722,
       "name": "The Shimmer",
       "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
@@ -4768,7 +4822,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 248607,
       "name": "Transcendent Whispers",
       "url": "https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S"

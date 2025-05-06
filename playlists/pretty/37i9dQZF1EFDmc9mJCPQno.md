@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 26 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
 | 27 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 28 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
-| 29 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 |
-| 30 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
+| 29 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
+| 30 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 |
 | 31 | [testosterone](https://open.spotify.com/track/3M7DvOm9xlkhgj9oLxZygU) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [testosterone](https://open.spotify.com/album/2ekbb1ggU4xcpzN88njSQT) | 3:10 |
 | 32 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 |
 | 33 | [Ice Queen](https://open.spotify.com/track/4f4QMBoxGhX6YrzajQozxT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:03 |
@@ -108,12 +108,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 98 | [Star Potential](https://open.spotify.com/track/6TjqmtO3H55Ey6nNJCG0FE) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:02 |
 | 99 | [Can't Say No](https://open.spotify.com/track/4NKFLpXmmaqqyAOJAgMtP7) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4J0kTKU9ORIpmECus6dTsR) | 2:58 |
 | 100 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
-| 101 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
-| 102 | [fix](https://open.spotify.com/track/66Zc5zZOrGOovGP5VDSu1d) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:52 |
+| 101 | [fix](https://open.spotify.com/track/66Zc5zZOrGOovGP5VDSu1d) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:52 |
+| 102 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 | 103 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
 | 104 | [Mom Song](https://open.spotify.com/track/2Y5HIRHkFnrgr81Bt4mWsV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:35 |
 | 105 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
 | 106 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 107 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Abwi1AAAAAClbBwKX6SKTP66Iv8H6kCh`
+Snapshot ID: `AbwodAAAAACGYhzklgaNyDzxX2oB/ywp`

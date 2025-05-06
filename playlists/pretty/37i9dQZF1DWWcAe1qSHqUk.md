@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,369 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,380 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
 | 75 | [But I Don't Mind](https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [But I Don't Mind](https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB) | 4:15 |
 
-Snapshot ID: `Z+nzDAAAAADMQ+f+wXFJusNHP9wteBya`
+Snapshot ID: `aBgutgAAAADVrCVvYIJ39MB8dcEdTM1l`

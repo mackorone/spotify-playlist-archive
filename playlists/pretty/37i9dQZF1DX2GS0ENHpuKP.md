@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,974 likes - 54 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,997 likes - 54 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

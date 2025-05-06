@@ -1,13 +1,33 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35148,
+  "num_followers": 35147,
   "original_name": "Top Country Hits 2025",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAbZdSqDI4L+zlxPecoB5akpVsGf/+M",
+  "snapshot_id": "AAAbeosvxkKrnmwl7N0nAES5A7IE9xq9",
   "tracks": [
+    {
+      "added_at": "2025-05-05 18:43:31",
+      "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
@@ -99,8 +119,8 @@
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
-        "name": "Dear Miss",
-        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
       "artists": [
         {
@@ -108,9 +128,93 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 189729,
-      "name": "Dear Miss",
-      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+    },
+    {
+      "added_at": "2025-05-03 00:33:20",
+      "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": "2025-05-05 18:44:32",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+    },
+    {
+      "added_at": "2025-05-05 18:44:38",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/3WEYGQDPPAMYBCZHXh5vTH"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 193076,
+      "name": "HEART HALF EMPTY (FEAT. LAUREN ALAINA)",
+      "url": "https://open.spotify.com/track/58fTwT5KI81Ktoi6Mjp1ZP"
+    },
+    {
+      "added_at": "2025-05-03 00:33:20",
+      "album": {
+        "name": "What Not To",
+        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Brunette",
+      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
+    },
+    {
+      "added_at": "2025-05-05 18:46:29",
+      "album": {
+        "name": "I Ain't Country",
+        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 163895,
+      "name": "I Ain't Country",
+      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
       "added_at": "2025-05-03 00:33:20",
@@ -131,38 +235,6 @@
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
-        "name": "What Not To",
-        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Brunette",
-      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
         "name": "Bad Apple",
         "url": "https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f"
       },
@@ -175,6 +247,22 @@
       "duration_ms": 159324,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA"
+    },
+    {
+      "added_at": "2025-05-03 00:33:20",
+      "album": {
+        "name": "Dear Miss",
+        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189729,
+      "name": "Dear Miss",
+      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
     },
     {
       "added_at": "2025-05-03 00:33:20",
@@ -775,22 +863,6 @@
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
       },
@@ -1351,22 +1423,6 @@
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Song While You're Away",
-      "url": "https://open.spotify.com/track/0MEZnFwEu4MSB1ulmarWZ6"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
         "name": "Didn't I?",
         "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
@@ -1455,54 +1511,6 @@
     {
       "added_at": "2025-05-03 00:33:20",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Never Left Me (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Never Left Me (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Saltwater Cinderella",
-        "url": "https://open.spotify.com/album/1JHqBa0fAJjpBt6xOVg4sZ"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Saltwater Cinderella",
-      "url": "https://open.spotify.com/track/6ukdlzjSgvwpirC5HE9ZUW"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
         "name": "Betrayal",
         "url": "https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc"
       },
@@ -1579,86 +1587,6 @@
       "duration_ms": 188036,
       "name": "Tie Up",
       "url": "https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Songs From Bad For Me",
-        "url": "https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 200102,
-      "name": "Waylon In '75",
-      "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Make It Look Easy",
-        "url": "https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Make It Look Easy",
-      "url": "https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Born",
-        "url": "https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Born",
-      "url": "https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB"
-    },
-    {
-      "added_at": "2025-05-03 00:33:20",
-      "album": {
-        "name": "Everybody's Friend",
-        "url": "https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk"
-      },
-      "artists": [
-        {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Everybody's Friend",
-      "url": "https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv"
     },
     {
       "added_at": "2025-05-03 00:33:20",
@@ -1743,6 +1671,22 @@
       "duration_ms": 163053,
       "name": "lose you again (feat. parmalee)",
       "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
+    },
+    {
+      "added_at": "2025-05-05 18:55:15",
+      "album": {
+        "name": "Blue Strips",
+        "url": "https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147209,
+      "name": "Blue Strips",
+      "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
     }
   ],
   "unique_name": "Top Country Hits 2025",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,916 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,973 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 69 | [Ma mère l'oye, M\. 62: Apothéose\. Le jardin féerique](https://open.spotify.com/track/32Icp7aedxQEHmvPPGrOFd) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: L'enfant et les sortilèges, M\. 71 & Ma mère l'oye, M\. 62](https://open.spotify.com/album/1XZNjMKhs0COCGQfkNUlzE) | 3:34 |
 | 70 | [Ravel / Orch\. Grainger: Miroirs, M\. 43: V\. La vallée des cloches](https://open.spotify.com/track/4mnbrrduAIy9ZyNoi4byOU) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [City Of Birmingham Symphony Orchestra](https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo) | [Grainger \- In a Nutshell](https://open.spotify.com/album/0WUmTdbQf0W8fo0Fq7SSpH) | 5:27 |
 | 71 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 |
-| 72 | [Ravel: Miroirs, M\. 43: V\. La Vallée des cloches](https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 6:06 |
+| 72 | [Ravel: Miroirs, M\. 43: V\. La vallée des cloches](https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 6:06 |
 | 73 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 74 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 75 | [Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |

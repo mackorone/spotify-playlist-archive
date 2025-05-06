@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,526 likes - 150 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,570 likes - 150 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

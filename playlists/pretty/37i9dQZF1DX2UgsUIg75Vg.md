@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,387,066 likes - 185 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387,262 likes - 185 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 17 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 18 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
 | 19 | [Taste \- Live from the TERRELL SHOW / 2025](https://open.spotify.com/track/75dbFD2sIcfVkvhTJW38wB) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 3:53 |
-| 20 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 20 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 21 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 |
 | 22 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 |
 | 23 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |

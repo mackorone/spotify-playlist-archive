@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oYC8mRiXUR.md) - [plain]
 
 > No dust was found after cleaning to this playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,489 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,531 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

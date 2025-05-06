@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Famoso\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,801 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,802 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

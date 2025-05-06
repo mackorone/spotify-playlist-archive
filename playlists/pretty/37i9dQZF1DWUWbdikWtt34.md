@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Keanu Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,755 likes - 89 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,771 likes - 89 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Terlanjur Basah](https://open.spotify.com/track/6Y7TsvGPPaBspwNW6rBLmL) | [Keanu Angelo](https://open.spotify.com/artist/2RxXqaJ5dhiDm5Dy1Yw4RT), [Anya Geraldine](https://open.spotify.com/artist/25Voe2ivdhVWeyFwHg53K9) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:07 |
+| 1 | [Terlanjur Basah](https://open.spotify.com/track/6Y7TsvGPPaBspwNW6rBLmL) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20), [Anya Geraldine](https://open.spotify.com/artist/25Voe2ivdhVWeyFwHg53K9) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:07 |
 | 2 | [Pesta Meriah](https://open.spotify.com/track/05hKQZy4zRFVe6o38fBbq6) | [Andin](https://open.spotify.com/artist/3iwFJew3OUpZGxUHK4mXj1) | [Pesta Meriah](https://open.spotify.com/album/3oJp9DsXiKVpd4gUrSFdLF) | 4:27 |
 | 3 | [Heningan Malam Sunyi](https://open.spotify.com/track/6A6WPNSgB8zPa7nop1eek5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Heningan Malam Sunyi](https://open.spotify.com/album/1s8ci2zRR7ZG9lGEx22WfA) | 6:20 |
 | 4 | [Menuntun Rindu](https://open.spotify.com/track/4GtDoitzRU2J1867x43Xb3) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Menuntun Rindu](https://open.spotify.com/album/3hu2vQpAdagC35INFDwwjI) | 5:19 |
 | 5 | [Bapakku Dokter Cinta \- Live Ska Reggae](https://open.spotify.com/track/2Xo7dpTyR0zPdghMFMxNtt) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bapakku Dokter Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/44I1Y0Tgg5CBY9RcX3RiLH) | 4:28 |
-| 6 | [Termiskin Di Dunia](https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi) | [Keanu Angelo](https://open.spotify.com/artist/2RxXqaJ5dhiDm5Dy1Yw4RT) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:28 |
+| 6 | [Termiskin Di Dunia](https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:28 |
 | 7 | [Dambaan Hati](https://open.spotify.com/track/0t283lsPXtiKa23G9sU20W) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Dambaan Hati](https://open.spotify.com/album/0JU5xV3Nv9uB0FUAmIblyi) | 5:56 |
 | 8 | [Sumarak Hari Rayo](https://open.spotify.com/track/47bMTt9i80ItR2UDsfWNrU) | [Eja S.M](https://open.spotify.com/artist/35qFgLkoo69ZDtHOW6NmBZ), [Andri Dharma](https://open.spotify.com/artist/2x22lu9EfEDpUjwdh8dRfs) | [Sumarak Hari Rayo](https://open.spotify.com/album/2dfPLKieQj4NverYF57xBD) | 5:23 |
 | 9 | [Memandangmu](https://open.spotify.com/track/2rbRJydS6cK2TYDDHgTYG2) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [Danang](https://open.spotify.com/artist/5m5iTd6Xa4fITHqaN8d6eG) | [Memandangmu](https://open.spotify.com/album/6MzfZ9RzjxnbYO1S3RhvW1) | 5:05 |

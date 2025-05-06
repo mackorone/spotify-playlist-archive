@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,421 likes - 175 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,416 likes - 175 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

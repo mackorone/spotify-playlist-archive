@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A?si=xNU\-gWfcQ\_aV6Oo4YF5BAw">MJ Nel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,202 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,210 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

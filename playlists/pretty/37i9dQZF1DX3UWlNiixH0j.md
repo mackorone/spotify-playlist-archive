@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mega Shinnosuke
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,832 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,852 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 74 | [YOU/ME/ME](https://open.spotify.com/track/3YGRswSTsRYE3ylbGARJVH) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [YOU/ME/ME](https://open.spotify.com/album/4hPeHDnLXk0TWwPCJCgxvX) | 2:56 |
 | 75 | [MTHRFCKR](https://open.spotify.com/track/2yZUNKSFHC00He0XASgfr8) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [ANTI SOCIAL SOUNDSYSTEM](https://open.spotify.com/album/42NEfZglWqoZtDQwlWkslq) | 3:14 |
 
-Snapshot ID: `aBeBCwAAAACpq5p9Y/GVDmgwjettVVsA`
+Snapshot ID: `aBjScAAAAACK3BEtXQ+THB/xMM0oEiHk`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 37 min
+100 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/track/08Y45Z5fHVkVptMSJDmMTR) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/album/5RAGdSUGHYoCTXzlq6BW3k) | 3:03 | 2023-06-04 |  |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2022-09-08 |  |
 | [Heart Of Yours](https://open.spotify.com/track/7gtPeJcz77AaxCDokiySwl) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:25 | 2022-09-08 |  |
+| [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 | 2025-05-05 |  |
 | [History](https://open.spotify.com/track/1OA8mjWFtbYqGHEP4N5lUd) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/6sbx4lCpIoLgk9LBGMpwMe) | 3:27 | 2022-09-08 | 2023-02-15 |
 | [History](https://open.spotify.com/track/24zwkDcBw7P3usV9r6Szrb) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/18sE9lHzw8d61riXaA14Ny) | 3:27 | 2023-02-14 |  |
 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 | 2022-09-08 | 2024-06-18 |

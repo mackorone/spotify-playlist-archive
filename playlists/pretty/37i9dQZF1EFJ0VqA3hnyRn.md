@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 93 | [I Got Time](https://open.spotify.com/track/2CBtDxdTSz3MP8yUnA4Xkh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:50 |
 | 94 | [Drive You Crazy \(feat\. Jason Derulo & Juicy J\)](https://open.spotify.com/track/34en17vDgo4EoaFMQ0q1zk) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:50 |
 | 95 | [Lighthouse](https://open.spotify.com/track/2rN51xbGi6n0kB72PBwQQT) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Lighthouse](https://open.spotify.com/album/0ITz7kMihqY42O79jazQTz) | 3:36 |
-| 96 | [LBD](https://open.spotify.com/track/3c0uKKorZypy13KkO1u8AD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LBD](https://open.spotify.com/album/4HjMn5cTiTU7LkG4GcKDjg) | 3:23 |
-| 97 | [If This Isn't Love](https://open.spotify.com/track/5hdLExWFX65PEWnk1sEOzO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:36 |
+| 96 | [If This Isn't Love](https://open.spotify.com/track/5hdLExWFX65PEWnk1sEOzO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:36 |
+| 97 | [LBD](https://open.spotify.com/track/3c0uKKorZypy13KkO1u8AD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LBD](https://open.spotify.com/album/4HjMn5cTiTU7LkG4GcKDjg) | 3:23 |
 | 98 | [Fuck Love](https://open.spotify.com/track/5lcqxNUw7TJE57tUedUHNR) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 2:39 |
 | 99 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 100 | [Lingerie](https://open.spotify.com/track/4tf0POzZuU6h0jpjRoYEdh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:21 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 264 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 265 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Abwi1AAAAAA9ge4qpi7vDEKzCzRNo+bu`
+Snapshot ID: `AbwodQAAAAB6078NDei3cbW4T+J8vaHR`

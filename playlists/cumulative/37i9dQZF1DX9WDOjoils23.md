@@ -4,11 +4,11 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-75 songs - 9 hr 48 min
+76 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aakhe Akhiyan De](https://open.spotify.com/track/7JHA8zlgLq173HGaIPeVqy) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Aakhe Akhiyan De](https://open.spotify.com/album/3SyHfVS6UUqMOe7yOq4WdT) | 3:25 | 2025-02-28 |  |
+| [Aakhe Akhiyan De](https://open.spotify.com/track/7JHA8zlgLq173HGaIPeVqy) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Aakhe Akhiyan De](https://open.spotify.com/album/3SyHfVS6UUqMOe7yOq4WdT) | 3:25 | 2025-02-28 | 2025-05-06 |
 | [Ae Athra Ishq Naeen Saun Denda](https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ishq, Vol\. 60](https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM) | 15:25 | 2023-02-15 | 2024-04-19 |
 | [Akhiyan Nu Rehne De](https://open.spotify.com/track/5WFR8zr6YCecovxEsbghOB) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Showcase Southasia, Vol\. 5](https://open.spotify.com/album/6iu9DRY8Jx66oRxfQsMgWa) | 5:51 | 2025-02-01 |  |
 | [Akhiyan Udeek Diyaan](https://open.spotify.com/track/34I8KaDsPoVv6F6gItatrz) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Mystic Rahat](https://open.spotify.com/album/4wtUXYCYE2gdwT8qiJ0wy8) | 13:41 | 2023-02-15 | 2024-04-19 |
@@ -72,6 +72,7 @@
 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 6:54 | 2023-02-15 | 2024-04-19 |
 | [Sohnia Mukh Tera Sajri Saver Ay](https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 10:24 | 2023-02-15 |  |
 | [Sone Yaar](https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Aa Mil Yaar](https://open.spotify.com/album/6nzQRybk8TXsl30nIYR3Vt) | 5:15 | 2023-02-15 | 2025-02-28 |
+| [Sukki Mitti \- Live](https://open.spotify.com/track/4JRNh4a0UvRj8sN11im9jq) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sukki Mitti \(Live\)](https://open.spotify.com/album/00OBaU6mgS2mxeA6mkWL1z) | 7:18 | 2025-05-05 |  |
 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 | 2023-02-15 | 2025-02-02 |
 | [Tasvi De Manke](https://open.spotify.com/track/6gOwSBSuTm1nuF884LkQuy) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Tasvi De Manke](https://open.spotify.com/album/1IWalUhl4oILgaiUDH2rYp) | 4:19 | 2025-02-01 | 2025-02-22 |
 | [Tenu Mein Pyaar Karaa \- Version 1](https://open.spotify.com/track/4m78k5BYJz2hSch5AW8KYw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 6:14 | 2023-02-15 |  |

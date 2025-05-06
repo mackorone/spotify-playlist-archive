@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
         "name": "BSS 2nd Single Album \u2018TELEPARTY\u2019",
         "url": "https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq"
       },

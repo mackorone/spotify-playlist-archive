@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Музика, щоб максимально насолодитися веснотравнем 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,677 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,688 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

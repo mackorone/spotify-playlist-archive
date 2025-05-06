@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: TAPE TOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,946 likes - 106 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,944 likes - 106 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 8 | [Event of a Fire](https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Event of a Fire](https://open.spotify.com/album/0YkFwRdulcXdf0hNWScqIt) | 3:55 |
 | 9 | [You and Me](https://open.spotify.com/track/2NzgoMKRFZmTVnupKg6CO9) | [SALVIA](https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8) | [You and Me](https://open.spotify.com/album/0IYaEZ0sprFNXwbmTX1hgz) | 2:47 |
 | 10 | [LADY](https://open.spotify.com/track/4NnzbyoBka1NqyUlZSaLeS) | [Loyk](https://open.spotify.com/artist/018KlCBuuEPsRQRWu2AJ27) | [LADY](https://open.spotify.com/album/21nX0HyL9OpgIgsdThmCq4) | 2:25 |
-| 11 | [Get Fucked](https://open.spotify.com/track/0QAb9CnKWI6zrkJyESFqrW) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Get Fucked \(Record Store Day\)](https://open.spotify.com/album/6QE2y2f9czfqY5KU9dji2q) | 3:25 |
+| 11 | [Get Fucked](https://open.spotify.com/track/0QAb9CnKWI6zrkJyESFqrW) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Get Fucked](https://open.spotify.com/album/6QE2y2f9czfqY5KU9dji2q) | 3:25 |
 | 12 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 | 13 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 |
 | 14 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 |

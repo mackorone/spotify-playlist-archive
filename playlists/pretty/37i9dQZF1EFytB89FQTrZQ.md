@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,609 likes - 327 songs - 18 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,611 likes - 327 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,12 +185,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 175 | [Run for Cover](https://open.spotify.com/track/5egoSCaZ61vo3qgkiRQyNw) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [One Touch](https://open.spotify.com/album/5AD98s5Pm4PfDlVx9fDPa2) | 3:47 |
 | 176 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
 | 177 | [Foreign World \(feat\. Anne\-Marie\)](https://open.spotify.com/track/24t27lEozHfSSNbvtONlCz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:17 |
-| 178 | [Get It Till I’m Gone](https://open.spotify.com/track/3AiEaPwwcLRp4Rzy0hqhnK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:00 |
-| 179 | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/track/2gQMLUE0Bf5ha89MHF7q9L) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/album/4GcfT4lV2LivWd0gqaWEWH) | 3:54 |
-| 180 | [Saturday Night](https://open.spotify.com/track/0eQZaR47vkYzvmsRkJHxKL) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 2](https://open.spotify.com/album/6v6ZJt4l99JznyJ9YnMwwK) | 5:24 |
-| 181 | [CHEST](https://open.spotify.com/track/02BqvmZoEUtrASEcVNo1Am) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [CHEST](https://open.spotify.com/album/0GxnuHJhqMxniNGvEGsBML) | 3:11 |
-| 182 | [Air & Water](https://open.spotify.com/track/6nIr8PlC1VxsiZL3hdYwRO) | [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Teardrop](https://open.spotify.com/album/5PJAP7jSfCQhKdGsMzDzCK) | 3:03 |
-| 183 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
+| 178 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
+| 179 | [Get It Till I’m Gone](https://open.spotify.com/track/3AiEaPwwcLRp4Rzy0hqhnK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:00 |
+| 180 | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/track/2gQMLUE0Bf5ha89MHF7q9L) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/album/4GcfT4lV2LivWd0gqaWEWH) | 3:54 |
+| 181 | [Saturday Night](https://open.spotify.com/track/0eQZaR47vkYzvmsRkJHxKL) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 2](https://open.spotify.com/album/6v6ZJt4l99JznyJ9YnMwwK) | 5:24 |
+| 182 | [CHEST](https://open.spotify.com/track/02BqvmZoEUtrASEcVNo1Am) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [CHEST](https://open.spotify.com/album/0GxnuHJhqMxniNGvEGsBML) | 3:11 |
+| 183 | [Air & Water](https://open.spotify.com/track/6nIr8PlC1VxsiZL3hdYwRO) | [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Teardrop](https://open.spotify.com/album/5PJAP7jSfCQhKdGsMzDzCK) | 3:03 |
 | 184 | [Oh The Glamour](https://open.spotify.com/track/12bjMLgcc4vtwAQZd0byLL) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:21 |
 | 185 | [8 \(feat\. FLO\) \- Remix](https://open.spotify.com/track/4T9f5Btf2PvDm5DT25VHTO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 2:51 |
 | 186 | [Love Divine](https://open.spotify.com/track/0MJSzqM7qt4ImICjuhXqNe) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Love Divine](https://open.spotify.com/album/5YFotMhIQuhQqoxzS2qhnu) | 4:41 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 326 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 327 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Abwi1AAAAACfQMxE31B8x4fLKzDVIls/`
+Snapshot ID: `AbwodAAAAACqSzqO3yZkDoSYAxHp6Oth`

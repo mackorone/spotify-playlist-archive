@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Huh\(허성현\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,536 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,535 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

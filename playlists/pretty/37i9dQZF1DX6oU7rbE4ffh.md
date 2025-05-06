@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,630 likes - 212 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,649 likes - 212 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

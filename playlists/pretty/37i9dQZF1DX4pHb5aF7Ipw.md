@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BIG KAY SMG, Baggh\-e SMG, Farmaan SMG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,839 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,849 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 12 | [Dialed In](https://open.spotify.com/track/0h7DCQxxWqBOHaEhsIGShE) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2) | [Dialed In](https://open.spotify.com/album/4Y3OotETwkS3SAJWJbS9Lt) | 2:21 |
 | 13 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |
 | 14 | [Shut Down](https://open.spotify.com/track/6RUgRlEd2SOZxwsUQV1EyH) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Bling Singh](https://open.spotify.com/artist/2iVVra3x9R6r9EhwmFpXWH) | [Shut Down](https://open.spotify.com/album/351Hd07iep66TLAss9PWTy) | 2:54 |
-| 15 | [One Rhyme](https://open.spotify.com/track/1AbK09Gs9LSUM5qKBKVvao) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 1:29 |
+| 15 | [One Rhyme](https://open.spotify.com/track/1AbK09Gs9LSUM5qKBKVvao) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 1:29 |
 | 16 | [Aye Haye](https://open.spotify.com/track/4ct0nMZQn7uKPXVICjPE6P) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Aye Haye](https://open.spotify.com/album/0qCf9S2QLvCIttJZuIP0hY) | 2:28 |
 | 17 | [Goodfellas](https://open.spotify.com/track/0Pygl14hAJzebqoq91lCt0) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [Rxmbo](https://open.spotify.com/artist/6VwPTd4ychTXAvO1bDJyuz), [Shikaari](https://open.spotify.com/artist/5DGaWIko5aIbDdAPGJjEoz) | [Goodfellas](https://open.spotify.com/album/1nin31tLtK8RYXXrdMmzW9) | 3:05 |
 | 18 | [Heroic](https://open.spotify.com/track/2h7y1x1dZ8K5U3uipmQtvo) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Heroic](https://open.spotify.com/album/7reBkwh1qEmxmekDVhfLOc) | 2:42 |

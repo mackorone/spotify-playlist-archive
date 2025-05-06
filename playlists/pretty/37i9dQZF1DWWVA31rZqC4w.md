@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,991 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,118 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 112 | [Got It Bad](https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:25 |
 | 113 | [Your Type](https://open.spotify.com/track/0J4syEDciNBH9RKDZiONYT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 2:03 |
 | 114 | [Straight Love Affair](https://open.spotify.com/track/78diYYryH5ZTeFY7HZ98aL) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:17 |
-| 115 | [Mortel](https://open.spotify.com/track/4B2dg5z4YGeyjVb7tpw9dR) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [À ta merci](https://open.spotify.com/album/4tsA4rdVsoe9wnHV7ilJgD) | 3:56 |
+| 115 | [Mortel](https://open.spotify.com/track/4B2dg5z4YGeyjVb7tpw9dR) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [À ta merci](https://open.spotify.com/album/4tsA4rdVsoe9wnHV7ilJgD) | 3:56 |
 | 116 | [Falling \(feat\. Okay Kaya\)](https://open.spotify.com/track/51jp36wU8YNUDKgpKHmrfP) | [Vera](https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7) | [Falling \(feat\. Okay Kaya\)](https://open.spotify.com/album/2CAhBWG9KDa47nMcMIha7o) | 3:21 |
 | 117 | [Heaven](https://open.spotify.com/track/6in2bHLe8kxQ3UlMGCqdKq) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [The Love That Remains](https://open.spotify.com/album/010YdJ7bxE2y1C2f6EVbV2) | 4:10 |
 | 118 | [She Is My Dream](https://open.spotify.com/track/1UrZqBZyp5qjEY6wpiuJWN) | [The Tads](https://open.spotify.com/artist/4t6iPsc5RIaak1t9bQOYuO) | [Cult Hits of the 1950's, Vol\. 2](https://open.spotify.com/album/4Q2FBaSBTFCb82hZGgttKa) | 2:17 |

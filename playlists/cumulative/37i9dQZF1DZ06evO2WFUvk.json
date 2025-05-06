@@ -90,7 +90,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256306,
-      "name": "Balada Del Asalariado",
+      "name": "Balada del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
     },
     {
@@ -220,7 +220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 228066,
-      "name": "El Campeon",
+      "name": "El Campe\u00f3n",
       "url": "https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t"
     },
     {
@@ -240,24 +240,6 @@
       "duration_ms": 351173,
       "name": "El Feo",
       "url": "https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn"
-    },
-    {
-      "album": {
-        "name": "Hurbanistorias",
-        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "date_added": "2023-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 288360,
-      "name": "Estacion Del Metro Balderas",
-      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
     },
     {
       "album": {
@@ -399,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "Metro Balderas (Estaci\u00f3n del metro Balderas)",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+    },
+    {
+      "album": {
         "name": "No Estoy Loco",
         "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
       },
@@ -448,7 +448,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132466,
-      "name": "Oh, Yo No Se",
+      "name": "Oh, Yo No S\u00e9",
       "url": "https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Babasha",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Tzanca Uraganu",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 149606,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
@@ -606,6 +606,28 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
+        "name": "Bipolar\u0103",
+        "url": "https://open.spotify.com/album/68rGH2GpyJVZb1BXaOfrcI"
+      },
+      "artists": [
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Bipolar\u0103",
+      "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
     },
     {
       "album": {
@@ -758,7 +780,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 198837,
       "name": "Cine N-a Gresit Vreodata",
       "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
@@ -1260,7 +1282,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -1851,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
       },
@@ -2390,6 +2430,32 @@
       "duration_ms": 187216,
       "name": "PRAF 3",
       "url": "https://open.spotify.com/track/1JZG2Uy2YX81JVWFGpz16J"
+    },
+    {
+      "album": {
+        "name": "PRIETENA TA",
+        "url": "https://open.spotify.com/album/0f9WWquV54mxfVNBppwy9i"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202220,
+      "name": "PRIETENA TA",
+      "url": "https://open.spotify.com/track/65s5E9OK3p1fER8OCdJjWO"
     },
     {
       "album": {

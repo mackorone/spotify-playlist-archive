@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 211146,
       "name": "A Constant Reminder",
       "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 200013,
       "name": "A Dance With Aera Cura",
       "url": "https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 192293,
       "name": "Apologies Are For The Weak",
       "url": "https://open.spotify.com/track/64P6T5X31K9XQn5vtbbHej"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 252666,
       "name": "Convalescence",
       "url": "https://open.spotify.com/track/49ujOeGn9ErIbGIMNJZDsf"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 207573,
       "name": "Desperate Times, Desperate Measures",
       "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 252840,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/4nbeXuTY1V2snvucs5AZaa"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 222346,
       "name": "Indictment",
       "url": "https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 323271,
       "name": "Intake",
       "url": "https://open.spotify.com/track/0eRh3xlZzB7m4fWZ8e1dDq"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 205866,
       "name": "My Fork In The Road (Your Knife In My Back)",
       "url": "https://open.spotify.com/track/0zwuEoDwZElvwj9GyDHwue"
@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Music for the Recently Deceased",
+        "url": "https://open.spotify.com/album/5cwpPTN91IZG9BwpnyALdU"
+      },
+      "artists": [
+        {
+          "name": "I Killed The Prom Queen",
+          "url": "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Sharks in Your Mouth",
+      "url": "https://open.spotify.com/track/7hx9YvHZj4o0NauuwCzlr8"
+    },
+    {
+      "album": {
         "name": "The King Is Coming",
         "url": "https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 270026,
       "name": "Subverse",
       "url": "https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 230133,
       "name": "The Worst Is yet to Come",
       "url": "https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI"
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 205006,
       "name": "Thirty One & Sevens",
       "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 227106,
       "name": "We Stand",
       "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"

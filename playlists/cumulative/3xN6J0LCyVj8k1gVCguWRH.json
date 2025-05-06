@@ -7863,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "Be Thou Removed",
+        "url": "https://open.spotify.com/album/3R6GBWOjcXRy9z9dm3wxc5"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Be Thou Removed",
+      "url": "https://open.spotify.com/track/1TNm2uBzkOTrNX6LBErrKG"
+    },
+    {
+      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/4yOlQITmM39Ilzgn0gsW3C"
       },
@@ -31855,6 +31873,28 @@
     },
     {
       "album": {
+        "name": "Good Conversation",
+        "url": "https://open.spotify.com/album/2wZmqwqef17Fk4o0G2YBIt"
+      },
+      "artists": [
+        {
+          "name": "THISISSHEBA",
+          "url": "https://open.spotify.com/artist/44xPGzMyi8bqqdglO7LSRC"
+        },
+        {
+          "name": "Cam Be",
+          "url": "https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E"
+        }
+      ],
+      "date_added": "2025-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220148,
+      "name": "Good Conversation",
+      "url": "https://open.spotify.com/track/0qvMqJvdPjOrdqs5BsQFY2"
+    },
+    {
+      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/1SzkbttSsXGS3vTckllv7d"
       },
@@ -35668,6 +35708,28 @@
       "duration_ms": 251605,
       "name": "Home",
       "url": "https://open.spotify.com/track/5OOVmHpm0qu8SQtCoVlXYN"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/782aS8rYWjEnOoDU7UfR8J"
+      },
+      "artists": [
+        {
+          "name": "VoColor",
+          "url": "https://open.spotify.com/artist/7eAMAs8IoQonz26J6Xe5S0"
+        },
+        {
+          "name": "Kenny Duerlund",
+          "url": "https://open.spotify.com/artist/2BMvRpSd6McLGd7K7754KV"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7jQFLqzD3V6eHrTx3qMEOb"
     },
     {
       "album": {
@@ -52130,7 +52192,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 151058,
       "name": "Missed Call",
       "url": "https://open.spotify.com/track/3kN8eP9bJLdlFrB82TMld4"
@@ -77090,7 +77152,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-06",
       "duration_ms": 252866,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/2OAdrGZAJBUZ448fEk2ytL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: New Found Glory
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,315 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,392 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

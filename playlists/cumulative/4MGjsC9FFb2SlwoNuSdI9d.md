@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-244 songs - 13 hr 10 min
+245 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-04-04 |  |
 | [Please Please Please](https://open.spotify.com/track/1KE8CYkUEbVbCdEyO1nIfU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 3:06 | 2024-09-09 | 2024-11-09 |
 | [Popular Song \(MIKA & Ariana Grande\)](https://open.spotify.com/track/4AzzUUIBICXrr5OYfs2u2C) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly \(Tenth Anniversary Edition\)](https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM) | 3:20 | 2023-11-28 | 2025-02-15 |
+| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-05 |  |
 | [PROPPA GHANDA](https://open.spotify.com/track/2B0sNvXch0qIzgVYdNUVF1) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [PROPPA GHANDA](https://open.spotify.com/album/5iRuq9RJu23GYLiSQZScrF) | 2:27 | 2024-09-09 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-03 | 2024-11-09 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2025-01-09 |  |

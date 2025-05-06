@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,526 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,613 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
 | 50 | [どON](https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [どON](https://open.spotify.com/album/0by9AYORdrbUgLMvDKA0T2) | 3:38 |
 
-Snapshot ID: `aBeBCwAAAABTC5wMw8FxqTW4JHKb9KVY`
+Snapshot ID: `aBjScAAAAADnjI4rPQ+5FltLbRQ8owMM`

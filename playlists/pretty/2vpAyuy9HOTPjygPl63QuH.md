@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,180 likes - 50 songs - 2 hr 47 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,181 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 16 | [The Whistle](https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [The Whistle / My Team](https://open.spotify.com/album/142SZCqFfk2OgKTTHZVaCi) | 3:30 |
 | 17 | [Ring The Alarm](https://open.spotify.com/track/4bxvxI55sYO9ubEn8ywwGW) | [Seeing Double](https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj) | [Ring The Alarm](https://open.spotify.com/album/3FY52a0rYChVIhVKmf8V6G) | 3:30 |
 | 18 | [Lose Control](https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Lose Control](https://open.spotify.com/album/2c8lk5exqABxO2NhHfKhX2) | 2:53 |
-| 19 | [Why Do We Jack \- Why Do We Jack](https://open.spotify.com/track/5KtEMObrjLhFcTw6rS9UqS) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Why Do We Jack](https://open.spotify.com/album/1W5rG6o0FrqMf8RaXxUna3) | 3:53 |
+| 19 | [Why Do We Jack](https://open.spotify.com/track/5KtEMObrjLhFcTw6rS9UqS) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Why Do We Jack](https://open.spotify.com/album/1W5rG6o0FrqMf8RaXxUna3) | 3:53 |
 | 20 | [Wicked Love](https://open.spotify.com/track/4S40D64SE6tWJGg1GXsvLq) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Wicked Love](https://open.spotify.com/album/6c5A7gzYZvTYIlMzLSqOiQ) | 3:23 |
 | 21 | [Body & Soul](https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Body & Soul](https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK) | 2:38 |
 | 22 | [Obsession](https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Obsession](https://open.spotify.com/album/7FdYJQkaZcG5PvzmwkhXMi) | 3:37 |

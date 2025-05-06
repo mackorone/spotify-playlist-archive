@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,867 likes - 101 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,416 likes - 101 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

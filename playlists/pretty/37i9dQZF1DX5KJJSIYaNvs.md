@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Anubha Bajaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,648 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,654 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 8 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 | 9 | [Ho Jaa](https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Ho Jaa](https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF) | 3:32 |
 | 10 | [Ankhen Na Churao](https://open.spotify.com/track/0fZsiXFpZqsMvlhDQCaO1V) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Bhanu Singh](https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16) | [Ankhen Na Churao](https://open.spotify.com/album/2JBXFGVGUfSKFfWAl2y2Da) | 3:09 |
-| 11 | [Mera Ranjha Beparwa](https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Mera Ranjha Beparwa](https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH) | 4:06 |
+| 11 | [Mera Ranjha Beparwa](https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P) | [Mera Ranjha Beparwa](https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH) | 4:06 |
 | 12 | [Ok Not Ok](https://open.spotify.com/track/6qvR2L1SsTQ6QrTWqk1LOb) | [Roshanara](https://open.spotify.com/artist/7emzpBPOKHKxut0AQZzjzz) | [Ok Not Ok](https://open.spotify.com/album/5TuEKJJ43BSwUK2FhlPRSJ) | 2:52 |
 | 13 | [Aa Zara](https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Aa Zara](https://open.spotify.com/album/5gw0j8n8j2h7kLmQ8XqzcL) | 2:35 |
 | 14 | [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 |

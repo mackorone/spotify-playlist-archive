@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 28,267 likes - 147 songs - 7 hr 55 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 28,288 likes - 147 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

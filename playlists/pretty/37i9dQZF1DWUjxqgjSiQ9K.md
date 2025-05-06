@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,600 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,832 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

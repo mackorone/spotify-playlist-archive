@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,463 likes - 85 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,570 likes - 85 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

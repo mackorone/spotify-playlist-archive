@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. 📸 Frozouda
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,850 likes - 103 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,889 likes - 103 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

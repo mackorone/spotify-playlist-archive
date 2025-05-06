@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 reybruja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 106 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,689 likes - 106 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

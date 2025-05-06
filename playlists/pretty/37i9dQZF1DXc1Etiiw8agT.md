@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain](/playlists/plain/37i9dQZF1DXc1Etiiw8agT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc1Etiiw8agT)
 
-### [12 Hours of Brown Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DXc1Etiiw8agT)
+### [Brown Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DXc1Etiiw8agT)
 
-> Continuous brown noise to sleep longer.
+> 12 Hours of brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,500 likes - 200 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,578 likes - 200 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 199 | [500 hz](https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Brown Noise](https://open.spotify.com/album/18I59FrYZxXwKZyg9IfQRr) | 3:16 |
 | 200 | [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 |
 
-Snapshot ID: `Z8cMrAAAAADQ+NCaLY/eFcvErwuga4Lf`
+Snapshot ID: `aBjNvQAAAABWnKBLlAYmA6HdngWpUO+W`

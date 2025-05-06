@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,256 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,306 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 27 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 |
 | 28 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 |
 | 29 | [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War \(with FAVE\)](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 |
-| 30 | [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/track/2vnglz6rHOemjbDHg8PHyR) | [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/album/7k5DAMHj2Vx0t6k0NVJ6PT) | 2:11 |
+| 30 | [](https://open.spotify.com/track/2vnglz6rHOemjbDHg8PHyR) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [MORE MONEY NO PROBLEM \(ASE\)](https://open.spotify.com/album/7k5DAMHj2Vx0t6k0NVJ6PT) | 0:00 |
 | 31 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 |
 | 32 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 |
 | 33 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |

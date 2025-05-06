@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Selection of soul music for the perfect romantic dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,275 likes - 200 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,268 likes - 200 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

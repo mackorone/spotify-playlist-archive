@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,977 likes - 105 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,018 likes - 105 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

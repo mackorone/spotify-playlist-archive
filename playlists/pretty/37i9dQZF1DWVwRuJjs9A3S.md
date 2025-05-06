@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,407 likes - 134 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,445 likes - 134 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 133 | [Working On The Next Life](https://open.spotify.com/track/6b7NmTonbQ9Nne9dGbqAD6) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Working On The Next Life](https://open.spotify.com/album/24fO4qutbKtvGEA3NMKc7h) | 2:18 |
 | 134 | [Brideshead](https://open.spotify.com/track/1B5AjxO07mIGx6ujhXo6BC) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Brideshead](https://open.spotify.com/album/6nydNcOoj2lRxAIMaQUxQe) | 4:00 |
 
-Snapshot ID: `aBPu7QAAAABDhY4Q7kTZYMg6SIBiV3oQ`
+Snapshot ID: `aBhzpwAAAACPzV0qtxCpRl9bfaY2HZDU`

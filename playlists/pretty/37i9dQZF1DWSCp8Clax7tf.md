@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,703 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,767 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

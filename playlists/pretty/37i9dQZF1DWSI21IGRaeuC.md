@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,981 likes - 125 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,042 likes - 125 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 20 | [Again](https://open.spotify.com/track/5kR8mAWFPLsQsUQlLCNKZt) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Again](https://open.spotify.com/album/0co3Pmn6g8CSCydynqPi7f) | 2:47 |
 | 21 | [Gimme The Cheese](https://open.spotify.com/track/24Zma7ZOAwuz7TFhjiLlM0) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Gimme The Cheese](https://open.spotify.com/album/6LlD19pnRVKjpvzpy7tQ0R) | 2:57 |
 | 22 | [K.E.T\. \- Amine Mix](https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 2:42 |
-| 23 | [Why Do We Jack \- Why Do We Jack](https://open.spotify.com/track/5KtEMObrjLhFcTw6rS9UqS) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Why Do We Jack](https://open.spotify.com/album/1W5rG6o0FrqMf8RaXxUna3) | 3:53 |
+| 23 | [Why Do We Jack](https://open.spotify.com/track/5KtEMObrjLhFcTw6rS9UqS) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Why Do We Jack](https://open.spotify.com/album/1W5rG6o0FrqMf8RaXxUna3) | 3:53 |
 | 24 | [Move Yo Body](https://open.spotify.com/track/5wgrgQhgGdEl7DGJdvted1) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Move Yo Body EP](https://open.spotify.com/album/47LZY8wQzUGtxJFoHVdtGC) | 6:08 |
 | 25 | [Tutti Frutti](https://open.spotify.com/track/474Ch3lurYss2Ci8tX9zJy) | [FIRZA](https://open.spotify.com/artist/2DqvLV42W3Tq4ObYoAxz4B) | [Tutti Frutti](https://open.spotify.com/album/7yK0APRBg3VWBebZ5Y81SY) | 3:43 |
 | 26 | [Wub Riddim \- Radio\-Edit](https://open.spotify.com/track/6S72FPVYg4v4STK7kISlXG) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 3:26 |

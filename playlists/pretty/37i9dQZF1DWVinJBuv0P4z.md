@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,459 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,685 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

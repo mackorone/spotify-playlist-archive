@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Arjun Kanungo, Badshah, Madhubanti Bagchi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,154 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,187 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 8 | [First Sight Wala Love](https://open.spotify.com/track/0WSO9J0fZ17EJ1DfT2rWVa) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT) | [First Sight Wala Love](https://open.spotify.com/album/29rCN9Ef5YCpaa7eYB1bAP) | 2:38 |
 | 9 | [Love & Light](https://open.spotify.com/track/5KzNPA2iuR6wXDcwIkmf8t) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Love & Light](https://open.spotify.com/album/5AZ1akg0I4hvqNGT036Kkg) | 3:30 |
 | 10 | [Golden Hours](https://open.spotify.com/track/2cMm0tsAERdYXr4Jzdr0oK) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Golden Hours](https://open.spotify.com/album/6haCEVvfOApScP6ojK8TMW) | 2:56 |
-| 11 | [Mera Ranjha Beparwa](https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Mera Ranjha Beparwa](https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH) | 4:06 |
+| 11 | [Mera Ranjha Beparwa](https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P) | [Mera Ranjha Beparwa](https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH) | 4:06 |
 | 12 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 13 | [Chahvan Sohneya](https://open.spotify.com/track/4qRukdESa5cDVl0IenNcPL) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Chahvan Sohneya](https://open.spotify.com/album/6p0dyZ12lPlSqLREVSvXoy) | 2:59 |
 | 14 | [tu ishq hai](https://open.spotify.com/track/07SloKOY1LJDuMhZyhg5R7) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [tu ishq hai](https://open.spotify.com/album/5lBiq9azRqrhJRfGiwJKec) | 2:16 |

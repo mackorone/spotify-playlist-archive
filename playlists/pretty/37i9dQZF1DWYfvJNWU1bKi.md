@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Lubber Pandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,593 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,802 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

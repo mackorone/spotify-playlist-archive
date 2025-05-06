@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,980 likes - 164 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,005 likes - 164 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

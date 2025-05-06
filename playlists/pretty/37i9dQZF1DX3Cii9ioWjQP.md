@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Maria Kim \(마리아 킴\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,809 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,810 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

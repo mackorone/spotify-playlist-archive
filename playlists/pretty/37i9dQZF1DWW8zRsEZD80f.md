@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8zRsEZD80f.md) - [plain]
 
 > Sácale provecho a este tiempo en casa\. Encuentra contenido de educación y entretenimiento para niños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,441 likes - 10 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,440 likes - 10 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

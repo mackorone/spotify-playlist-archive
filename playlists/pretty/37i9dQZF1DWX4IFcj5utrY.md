@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=J3ZBNXJ1SXSw1r2T1HgEvA">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,591 likes - 56 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,631 likes - 56 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

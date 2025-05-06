@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,707 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,722 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

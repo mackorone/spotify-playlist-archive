@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,063 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,268 likes - 150 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

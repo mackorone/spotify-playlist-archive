@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,839 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,887 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 다비치\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,894 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,887 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,426 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,428 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

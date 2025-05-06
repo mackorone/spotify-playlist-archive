@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Chucho Valdés
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,528 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,538 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

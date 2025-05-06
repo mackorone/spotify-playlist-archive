@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Leonchalon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,792 likes - 89 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,810 likes - 89 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
