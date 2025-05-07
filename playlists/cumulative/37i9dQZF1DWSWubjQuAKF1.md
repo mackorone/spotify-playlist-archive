@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kajetan Wolas
 
-445 songs - 21 hr 33 min
+447 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/track/3DgAsWzkxpMQWHZR8Dmzxp) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/album/3hNiY3MJc2gsFTlxvvkiWY) | 2:08 | 2025-04-10 | 2025-04-18 |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-23 | 2025-01-31 |
 | [pajęcze lilie](https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [pajęcze lilie](https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1) | 3:52 | 2024-09-27 | 2025-01-24 |
+| [PALO SANTO](https://open.spotify.com/track/2STHRcJesfqpaDIdbGk9i7) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [PALO SANTO](https://open.spotify.com/album/18grvDifqNzAlYNdTOufLK) | 2:40 | 2025-05-01 |  |
 | [Pamiętasz nas?](https://open.spotify.com/track/6HvzmkNyvkqBa3GBUiCjjp) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Pamiętasz nas?](https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64) | 3:11 | 2024-06-28 | 2024-07-12 |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Pamiętasz?](https://open.spotify.com/track/7Hl9kN1XUyYy6GF3PDuszJ) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Pamiętasz?](https://open.spotify.com/album/55VJTpMsVzBuWIATjiREFb) | 3:56 | 2024-11-21 | 2025-01-24 |
@@ -304,6 +305,7 @@
 | [pijama party](https://open.spotify.com/track/5Lq1A1RyFYEMa08j7ynZJk) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [FREE WIFI](https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE) | 1:38 | 2025-02-27 | 2025-03-07 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-06 | 2025-03-28 |
 | [playlista](https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:32 | 2024-08-01 | 2024-08-23 |
+| [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-01 |  |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-22 | 2025-01-24 |
 | [Pole namiotowe](https://open.spotify.com/track/4YQJAv6jwldSppTmbwdGYs) | [cosmos](https://open.spotify.com/artist/7q349p87C2eR92EJcRX3P1) | [Pole namiotowe](https://open.spotify.com/album/6DPS1tx26SJVb7VHOPc340) | 3:04 | 2024-06-28 | 2024-08-02 |
 | [Polecę do gwiazd](https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2) | [Michell Siwak](https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q) | [Polecę do gwiazd](https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D) | 2:24 | 2024-09-13 | 2025-01-24 |
@@ -353,7 +355,7 @@
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2025-01-23 | 2025-02-07 |
 | [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |
-| [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 | 2025-04-24 |  |
+| [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 | 2025-04-24 | 2025-05-07 |
 | [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 | 2025-01-23 | 2025-02-16 |
 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 | 2025-01-23 | 2025-04-25 |
 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 | 2024-11-21 | 2025-01-24 |
@@ -371,7 +373,7 @@
 | [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 | 2025-03-09 |
 | [szukam](https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [szukam](https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef) | 3:25 | 2024-08-22 | 2025-01-24 |
 | [Słodka woda](https://open.spotify.com/track/1qcoxUi3yDT5tkslYJfFsR) | [ANGELENA](https://open.spotify.com/artist/7KfmCy4af3n3VBbIvY1Cck), [Klaudia Borczyk](https://open.spotify.com/artist/2Jw1ZJ2kRO9sV7VQLwps8x) | [Słodka woda](https://open.spotify.com/album/3kYMaNtY92K9eNY2zlRWGa) | 3:42 | 2024-07-25 | 2024-08-23 |
-| [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 | 2025-04-24 |  |
+| [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 | 2025-04-24 | 2025-05-07 |
 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 | 2024-09-19 | 2025-01-24 |
 | [Tak widzę nas \(za 20 lat\)](https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tak widzę nas \(za 20 lat\)](https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx) | 2:48 | 2024-07-18 | 2025-01-24 |
 | [taki nawyk](https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY) | [PK sisters](https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [taki nawyk](https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k) | 2:34 | 2024-11-21 | 2025-01-24 |

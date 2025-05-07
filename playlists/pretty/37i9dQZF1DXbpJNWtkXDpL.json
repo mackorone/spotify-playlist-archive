@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
-  "num_followers": 89604,
+  "num_followers": 89735,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
-    },
-    {
-      "added_at": "2025-05-02 06:00:23",
-      "album": {
         "name": "Tu Consentido",
         "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 190515,
       "name": "Tu Consentido",
       "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
+    },
+    {
+      "added_at": "2025-05-02 06:00:23",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
     },
     {
       "added_at": "2025-05-02 06:00:23",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
+        "name": "Un Error",
+        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
+      },
+      "artists": [
+        {
+          "name": "Monte Carlo",
+          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
+        }
+      ],
+      "duration_ms": 239358,
+      "name": "Un Error",
+      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
+    },
+    {
+      "added_at": "2025-05-02 06:00:23",
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 248195,
       "name": "antonio banderas",
       "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
-    },
-    {
-      "added_at": "2025-05-02 06:00:23",
-      "album": {
-        "name": "Un Error",
-        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
-      },
-      "artists": [
-        {
-          "name": "Monte Carlo",
-          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
-        }
-      ],
-      "duration_ms": 239358,
-      "name": "Un Error",
-      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
     },
     {
       "added_at": "2025-05-02 06:00:23",
@@ -535,30 +535,6 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
-        "name": "Griselda",
-        "url": "https://open.spotify.com/album/4TzdW4hZcL7rgKgiTYkxLO"
-      },
-      "artists": [
-        {
-          "name": "Vic Gunn",
-          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
-        },
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Griselda",
-      "url": "https://open.spotify.com/track/7eJyuk6HFHRmbPm6uymimu"
-    },
-    {
-      "added_at": "2025-05-02 06:00:23",
-      "album": {
         "name": "Bailar",
         "url": "https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 208639,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
+    },
+    {
+      "added_at": "2025-05-02 06:00:23",
+      "album": {
+        "name": "Griselda",
+        "url": "https://open.spotify.com/album/4TzdW4hZcL7rgKgiTYkxLO"
+      },
+      "artists": [
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Griselda",
+      "url": "https://open.spotify.com/track/7eJyuk6HFHRmbPm6uymimu"
     },
     {
       "added_at": "2025-05-02 06:00:23",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
-        "name": "Loquequiero (nunca me lo das)",
-        "url": "https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA"
+        "name": "Voz en el Mar",
+        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Loquequiero (nunca me lo das)",
-      "url": "https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU"
+      "duration_ms": 194694,
+      "name": "Voz en el Mar",
+      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
     },
     {
       "added_at": "2025-05-02 06:00:23",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
-        "name": "Voz en el Mar",
-        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
+        "name": "Loquequiero (nunca me lo das)",
+        "url": "https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA"
       },
       "artists": [
         {
-          "name": "Ele Suarez",
-          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 194694,
-      "name": "Voz en el Mar",
-      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
+      "duration_ms": 154500,
+      "name": "Loquequiero (nunca me lo das)",
+      "url": "https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU"
     },
     {
       "added_at": "2025-05-02 06:00:23",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-05-02 06:00:23",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
-      },
-      "artists": [
-        {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "LaPeste",
-          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
-        }
-      ],
-      "duration_ms": 165959,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
-    },
-    {
-      "added_at": "2025-05-02 06:00:23",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/49XnRfC58abyNbxYDc1fO7"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 153442,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/6NFWp3ScUkwyKyhPCM0QbF"
+    },
+    {
+      "added_at": "2025-05-02 06:00:23",
+      "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        }
+      ],
+      "duration_ms": 165959,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
     },
     {
       "added_at": "2025-05-02 06:00:23",

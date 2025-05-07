@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Gateway Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,262 likes - 80 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,425 likes - 80 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

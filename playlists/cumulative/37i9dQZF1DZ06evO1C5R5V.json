@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Acapulco Rock",
+        "url": "https://open.spotify.com/album/4kKdCpKunuITYaZAMneEgW"
+      },
+      "artists": [
+        {
+          "name": "Los K\u2019comxtles",
+          "url": "https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182898,
+      "name": "Acapulco Rock",
+      "url": "https://open.spotify.com/track/6bZ7FtpxiN3gGUBw5f7ZKN"
+    },
+    {
+      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -468,6 +490,24 @@
       "duration_ms": 233964,
       "name": "El Primer Destino",
       "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
+    },
+    {
+      "album": {
+        "name": "El Trabajo del Hombre",
+        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239243,
+      "name": "El Trabajo del Hombre",
+      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
     },
     {
       "album": {
@@ -952,7 +992,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 229426,
       "name": "Polic\u00eda Chacal",
       "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
@@ -1006,7 +1046,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 189453,
       "name": "Puedes Decir",
       "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"

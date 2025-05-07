@@ -8313,6 +8313,32 @@
     },
     {
       "album": {
+        "name": "Dominguinho",
+        "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223008,
+      "name": "Beija Flor",
+      "url": "https://open.spotify.com/track/6c6brFif6MTMSq0sVwgMAT"
+    },
+    {
+      "album": {
         "name": "Beijo de Glicose (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC"
       },
@@ -15412,7 +15438,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
@@ -18966,6 +18992,10 @@
         {
           "name": "Sayle",
           "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
+        },
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S"
         }
       ],
       "date_added": "2025-04-27",
@@ -26507,6 +26537,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
         "name": "Garota Absurda",
         "url": "https://open.spotify.com/album/5LBmWTfHo5zlsoth1p5nsW"
       },
@@ -28079,6 +28127,24 @@
     },
     {
       "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
+    {
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -28422,6 +28488,24 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
+    },
+    {
+      "album": {
+        "name": "HERE (Hood Trap)",
+        "url": "https://open.spotify.com/album/38sMk3srE3rQhWYDOLNvyA"
+      },
+      "artists": [
+        {
+          "name": "Salako",
+          "url": "https://open.spotify.com/artist/599kvLJs6hiYtRJJBKs2gj"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "HERE - Hood Trap",
+      "url": "https://open.spotify.com/track/4X4Ur8jqwMcCKmfPAD8EIQ"
     },
     {
       "album": {
@@ -29172,6 +29256,24 @@
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "album": {
@@ -31476,10 +31578,28 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/7F25roCtYi55JouckaayPC"
     },
     {
       "album": {
@@ -32986,6 +33106,32 @@
       "duration_ms": 226160,
       "name": "Lembran\u00e7a De Um Beijo",
       "url": "https://open.spotify.com/track/1cHbRBpW7RtTTrlF7RBnsT"
+    },
+    {
+      "album": {
+        "name": "Dominguinho",
+        "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Lembrei de N\u00f3s",
+      "url": "https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj"
     },
     {
       "album": {
@@ -34806,6 +34952,28 @@
       "duration_ms": 236538,
       "name": "Lula \u00c9 a Tropa do 13",
       "url": "https://open.spotify.com/track/1FExdF82LBqhrMr7IvM2i4"
+    },
+    {
+      "album": {
+        "name": "LUNA BALA",
+        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124109,
+      "name": "LUNA BALA - Slowed",
+      "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
       "album": {
@@ -40840,7 +41008,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
@@ -40950,7 +41118,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 104095,
       "name": "Montagem Yt Kids",
       "url": "https://open.spotify.com/track/0QWMoW8bAqq2avQTXEip8u"
@@ -45466,7 +45634,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 144457,
       "name": "N\u00c3O ERA LOVE",
       "url": "https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU"
@@ -45862,7 +46030,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 168910,
       "name": "N\u00e3o Tente Me Impedir",
       "url": "https://open.spotify.com/track/5CSzt2msdo6pWVxkaKX1FG"
@@ -48328,6 +48496,24 @@
       "duration_ms": 210306,
       "name": "Ouro de Verdade",
       "url": "https://open.spotify.com/track/1JljcCqKdmH3WCNFuyQYF7"
+    },
+    {
+      "album": {
+        "name": "OUTRA",
+        "url": "https://open.spotify.com/album/1NZLBXXlKsjXnEFD2QuHqB"
+      },
+      "artists": [
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "OUTRA",
+      "url": "https://open.spotify.com/track/7s0lUkcCRuYQPhDdRKE2A3"
     },
     {
       "album": {
@@ -52125,6 +52311,32 @@
     },
     {
       "album": {
+        "name": "Dominguinho",
+        "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Pontes Indestrut\u00edveis",
+      "url": "https://open.spotify.com/track/4YJiSGhVT4OPJ9hftf4wvq"
+    },
+    {
+      "album": {
         "name": "Ponto Final (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q2TL1bm1NJjKYG6SZxk8u"
       },
@@ -55450,7 +55662,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 281666,
       "name": "Resposta Ao Tempo",
       "url": "https://open.spotify.com/track/2Hi0B2K9aSRHmOqu6q20GR"
@@ -55468,7 +55680,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 283266,
       "name": "Resposta Ao Tempo",
       "url": "https://open.spotify.com/track/22qCXqA9k4vXa4rHsuYthX"
@@ -59672,7 +59884,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -67449,6 +67661,24 @@
     },
     {
       "album": {
+        "name": "Tung Tung Tung Sahur Nela",
+        "url": "https://open.spotify.com/album/68pkPlTEt0LFHmp04dn3Nr"
+      },
+      "artists": [
+        {
+          "name": "Leone",
+          "url": "https://open.spotify.com/artist/4xRmzWxvqtmws0fCUI5zqr"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66042,
+      "name": "Tung Tung Tung Sahur Nela",
+      "url": "https://open.spotify.com/track/0H0Jr0DyZANuNXlOCd247q"
+    },
+    {
+      "album": {
         "name": "Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos",
         "url": "https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA"
       },
@@ -68032,7 +68262,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -68270,7 +68500,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 181629,
       "name": "USD, \u00e9 USD!",
       "url": "https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9"
@@ -70048,7 +70278,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 322266,
       "name": "Vive",
       "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ"
@@ -72284,7 +72514,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 188571,
       "name": "YES OR NO",
       "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"

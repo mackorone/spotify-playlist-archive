@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. (C)BNP/BANDAI, DENTSU, TV TOKYO\n",
-  "num_followers": 35053,
+  "num_followers": 35064,
   "original_name": "Let's Aikatsu!",
   "owner": {
     "name": "Spotify",
@@ -260,13 +260,13 @@
       },
       "artists": [
         {
-          "name": "\u3075\u3046\u308afrom STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/771vqu96tF85Qf79ASyp2K"
+          "name": "\u3082\u3048\u30fb\u3059\u306a\u304afrom STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/7gJpKnrG91W93jUXJTm3za"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Prism Spiral",
-      "url": "https://open.spotify.com/track/6V4g2n8y4sbkBtH7SDxqCq"
+      "duration_ms": 385320,
+      "name": "\u785d\u5b50\u30c9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5yFfhtvMQmPxppKzkMdrVe"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -292,13 +292,13 @@
       },
       "artists": [
         {
-          "name": "\u3082\u3048\u30fb\u3059\u306a\u304afrom STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/7gJpKnrG91W93jUXJTm3za"
+          "name": "\u308c\u307f from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
         }
       ],
-      "duration_ms": 385320,
-      "name": "\u785d\u5b50\u30c9\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5yFfhtvMQmPxppKzkMdrVe"
+      "duration_ms": 215973,
+      "name": "Angel Snow",
+      "url": "https://open.spotify.com/track/4FKvtLPoE8p90jQB8fzoyw"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 1\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u3046\u308afrom STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/771vqu96tF85Qf79ASyp2K"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Prism Spiral",
+      "url": "https://open.spotify.com/track/6V4g2n8y4sbkBtH7SDxqCq"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee2",
         "url": "https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 290306,
       "name": "\u7b11\u9854\u306eSuncatcher",
       "url": "https://open.spotify.com/track/1S2ZD6SK91Eib0PFS5OEog"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 1\u5e74\u76ee1",
-        "url": "https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u307f from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Angel Snow",
-      "url": "https://open.spotify.com/track/4FKvtLPoE8p90jQB8fzoyw"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee1",
-        "url": "https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT"
-      },
-      "artists": [
-        {
-          "name": "\u3086\u306a\u30fb\u308c\u307f form STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/6mcWaIxSZFTjen7bOMkX69"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "\u30de\u30b8\u30ab\u30eb\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/6AgD6BHbc72OzKeAH5Di5G"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
         "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 233373,
       "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u306a\u30fb\u308c\u307f form STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/6mcWaIxSZFTjen7bOMkX69"
+        }
+      ],
+      "duration_ms": 281293,
+      "name": "\u30de\u30b8\u30ab\u30eb\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/6AgD6BHbc72OzKeAH5Di5G"
     },
     {
       "added_at": "2025-04-08 15:07:26",

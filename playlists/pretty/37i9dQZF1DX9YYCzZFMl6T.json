@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4424,
+  "num_followers": 4428,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Trim This Tree",
         "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 212333,
       "name": "Christmas in Prison",
       "url": "https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas is Right Here",
-        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 183966,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "My Favorite Gifts - Christmas Album",
         "url": "https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202502,
       "name": "Christmas Everywhere",
       "url": "https://open.spotify.com/track/47RGDPSLWuczgwKM2kL2KY"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas is Right Here",
+        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 183966,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
     }
   ],
   "unique_name": "Americana Christmas",

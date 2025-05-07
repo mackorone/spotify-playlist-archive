@@ -371,6 +371,52 @@
     },
     {
       "album": {
+        "name": "Quintal dos Prettos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
+      },
+      "artists": [
+        {
+          "name": "Prettos",
+          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
+        },
+        {
+          "name": "Magnu Sous\u00e1",
+          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
+        },
+        {
+          "name": "Maurilio de Oliveira",
+          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        },
+        {
+          "name": "Arlindinho",
+          "url": "https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq"
+        },
+        {
+          "name": "Salgadinho",
+          "url": "https://open.spotify.com/artist/1zZcaxPgRLMHbHmas2c8hR"
+        },
+        {
+          "name": "Fred Camacho",
+          "url": "https://open.spotify.com/artist/1VhCv2vQBYPF9gCtn04fiG"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390002,
+      "name": "Batucada dos Nossos Tant\u00e3s - Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/069ceJiGEkMnK31CYnL08v"
+    },
+    {
+      "album": {
         "name": "Emicidio",
         "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
       },
@@ -738,7 +784,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 195130,
       "name": "Identidade Preta",
       "url": "https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2"

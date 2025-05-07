@@ -4,7 +4,7 @@
 
 > Pódcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Crónica Oscura, Las Auténticas señoras de la  calle Lista, Tu amiga psicóloga y Sobre las palabras pódcast<br/><br/>En portada, Las Auténticas señoras de la  calle Lista
 
-92 songs - 4 day 12 hr 19 min
+92 songs - 4 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [CPDP \#41 ft Dr\. Álex Gómez \| ECM y los MÁRGENES de la CONSCIENCIA](https://open.spotify.com/episode/6t1vY06sg0VbOIJTAYH0wL) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:49:14 | 2024-10-07 |  |
 | [CPDP \#42 ft Anuj \| Geopolítica, Espionaje y Sindicalismo](https://open.spotify.com/episode/3OR5qQloKcISxuBp8gmPrk) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 2:11:34 | 2024-10-19 |  |
 | [CPDP \#45 \| Juan Daniel Gómez \| Entrevista a un PSICÓPATA \(Trastorno antisocial de la personalidad\)](https://open.spotify.com/episode/3WHCYJEBPTeV4nMOsmy5wJ) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:15:53 | 2024-11-11 |  |
-| [CPDP \#47 \| Pol Martin ¿Por qué NO DEBES dejar tu DINERO en el BANCO?](https://open.spotify.com/episode/5DxExWZac1bnfE2TLrOeSJ) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:05:17 | 2024-12-16 |  |
+| [CPDP \#47 \| Pol Martin ¿Por qué NO DEBES dejar tu DINERO en el BANCO? ](https://open.spotify.com/episode/5DxExWZac1bnfE2TLrOeSJ) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:01:01 | 2024-12-16 |  |
 | [Cuerpas, biopolítica y autogobierno](https://open.spotify.com/episode/3Mtoj1XmLinwf8M9fJNTCw) | [Nadie hablará de nosotras](https://open.spotify.com/show/18YtE7Ed8UPaTSZpqESG0B) | [Nadie hablará de nosotras](https://open.spotify.com/show/18YtE7Ed8UPaTSZpqESG0B) | 53:09 | 2022-06-22 | 2023-01-20 |
 | [Cómo no dejar que me bloqueen mis miedos \| Ep\. 172](https://open.spotify.com/episode/2cslLycMFBnu0MqM5uQ6JQ) | [Somos Estupendas](https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD) | [Somos Estupendas](https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD) | 44:55 | 2024-07-31 | 2024-10-01 |
 | [Cómo resolver el 90% de los conflictos antes de que empiecen \(Con Carlos Ubenga mediador de calle\)\)](https://open.spotify.com/episode/1HaLCZk0wDmezTyOAePx22) | [Sobran Las Palabras Podcast](https://open.spotify.com/show/0cTWV2uMImJk9I9Vuq6ei9) | [Sobran Las Palabras Podcast](https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9) | 1:40:28 | 2024-09-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18633,
+  "num_followers": 18638,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAABWOKjDruOA9hhfR64GfpXs",
+  "snapshot_id": "aBauAAAAAADRK79DtO9hhNEO/NFUlADH",
   "tracks": [
     {
       "added_at": null,
@@ -28,7 +28,7 @@
       "added_at": null,
       "album": {
         "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg"
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
         {
@@ -36,9 +36,41 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 315986,
+      "duration_ms": 317986,
       "name": "Te Mueres",
-      "url": "https://open.spotify.com/track/7JH0xroK9IZUWIhb0Fvwom"
+      "url": "https://open.spotify.com/track/595j1iKJMeLn3pKXyfzYQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Me Vuelves a Herir",
+      "url": "https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "T\u00e9",
+      "url": "https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq"
     },
     {
       "added_at": null,
@@ -63,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/5kbsQbh0fTewskukC8BbQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -72,9 +120,25 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 279653,
-      "name": "Me Vuelves a Herir",
-      "url": "https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd"
+      "duration_ms": 236946,
+      "name": "Ahora Me Toca a Mi",
+      "url": "https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Para siempre",
+      "url": "https://open.spotify.com/track/5YJUuNUWVD5UYg0S7WPuHr"
     },
     {
       "added_at": null,
@@ -96,70 +160,6 @@
       "added_at": null,
       "album": {
         "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3ekHpSx3U1X63YX7lC7fl0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "T\u00e9",
-      "url": "https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Ahora Me Toca a Mi",
-      "url": "https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Quiero hacerte feliz",
-      "url": "https://open.spotify.com/track/7KVwAWkgU01pXozdfEQjE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
@@ -171,22 +171,6 @@
       "duration_ms": 221853,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/1WLo5jBtnCE9xinKT0LRQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Para siempre",
-      "url": "https://open.spotify.com/track/5YJUuNUWVD5UYg0S7WPuHr"
     },
     {
       "added_at": null,
@@ -207,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -216,25 +200,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/6vNh9UWowPj4QrWxg39qsF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6NnLVIgtLf9kyUF782dgiE"
+      "duration_ms": 233480,
+      "name": "Quiero hacerte feliz",
+      "url": "https://open.spotify.com/track/3dDnyfBRSOpwPCXD6xSits"
     },
     {
       "added_at": null,
@@ -255,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2uGP5rzyXrSlXjF9q57a4w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -271,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
         {
@@ -280,25 +264,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Domesticame",
-      "url": "https://open.spotify.com/track/44ACTU8c8wCeifEbhqC2Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Morder",
-      "url": "https://open.spotify.com/track/3AdjUZ0KPZ3HruyjZrcDx8"
+      "duration_ms": 262133,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5ml03YSdzAhpSW3krfO0sk"
     },
     {
       "added_at": null,
@@ -319,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 348986,
-      "name": "Hazme Algo",
-      "url": "https://open.spotify.com/track/6W4OGaKYvdqCDcz3sfsJjI"
+      "duration_ms": 204893,
+      "name": "Morder",
+      "url": "https://open.spotify.com/track/3hw3V98aNclWx00FFCCOZT"
     },
     {
       "added_at": null,
@@ -344,105 +312,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Esperar",
-      "url": "https://open.spotify.com/track/1xNN6Z0FpCK0TB6yRJbTft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/6EZPuLApfPrdtLtgH7MJjF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/1XJSn6O6dLED8RJYWscajo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/5D0IBrpung6JsB5qEgJ67k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Mar de nubes",
-      "url": "https://open.spotify.com/track/5kd2hadrQGjNm6mj0AXFUC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "Partido en dos",
-      "url": "https://open.spotify.com/track/2Am84biA6kpboEJuQV0wLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/0DT3NABxqWZ4xCHWQE6oej"
+      "duration_ms": 249000,
+      "name": "Domesticame",
+      "url": "https://open.spotify.com/track/44ACTU8c8wCeifEbhqC2Ke"
     },
     {
       "added_at": null,
@@ -463,6 +335,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/1XJSn6O6dLED8RJYWscajo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Esperar",
+      "url": "https://open.spotify.com/track/1xNN6Z0FpCK0TB6yRJbTft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 350986,
+      "name": "Hazme Algo",
+      "url": "https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/0DT3NABxqWZ4xCHWQE6oej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 262720,
+      "name": "Partido en Dos",
+      "url": "https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT"
       },
@@ -479,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiste M\u00e1s Que Yo",
-        "url": "https://open.spotify.com/album/2TPhgYtFdIF0xlpOK0Arp3"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/6Ykqb2Kb7GG9miWxZy9R5I"
+      "duration_ms": 286106,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4"
     },
     {
       "added_at": null,
@@ -540,9 +504,29 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Virtual",
-      "url": "https://open.spotify.com/track/1afgmeS7U1Afi5Fz3dzFxA"
+      "duration_ms": 244000,
+      "name": "Mar de nubes",
+      "url": "https://open.spotify.com/track/5kd2hadrQGjNm6mj0AXFUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiste M\u00e1s Que Yo",
+        "url": "https://open.spotify.com/album/2TPhgYtFdIF0xlpOK0Arp3"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/6Ykqb2Kb7GG9miWxZy9R5I"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -572,15 +556,63 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 230653,
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Virtual",
+      "url": "https://open.spotify.com/track/1afgmeS7U1Afi5Fz3dzFxA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 232653,
       "name": "Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/0DzIgI6SSaFr3Ge53FxWNh"
+      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "El Aparecido",
+      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
     },
     {
       "added_at": null,
       "album": {
         "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -588,9 +620,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/3V9iOdOfNtey4n2hcbx69T"
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,
@@ -607,6 +639,22 @@
       "duration_ms": 240666,
       "name": "Lo Bueno De Morir De Amor",
       "url": "https://open.spotify.com/track/30CcctipMYUvKn7udDlSsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Asfixiar",
+      "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
     },
     {
       "added_at": null,
@@ -631,24 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Axfixiar",
-      "url": "https://open.spotify.com/track/2z1p9XLZXpqIvM198gZNNc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -656,25 +688,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/0buViP262fsSDIWeIxDOaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
-        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "El Aparecido",
-      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
+      "duration_ms": 215946,
+      "name": "Br\u00edgida",
+      "url": "https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs"
     },
     {
       "added_at": null,
@@ -696,7 +712,7 @@
       "added_at": null,
       "album": {
         "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -704,25 +720,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Brigida",
-      "url": "https://open.spotify.com/track/520Ms8HqOpj5oP0e0vDLOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 295106,
+      "duration_ms": 297106,
       "name": "Miel",
-      "url": "https://open.spotify.com/track/7uTNhWFSsMJFxWk2vQiB2H"
+      "url": "https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT"
     }
   ],
   "unique_name": "This Is De Saloon",

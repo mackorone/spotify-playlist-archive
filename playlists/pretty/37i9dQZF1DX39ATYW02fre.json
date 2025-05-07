@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 251733,
+  "num_followers": 251810,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
+      },
+      "artists": [
+        {
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
-      },
-      "artists": [
-        {
-          "name": "Thief Traveler",
-          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
     },
     {
       "added_at": "2025-04-17 23:00:35",

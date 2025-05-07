@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": ".KR",
+        "url": "https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277317,
+      "name": ".KR",
+      "url": "https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09"
+    },
+    {
+      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 87290,
+  "num_followers": 87328,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "KEEP IT ROLLING",
-        "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
-      },
-      "artists": [
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "KEEP IT ROLLING",
-      "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "TEMPORARY FRIENDS",
         "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 181714,
       "name": "TEMPORARY FRIENDS",
       "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "KEEP IT ROLLING",
+        "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
+      },
+      "artists": [
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "KEEP IT ROLLING",
+      "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "One Sixty",
+        "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "One Sixty",
+      "url": "https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "Beamin\u2019",
         "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "One Sixty",
-        "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "One Sixty",
-      "url": "https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "SO TRU",
+      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "JOY (Push The Button)",
         "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 235198,
       "name": "JOY (Push The Button)",
       "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "3AM (LA LA LA)",
-        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 173731,
-      "name": "SO TRU",
-      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
+        "name": "Shooting Star (Badger Remix)",
+        "url": "https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 200930,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
+      "duration_ms": 133150,
+      "name": "Shooting Star - Badger Remix",
+      "url": "https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt"
     }
   ],
   "unique_name": "New UK Garage",

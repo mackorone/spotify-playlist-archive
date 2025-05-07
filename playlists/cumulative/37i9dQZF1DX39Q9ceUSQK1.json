@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Cowboy Song",
+        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
+    },
+    {
+      "album": {
         "name": "a craving",
         "url": "https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB"
       },
@@ -640,6 +658,24 @@
       "duration_ms": 180520,
       "name": "Back of the Bus",
       "url": "https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o"
+    },
+    {
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
+      },
+      "artists": [
+        {
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208938,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
     },
     {
       "album": {
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 211200,
       "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
       "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 200771,
       "name": "I WANT IT",
       "url": "https://open.spotify.com/track/7xtrtBI3YPNbKjpfqgSUkH"
@@ -3710,7 +3746,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -3998,7 +4034,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 154080,
       "name": "Margo",
       "url": "https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo"
@@ -4722,7 +4758,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 162864,
       "name": "Out Loud",
       "url": "https://open.spotify.com/track/2nX7yUxlP1mUyZsPPhmFR9"
@@ -6160,7 +6196,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 216666,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3XL7a5qPELslzR9SV3iWMV"
@@ -6582,7 +6618,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 211680,
       "name": "Toot Toot",
       "url": "https://open.spotify.com/track/5i3ZDK1yWMoFgLAu5O83ul"
@@ -6834,7 +6870,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 242666,
       "name": "Unsent Letter",
       "url": "https://open.spotify.com/track/0zNBJY8EPOP4ovWu96LZUU"

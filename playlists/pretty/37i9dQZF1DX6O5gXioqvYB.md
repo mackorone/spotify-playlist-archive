@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Ceneri
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,420 likes - 111 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,423 likes - 111 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,042 likes - 125 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,108 likes - 125 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 29 | [Control Yourself \- Radio Edit](https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Control Yourself EP](https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19) | 3:35 |
 | 30 | [I Think I Love Her](https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B) | [jWave](https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h) | [I Think I Love Her](https://open.spotify.com/album/67E9JS1wtkBlI3oVwZMMka) | 3:10 |
 | 31 | [Unison](https://open.spotify.com/track/2pSzJDSEXoQyVCMDq2KTJn) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Unison](https://open.spotify.com/album/0BGCtWdiizMF4J5aqAEdMh) | 7:18 |
-| 32 | [Z.O.I.D.S](https://open.spotify.com/track/4NypWATTPJ1eAMHklEMYhD) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Z.O.I.D.S](https://open.spotify.com/album/1mePELu3imiittMS6u6xA8) | 3:28 |
+| 32 | [Z.O.I.D.S](https://open.spotify.com/track/4NypWATTPJ1eAMHklEMYhD) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Z.O.I.D.S](https://open.spotify.com/album/1mePELu3imiittMS6u6xA8) | 3:29 |
 | 33 | [All Across Nations \- Edit](https://open.spotify.com/track/4kn6tyDMfQ6WjndHlWvgk3) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [All Across Nations \(Edit\)](https://open.spotify.com/album/3ZVSwfh5jliIGDjk60gVdB) | 4:07 |
 | 34 | [Something Like Dis!](https://open.spotify.com/track/4bBFihYVFp1U2dCqJVtatX) | [CAIT](https://open.spotify.com/artist/2NK3AFtGh3TPvyhljur0nU) | [Something Like Dis!](https://open.spotify.com/album/0EG3Lwsbm9rC0mrwfYc9rm) | 5:51 |
 | 35 | [Epoch](https://open.spotify.com/track/3to939IJ6dXfs3z77WsJZR) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Epoch EP](https://open.spotify.com/album/1LJYZMOenxFQjnBDokaDHl) | 3:26 |

@@ -606,7 +606,7 @@
 | [You're So Just Just \- Seth Troxler x Ryan Crosson Remix](https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Ryan Crosson](https://open.spotify.com/artist/5ZJEkLV6krzRy59l6dlYJx) | [You´re So Just Just](https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX) | 6:57 | 2024-03-01 | 2024-08-26 |
 | [Your GF](https://open.spotify.com/track/2bWgOYs0dOHtsG9QenSvr9) | [Rin F](https://open.spotify.com/artist/0L1NssV0ozOMZZX5KCevhB) | [Your GF](https://open.spotify.com/album/2riSCY26D5eH5mA3cw1bnt) | 6:02 | 2024-05-03 | 2024-12-24 |
 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-05-26 | 2023-07-04 |
-| [Z.O.I.D.S](https://open.spotify.com/track/4NypWATTPJ1eAMHklEMYhD) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Z.O.I.D.S](https://open.spotify.com/album/1mePELu3imiittMS6u6xA8) | 3:28 | 2025-05-02 |  |
+| [Z.O.I.D.S](https://open.spotify.com/track/4NypWATTPJ1eAMHklEMYhD) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Z.O.I.D.S](https://open.spotify.com/album/1mePELu3imiittMS6u6xA8) | 3:29 | 2025-05-02 |  |
 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 | 2023-03-03 | 2023-08-29 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

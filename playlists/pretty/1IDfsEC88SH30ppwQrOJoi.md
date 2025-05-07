@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,340 likes - 128 songs - 6 hr 22 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,339 likes - 129 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 126 | [Dead To Me \- Radio Edit](https://open.spotify.com/track/7jAujVlAs9lQXAMGQq7NrL) | [Ritmo Kartel](https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP), [Chris Ultranova](https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo), [IVI](https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup) | [Dead To Me](https://open.spotify.com/album/0ueEb3FfXAx6go66zPwjHL) | 2:56 |
 | 127 | [Latina Flex](https://open.spotify.com/track/06iE5HbVWYumsrWrCcJyiA) | [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW) | [Latina Flex](https://open.spotify.com/album/2aZctRstuMHxkBQwNIbWzA) | 3:12 |
 | 128 | [I'm So Excited](https://open.spotify.com/track/5nlgFD2K0muydoLGUqfHR1) | [Alex Ferry](https://open.spotify.com/artist/7hqxrg2x1arsI6c72ZlVwW), [Luke DB](https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6) | [I'm So Excited](https://open.spotify.com/album/6za9sxdYDQajROPlCGGyKC) | 2:41 |
+| 129 | [I Don't Wanna Wait](https://open.spotify.com/track/0TKDgI3Luxd8Sge4IaEBE3) | [Trendos & Virali](https://open.spotify.com/artist/3TdrlsOkbCFmTcE0JgjqvN) | [I Don't Wanna Wait](https://open.spotify.com/album/6TKJhwGUQC3KB6q3gxTqc6) | 2:39 |
 
-Snapshot ID: `AAAKUtWZseepiZP13afaeROe4V4g2gb7`
+Snapshot ID: `AAAKUxrmmRCuVYS32kTNksziZXp2o4E7`

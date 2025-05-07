@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Hol' up: let's talk about the Black artists in the U.K\. who are making waves\. Click into the feed! Cover: <a href="spotify:artist:3bO19AOone0ubCsfDXDtYt">Myles Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,883 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,879 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

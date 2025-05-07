@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 209501,
       "name": "A Day In The Forest (432 Hz)",
       "url": "https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 203729,
       "name": "Above The Trees",
       "url": "https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 179050,
       "name": "Catchacoma Lake",
       "url": "https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 210013,
       "name": "Forest Birdsong",
       "url": "https://open.spotify.com/track/2oWFLyfz6eFrRSizoGgGof"
@@ -1224,6 +1224,24 @@
       "duration_ms": 1953124,
       "name": "Forest Dwelling",
       "url": "https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR"
+    },
+    {
+      "album": {
+        "name": "Forest Embrace",
+        "url": "https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3"
+      },
+      "artists": [
+        {
+          "name": "Mossfrid",
+          "url": "https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "Forest Embrace",
+      "url": "https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX"
     },
     {
       "album": {
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 192000,
       "name": "Gentle Gust - Spa",
       "url": "https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 140374,
       "name": "Morning light",
       "url": "https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0"
@@ -2315,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Nature Bliss",
+        "url": "https://open.spotify.com/album/0eJzRC2Xb0h99ZZa9D2Of6"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185097,
+      "name": "Nature Bliss",
+      "url": "https://open.spotify.com/track/3Nzp9VkySXdVllcziVz7l4"
+    },
+    {
+      "album": {
         "name": "Nature's Drone 432Hz",
         "url": "https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA"
       },
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 138000,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/69SwdjtbmBzYydkiBt3S37"
@@ -2780,6 +2816,24 @@
       "duration_ms": 173570,
       "name": "Reverie in the Trees (Sound Bath)",
       "url": "https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5"
+    },
+    {
+      "album": {
+        "name": "Rivulet",
+        "url": "https://open.spotify.com/album/6VZUTEpAcrttetZxwcDrBa"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Rivulet",
+      "url": "https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U"
     },
     {
       "album": {
@@ -3886,6 +3940,24 @@
       "duration_ms": 148615,
       "name": "Woodland Bath",
       "url": "https://open.spotify.com/track/2ZvX4lwsVoODY65iuuebZX"
+    },
+    {
+      "album": {
+        "name": "Woodlike Experience",
+        "url": "https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU"
+      },
+      "artists": [
+        {
+          "name": "Soundtopia",
+          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Woodlike Experience",
+      "url": "https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7"
     },
     {
       "album": {

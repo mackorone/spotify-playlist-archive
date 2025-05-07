@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316,750 likes - 195 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,110 likes - 195 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 30 | [Pajaros blancos](https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Pajaros blancos](https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO) | 2:04 |
 | 31 | [Sing, Vogel, Sing!](https://open.spotify.com/track/7HqDwn7I6wglTZX7Nhf3t7) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing, Vogel, Sing!](https://open.spotify.com/album/3Ebf5QRLd5WdjDZXaqc4CA) | 2:22 |
 | 32 | [A Tiny Wallflower](https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [A Tiny Wallflower](https://open.spotify.com/album/0cdGpIveNRpHKB54mrEGvx) | 2:26 |
-| 33 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
+| 33 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 |
 | 34 | [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 |
 | 35 | [Isabelle](https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Isabelle](https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF) | 2:11 |
 | 36 | [Hesitation](https://open.spotify.com/track/1M3g85FhPtucLX893XDtu7) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Hesitation](https://open.spotify.com/album/1YsXA9uFTY4uriq3jh5lt4) | 2:25 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 77 | [Gentle Morning](https://open.spotify.com/track/32kCP87rC5wzCycheIyPnx) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Gentle Morning](https://open.spotify.com/album/50o6xq1hW5RUe33YEKo4gV) | 2:50 |
 | 78 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
 | 79 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 |
-| 80 | [floating points](https://open.spotify.com/track/4SBeIeXLiDqCH7YHRFgGkD) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [floating points](https://open.spotify.com/album/1lzsCo0nImfylCRb3IXvER) | 2:05 |
+| 80 | [floating points](https://open.spotify.com/track/4SBeIeXLiDqCH7YHRFgGkD) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [floating points](https://open.spotify.com/album/1lzsCo0nImfylCRb3IXvER) | 2:05 |
 | 81 | [Lets Out A Breath](https://open.spotify.com/track/7ztNb6Fr9IenjMnG7Q7jbc) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Lets Out A Breath](https://open.spotify.com/album/21NBQDiXsQJQ1WRMMLMhd3) | 2:21 |
 | 82 | [Ardaigh](https://open.spotify.com/track/1YvVM2D9iBzfKypuDaZ2i3) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Ardaigh](https://open.spotify.com/album/3bpUKExinYvlZmLhHUXrf2) | 2:05 |
 | 83 | [Dim](https://open.spotify.com/track/4ux5NLToXWFBWzJHyGdqLM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Dim](https://open.spotify.com/album/4TSU2w7UkbhAcs7Oz731kM) | 2:47 |

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 92235,
+  "num_followers": 92352,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
@@ -859,6 +879,22 @@
       "duration_ms": 304140,
       "name": "Jika",
       "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 238888,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -883,42 +919,6 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
-      },
-      "artists": [
-        {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Zawadi (feat. Dadiposlim)",
-        "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "Dadiposlim",
-          "url": "https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Zawadi (feat. Dadiposlim)",
-      "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Zawadi (feat. Dadiposlim)",
+        "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Dadiposlim",
+          "url": "https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Zawadi (feat. Dadiposlim)",
+      "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "FOU DE TOi",
         "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "4Life",
         "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Live and Die in Afrika",
-        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Live and Die in Afrika",
+        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go (feat. King Promise)",
-      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Slave Becomes A King",
         "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 293711,
       "name": "Thojana Ya Thesele",
       "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
     },
     {
       "added_at": "2025-04-17 07:46:17",

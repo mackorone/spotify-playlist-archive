@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with Levity
 
-654 songs - 1 day 10 hr 19 min
+655 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [COWBOYGHOST 3024](https://open.spotify.com/track/1CjcWmbdwBLOdrhwWkC9vh) | [KILLMATTER](https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5) | [COWBOYGHOST 3024](https://open.spotify.com/album/6GofzBjywo2DFV2QTuYw5F) | 3:15 | 2024-01-12 | 2024-02-03 |
 | [Crash 2.0](https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Dallas Koehlke](https://open.spotify.com/artist/3tfGFqEhPNqf3mr5AetSVk) | [Red // Blue](https://open.spotify.com/album/0K7Og050SbKXSKXijCofik) | 4:14 | 2023-10-27 | 2024-04-19 |
 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 | 2022-02-01 | 2023-11-04 |
-| [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 | 2024-10-04 |  |
+| [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 | 2024-10-04 | 2025-05-07 |
 | [Cream](https://open.spotify.com/track/6AuFHzc4WmOdOxUbSpXy3S) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Cream](https://open.spotify.com/album/4WfyVhM0WYciroTsLT9ZXs) | 3:04 | 2021-11-19 | 2022-02-02 |
 | [CRUISE N CRASH \- Litek & RNDM Beats Refix Edition](https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [LiTek](https://open.spotify.com/artist/38UNDmwOPDx9LI028z8Bcw), [RNDM](https://open.spotify.com/artist/4FIohe40XNCk9HgvL2cxdT) | [CRUISE N CRASH \(Litek & RNDM Beats Refix Edition\)](https://open.spotify.com/album/28tKww6xlKuojAis24fRby) | 2:35 | 2022-01-21 | 2022-01-31 |
 | [Crystal Clear](https://open.spotify.com/track/5QH8PSo9Hi45H4Qyft1lxH) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Amor Fati](https://open.spotify.com/album/6IELLPG3tPDSTtaUHBCZvo) | 2:47 | 2025-04-04 | 2025-04-26 |
@@ -527,6 +527,7 @@
 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-06-28 |  |
 | [Smoke](https://open.spotify.com/track/6ygUWJDpqwdTVV1Qfxixqo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Entropy](https://open.spotify.com/album/01ip3bMMo5fhWPGkXAZthN) | 2:50 | 2024-05-03 | 2024-08-24 |
 | [SMTHNG](https://open.spotify.com/track/755M34VsNIMCAf1tjHxeks) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Good Society Vol\. 4](https://open.spotify.com/album/30iqvY8Mr5zL4josacMBAL) | 3:18 | 2024-06-07 | 2024-06-29 |
+| [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-02 |  |
 | [SNOOZE](https://open.spotify.com/track/6KTvDXOWRaG6PVsBj24g1M) | [NOON](https://open.spotify.com/artist/4nihV5WhhpF4uHGypOLmY9) | [SNOOZE](https://open.spotify.com/album/1kIPsOj7jBUMdJ6V5ut9cz) | 2:48 | 2024-05-17 | 2024-08-20 |
 | [So Low](https://open.spotify.com/track/1506Mt88BZV058kmb6NCja) | [Black Carl!](https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq) | [So Low](https://open.spotify.com/album/6vBWqjlXfhyH1MDpmYihJ7) | 3:22 | 2024-05-10 | 2024-05-25 |
 | [So What](https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [jasper](https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj) | [So What](https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q) | 2:56 | 2024-09-20 | 2024-12-07 |

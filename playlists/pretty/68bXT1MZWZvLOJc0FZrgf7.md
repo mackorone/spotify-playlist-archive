@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Clean Bandit, Tiësto, &amp; Leony
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 97,930 likes - 100 songs - 5 hr 6 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 97,926 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

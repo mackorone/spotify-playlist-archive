@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Hidden Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,414 likes - 90 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,504 likes - 90 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 8 | [The Life \- Emanuel Satie Remix](https://open.spotify.com/track/1gcSeAFo56Td6DoqHNMkGD) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Inhale / Exhale Remixed](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:26 |
 | 9 | [On It Goes](https://open.spotify.com/track/4EJAOpNaoJGXLLnJFiCKaq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [On It Goes](https://open.spotify.com/album/5tPNu0O4UU3ad3AOpNm0AM) | 5:41 |
 | 10 | [Reset Your Mind \- Pavel Petrov Remix](https://open.spotify.com/track/59jCE01FNCjbpb0y2I5i3b) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [SNYL](https://open.spotify.com/artist/3HgxWk2K2rP0tL9RHYl7EY), [Pavel Petrov](https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW) | [Reset Your Mind \(Pavel Petrov Remix\)](https://open.spotify.com/album/1WDKujepZiEkPEzl8Z387l) | 3:40 |
-| 11 | [No More Words \- 2025 Remaster](https://open.spotify.com/track/0e512RvOsNUZWTKWznh3L4) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [No More Words \(2025 Remaster\)](https://open.spotify.com/album/0LXlLwNWamfYQhTYbIZvbR) | 6:41 |
+| 11 | [No More Words \- 2025 Remaster](https://open.spotify.com/track/0e512RvOsNUZWTKWznh3L4) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [No More Words](https://open.spotify.com/album/0LXlLwNWamfYQhTYbIZvbR) | 6:41 |
 | 12 | [Circles](https://open.spotify.com/track/5XRz24LjaYi83SI4NEwmam) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Never Faded](https://open.spotify.com/album/3yFBwWKUIyNsEh4VBGjCjF) | 2:53 |
 | 13 | [Midnight](https://open.spotify.com/track/1jMIYeefgkikWeENxMKSWJ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Midnight](https://open.spotify.com/album/5ITqWNPrHBD8jm0OtKsAVu) | 3:46 |
 | 14 | [U](https://open.spotify.com/track/23PfB4eAXabSLb82EgMjJZ) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [U](https://open.spotify.com/album/2lEWCEizZYmRrt9wRPT1qG) | 3:36 |

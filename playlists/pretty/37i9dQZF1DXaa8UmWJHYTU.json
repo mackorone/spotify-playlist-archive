@@ -1,6 +1,6 @@
 {
   "description": "Crackling and popping sounds of fireplaces.",
-  "num_followers": 166065,
+  "num_followers": 166158,
   "original_name": "Fire Sounds",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Calming Fireplace",
-        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
-      },
-      "artists": [
-        {
-          "name": "Ogie\u0144",
-          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Calming Fireplace",
-      "url": "https://open.spotify.com/track/2enlGP6mWmEzouGT39UVSI"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Heated Room",
         "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 200000,
       "name": "Heated Room",
       "url": "https://open.spotify.com/track/5tEYaSl3lripQLNVh6al9O"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Calming Fireplace",
+        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Calming Fireplace",
+      "url": "https://open.spotify.com/track/2enlGP6mWmEzouGT39UVSI"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Hold the Flame",
-        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
-      },
-      "artists": [
-        {
-          "name": "lumen",
-          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Keep Me Warm",
-      "url": "https://open.spotify.com/track/33rrcMquypDngnll5jHpb7"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "That Cabin Warmth",
         "url": "https://open.spotify.com/album/2JqW1oAjhy9B3jQWkuGBl6"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
+        "name": "Hold the Flame",
+        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Keep Me Warm",
+      "url": "https://open.spotify.com/track/33rrcMquypDngnll5jHpb7"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
         "name": "Fire Sounds",
         "url": "https://open.spotify.com/album/0kkxDGDHqiMEhAnb8YcqVB"
       },
@@ -359,6 +359,54 @@
       "duration_ms": 386000,
       "name": "Crackling Fire",
       "url": "https://open.spotify.com/track/02Y1jX2M8RsZaZtygDHIAV"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Warm Fire Sounds",
+        "url": "https://open.spotify.com/album/3DGLWmcduBs0wKOVsq7MlS"
+      },
+      "artists": [
+        {
+          "name": "Flaming Music",
+          "url": "https://open.spotify.com/artist/59PhRw6WrbNH316zpHE97b"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Fire By The River",
+      "url": "https://open.spotify.com/track/7i4OqAF8Zn0FSwMCxaJxPC"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Fire Pit Soothness",
+        "url": "https://open.spotify.com/album/5pk5w5QSDNFjPaIfXdWIj7"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Fire Pit Soothness",
+      "url": "https://open.spotify.com/track/7tvVf5OhUCkwrlKguyFLzd"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Heated Room",
+        "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Nights By The Fire",
+      "url": "https://open.spotify.com/track/0iSbCwluvPxdaIPJjmBg8L"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -391,54 +439,6 @@
       "duration_ms": 242250,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/1Cwt5oNp3OsS1N0YZCAZUA"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Fire Pit Soothness",
-        "url": "https://open.spotify.com/album/5pk5w5QSDNFjPaIfXdWIj7"
-      },
-      "artists": [
-        {
-          "name": "Ignatius",
-          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Fire Pit Soothness",
-      "url": "https://open.spotify.com/track/7tvVf5OhUCkwrlKguyFLzd"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Warm Fire Sounds",
-        "url": "https://open.spotify.com/album/3DGLWmcduBs0wKOVsq7MlS"
-      },
-      "artists": [
-        {
-          "name": "Flaming Music",
-          "url": "https://open.spotify.com/artist/59PhRw6WrbNH316zpHE97b"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Fire By The River",
-      "url": "https://open.spotify.com/track/7i4OqAF8Zn0FSwMCxaJxPC"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Heated Room",
-        "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
-      },
-      "artists": [
-        {
-          "name": "Lumi\u00e8re",
-          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Nights By The Fire",
-      "url": "https://open.spotify.com/track/0iSbCwluvPxdaIPJjmBg8L"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Calming Fireplace",
-        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
-      },
-      "artists": [
-        {
-          "name": "Ogie\u0144",
-          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Cabin Warmth",
-      "url": "https://open.spotify.com/track/1YzaBLhCBYO9SAUoM3i7CK"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Fire And Flames",
         "url": "https://open.spotify.com/album/5H75razmEKUz4LXQTj5IhC"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Reign of Fire",
-        "url": "https://open.spotify.com/album/4HnwnTaK8hxCU48A7ZKVVq"
-      },
-      "artists": [
-        {
-          "name": "ELD",
-          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Warming Flame",
-      "url": "https://open.spotify.com/track/7IflV8fyjElXPwPhChT3mm"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Slept Like A Log",
         "url": "https://open.spotify.com/album/1qMKC9gOdCyIabDoJYMPvv"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 190000,
       "name": "Slept Like A Log",
       "url": "https://open.spotify.com/track/3I2HKmtAHRUF0WRcxzb5SX"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Calming Fireplace",
+        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Cabin Warmth",
+      "url": "https://open.spotify.com/track/1YzaBLhCBYO9SAUoM3i7CK"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Reign of Fire",
+        "url": "https://open.spotify.com/album/4HnwnTaK8hxCU48A7ZKVVq"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Warming Flame",
+      "url": "https://open.spotify.com/track/7IflV8fyjElXPwPhChT3mm"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Fireplace Noise",
-        "url": "https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM"
-      },
-      "artists": [
-        {
-          "name": "Firement",
-          "url": "https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "Steady Fire",
-      "url": "https://open.spotify.com/track/7BwLybdFn9kHQTOEEggWyQ"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Down The Chimney",
         "url": "https://open.spotify.com/album/1Yl1NHzGIJpskKYMS9BreE"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160000,
       "name": "Down The Chimney",
       "url": "https://open.spotify.com/track/5xkTQFYCCMSLEbKmCYfiak"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Fireplace Noise",
+        "url": "https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM"
+      },
+      "artists": [
+        {
+          "name": "Firement",
+          "url": "https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31"
+        }
+      ],
+      "duration_ms": 183888,
+      "name": "Steady Fire",
+      "url": "https://open.spotify.com/track/7BwLybdFn9kHQTOEEggWyQ"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -763,34 +763,18 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Warmth of Walpurgis",
-        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
+        "name": "Cave Campfire",
+        "url": "https://open.spotify.com/album/3NfPg0I2Dmp1gmGRbjIDyG"
       },
       "artists": [
         {
-          "name": "FI. Ochre",
-          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+          "name": "Emberly Ash",
+          "url": "https://open.spotify.com/artist/0Nyxj4C0GUNOf7tR7cxGRm"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Nights By The Fireplace",
-      "url": "https://open.spotify.com/track/7cQi8o5cIkZodTsxZcYIXr"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Fire & Sparks",
-        "url": "https://open.spotify.com/album/4Gnmhcic8ODRmyk3UIUL1k"
-      },
-      "artists": [
-        {
-          "name": "Fire Creator",
-          "url": "https://open.spotify.com/artist/3OwwaGqOstYK4uADW3dCN9"
-        }
-      ],
-      "duration_ms": 162725,
-      "name": "Warming The House",
-      "url": "https://open.spotify.com/track/1pDUKdTTVxwTwzaZXckxiz"
+      "duration_ms": 132000,
+      "name": "Cave Campfire",
+      "url": "https://open.spotify.com/track/1H4Cloc0B4i1VEtZ8aLvcf"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Cave Campfire",
-        "url": "https://open.spotify.com/album/3NfPg0I2Dmp1gmGRbjIDyG"
+        "name": "Warmth of Walpurgis",
+        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
       },
       "artists": [
         {
-          "name": "Emberly Ash",
-          "url": "https://open.spotify.com/artist/0Nyxj4C0GUNOf7tR7cxGRm"
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Cave Campfire",
-      "url": "https://open.spotify.com/track/1H4Cloc0B4i1VEtZ8aLvcf"
+      "duration_ms": 168000,
+      "name": "Nights By The Fireplace",
+      "url": "https://open.spotify.com/track/7cQi8o5cIkZodTsxZcYIXr"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -843,18 +827,34 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Beach Bonfire",
-        "url": "https://open.spotify.com/album/4KcUvIZAVvqdQRIH0whnWR"
+        "name": "Fire & Sparks",
+        "url": "https://open.spotify.com/album/4Gnmhcic8ODRmyk3UIUL1k"
       },
       "artists": [
         {
-          "name": "Spark A Flame",
-          "url": "https://open.spotify.com/artist/2SOssJSZ1oZbXt1aGNpZkP"
+          "name": "Fire Creator",
+          "url": "https://open.spotify.com/artist/3OwwaGqOstYK4uADW3dCN9"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Beach Bonfire",
-      "url": "https://open.spotify.com/track/4U9FnOxJKWGYQJFdkfPk2Z"
+      "duration_ms": 162725,
+      "name": "Warming The House",
+      "url": "https://open.spotify.com/track/1pDUKdTTVxwTwzaZXckxiz"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Fireplace Relax",
+        "url": "https://open.spotify.com/album/2jzoJYjlkRofNFuUxSnx3x"
+      },
+      "artists": [
+        {
+          "name": "Warm Crackle",
+          "url": "https://open.spotify.com/artist/0EI9wbNyBWkWAnnINc7PUJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fireplace Relax",
+      "url": "https://open.spotify.com/track/01QxpYeXx7MynqLg61HxgG"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
+        "name": "Beach Bonfire",
+        "url": "https://open.spotify.com/album/4KcUvIZAVvqdQRIH0whnWR"
+      },
+      "artists": [
+        {
+          "name": "Spark A Flame",
+          "url": "https://open.spotify.com/artist/2SOssJSZ1oZbXt1aGNpZkP"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Beach Bonfire",
+      "url": "https://open.spotify.com/track/4U9FnOxJKWGYQJFdkfPk2Z"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
         "name": "Relaxing Flames",
         "url": "https://open.spotify.com/album/50j9xY9OlVnVIyyudXFt2A"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Fireplace Relax",
-        "url": "https://open.spotify.com/album/2jzoJYjlkRofNFuUxSnx3x"
+        "name": "Peaceful Country Fire",
+        "url": "https://open.spotify.com/album/4ra4Lh5XiGz0DxW7h395Uz"
       },
       "artists": [
         {
-          "name": "Warm Crackle",
-          "url": "https://open.spotify.com/artist/0EI9wbNyBWkWAnnINc7PUJ"
+          "name": "Bristle Sweeps",
+          "url": "https://open.spotify.com/artist/3jt28JqrYGXknWSnuU4Xzk"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fireplace Relax",
-      "url": "https://open.spotify.com/track/01QxpYeXx7MynqLg61HxgG"
+      "duration_ms": 144000,
+      "name": "Peaceful Country Fire",
+      "url": "https://open.spotify.com/track/4y2R8OtHaRDyBLiIZ1bnin"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -939,38 +955,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Peaceful Country Fire",
-        "url": "https://open.spotify.com/album/4ra4Lh5XiGz0DxW7h395Uz"
-      },
-      "artists": [
-        {
-          "name": "Bristle Sweeps",
-          "url": "https://open.spotify.com/artist/3jt28JqrYGXknWSnuU4Xzk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Peaceful Country Fire",
-      "url": "https://open.spotify.com/track/4y2R8OtHaRDyBLiIZ1bnin"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Tender Fire",
-        "url": "https://open.spotify.com/album/33O2REEcPsuIkq3qM9D9q5"
-      },
-      "artists": [
-        {
-          "name": "Haruna Fields",
-          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sleep Close To The Fire",
-      "url": "https://open.spotify.com/track/1anOM3NUTrYjscG65fityh"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Furnace Warmth",
         "url": "https://open.spotify.com/album/3DFkThdtiv8dezNk615wr8"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Kindred Forest",
-        "url": "https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY"
+        "name": "Tender Fire",
+        "url": "https://open.spotify.com/album/33O2REEcPsuIkq3qM9D9q5"
       },
       "artists": [
         {
-          "name": "Willow Drift",
-          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Birch Wood Fireplace",
-      "url": "https://open.spotify.com/track/1bZEpPCZ2qZZFU6yshhK4H"
+      "duration_ms": 164000,
+      "name": "Sleep Close To The Fire",
+      "url": "https://open.spotify.com/track/1anOM3NUTrYjscG65fityh"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -1031,6 +1015,22 @@
       "duration_ms": 185721,
       "name": "Fireplace Sound",
       "url": "https://open.spotify.com/track/4D3oMWMknZ2eArJkXs8OsC"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Kindred Forest",
+        "url": "https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY"
+      },
+      "artists": [
+        {
+          "name": "Willow Drift",
+          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Birch Wood Fireplace",
+      "url": "https://open.spotify.com/track/1bZEpPCZ2qZZFU6yshhK4H"
     },
     {
       "added_at": "2024-08-23 12:50:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
-        "name": "Open Fire Crackle",
-        "url": "https://open.spotify.com/album/0NW4QqLNNr4oEg40BaKIxa"
-      },
-      "artists": [
-        {
-          "name": "FX FORGERS",
-          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
-        }
-      ],
-      "duration_ms": 178629,
-      "name": "Open Fire Crackle 2",
-      "url": "https://open.spotify.com/track/3TOSK8STnMU2jsEOV079Ar"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
         "name": "Tranquil Embers",
         "url": "https://open.spotify.com/album/6prHGBLNhAkSGy1O9doNLo"
       },
@@ -1147,6 +1131,38 @@
     {
       "added_at": "2024-08-23 12:50:54",
       "album": {
+        "name": "The Chimney Stove",
+        "url": "https://open.spotify.com/album/272ZoTccp9o5uP5dkZlxS8"
+      },
+      "artists": [
+        {
+          "name": "Flickerfire",
+          "url": "https://open.spotify.com/artist/2LWHVfyWpKHd02vsMaDzWo"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "The Chimney Stove",
+      "url": "https://open.spotify.com/track/27pChcRstKCqGzhGqevjCf"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
+        "name": "Open Fire Crackle",
+        "url": "https://open.spotify.com/album/0NW4QqLNNr4oEg40BaKIxa"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "duration_ms": 178629,
+      "name": "Open Fire Crackle 2",
+      "url": "https://open.spotify.com/track/3TOSK8STnMU2jsEOV079Ar"
+    },
+    {
+      "added_at": "2024-08-23 12:50:54",
+      "album": {
         "name": "Sound of the Heat",
         "url": "https://open.spotify.com/album/1VvMLyM4c7fblJiJZdnBi0"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 184160,
       "name": "Sound of the Heat",
       "url": "https://open.spotify.com/track/1Rp7AaLttwSdlix6xcxUZk"
-    },
-    {
-      "added_at": "2024-08-23 12:50:54",
-      "album": {
-        "name": "Holy Smoke",
-        "url": "https://open.spotify.com/album/5CRbgrbRTcwEmnyOHs69Ud"
-      },
-      "artists": [
-        {
-          "name": "Audio Nomad",
-          "url": "https://open.spotify.com/artist/1WnUXS4BhtPNBctBih7hYL"
-        }
-      ],
-      "duration_ms": 147519,
-      "name": "Holy Smoke",
-      "url": "https://open.spotify.com/track/30p2a9fI1cHXDpNlN6rSIr"
     },
     {
       "added_at": "2024-08-23 12:50:54",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-912 songs - 3 day 6 hr 35 min
+913 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 | 2023-09-29 | 2023-10-05 |
 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 | 2024-01-05 | 2024-10-26 |
 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 | 2024-04-26 | 2025-03-01 |
-| [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 |  |
+| [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 | 2025-05-07 |
 | [Birdhouse](https://open.spotify.com/track/1ZVQwuH7hkZiT6XljB2Au3) | [Ykonosh](https://open.spotify.com/artist/2peTWb6ju8YmQQSw5LcA5C), [Mundai](https://open.spotify.com/artist/652ljuzwRVrf1Y1Ly6dVpi) | [Birdhouse](https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8) | 6:40 | 2022-01-21 | 2022-07-25 |
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
@@ -851,6 +851,7 @@
 | [Universal Love](https://open.spotify.com/track/7uJvzzUgt8CpkEduX4m1Sp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Universal Love](https://open.spotify.com/album/0bGjyf76ywFnY5fMLRNLqV) | 6:08 | 2022-05-24 | 2022-10-17 |
 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 | 2022-03-25 | 2023-09-30 |
 | [Unlocked \- Einmusik Remix](https://open.spotify.com/track/5hRRDrpfl39Gfw7jXEZx82) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Unlocked \(Einmusik Remix\)](https://open.spotify.com/album/6vzHHn8bY3ja0rwkbhZ4NB) | 7:28 | 2022-06-17 | 2022-08-07 |
+| [Up Down](https://open.spotify.com/track/0yOysdr7tsFmofKvZJtDZD) | [PAGEZ](https://open.spotify.com/artist/64EAiouFVYxpc03BBAqlJr), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Up Down](https://open.spotify.com/album/6iZwPZ5TvLOHfdD1p47d1I) | 4:08 | 2025-05-02 |  |
 | [Up In Flames](https://open.spotify.com/track/1YzVzEDuXM3G7C6EmwJs8O) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Up In Flames](https://open.spotify.com/album/5JobfXSHIn01Fhgpif0Lw2) | 6:54 | 2021-06-25 | 2022-07-24 |
 | [Use Somebody](https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Redd](https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0) | [Use Somebody](https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg) | 3:19 | 2024-09-20 |  |
 | [ut i rommet](https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ut i rommet](https://open.spotify.com/album/04A1xtX4Cp81M4YOEMi1J9) | 7:26 | 2022-01-14 | 2022-07-29 |

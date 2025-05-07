@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 115149,
+  "num_followers": 115161,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAAC7mXE8mx1Ep5xaeT0cf1Ap",
+  "snapshot_id": "aBf/gAAAAAD3ztZoJCqAbZJyEIdIk1rZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Set List",
-        "url": "https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/44u52jALuPgpczTbZuRWHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Set List",
+        "url": "https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/44u52jALuPgpczTbZuRWHM"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beacon Street Collection",
-        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Total Hate '95",
-      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 302720,
       "name": "Underneath It All",
       "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beacon Street Collection",
+        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Total Hate '95",
+      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
     },
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push And Shove",
         "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 306986,
       "name": "Push And Shove",
       "url": "https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Bounty Killer",
-          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 360866,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 240466,
       "name": "Running",
       "url": "https://open.spotify.com/track/3GsbGZHKjSk4PLr3HXfcoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 360866,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Trapped In A Box",
-      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 254706,
       "name": "Making Out",
       "url": "https://open.spotify.com/track/0Iv3OXSyQKioUwgs8YxJow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Trapped In A Box",
+      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 214186,
       "name": "Just A Girl - Radio 1 Live Acoustic Version [Bonus Track]",
       "url": "https://open.spotify.com/track/3YMIOpiRrQwLpHfeERdgem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
+        "name": "Tastes Like Gold",
+        "url": "https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW"
       },
       "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
+      "duration_ms": 161911,
+      "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
     },
     {
       "added_at": null,
@@ -667,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+        "name": "Push And Shove (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
       },
       "artists": [
         {
@@ -676,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 265093,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0zjMu8KUhIjqAa42OPidtD"
+      "duration_ms": 246400,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tastes Like Gold",
-        "url": "https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW"
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
       "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 161911,
-      "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
+      "duration_ms": 265093,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0zjMu8KUhIjqAa42OPidtD"
     },
     {
       "added_at": null,

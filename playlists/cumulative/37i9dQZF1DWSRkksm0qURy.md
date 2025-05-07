@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-110 songs - 5 hr 22 min
+113 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [417 Hz \- Solfeggio For Clarity](https://open.spotify.com/track/6BsnYdzfTdAWPbocCOdAON) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Solfeggio For Clarity](https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM) | 3:12 | 2023-03-10 | 2025-02-13 |
 | [417 Hz \- Tides of Eternity](https://open.spotify.com/track/5YW42kAlOzCPkJkuslA3Zv) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 2:54 | 2023-03-10 |  |
 | [417 Hz \- Why The Rush](https://open.spotify.com/track/4kGgvet4UW9oOZKTlpY3ic) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
+| [417 Hz Binding Effects](https://open.spotify.com/track/2Z6RE7pE6VePSYvEGNYGIS) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [417 Hz Binding Effects](https://open.spotify.com/album/3DHf2m8GSG6j1PBKifupbs) | 3:04 | 2025-05-06 |  |
 | [417 Hz Breathe In](https://open.spotify.com/track/5DWfdHlOypTY2FTNZnl8Zx) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [417 Hz Breathe In](https://open.spotify.com/album/54YmJvv7tLNqMLPJsBo92d) | 2:34 | 2023-08-07 |  |
 | [417 Hz Breathing](https://open.spotify.com/track/2PVTROWVvNQMktFx1j6fCG) | [Solfeggio Flow](https://open.spotify.com/artist/10mwt6z8SsapStLLNoIVF7) | [417 Hz Breathing](https://open.spotify.com/album/3sK1wsHDIu3Dfm3X7loUgH) | 2:50 | 2024-04-07 |  |
 | [417 Hz Building Inner Strength](https://open.spotify.com/track/2XXBfqn1NtwkOFmF1fSNbb) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [417 Hz Building Inner Strength](https://open.spotify.com/album/4po8OHuUtx0T6atPrIA5GK) | 3:13 | 2024-12-18 | 2025-02-13 |
@@ -39,6 +40,7 @@
 | [417 Hz Dreams](https://open.spotify.com/track/1r9DY8hJCflvItUWmgM52p) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [417 Hz Dreams](https://open.spotify.com/album/6W6LF4dC04bUnBVouBAiyu) | 2:56 | 2023-03-10 |  |
 | [417 Hz Energetic Reset](https://open.spotify.com/track/3ipz2zfAzd5mWn7xPtnAQb) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [417 Hz Energetic Reset](https://open.spotify.com/album/0JII5OGX9LqCRTvn7thHwI) | 2:45 | 2024-03-13 |  |
 | [417 Hz Harmonic Shift](https://open.spotify.com/track/1DnOEBxHsGKMAhhrHGMf2K) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Harmonic Shift 417 Hz](https://open.spotify.com/album/4ydVRSRbizt3dBpAS0PUQ5) | 2:50 | 2024-03-13 |  |
+| [417 Hz High Vitality](https://open.spotify.com/track/0JiuQ8tZRDOLH3wC6MUm5H) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [417 Hz High Vitality](https://open.spotify.com/album/2LerI0W92yCUmSBEzSVaro) | 2:57 | 2025-05-06 |  |
 | [417 Hz Letting go](https://open.spotify.com/track/56WpAn0KZKqedUicFeq5bP) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [417 Hz Letting go](https://open.spotify.com/album/2Bgl7sZQMHKGjdQSMYfUOo) | 2:48 | 2023-03-10 |  |
 | [417 Hz Natural Capacity](https://open.spotify.com/track/1xEJphvAp45wlZC5NRBRNv) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [417 Hz Natural Capacity](https://open.spotify.com/album/2fMADapRhw2fISW3VHkrVv) | 3:30 | 2024-12-18 |  |
 | [417 Hz New Beginning](https://open.spotify.com/track/549NvYpEQqmEJdT0yAvqD2) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:43 | 2023-03-10 |  |
@@ -50,7 +52,7 @@
 | [417 Hz Self Empowerment](https://open.spotify.com/track/4SN69a5KFzgzP5lrG82J3H) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [417 Hz Self Empowerment](https://open.spotify.com/album/5Vo8YI83p3oa4wuZ6n93oo) | 2:54 | 2025-02-12 |  |
 | [417 Hz Sleeplume](https://open.spotify.com/track/0pGG3NSvfE7vwb6SnYH2Vc) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Sleeplume](https://open.spotify.com/album/2vqLnvSfkfzF3YY8SEPoR0) | 3:14 | 2025-02-12 |  |
 | [417 Hz Solfeggio](https://open.spotify.com/track/08Zmt06jnhqOL4vmdKkESb) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [417 Hz Solfeggio](https://open.spotify.com/album/7jqvgtRJuivWriMordfwYL) | 2:36 | 2023-03-10 |  |
-| [417 Hz Solfeggio Frequency](https://open.spotify.com/track/47IbHdpp4sn0iTvE0EkNHo) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [417 Hz Solfeggio Frequency](https://open.spotify.com/album/1oEQqV7mxF2eXPiNIAba6H) | 2:29 | 2023-03-10 |  |
+| [417 Hz Solfeggio Frequency](https://open.spotify.com/track/47IbHdpp4sn0iTvE0EkNHo) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [417 Hz Solfeggio Frequency](https://open.spotify.com/album/1oEQqV7mxF2eXPiNIAba6H) | 2:29 | 2023-03-10 | 2025-05-07 |
 | [417 Hz Spaces \(Nature\)](https://open.spotify.com/track/6zyFBX0I7r8O7OWQTcno5Y) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 3:09 | 2023-03-10 |  |
 | [417 Hz The Sound of Change](https://open.spotify.com/track/1qeh0tOIWtFyuX4WHbuxhp) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [417 Hz The Sound of Change](https://open.spotify.com/album/7BIS1H7kHlyX6dD653LGas) | 2:44 | 2024-03-13 |  |
 | [417 Hz Timeless](https://open.spotify.com/track/4VMWQ3W7dj0IdGibhdQKlX) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [417 Hz Timeless](https://open.spotify.com/album/0Ht0PmmDktxvvfptwGPVwD) | 3:00 | 2023-03-10 |  |
@@ -64,6 +66,7 @@
 | [417hz Releases Negativity](https://open.spotify.com/track/1xc6mr33Zd7FF2vr3BeIEp) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:21 | 2023-09-21 | 2025-02-13 |
 | [417hz Removes All Negative Energy](https://open.spotify.com/track/1eDQtGIFNyg193rodmO47k) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:38 | 2023-09-21 | 2023-12-01 |
 | [Adieu au Printemps](https://open.spotify.com/track/3CyaR8o8mYRfgkqpzcATh7) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Burrow in Broughton Island](https://open.spotify.com/album/5nViQTQi5BB98zPuDaRKXM) | 3:06 | 2023-03-10 |  |
+| [Balance 417 Hz](https://open.spotify.com/track/7dhw7Tlvp7GSkCqHfOv4es) | [Ennio Campbell](https://open.spotify.com/artist/0TMiGw2GvOM7ck2akGDD8Z) | [417 Hz Solfeggio Frequencies](https://open.spotify.com/album/6aYOSbKEskAis4ou5yRm4P) | 2:09 | 2025-05-06 |  |
 | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/1mRjF9HVwkJ472jWW2vZcy) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/3FBg6aL3D0dvIVSX9M9h0U) | 3:40 | 2023-03-10 | 2023-09-22 |
 | [Brooks 417 Hz](https://open.spotify.com/track/37HqwgzLuyB3GOzqrYF8H9) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:21 | 2023-03-10 |  |
 | [Change 417 Hz](https://open.spotify.com/track/16uFpZ7sXNMUQBMgCFi9oH) | [Solfeggio Starlight](https://open.spotify.com/artist/1SacuoiX0uyRtvUxW5Ysw5) | [Change 417 Hz](https://open.spotify.com/album/4AiPahFdihLSFX9bKq9Q4L) | 3:01 | 2023-09-21 |  |

@@ -5409,6 +5409,28 @@
     },
     {
       "album": {
+        "name": "PALO SANTO",
+        "url": "https://open.spotify.com/album/18grvDifqNzAlYNdTOufLK"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160161,
+      "name": "PALO SANTO",
+      "url": "https://open.spotify.com/track/2STHRcJesfqpaDIdbGk9i7"
+    },
+    {
+      "album": {
         "name": "Pami\u0119tasz nas?",
         "url": "https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64"
       },
@@ -5658,6 +5680,24 @@
       "duration_ms": 212150,
       "name": "playlista",
       "url": "https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww"
+    },
+    {
+      "album": {
+        "name": "Plot Twist",
+        "url": "https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE"
     },
     {
       "album": {
@@ -6606,7 +6646,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 230217,
       "name": "spotkam",
       "url": "https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB"
@@ -6942,7 +6982,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 139162,
       "name": "Tadam",
       "url": "https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA"

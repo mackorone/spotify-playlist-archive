@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。宇多田ヒカル, Ed Sheeran, Mrs\. GREEN APPLE, Maroon 5 & LISA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,466 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,495 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 36 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
 | 37 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 |
 | 38 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 |
-| 39 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 39 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 40 | [glory](https://open.spotify.com/track/4eRhnf2tZGwBqkGxUd6MWs) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [glory](https://open.spotify.com/album/7xZTjW4Soxw9Mp1E7mMKoT) | 2:34 |
 | 41 | [deaf](https://open.spotify.com/track/79IO5RWvklWbKtcO8MpeT4) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [deaf](https://open.spotify.com/album/11c2qw40CkyCFjDxGOC0S0) | 2:26 |
 | 42 | [ICE BREAKER](https://open.spotify.com/track/4RuPoCWg8ewIaTpj54lG2z) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [ICE BREAKER](https://open.spotify.com/album/5KJDNocPvS3kv62myZDClM) | 2:26 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
 | 75 | [Open Hands](https://open.spotify.com/track/36O1yuwWMGqgHq6ab9SKJp) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Gems](https://open.spotify.com/album/2ToWCEcXq3n9pmH83Lvx3J) | 4:03 |
 | 76 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 |
-| 77 | [Poison Ivy](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Poison Ivy](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
+| 77 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
 | 78 | [Music Will Explain](https://open.spotify.com/track/4H0P7oNHx9M37RnFo3TYQp) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Music Will Explain](https://open.spotify.com/album/5Poj0ae7p6OXFpdn9FU4YP) | 3:19 |
 | 79 | [互累](https://open.spotify.com/track/3OqfaYOPapVMyhVS03uCPt) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [hue](https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL) | [互累](https://open.spotify.com/album/6CuDAHQyTWEMxcp1l6DSrt) | 3:45 |
 | 80 | [A Season In Hell](https://open.spotify.com/track/5pYhL6BGZIHGGmDJd9TDZx) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [A Season In Hell](https://open.spotify.com/album/5oY70Wyk7hdeICap4IXHZB) | 5:03 |

@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-157 songs - 7 hr 51 min
+158 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Coleção de Ex \- Ao Vivo](https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 3:45 | 2023-10-13 |  |
 | [Compartilhando Mágoa](https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Compartilhando Mágoa](https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji) | 2:50 | 2023-10-13 |  |
 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 | 2023-10-13 | 2024-04-19 |
+| [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 | 2025-04-04 |  |
 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 | 2023-10-13 |  |
 | [Coração de Quatro](https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Coração de Quatro](https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb) | 2:35 | 2023-10-13 |  |
 | [Coração Infectado](https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Guias Dvd 2018](https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz) | 2:43 | 2023-10-13 |  |
@@ -123,7 +124,7 @@
 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 | 2023-10-13 |  |
 | [Quase \- Ao Vivo](https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha \(ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 3:02 | 2023-10-13 | 2024-04-19 |
 | [Quem Ensinou Fui Eu](https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Quem Ensinou Fui Eu](https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH) | 2:31 | 2023-10-13 |  |
-| [Quem Foi Que Soprou \- Ao Vivo \| Acústico](https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Agora É Que São Elas 2 \(Ao Vivo \| Acústico\)](https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4) | 3:31 | 2023-10-13 |  |
+| [Quem Foi Que Soprou \- Ao Vivo \| Acústico](https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Agora É Que São Elas 2 \(Ao Vivo \| Acústico\)](https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4) | 3:31 | 2023-10-13 | 2025-05-07 |
 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 | 2023-10-13 |  |
 | [Quem Traiu Levou \- Ao Vivo](https://open.spotify.com/track/17Ryox5vWKp92IDW87C5PI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 2:34 | 2023-10-13 | 2024-03-10 |
 | [Quem É Que Chora por Mim? \- Ao Vivo](https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Quem É Que Chora por Mim? \(Ao Vivo\)](https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ) | 3:53 | 2023-10-13 | 2025-04-12 |

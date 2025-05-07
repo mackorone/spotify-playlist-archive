@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB?si=2IBwjS70QF\-\_OM7v1y2rZQ"> MIRIAH.</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,297 likes - 380 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,335 likes - 380 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

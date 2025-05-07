@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 918096,
+  "num_followers": 918315,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
+        "name": "BOUNCE FUNK (Slowed)",
+        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "duration_ms": 97368,
+      "name": "BOUNCE FUNK - Slowed",
+      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
         "name": "ECOS DO ABISMO",
         "url": "https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 126942,
       "name": "ECOS DO ABISMO - Super Slowed",
       "url": "https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "BOUNCE FUNK (Slowed)",
-        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
-      },
-      "artists": [
-        {
-          "name": "SAPFIR",
-          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
-        }
-      ],
-      "duration_ms": 97368,
-      "name": "BOUNCE FUNK - Slowed",
-      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "GANO",
+        "url": "https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II"
+      },
+      "artists": [
+        {
+          "name": "VUKEINE",
+          "url": "https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew"
+        }
+      ],
+      "duration_ms": 77923,
+      "name": "GANO - Slowed",
+      "url": "https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk"
+    },
+    {
       "added_at": "2025-03-27 14:52:17",
       "album": {
         "name": "MASHA ULTRAFUNK",
@@ -371,22 +387,6 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "GANO",
-        "url": "https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II"
-      },
-      "artists": [
-        {
-          "name": "VUKEINE",
-          "url": "https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew"
-        }
-      ],
-      "duration_ms": 77923,
-      "name": "GANO - Slowed",
-      "url": "https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -643,34 +643,6 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "Montagem Totally Strange",
-        "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
-      },
-      "artists": [
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        },
-        {
-          "name": "MC BN",
-          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
-        },
-        {
-          "name": "MC BF",
-          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
-        },
-        {
-          "name": "DJ YUZAK",
-          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "Montagem Totally Strange",
-      "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
         "name": "SENTA MARIA VAI X BEAT ABSURDO",
         "url": "https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo"
       },
@@ -695,6 +667,34 @@
       "duration_ms": 111602,
       "name": "SENTA MARIA VAI X BEAT ABSURDO - Slowed",
       "url": "https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "Montagem Totally Strange",
+        "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
+      },
+      "artists": [
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "MC BF",
+          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "Montagem Totally Strange",
+      "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
     },
     {
       "added_at": "2025-03-27 14:52:17",

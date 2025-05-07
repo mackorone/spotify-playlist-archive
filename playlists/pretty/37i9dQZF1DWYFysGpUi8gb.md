@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from ugly \(uk\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,313 likes - 88 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,300 likes - 88 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

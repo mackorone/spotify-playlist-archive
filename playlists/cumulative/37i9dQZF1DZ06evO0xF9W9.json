@@ -347,6 +347,32 @@
     },
     {
       "album": {
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
       },
@@ -780,7 +806,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 170084,
       "name": "Kikito",
       "url": "https://open.spotify.com/track/5N7WygWmT8oIz5PqtLYFYz"
@@ -1515,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Quedate (Discoteca)",
+        "url": "https://open.spotify.com/album/1ffa8wOmLdatbpc6aWuskA"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "King Jeff",
+          "url": "https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Quedate - Discoteca",
+      "url": "https://open.spotify.com/track/4GlDJJaVe3gcdjbhJd3frn"
+    },
+    {
+      "album": {
         "name": "Quedate (Live)",
         "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
       },
@@ -1562,7 +1610,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 194676,
       "name": "Quedate - Reggaeton",
       "url": "https://open.spotify.com/track/3d62Eu71Z1cQVXKcGQH3Of"
@@ -2042,7 +2090,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 184186,
       "name": "Una Noche Tranquila",
       "url": "https://open.spotify.com/track/1ocn5kMVqFyYC7qXb2zLPk"
@@ -2090,6 +2138,24 @@
       "duration_ms": 184186,
       "name": "Una Noche Tranquila",
       "url": "https://open.spotify.com/track/5poZeWxDKAiIrx6Rlw833M"
+    },
+    {
+      "album": {
+        "name": "Una Noche Tranquila (Version Discoteca)",
+        "url": "https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "Una Noche Tranquila - Version Discoteca",
+      "url": "https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0"
     },
     {
       "album": {

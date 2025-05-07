@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season is officially here!! cover: WhoMadeWho & Tripolism
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,612 likes - 427 songs - 1 day 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,638 likes - 427 songs - 1 day 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 501624,
+  "num_followers": 501728,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAAB+NFRcBKiIVqzWlueD2X/X",
+  "snapshot_id": "aBauAAAAAACPL3gOrOtQKp9pOYljKdkC",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas Desde Hollywood (En Vivo)",
-        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se las Voy a Dar a Otro",
-        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 215038,
-      "name": "Se Las Voy a Dar a Otro",
-      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 160880,
       "name": "Cuanto Te Debo",
       "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 215038,
+      "name": "Se Las Voy a Dar a Otro",
+      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
     },
     {
       "added_at": null,

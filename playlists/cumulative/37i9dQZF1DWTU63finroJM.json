@@ -4979,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164122,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -24075,7 +24093,7 @@
     },
     {
       "album": {
-        "name": "Poison Ivy",
+        "name": "POISON IVY",
         "url": "https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx"
       },
       "artists": [
@@ -24088,7 +24106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166373,
-      "name": "Poison Ivy",
+      "name": "POISON IVY",
       "url": "https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0"
     },
     {
@@ -25246,7 +25264,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 109641,
       "name": "RELAPSE",
       "url": "https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ"
@@ -29796,7 +29814,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 200000,
       "name": "THEY!",
       "url": "https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA"
@@ -31310,7 +31328,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"

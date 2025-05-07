@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,006 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,025 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 72 | [ROCK ROAR \- Game Edit](https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk) | [デッドマンズ／朔間 零\(CV.増田 俊樹\)、蓮巳 敬人\(CV.梅原 裕一郎\)、大神 晃牙\(CV.小野 友樹\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)](https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z) | [あんさんぶるスターズ！！ デッドマンズ「ROCK ROAR」 \(Game Edit\)](https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU) | 2:30 |
 | 73 | [Ringing evil phone](https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX) | [EVIL NUM+／逆先 夏目\(CV.野島 健児\)、氷鷹 北斗\(CV.前野 智昭\)、葵 ひなた\(CV.斉藤 壮馬\)、紫之 創\(CV.高坂 知也\)、朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt) | [あんさんぶるスターズ！！ EVIL NUM+「Ringing evil phone」](https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo) | 3:57 |
 | 74 | [エンドレスヴィーデ \- Game Edit](https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY) | [フラタニティ/氷鷹 北斗\(CV.前野 智昭\)、朱桜 司\(CV.土田 玲央\)、朔間 零\(CV.増田 俊樹\)、斎宮 宗\(CV.高橋 広樹\)、天城 燐音\(CV.阿座上 洋平\)](https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP) | [あんさんぶるスターズ！！ フラタニティ「エンドレスヴィーデ」 \(Game Edit\)](https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv) | 2:12 |
-| 75 | [Awakening Myth](https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.6\)](https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ) | 3:54 |
+| 75 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 |
 
 Snapshot ID: `aA7vTAAAAAABXDddYctOvLAXrYP1rEWU`

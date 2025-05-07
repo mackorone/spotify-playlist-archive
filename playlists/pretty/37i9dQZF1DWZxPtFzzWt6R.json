@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 96572,
+  "num_followers": 96613,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+    },
+    {
+      "added_at": "2025-04-14 17:14:43",
+      "album": {
         "name": "Contigo At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2025-04-14 17:14:43",
-      "album": {
         "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
         "url": "https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY"
       },
@@ -567,8 +567,8 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
       },
       "artists": [
         {
@@ -576,29 +576,13 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+          "name": "Maximus Records",
+          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
         }
       ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2025-04-14 17:14:43",
-      "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2025-04-14 17:14:43",
@@ -615,6 +599,22 @@
       "duration_ms": 269159,
       "name": "Deus \u00c9 Fiel - Ao Vivo",
       "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+    },
+    {
+      "added_at": "2025-04-14 17:14:43",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2025-04-14 17:14:43",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2025-04-14 17:14:43",
+      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
-    },
-    {
-      "added_at": "2025-04-14 17:14:43",
-      "album": {
         "name": "Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
-    },
-    {
-      "added_at": "2025-04-14 17:14:43",
-      "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
-        }
-      ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
     },
     {
       "added_at": "2025-04-14 17:14:43",
@@ -823,6 +807,22 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+    },
+    {
+      "added_at": "2025-04-14 17:14:43",
+      "album": {
         "name": "Confian\u00e7a",
         "url": "https://open.spotify.com/album/5lYrNwyDmUG9OYVzeaTcHj"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2025-04-14 17:14:43",
-      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 239199,
       "name": "Meu Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+    },
+    {
+      "added_at": "2025-04-14 17:14:43",
+      "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
     },
     {
       "added_at": "2025-04-14 17:14:43",
@@ -907,8 +907,8 @@
     {
       "added_at": "2025-04-14 17:14:43",
       "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
       "artists": [
         {
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "Maximus Records",
-          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
     },
     {
       "added_at": "2025-04-14 17:14:43",

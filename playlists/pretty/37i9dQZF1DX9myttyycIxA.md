@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Maria Somerville
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,060 likes - 138 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,090 likes - 138 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

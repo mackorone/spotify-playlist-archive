@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 35792,
+  "num_followers": 35813,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "The Person You\u2019d Like To Be",
         "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
       },
@@ -715,38 +715,6 @@
       "duration_ms": 197890,
       "name": "The Person You\u2019d Like To Be",
       "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -767,6 +735,38 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "SWEET (feat. Biig Piig)",
-        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "SWEET (feat. Biig Piig)",
-      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "Lying In The Sand",
         "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 199968,
       "name": "Lying In The Sand",
       "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "SWEET (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "SWEET (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -915,6 +915,26 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
+        "name": "I Have a Love (Overmono Remix)",
+        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
+      },
+      "artists": [
+        {
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 366149,
+      "name": "I Have a Love (Overmono Remix)",
+      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
         "name": "Waited All Night",
         "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
       },
@@ -943,42 +963,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "I Have a Love (Overmono Remix)",
-        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
-      },
-      "artists": [
-        {
-          "name": "For Those I Love",
-          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 366149,
-      "name": "I Have a Love (Overmono Remix)",
-      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
-        "name": "Chewing The Fat",
-        "url": "https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 213417,
-      "name": "Square Pegs In Round Holes",
-      "url": "https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX"
       },
@@ -995,34 +979,18 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Mild To Moderate Pain",
-        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
+        "name": "Chewing The Fat",
+        "url": "https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 195282,
-      "name": "Mild To Moderate Pain",
-      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Girl Feels Good",
-      "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
+      "duration_ms": 213417,
+      "name": "Square Pegs In Round Holes",
+      "url": "https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "Mild To Moderate Pain",
+        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 195282,
+      "name": "Mild To Moderate Pain",
+      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
-        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Jakwob",
-          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
-        }
-      ],
-      "duration_ms": 231325,
-      "name": "A Tear in Space (Airlock) - Jakwob Remix",
-      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "Stranger's Town",
         "url": "https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 204533,
       "name": "Stranger's Town",
       "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "Pleasure Chasers",
+      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
+        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
+        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         },
         {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
         }
       ],
-      "duration_ms": 170471,
-      "name": "Pleasure Chasers",
-      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
+      "duration_ms": 231325,
+      "name": "A Tear in Space (Airlock) - Jakwob Remix",
+      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
     },
     {
       "added_at": "2025-04-17 23:00:32",

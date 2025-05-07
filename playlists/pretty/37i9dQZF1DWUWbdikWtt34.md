@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Keanu Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,771 likes - 89 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,793 likes - 89 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "New Jack, Vol. 1",
+        "url": "https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U"
+    },
+    {
+      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },

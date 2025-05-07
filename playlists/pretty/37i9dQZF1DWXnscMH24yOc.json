@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 500428,
+  "num_followers": 500533,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 247426,
       "name": "It Must Have Been Love",
       "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "All Too Well",
         "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 315475,
       "name": "All Too Well",
       "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Country Roads",
         "url": "https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 193208,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
+        "name": "Here Comes The Sun (feat. dodie)",
+        "url": "https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb"
       },
       "artists": [
         {
-          "name": "L'Isle",
-          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
+      "duration_ms": 238360,
+      "name": "Here Comes The Sun (feat. dodie)",
+      "url": "https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Here Comes The Sun (feat. dodie)",
-        "url": "https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Here Comes The Sun (feat. dodie)",
-      "url": "https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK"
+      "duration_ms": 207413,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Trauma - Chansons de la s\u00e9rie t\u00e9l\u00e9 (Saison No. 5)",
-        "url": "https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 295654,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Trauma - Chansons de la s\u00e9rie t\u00e9l\u00e9 (Saison No. 5)",
+        "url": "https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Desperado / Born on a Train",
-        "url": "https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 211173,
       "name": "Starboy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Desperado / Born on a Train",
+        "url": "https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Follow Me Down",
-        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 292013,
-      "name": "The Tourist",
-      "url": "https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Love Is A Stranger",
         "url": "https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 218505,
       "name": "Love Is A Stranger",
       "url": "https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Follow Me Down",
+        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 292013,
+      "name": "The Tourist",
+      "url": "https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7"
     },
     {
       "added_at": "2022-03-22 14:40:29",

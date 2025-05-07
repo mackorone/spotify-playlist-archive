@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125346,
+  "num_followers": 125344,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUDEKfsO4tbtrJvLCoVC/zfhv2vNdv",
+  "snapshot_id": "AAAUDYbbacYJVvBmHHX9a72tzowesSsd",
   "tracks": [
+    {
+      "added_at": "2025-05-06 14:53:21",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a"
+    },
     {
       "added_at": "2025-05-05 14:40:51",
       "album": {

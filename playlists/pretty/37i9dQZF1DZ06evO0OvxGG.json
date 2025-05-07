@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7540,
+  "num_followers": 7546,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAABQK4h8X1vH+QUebqKPZnWV",
+  "snapshot_id": "aBauAAAAAABjqZDhfgaHtKta3jToVCjl",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GODZILLA",
+        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "GODZILLA",
+      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
@@ -239,6 +259,22 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "acha que a vida \u00e9 um morango",
+      "url": "https://open.spotify.com/track/7l7NzgtELvaxXi4H9yT2Nw"
     },
     {
       "added_at": null,
@@ -271,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "acha que a vida \u00e9 um morango",
-      "url": "https://open.spotify.com/track/7l7NzgtELvaxXi4H9yT2Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "geada",
         "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 154761,
       "name": "geada",
       "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GODZILLA",
-        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "GODZILLA",
-      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
     },
     {
       "added_at": null,
@@ -363,6 +363,30 @@
       "duration_ms": 121846,
       "name": "Mete Ficha",
       "url": "https://open.spotify.com/track/5qrjKcKr5Xgxw5dIVSrcZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "me d\u00e1 dinheiro ou me faz gozar",
+        "url": "https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 120923,
+      "name": "me d\u00e1 dinheiro ou me faz gozar",
+      "url": "https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT"
     },
     {
       "added_at": null,
@@ -556,17 +580,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Raikage",
-          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Vem C\u00e1",
-      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
+      "duration_ms": 135445,
+      "name": "Perten\u00e7o \u00c0s Ruas",
+      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
     },
     {
       "added_at": null,
@@ -644,13 +664,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Raikage",
+          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 135445,
-      "name": "Perten\u00e7o \u00c0s Ruas",
-      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
+      "duration_ms": 162909,
+      "name": "Vem C\u00e1",
+      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-225 songs - 10 hr 44 min
+226 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2022-10-12 | 2023-04-07 |
 | [Amber Sun](https://open.spotify.com/track/78gZJ45rQzIuu4JSCSvVpz) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Amber Sun](https://open.spotify.com/album/2phTexnn2abTJL2NpJfNZZ) | 2:15 | 2023-08-25 |  |
 | [Among The Pines](https://open.spotify.com/track/32lsiyicjwKIKyeDL0L8ij) | [Zenon](https://open.spotify.com/artist/0dChfqND0qSnlhrNZF7NlL) | [Among The Pines](https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F) | 3:07 | 2023-04-28 |  |
-| [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-09 |  |
+| [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-09 | 2025-05-07 |
 | [Anneliese](https://open.spotify.com/track/446XGbeqjC0cjlj1JPVTpM) | [Alma Tranquilo](https://open.spotify.com/artist/7yUPH32eGSMdpgc2hi4pHo) | [Anneliese](https://open.spotify.com/album/0yv5NOnP1gp2xNA1EmYSET) | 2:43 | 2025-01-21 |  |
 | [Aperture](https://open.spotify.com/track/3Q2fYmOxhcduyDWdnTFXgg) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Aperture](https://open.spotify.com/album/1mfNFGs5Q8fnUScXDSMxvE) | 2:44 | 2025-01-21 |  |
 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 | 2022-10-12 |  |
@@ -118,6 +118,7 @@
 | [Liberty](https://open.spotify.com/track/5p2OGTbSseKmnk0vJvhPJv) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Liberty](https://open.spotify.com/album/6Z2BOLt7zRpUDN6oyprG7r) | 3:02 | 2022-10-12 |  |
 | [Life Cycle](https://open.spotify.com/track/7gkmg3tdf2VrPyAUmTu13o) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Life Cycle](https://open.spotify.com/album/7p3SjcLiPwz4n5kSQCQ6NE) | 3:04 | 2025-01-21 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-10-12 |  |
+| [Light Exchange](https://open.spotify.com/track/5hLAokmTQygtp0y7zv7JQd) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Light Exchange](https://open.spotify.com/album/2pB8PegCi5DbA2eSMK10Gg) | 3:18 | 2025-05-06 |  |
 | [Limerence](https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Limerence](https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv) | 3:10 | 2023-03-23 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 | 2023-07-29 |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2022-10-12 | 2023-03-04 |

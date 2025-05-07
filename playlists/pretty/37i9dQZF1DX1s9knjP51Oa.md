@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,056 likes - 190 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,088 likes - 190 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 22 | [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 |
 | 23 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 24 | [Abide](https://open.spotify.com/track/1X65tg35Snmo1r5iZMvOVf) | [Sven Derler](https://open.spotify.com/artist/036A3W6TFwg70pEuEQsgNb) | [Abide](https://open.spotify.com/album/4f8C1sTS6a29b6YBdiuB8b) | 2:01 |
-| 25 | [Morning Write](https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Morning Write](https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY) | 2:44 |
+| 25 | [Morning Write](https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Morning Write](https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY) | 2:44 |
 | 26 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
 | 27 | [Roots 根](https://open.spotify.com/track/3ngWP0Oqn7ohTDArbaWdIW) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Roots 根](https://open.spotify.com/album/49ms3ysWcHbTAnRYvoZfMW) | 2:28 |
 | 28 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 30 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
 | 31 | [Tenderness](https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Tenderness](https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ) | 1:59 |
 | 32 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 |
-| 33 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
+| 33 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
 | 34 | [Come Closer](https://open.spotify.com/track/4YhkT8T70gKq8jREW2MRfV) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Come Closer](https://open.spotify.com/album/0WDnbyZgbX8euTOrgnv4ya) | 2:38 |
 | 35 | [The Hours](https://open.spotify.com/track/6bYGhTbFthmRHBW8EhQlu8) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [The Hours](https://open.spotify.com/album/41iE4Pnzzultzes25KwRho) | 2:19 |
 | 36 | [At Sundown](https://open.spotify.com/track/5duh4g8aryQeHKd1GMvu2H) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [At Sundown](https://open.spotify.com/album/4a959CZK3XoUMEOASsiL8N) | 2:02 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 54 | [Dark Seasons](https://open.spotify.com/track/3qeeFt8y4ooVnBzkAD3iQh) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Dark Seasons](https://open.spotify.com/album/5IXfi0G7kp6PK0dRvGQn4b) | 2:41 |
 | 55 | [Eventus Memoria](https://open.spotify.com/track/4fGktu4RYSYuF05at1ToLu) | [Adelaide Fleur](https://open.spotify.com/artist/4Na9Ks6Pua1oqm1kv3qGum) | [Eventus Memoria](https://open.spotify.com/album/6RDIJwN77xFkVrkHelxNUW) | 2:07 |
 | 56 | [Distant Horizon](https://open.spotify.com/track/1nVKz1WqOBGajePcElCn0M) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Distant Horizon](https://open.spotify.com/album/5zN7GsJ0qPdcof2OpHfMFG) | 3:09 |
-| 57 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 |
+| 57 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 |
 | 58 | [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 |
 | 59 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 |
 | 60 | [Golden Hour](https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Golden Hour](https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p) | 3:31 |

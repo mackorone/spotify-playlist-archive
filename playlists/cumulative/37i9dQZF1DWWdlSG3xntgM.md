@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-322 songs - 1 day 4 hr 8 min
+323 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 | 2024-02-09 |  |
 | [Liên khúc một người đi](https://open.spotify.com/track/7BWg96oxD6NXPapc9YPfv1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:51 | 2024-05-27 |  |
 | [Liên Khúc Nhạc Vàng / Yến Ly / Lâm Hùng](https://open.spotify.com/track/3VFIS1Whmkf5w1l5Jwyvzc) | [Yến Ly](https://open.spotify.com/artist/1SaCJUCcZzvR5JctfaMT9H), [Lâm Hùng](https://open.spotify.com/artist/55yAFZYGqQ6Oy5i85txF2u) | [Liên Khúc Nhạc Vàng](https://open.spotify.com/album/653HZhMoP8Z6aCbL8wmlrx) | 25:52 | 2025-04-15 | 2025-05-02 |
+| [Liên khúc Rừng lá thay chưa \- Xót xa](https://open.spotify.com/track/1NSLS4CGmu5TIfVHcmAbwd) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP), [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Kể Chuyện Trong Đêm \(The Best of Tuấn Vũ\)](https://open.spotify.com/album/3UJ08r34zlYbhqD8DpMAMP) | 5:11 | 2025-05-02 |  |
 | [Liên Khúc Xuân Này Con Không Về](https://open.spotify.com/track/56TDjMMjvlAN2LrCf3zeUB) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Liên Khúc Nhạc Xuân](https://open.spotify.com/album/7exr6CQwI5QMx685ChktpJ) | 13:28 | 2024-02-09 | 2024-02-22 |
 | [Liên Khúc: Trộm Nhìn Nhau \- Ai Khổ Vì Ai](https://open.spotify.com/track/1iQNFbqB9SjNQ6mBSqr3mf) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Hà Phương](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:34 | 2024-03-12 | 2024-08-18 |
 | [Lk Nghèo](https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo), [Mạnh Đình](https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM), [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Best of Trường Vũ](https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU) | 5:56 | 2022-03-11 | 2023-11-24 |
@@ -272,7 +273,7 @@
 | [Tám điệp khúc](https://open.spotify.com/track/393cams1jFGjbh8ONysvNN) | [Thúy Hà](https://open.spotify.com/artist/15y6KeCjSxo6GZIjxFIg9G) | [Tám điệp khúc \- Thúy Hà](https://open.spotify.com/album/3KcPkrOXVLtpZkqJ1JkBvu) | 7:22 | 2022-03-11 | 2022-07-27 |
 | [Tâm Sự Ngày Xuân](https://open.spotify.com/track/3BRdEMNoRFZMV8XHov1ODK) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Liên Khúc Nhạc Xuân](https://open.spotify.com/album/3bEHBaGGskHytWN0oavyFB) | 3:49 | 2022-03-11 | 2022-07-23 |
 | [Tâm Sự Với Anh](https://open.spotify.com/track/0viX42ZxCqVHyGnj3vrzYm) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 6:09 | 2022-03-11 | 2023-08-24 |
-| [Tâm Tình Đầu Xuân](https://open.spotify.com/track/3ptFf9hLKygRkxoei0XHzl) | [Hạnh An](https://open.spotify.com/artist/5ti7MdZXoegJXWTHysUKdk) | [Tâm Tình Đầu Xuân](https://open.spotify.com/album/7jNe9WWQ2PQw9wxv2l9soY) | 4:23 | 2025-02-06 |  |
+| [Tâm Tình Đầu Xuân](https://open.spotify.com/track/3ptFf9hLKygRkxoei0XHzl) | [Hạnh An](https://open.spotify.com/artist/5ti7MdZXoegJXWTHysUKdk) | [Tâm Tình Đầu Xuân](https://open.spotify.com/album/7jNe9WWQ2PQw9wxv2l9soY) | 4:23 | 2025-02-06 | 2025-05-07 |
 | [Tình Chàng Ý Thiếp](https://open.spotify.com/track/3AF7iZrrmE5Tb1Tw9WnrFT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Tình Chàng Ý Thiếp](https://open.spotify.com/album/70jAa1F8ItR0NerYSmmMpi) | 5:55 | 2022-03-11 | 2022-07-29 |
 | [Tình em biển rộng sông dài](https://open.spotify.com/track/1gFYZSQ2Vi1QqOzOxWcv7E) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 4:17 | 2023-12-14 | 2024-04-02 |
 | [Tình Lỡ](https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 1](https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp) | 5:48 | 2024-03-12 |  |

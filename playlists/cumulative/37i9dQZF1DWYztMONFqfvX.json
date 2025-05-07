@@ -1631,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "Jaaniya",
+        "url": "https://open.spotify.com/album/6YAz9mfkcDQMZukJK75NCe"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Akshay K Saxena",
+          "url": "https://open.spotify.com/artist/4m9b7ej5mQM8nfqILrFyuZ"
+        },
+        {
+          "name": "Raajeev V Bhalla",
+          "url": "https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276281,
+      "name": "Jaaniya",
+      "url": "https://open.spotify.com/track/5dsF6MLU1w4tBvQiivZC9X"
+    },
+    {
+      "album": {
         "name": "Dilwale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
@@ -1932,7 +1958,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 214076,
       "name": "Khudaya Ishq (From \"Abir Gulaal\")",
       "url": "https://open.spotify.com/track/1ia7wdw9VLYDI3stHR0CZO"

@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Noche De Enciclopedia",
+      "url": "https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx"
+    },
+    {
+      "album": {
         "name": "Noche De Enciclopedia",
         "url": "https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 188500,
       "name": "Noche De Enciclopedia",
       "url": "https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ"
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 247578,
       "name": "Perro De Carnicer\u00eda",
       "url": "https://open.spotify.com/track/1yncbejmqE4witQrMo7rlN"

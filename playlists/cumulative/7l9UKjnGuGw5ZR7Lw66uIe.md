@@ -2,7 +2,7 @@
 
 ### [Works by Mert Çodur ](https://open.spotify.com/playlist/7l9UKjnGuGw5ZR7Lw66uIe)
 
-> 
+> neler yaşamışım ben ya...
 
 28 songs - 1 hr 18 min
 
@@ -18,7 +18,7 @@
 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 | 2022-11-17 |  |
 | [İzleri Belli](https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [İzleri Belli](https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8) | 2:48 | 2023-07-14 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |
-| [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 | 2022-07-27 |  |
+| [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 | 2022-07-27 | 2025-05-07 |
 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 | 2023-01-24 |  |
 | [sadaka](https://open.spotify.com/track/1WPTVorQB3KN3tOFIfhRdc) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [sadaka](https://open.spotify.com/album/1hvfoWCce60Ymw4OwGaToA) | 2:25 | 2023-01-28 |  |
 | [senli sevda](https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [senli sevda](https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw) | 2:17 | 2024-03-22 |  |

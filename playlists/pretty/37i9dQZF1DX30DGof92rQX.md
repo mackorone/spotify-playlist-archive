@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,383 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,399 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 54 | [TERE BINA KAHAN](https://open.spotify.com/track/71MEJFgftdFHlQrvFn9B5S) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh), [Seepi Jha](https://open.spotify.com/artist/3LmV3Qru54ddLrg45CVhJ3) | [TERE BINA KAHAN](https://open.spotify.com/album/2u0k8ffQhiVvoOt8jUaTey) | 4:06 |
 | 55 | [Maahi \- Original](https://open.spotify.com/track/6boNCp6hK7sFP0BAyMJ4wn) | [Asad Ali Murtaza](https://open.spotify.com/artist/5Fk3jIr9T4TlXIzGVIUsNL) | [Maahi \(Original\)](https://open.spotify.com/album/2nfGLGl9NLsC5wpPIhPdyY) | 4:41 |
 | 56 | [Maya](https://open.spotify.com/track/5rHWhxm3YyMx6spEekNdN4) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Maya](https://open.spotify.com/album/7pL7JEymCYU7mCjcn2n0RT) | 4:42 |
-| 57 | [Rang Likha \- From "Vadakkan"](https://open.spotify.com/track/1ApTwJTO8cBhaB9oO9iL9l) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Shellee Shellee](https://open.spotify.com/artist/4Kzw36eshCApbbMhGpXMIC), [Bijibal Bijibal](https://open.spotify.com/artist/7jqHKaTVyJTZQJXmdAK6GG) | [Rang Likha \(From "Vadakkan"\)](https://open.spotify.com/album/5uL5X23t9MHbdZxap4sBwz) | 2:11 |
+| 57 | [Rang Likha \- From "Vadakkan"](https://open.spotify.com/track/1ApTwJTO8cBhaB9oO9iL9l) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Bijibal](https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v) | [Rang Likha \(From "Vadakkan"\)](https://open.spotify.com/album/5uL5X23t9MHbdZxap4sBwz) | 2:11 |
 | 58 | [cm](https://open.spotify.com/track/5TnCRObz7zCIH9S1OrPyu0) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [cm](https://open.spotify.com/album/46ijx52m90OoSlDmEox85X) | 3:12 |
 | 59 | [Mil Hi Lo](https://open.spotify.com/track/0sRD8RryPjvX0cwjbeDViO) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Saad Sultan](https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3) | [Mil Hi Lo](https://open.spotify.com/album/1EvRpZB3dfrQaPKTJtcnLE) | 3:51 |
 | 60 | [SHEESHA TOOT GAYA](https://open.spotify.com/track/2vYNBoxURqF2wudDHiAfsu) | [Sohail Shahzad](https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [SHEESHA TOOT GAYA](https://open.spotify.com/album/62nTUXkjqDSJX3qQ28xeHx) | 2:52 |

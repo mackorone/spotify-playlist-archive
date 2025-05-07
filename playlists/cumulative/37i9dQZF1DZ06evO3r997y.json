@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "BYERONY",
       "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 253040,
       "name": "illminate",
       "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 204986,
       "name": "Oxidation",
       "url": "https://open.spotify.com/track/60rUiT9ULfiz0VnGXpnZba"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 204986,
       "name": "Oxidation",
       "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 259000,
       "name": "Refrain to Sound Tomorrow - P's GROOVE Ver.",
       "url": "https://open.spotify.com/track/1eGjT5Sa6zdMtQa2y9E9lY"
@@ -1580,6 +1580,68 @@
       "duration_ms": 208626,
       "name": "\u602a\u7269 - from CrosSing",
       "url": "https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD"
+    },
+    {
+      "album": {
+        "name": "\u660e\u65e5\u3078\u9cf4\u3089\u3059\u30ea\u30d5\u30ec\u30a4\u30f3 -P's GR\u221eVE Ver.-",
+        "url": "https://open.spotify.com/album/4JEzrS41phkvXxruUjZKDx"
+      },
+      "artists": [
+        {
+          "name": "Kaori Ishihara",
+          "url": "https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw"
+        },
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        },
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        },
+        {
+          "name": "Yurika Kubo",
+          "url": "https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS"
+        },
+        {
+          "name": "Ayana Taketatsu",
+          "url": "https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS"
+        },
+        {
+          "name": "\u7acb\u82b1\u65e5\u83dc",
+          "url": "https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL"
+        },
+        {
+          "name": "\u571f\u5c90\u96bc\u4e00",
+          "url": "https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi"
+        },
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        },
+        {
+          "name": "harmoe",
+          "url": "https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt"
+        },
+        {
+          "name": "\u7a17\u7530\u5be7\u3005 from DIALOGUE+",
+          "url": "https://open.spotify.com/artist/1elIH0yJTLlee5ntfYLFDg"
+        },
+        {
+          "name": "Suzuko Mimori",
+          "url": "https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY"
+        },
+        {
+          "name": "\u5b88\u5c4b\u4ea8\u9999 from DIALOGUE+",
+          "url": "https://open.spotify.com/artist/0cerIM0Rbng5biYTcSQh83"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u660e\u65e5\u3078\u9cf4\u3089\u3059\u30ea\u30d5\u30ec\u30a4\u30f3 - P's GR\u221eVE Ver.",
+      "url": "https://open.spotify.com/track/14mDs8AcPxuMhXuFVPzq9l"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Narysal
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,801 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,809 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3am](https://open.spotify.com/track/3p2TZDXt3aKn2bpDfd28wG) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [3am](https://open.spotify.com/album/2rtWSkjKKU2Sfbd4irRbms) | 4:08 |
 | 2 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 3 | [Sweet Love](https://open.spotify.com/track/7AOKR43gFlnEphVivfm4Hj) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/4Lu3YAr1ESVXk64bKE2Hom) | 3:32 |
-| 4 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 4 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 5 | [Rain \- Remix](https://open.spotify.com/track/5VDUSEit7q2Lx4Uwj9rkKH) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Rain \(Remix\)](https://open.spotify.com/album/1UTT030hK9ncLHTIk2QqlV) | 2:50 |
 | 6 | [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 |
 | 7 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |

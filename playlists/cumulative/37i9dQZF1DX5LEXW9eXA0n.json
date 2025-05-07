@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uba5c\ub85c\ub9dd\uc2a4) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: YOOK SUNGJAE(\uc721\uc131\uc7ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 221586,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku"
@@ -12248,6 +12248,24 @@
       "duration_ms": 243853,
       "name": "Let\u2019s Say Goodbye",
       "url": "https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r"
+    },
+    {
+      "album": {
+        "name": "LIE",
+        "url": "https://open.spotify.com/album/2eYLpRHbySheFuIDyZyupu"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNGJAE",
+          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248013,
+      "name": "LIE",
+      "url": "https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7"
     },
     {
       "album": {

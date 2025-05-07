@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 228587,
       "name": "California",
       "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
@@ -632,6 +632,24 @@
       "duration_ms": 225400,
       "name": "Edge Of Town",
       "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
+    },
+    {
+      "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
+      },
+      "artists": [
+        {
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227978,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/3NHyJsVdN5YYyERIGQE1aC"
     },
     {
       "album": {

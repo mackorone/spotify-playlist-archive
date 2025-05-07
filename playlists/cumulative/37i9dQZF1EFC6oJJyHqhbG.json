@@ -1871,6 +1871,36 @@
     },
     {
       "album": {
+        "name": "Chill Guy / Presidential",
+        "url": "https://open.spotify.com/album/2eYFNV7126p2tJVgfUiF1y"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Presidential (with Jenn Carter, Kyle Richh,TaTa)",
+      "url": "https://open.spotify.com/track/5RhLGbNLr8oGGbLuxJkjf5"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/5acYgqkqRhxgbeRzHqIIqv"
       },

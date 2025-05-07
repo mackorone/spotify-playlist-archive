@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,241 likes - 145 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,256 likes - 145 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

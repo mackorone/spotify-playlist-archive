@@ -324,6 +324,24 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Don't Go Knockin' on My Door",
+      "url": "https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R"
+    },
+    {
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 172400,
       "name": "Shattered Glass",
       "url": "https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z"

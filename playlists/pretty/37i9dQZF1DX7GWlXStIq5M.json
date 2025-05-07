@@ -115,22 +115,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 212699,
-      "name": "Espet\u00e1culo estranho",
-      "url": "https://open.spotify.com/track/7325x5azZOlWkYL9EpnqW5"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "Itamambuca",
         "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 212699,
+      "name": "Espet\u00e1culo estranho",
+      "url": "https://open.spotify.com/track/7325x5azZOlWkYL9EpnqW5"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -379,22 +379,18 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+        "name": "Curva da Ladeira",
+        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+      "duration_ms": 180000,
+      "name": "Curva da Ladeira",
+      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -415,34 +411,38 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Curva da Ladeira",
-        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Curva da Ladeira",
-      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Supostamente",
-        "url": "https://open.spotify.com/album/0QRc2o7nY438LOAMB997pn"
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
       "artists": [
         {
-          "name": "Bea Duarte",
-          "url": "https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Supostamente",
-      "url": "https://open.spotify.com/track/0aCnTf7i406SHv5XWw5w8R"
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
+        "name": "Supostamente",
+        "url": "https://open.spotify.com/album/0QRc2o7nY438LOAMB997pn"
+      },
+      "artists": [
+        {
+          "name": "Bea Duarte",
+          "url": "https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Supostamente",
+      "url": "https://open.spotify.com/track/0aCnTf7i406SHv5XWw5w8R"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
         "name": "furta-cor",
         "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 165000,
       "name": "furta-cor",
       "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
-        "name": "quanto tempo tem o tempo?",
-        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "quanto tempo tem o tempo?",
-      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -515,22 +515,22 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Te espero ou fujo?",
-        "url": "https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
       },
       "artists": [
         {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         },
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 134161,
-      "name": "Te espero ou fujo?",
-      "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -555,22 +555,22 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+        "name": "Te espero ou fujo?",
+        "url": "https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
         }
       ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+      "duration_ms": 134161,
+      "name": "Te espero ou fujo?",
+      "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -615,30 +615,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "FERA",
         "url": "https://open.spotify.com/album/3sWYC2wZlaMSCUBuHj560e"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215384,
       "name": "FERA",
       "url": "https://open.spotify.com/track/6H4fYjImHCsfivHS19b3vn"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
+        "name": "Dinheiro (L'argent)",
+        "url": "https://open.spotify.com/album/58eoMKm3AAxw54irp5hQO8"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Baby Sharon",
+          "url": "https://open.spotify.com/artist/7lJc0gnVuuUx6XBpvg1ZpF"
+        }
+      ],
+      "duration_ms": 145740,
+      "name": "Dinheiro (L'argent)",
+      "url": "https://open.spotify.com/track/2wKXpKApMHqnpd3kn8X1f0"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
         "name": "A Laje",
         "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
-        "name": "Dinheiro (L'argent)",
-        "url": "https://open.spotify.com/album/58eoMKm3AAxw54irp5hQO8"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Baby Sharon",
-          "url": "https://open.spotify.com/artist/7lJc0gnVuuUx6XBpvg1ZpF"
-        }
-      ],
-      "duration_ms": 145740,
-      "name": "Dinheiro (L'argent)",
-      "url": "https://open.spotify.com/track/2wKXpKApMHqnpd3kn8X1f0"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "C\u00edtrico",
-        "url": "https://open.spotify.com/album/2QO820M8LgRuuc5XSnXO1P"
-      },
-      "artists": [
-        {
-          "name": "Ana Morais",
-          "url": "https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6"
-        }
-      ],
-      "duration_ms": 164508,
-      "name": "C\u00edtrico",
-      "url": "https://open.spotify.com/track/1clwNGtQGMLKjTRFjfkZxY"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "Vira E Mexe",
         "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 190122,
       "name": "Vira E Mexe",
       "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "C\u00edtrico",
+        "url": "https://open.spotify.com/album/2QO820M8LgRuuc5XSnXO1P"
+      },
+      "artists": [
+        {
+          "name": "Ana Morais",
+          "url": "https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6"
+        }
+      ],
+      "duration_ms": 164508,
+      "name": "C\u00edtrico",
+      "url": "https://open.spotify.com/track/1clwNGtQGMLKjTRFjfkZxY"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "Used To Feel",
-        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193630,
-      "name": "Are You Listening",
-      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "Eu te odeio",
         "url": "https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 151538,
       "name": "Eu te odeio",
       "url": "https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "Used To Feel",
+        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Are You Listening",
+      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
-        "name": "c\u00edtrico",
-        "url": "https://open.spotify.com/album/76jsaicEyFkyxjjzl4XQIt"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        }
-      ],
-      "duration_ms": 158649,
-      "name": "caos gostoso",
-      "url": "https://open.spotify.com/track/0X883Y0HeyYfxjvl5N30Bb"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
         "name": "F.O.D.A.",
         "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 179954,
       "name": "F.O.D.A.",
       "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "c\u00edtrico",
+        "url": "https://open.spotify.com/album/76jsaicEyFkyxjjzl4XQIt"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "duration_ms": 158649,
+      "name": "caos gostoso",
+      "url": "https://open.spotify.com/track/0X883Y0HeyYfxjvl5N30Bb"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-05-03 03:00:17",
       "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
         "name": "Pra te amar \u00e0s vezes",
         "url": "https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 140930,
       "name": "Pra te amar as vezes",
       "url": "https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1531,6 +1531,22 @@
       "duration_ms": 148873,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
+    },
+    {
+      "added_at": "2025-05-03 03:00:17",
+      "album": {
+        "name": "Eu Sou O Baile (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3F2LzQJXEjQhgNaOlB7lN1"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Edredom - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dU63Og12HTTrCHzFCK36o"
     },
     {
       "added_at": "2025-05-03 03:00:17",
@@ -1671,22 +1687,6 @@
       "duration_ms": 210450,
       "name": "Incerto",
       "url": "https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL"
-    },
-    {
-      "added_at": "2025-05-03 03:00:17",
-      "album": {
-        "name": "Eu Sou O Baile (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3F2LzQJXEjQhgNaOlB7lN1"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Edredom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dU63Og12HTTrCHzFCK36o"
     }
   ],
   "unique_name": "Palco POP",

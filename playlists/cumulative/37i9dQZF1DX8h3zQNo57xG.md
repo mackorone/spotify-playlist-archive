@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-192 songs - 9 hr 53 min
+197 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Dust Cleanse Delta Sinus 76\-80hz](https://open.spotify.com/track/73ZfXjtm5TzLcGK2wapfbN) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [London Fog Delta](https://open.spotify.com/album/5vmrKdBaZGXtsCP1U2XD2J) | 2:30 | 2023-11-16 | 2023-11-25 |
 | [Earths Wake Delta \(72\-76hz\)](https://open.spotify.com/track/1v4KSXsO4h3TdT3Rp5sfSy) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Earths Wake Delta \(72\-76hz\)](https://open.spotify.com/album/13y50UYjCh75RQKq5YVLEZ) | 2:32 | 2025-02-18 |  |
 | [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/track/3ctGr1O2diFKqxxOF0UQJU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Embrace Delta 61.6 Hz \- 61.8 Hz](https://open.spotify.com/album/3IHHHX7nLbtNCUL0IctKOs) | 2:39 | 2024-12-18 |  |
+| [Empyrean Delta 72 Hz \- 74 Hz](https://open.spotify.com/track/5ZoKtGsJU3XcNO30DfnGdg) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Empyrean Delta 72 Hz \- 74 Hz](https://open.spotify.com/album/4M1wnEDTewgx0MaXaNXUmz) | 2:44 | 2025-05-06 |  |
 | [Endless Pool B Delta \(122\-124Hz\)](https://open.spotify.com/track/16YHUKfDTUaWwaptfHvsYl) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Endless Pool Delta](https://open.spotify.com/album/5u1V01ovRlvdrM7JjZsobp) | 2:34 | 2023-07-13 | 2024-07-16 |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2021-12-22 | 2023-07-29 |
 | [Equilibrio \- Delta 86Hz \- 87Hz](https://open.spotify.com/track/0bw5abfooRMzqmmkIsNbhI) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Equilibrio \- Delta 86Hz \- 87Hz](https://open.spotify.com/album/66x3r9PyD9QHgSQQfmQOCa) | 2:52 | 2023-09-27 |  |
@@ -140,6 +141,7 @@
 | [Halting Thoughts \(Delta 145 Hz \- 147 Hz\)](https://open.spotify.com/track/4Q7K5DZAg2YrZyQXfVCeol) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Halting Thoughts & Navigating Skies \(Delta Binaural\)](https://open.spotify.com/album/7tcygRzqxjnbDDv6r76s1K) | 3:09 | 2023-06-30 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2021-12-22 |  |
 | [Horizons \(Delta Brainwave Version\)](https://open.spotify.com/track/4BRqrr3nlJet7LjcK9gbxW) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 3:12 | 2021-12-22 | 2023-01-14 |
+| [Immediate Healing \(Binaural Delta 103\-105 Hz\)](https://open.spotify.com/track/60WolCTrYCccH9prcupLpT) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Immediate Healing \(Binaural Delta 103\-105 Hz\)](https://open.spotify.com/album/5z2m5vcPIXUKQpqwc3ZA18) | 3:12 | 2025-05-06 |  |
 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 | 2021-12-22 |  |
 | [Knoxville Rain E Delta Sinus 80\-84hz](https://open.spotify.com/track/5bknO2Ufk8FPQxNymqeprO) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Knoxville Rain](https://open.spotify.com/album/5XR87XXlBHgnLB6SJRVljT) | 2:36 | 2024-08-27 |  |
 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 | 2021-12-22 |  |
@@ -154,10 +156,13 @@
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2021-12-22 | 2024-07-27 |
 | [Oceans of Delta 4 Hz](https://open.spotify.com/track/1ZSCa6fvav5lBI5PZzedlP) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Oceans of Delta 4 Hz](https://open.spotify.com/album/6uqc1SZZjgDrbZ5ZarevUV) | 2:34 | 2025-02-18 |  |
 | [One With You](https://open.spotify.com/track/6uFDXRgHLOWuzn8ulRJ2XW) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:43 | 2023-11-24 |  |
+| [Oracle Delta 65.11 Hz \- 65.71 Hz](https://open.spotify.com/track/6S5q0RkWxfDU9uDENe4At3) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Oracle Delta 65.11 Hz \- 65.71 Hz](https://open.spotify.com/album/76XdMiKtqEtpjVGBA9pftj) | 3:07 | 2025-05-06 |  |
+| [Penumbra Dreams \(Delta 88.1Hz\-92.1Hz\)](https://open.spotify.com/track/2oVfywJ3JhnlxVrXeIcGZi) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Penumbra Dreams \(Delta 88.1Hz\-92.1Hz\)](https://open.spotify.com/album/4DgFMRvJVtKj3mzr0Xeg9D) | 2:31 | 2025-05-06 |  |
 | [Pipe Dreams Delta \(41\-45hz\)](https://open.spotify.com/track/4m0pmhc870i3tZNhQBsgck) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [No Concern Delta](https://open.spotify.com/album/1FjkpySjCoZN7xV5Z9xnqM) | 2:37 | 2024-07-15 |  |
 | [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-08 |  |
 | [REM Ember \(Delta Waves\)](https://open.spotify.com/track/5nRbt0FEu7g8Zm1oApiKhe) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [REM Ember](https://open.spotify.com/album/7FDCVL0FDr0lgZ0duzkkfO) | 3:26 | 2021-12-22 | 2023-11-25 |
 | [Sanctum Delta 2 Hz](https://open.spotify.com/track/2rP6KP4IG396xNX6tjGIfU) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Binaural Sanctum](https://open.spotify.com/album/1eRg62b7o0arrTfW1FR7Ox) | 2:37 | 2024-11-07 |  |
+| [Sand Seeps \(Binaural Delta 110\-111 Hz\)](https://open.spotify.com/track/5YE2hFMq9Lo1ARlhDjpDfm) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Sand Seeps \(Binaural Delta 110\-111 Hz\)](https://open.spotify.com/album/0MH0UKeyS5TziANm6jDNXt) | 3:12 | 2025-05-06 |  |
 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/3mTeGp1bAGxdJOzX19BCbD) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 | 2021-12-22 |  |
 | [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 | 2022-05-05 |  |
 | [Serene Delta Sleep 87 Hz \- 89 Hz](https://open.spotify.com/track/6QAj5dBVnrM3gkSf7x1hz6) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 | 2022-08-22 | 2024-02-09 |

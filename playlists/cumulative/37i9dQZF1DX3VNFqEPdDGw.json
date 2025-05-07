@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "CHIDKAN",
+        "url": "https://open.spotify.com/album/0R17rWGVSfYpClGiKR8TVw"
+      },
+      "artists": [
+        {
+          "name": "Rupinder Handa",
+          "url": "https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "CHIDKAN",
+      "url": "https://open.spotify.com/track/2GuOoQXrsJXN8UoNMYqNOo"
+    },
+    {
+      "album": {
         "name": "Chitta Kurta",
         "url": "https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ"
       },
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 197061,
       "name": "Jatt Di Pasand",
       "url": "https://open.spotify.com/track/5j1D3RY4UPxFxrqlyi22tA"
@@ -2784,10 +2802,28 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 207209,
       "name": "Jinni Sohni",
       "url": "https://open.spotify.com/track/5CPKjWskwfyV2sl59DoxzS"
+    },
+    {
+      "album": {
+        "name": "Jinni Sohni",
+        "url": "https://open.spotify.com/album/4zbgtk9MRJkw5xVTIYfQrw"
+      },
+      "artists": [
+        {
+          "name": "Rajvir Jawanda",
+          "url": "https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "Jinni Sohni",
+      "url": "https://open.spotify.com/track/7qEILSItgZvsQAQEQzFTDF"
     },
     {
       "album": {
@@ -3762,6 +3798,28 @@
       "duration_ms": 210660,
       "name": "Morni",
       "url": "https://open.spotify.com/track/1VOgz5axYh26Nh3oS6hkXj"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Sukhpreet Kaur",
+          "url": "https://open.spotify.com/artist/1BtENJDvYqttE8pyFckIuo"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Morniya\u2019n",
+      "url": "https://open.spotify.com/track/0hpjnu8OTuOb6Nru1tvphM"
     },
     {
       "album": {
@@ -5844,7 +5902,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 214000,
       "name": "Vaddi Galbaat",
       "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"

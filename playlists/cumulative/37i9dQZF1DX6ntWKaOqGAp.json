@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: [Alexandros]",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 221527,
       "name": "After Ghost",
       "url": "https://open.spotify.com/track/5QHPBbOBlyPe3SBfQJnDFQ"
@@ -4968,6 +4968,24 @@
       "duration_ms": 174254,
       "name": "Endroll",
       "url": "https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS"
+    },
+    {
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/0g7qk1ow66cD0a9plrewNf"
+      },
+      "artists": [
+        {
+          "name": "Hakubi",
+          "url": "https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/4mHmv5FoUsl2uUmE4Sj7CS"
     },
     {
       "album": {
@@ -10354,7 +10372,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 196333,
       "name": "Lovey Dovey",
       "url": "https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI"
@@ -12876,6 +12894,24 @@
       "duration_ms": 234946,
       "name": "Our last step",
       "url": "https://open.spotify.com/track/6MTxKdJ21VeHXfRJrBrccy"
+    },
+    {
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/2vBi0eZcGLOBdxB74ye1ce"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164991,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/6qRBi6m2Lf5tHP4jPdcVYa"
     },
     {
       "album": {
@@ -20496,6 +20532,24 @@
       "duration_ms": 203396,
       "name": "You Need Me, I Need You",
       "url": "https://open.spotify.com/track/3g7dgnms0me57hQw1oN2W2"
+    },
+    {
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/4qaKO2Gth3noMgCXzgk0Y1"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4pY4R8WqJoA136lsaaKsXs"
     },
     {
       "album": {
@@ -28912,7 +28966,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 203800,
       "name": "\u30df\u30b9\u30d5\u30a3\u30c3\u30c4",
       "url": "https://open.spotify.com/track/4b18msEUwvLnIvI2BC1fFo"
@@ -30303,6 +30357,24 @@
     },
     {
       "album": {
+        "name": "\u30f4\u30a3\u30b7\u30e3\u30b9",
+        "url": "https://open.spotify.com/album/4Fp76oTAz3vWFcnh6beZBa"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170506,
+      "name": "\u30f4\u30a3\u30b7\u30e3\u30b9",
+      "url": "https://open.spotify.com/track/6jfhcsWWHHtwh13N3PsiZR"
+    },
+    {
+      "album": {
         "name": "\u4e00\u559c\u4e00\u6182",
         "url": "https://open.spotify.com/album/5MZL3TBwpJeqBta24LefUH"
       },
@@ -31063,6 +31135,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+        "url": "https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259877,
+      "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+      "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
+    },
+    {
+      "album": {
         "name": "\u50d5\u306f\u9811\u5f35\u308b\u3088\u3063 feat. ano",
         "url": "https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe"
       },
@@ -31706,7 +31796,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 247226,
       "name": "\u5357\u65b0\u753a",
       "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
@@ -38550,7 +38640,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"

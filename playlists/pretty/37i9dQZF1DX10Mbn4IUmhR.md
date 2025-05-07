@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0?si=xi6\_xH1zSxqlY8oKDLgj7Q"> BINX</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,112 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,113 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

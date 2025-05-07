@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Faud &amp; Wad, Nico &amp; Vinz ,Altego
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,462 likes - 106 songs - 5 hr 16 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,461 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Neo Pistea en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,094 likes - 110 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,104 likes - 110 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

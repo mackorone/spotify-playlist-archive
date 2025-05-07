@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Crónica Oscura, Las Auténticas señoras de la  calle Lista, Tu amiga psicóloga y Sobre las palabras pódcast<br/><br/>En portada, Las Auténticas señoras de la  calle Lista
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,449 likes - 35 songs - 1 day 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 35 songs - 1 day 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Luigi Mangione, ¿culpable de ser demasiado bello? \(con Nayra de Rímel y Castigo\)](https://open.spotify.com/episode/1uGwKNKaqAcs8ry85sGFlX) | [Las Auténticas Señoras de la Calle Lista](https://open.spotify.com/show/1IZ5rxtfT6KlWdQdBKIKj6) | [Las Auténticas Señoras de la Calle Lista](https://open.spotify.com/album/1IZ5rxtfT6KlWdQdBKIKj6) | 1:38:15 |
-| 2 | [CPDP \#47 \| Pol Martin ¿Por qué NO DEBES dejar tu DINERO en el BANCO?](https://open.spotify.com/episode/5DxExWZac1bnfE2TLrOeSJ) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:05:17 |
+| 2 | [CPDP \#47 \| Pol Martin ¿Por qué NO DEBES dejar tu DINERO en el BANCO? ](https://open.spotify.com/episode/5DxExWZac1bnfE2TLrOeSJ) | [ConPdePodcast](https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu) | [ConPdePodcast](https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu) | 1:01:01 |
 | 3 | [Poner límites, la clave para unas relaciones más SANAS \(Expertos en comunicación no violenta\)](https://open.spotify.com/episode/2niUpPZQQXTASXOxmteHBH) | [Sobran Las Palabras Podcast](https://open.spotify.com/show/0cTWV2uMImJk9I9Vuq6ei9) | [Sobran Las Palabras Podcast](https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9) | 46:30 |
 | 4 | [La verdadera historia de La Bruja de Blair](https://open.spotify.com/episode/1WZn6vHBwbhviYcFkjl6GA) | [La Crónica Oscura](https://open.spotify.com/show/1gIOIXYHYKdu2osi0eNsBc) | [La Crónica Oscura](https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc) | 22:04 |
 | 5 | [Autoestima 2024: ¿Qué dice la neurociencia sobre cómo nos valoramos?](https://open.spotify.com/episode/6yxM6D0ZukvCDeJNSInk3K) | [Tu amiga psicóloga](https://open.spotify.com/show/5jHbGDtJG7Y0DSU1XQHJKf) | [Tu amiga psicóloga](https://open.spotify.com/album/5jHbGDtJG7Y0DSU1XQHJKf) | 21:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > \#Nena Sad Remix OUT NOW\#<br/>Exitos de Trap Latino 📸 Oro, 0600, Duki, Quevedo & Pablo Chill\-E
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,725 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,811 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

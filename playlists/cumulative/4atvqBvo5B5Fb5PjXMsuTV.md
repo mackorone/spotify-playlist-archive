@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 May 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 May 08:04 UTC.
 
-4,679 songs - 10 day 20 hr 5 min
+4,680 songs - 10 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2240,6 +2240,7 @@
 | [Kisapmata](https://open.spotify.com/track/1Xs9mIQdHSy6XG7ZtCx40b) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Kisapmata](https://open.spotify.com/album/3BXUesZKgsCPPIUM7t1ChU) | 4:53 | 2024-07-19 | 2024-07-21 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-09 | 2025-03-17 |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-25 | 2024-09-28 |
+| [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-06 |  |
 | [KISS ME!](https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [KISS ME!](https://open.spotify.com/album/0MjhodGE6inzZVxfOkWzfl) | 2:20 | 2024-11-30 | 2024-12-04 |
 | [Kiss The Sky](https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Kiss The Sky](https://open.spotify.com/album/5PNz8K8v5kaTUgZaLOvFO8) | 3:22 | 2025-02-06 | 2025-02-14 |
 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:30 | 2024-09-05 | 2024-09-07 |
@@ -3727,7 +3728,7 @@
 | [Starting Over At The End](https://open.spotify.com/track/1KsZskuXrkMJ3TIWNth6FO) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Starting Over At The End](https://open.spotify.com/album/38W9ps08wULNa14LT5dHyb) | 2:59 | 2024-08-08 | 2024-08-10 |
 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 | 2024-10-03 | 2024-10-05 |
 | [starz](https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [starz](https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf) | 3:29 | 2024-10-30 | 2024-11-02 |
-| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 |  |
+| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 | 2025-05-07 |
 | [Statix](https://open.spotify.com/track/7oS3agKx6PeSthprs29EK5) | [BoofPaxkMooky](https://open.spotify.com/artist/2BMq835Yir366yDKvW3Rcv) | [Statix](https://open.spotify.com/album/2szXGDfIHWhaAzw2QSgniv) | 1:11 | 2024-07-24 | 2024-07-27 |
 | [Stay](https://open.spotify.com/track/6doBJ81IW19M8Ns8So81zW) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [SCENE](https://open.spotify.com/album/1iUt7YsA13ZktuHnIF2zEr) | 3:11 | 2024-06-05 | 2024-06-07 |
 | [stay alone](https://open.spotify.com/track/5Q9KmuqE1TAgHvE4voqJ0W) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [stay alone](https://open.spotify.com/album/1J0wQmh6C3H1URn0ZTFIwm) | 2:42 | 2024-07-01 | 2024-07-04 |

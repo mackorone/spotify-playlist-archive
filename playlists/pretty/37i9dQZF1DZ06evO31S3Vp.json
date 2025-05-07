@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 206281,
+  "num_followers": 206289,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAACoMBSp8GFcFfy2AluQoT38",
+  "snapshot_id": "aBauAAAAAABGRkYW8AynkeVgk5JxXV3D",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 192366,
-      "name": "Religi\u00e3o",
-      "url": "https://open.spotify.com/track/3scObqC1IgM7yC6KvoTkeP"
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
+      "duration_ms": 192366,
+      "name": "Religi\u00e3o",
+      "url": "https://open.spotify.com/track/3scObqC1IgM7yC6KvoTkeP"
     },
     {
       "added_at": null,
@@ -439,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS (Deluxe)",
-        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
       "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
+      "duration_ms": 229868,
+      "name": "Sim",
+      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
+        "name": "LOBOS (Deluxe)",
+        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
       },
       "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 229868,
-      "name": "Sim",
-      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
+      "duration_ms": 180000,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
     },
     {
       "added_at": null,

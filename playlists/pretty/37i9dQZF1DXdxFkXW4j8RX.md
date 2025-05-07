@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,481 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,491 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POWA](https://open.spotify.com/track/3YUM5fN0RlpUCqcjxr5Pcb) | [Douglass](https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [EVERY NERD IS A “GOD"](https://open.spotify.com/album/6CRULLdBIDhd3gMb1UaPhS) | 2:24 |
 | 2 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 |
 | 3 | [Haciendo Historia](https://open.spotify.com/track/78YkL65MnKRC60cvePedyo) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Douglass](https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6), [Rocco](https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj) | [El Poder de la FÉ](https://open.spotify.com/album/6t9WDFn16iVwfjQfbKYgyT) | 3:20 |
-| 4 | [Brillante](https://open.spotify.com/track/0G1n934bhBPvIGOSJV4vk8) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [Brillante](https://open.spotify.com/album/00X3bycKDsgD8JwEO31wxE) | 3:04 |
+| 4 | [Brillante](https://open.spotify.com/track/0G1n934bhBPvIGOSJV4vk8) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [19Benzz](https://open.spotify.com/artist/1qQUVJLfTxXBPOzRqZNSTl) | [Brillante](https://open.spotify.com/album/00X3bycKDsgD8JwEO31wxE) | 3:04 |
 | 5 | [Don´t Stop \- En Vivo](https://open.spotify.com/track/5bTtgTUcCh38rjjhULrfe6) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Deja Vu & Friends \(En Vivo\)](https://open.spotify.com/album/0vzARvVBH6MK2YJnq89MmR) | 3:02 |
 | 6 | [DE CORA](https://open.spotify.com/track/1x2tMi8fh0Ye9IyHuf8jop) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Soulnastyy](https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [DE CORA](https://open.spotify.com/album/7Av1RTXV9ycLEGN5F8pCXp) | 4:10 |
 | 7 | [Retome la pluma](https://open.spotify.com/track/0NWI60BftBm2ilW1ZedwTV) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 3:43 |

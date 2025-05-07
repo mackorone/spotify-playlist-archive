@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 114264,
+  "num_followers": 114304,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAACSobbnvDXlEoGvilCNJoM7",
+  "snapshot_id": "aBf/gAAAAACBcMlUs7aYwvGaQ3eHabAo",
   "tracks": [
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+        "name": "The Blue Print \u2013 Us Vs. Them",
+        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
       },
       "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 208836,
-      "name": "Genesis, pt. ii",
-      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
+      "duration_ms": 225905,
+      "name": "Ferrari Horses",
+      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
     },
     {
       "added_at": null,
@@ -307,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Print \u2013 Us Vs. Them",
-        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
       },
       "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 225905,
-      "name": "Ferrari Horses",
-      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
+      "duration_ms": 208836,
+      "name": "Genesis, pt. ii",
+      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
     },
     {
       "added_at": null,
@@ -463,6 +463,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
+        "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
+      },
+      "artists": [
+        {
+          "name": "Da Beatfreakz",
+          "url": "https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        }
+      ],
+      "duration_ms": 191897,
+      "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
+      "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -503,34 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
-        "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
-      },
-      "artists": [
-        {
-          "name": "Da Beatfreakz",
-          "url": "https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h"
-        },
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "wewantwraiths",
-          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
-        }
-      ],
-      "duration_ms": 191897,
-      "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
-      "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Please Don\u2019t Touch",
         "url": "https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 218626,
       "name": "Please Don\u2019t Touch",
       "url": "https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipsy (feat. RAYE)",
         "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 208893,
       "name": "Tipsy (feat. RAYE)",
       "url": "https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "All Dressed Up",
+      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 172380,
       "name": "Make It to Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "All Dressed Up",
-      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Thank You (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snacks (Supersize)",
         "url": "https://open.spotify.com/album/4PBfH44I6nfqf3sibVoG8O"
       },
@@ -815,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+        "name": "Use Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         },
         {
-          "name": "The Heritage Orchestra",
-          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 143499,
-      "name": "The Thrill Is Gone Requiem. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt"
+      "duration_ms": 211417,
+      "name": "Thank You (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 170666,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        }
+      ],
+      "duration_ms": 143499,
+      "name": "The Thrill Is Gone Requiem. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "The Heritage Orchestra",
-          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
-        }
-      ],
-      "duration_ms": 97528,
-      "name": "Overture. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 235644,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        }
+      ],
+      "duration_ms": 97528,
+      "name": "Overture. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "The Heritage Orchestra",
-          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
         }
       ],
-      "duration_ms": 91780,
-      "name": "Mary Jane vs Graeme Blevins. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2TI2gRkaJek6ZH0KehqwcG"
+      "duration_ms": 240800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
     }
   ],
   "unique_name": "This Is RAYE",

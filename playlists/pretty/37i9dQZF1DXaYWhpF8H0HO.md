@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Bella Astilah, Ade Govinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,626 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,628 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lebih Indah Berpisah](https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr) | [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Lebih Indah Berpisah](https://open.spotify.com/album/6jiHQGiwBkO07DpUEDdvR8) | 4:45 |
 | 2 | [It's My Time](https://open.spotify.com/track/555IyOfem2b26xijZsVWql) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG) | [It's My Time](https://open.spotify.com/album/1B0KOdf7hQQ860e8UJYQMK) | 4:21 |
-| 3 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 3 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 4 | [love lesson no\. 1](https://open.spotify.com/track/4g9lDcyGk7dw3y0QtaM6ao) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [love lesson no\. 1](https://open.spotify.com/album/7HLPKx2SE03kwYbRbMxiSE) | 4:06 |
 | 5 | [La Loba](https://open.spotify.com/track/6PVGDYVAcIDkflpb3ZyHWC) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [recall,](https://open.spotify.com/album/0VSCvK27N3QPQrDLl6gH4B) | 4:45 |
 | 6 | [Will You Be Mine](https://open.spotify.com/track/5cbfJGIkgQxU7kaIznzdGO) | [Raya](https://open.spotify.com/artist/1BJkgqWpgABRMDN5VXlSQ4) | [Will You Be Mine](https://open.spotify.com/album/6ED74rTB6Z0oBOtlsNm95L) | 3:12 |

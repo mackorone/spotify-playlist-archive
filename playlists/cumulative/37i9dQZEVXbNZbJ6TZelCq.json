@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Alarmant",
+        "url": "https://open.spotify.com/album/3f6zhU9sXclPRjKSTSKvsK"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Alarmant",
+      "url": "https://open.spotify.com/track/5SeviUsZ7iRQNOI7neNAvh"
+    },
+    {
+      "album": {
         "name": "Ale Ale",
         "url": "https://open.spotify.com/album/5WHUw7816xjT9TzLLUg0wW"
       },
@@ -5460,7 +5478,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 236756,
       "name": "BROTHERZ",
       "url": "https://open.spotify.com/track/0Uy0EB6nRRcXVh7aR23tEc"
@@ -14530,7 +14548,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -17508,7 +17526,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -19078,7 +19096,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 149848,
       "name": "KAD!LAC",
       "url": "https://open.spotify.com/track/7kgl0bzkbUW5hFWtDyx5PZ"
@@ -24638,7 +24656,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 145026,
       "name": "Nebunia lui Babasha",
       "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"

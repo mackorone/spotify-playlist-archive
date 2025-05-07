@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Werenoi x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,686 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,103 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 15 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 |
 | 16 | [Tous Ces](https://open.spotify.com/track/0Di9Aezkt7lWDeDKtfAlg7) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [Tous Ces](https://open.spotify.com/album/7HjpVJcZROwn8oiiensc4e) | 1:43 |
 | 17 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
-| 18 | [BOTTEGA](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [BOTTEGA](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:57 |
+| 18 | [BOTTEGA](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [BOTTEGA](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 |
 | 19 | [On va](https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [On va](https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW) | 2:24 |
 | 20 | [Pêche passion](https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Pêche passion](https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5) | 2:50 |
 | 21 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |

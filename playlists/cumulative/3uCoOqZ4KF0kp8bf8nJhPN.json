@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "AMV",
+        "url": "https://open.spotify.com/album/2s5KRwIiuhzG6GHsZ0GP1X"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "AMV",
+      "url": "https://open.spotify.com/track/0Yixa90fBW3KJO4Kq7pSOF"
+    },
+    {
+      "album": {
         "name": "samurai champloo music record departure",
         "url": "https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I"
       },
@@ -2341,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "THIS DOES NOT EXIST",
+        "url": "https://open.spotify.com/album/7E20ajEl0ijvnZOunpjbCd"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "rap music",
+      "url": "https://open.spotify.com/track/3Zz4BKWJamsN9Cq8NekyfM"
+    },
+    {
+      "album": {
         "name": "MM..FOOD",
         "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 127384,
       "name": "waiting . . .",
       "url": "https://open.spotify.com/track/0B3r9IpM4jrFWc9qMm5sDA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > 
 
-[loveerr boii](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 243 likes - 179 songs - 5 hr 46 min
+[subs](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 244 likes - 179 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

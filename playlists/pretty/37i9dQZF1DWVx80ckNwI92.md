@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=xisd9bqoRV2NoWWMIStT9A">Jabulile Majola</a>, <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=iaacmY5KRHysPPUJVXPeKg">Thando Zide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,607 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,606 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A La Orden",
+        "url": "https://open.spotify.com/album/2xu7N2abDu6BgByx6gfFn4"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177124,
+      "name": "A La Orden",
+      "url": "https://open.spotify.com/track/3lysUQykedOafocejhc0lc"
+    },
+    {
+      "album": {
         "name": "A.L.V.",
         "url": "https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU"
       },
@@ -802,7 +824,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 165956,
       "name": "El Tinguaraque",
       "url": "https://open.spotify.com/track/1vElaVQ3B3USb3eWf69jrH"

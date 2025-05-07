@@ -4,11 +4,12 @@
 
 > Soothe your mind with gentle instrumentals.
 
-386 songs - 18 hr 25 min
+391 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2am Chime](https://open.spotify.com/track/3zjBIrAVl4seuKfLVk4Iip) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [2am Chime](https://open.spotify.com/album/3hP6wrEdPLz6Aow0K3gYgF) | 2:57 | 2025-01-09 |  |
+| [A Brighter Tomorrow](https://open.spotify.com/track/4qYHigKF19knY6xRZRdDzz) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [A Brighter Tomorrow](https://open.spotify.com/album/69XDC2T2Ge8uxw4fr4T4UY) | 2:30 | 2025-05-06 |  |
 | [A fleeting dream](https://open.spotify.com/track/1ep1736DQmQJIgv294Zgwi) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [A fleeting dream](https://open.spotify.com/album/4INiB9gRGZtemmsbmPJk8L) | 3:09 | 2024-06-10 |  |
 | [A Light in the dark](https://open.spotify.com/track/3FqKLJItPFAY2JVEQEzuHg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Change](https://open.spotify.com/album/3VD9sJqEFEWtv9KjQaXYt1) | 2:29 | 2022-05-05 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-09 | 2024-11-29 |
@@ -85,6 +86,7 @@
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2021-12-09 | 2024-11-29 |
 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2021-12-09 | 2024-11-29 |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-09 | 2022-09-03 |
+| [Distant Shores](https://open.spotify.com/track/0a98JvPx35xeOlokbXLvf3) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Distant Shores](https://open.spotify.com/album/3lWKM089gTjKCEiCZjhHDG) | 2:40 | 2025-05-06 |  |
 | [Distant Starfield](https://open.spotify.com/track/1cnp7FGDQoF6i5zr3Ptogt) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Distant Starfield](https://open.spotify.com/album/3QgmUfIuQ8z9Gn6EdCzk7d) | 2:31 | 2025-01-29 |  |
 | [Diversity](https://open.spotify.com/track/6yUBEKkhH5z29iiszOQBSa) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Diversity](https://open.spotify.com/album/6a7zOcwfT2EhRXrIPH7au8) | 3:03 | 2021-12-09 | 2024-11-29 |
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2021-12-09 | 2022-08-13 |
@@ -117,6 +119,7 @@
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2021-12-09 | 2024-11-29 |
 | [Faithful and True](https://open.spotify.com/track/78aKorfsSpBK3KRaLD1RPN) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Faithful and True](https://open.spotify.com/album/49GkdKLiFVPHUveIlyePcy) | 3:06 | 2024-12-12 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/1yQBKkhafpJBiM7XQn8x1X) | [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Fake Plastic Trees](https://open.spotify.com/album/6MQW9QsUipIYwFBQ2VDHNf) | 4:23 | 2025-01-09 |  |
+| [Falling Light](https://open.spotify.com/track/660MDwkTsKjaVrpevWGo2N) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Falling Light](https://open.spotify.com/album/2BvJNGDqu9TGz3tjsEQZlQ) | 2:16 | 2025-05-06 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2021-12-09 | 2024-08-22 |
 | [Feather](https://open.spotify.com/track/3QOEXCF6n8v7LXIGnQ66Z6) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Feather](https://open.spotify.com/album/1GSs9hs6PpWD7diLfsR3nO) | 3:54 | 2022-02-03 |  |
 | [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2021-12-09 |  |
@@ -316,6 +319,7 @@
 | [Sparkle](https://open.spotify.com/track/3a14Ywse8vF62KNc7zI4wW) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Sparkle](https://open.spotify.com/album/3N2aAxQUp9v82RGS2NzMRu) | 1:55 | 2021-12-09 | 2022-01-21 |
 | [Spectrum](https://open.spotify.com/track/4a6RCTU29fS03shsB8pCuJ) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Spectrum](https://open.spotify.com/album/6KRWvXlt75reg17bUY6jco) | 2:57 | 2024-12-12 |  |
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2021-12-09 | 2022-03-22 |
+| [Spoken Dreams](https://open.spotify.com/track/0Tk4pI9NRJPGnzi8uGlFcF) | [Moon Waves](https://open.spotify.com/artist/4culOc37QVV7jSX09VKt96) | [Spoken Dreams](https://open.spotify.com/album/5KvhTIWcm4e3EpPih8MMWY) | 2:12 | 2025-05-06 |  |
 | [spring journey](https://open.spotify.com/track/7wC0rmtZjOfkO6jZkejIK8) | [Shamanic Atmo](https://open.spotify.com/artist/4y7jPFMLLDDeZKyrVEAYbe) | [spring journey](https://open.spotify.com/album/0k0HMqbMrgwNNpBTGstO8u) | 3:30 | 2024-06-10 | 2024-07-20 |
 | [St Albans](https://open.spotify.com/track/5GBUaaYqPzsuqSQvwvD46g) | [Upsilon](https://open.spotify.com/artist/32zqABCKhd2sbF6HGT0pW2) | [St Albans](https://open.spotify.com/album/3GnvX2yoV5wEj9E670lPAs) | 2:47 | 2021-12-09 | 2025-01-10 |
 | [Stardust Memories](https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4) | [Celestelle](https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX) | [Stardust Memories](https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv) | 2:58 | 2024-07-12 |  |
@@ -377,6 +381,7 @@
 | [Vista](https://open.spotify.com/track/0M2JKYETZm0oLy5Mg0d138) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Vista](https://open.spotify.com/album/17VevRpQczCsbFV6gmqDDD) | 2:56 | 2023-03-03 | 2025-01-10 |
 | [Waiting](https://open.spotify.com/track/1Ix5PP41jAMMeVHXpoSOv0) | [Dian Giles](https://open.spotify.com/artist/4Hj1QxceSvbeo1YXVfVlz0) | [Waiting](https://open.spotify.com/album/161WELL5bXi3saLgMSren7) | 3:00 | 2021-12-09 | 2025-01-10 |
 | [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 | 2021-12-09 | 2025-03-20 |
+| [Warmth](https://open.spotify.com/track/4eziI4tbqNaohedWyHtJci) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Warmth](https://open.spotify.com/album/7l9UEb1BWxI5ZMvf9VXCQR) | 1:49 | 2025-05-06 |  |
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2021-12-09 | 2025-01-10 |
 | [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 | 2025-04-10 |  |
 | [Way of Being](https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Way of Being](https://open.spotify.com/album/3GGYUMMWxWpIFXEcKWkBhI) | 2:52 | 2024-06-10 | 2025-01-10 |

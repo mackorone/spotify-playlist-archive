@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Stereo Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,616 likes - 113 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,635 likes - 113 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 11 | [Tak Satu Cerita](https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Satu Cerita](https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv) | 3:46 |
 | 12 | [Satu Langkah](https://open.spotify.com/track/44rBEhQW7SWAHVqlpIg1Ff) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Langkah](https://open.spotify.com/album/1aj2lSnEfnoqWjAutYy3Tq) | 3:37 |
 | 13 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
-| 14 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 14 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 15 | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad) | 4:41 |
 | 16 | [Kena Lagi di Hati](https://open.spotify.com/track/0aI33N2KhawK8cfPbfWdRv) | [Timun Jelita](https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn) | [Volume 2](https://open.spotify.com/album/1BSgGqkdbZqdX6K6yfFzvK) | 3:50 |
 | 17 | [Bahagia di Ujung Jalan \(New Buzz in Life\)](https://open.spotify.com/track/36wCXXA7EgrqH6EJ6K3S4u) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Bahagia di Ujung Jalan \(New Buzz in Life\)](https://open.spotify.com/album/5s4axdsQuemlxxUgktQLLl) | 4:09 |

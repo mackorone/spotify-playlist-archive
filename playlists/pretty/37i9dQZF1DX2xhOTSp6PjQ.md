@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=9irtkBtMTSS292J3f\_t4ew">Sminofu</a> & <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=ofQ6fp07T6CthU19JmDU\-g">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,699 likes - 75 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,902 likes - 75 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 18 | [Ngewala](https://open.spotify.com/track/1VyiNL81AtyBvf7EVycnip) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 4:53 |
 | 19 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 |
 | 20 | [Ngiyakuthanda](https://open.spotify.com/track/3RCMGDpJlWeEgCLhOz63oa) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q) | [Sizesiguge](https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI) | 4:43 |
-| 21 | [Ngiyakudinga Dali](https://open.spotify.com/track/12qcoo84twXAMy3PT7AugZ) | [Abafana Baka Mgqumeni](https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6), [Imeya kazwelonke](https://open.spotify.com/artist/0ojBhV7ziED4jfg5gA4nPP), [Tessa Masoka](https://open.spotify.com/artist/1x9JwyRTkCrWXjYFctJtJR) | [I Love Bite](https://open.spotify.com/album/6rRJUzvNbQwy3r5MH0w5o1) | 4:15 |
+| 21 | [Ngiyakudinga Dali](https://open.spotify.com/track/12qcoo84twXAMy3PT7AugZ) | [Ofishabakhulu](https://open.spotify.com/artist/0xcI1V4pkJhsi5nqm0iILV), [Imeya kazwelonke](https://open.spotify.com/artist/0ojBhV7ziED4jfg5gA4nPP), [Tessa Masoka](https://open.spotify.com/artist/1x9JwyRTkCrWXjYFctJtJR) | [I\-Love Bite](https://open.spotify.com/album/6rRJUzvNbQwy3r5MH0w5o1) | 4:15 |
 | 22 | [Ulimenemene](https://open.spotify.com/track/1QITFX3ky8436INEk0khrM) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY) | [Dankie Nkulunkulu](https://open.spotify.com/album/5roh2GIpGCkpxZFk31IbyU) | 4:47 |
 | 23 | [Amathambo Kagogo](https://open.spotify.com/track/3yCMDYGNMwtQtBmeny6aPL) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9), [Ama NND International](https://open.spotify.com/artist/0l3s3VEBPEh1fURBzXgjPV) | [Amathambo Kagogo](https://open.spotify.com/album/5PyObQsvE3RD87LD6N4C35) | 4:59 |
 | 24 | [BENG'DAKIWE](https://open.spotify.com/track/4Hv4Gwl4awcQzzazJ054Vg) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [SILENT TREATMENT](https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh) | 4:51 |

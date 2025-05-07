@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 457604,
+  "num_followers": 457666,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "For A Moment",
         "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
         "name": "Folios of Light (Music by Contemporary Japanese Composers)",
         "url": "https://open.spotify.com/album/1QahXtx1tlS7u93nHamC13"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Eridani",
-        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
       },
       "artists": [
         {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Eridani",
-      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -323,38 +323,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Paths",
-        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
-      },
-      "artists": [
-        {
-          "name": "Silje M\u00f8rk",
-          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
-        }
-      ],
-      "duration_ms": 172595,
-      "name": "Paths",
-      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
-        "name": "Air from Air",
-        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Air from Air",
-      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -387,6 +355,54 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
+        "name": "Air from Air",
+        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 199428,
+      "name": "Air from Air",
+      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00f8rk",
+          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
+        }
+      ],
+      "duration_ms": 172595,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 139375,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 142582,
       "name": "Before You",
       "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
-        "name": "Elysian",
-        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
-      },
-      "artists": [
-        {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
-        }
-      ],
-      "duration_ms": 139375,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "A Safe Space",
-        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
-      },
-      "artists": [
-        {
-          "name": "Aramis Morel",
-          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
-        }
-      ],
-      "duration_ms": 148299,
-      "name": "A Safe Space",
-      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Autumn Sky",
         "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 158723,
       "name": "Autumn Sky",
       "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "A Safe Space",
+        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
+      },
+      "artists": [
+        {
+          "name": "Aramis Morel",
+          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
+        }
+      ],
+      "duration_ms": 148299,
+      "name": "A Safe Space",
+      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Brume Matinale",
-        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
-      },
-      "artists": [
-        {
-          "name": "Valter Soll",
-          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
-        }
-      ],
-      "duration_ms": 166910,
-      "name": "Brume Matinale",
-      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Brume Matinale",
+        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
+      },
+      "artists": [
+        {
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
+        }
+      ],
+      "duration_ms": 166910,
+      "name": "Brume Matinale",
+      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "The swan",
-        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
-      },
-      "artists": [
-        {
-          "name": "Ava Cerasoli",
-          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "The swan",
-      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "The swan",
+        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "The swan",
+      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Nokt\u00farna Variations",
-        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Nokt\u00farna - Upright Piano",
-      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Liminal ride",
         "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 156705,
       "name": "Liminal ride",
       "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 142763,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "The Coming Day",
         "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 152518,
       "name": "The Coming Day",
       "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Silent joy",
-        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
-      },
-      "artists": [
-        {
-          "name": "Lester Dann",
-          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Silent joy",
-      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Nouvelles Tentatives",
         "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 137424,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Silent joy",
+        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Silent joy",
+      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Ved",
-        "url": "https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg"
-      },
-      "artists": [
-        {
-          "name": "Anton Lindholm",
-          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
-        }
-      ],
-      "duration_ms": 137070,
-      "name": "Ved",
-      "url": "https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Benediction",
         "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 143920,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "duration_ms": 137070,
+      "name": "Ved",
+      "url": "https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q"
     },
     {
       "added_at": "2025-02-28 15:51:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-02-28 15:51:00",
       "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu"
-      },
-      "artists": [
-        {
-          "name": "Bodi Lukasz",
-          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Handmade",
-      "url": "https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30"
-    },
-    {
-      "added_at": "2025-02-28 15:51:00",
-      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 121750,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW"
+    },
+    {
+      "added_at": "2025-02-28 15:51:00",
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Handmade",
+      "url": "https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30"
     },
     {
       "added_at": "2025-02-28 15:51:00",

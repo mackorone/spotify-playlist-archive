@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Munthirichar",
+        "url": "https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234428,
+      "name": "Munthirichar",
+      "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
+    },
+    {
+      "album": {
         "name": "Naranga Paal",
         "url": "https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 79250,
       "name": "Tony's Mayhem",
       "url": "https://open.spotify.com/track/3XT6lmQS1lfG9MO6dl3A2q"

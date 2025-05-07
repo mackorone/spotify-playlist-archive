@@ -1429,6 +1429,36 @@
     },
     {
       "album": {
+        "name": "Paint The Town Blue (BloodPop Remix) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3pNj0EY1p6xNPOODxyDuQp"
+      },
+      "artists": [
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113600,
+      "name": "Paint The Town Blue (Bloodpop Remix) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1je4F9zMDWbrYhvvzOaXsB"
+    },
+    {
+      "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
       },
@@ -2522,7 +2552,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 193095,
       "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from De Mthuda, SjavasDaDeejay, Nontokozo Mkhize, Nandipha808  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,532 likes - 85 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,593 likes - 85 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

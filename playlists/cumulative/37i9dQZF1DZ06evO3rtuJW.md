@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-168 songs - 8 hr 20 min
+169 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [DISABILITY CHECKS \(feat\. G Herbo\)](https://open.spotify.com/track/6hlQBPN4v4LPR2SzDGbsaW) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:22 | 2023-04-15 | 2023-07-25 |
 | [DON'T LEAVE ME \(feat\. G Herbo & Lil Durk\)](https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:47 | 2023-01-26 | 2025-04-12 |
 | [Down By The River](https://open.spotify.com/track/0br04z6nvk9oZR3leH9ayg) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:28 | 2025-04-13 |  |
-| [Drench Gang \(feat\. G Herbo\)](https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SLICK ALMIGHTY](https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF) | 3:24 | 2023-11-10 |  |
+| [Drench Gang \(feat\. G Herbo\)](https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SLICK ALMIGHTY](https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp) | 3:24 | 2025-05-07 |  |
+| [Drench Gang \(feat\. G Herbo\)](https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SLICK ALMIGHTY](https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF) | 3:24 | 2023-11-10 | 2025-05-07 |
 | [Duffel](https://open.spotify.com/track/5CEUmdXZEG9dma8NnwoZjj) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:46 | 2025-04-12 | 2025-04-18 |
 | [Equilibrium \(with BabyTron & G Herbo\)](https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 3:03 | 2024-01-27 | 2025-04-12 |
 | [Everyday](https://open.spotify.com/track/6ap34UKRf5aCSvrryCUZSv) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 1:57 | 2023-04-30 | 2023-05-27 |

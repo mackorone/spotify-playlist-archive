@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,863 songs - 3 day 8 hr 22 min
+1,864 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1790,6 +1790,7 @@
 | [Vänder Rygg](https://open.spotify.com/track/7ncRrPG2l4VhKzNVaPKBfN) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [Vänder Rygg](https://open.spotify.com/album/5lxrdUJXeqKHXchT0jbHp6) | 2:37 | 2022-09-08 | 2022-10-07 |
 | [Världen Är Min](https://open.spotify.com/track/5MYNw9kukOCUUU6KiE0ypb) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Världen Är Min](https://open.spotify.com/album/5pcYXImczLJvMDrdwMnzK2) | 3:02 | 2022-11-04 | 2022-12-02 |
 | [Vågorna](https://open.spotify.com/track/4UxcCFStKnPIyhOt70esUA) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Vågorna](https://open.spotify.com/album/0dqa53gaDVWLfbpM9BL6XZ) | 2:48 | 2022-10-20 | 2022-11-25 |
+| [Våldsamma Drömmar](https://open.spotify.com/track/2TYXDjotkrTUydjejNT2qz) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 2:46 | 2025-05-06 |  |
 | [Vår betong](https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Vår betong](https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail) | 3:44 | 2023-08-10 | 2023-08-13 |
 | [WAG1](https://open.spotify.com/track/2Oj9zD8GRB29fv1C4tKAWe) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [WAG1](https://open.spotify.com/album/27nJGyPyS4WCTQHlph4tfn) | 2:06 | 2022-12-08 | 2023-01-06 |
 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 | 2023-04-19 | 2023-09-08 |

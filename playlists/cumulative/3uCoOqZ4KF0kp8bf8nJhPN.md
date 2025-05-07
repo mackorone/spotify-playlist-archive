@@ -4,7 +4,7 @@
 
 > 
 
-168 songs - 6 hr 33 min
+170 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AGITATED!](https://open.spotify.com/track/4qP4cU2lF8gQrPV5sJPaqF) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [AGITATED!](https://open.spotify.com/album/3fe68t7HXoAWM9UXBEuLvW) | 2:21 | 2025-01-31 | 2025-04-10 |
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2024-12-31 |  |
 | [AMERICAN WASTELAND](https://open.spotify.com/track/6BB5mSsRYtOILdHMYZKmRz) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [AMERICAN WASTELAND](https://open.spotify.com/album/6AWs0Ua0ne6bblYs9EajUP) | 1:30 | 2025-02-18 | 2025-04-10 |
+| [AMV](https://open.spotify.com/track/0Yixa90fBW3KJO4Kq7pSOF) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/2s5KRwIiuhzG6GHsZ0GP1X) | 2:18 | 2025-05-06 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2025-03-25 |  |
 | [ash.](https://open.spotify.com/track/68WwyjUeTVHlQnEZslzfqV) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:55 | 2025-04-30 |  |
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |
@@ -132,6 +133,7 @@
 | [PURGATORY!](https://open.spotify.com/track/0HnXMMxuVBhB8Ydl4fIGHy) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [PURGATORY!](https://open.spotify.com/album/0H9Mr3nLo9fKHGbMpBDDXh) | 1:00 | 2025-04-10 |  |
 | [PUSH UR T3MPRR](https://open.spotify.com/track/5NO5HPCDG8Y0ErpAISWQOJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [PUSH UR T3MPRR](https://open.spotify.com/album/5Bv6r4jizZcUdJbHUHm3Og) | 2:28 | 2025-03-06 |  |
 | [RAIN IN PARADISE](https://open.spotify.com/track/6raZ3qmcEbnQH1B45dCbnt) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:27 | 2025-04-30 |  |
+| [rap music](https://open.spotify.com/track/3Zz4BKWJamsN9Cq8NekyfM) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [THIS DOES NOT EXIST](https://open.spotify.com/album/7E20ajEl0ijvnZOunpjbCd) | 3:17 | 2025-05-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-03-21 |  |
 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 | 2025-02-23 |  |
 | [REWIND DAT!](https://open.spotify.com/track/1sWtcehE0D7ROBvpWY9fod) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [REWIND DAT!](https://open.spotify.com/album/0BeFr3YY23WOBS4BpHVaKw) | 1:45 | 2025-03-02 |  |
@@ -160,7 +162,7 @@
 | [Twilight Lament](https://open.spotify.com/track/3RxKY6Yxbqzs0gwsy1Fbtb) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Twilight Lament](https://open.spotify.com/album/6kMTAisbydVlrVkvwzxl2g) | 1:32 | 2025-04-12 |  |
 | [u ma type.](https://open.spotify.com/track/0fzMv0ui4hnVIVeeES6XhW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [u ma type.](https://open.spotify.com/album/1lNXC5JsYet2b0Z7WHZLDp) | 1:47 | 2024-11-23 |  |
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
-| [waiting \. \. .](https://open.spotify.com/track/0B3r9IpM4jrFWc9qMm5sDA) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd), [eldlofi](https://open.spotify.com/artist/6hRAyhxOe18fjdgBVvAj3x) | [waiting \. \. .](https://open.spotify.com/album/1UbN6E2VT4p0GjpT2IFUpH) | 2:07 | 2025-05-03 |  |
+| [waiting \. \. .](https://open.spotify.com/track/0B3r9IpM4jrFWc9qMm5sDA) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd), [eldlofi](https://open.spotify.com/artist/6hRAyhxOe18fjdgBVvAj3x) | [waiting \. \. .](https://open.spotify.com/album/1UbN6E2VT4p0GjpT2IFUpH) | 2:07 | 2025-05-03 | 2025-05-07 |
 | [walkupinthebuilding.mp3](https://open.spotify.com/track/5JfF2pd3K2xqVYgsCxETpg) | [kuya](https://open.spotify.com/artist/1iqagAfuLHGpm140nMYhRP) | [walkupinthebuilding.mp3](https://open.spotify.com/album/1vL1FzEzTSjySkNoaiiOZ6) | 1:34 | 2025-04-11 |  |
 | [Warm Stay](https://open.spotify.com/track/0gKYihhcPJtiLoJnZFe3wk) | [Blossom](https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R) | [Warm Stay](https://open.spotify.com/album/2wZYj9n81S3M2YwzbbzbQw) | 2:49 | 2025-03-11 |  |
 | [WATCH OUT](https://open.spotify.com/track/2m0LxplWmMmMkrZiu2Zvdl) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [era](https://open.spotify.com/artist/31Ns4smj7SDd9zdCZ3qtXr) | [WATCH OUT](https://open.spotify.com/album/1MpombUoJM8s3a8cgeTlQv) | 1:09 | 2025-04-11 |  |

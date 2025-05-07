@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Kehlani",
-  "num_followers": 79782,
+  "num_followers": 79783,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -429,20 +429,24 @@
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
+      "added_at": "2020-06-01 21:07:43",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
           "name": "Janelle Mon\u00e1e",
           "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 143200,
-      "name": "Champagne Shit",
-      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+      "duration_ms": 240426,
+      "name": "Pynk (feat. Grimes)",
+      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
       "added_at": "2021-05-21 16:10:14",
@@ -553,24 +557,20 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
+      "added_at": "2023-10-05 17:45:18",
       "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
         {
           "name": "Janelle Mon\u00e1e",
           "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Pynk (feat. Grimes)",
-      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
     },
     {
       "added_at": "2023-10-05 17:45:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "The Turning Wheel",
-        "url": "https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2"
-      },
-      "artists": [
-        {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        }
-      ],
-      "duration_ms": 339307,
-      "name": "Little Deer",
-      "url": "https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
         "name": "Sick Bitch",
         "url": "https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 259849,
       "name": "Sick Bitch",
       "url": "https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "The Turning Wheel",
+        "url": "https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 339307,
+      "name": "Little Deer",
+      "url": "https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP"
     },
     {
       "added_at": "2021-06-25 04:01:00",

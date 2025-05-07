@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Pihlajalta, Sara Beeltä & Arekselta, Ed Sheeranilta ja NEEA RIVERiltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,410 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,414 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 21 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 22 | [Mä oon se](https://open.spotify.com/track/1BrKFCbsZiAokv5VweY6Kj) | [Nisa](https://open.spotify.com/artist/5aWYRHbabsqvieG2TeQTtK) | [Mä oon se](https://open.spotify.com/album/2R1azD48e5wI11s8Chs0Wc) | 2:27 |
 | 23 | [Don't you cry](https://open.spotify.com/track/4iUuDqnM4m2MonI8Gkh333) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [Internet hometown hero \(+DLC\)](https://open.spotify.com/album/5ToWb2TDTU64ET2iAH1gIH) | 2:57 |
-| 24 | [Poison Ivy](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Poison Ivy](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
+| 24 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
 | 25 | [Äärihumala](https://open.spotify.com/track/2ze4bK4ziLcrNlFKzVJ5Ev) | [Lord Est](https://open.spotify.com/artist/1vZsTsBd4VNRtk9gKOeZRu) | [Äärihumala](https://open.spotify.com/album/1PyF3jYoQ1bC1go2z6Bhv1) | 2:40 |
 | 26 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 |
 | 27 | [Lay Your Light](https://open.spotify.com/track/3kCmzbZL8reWDvZC6NeRF5) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lay Your Light](https://open.spotify.com/album/4huCKmPCm8AYNAriM7QWDE) | 2:53 |

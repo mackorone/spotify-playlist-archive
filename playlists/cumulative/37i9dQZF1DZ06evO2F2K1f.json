@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 138453,
       "name": "Big Black Cadillac",
       "url": "https://open.spotify.com/track/3NVhdWRA0VKc8C9CqHdWsQ"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 116489,
       "name": "Calendar Girl",
       "url": "https://open.spotify.com/track/7xR5tGKrowaoy5JCHC00az"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 139173,
       "name": "Day Dream (A)",
       "url": "https://open.spotify.com/track/17r5yxtwJJHRKPAF35zwUc"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 193314,
       "name": "Man of Means",
       "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 92400,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 100666,
       "name": "Roving Reporter",
       "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "New Blood",
+        "url": "https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103253,
+      "name": "Ski Bird (B)",
+      "url": "https://open.spotify.com/track/2UOzXaRrDnrfSeHSGaPQTq"
+    },
+    {
+      "album": {
         "name": "Bruton BRI6: Frontiers of Science",
         "url": "https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 179863,
       "name": "Soft Throttle",
       "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 145053,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT"
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 100306,
       "name": "Tap Footer",
       "url": "https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V"
@@ -2868,7 +2886,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"

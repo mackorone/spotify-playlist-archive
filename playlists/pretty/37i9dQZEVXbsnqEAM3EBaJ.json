@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACLD1TFJnWqFEpPR5yeYgLm",
+  "snapshot_id": "AAAAAAAAAAB8OWGjsipyvh7yXh8ATpks",
   "tracks": [
     {
       "added_at": "2025-05-02 04:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Souls Devoured",
-        "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
-      },
-      "artists": [
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "Souls Devoured",
-      "url": "https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
         "name": "Ballyhoo",
         "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 165974,
       "name": "Ballyhoo",
       "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Souls Devoured",
+        "url": "https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "Souls Devoured",
+      "url": "https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -79,6 +79,42 @@
       "duration_ms": 196840,
       "name": "Lets Roll Again",
       "url": "https://open.spotify.com/track/2nmjXNcJupepCZsyHQXGAC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -123,54 +159,18 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Negative Space",
-        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
+        "name": "MAKUAKE",
+        "url": "https://open.spotify.com/album/1IwFp2q3l2qXwH3FuAb6gJ"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Negative Space",
-      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
+      "duration_ms": 284173,
+      "name": "MAKUAKE",
+      "url": "https://open.spotify.com/track/2VTbIKHS8foduKFrcatEwN"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -215,22 +215,6 @@
       "duration_ms": 204000,
       "name": "Alaska, You're On Thin Ice Buddy!",
       "url": "https://open.spotify.com/track/6gP6Hh5VC2uwOIPCS6GNf9"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "MAKUAKE",
-        "url": "https://open.spotify.com/album/1IwFp2q3l2qXwH3FuAb6gJ"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 284173,
-      "name": "MAKUAKE",
-      "url": "https://open.spotify.com/track/2VTbIKHS8foduKFrcatEwN"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -359,6 +343,22 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
         "name": "Black Mamba",
         "url": "https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Unbending (Mystic Festival Anthem 2025)",
-        "url": "https://open.spotify.com/album/7HZN0A7uCS4FvtQMJ6OH67"
-      },
-      "artists": [
-        {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Unbending - Mystic Festival Anthem 2025",
-      "url": "https://open.spotify.com/track/0iPkEFbEGFPgJBWznPdLIG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 236833,
       "name": "\u00d8UTSIDER",
       "url": "https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Unbending (Mystic Festival Anthem 2025)",
+        "url": "https://open.spotify.com/album/7HZN0A7uCS4FvtQMJ6OH67"
+      },
+      "artists": [
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Unbending - Mystic Festival Anthem 2025",
+      "url": "https://open.spotify.com/track/0iPkEFbEGFPgJBWznPdLIG"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
         "name": "Abracadabra (Gesaffelstein Remix)",
         "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
+        "name": "Sofa (Of My Lethargy)",
+        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 237981,
+      "name": "Sofa (Of My Lethargy) - Radio Edit",
+      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
         "name": "STING 3.0 Live",
         "url": "https://open.spotify.com/album/4r8JECF7FXyBaIKLdNfRJa"
       },
@@ -523,18 +523,38 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Sofa (Of My Lethargy)",
-        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
+        "name": "Inmersi\u00f3n",
+        "url": "https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 237981,
-      "name": "Sofa (Of My Lethargy) - Radio Edit",
-      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
+      "duration_ms": 189986,
+      "name": "Pez en el Agua",
+      "url": "https://open.spotify.com/track/104uszqTee1FngKRkSgZAz"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "It's Only Love",
+        "url": "https://open.spotify.com/album/4b4ipweDkyamTUgtKyk1AC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 193633,
+      "name": "It's Only Love - Classic Version",
+      "url": "https://open.spotify.com/track/5CKmQWnpfHObkYsxRS6jT2"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -571,58 +591,6 @@
       "duration_ms": 247523,
       "name": "WE PRAY - TWICE Version",
       "url": "https://open.spotify.com/track/3wLvOITQt7cbK4KzQ3dufu"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "It's Only Love",
-        "url": "https://open.spotify.com/album/4b4ipweDkyamTUgtKyk1AC"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 193633,
-      "name": "It's Only Love - Classic Version",
-      "url": "https://open.spotify.com/track/5CKmQWnpfHObkYsxRS6jT2"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Inmersi\u00f3n",
-        "url": "https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Pez en el Agua",
-      "url": "https://open.spotify.com/track/104uszqTee1FngKRkSgZAz"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -675,78 +643,18 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 198457,
-      "name": "Who's Laughing Now",
-      "url": "https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Hot For You Baby (Pet Shop Boys Remix)",
-        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 349800,
-      "name": "Hot For You Baby - Pet Shop Boys Remix",
-      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "State of Disrepair",
-        "url": "https://open.spotify.com/album/4N9uly3Yv9OGClyq6dXbQw"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "State of Disrepair",
-      "url": "https://open.spotify.com/track/13iYqg2UKxw8AGa1KDdOgT"
-    },
-    {
-      "added_at": "2025-05-02 04:00:00",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 222701,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -791,22 +699,78 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
-        "name": "Tchaikovsky: 6 Romances, Op. 16: No. 1, Lullaby (Cradle Song) [Version for Piano]",
-        "url": "https://open.spotify.com/album/0CjDTMlNdGQgbLywdS6pBj"
+        "name": "State of Disrepair",
+        "url": "https://open.spotify.com/album/4N9uly3Yv9OGClyq6dXbQw"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Bruce Liu",
-          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
         }
       ],
-      "duration_ms": 156480,
-      "name": "6 Romances, Op. 16: No. 1, Lullaby (Cradle Song) [Version for Piano]",
-      "url": "https://open.spotify.com/track/28JNLgjTU0Rlpp5H82q8to"
+      "duration_ms": 199656,
+      "name": "State of Disrepair",
+      "url": "https://open.spotify.com/track/13iYqg2UKxw8AGa1KDdOgT"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Hot For You Baby (Pet Shop Boys Remix)",
+        "url": "https://open.spotify.com/album/3Zp9w8v4Rk7uP6aiJ2133R"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 349800,
+      "name": "Hot For You Baby - Pet Shop Boys Remix",
+      "url": "https://open.spotify.com/track/2W6N8ZTzvEsBXLY4mKSsGU"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 222701,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 198457,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1"
     },
     {
       "added_at": "2025-05-02 04:00:00",
@@ -855,6 +819,26 @@
     {
       "added_at": "2025-05-02 04:00:00",
       "album": {
+        "name": "Tchaikovsky: 6 Romances, Op. 16: No. 1, Lullaby (Cradle Song) [Version for Piano]",
+        "url": "https://open.spotify.com/album/0CjDTMlNdGQgbLywdS6pBj"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "6 Romances, Op. 16: No. 1, Lullaby (Cradle Song) [Version for Piano]",
+      "url": "https://open.spotify.com/track/28JNLgjTU0Rlpp5H82q8to"
+    },
+    {
+      "added_at": "2025-05-02 04:00:00",
+      "album": {
         "name": "Black Betty",
         "url": "https://open.spotify.com/album/7DSXr9vHTFdDXq7JH7068E"
       },
@@ -868,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
         }
       ],
-      "duration_ms": 284307,
-      "name": "Black Betty - Version A",
-      "url": "https://open.spotify.com/track/5ttGZSzvltPsXssj8HhGTQ"
+      "duration_ms": 436747,
+      "name": "Black Betty - Version B",
+      "url": "https://open.spotify.com/track/7wY7oJR1FYtzQLn9l3QIPq"
     },
     {
       "added_at": "2025-05-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Nyt til alt det bedste nye musik fra Gilli,  Christopher, Mumle,  Mille og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,780 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,783 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40771,
+  "num_followers": 40775,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAAAH1viWN6n5rn4I/exeLNyQ",
+  "snapshot_id": "aBf/gAAAAABel/HbEoWrPh6MK+EnDVki",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANG!!!",
-        "url": "https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "BANG!!!",
-      "url": "https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures - Anata Ni Okuru Ai No Uta",
         "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 228853,
       "name": "\u30a8\u30a6\u30c6\u30eb\u30da",
       "url": "https://open.spotify.com/track/0aAzBVTjeTY83SlwoWCEfv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANG!!!",
+        "url": "https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "BANG!!!",
+      "url": "https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5f53\u4e8b\u8005",
-        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "\u5f53\u4e8b\u8005",
-      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
         "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 284173,
       "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
       "url": "https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5f53\u4e8b\u8005",
+        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "\u5f53\u4e8b\u8005",
+      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANG!!!",
-        "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Tonight Tonight",
-      "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
+      "duration_ms": 247973,
+      "name": "1.4.2",
+      "url": "https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
+        "name": "BANG!!!",
+        "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
       },
       "artists": [
         {
@@ -372,25 +372,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 247973,
-      "name": "1.4.2",
-      "url": "https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
-        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 291240,
-      "name": "\u597d\u304d\u3068\u8a00\u308f\u308c\u305f\u65e5 (from BEST AL\u201cALTER EGO\u201d)",
-      "url": "https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E"
+      "duration_ms": 211320,
+      "name": "Tonight Tonight",
+      "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 230654,
       "name": "Welcome to the *fam",
       "url": "https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
+        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "\u597d\u304d\u3068\u8a00\u308f\u308c\u305f\u65e5 (from BEST AL\u201cALTER EGO\u201d)",
+      "url": "https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
-        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08Acoustic Ver.\uff09 (from BEST AL\u201cALTER EGO\u201d)",
-      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -519,54 +503,6 @@
       "duration_ms": 257986,
       "name": "\u30ab\u30ca\u30c7\u30ca\u30eb",
       "url": "https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
-        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 334786,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Eiyu Fate's Song",
-      "url": "https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa"
     },
     {
       "added_at": null,
@@ -587,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
+        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
       },
       "artists": [
         {
@@ -596,9 +532,57 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 96893,
-      "name": "The Everlasting Guilty Crown -TV Edit-",
-      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
+      "duration_ms": 187213,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08Acoustic Ver.\uff09 (from BEST AL\u201cALTER EGO\u201d)",
+      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
+        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 334786,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Eiyu Fate's Song",
+      "url": "https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 95333,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
       "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
-      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 475773,
       "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
       "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
+      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
     },
     {
       "added_at": null,

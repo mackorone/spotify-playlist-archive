@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new Leith Ross yayyyy 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,319 likes - 145 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,339 likes - 145 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

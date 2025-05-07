@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,801 likes - 256 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,824 likes - 256 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 171 | [Sweet Operation by ミディ](https://open.spotify.com/track/5DJ2RTE97OJfrh591xQqPz) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ミディ](https://open.spotify.com/artist/2kfVJr9I2VZHzjuxkvlM12) | [電音部1st LIVE \-Make Waves\- ダンストラック](https://open.spotify.com/album/0DWKfrp3MI4yCgZzaYteI3) | 2:53 |
 | 172 | [Spot AA by maeshima soshi](https://open.spotify.com/track/7GD9wD1DcrSt9HubuzxfoP) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [電音部1st LIVE \-Make Waves\- ダンストラック](https://open.spotify.com/album/0DWKfrp3MI4yCgZzaYteI3) | 3:01 |
 | 173 | [I'm alive with this town by KOTONOHOUSE](https://open.spotify.com/track/18tzIBHGTPzEqhXbe30xOw) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [電音部1st LIVE \-Make Waves\- ダンストラック](https://open.spotify.com/album/0DWKfrp3MI4yCgZzaYteI3) | 3:34 |
-| 174 | [ベルカ](https://open.spotify.com/track/2ZaMcGvuyFq3zh90W8TmHS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [東雲和音 \(CV:天音みほ\)](https://open.spotify.com/artist/0h4HUlj0WCkc6Xn4F73XIt), [ミフメイ](https://open.spotify.com/artist/4Vw4RtcPBarSo4ziw3zIfT) | [電音部ベストアルバム \-シーズン.0\-](https://open.spotify.com/album/2YWtGKVRuOjGS9PBwsomJU) | 3:41 |
+| 174 | [ベルカ](https://open.spotify.com/track/2ZaMcGvuyFq3zh90W8TmHS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [東雲和音 \(CV:天音みほ\)](https://open.spotify.com/artist/0h4HUlj0WCkc6Xn4F73XIt), [mifumei](https://open.spotify.com/artist/7qqw6ANyej9zncXI95P9lf) | [電音部ベストアルバム \-シーズン.0\-](https://open.spotify.com/album/2YWtGKVRuOjGS9PBwsomJU) | 3:41 |
 | 175 | [touch me](https://open.spotify.com/track/3RKCqCPJfSfQyeSKqQKFOL) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [Kakeru](https://open.spotify.com/artist/1YCPuVojgAWxLFNasG0c2T) | [電音部ベストアルバム \-シーズン.0\-](https://open.spotify.com/album/2YWtGKVRuOjGS9PBwsomJU) | 3:17 |
 | 176 | [シロプスα](https://open.spotify.com/track/6cYy9bjj5bElVCuRTOqX4l) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf), [安藤啓希](https://open.spotify.com/artist/7q3POrwo1aV9kTG1TfRE9e) | [電音部ベストアルバム \-シーズン.0\-](https://open.spotify.com/album/2YWtGKVRuOjGS9PBwsomJU) | 5:31 |
 | 177 | [KOI WAZURAI](https://open.spotify.com/track/3YF4Mo4ax2u72ej7emkL9g) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [電音部ベストアルバム \-シーズン.0\-](https://open.spotify.com/album/2YWtGKVRuOjGS9PBwsomJU) | 3:52 |

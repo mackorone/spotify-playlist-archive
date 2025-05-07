@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > High School has never been this FIRE\. Listen to the music from Jentry Chau vs\. The Underworld, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,384 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,389 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

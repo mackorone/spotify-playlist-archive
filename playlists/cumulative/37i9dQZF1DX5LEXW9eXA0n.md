@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 멜로망스\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: YOOK SUNGJAE\(육성재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,454 songs - 3 day 22 hr 10 min
+1,455 songs - 3 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Alone](https://open.spotify.com/track/6MY5Fg2ST4H30UziyT4mw8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Again my life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5hU1uvCRoM8R0dOzXgkLdq) | 3:24 | 2022-07-07 | 2022-07-27 |
 | [Alone](https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [The Witch's Diner \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/6Wi68SCcA5SfVOrNHkMyDL) | 3:46 | 2021-12-23 | 2022-07-07 |
 | [Alone](https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y) | [KI HYUN](https://open.spotify.com/artist/37aGvwOvSBT3UCkXBZ6nS6), [수빈](https://open.spotify.com/artist/1NrGKVkZ7SbOUIrtn9Zm8b) | [Alone](https://open.spotify.com/album/0OkfIH5BLiyic0hzd4oTsi) | 3:19 | 2023-11-02 | 2024-03-06 |
-| [Alone](https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Alone](https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A) | 3:41 | 2024-10-30 |  |
+| [Alone](https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Alone](https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A) | 3:41 | 2024-10-30 | 2025-05-07 |
 | [Alone](https://open.spotify.com/track/0KkoFye9cvIeLRe3fQMeOK) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Alone](https://open.spotify.com/album/2wUZ7V5326P16ADyTdQpzL) | 4:02 | 2025-02-04 | 2025-02-07 |
 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-02-21 |
 | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-01-07 |  |
@@ -671,6 +671,7 @@
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-04-13 |
 | [Let’s Breathe for a While](https://open.spotify.com/track/26haC2I4xS8KIqPMZVHEIO) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [maum.ondo 36.5 Part.1](https://open.spotify.com/album/3iX2cNfIPF5uUAelM4dQNj) | 4:40 | 2024-03-20 | 2024-08-01 |
 | [Let’s Say Goodbye](https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/2gExd6MximoW6GNvG7tw5D) | 4:03 | 2024-04-15 |  |
+| [LIE](https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [LIE](https://open.spotify.com/album/2eYLpRHbySheFuIDyZyupu) | 4:08 | 2025-05-06 |  |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-20 | 2023-02-25 |
 | [LIGHT](https://open.spotify.com/track/5wZsoZu6pIO7QYtnZhy7iS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [LIGHT](https://open.spotify.com/album/5sb137DVbWJeiO8wlk0o2A) | 3:33 | 2022-08-12 | 2022-11-23 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-12-27 |

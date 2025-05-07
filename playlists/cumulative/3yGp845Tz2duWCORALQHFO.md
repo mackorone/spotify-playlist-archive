@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,782 songs - 6 day 6 hr 47 min
+2,784 songs - 6 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,6 +941,7 @@
 | [Give Me Anything](https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:38 | 2024-07-12 | 2024-07-19 |
 | [Give Me Desire](https://open.spotify.com/track/5zcGSMnSo1S0IOtXRJ5PxU) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Give Me Desire](https://open.spotify.com/album/109mDhXULmc4Z0YXNX0wj9) | 3:06 | 2025-01-17 | 2025-01-24 |
 | [Giving Me Life](https://open.spotify.com/track/1MJpr2CrpAlDF6REVI2sqm) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [Giving Me Life](https://open.spotify.com/album/67AZmKh7hANZyxeOZsrrZj) | 2:44 | 2025-04-08 | 2025-04-12 |
+| [Glimmer](https://open.spotify.com/track/1Ug0mRmK343eEHdbNtjpyo) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Glimmer](https://open.spotify.com/album/6RRUtK7tCqCYFbzhnyutGF) | 3:39 | 2025-05-06 |  |
 | [Glitter](https://open.spotify.com/track/2CfXfN1KCSFKLJHIMadDP2) | [Control Room](https://open.spotify.com/artist/0tLJ8fk8oulNkMQRAj4Toi) | [Glitter](https://open.spotify.com/album/1eLCqqDXpv83F56ONwdNoT) | 3:18 | 2024-11-15 | 2024-11-23 |
 | [GLORIFIED](https://open.spotify.com/track/1vQ9YdofPNZlsv107eGFEU) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [GLORIFIED](https://open.spotify.com/album/5zhVkOrnzstDpnQ34dwAxS) | 2:54 | 2024-10-21 | 2024-10-26 |
 | [Glow](https://open.spotify.com/track/5kCMvhUmHo2GXHFqc0urFi) | [Decker Rush](https://open.spotify.com/artist/3Rz4TikEfEd7o3ExMJHgrJ), [Ian Janco](https://open.spotify.com/artist/7aV3497dprpnqVKw1UYtGc) | [Glow](https://open.spotify.com/album/6bGQEhIghz106AMxQoQE9W) | 3:44 | 2024-10-25 | 2024-11-01 |
@@ -2721,6 +2722,7 @@
 | [Wilderness](https://open.spotify.com/track/13BGROqdQYudEvPNoOwLix) | [BNK](https://open.spotify.com/artist/4sfDuROxp4vrF35sgZcn2J) | [Wilderness](https://open.spotify.com/album/5O9rol6u6BjYRNGte6knoX) | 3:35 | 2024-05-24 | 2024-06-01 |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-02 | 2024-08-09 |
 | [William Tell Overture](https://open.spotify.com/track/3ABChtsJtTzgq5qsONIJPF) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [William Tell Overture](https://open.spotify.com/album/1kh866paZw9fY6yDdRkgYK) | 2:28 | 2025-02-28 | 2025-03-08 |
+| [Wings \(Extended\)](https://open.spotify.com/track/1QNR3quQgVxvxHkHBi2qeN) | [H\-Tech](https://open.spotify.com/artist/7wt6rKGKpEdy9H5lYArhfG) | [Wings \(Extended\)](https://open.spotify.com/album/1LIAKYZL7p23royCv39MwH) | 4:52 | 2025-05-06 |  |
 | [Winter Solace](https://open.spotify.com/track/32KYSyVijqYzQdWJx2N8n2) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1) | [Winter Solace](https://open.spotify.com/album/16XXnPICngkDqZZZCzVjpO) | 3:49 | 2025-02-28 | 2025-03-08 |
 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 | 2025-01-23 | 2025-02-01 |
 | [With You](https://open.spotify.com/track/1GLEzzAEti1U4LlT7xDT7O) | [Ritmo Kartel](https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [With You](https://open.spotify.com/album/6cuK05lITMxE99BpxVh4ia) | 4:41 | 2024-06-21 | 2024-06-29 |

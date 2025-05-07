@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: SAILORR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,431 likes - 209 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,450 likes - 209 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

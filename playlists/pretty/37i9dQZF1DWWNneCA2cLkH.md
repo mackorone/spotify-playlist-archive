@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Nilüfer Yanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,982 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,989 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 39 | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/album/0wc4SXmvSckUR402cSg9AK) | 8:11 |
 | 40 | [The Unshaken Frame](https://open.spotify.com/track/6w6Tv5D6Od9Khtzarcl0wy) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Unshaken Frame](https://open.spotify.com/album/6Hdg7trGeWQZOmVt7wz8wC) | 3:29 |
 | 41 | [Ashburner](https://open.spotify.com/track/6CwnteefaoY3mdC3M86UYf) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 3:23 |
-| 42 | [Promised Me Love](https://open.spotify.com/track/6b5NKD3dNcwNs2RzMZvjE2) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Finn Rees](https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb), [Joy Spheres Rees](https://open.spotify.com/artist/1SKKJxFd3jpOlRbzdSSFhO) | [Promised Me Love](https://open.spotify.com/album/6ZSsKjaKt5xFuAGk8piIrW) | 4:28 |
+| 42 | [Promised Me Love](https://open.spotify.com/track/6b5NKD3dNcwNs2RzMZvjE2) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Finn Rees](https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb), [Joy Spheres Rees](https://open.spotify.com/artist/2BJvzGYPdJyk3kT90S6gmD) | [Promised Me Love](https://open.spotify.com/album/6ZSsKjaKt5xFuAGk8piIrW) | 4:28 |
 | 43 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 |
 | 44 | [I Love Myself For You](https://open.spotify.com/track/1VJAT3vPHt9h4ptb2H5GP9) | [Guy Blackman](https://open.spotify.com/artist/76XsgVqbjHJXzJ0BY3Sr6w) | [I Love Myself For You](https://open.spotify.com/album/6fFiOiRUjJj9MVwwVobm3r) | 3:18 |
 | 45 | [RICKSHAW](https://open.spotify.com/track/1dULg1wfmQbev2fxaTlhct) | [Million Dollar Weekend](https://open.spotify.com/artist/4BiR9m24DaTiyFkYZIRmqn) | [RICKSHAW](https://open.spotify.com/album/1nKP3Ois1Y1XWKa1qWuH5t) | 5:00 |

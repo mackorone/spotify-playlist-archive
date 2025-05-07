@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452 likes - 385 songs - 19 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453 likes - 385 songs - 19 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -326,8 +326,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 316 | [Goodbye Girlie and Remember Me](https://open.spotify.com/track/1aOs6D1NYlVjmg7oJjeLV4) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:24 |
 | 317 | [Curtain up](https://open.spotify.com/track/1nby8Rpjau4BhATVhuZ3xL) | [Novoměstská filharmonie](https://open.spotify.com/artist/72a2f52OVwnt4BC7wlo82o) | [Movie Melodies](https://open.spotify.com/album/11H2CLuUn6trSHnFxz45U1) | 6:30 |
 | 318 | [Take A Little Tip From Father](https://open.spotify.com/track/4iHCmCGHTY3oTBPHcxHbx4) | [Deane Kincaide's Band](https://open.spotify.com/artist/6pXUOdEzSLS3NUPlbQtE4K) | [Classic Capitol Jazz Sessions](https://open.spotify.com/album/5l3qerysXgSt4nMnJ1iYTW) | 2:48 |
-| 319 | [My Sweetie](https://open.spotify.com/track/6k5OeowyIZnJUxx9hE0mA2) | [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:06 |
-| 320 | [I Used To Play It By Ear](https://open.spotify.com/track/0hEAxtcYcVAHhgTgUY5qhn) | [Terry Bibb](https://open.spotify.com/artist/1MHluX6flXw1N5aiQ1nbbc), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:22 |
+| 319 | [I Used To Play It By Ear](https://open.spotify.com/track/0hEAxtcYcVAHhgTgUY5qhn) | [Terry Bibb](https://open.spotify.com/artist/1MHluX6flXw1N5aiQ1nbbc), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:22 |
+| 320 | [My Sweetie](https://open.spotify.com/track/6k5OeowyIZnJUxx9hE0mA2) | [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:06 |
 | 321 | [I've Got a Sweet Tooth Bothering Me](https://open.spotify.com/track/3igssrwbEXygCJSCPFOg4L) | [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE) | [Chip Deffaa's Irving Berlin Revisited: Rare Songs of Love, Loss, And Revenge](https://open.spotify.com/album/2QcjqvL7QFKoLfDzN1hxRZ) | 2:36 |
 | 322 | [Was There Ever A Pal Like You](https://open.spotify.com/track/1I8benLwWYXV3wvXG7524W) | [Henry Burr](https://open.spotify.com/artist/4KamiHhXFArPH2d7aX6qOF) | [Greatest Songs & Tunes of 1920](https://open.spotify.com/album/1VCg0VWGAWQ1razdsWWNu6) | 3:14 |
 | 323 | [Ephraham Played Upon the Piano](https://open.spotify.com/track/4bgIB7IQWrqkOqdNbNwumj) | [Mary Cantoni Johnson](https://open.spotify.com/artist/0rtowPHfKo6ACDTFdb5kw9) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:32 |
@@ -394,4 +394,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 384 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
 | 385 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AbwofgAAAADGhHxTOCk9uUKECw+Za62Y`
+Snapshot ID: `AbwuHgAAAAAp0DFUUaMb1MCJ87Qt3Xdq`

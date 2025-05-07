@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 273834,
       "name": "Como hielo",
       "url": "https://open.spotify.com/track/5WLIn8U4sNz7Ffi0IoYcV7"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 201626,
       "name": "Dantokpa",
       "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
@@ -9178,7 +9178,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
@@ -15264,6 +15264,28 @@
       "duration_ms": 527308,
       "name": "YOGA IN KARACHI",
       "url": "https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET"
+    },
+    {
+      "album": {
+        "name": "Beyond Our Shores",
+        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
+      },
+      "artists": [
+        {
+          "name": "Valvetronic",
+          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
+        },
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170483,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
     },
     {
       "album": {

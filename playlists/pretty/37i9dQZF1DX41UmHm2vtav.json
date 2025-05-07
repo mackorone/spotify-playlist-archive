@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 485231,
+  "num_followers": 485233,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,6 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "Rio Amazing",
-        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 142267,
-      "name": "Rio Amazing",
-      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
-    },
-    {
-      "added_at": "2025-05-02 03:01:17",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2025-05-02 03:01:17",
+      "album": {
+        "name": "Rio Amazing",
+        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142267,
+      "name": "Rio Amazing",
+      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -563,8 +563,8 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "Samba de Janeiro (Carnaval Mix)",
-        "url": "https://open.spotify.com/album/0dMAx4XTT7n3idEx0ohlm0"
+        "name": "Me Cura",
+        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
       "artists": [
         {
@@ -572,21 +572,17 @@
           "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         },
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         },
         {
-          "name": "Toxic Joy",
-          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
-        },
-        {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+          "name": "Ana Muller",
+          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
         }
       ],
-      "duration_ms": 144094,
-      "name": "Samba de Janeiro - Carnaval Mix",
-      "url": "https://open.spotify.com/track/3pNwxSZI5aMN0EGvXCerAc"
+      "duration_ms": 183652,
+      "name": "Me Cura",
+      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -695,8 +691,8 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "Me Cura",
-        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
+        "name": "Samba de Janeiro (Carnaval Mix)",
+        "url": "https://open.spotify.com/album/0dMAx4XTT7n3idEx0ohlm0"
       },
       "artists": [
         {
@@ -704,17 +700,21 @@
           "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         },
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
         },
         {
-          "name": "Ana Muller",
-          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        },
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Me Cura",
-      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+      "duration_ms": 144094,
+      "name": "Samba de Janeiro - Carnaval Mix",
+      "url": "https://open.spotify.com/track/3pNwxSZI5aMN0EGvXCerAc"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -747,22 +747,26 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "Agua De Beber",
-        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
       "artists": [
         {
-          "name": "SUBB",
-          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
         },
         {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
         }
       ],
-      "duration_ms": 197007,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -787,26 +791,22 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+        "name": "Agua De Beber",
+        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
       },
       "artists": [
         {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
         },
         {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
         }
       ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+      "duration_ms": 197007,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -1283,6 +1283,30 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
+        "name": "CDXOTA",
+        "url": "https://open.spotify.com/album/2SLt1gsqotPapZiEmaBNhu"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "name": "Me Jesmay",
+          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "CDXOTA",
+      "url": "https://open.spotify.com/track/0hBDFlAo2GIRnTGb5m5OmK"
+    },
+    {
+      "added_at": "2025-05-02 03:01:17",
+      "album": {
         "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
         "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
       },
@@ -1303,26 +1327,6 @@
       "duration_ms": 192444,
       "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
       "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
-    },
-    {
-      "added_at": "2025-05-02 03:01:17",
-      "album": {
-        "name": "Coisinha Do Pai (feat. Sued Nunes)",
-        "url": "https://open.spotify.com/album/6NvjuCjxfDy1zZPnFzHPpM"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 97261,
-      "name": "Coisinha Do Pai (feat. Sued Nunes)",
-      "url": "https://open.spotify.com/track/16U1IhTZ21tgalLHSdrhX1"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -1351,26 +1355,22 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "CDXOTA",
-        "url": "https://open.spotify.com/album/2SLt1gsqotPapZiEmaBNhu"
+        "name": "Coisinha Do Pai (feat. Sued Nunes)",
+        "url": "https://open.spotify.com/album/6NvjuCjxfDy1zZPnFzHPpM"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Locked Club",
-          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
-        },
-        {
-          "name": "Me Jesmay",
-          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
         }
       ],
-      "duration_ms": 178203,
-      "name": "CDXOTA",
-      "url": "https://open.spotify.com/track/0hBDFlAo2GIRnTGb5m5OmK"
+      "duration_ms": 97261,
+      "name": "Coisinha Do Pai (feat. Sued Nunes)",
+      "url": "https://open.spotify.com/track/16U1IhTZ21tgalLHSdrhX1"
     },
     {
       "added_at": "2025-05-02 03:01:17",

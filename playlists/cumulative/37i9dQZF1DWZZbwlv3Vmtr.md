@@ -2,9 +2,9 @@
 
 ### [Focus Flow](https://open.spotify.com/playlist/37i9dQZF1DWZZbwlv3Vmtr)
 
-> Uptempo instrumental hip hop beats.
+> Instrumental beats to lock\-in.
 
-1,025 songs - 1 day 15 hr 43 min
+1,026 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
-| [Beachday](https://open.spotify.com/track/586J6JJVXILOxqF6XApzVQ) | [mellow rhino](https://open.spotify.com/artist/2fNtlz2vENfPEcrapnws9u) | [Beachday](https://open.spotify.com/album/7m19ffqNN9zxOT26Sw9EFS) | 2:08 | 2025-03-21 |  |
+| [Beachday](https://open.spotify.com/track/586J6JJVXILOxqF6XApzVQ) | [mellow rhino](https://open.spotify.com/artist/2fNtlz2vENfPEcrapnws9u) | [Beachday](https://open.spotify.com/album/7m19ffqNN9zxOT26Sw9EFS) | 2:08 | 2025-03-21 | 2025-05-07 |
 | [Beat Crusher](https://open.spotify.com/track/3zCQK3MbJfryLGpDZdPO9i) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Beat Crusher](https://open.spotify.com/album/7GSXF4jI5bIMgELjbkKiFK) | 2:10 | 2024-09-06 |  |
 | [beatheart](https://open.spotify.com/track/64q8ufbBeVKpIOdQOX3oDb) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [beatheart](https://open.spotify.com/album/7Hw3BQdIFLbN0cosNLEHu9) | 2:32 | 2022-11-11 | 2025-01-01 |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-04-15 | 2022-04-22 |
@@ -85,7 +85,7 @@
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2022-04-15 | 2022-05-20 |
 | [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 | 2025-02-22 |
 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 | 2022-07-29 | 2022-08-12 |
-| [Blank Canvas](https://open.spotify.com/track/4R9fYpcyz1BUFZ7FCiuJXg) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Blank Canvas](https://open.spotify.com/album/6zLHXiO7t2klPX6w5Dpt2T) | 2:32 | 2022-04-15 | 2025-03-06 |
+| [Blank Canvas](https://open.spotify.com/track/4R9fYpcyz1BUFZ7FCiuJXg) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Blank Canvas](https://open.spotify.com/album/6zLHXiO7t2klPX6w5Dpt2T) | 2:32 | 2022-04-15 |  |
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2022-08-19 | 2023-11-17 |
 | [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-15 | 2022-09-09 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -259,7 +259,7 @@
 | [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-16 |  |
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 | 2023-11-17 |
 | [Faces](https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Faces](https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K) | 1:53 | 2023-12-22 |  |
-| [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-14 |  |
+| [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-14 | 2025-05-07 |
 | [Faded Reality](https://open.spotify.com/track/0tCZQX1rmVLrcR9OMRwRFq) | [X3V](https://open.spotify.com/artist/1vCTniHcObS9QKWViplT3O) | [Faded Reality](https://open.spotify.com/album/5d4yOhluFMZecTQpLNSZPf) | 2:12 | 2025-02-07 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2022-04-15 |  |
 | [Falcon](https://open.spotify.com/track/2ayC31AGGoGHISl3BP0qSs) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Falcon](https://open.spotify.com/album/71xM5XgklqQxrh2AZaoaNY) | 2:53 | 2024-06-28 |  |
@@ -436,7 +436,7 @@
 | [Kickflip](https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Kickflip](https://open.spotify.com/album/7lD2UGzFinJkFF7IpS3Vjl) | 1:50 | 2022-12-09 | 2023-10-06 |
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-15 | 2022-05-27 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2022-04-15 |  |
-| [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 |  |
+| [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 | 2025-05-07 |
 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 | 2024-10-25 |  |
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
@@ -883,7 +883,7 @@
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2022-04-15 | 2022-08-12 |
 | [tea n' sunsets](https://open.spotify.com/track/2UEWsw1bg1qbbnIMyLZGBn) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [tea n' sunsets](https://open.spotify.com/album/2kVQmUS15rrZk2raCqWSBX) | 2:20 | 2024-03-08 | 2024-04-13 |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2022-04-15 | 2022-09-09 |
-| [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 | 2025-04-11 |
+| [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 |  |
 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 | 2024-10-16 |  |
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-04-15 | 2022-09-09 |
 | [Tenderly](https://open.spotify.com/track/21syvpttK8kXDq7kf3eaPr) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [Tenderly](https://open.spotify.com/album/5FbOGtcOmnvWJKH4xmajlv) | 2:13 | 2022-04-15 | 2022-10-14 |
@@ -958,6 +958,7 @@
 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [Unity](https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/02HGvM4UDSIiUEOP7PfLMF) | 2:13 | 2022-11-11 | 2023-10-06 |
 | [Unity](https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/38pRruNPK6CWlpASV8FnPb) | 2:13 | 2022-04-15 | 2022-11-20 |
+| [unwind rewind](https://open.spotify.com/track/2het2Gw9kQZKOZl2ATnog3) | [Mambojambo](https://open.spotify.com/artist/5adQ9F1bTccUHKfePr6khI) | [unwind rewind](https://open.spotify.com/album/3FEZtS1ZfqgrCaDbsc3Wsi) | 2:06 | 2025-05-06 |  |
 | [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 |  |
 | [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-15 |  |

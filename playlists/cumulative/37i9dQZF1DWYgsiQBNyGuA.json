@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177573,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
+    },
+    {
+      "album": {
         "name": "Heal U / Out My Hair",
         "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 178019,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"

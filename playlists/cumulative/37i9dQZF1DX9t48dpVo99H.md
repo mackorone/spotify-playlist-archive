@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-91 songs - 3 hr 59 min
+92 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [741 Hz Detox](https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [741 Hz Detox](https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd) | 2:51 | 2024-11-07 |  |
 | [741 Hz Expressive Currents](https://open.spotify.com/track/3BlokUFLQCWY0p6xV8bFGW) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [741 Hz Expressive Currents](https://open.spotify.com/album/4aHbYcpEdOGipglEJ70pr4) | 2:34 | 2024-11-07 |  |
 | [741 Hz Gentle Breathing](https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:22 | 2023-03-10 | 2023-08-08 |
+| [741 Hz Inner Map to Solutions](https://open.spotify.com/track/4hQU7ng6pFv3Iq7xUXH7xg) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [741 Hz Inner Map to Solutions](https://open.spotify.com/album/62OsYdnfNcA3APCN3hFkNT) | 2:47 | 2025-05-06 |  |
 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 | 2023-03-10 |  |
 | [741 Hz Mental Clarity](https://open.spotify.com/track/0ZuKVcs48MMhBwb6stqbVo) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [741 Hz Mental Clarity](https://open.spotify.com/album/6tzfanwdAF8Px0HcJZe8yB) | 2:31 | 2023-03-10 |  |
 | [741 Hz Protection](https://open.spotify.com/track/2g5wHZ7x9U1qlaOMOtFfEB) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [741 Hz Protection](https://open.spotify.com/album/3e7ZEGQU8xFdSHqYYVPzHD) | 2:16 | 2023-08-07 |  |

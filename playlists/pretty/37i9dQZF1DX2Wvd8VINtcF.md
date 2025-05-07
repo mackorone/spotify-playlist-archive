@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > Yung Lean presents ✨Jonatan✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,015 likes - 102 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,046 likes - 102 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 54 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |
 | 55 | [Romanticize Me](https://open.spotify.com/track/32JqzkFkwoByPPnu8R5mLo) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Romanticize Me](https://open.spotify.com/album/4uBGRctNphP63XX4gZj4wy) | 2:55 |
 | 56 | [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 |
-| 57 | [KORABU \(feat\. Varg2™, Whitearmor, Eurohead, jamesjamesjames\)](https://open.spotify.com/track/0egyLpAMPO5nvzjCN6zxGx) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [bgirl](https://open.spotify.com/artist/3reftshVlP4U38NNol55iO), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:01 |
+| 57 | [KORABU \(feat\. Varg2™, Whitearmor, Eurohead, jamesjamesjames\)](https://open.spotify.com/track/0egyLpAMPO5nvzjCN6zxGx) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [bgirl](https://open.spotify.com/artist/3reftshVlP4U38NNol55iO), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Eurohead](https://open.spotify.com/artist/5MSILmANslIYw4gMOmnxe0), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:01 |
 | 58 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 59 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
 | 60 | [all i need](https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [all i need](https://open.spotify.com/album/1gK0aKOhqwRRASeRhD2hRQ) | 3:33 |

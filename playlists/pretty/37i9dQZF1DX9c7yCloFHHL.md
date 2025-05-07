@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Kara\-Lis Coverdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,725 likes - 106 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,807 likes - 106 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123356,
+  "num_followers": 123368,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
-        }
-      ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 187271,
-      "name": "Amor Platonico",
-      "url": "https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Kaimonomacaco",
         "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 210506,
       "name": "Soy De Mi Tierra",
       "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "duration_ms": 187271,
+      "name": "Amor Platonico",
+      "url": "https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Rumbo a Tu Corazon",
-        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
+        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
+        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
       },
       "artists": [
         {
-          "name": "Rumberos",
-          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
+          "name": "S.K.A.",
+          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
         }
       ],
-      "duration_ms": 219611,
-      "name": "En La Luna Y En Marte",
-      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
+      "duration_ms": 245720,
+      "name": "Que Divague",
+      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
-        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
+        "name": "Rumbo a Tu Corazon",
+        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
       },
       "artists": [
         {
-          "name": "S.K.A.",
-          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
+          "name": "Rumberos",
+          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Que Divague",
-      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
+      "duration_ms": 219611,
+      "name": "En La Luna Y En Marte",
+      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
     },
     {
       "added_at": "2025-03-14 20:46:39",

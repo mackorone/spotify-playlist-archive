@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto:Derek
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,435 likes - 74 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,426 likes - 74 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 3 | [3x0](https://open.spotify.com/track/5KPKnW5GafjDwGu3VF2uKH) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Sem Riscos Sem Ganhos](https://open.spotify.com/album/4KGLnSRzR27KFPOKsBFr2J) | 2:14 |
 | 4 | [Não É Amor \(Só P\* e Tchau\)](https://open.spotify.com/track/17PSpje8Gh2NYwSnXLeZsw) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1) | [Não É Fácil Ser Eu](https://open.spotify.com/album/4rnCfBilA1yONDvb8q8OBT) | 2:09 |
 | 5 | [Antes das Seis \- Dread Session, Vol\. 1](https://open.spotify.com/track/4aIVGZ0hociQDdMTT2CJ49) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Antes das Seis \- Dread Session, Vol\. 1](https://open.spotify.com/album/7o6Ho5kjy0xfMmQjETPsXr) | 3:27 |
-| 6 | [Dois Lados](https://open.spotify.com/track/7LtZZRUOs0MWDwnC7woHBZ) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C) | [MR\. SMOOVE, Vol\. 1](https://open.spotify.com/album/6jbrPR4QNwSvoVOoc7cDxT) | 2:21 |
+| 6 | [Dois Lados](https://open.spotify.com/track/7LtZZRUOs0MWDwnC7woHBZ) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [Vamp](https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S) | [MR\. SMOOVE, Vol\. 1](https://open.spotify.com/album/6jbrPR4QNwSvoVOoc7cDxT) | 2:21 |
 | 7 | [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 |
 | 8 | [No Love](https://open.spotify.com/track/6ukVcMMIzR5bbDLOFY37EX) | [Desperado Tracks](https://open.spotify.com/artist/6qbYy61Ku2pORX0h2aueTz), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Prodbysaucee](https://open.spotify.com/artist/3HWBVS8BAHWj6C2SjsBqmq) | [No Love](https://open.spotify.com/album/61tPC3zdGNEfJpaOpNCVfL) | 3:14 |
 | 9 | [Ñ sei se eu tô incomodando](https://open.spotify.com/track/7C3CeLlJPn9g69oGNd6hCK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Para todas as mulheres que já rimei Pt\. 2](https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf) | 2:53 |

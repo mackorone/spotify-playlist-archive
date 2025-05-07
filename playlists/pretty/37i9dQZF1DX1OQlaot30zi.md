@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa e Lazza, Salmo, Rhove, Niky Savage e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,893 likes - 155 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,904 likes - 155 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

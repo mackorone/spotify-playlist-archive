@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/0b6E1am1qcZmD4bAobfDwc"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172541,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/1QqCc5tVFevjAk7WBJAxmv"
+    },
+    {
+      "album": {
         "name": "Drifting Downstream",
         "url": "https://open.spotify.com/album/54huiG7nVJZpqAF6yvRpL3"
       },
@@ -938,6 +956,24 @@
       "duration_ms": 202744,
       "name": "Drifting Downstream",
       "url": "https://open.spotify.com/track/4id7nbDobU3Y9VK98pAQXY"
+    },
+    {
+      "album": {
+        "name": "Echovault",
+        "url": "https://open.spotify.com/album/7sTeyq0yvZfyJKgCVZJc0E"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "Echovault",
+      "url": "https://open.spotify.com/track/3ACnfmq21BKFwc6gc6ABcS"
     },
     {
       "album": {
@@ -1122,6 +1158,24 @@
     {
       "album": {
         "name": "Essence",
+        "url": "https://open.spotify.com/album/7gBkQIvElcd4nDS4MdNgpp"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186447,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/27H4fVlVuhcPH3buersmYj"
+    },
+    {
+      "album": {
+        "name": "Essence",
         "url": "https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL"
       },
       "artists": [
@@ -1211,6 +1265,42 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169342,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn"
+    },
+    {
+      "album": {
+        "name": "Firm Hold",
+        "url": "https://open.spotify.com/album/2x980z34lAOPH4kPnnTVhG"
+      },
+      "artists": [
+        {
+          "name": "Hulu Otto",
+          "url": "https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169683,
+      "name": "Firm Hold",
+      "url": "https://open.spotify.com/track/4LFeKY4x7k3VoSSqwKn0px"
+    },
+    {
+      "album": {
         "name": "Forensia",
         "url": "https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x"
       },
@@ -1229,6 +1319,42 @@
     },
     {
       "album": {
+        "name": "Forest Breath",
+        "url": "https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7"
+      },
+      "artists": [
+        {
+          "name": "Cerasifera",
+          "url": "https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161961,
+      "name": "Forest Breath",
+      "url": "https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9"
+    },
+    {
+      "album": {
+        "name": "Forest Embrace",
+        "url": "https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3"
+      },
+      "artists": [
+        {
+          "name": "Mossfrid",
+          "url": "https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "Forest Embrace",
+      "url": "https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX"
+    },
+    {
+      "album": {
         "name": "Forest Meditation",
         "url": "https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO"
       },
@@ -1244,6 +1370,24 @@
       "duration_ms": 154969,
       "name": "Forest Meditation",
       "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
+    },
+    {
+      "album": {
+        "name": "Forest Melody",
+        "url": "https://open.spotify.com/album/5Bce7zHN6VM2XfA4r0Beci"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Forest Melody",
+      "url": "https://open.spotify.com/track/2vFsJGANng9w53seIjgS3y"
     },
     {
       "album": {
@@ -1283,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Found the Moon",
+        "url": "https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA"
+      },
+      "artists": [
+        {
+          "name": "Glacial Patience",
+          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Found the Moon",
+      "url": "https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt"
+    },
+    {
+      "album": {
         "name": "Gentle Flowing Grace",
         "url": "https://open.spotify.com/album/1xGs9MfpJkh5MIDLdoIKmj"
       },
@@ -1298,6 +1460,42 @@
       "duration_ms": 156056,
       "name": "Gentle Flowing Grace",
       "url": "https://open.spotify.com/track/2lLnW3t9xYfnD1BCBmyC01"
+    },
+    {
+      "album": {
+        "name": "Gentle River Flow",
+        "url": "https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r"
+      },
+      "artists": [
+        {
+          "name": "Al\u00f3n Celestia",
+          "url": "https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Gentle River Flow",
+      "url": "https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo"
+    },
+    {
+      "album": {
+        "name": "Glide of the Subconscious",
+        "url": "https://open.spotify.com/album/3ob53JZM1T3EXszXgLZqHz"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Glide of the Subconscious",
+      "url": "https://open.spotify.com/track/2NmeSNYPST6PnmCGqD52Mm"
     },
     {
       "album": {
@@ -1388,6 +1586,24 @@
       "duration_ms": 171972,
       "name": "Greenage",
       "url": "https://open.spotify.com/track/61TX3LAC1lH7AScCrnZLPA"
+    },
+    {
+      "album": {
+        "name": "Grow, My Dear",
+        "url": "https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs"
+      },
+      "artists": [
+        {
+          "name": "Felix Dekker",
+          "url": "https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177327,
+      "name": "Grow, My Dear",
+      "url": "https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY"
     },
     {
       "album": {
@@ -1622,6 +1838,24 @@
       "duration_ms": 180703,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/7mXIfR2N9mNUhI1ypzm4Qf"
+    },
+    {
+      "album": {
+        "name": "Lake Quietude",
+        "url": "https://open.spotify.com/album/533cM8FSanZTR2SUtcIfjc"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Lake Quietude",
+      "url": "https://open.spotify.com/track/3gGpRVCJPslykac2T6q0u9"
     },
     {
       "album": {
@@ -1895,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Morning Flourish",
+        "url": "https://open.spotify.com/album/5xCELqjiM5ClyW12ggx7Qz"
+      },
+      "artists": [
+        {
+          "name": "Cedarsound",
+          "url": "https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Morning Flourish",
+      "url": "https://open.spotify.com/track/682ajrmPSRg9h9iAnT1Y3X"
+    },
+    {
+      "album": {
         "name": "Mountain Stream",
         "url": "https://open.spotify.com/album/7vuVs4njRZ5xjBQDHnvgYE"
       },
@@ -2126,6 +2378,24 @@
       "duration_ms": 216848,
       "name": "Organic Peace",
       "url": "https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu"
+    },
+    {
+      "album": {
+        "name": "Outward Flow",
+        "url": "https://open.spotify.com/album/6l4VfxWo7vlBRIVR7xIXNh"
+      },
+      "artists": [
+        {
+          "name": "Aimspherer",
+          "url": "https://open.spotify.com/artist/0hSVd3Ut0dF3BO5fRiIMtq"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154987,
+      "name": "Outward Flow",
+      "url": "https://open.spotify.com/track/6CHszkJRDjseZZjlB2dGF5"
     },
     {
       "album": {
@@ -2597,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Seraphina Woods",
+        "url": "https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk"
+      },
+      "artists": [
+        {
+          "name": "Bed of Flowers",
+          "url": "https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Seraphina Woods",
+      "url": "https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I"
+    },
+    {
+      "album": {
         "name": "Serene Lake",
         "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
       },
@@ -2738,6 +3026,24 @@
       "duration_ms": 200727,
       "name": "Spectral Stone",
       "url": "https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw"
+    },
+    {
+      "album": {
+        "name": "Spiritual Forest",
+        "url": "https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI"
+      },
+      "artists": [
+        {
+          "name": "Bear Jonnes",
+          "url": "https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Spiritual Forest",
+      "url": "https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI"
     },
     {
       "album": {
@@ -3281,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/7dXoaFvmWQH9M5lSSoKBn9"
+      },
+      "artists": [
+        {
+          "name": "Elements Of Matter",
+          "url": "https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178574,
+      "name": "Undiscovered",
+      "url": "https://open.spotify.com/track/1GzLMPydK2QU21dcTsYOsZ"
+    },
+    {
+      "album": {
         "name": "Vila",
         "url": "https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84"
       },
@@ -3389,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Whispering Waters",
+        "url": "https://open.spotify.com/album/522xxbZkfjqnmhp8UwP4Sp"
+      },
+      "artists": [
+        {
+          "name": "Soeren Zen",
+          "url": "https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Whispering Waters",
+      "url": "https://open.spotify.com/track/0GUxDNXcaWMiO6TF3ZqtW7"
+    },
+    {
+      "album": {
         "name": "Ultra Lights",
         "url": "https://open.spotify.com/album/24KB1iV6cuAUy6hE8Vl4aC"
       },
@@ -3404,6 +3746,42 @@
       "duration_ms": 197046,
       "name": "Wonders",
       "url": "https://open.spotify.com/track/2eHY7xc078L6GYq6aZUJnD"
+    },
+    {
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9nter",
+          "url": "https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172020,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Storm",
+          "url": "https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135234,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486"
     },
     {
       "album": {

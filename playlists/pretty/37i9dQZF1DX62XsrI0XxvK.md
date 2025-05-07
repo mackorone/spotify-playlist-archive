@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: JVSAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,605 likes - 77 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,612 likes - 77 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 |
 | 2 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/75eKV8vEiT7mjwSHhLfSNi) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 |
-| 3 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [NO NA](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 3 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 4 | [Pelita](https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw) | [Adityaa Bagus](https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL) | [Pelita](https://open.spotify.com/album/2XfMU1K2vxSDZFl8VmSXl0) | 4:41 |
 | 5 | [Terlena](https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k) | 3:27 |
 | 6 | [Rasa](https://open.spotify.com/track/3h9E91kdGF9HvvUORvr0DL) | [Rasathi](https://open.spotify.com/artist/4EbQRoEF1snLVr3rfZUYdR), [KLAV](https://open.spotify.com/artist/2Rzj6pwJrpcPvILalPsGjU) | [Rasa](https://open.spotify.com/album/4EOrZsbDVtjhfarQQK62Ov) | 3:27 |

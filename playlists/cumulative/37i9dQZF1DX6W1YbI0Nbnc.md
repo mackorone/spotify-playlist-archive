@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Cloud雲浩影\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Nancy Kwai\)
 
-305 songs - 19 hr 3 min
+307 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-04-02 |  |
 | [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 | 2023-07-04 | 2025-01-08 |
 | [Before Bed](https://open.spotify.com/track/6PQLLy6iTTAAghxUrDBwly) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [God in My Dreams](https://open.spotify.com/album/0nRE05u9tCYROuOaH1GOvh) | 4:00 | 2022-05-03 | 2022-08-03 |
+| [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-05-06 |  |
 | [But I'm Not Lonely](https://open.spotify.com/track/1YU243lVfy5OSUpPRc08qU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 2:49 | 2022-01-04 | 2022-03-08 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-04-05 | 2022-05-04 |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-04-02 |  |
@@ -68,6 +69,7 @@
 | [lovelanguage](https://open.spotify.com/track/7Lf3Elooar18UhFTTzYeIY) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 1:12 | 2024-04-30 |  |
 | [LOVELOST](https://open.spotify.com/track/4PEtmljaGQoAiohJWB4MxR) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [LOVELOST](https://open.spotify.com/album/1f0iHWy57iLnZ24gval97V) | 3:42 | 2022-01-04 | 2022-03-08 |
 | [Midsommar](https://open.spotify.com/track/5QlrGkuEC3vRSU147A9Urj) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Midsommar](https://open.spotify.com/album/3RqSIvLM1Eq96zR6lHLfXg) | 4:31 | 2021-12-07 | 2022-03-08 |
+| [Miss you in my ways](https://open.spotify.com/track/3bMMUw787YZW7wpZydK4r1) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 3:12 | 2025-05-06 |  |
 | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/track/4s8bxtk4eKTilYs0IbfztA) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/album/1PRYfE5EGQ5g8Gf21wZoT2) | 4:14 | 2021-12-07 | 2022-01-05 |
 | [need/give me](https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [need/give me](https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG) | 3:21 | 2024-01-09 | 2024-04-03 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-05 | 2023-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Childlike CiCi & Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,715 likes - 99 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,734 likes - 99 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 33 | [How Great The Love Of God \- Live](https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [LIVE FROM IO WKND](https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ) | 5:12 |
 | 34 | [Walk With You \- Acoustic](https://open.spotify.com/track/4arZruhIf7mtqGXKxN8sEu) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [LO Worship: Acoustic Sessions](https://open.spotify.com/album/7JNV6t7l0KJkAbbz7TnWDz) | 4:00 |
 | 35 | [No One Like You \- Radio Edit](https://open.spotify.com/track/12hUreiQL653aFxacHZBx4) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [No One Like You](https://open.spotify.com/album/66aGdGzThhOL1JNtMOri0l) | 4:30 |
-| 36 | [Be Exalted \- Live](https://open.spotify.com/track/69RkTqNSeBxTXragVNPDi9) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Be Exalted \(He's Above It All\) \[Live\]](https://open.spotify.com/album/3ns3tmrjAoKUKJXmK2Km00) | 10:36 |
+| 36 | [Be Exalted \(He's Above It All\) \[Live\]](https://open.spotify.com/track/69RkTqNSeBxTXragVNPDi9) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Be Exalted \(He's Above It All\) \[Live\]](https://open.spotify.com/album/3ns3tmrjAoKUKJXmK2Km00) | 10:36 |
 | 37 | [More Than Anything \- Acoustic](https://open.spotify.com/track/0Tt1L9MfUn5JfrFsM8xwYu) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [More Than Anything \(Acoustic\)](https://open.spotify.com/album/5s3eCMn9bkPFKML9EGQFF4) | 4:49 |
 | 38 | [Abide With Me](https://open.spotify.com/track/1S6ZD6eCmkyX3mQObOcmBY) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Abide With Me](https://open.spotify.com/album/0StGW8DC1xuHr9RQzk7iFZ) | 4:02 |
 | 39 | [Hymn of Zion](https://open.spotify.com/track/5ijfnECGMmwKsjxXwZq5Hx) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [Hymn of Zion](https://open.spotify.com/album/265UsPLTYvEVfdDQMh7L6b) | 5:57 |

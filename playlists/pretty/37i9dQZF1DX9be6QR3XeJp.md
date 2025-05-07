@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: PUNCHBAG
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,306 likes - 233 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,305 likes - 233 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

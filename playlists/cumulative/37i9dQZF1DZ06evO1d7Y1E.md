@@ -4,7 +4,7 @@
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 7 min
+71 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Talvez](https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 2:44 | 2023-09-18 |  |
 | [To de Pé](https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:22 | 2023-09-18 |  |
 | [To Voando Alto](https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [To Voando Alto](https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ) | 2:17 | 2023-09-18 |  |
+| [Toma Jack](https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Toma Jack](https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7) | 4:06 | 2025-05-07 |  |
 | [Tá Fluindo](https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Tá Fluindo](https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk) | 2:39 | 2023-09-18 |  |
 | [Vai Chegar](https://open.spotify.com/track/3hNm8sXtMbSehcrI4zdecG) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 2:53 | 2023-09-18 | 2024-10-28 |
 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 | 2023-09-18 |  |

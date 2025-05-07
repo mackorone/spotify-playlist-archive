@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,992 songs - 4 day 11 hr 43 min
+1,993 songs - 4 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-23 | 2025-02-22 |
 | [BUTCHER'S BIN](https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R) | 4:00 | 2024-03-17 | 2024-04-03 |
 | [Butter](https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Butter](https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo) | 3:01 | 2024-10-11 | 2025-04-01 |
+| [Butter](https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Butter](https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh) | 2:44 | 2025-05-02 |  |
 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-07-26 | 2025-01-25 |
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-08 | 2025-03-30 |
 | [bye bye](https://open.spotify.com/track/12bz9ZB91ONuwiZt1NaUMK) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:18 | 2022-03-24 | 2022-04-21 |
@@ -1281,7 +1282,7 @@
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 | 2022-08-30 |
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 | 2024-08-23 | 2024-11-10 |
-| [Poison Ivy](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Poison Ivy](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 | 2025-05-02 |  |
+| [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 | 2025-05-02 |  |
 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 | 2024-03-15 | 2024-08-03 |
 | [poltergeist](https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [poltergeist](https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG) | 2:33 | 2024-09-13 | 2024-10-06 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |
@@ -1343,7 +1344,7 @@
 | [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-04-18 | 2025-05-04 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-27 | 2024-05-04 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2022-08-27 |
-| [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 | 2025-05-05 |
+| [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-04-12 | 2023-04-18 |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-06-28 | 2024-12-14 |
 | [Respuesta Cero](https://open.spotify.com/track/07piZvs54drv7466oPLTt0) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk) | 3:23 | 2022-06-27 | 2022-08-02 |
@@ -1582,7 +1583,7 @@
 | [Thelma et Louise](https://open.spotify.com/track/2ucpHT28Nud8Uv1ylt3MyX) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Thelma et Louise](https://open.spotify.com/album/2eE2mkOfbSPkikRJnelvgD) | 2:50 | 2022-03-24 | 2022-08-02 |
 | [Then Morning Breaks](https://open.spotify.com/track/3tQvNpYYctZNnx5nJ36BmN) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Then Morning Breaks](https://open.spotify.com/album/0wA7iEeunmloxXju0b8GTR) | 3:02 | 2022-06-17 | 2022-08-02 |
 | [There She Goes](https://open.spotify.com/track/6IlOjEQb1xHx4GUAaoFI7H) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2022-03-24 | 2022-04-21 |
-| [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 |  |
+| [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 | 2025-05-07 |
 | [Things](https://open.spotify.com/track/3dm5Ce7vQ3JEpSVnqyjGPR) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:19 | 2022-03-24 | 2022-12-15 |
 | [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 | 2025-04-04 |  |
 | [Things We Can’t Change](https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Things We Can’t Change](https://open.spotify.com/album/0r1WIueboWxL9xiWuavKtH) | 2:42 | 2025-01-10 | 2025-02-10 |
@@ -1661,7 +1662,7 @@
 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 | 2022-02-25 | 2022-04-19 |
 | [Una Cumbia Triste](https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ) | [Una Cumbia Triste](https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6) | 3:35 | 2023-10-13 | 2024-04-06 |
 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 | 2024-06-07 | 2024-10-12 |
-| [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-01-31 |  |
+| [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-01-31 | 2025-05-07 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-08-18 | 2024-01-20 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-10-13 | 2024-04-06 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-02-10 | 2022-08-02 |

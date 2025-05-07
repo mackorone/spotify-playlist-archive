@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 130728,
       "name": "Best Alone",
       "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 143893,
       "name": "LaBelle Opera",
       "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
@@ -906,6 +906,24 @@
       "duration_ms": 69386,
       "name": "New York",
       "url": "https://open.spotify.com/track/5fLJks68YQXC1tPngFZn88"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132899,
+      "name": "One Step, One Step\u2026",
+      "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
     },
     {
       "album": {
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 124424,
       "name": "Young Deb When She Was Happy",
       "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"

@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 239400,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
@@ -1648,10 +1648,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 233866,
       "name": "Strange Kind Of Woman",
       "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
+    },
+    {
+      "album": {
+        "name": "Very Best Of Made In Japan",
+        "url": "https://open.spotify.com/album/0JGrL3JQONQhELODh9Y5YH"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "Strange Kind Of Woman",
+      "url": "https://open.spotify.com/track/6DF6Rc1lxiC2b4tcZdbiWc"
     },
     {
       "album": {

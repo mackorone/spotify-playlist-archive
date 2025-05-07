@@ -3005,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "Maamalanaadu",
+        "url": "https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        },
+        {
+          "name": "Rajeesh K Chandu",
+          "url": "https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258510,
+      "name": "Maamalanaadu",
+      "url": "https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu"
+    },
+    {
+      "album": {
         "name": "Maanju Poyi",
         "url": "https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6"
       },
@@ -5500,7 +5522,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 297600,
       "name": "SHARR",
       "url": "https://open.spotify.com/track/1CfWaIHSJLkhAUF9GjTXoM"
@@ -5972,7 +5994,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 247500,
       "name": "THEERAME",
       "url": "https://open.spotify.com/track/6sVKdxiccpOir1Rd51r1hP"
@@ -6256,6 +6278,24 @@
       "duration_ms": 290483,
       "name": "Thoomanjin kuliro",
       "url": "https://open.spotify.com/track/5rZpFg5zTR1dC95pYCPLHw"
+    },
+    {
+      "album": {
+        "name": "Thooveyil",
+        "url": "https://open.spotify.com/album/7id2rLVo4RYf2G650usQc9"
+      },
+      "artists": [
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "Thooveyil",
+      "url": "https://open.spotify.com/track/2DPKPyfC6UKdQO0oLNQHdx"
     },
     {
       "album": {

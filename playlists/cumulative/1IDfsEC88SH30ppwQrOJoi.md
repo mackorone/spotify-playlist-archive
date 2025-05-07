@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-395 songs - 20 hr 26 min
+396 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 | 2024-10-31 |  |
 | [How I Like It \- Ben Miller Remix](https://open.spotify.com/track/1LBiwKB6p3RL70drgxtQfI) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [How I Like It \(Remixes\)](https://open.spotify.com/album/73SRzKexW7eQrFouG2evEQ) | 3:43 | 2023-04-26 | 2024-03-14 |
 | [Hyperdust \- Reimagined](https://open.spotify.com/track/0Jh1vCA3I7yBpoKJumWdiq) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Hyperdust \(Reimagined\)](https://open.spotify.com/album/5aGVY0IyU7KOe2v9mLAKsY) | 3:58 | 2023-10-13 | 2024-03-14 |
+| [I Don't Wanna Wait](https://open.spotify.com/track/0TKDgI3Luxd8Sge4IaEBE3) | [Trendos & Virali](https://open.spotify.com/artist/3TdrlsOkbCFmTcE0JgjqvN) | [I Don't Wanna Wait](https://open.spotify.com/album/6TKJhwGUQC3KB6q3gxTqc6) | 2:39 | 2025-05-06 |  |
 | [I Go Dancing \(feat\. Ella Henderson\) \- Joel Corry Remix](https://open.spotify.com/track/2XFRLnicypCadhlgfWLh6M) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [I Go Dancing \(feat\. Ella Henderson\) \[Joel Corry Remix\]](https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US) | 2:42 | 2023-06-13 | 2024-03-14 |
 | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 | 2023-08-17 | 2024-03-14 |
 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 | 2025-01-30 |  |

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Cicatrizes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Cicatrizes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi"
+    },
+    {
+      "album": {
         "name": "Cicatrizes (Ao Vivo)",
         "url": "https://open.spotify.com/album/3C2AY24yZRGD5MWnx8vmC5"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 424985,
       "name": "Cicatrizes - Ao Vivo",
       "url": "https://open.spotify.com/track/00jxnrQwmeaahhChOmnJSE"

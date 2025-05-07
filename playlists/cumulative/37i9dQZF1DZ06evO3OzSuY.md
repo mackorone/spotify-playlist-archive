@@ -4,14 +4,14 @@
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 13 min
+42 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2023-12-18 |  |
 | [All of Me](https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Piano Acoustic Covers Vol 1](https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb) | 3:53 | 2024-03-31 | 2024-07-19 |
 | [Beat Of My Drum](https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:16 | 2023-12-18 |  |
-| [Bottle You Up](https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:38 | 2023-12-18 |  |
+| [Bottle You Up](https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:38 | 2023-12-18 | 2025-05-07 |
 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 | 2023-12-18 |  |
 | [Come Alive](https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Daniel Everidge](https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:45 | 2023-12-19 |  |
 | [Contagious Love](https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 2:15 | 2023-12-18 | 2024-08-09 |
@@ -27,6 +27,7 @@
 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 | 2023-12-18 |  |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2023-12-18 |  |
 | [Keep It Undercover \- Theme Song From "K.C\. Undercover"](https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Keep It Undercover \(Theme Song From "K.C\. Undercover"\)](https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W) | 2:36 | 2023-12-18 |  |
+| [Love You Forever](https://open.spotify.com/track/0UbcXC57FheCP33LbwZpd5) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 4:07 | 2025-05-07 |  |
 | [Made In Japan](https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: Made In Japan \(Original Soundtrack\)](https://open.spotify.com/album/5TUn50U2OFVerctibxueCs) | 2:56 | 2023-12-18 |  |
 | [My Baby](https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:07 | 2023-12-18 |  |
 | [My Jam](https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [To Live For](https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5) | 3:50 | 2023-12-18 |  |

@@ -1,29 +1,13 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1555,
+  "num_followers": 1556,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAADXMBefUpEOCKVq89q5Lv9p",
+  "snapshot_id": "aBf/gAAAAAC9Adje85lfeBtloY4H4Ve9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "ricochet",
-        "url": "https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "ricochet",
-      "url": "https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "are we in love yet?",
-        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
+        "name": "ricochet",
+        "url": "https://open.spotify.com/album/0j1LBrdQ3rD8z0xtTdny71"
       },
       "artists": [
         {
@@ -68,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 177193,
-      "name": "are we in love yet?",
-      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
+      "duration_ms": 187029,
+      "name": "ricochet",
+      "url": "https://open.spotify.com/track/3AEUeL7mrkKR2g7Sv6YiZp"
     },
     {
       "added_at": null,
@@ -119,6 +103,22 @@
       "duration_ms": 186360,
       "name": "Planet",
       "url": "https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ricochet",
+        "url": "https://open.spotify.com/album/0j1LBrdQ3rD8z0xtTdny71"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 177193,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/3tcuBHoAWK4Z5n0D44j3ct"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+        "name": "I'm Alright If You're Ok",
+        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+      "duration_ms": 171938,
+      "name": "I Can't Be Your Friend",
+      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Alright If You're Ok",
-        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 171938,
-      "name": "I Can't Be Your Friend",
-      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
     },
     {
       "added_at": null,

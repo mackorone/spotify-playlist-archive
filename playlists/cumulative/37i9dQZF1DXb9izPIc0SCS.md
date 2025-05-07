@@ -2,7 +2,7 @@
 
 ### [Indie Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DXb9izPIc0SCS)
 
-> True indie rock hits\. Cover: Phoebe Bridgers
+> True indie rock hits.
 
 175 songs - 10 hr 10 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Rifle Club",
-  "num_followers": 455140,
+  "num_followers": 455405,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA8zvgAAAAA3Dnq9xSUPpFSb0FTkO4z1",
+  "snapshot_id": "aBmnXgAAAACxmDJi5HEXyl4lA5DzNLX0",
   "tracks": [
     {
       "added_at": "2025-03-12 10:30:31",
@@ -119,6 +119,26 @@
       "duration_ms": 182867,
       "name": "Killer On The Loose",
       "url": "https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK"
+    },
+    {
+      "added_at": "2025-05-06 06:08:30",
+      "album": {
+        "name": "Munthirichar",
+        "url": "https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "Munthirichar",
+      "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
     },
     {
       "added_at": "2025-02-24 05:11:09",
@@ -447,22 +467,6 @@
       "duration_ms": 225865,
       "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
       "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
-    },
-    {
-      "added_at": "2025-01-23 10:25:18",
-      "album": {
-        "name": "Marco (Original Background Score)",
-        "url": "https://open.spotify.com/album/6ooCiOMZNnbH80BpqsOdEq"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 79250,
-      "name": "Tony's Mayhem",
-      "url": "https://open.spotify.com/track/3XT6lmQS1lfG9MO6dl3A2q"
     },
     {
       "added_at": "2024-09-30 04:59:54",

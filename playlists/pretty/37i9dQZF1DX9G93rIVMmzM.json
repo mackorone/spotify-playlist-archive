@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 335520,
+  "num_followers": 335645,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-04-28 15:41:44",
       "album": {
-        "name": "Chokehold",
-        "url": "https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 304023,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
-    },
-    {
-      "added_at": "2025-04-28 15:41:44",
-      "album": {
         "name": "Far Removed",
         "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 231424,
       "name": "Nervous Habits",
       "url": "https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n"
+    },
+    {
+      "added_at": "2025-04-28 15:41:44",
+      "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
     },
     {
       "added_at": "2025-04-28 15:41:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-04-28 15:41:44",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
-    },
-    {
-      "added_at": "2025-04-28 15:41:44",
-      "album": {
         "name": "Holy Touch",
         "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 224395,
       "name": "Holy Touch",
       "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
+    },
+    {
+      "added_at": "2025-04-28 15:41:44",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2025-04-28 15:41:44",

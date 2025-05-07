@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 234520,
       "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
       "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "\u6211\u6b66\u8005\u7f85",
+      "url": "https://open.spotify.com/track/1CXOv9wefRErGts84IhrUS"
+    },
+    {
+      "album": {
         "name": "\u6211\u6b66\u8005\u7f85",
         "url": "https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn"
       },
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 236626,
       "name": "\u6211\u6b66\u8005\u7f85",
       "url": "https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ed Sheeran, Flume, Selena Gomez, Bailey Zimmerman & Luke Combs, Doja Cat + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,478 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,499 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 41 | [Burna](https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Burna](https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW) | 2:33 |
 | 42 | [King Pumpkin](https://open.spotify.com/track/2tN1fgBw6NvJgyd50ZC7f0) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [King Pumpkin](https://open.spotify.com/album/1F2yD3qXr3YKv6epyVsUVN) | 3:27 |
 | 43 | [Block Party](https://open.spotify.com/track/7hyYBmS8LeIhXjMhzHG4Ar) | [Shapeshifter](https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf) | [Block Party](https://open.spotify.com/album/5FfL0kreP6wtkZrUruTCbn) | 3:12 |
-| 44 | [Poison Ivy](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Poison Ivy](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
+| 44 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
 | 45 | [SOS](https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [SOS](https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b) | 3:04 |
 | 46 | [He Piko He Tuna](https://open.spotify.com/track/1IkB4DYsMAlxxdmZLGlBVE) | [IA](https://open.spotify.com/artist/0lOJphTNZDTSLVf7UNu2n0), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [He Piko He Tuna](https://open.spotify.com/album/3fOg9UWmdNiry4NO0aLas3) | 3:30 |
 | 47 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 |

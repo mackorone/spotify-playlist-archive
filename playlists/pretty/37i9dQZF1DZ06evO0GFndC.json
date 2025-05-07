@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 59576,
+  "num_followers": 59590,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAAAo470citcFNcID4SW26tJJ",
+  "snapshot_id": "aBf/gAAAAAARMfnISFegki5QurkxkMbO",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En la Ciudad",
-        "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
       "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 186589,
-      "name": "En la Ciudad",
-      "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
+      "duration_ms": 203293,
+      "name": "Fuga Pa' Cali - En Vivo",
+      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+        "name": "En la Ciudad",
+        "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
       },
       "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 203293,
-      "name": "Fuga Pa' Cali - En Vivo",
-      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
+      "duration_ms": 186589,
+      "name": "En la Ciudad",
+      "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
     },
     {
       "added_at": null,
@@ -287,42 +287,6 @@
       "duration_ms": 235968,
       "name": "La Calabaza",
       "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 197674,
-      "name": "El Challenger Negro",
-      "url": "https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr"
     },
     {
       "added_at": null,
@@ -347,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
@@ -356,9 +320,29 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
+      "duration_ms": 197674,
+      "name": "El Challenger Negro",
+      "url": "https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h"
     },
     {
       "added_at": null,
@@ -375,22 +359,6 @@
       "duration_ms": 187066,
       "name": "Criminales de Verdad - En Vivo",
       "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 183936,
-      "name": "El Pop",
-      "url": "https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El"
     },
     {
       "added_at": null,
@@ -415,22 +383,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Me Estoy Comiendo La Ciudad (En Vivo)",
-        "url": "https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 234922,
-      "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
-      "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"
+      "duration_ms": 183936,
+      "name": "El Pop",
+      "url": "https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
     },
     {
       "added_at": null,
@@ -455,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "Mejor Sin Ti",
-      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -491,8 +455,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+        "name": "Hoy Me Estoy Comiendo La Ciudad (En Vivo)",
+        "url": "https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 234922,
+      "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
+      "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 162903,
-      "name": "El Se\u00f1or de la a 2",
-      "url": "https://open.spotify.com/track/1qRSFUbzlyL72x1cVAV47i"
+      "duration_ms": 205717,
+      "name": "Mejor Sin Ti",
+      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 236472,
       "name": "Revelaciones de un Cholo",
       "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 162903,
+      "name": "El Se\u00f1or de la a 2",
+      "url": "https://open.spotify.com/track/1qRSFUbzlyL72x1cVAV47i"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas Mentales",
-        "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 194000,
       "name": "Tras las Rejas",
       "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Los Paquetes",
-        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
-      },
-      "artists": [
-        {
-          "name": "Los De La 9",
-          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 122212,
-      "name": "El Rey de Los Paquetes",
-      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -723,54 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+        "name": "El Rey De Los Paquetes",
+        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
-      },
-      "artists": [
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+          "name": "Los De La 9",
+          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
         },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 219301,
-      "name": "Mi C\u00edrculo Vicioso",
-      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+      "duration_ms": 122212,
+      "name": "El Rey de Los Paquetes",
+      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
     },
     {
       "added_at": null,
@@ -795,6 +743,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kilos De Oro",
         "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
       },
@@ -815,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "Mi C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
         },
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Alucinado",
-      "url": "https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo"
+      "duration_ms": 219301,
+      "name": "Mi C\u00edrculo Vicioso",
+      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 190544,
       "name": "Porte Fino - En Vivo",
       "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo"
     },
     {
       "added_at": null,

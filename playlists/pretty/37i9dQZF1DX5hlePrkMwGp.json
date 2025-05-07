@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 160158,
+  "num_followers": 160220,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Thangamagan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Enna Solla - The New Life of Tamizh",
-      "url": "https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 205946,
       "name": "Kannazhaga - The Kiss of Love",
       "url": "https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Thangamagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Enna Solla - The New Life of Tamizh",
+      "url": "https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -584,8 +584,8 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Pragathi",
-          "url": "https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa"
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
         },
         {
           "name": "Madhan Karky",
@@ -787,6 +787,26 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Engadi Porandha",
+      "url": "https://open.spotify.com/track/5RP7NIFbpQHqPLTe5dpxet"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 223746,
       "name": "Po Nee Po - Remix - The Scream of Love",
       "url": "https://open.spotify.com/track/4tC9EKLTfmLEryGR2f7Wjc"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Andrea Jeremiah",
-          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Engadi Porandha",
-      "url": "https://open.spotify.com/track/5RP7NIFbpQHqPLTe5dpxet"
     },
     {
       "added_at": "2024-06-27 03:52:29",

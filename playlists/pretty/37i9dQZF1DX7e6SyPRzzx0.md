@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Ken Carson
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,377 likes - 65 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,548 likes - 65 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

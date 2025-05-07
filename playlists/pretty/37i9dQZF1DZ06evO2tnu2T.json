@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 43,
+  "num_followers": 45,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aA1zgAAAAACwLtWvgGmduYPNMh2ewE1C",
+  "snapshot_id": "aBf/gAAAAAAcBN3MnXC0pdr+qgMVfTiT",
   "tracks": [
     {
       "added_at": null,
@@ -180,22 +180,6 @@
       "added_at": null,
       "album": {
         "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
+      "duration_ms": 174973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx"
     },
     {
       "added_at": null,
@@ -236,9 +220,25 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx"
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
     }
   ],
   "unique_name": "This Is Absolutely",

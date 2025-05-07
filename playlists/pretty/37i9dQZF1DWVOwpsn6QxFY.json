@@ -1,6 +1,6 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 155307,
+  "num_followers": 155349,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -247,22 +231,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "If Only I Could Wait b/w Walk Home",
-        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        },
-        {
-          "name": "Danielle Haim",
-          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 202003,
-      "name": "If Only I Could Wait",
-      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -295,6 +275,26 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Running/Planning",
-        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Running/Planning",
-      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Running/Planning",
+        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Running/Planning",
+      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 235972,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 235972,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx"
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -607,18 +623,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+        "name": "Lovers Only",
+        "url": "https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS"
+      "duration_ms": 219099,
+      "name": "Lovers Only",
+      "url": "https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -659,22 +675,6 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
-        "name": "Lovers Only",
-        "url": "https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Lovers Only",
-      "url": "https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "300 dreams",
-        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "300 dreams",
-      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Dumb Feeling",
         "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 190264,
       "name": "Dumb Feeling",
       "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "300 dreams",
+        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "300 dreams",
+      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "EARTHBREAKS",
-        "url": "https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs"
+        "name": "One More Thing",
+        "url": "https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB"
       },
       "artists": [
         {
-          "name": "The South Hill Experiment",
-          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Maybe it Takes Time",
-      "url": "https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE"
+      "duration_ms": 191167,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "One More Thing",
-        "url": "https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB"
+        "name": "EARTHBREAKS",
+        "url": "https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs"
       },
       "artists": [
         {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
         }
       ],
-      "duration_ms": 191167,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA"
+      "duration_ms": 185200,
+      "name": "Maybe it Takes Time",
+      "url": "https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "LIE DOWN..",
-        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 309381,
-      "name": "LIE DOWN..",
-      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Lagos Paris London",
         "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Moneyball",
-        "url": "https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi"
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU"
       },
       "artists": [
         {
-          "name": "Dutch Interior",
-          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 261306,
-      "name": "Wood Knot",
-      "url": "https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t"
+      "duration_ms": 221613,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1299,34 +1299,34 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU"
+        "name": "Moneyball",
+        "url": "https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB"
+      "duration_ms": 261306,
+      "name": "Wood Knot",
+      "url": "https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t"
     },
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Canvas / Everyone's a Bullet",
-        "url": "https://open.spotify.com/album/3rpNCNeN5ZJtq6U7eJBhfB"
+        "name": "Hold In, Hold On",
+        "url": "https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
         }
       ],
-      "duration_ms": 189287,
-      "name": "Canvas",
-      "url": "https://open.spotify.com/track/65FNc5YdqRdPofCeaNIthm"
+      "duration_ms": 159666,
+      "name": "Hold In, Hold On",
+      "url": "https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R"
     }
   ],
   "unique_name": "Garden Indie",

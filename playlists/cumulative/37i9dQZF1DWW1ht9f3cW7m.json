@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/5GshgWDxIaD1GhL23EPIxz"
+      },
+      "artists": [
+        {
+          "name": "nickname jos",
+          "url": "https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/2IjG4DhRZ2eOkScfJn7hcm"
+    },
+    {
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz"
       },
@@ -3472,7 +3490,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-07",
       "duration_ms": 205442,
       "name": "Stay For Good",
       "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"

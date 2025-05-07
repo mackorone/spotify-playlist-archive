@@ -1,6 +1,6 @@
 {
   "description": "ZULAN with the debut of the year??",
-  "num_followers": 842598,
+  "num_followers": 842619,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -809,7 +809,7 @@
         },
         {
           "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+          "url": "https://open.spotify.com/artist/5MSILmANslIYw4gMOmnxe0"
         },
         {
           "name": "Varg\u00b2\u2122",
@@ -943,8 +943,8 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "One Of These Mornings",
-        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         }
       ],
-      "duration_ms": 191428,
-      "name": "One Of These Mornings",
-      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Sweet Memories",
-        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+        "name": "One Of These Mornings",
+        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         }
       ],
-      "duration_ms": 235688,
-      "name": "Sweet Memories",
-      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+      "duration_ms": 191428,
+      "name": "One Of These Mornings",
+      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1275,6 +1275,42 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
         "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
         "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
@@ -1319,62 +1355,6 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Counting (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
-        "name": "It Doesn't Matter",
-        "url": "https://open.spotify.com/album/6xqZLy9Gwo1sBXvnhUNxhc"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "It Doesn't Matter",
-      "url": "https://open.spotify.com/track/0y9TOTfCp3N5tW4cv6uzbe"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
         "name": "Lights Go Out",
         "url": "https://open.spotify.com/album/4JGhjPX4l9K4ituHcqNViT"
       },
@@ -1415,26 +1395,22 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "CHROMA 002",
-        "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
+        "name": "It Doesn't Matter",
+        "url": "https://open.spotify.com/album/6xqZLy9Gwo1sBXvnhUNxhc"
       },
       "artists": [
         {
-          "name": "B.D.B",
-          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Benjamin Damage",
-          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
         }
       ],
-      "duration_ms": 249894,
-      "name": "CHROMA 002 L.A.V.A",
-      "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
+      "duration_ms": 176000,
+      "name": "It Doesn't Matter",
+      "url": "https://open.spotify.com/track/0y9TOTfCp3N5tW4cv6uzbe"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1459,18 +1435,26 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
+        "name": "CHROMA 002",
+        "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
         }
       ],
-      "duration_ms": 146865,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
+      "duration_ms": 249894,
+      "name": "CHROMA 002 L.A.V.A",
+      "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1487,6 +1471,22 @@
       "duration_ms": 137842,
       "name": "take it slow",
       "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
+        "name": "make the move",
+        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
+      "duration_ms": 171706,
+      "name": "make the move",
+      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1547,22 +1551,18 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "make the move",
-        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
       },
       "artists": [
         {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        },
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
         }
       ],
-      "duration_ms": 171706,
-      "name": "make the move",
-      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
+      "duration_ms": 198857,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "KROY",
-          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
         "name": "scs",
         "url": "https://open.spotify.com/album/7xr6VZrLvdYoqaigAxUAYx"
       },
@@ -1795,18 +1775,22 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "HIGHERTHANUUU",
-        "url": "https://open.spotify.com/album/2GuToJrRpgRKgzGnKcCtVw"
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
         }
       ],
-      "duration_ms": 166718,
-      "name": "HIGHERTHANUUU",
-      "url": "https://open.spotify.com/track/3vF53yUs2rYnTcXf6jNtD1"
+      "duration_ms": 195000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1835,26 +1819,18 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3EcraYifDxMHAoqpgaweft"
+        "name": "HIGHERTHANUUU",
+        "url": "https://open.spotify.com/album/2GuToJrRpgRKgzGnKcCtVw"
       },
       "artists": [
         {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
-          "name": "SOLAH",
-          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 274385,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/649plSemKxHAB23tlsxlMd"
+      "duration_ms": 166718,
+      "name": "HIGHERTHANUUU",
+      "url": "https://open.spotify.com/track/3vF53yUs2rYnTcXf6jNtD1"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1883,22 +1859,18 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
         }
       ],
-      "duration_ms": 220124,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -1927,6 +1899,50 @@
     {
       "added_at": "2025-05-01 22:00:15",
       "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 220124,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3EcraYifDxMHAoqpgaweft"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "duration_ms": 274385,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/649plSemKxHAB23tlsxlMd"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
         "name": "you'll come back (Reworks)",
         "url": "https://open.spotify.com/album/2leGrExJmskyh55qJM3bGW"
       },
@@ -1943,42 +1959,6 @@
       "duration_ms": 166153,
       "name": "you'll come back (JEV Version)",
       "url": "https://open.spotify.com/track/5BV7SxVEUNd0NlKzoAZrfb"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
-    },
-    {
-      "added_at": "2025-05-01 22:00:15",
-      "album": {
-        "name": "The Days (Rudimental Remix)",
-        "url": "https://open.spotify.com/album/50o5ubs0Y2lBPMQiG7RxII"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "The Days - Rudimental Remix",
-      "url": "https://open.spotify.com/track/2LrwQcjuavA44Es0mQtT2o"
     },
     {
       "added_at": "2025-05-01 22:00:15",
@@ -2011,6 +1991,26 @@
       "duration_ms": 251304,
       "name": "Arachnids",
       "url": "https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu"
+    },
+    {
+      "added_at": "2025-05-01 22:00:15",
+      "album": {
+        "name": "The Days (Rudimental Remix)",
+        "url": "https://open.spotify.com/album/50o5ubs0Y2lBPMQiG7RxII"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "The Days - Rudimental Remix",
+      "url": "https://open.spotify.com/track/2LrwQcjuavA44Es0mQtT2o"
     },
     {
       "added_at": "2025-05-01 22:00:15",

@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Anubha Bajaj
+> Listen to women at full volume\. Cover \- Dhvani Bhanushali
 
-512 songs - 1 day 7 hr 2 min
+513 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Dhunki](https://open.spotify.com/track/3Kd0dzfRnf5DOExPHMdDt3) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Mere Brother Ki Dulhan](https://open.spotify.com/album/6NoosYEOmTm4PNXtDnIktN) | 4:17 | 2025-03-05 | 2025-04-03 |
 | [Dil Dushman \(Female Version\)](https://open.spotify.com/track/7EKeYGkUxLQjukz1Tvv5C4) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 3:00 | 2023-09-26 | 2023-09-27 |
 | [Dil Dushman \(Female Vocals\)](https://open.spotify.com/track/0IgbyCjIISzdIvzCN3tvsd) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 3:00 | 2023-09-26 | 2023-10-28 |
+| [Dil E Mareez](https://open.spotify.com/track/1qQyNekAfN23RWcTGRVHXB) | [Nargis Teji](https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh), [Seepi Jha](https://open.spotify.com/artist/3LmV3Qru54ddLrg45CVhJ3) | [Dil E Mareez](https://open.spotify.com/album/6Q6xz2HqR7SYDmddJRESDp) | 2:45 | 2025-05-06 |  |
 | [Dil Khanjar](https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Sunayana Kachroo](https://open.spotify.com/artist/29UdvhODQC1KwziGG44sKL) | [Dil Khanjar](https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM) | 3:09 | 2023-06-21 | 2023-10-07 |
 | [Dil Ki Mez \(From "Merry Christmas"\)](https://open.spotify.com/track/4mmUGp8RH4WZ8wtjVJwSQi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Dil Ki Mez \(From "Merry Christmas"\)](https://open.spotify.com/album/3XuSvFfx2KeLhFsirvZ3at) | 3:37 | 2024-01-18 | 2024-01-30 |
 | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe) | 3:51 | 2022-02-01 | 2023-09-23 |
@@ -396,7 +397,7 @@
 | [Ratiyaan](https://open.spotify.com/track/0uuNPxggjzumpudPx8yBLD) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Ratiyaan](https://open.spotify.com/album/2OEMbjabRjOTxkcYHgiYXU) | 3:41 | 2024-06-07 | 2024-07-23 |
 | [Rehne Dena Tha](https://open.spotify.com/track/2dZLTQPMdPVqX2DD252AND) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rehne Dena Tha](https://open.spotify.com/album/2HkwDjkMnuVJ6SOgmj2SC0) | 3:25 | 2022-01-04 | 2022-02-02 |
 | [Rihaa Rihaa](https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:45 | 2023-06-20 | 2023-09-26 |
-| [Rooh \- From "Widow's Shadow"](https://open.spotify.com/track/1lEuLOrruNOg1y2sMWkJ7i) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Suman Adhikary](https://open.spotify.com/artist/4nNzFvZ02ebCwSFGoN7qa8) | [Rooh \(From "Widow's Shadow"\)](https://open.spotify.com/album/3lez8iXnnyZB0YiQOJny2x) | 4:54 | 2025-04-11 |  |
+| [Rooh \- From "Widow's Shadow"](https://open.spotify.com/track/1lEuLOrruNOg1y2sMWkJ7i) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Suman Adhikary](https://open.spotify.com/artist/4nNzFvZ02ebCwSFGoN7qa8) | [Rooh \(From "Widow's Shadow"\)](https://open.spotify.com/album/3lez8iXnnyZB0YiQOJny2x) | 4:54 | 2025-04-11 | 2025-05-07 |
 | [Roohdaari \- Reprise Version \- From "Fateh"](https://open.spotify.com/track/57ONTAOgxEb6907rmWdNBe) | [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rfqSDECAnJvFe0zGM36UW) | 3:37 | 2025-01-08 | 2025-01-29 |
 | [Roothe Piya](https://open.spotify.com/track/3MJ0aHDqkZfLNKGdSglEC4) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Roothe Piya](https://open.spotify.com/album/4TOZZUnG2OTRWhLeWHW8jh) | 2:17 | 2024-11-18 | 2025-04-15 |
 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 | 2024-07-19 | 2024-08-06 |

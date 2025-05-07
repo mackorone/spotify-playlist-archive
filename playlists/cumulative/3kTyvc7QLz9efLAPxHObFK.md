@@ -4,7 +4,7 @@
 
 > 
 
-2,214 songs - 4 day 20 hr 46 min
+2,218 songs - 4 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Bass Drop](https://open.spotify.com/track/3YyjBlDBtR3OCrmMnMsNNo) | [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM), [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Bass Drop](https://open.spotify.com/album/6GaQdhwjCFOt0IV8KiCXCj) | 2:51 | 2024-08-13 |  |
 | [Bass Drop \- Extended Mix](https://open.spotify.com/track/1p8FEmTX8QPXmVUGVs4ZK9) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Bass Drop](https://open.spotify.com/album/2Fs1bIKbO91EemirA1y9lk) | 3:14 | 2024-08-28 |  |
 | [Bass Droppin' \- Radio Edit](https://open.spotify.com/track/6Ec6HiEYMAemx60TRJLzux) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Bass Droppin'](https://open.spotify.com/album/0ZoiPuG29aBDCvC4sR73Bk) | 3:07 | 2024-04-01 |  |
+| [Bass In Your Face](https://open.spotify.com/track/0TLEmc9RuoguJAScHwjkb9) | [The Immortal](https://open.spotify.com/artist/2rY9GQe2hjmj75uzV77gGr) | [Ritual Of The Oni](https://open.spotify.com/album/6ITakB28sEaUIQYZZgWOw1) | 2:31 | 2025-05-06 |  |
 | [Bass Powah](https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Bass Powah](https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q) | 2:59 | 2025-02-13 |  |
 | [Bass Pump](https://open.spotify.com/track/6aeDVb0vZxBoVh6Fe6EZpK) | [Inpulsa](https://open.spotify.com/artist/3I15MHvYprvenj5oR3WHWM) | [Bass Pump](https://open.spotify.com/album/4eWcogbJRGvMr6zFkb6JpK) | 2:15 | 2024-08-28 |  |
 | [BASS PUSH](https://open.spotify.com/track/3Y52INxzpm6pbzfKrfrY3Z) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [BASS PUSH](https://open.spotify.com/album/5hZ5nzc5OV53FVmbp4KOaO) | 2:22 | 2024-04-01 |  |
@@ -1066,6 +1067,7 @@
 | [Just Pretend](https://open.spotify.com/track/15nZMHZYSpIXPuVUkNi5vS) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Just Pretend](https://open.spotify.com/album/3EZ6fYTm5UfMnIhxZXg08M) | 3:28 | 2025-02-13 |  |
 | [JÄGERMEISTER \- 300 dB Edit](https://open.spotify.com/track/43vVYiRe3jl7z9BmD1TQON) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [JÄGERMEISTER \(300 dB Edit\)](https://open.spotify.com/album/4qR0vbodb3F5GaDJEoQT9F) | 2:23 | 2024-12-28 |  |
 | [Kajiva](https://open.spotify.com/track/3vTKbCuIRd1QIISHPdHDSz) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Kajiva](https://open.spotify.com/album/26MR8jMS8aRViwsuOr23Lr) | 3:46 | 2024-03-29 |  |
+| [KALE KOPPE](https://open.spotify.com/track/55j8e22tYUmzcS1irWm9d0) | [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b) | [KALE KOPPE](https://open.spotify.com/album/5MzVZSliKCNMRam8pwIzzO) | 1:53 | 2025-05-06 |  |
 | [Kalika](https://open.spotify.com/track/1hYAZUnTmKyAqzZaivjlB8) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Aksys](https://open.spotify.com/artist/2WkAW4OVlB8a8Lg7Ih0vlq) | [Various Artists 02](https://open.spotify.com/album/4m7nL9bkk7drsHbBbnoGsb) | 4:51 | 2023-04-21 |  |
 | [Kamikaze](https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Kamikaze](https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao) | 4:06 | 2025-04-25 |  |
 | [KCKPRN](https://open.spotify.com/track/7FrV6yX49s94lvvM0Biysg) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [KCKPRN](https://open.spotify.com/album/5R2UErVCGjqlKTcMKHzUu0) | 2:13 | 2024-02-26 |  |
@@ -1750,6 +1752,7 @@
 | [SM4$H THE SPE4K3R$!](https://open.spotify.com/track/40cAoYoVynr9X4HWriAVhd) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 2:40 | 2023-04-16 |  |
 | [Smack Sh!t Up](https://open.spotify.com/track/082O1o3IH3Rm4v6RSnvfyg) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Agents Of Chaos Pt\. 2](https://open.spotify.com/album/2pd0CcDOplaxQJQWAAgO8n) | 3:14 | 2022-11-21 |  |
 | [Smash It](https://open.spotify.com/track/21Eda4kIGkeGk9OiaKRf2t) | [Masters of Noise](https://open.spotify.com/artist/3HW4LeFRGOqMM9nqkoHXrK), [Rough Republic](https://open.spotify.com/artist/4vz9WcbVsduwLpkTW7vUz6) | [Smash It](https://open.spotify.com/album/2Wwcm8U5H7vcObuvLuOd29) | 3:15 | 2025-03-31 |  |
+| [Smash!](https://open.spotify.com/track/3p2kipfMbs2D4758dPAGRq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/4pH7yONPimU85qwYfcif3x) | 2:26 | 2025-05-06 |  |
 | [SMD](https://open.spotify.com/track/4CnzfFs5sXP29kE0Ubhuhc) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [SMD](https://open.spotify.com/album/2BLwHyMCaIeIqe8t7KTgiA) | 2:30 | 2023-11-23 |  |
 | [Snake Beat](https://open.spotify.com/track/5KdCn6j5N6khC29Lms7jul) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx) | [Snake Beat](https://open.spotify.com/album/08mqkrQSeYAXcEkHsEA9mF) | 3:48 | 2024-10-11 |  |
 | [Snake Pit](https://open.spotify.com/track/5GQRu63MroIMnM7DPH75Mi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:18 | 2024-05-13 |  |
@@ -2152,6 +2155,7 @@
 | [When We Touch](https://open.spotify.com/track/3ZiC8gNSyUoeAnWSUZTdfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [When We Touch](https://open.spotify.com/album/6ciEZDPFWW3jpfhYMDZiYP) | 2:44 | 2024-06-08 |  |
 | [Where Are You Now](https://open.spotify.com/track/17IuTreHYL2dO45iyDYBHz) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [RESTART](https://open.spotify.com/album/3pVR0e42m8mSVCrnQf3xDm) | 4:48 | 2022-02-14 |  |
 | [WHERE DID YOU GO](https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [WHERE DID YOU GO](https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq) | 3:24 | 2024-07-26 |  |
+| [where do we go now](https://open.spotify.com/track/63G5gD4ckQgYkuoYbs2Vhh) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Caelum](https://open.spotify.com/artist/4rurguPt7zC7a60LfcPDUM) | [where do we go now](https://open.spotify.com/album/08XG2ZazUG9j5ENmpYT5K7) | 3:38 | 2025-05-06 |  |
 | [Where Have You Been](https://open.spotify.com/track/0Rv6Qk5lM1krVa8vWyrATj) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Where Have You Been](https://open.spotify.com/album/0NvoBoFDZ7VRxQIQaCfRj4) | 2:29 | 2023-07-08 |  |
 | [Where You Are](https://open.spotify.com/track/06Yf025HcamIWrj3nQUkJH) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [Where You Are](https://open.spotify.com/album/0QKnMr5NP6ChQF7sDgNpnL) | 2:32 | 2023-03-01 |  |
 | [Where's Your Head At](https://open.spotify.com/track/2F4tw9vSMkTw9PKsJ9j3OA) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [KATALYZE](https://open.spotify.com/artist/0tqm177gEuN2Sc19zSEBL7), [DV8](https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf) | [Where's Your Head At](https://open.spotify.com/album/3g9ueDqVBWyx4THNA4gHFv) | 3:24 | 2023-06-09 |  |

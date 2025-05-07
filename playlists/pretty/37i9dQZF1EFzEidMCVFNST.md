@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 203 | [Vai Ficar Querendo \- Ao Vivo](https://open.spotify.com/track/1Czzl3iZKBXsoMkmzgwgUH) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Em Casa \(Ao Vivo\)](https://open.spotify.com/album/08jsdsgKcFOMUtrgE8Scv1) | 3:02 |
 | 204 | [Amor Perfeito Não Existe \- Acústico](https://open.spotify.com/track/1ART2CVdmUy5BWSNzopOWV) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe \(Acústico\)](https://open.spotify.com/album/00nRVr1mExO6cR3Ropafe2) | 3:06 |
 | 205 | [Falta de Mim](https://open.spotify.com/track/3874QV0KoY54WP9ZoRUKnO) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/1a4wzlVLvxqkEHarpaG8M6) | 2:28 |
-| 206 | [Petit Gateau](https://open.spotify.com/track/09LLQGqjb3JXjG3WTcPiIM) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:57 |
-| 207 | [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 |
+| 206 | [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 |
+| 207 | [Petit Gateau](https://open.spotify.com/track/09LLQGqjb3JXjG3WTcPiIM) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:57 |
 | 208 | [Papai Não Aguenta \- Ao Vivo](https://open.spotify.com/track/0eZn0seley7ZW7NgIxTzHW) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd) | [7550 Dias \(Ao Vivo no Rio de Janeiro, 2021\)](https://open.spotify.com/album/5TGrxqTiBPd02GE0OYoi3c) | 2:27 |
 | 209 | [Palmas Pro Meu Ex \- Ao Vivo](https://open.spotify.com/track/60QH6ANPFOfkk7IokOjjig) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:51 |
 | 210 | [Xeque Mate](https://open.spotify.com/track/2Fmdo91LokRQXBHQ7EvkAa) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Xeque Mate](https://open.spotify.com/album/3BHE5VHhmN7lChLML5hJ91) | 2:18 |
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 369 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 | 370 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbwodQAAAAB9FZcFja/2oQsPkeP+j4Jn`
+Snapshot ID: `AbwuFAAAAAB5GPi+9U3gJoxY+QGS2y3G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > Using one of the largest archives in the world at Universal Music Group, we have gone through tens of thousands of tracks to curate a playlist of the best dance music\. Find classics, rarities and undiscovered gems from artists that shaped the scene as we know it\. RE:VERSAL \- roots in the past, fruit
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 11 likes - 87 songs - 10 hr 3 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 13 likes - 87 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

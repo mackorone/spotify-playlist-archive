@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-357 songs - 21 hr 0 min
+358 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [By Christmas Day](https://open.spotify.com/track/6TAHH756Svb7OuUD50erUo) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:49 | 2024-07-29 | 2025-04-24 |
 | [Carol of the Bells](https://open.spotify.com/track/2SK6i0VNGDwlDkUIoNUNx1) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:22 | 2024-07-29 |  |
 | [Carol of the Bells / Sing We Now of Christmas](https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [Home for Christmas](https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td) | 4:00 | 2021-12-24 |  |
+| [Celebrate](https://open.spotify.com/track/65f9wNMjXKBxPMHGsphncH) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Tds Cam](https://open.spotify.com/artist/5q4hnN0uz6odNPqIs40XbT) | [Celebrate](https://open.spotify.com/album/0cP3oGKO9Y6dbOommCxJFD) | 2:19 | 2024-12-13 |  |
 | [Christmas '24](https://open.spotify.com/track/7HCjziuytGlAhUGgg49dSH) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS), [chandler in space](https://open.spotify.com/artist/5jpKsn00STUBE2g1IBjVG6) | [Christmas '24](https://open.spotify.com/album/7foeVzrtz85zL7RgeuuMRg) | 2:24 | 2024-12-13 |  |
 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 | 2022-12-11 |  |
 | [Christmas C’mon](https://open.spotify.com/track/60fWsdGYfKDNkNitrk1DIW) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 3:49 | 2021-12-24 |  |
@@ -80,7 +81,7 @@
 | [Fa La La \(In Love\)](https://open.spotify.com/track/6FdWQjb6bvm8ni4sYStq8Q) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Fa La La \(In Love\)](https://open.spotify.com/album/2NvxseQR66HhC45eZHOQBa) | 3:00 | 2023-11-03 |  |
 | [Falalala Falling](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Falalala Falling](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 | 2023-11-27 |  |
 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 | 2021-12-24 |  |
-| [Fall In Love With Christmas Again](https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kennedy + Jay](https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay) | [Fall In Love With Christmas Again](https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB) | 3:39 | 2024-07-29 |  |
+| [Fall In Love With Christmas Again](https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kennedy + Jay](https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay) | [Fall In Love With Christmas Again](https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB) | 3:39 | 2024-07-29 | 2025-05-07 |
 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 | 2021-12-24 | 2024-07-30 |
 | [Feel the Joy](https://open.spotify.com/track/2zpKh2EX5fw0XRfwk0FELr) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Feel the Joy](https://open.spotify.com/album/7MnXgA9yuAEPkAuELWgLnT) | 2:38 | 2023-12-15 | 2024-07-30 |
 | [Feeling Like Christmas](https://open.spotify.com/track/1e7LS0PWP7talj49ML8Q8i) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Feeling Like Christmas](https://open.spotify.com/album/3QZHJ8B1nZBgJHOGMdU9RE) | 4:34 | 2022-12-11 | 2024-03-16 |

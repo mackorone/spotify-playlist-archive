@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,140 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,148 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 | 2 | [Vibe](https://open.spotify.com/track/6XTGnaDPuWsHeQ2vVe69vk) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [Vibe](https://open.spotify.com/album/4LajkVNcLNkyN4BfAsQNyE) | 1:59 |
 | 3 | [The One \(From "Retro"\)](https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3) | [The One \(From "Retro"\)](https://open.spotify.com/album/4DrXmo88SfZ2gV8tBFvsTu) | 3:59 |
 | 4 | [Certified Self Made](https://open.spotify.com/track/7ggjfTXTEwRWBMsoSyDFFy) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Certified Self Made](https://open.spotify.com/album/4Nh6QrBjcTCzkHyzhzq2Ro) | 2:41 |
-| 5 | [Irunga Bhai \- Remix](https://open.spotify.com/track/3dRCENAwGJqzOCn2vKUtxF) | [Rithick J](https://open.spotify.com/artist/5sNh00l51uyMWZgaCcflnq), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Irunga Bhai \(Remix\)](https://open.spotify.com/album/5oDtNpXdptB3nVS3G1uqHu) | 2:20 |
+| 5 | [Irunga Bhai \- Rithick J Remix](https://open.spotify.com/track/3dRCENAwGJqzOCn2vKUtxF) | [Rithick J](https://open.spotify.com/artist/5sNh00l51uyMWZgaCcflnq), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Irunga Bhai \(Remix\)](https://open.spotify.com/album/5oDtNpXdptB3nVS3G1uqHu) | 2:20 |
 | 6 | [Volume Vachi Kelu](https://open.spotify.com/track/5sjawV7i11W86TgV6kbQvq) | [Zy Scenez](https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik) | [Volume Vachi Kelu](https://open.spotify.com/album/07hP2XYvgsqzFGm5Mczwqc) | 3:57 |
 | 7 | [FORREAL](https://open.spotify.com/track/3oPnaQtyGBUAXddbS3VB6u) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [FORREAL](https://open.spotify.com/album/2P5TpRumi3AvoIAMten2NO) | 1:36 |
 | 8 | [Bosu](https://open.spotify.com/track/7FwHjQkA7QOEo7x1XWP39v) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [DANNY JIN](https://open.spotify.com/artist/6iFEDdWuZ5u1yivKaBB3Y8), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Bosu](https://open.spotify.com/album/6IVF2akmAW3qdUWf4kZ0m6) | 2:25 |

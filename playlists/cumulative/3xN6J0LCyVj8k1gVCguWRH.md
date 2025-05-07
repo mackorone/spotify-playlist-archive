@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,859 songs - 11 day 8 hr 22 min
+4,861 songs - 11 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2098,7 +2098,7 @@
 | [Im Not OK](https://open.spotify.com/track/7a4CcKYjJ9NW9pPtft1UPI) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Im Not OK](https://open.spotify.com/album/78CNgPCipSeh8KIUDFBQcw) | 3:25 | 2024-07-11 | 2024-07-23 |
 | [Im Pissed](https://open.spotify.com/track/2S9YhQT75DQ6zhe29U4BGH) | [Biddix](https://open.spotify.com/artist/0UGEuUhzpU9S47wQFgwYTP) | [Im Pissed](https://open.spotify.com/album/350jbX3QZXE2LKjUoB6Qty) | 3:12 | 2025-01-30 | 2025-02-11 |
 | [Im Still Here](https://open.spotify.com/track/6TDRCi7ozok7BgiL2y0AUI) | [Joel Holden](https://open.spotify.com/artist/3GfaEbEIiHBPWa3YpKQhbd) | [Im Still Here](https://open.spotify.com/album/2bWFOdFDapH3jmNoj9SWEd) | 3:48 | 2023-07-14 | 2023-08-02 |
-| [IMA GET YOU RIGHT](https://open.spotify.com/track/0TB6YyUBDP2VE99hY6NK1x) | [Joey Ocean](https://open.spotify.com/artist/4ijKtUkYpXHTNCPUWaXnQS), [GOOD MUSIC](https://open.spotify.com/artist/4VuWzJNGOlY4hzRDMYHwk2) | [IMA GET YOU RIGHT](https://open.spotify.com/album/50KfuOHSKhby7yWbPUhvwx) | 3:15 | 2025-04-25 |  |
+| [IMA GET YOU RIGHT](https://open.spotify.com/track/0TB6YyUBDP2VE99hY6NK1x) | [Joey Ocean](https://open.spotify.com/artist/4ijKtUkYpXHTNCPUWaXnQS), [GOOD MUSIC](https://open.spotify.com/artist/4VuWzJNGOlY4hzRDMYHwk2) | [IMA GET YOU RIGHT](https://open.spotify.com/album/50KfuOHSKhby7yWbPUhvwx) | 3:15 | 2025-04-25 | 2025-05-07 |
 | [Imaginary Palms](https://open.spotify.com/track/2VOZqahS75REorZBJtIT3S) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Imaginary Palms](https://open.spotify.com/album/4bR0Lsc8b7OVEZzO4oMwWb) | 3:00 | 2021-06-26 | 2021-07-11 |
 | [Immature](https://open.spotify.com/track/1PgSP2UhPAkta21Vtd0Xn2) | [Elena Levy](https://open.spotify.com/artist/7FSum8oVAZuV2YQVXYGds0) | [Immature](https://open.spotify.com/album/3lbOlVX4cgdiPtYWezarCF) | 3:47 | 2024-06-12 | 2024-06-24 |
 | [impeccable](https://open.spotify.com/track/6xcHmsBrwKupxJYNOTLEdS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Subrinse](https://open.spotify.com/artist/4fmZqhuaI241Eq65pqW1cZ), [Beshootin](https://open.spotify.com/artist/5KiBbeAEOGOpKcENAOt7LU) | [impeccable](https://open.spotify.com/album/5y84IiT1iA9hBtOxnUYuYp) | 3:08 | 2021-01-08 | 2021-01-23 |
@@ -2151,6 +2151,7 @@
 | [into the blackhole](https://open.spotify.com/track/62dIc92wJsmNNEiMYTmDjG) | [HOAX](https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh) | [into the blackhole](https://open.spotify.com/album/6LlKO61OUeroUHZIBxM5gu) | 3:17 | 2024-01-05 | 2024-01-23 |
 | [Into The Flames](https://open.spotify.com/track/5Kgtpti157zHU7bYZUKS2e) | [Kristy Chmura](https://open.spotify.com/artist/3l7JwmihcDqo1yccXUf5cl) | [Into The Flames](https://open.spotify.com/album/4Tr3oGNkmbpXrcZXAD0G1F) | 4:19 | 2025-03-29 | 2025-04-10 |
 | [Into the Heart](https://open.spotify.com/track/189mmnEksomXk86AvZ8kwk) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Into the Heart](https://open.spotify.com/album/2SAqHunL22wnXnwEIKmF8L) | 4:41 | 2021-02-06 | 2021-02-16 |
+| [Into the Sun](https://open.spotify.com/track/5UB8QzMC1sdyIumZPPC5xF) | [Phony Bedtime](https://open.spotify.com/artist/3nWUmcAlYlZicvf5HovsyI) | [Into the Sun](https://open.spotify.com/album/6AqqPo5X6qlDed1yiVeCuJ) | 4:06 | 2025-05-06 |  |
 | [Into The Wild](https://open.spotify.com/track/7mnuBuSAUe1UUErw1dTgrM) | [Ken Norton](https://open.spotify.com/artist/36UPwl8VFSHwng6c2ysgDS) | [Into The Wild](https://open.spotify.com/album/7E4xarHovJ7zjVBrlyMJLu) | 2:17 | 2021-12-10 | 2021-12-27 |
 | [INTOXICATED](https://open.spotify.com/track/75tQhhigB2RmUfn3oPhkOI) | [DosiRo](https://open.spotify.com/artist/78Y3oUHXPqMiKsIB4RgePP) | [INTOXICATED](https://open.spotify.com/album/1pZu75gXgMI4nwbMYoHZoj) | 2:43 | 2024-03-10 | 2024-03-18 |
 | [Intuition](https://open.spotify.com/track/4laRXYXMuAsRmSzFFtSf7n) | [R E L](https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D) | [Intuition](https://open.spotify.com/album/3cB9HMKRix6RXelhkfiLMO) | 3:21 | 2024-02-04 | 2024-02-16 |
@@ -4291,7 +4292,7 @@
 | [Time for me](https://open.spotify.com/track/3jqdqKeFApBhchK3L76e9i) | [Turestrl](https://open.spotify.com/artist/3mepMVgbkl0Q2TMmvVweXz) | [Time for me](https://open.spotify.com/album/27lgGQowropzot54kCNBBi) | 2:41 | 2023-12-15 | 2024-01-02 |
 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-11-05 | 2021-11-21 |
 | [Time Goes By](https://open.spotify.com/track/1KFPSpqW4FY8CymMg5vdri) | [Vince O'Brien](https://open.spotify.com/artist/2k54BvTF6w4iIk3Iia0KJ2) | [Time Goes By](https://open.spotify.com/album/6oJi9ttaZV1L6c79KgQsKs) | 3:46 | 2024-02-29 | 2024-03-08 |
-| [Time in a bottle](https://open.spotify.com/track/0EcYj6v2KYSqXyF9KeOVXT) | [François Poitou](https://open.spotify.com/artist/7cCqzc4QhvUENcxMYxLZkh) | [Time in a bottle](https://open.spotify.com/album/4AnZwFGy3I52RHa8Nby9Vy) | 3:24 | 2025-04-25 |  |
+| [Time in a bottle](https://open.spotify.com/track/0EcYj6v2KYSqXyF9KeOVXT) | [François Poitou](https://open.spotify.com/artist/7cCqzc4QhvUENcxMYxLZkh) | [Time in a bottle](https://open.spotify.com/album/4AnZwFGy3I52RHa8Nby9Vy) | 3:24 | 2025-04-25 | 2025-05-07 |
 | [Time Traveler](https://open.spotify.com/track/4jUvdO8LHaz3mqCelNuYU6) | [Dawson Graham](https://open.spotify.com/artist/1xS0PtOwMe62l7WmE6z0ia) | [Time Traveler](https://open.spotify.com/album/6wMBhmSG28kG8JNcPUuTt9) | 3:35 | 2024-03-08 | 2024-03-16 |
 | [time with u](https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [time with u](https://open.spotify.com/album/1tVh41SOFeDI2oDT0jPXBX) | 2:37 | 2024-01-05 | 2024-01-23 |
 | [Times Are Past \(Radio Edit\)](https://open.spotify.com/track/00PvNdpAdIRRbavoZ84ADz) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Times Are Past \(Radio Edit\)](https://open.spotify.com/album/5g6NLE1WHgytwzZlmBRNxT) | 3:07 | 2020-09-10 | 2020-09-24 |
@@ -4453,6 +4454,7 @@
 | [uprobablyforgotusbynow](https://open.spotify.com/track/0RgDMO9DOz3eozfcixyc7V) | [Sophie Said](https://open.spotify.com/artist/0uhGoYlsroDbyn3GvupHas), [Mollie Edsell](https://open.spotify.com/artist/6dFJm191lF7fUlZtHTQSso) | [uprobablyforgotusbynow](https://open.spotify.com/album/4Vu0jblfzcVKJoMvT3TyMa) | 3:15 | 2024-09-20 | 2024-10-01 |
 | [Upstream](https://open.spotify.com/track/6DqRFfV44ULigLeWT2LIJe) | [Julia Poorman](https://open.spotify.com/artist/199jpIBM5kC5bffHQjmsN3) | [Upstream](https://open.spotify.com/album/52gxEIXY8wExpCeVc1kFpc) | 3:23 | 2023-04-07 | 2023-04-30 |
 | [ur Love](https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar) | [haks](https://open.spotify.com/artist/6FXKS5R7VtpGugMIrd7727) | [ur Love](https://open.spotify.com/album/1SVeATwnhbdMbpz56SwgDg) | 3:46 | 2023-04-01 | 2023-04-23 |
+| [Urban Cowboy](https://open.spotify.com/track/0eDQ1JYHNMJ8ijyr9QqGsG) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Urban Cowboy](https://open.spotify.com/album/58tzGaQOnEIISSvr4QPKMI) | 3:32 | 2025-05-06 |  |
 | [Urge](https://open.spotify.com/track/5HgrVsoix0n6x47Pq51XwT) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Urge](https://open.spotify.com/album/7boHAUIfgFWrZYVATAuXVn) | 2:14 | 2021-08-18 | 2021-09-05 |
 | [US](https://open.spotify.com/track/74zFXe3DiGIokkW4jKX626) | [Louis Burt](https://open.spotify.com/artist/0RXdz6K7iDJxYZaBqZJp6D) | [US](https://open.spotify.com/album/3nrFanqUZ7mTWEKkeOwwdN) | 3:17 | 2022-08-12 | 2022-08-28 |
 | [Us Two](https://open.spotify.com/track/3KFu7F825zP2DdDSsc0sFy) | [MENA](https://open.spotify.com/artist/06C7gYgsrQxKKMoVqyndzM) | [She Knows \- EP](https://open.spotify.com/album/4XjaTYmy2Afe6TyRBKaqr7) | 3:39 | 2019-12-28 | 2020-01-05 |
