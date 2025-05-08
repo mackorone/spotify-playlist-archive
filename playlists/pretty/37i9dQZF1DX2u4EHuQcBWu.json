@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 269290,
+  "num_followers": 269333,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Patria y Vida",
         "url": "https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 245149,
       "name": "Patria y Vida",
       "url": "https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Julieta Venegas con la Banda Filarm\u00f3nica Tukyo\u2019m \u00ebt xuxp de San Pedro y San Pablo Ayutla, Oaxaca",
-        "url": "https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7"
+        "name": "Gervasio",
+        "url": "https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Banda Filarm\u00f3nica Tukyo\u2019m \u00ebt xuxp de San Pedro y San Pablo Ayutla, Oaxaca",
-          "url": "https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm"
+          "name": "Gervasio",
+          "url": "https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW"
         }
       ],
-      "duration_ms": 258798,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/5alx8Rk2ycn76KvsTaDXH3"
+      "duration_ms": 241360,
+      "name": "La Marcha de la Bronca",
+      "url": "https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

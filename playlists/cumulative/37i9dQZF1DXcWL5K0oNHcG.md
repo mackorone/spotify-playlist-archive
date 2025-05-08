@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: Tyreek McDole\. Artwork: Joy Yamusangie.
+> Fresh jazz by independent artists every Wednesday\. Cover: Don Glori\. Artwork: Joy Yamusangie.
 
-1,574 songs - 5 day 3 hr 1 min
+1,575 songs - 5 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,6 +1095,7 @@
 | [Rojo Infinito](https://open.spotify.com/track/5QN0gP8Ie7BHI3uws4AXo2) | [Tico y Aguabajo](https://open.spotify.com/artist/5HdZifEYbGb5FFpoXblpZr), [Tico Pierhagen](https://open.spotify.com/artist/35nLLa6QmwUNj8Cos0V01o), [Enrique Firpi](https://open.spotify.com/artist/3PsA2pw5zjOBZqGxcY8F4f), [Dave Breidenbach](https://open.spotify.com/artist/2ArXv2ZfQ5IFQwRAvWDNSp), [Frans Cornelissen](https://open.spotify.com/artist/159i4xhEj1q4u50al7YF9F), [Efraïm Trujillo](https://open.spotify.com/artist/6QMEYX8YSAruSN9r8EHgv5) | [Rojo Infinito](https://open.spotify.com/album/4g9KYClBYdaqVR8r9fh6gx) | 5:28 | 2022-05-04 | 2022-06-01 |
 | [ROLEPLAYER](https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Tyler Lauren](https://open.spotify.com/artist/6SsJjCvJ9juy5EpW8NH4VZ) | [ROLEPLAYER](https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4) | 3:41 | 2022-07-27 | 2022-09-09 |
 | [Rollo II](https://open.spotify.com/track/7u7bEC1HCYCp1YyIfR4Vk4) | [Ian Cleaver](https://open.spotify.com/artist/3zTFtdfgkvWdFhLQQhn9Yj), [Gideon Tazelaar](https://open.spotify.com/artist/2YRRrmc1GP5RXjqVIBsxHK), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Rollo II](https://open.spotify.com/album/1puXTEdouTGxx0yIYZklYW) | 6:18 | 2022-01-19 | 2022-02-17 |
+| [Ron Song](https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl) | [Don Glori](https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo) | [Ron Song](https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu) | 5:36 | 2025-05-07 |  |
 | [Room](https://open.spotify.com/track/7Ckny2qtlVZmdNAA7mziII) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Room](https://open.spotify.com/album/0fSpFEVwnjGmVmMKTQ3piM) | 3:59 | 2022-03-16 | 2022-04-21 |
 | [Rose](https://open.spotify.com/track/1BflIWTXXe6czchPwMvXPZ) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Rose](https://open.spotify.com/album/4MBSYMGBhE1WUVqGGEcDk3) | 4:36 | 2022-05-18 | 2022-06-03 |
 | [RoseGold](https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [RoseGold](https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N) | 4:56 | 2024-04-10 | 2025-01-16 |
@@ -1237,7 +1238,7 @@
 | [Stranger Passing by](https://open.spotify.com/track/1EnIcLB693ZNsgs1u2DjE8) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Stranger Passing by](https://open.spotify.com/album/1CnjMm8mY4vCo12n31chXc) | 4:03 | 2022-04-06 | 2022-05-05 |
 | [Strasbourg/St\. Denis](https://open.spotify.com/track/7cNo4nXsNxOoFvCuEDi3Vy) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 5:10 | 2022-06-29 | 2022-07-28 |
 | [Stratus](https://open.spotify.com/track/6GwtYzv1vXn45VbGIFIs4x) | [Niyamas](https://open.spotify.com/artist/5vZsXFAiaQz04gn9bxJGJ4) | [Stratus](https://open.spotify.com/album/3xQzVCGXtDmRf5mRbbng4x) | 4:45 | 2022-07-20 | 2022-09-01 |
-| [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 | 2024-10-09 |  |
+| [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 | 2024-10-09 | 2025-05-08 |
 | [strider](https://open.spotify.com/track/2RL1rKwbnmRCYc7HHAEXwE) | [DREAMSCAPES](https://open.spotify.com/artist/3MasxTtJV1RA8nnX53K3Bx) | [strider](https://open.spotify.com/album/5NoDLQ5QSJ4duUHcQVRXFs) | 4:27 | 2024-01-19 | 2024-03-14 |
 | [Studio 54](https://open.spotify.com/track/4oUvOT8vaLHpnWBvxfAvq6) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Studio 54](https://open.spotify.com/album/2Fd2qrJWUj6cYX4YOjgN08) | 4:04 | 2022-04-20 | 2022-05-19 |
 | [Stupid on the Beat](https://open.spotify.com/track/63jkZtSD4HpFKYZhbOquC7) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO) | [Jas 5ive](https://open.spotify.com/album/6z6QGXmou5iAnOf94AAVup) | 4:20 | 2022-04-20 | 2022-05-19 |

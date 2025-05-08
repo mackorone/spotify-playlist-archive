@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 101 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948 likes - 101 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 |
+| 1 | [行くぜっ! 怪盗少女 \- 2025 REMIX](https://open.spotify.com/track/6cm22Yo38X6cGmDOO6Wf5v) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [吉野謙志](https://open.spotify.com/artist/2AhH47IKjObuyfMoYef0jM) | [行くぜっ! 怪盗少女 / 走れ! \(2025 REMIX\)](https://open.spotify.com/album/4BgontHfrEvN0Nepa5MILA) | 3:47 |
 | 2 | [W.W.D ENDING](https://open.spotify.com/track/1kOyu8laPBY5FDSMhpcFSj) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [W.W.D ENDING](https://open.spotify.com/album/7yTKsdpUndtp5If6UcY4g8) | 4:33 |
 | 3 | [DING DONGください](https://open.spotify.com/track/1BgMOXEyrD2egr9zFapteR) | [sis](https://open.spotify.com/artist/1DZPhs7ud0i40tO12dveuo) | [DING DONGください](https://open.spotify.com/album/6aobTdV11ve2RXOCJdrBrH) | 3:21 |
 | 4 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 100 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 101 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `aBD6bQAAAAAchK12pbI/vGKvXOjCH++A`
+Snapshot ID: `aBrxdQAAAADA/TQzwkflxD00ra7S8Vcv`

@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUDYbbacYJVvBmHHX9a72tzowesSsd",
+  "snapshot_id": "AAAUD8pG0eccpSNVZfGkf+1OAkwF8QEZ",
   "tracks": [
+    {
+      "added_at": "2025-05-07 14:19:45",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/50cpO5PIEXUjH8fdMzCOmB"
+      },
+      "artists": [
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 159655,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/3nUcpKt844URh1Y3KEtxB6"
+    },
     {
       "added_at": "2025-05-06 14:53:21",
       "album": {
@@ -1139,50 +1163,6 @@
       "duration_ms": 145856,
       "name": "Empty",
       "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
-    },
-    {
-      "added_at": "2025-02-13 14:53:34",
-      "album": {
-        "name": "Where My Heart Is / Time Is On Our Side",
-        "url": "https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Where My Heart Is",
-      "url": "https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE"
-    },
-    {
-      "added_at": "2025-02-12 16:16:28",
-      "album": {
-        "name": "Heaven Knows (Remixes)",
-        "url": "https://open.spotify.com/album/7hY9SLQ83GGdXo7GSXVbZp"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Heaven Knows - Shingo Nakamura Remix",
-      "url": "https://open.spotify.com/track/3qNTDSKCmVVnfmzHaaoXK0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

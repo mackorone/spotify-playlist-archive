@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Jered Sanders | Artwork: Dana Shine",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Noah Baker | Artwork: Dana Shine",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 327916,
       "name": "Abide",
       "url": "https://open.spotify.com/track/0ROKUuRzVCRKWzFvraIqQO"
+    },
+    {
+      "album": {
+        "name": "Abide With Me",
+        "url": "https://open.spotify.com/album/0StGW8DC1xuHr9RQzk7iFZ"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242030,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/1S6ZD6eCmkyX3mQObOcmBY"
     },
     {
       "album": {
@@ -172,7 +190,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 148346,
       "name": "Active",
       "url": "https://open.spotify.com/track/04uK5hnufrire9Ncxx9WUk"
@@ -194,6 +212,24 @@
       "duration_ms": 248000,
       "name": "afterlife",
       "url": "https://open.spotify.com/track/7AV9yWPagSV79bXvPkM1BW"
+    },
+    {
+      "album": {
+        "name": "Afuera est\u00e1 lloviendo (Versi\u00f3n Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Rp1fS9vsGxlnbDjmyG4DW"
+      },
+      "artists": [
+        {
+          "name": "GONZO HERNAN",
+          "url": "https://open.spotify.com/artist/3vHvxRyq0vUmEqix9UR1TX"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185675,
+      "name": "Afuera est\u00e1 lloviendo - Versi\u00f3n Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3X013CvDjLj1Fv7RAzpEpD"
     },
     {
       "album": {
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 186666,
       "name": "Blessing Me - Acoustic version",
       "url": "https://open.spotify.com/track/1rBmwlXdV67N7Qqc2Ie4pJ"
@@ -1610,10 +1646,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 160588,
       "name": "Codependent",
       "url": "https://open.spotify.com/track/6AkCoW5ThOoN8t3ki63oYD"
+    },
+    {
+      "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/5hosvF33C8EKDfxb5ZTvKa"
+      },
+      "artists": [
+        {
+          "name": "Noah Baker",
+          "url": "https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/3rqX3wWKPYxCFw0659nqzN"
     },
     {
       "album": {
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
@@ -2026,7 +2080,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 118916,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/4hmnJthluGArwABUPB3y0h"
@@ -2156,6 +2210,24 @@
       "duration_ms": 160000,
       "name": "D\u00edas Buenos :)",
       "url": "https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if"
+    },
+    {
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/4O3QrXKYtKEg5O85v71UUN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159598,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/7kxORsxT8au9IXd3eXws6p"
     },
     {
       "album": {
@@ -2570,7 +2642,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 182483,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/37ZoLYFiRWsqumJMv2Hrw7"
@@ -3486,7 +3558,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 337078,
       "name": "He's Good",
       "url": "https://open.spotify.com/track/4hF3On53aWSczZG4hwV3Yu"
@@ -3598,7 +3670,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 177515,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6lfGvqkrpz5bPyNr16WA6l"
@@ -4424,7 +4496,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 191348,
       "name": "I Won\u2019t Lose Heart",
       "url": "https://open.spotify.com/track/3eoIVgXqN3rjKIOX8oYlg3"
@@ -5118,7 +5190,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 204878,
       "name": "La Moneda",
       "url": "https://open.spotify.com/track/0N1ebsmiLKJABNTLAogNay"
@@ -5382,7 +5454,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 211756,
       "name": "Lo Que Ayer Fue",
       "url": "https://open.spotify.com/track/1OU7IvGJ9VxghWrCQCpJtY"
@@ -5801,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/7xmYQsGjG5s177ET4LUg3U"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/6gLFnjCQihbqspWbvhy5XW"
+    },
+    {
+      "album": {
         "name": "Cafe Sessions",
         "url": "https://open.spotify.com/album/0y8StZ7GXFcsXq8BIDWG0h"
       },
@@ -5987,6 +6077,28 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/5A9SC4bt3KbzOIa0qjC9AI"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0wlFF6WiMHkJtkYRpvMD2z"
+    },
+    {
+      "album": {
         "name": "MY LOVE CANNOT BE MEASURED",
         "url": "https://open.spotify.com/album/6wfJfAO4i6Ue24edDmMP0k"
       },
@@ -6045,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "NEED YOU !!!",
+        "url": "https://open.spotify.com/album/3BYf9EFnH16CE7MvLKTSKW"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80197,
+      "name": "NEED YOU !!!",
+      "url": "https://open.spotify.com/track/4FgBSssMcxUcKe1B3OeqRa"
+    },
+    {
+      "album": {
         "name": "Never Change",
         "url": "https://open.spotify.com/album/29ebOhTmE5RCcuIX8OVj1h"
       },
@@ -6086,6 +6216,28 @@
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
+    },
+    {
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/56lOSWwpieoM37e2a1KvZw"
+      },
+      "artists": [
+        {
+          "name": "Dawson Shorman",
+          "url": "https://open.spotify.com/artist/7AtpedzLpoEi0cMdGTfLqr"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173045,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6Y8wUYY42ebaXQuY5QNhE9"
     },
     {
       "album": {
@@ -6226,10 +6378,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 103851,
       "name": "NO IDOLS",
       "url": "https://open.spotify.com/track/0AMoqnkqryEiP2zRePif19"
+    },
+    {
+      "album": {
+        "name": "No Soy Santo",
+        "url": "https://open.spotify.com/album/7fn5uqH6oTfBRK97RvSOXn"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139159,
+      "name": "No Soy Santo",
+      "url": "https://open.spotify.com/track/0BDzg4BhhbNlYHlnCiyEVX"
     },
     {
       "album": {
@@ -6499,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "FLOURiSH",
+        "url": "https://open.spotify.com/album/4yP1HKs0aymj4qP4CVhbHW"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Jimenez",
+          "url": "https://open.spotify.com/artist/34AvaqEPfpouhvRvlhRFLY"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271949,
+      "name": "Only By Your Spirit - Live",
+      "url": "https://open.spotify.com/track/2cEuSmB1l3PD5cTH2rmsUi"
+    },
+    {
+      "album": {
         "name": "Opinions",
         "url": "https://open.spotify.com/album/0AVpXpicxq7cl81eZtJahB"
       },
@@ -6723,6 +6911,28 @@
     },
     {
       "album": {
+        "name": "Praise Anyway",
+        "url": "https://open.spotify.com/album/6sHwTOrSXuoYYHd4NFVeWD"
+      },
+      "artists": [
+        {
+          "name": "Yamaree",
+          "url": "https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0"
+        },
+        {
+          "name": "Jonathan Stamper",
+          "url": "https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298378,
+      "name": "Praise Anyway",
+      "url": "https://open.spotify.com/track/1ntzrtmpNf4HdwdUkXUw6D"
+    },
+    {
+      "album": {
         "name": "while we process",
         "url": "https://open.spotify.com/album/4iqjdCUg7nnnqCsrtaF246"
       },
@@ -6844,7 +7054,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 202863,
       "name": "Profit",
       "url": "https://open.spotify.com/track/3xpylfm4KyYvhx4Pozmsrs"
@@ -7014,7 +7224,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 178429,
       "name": "Que Bueno Eres",
       "url": "https://open.spotify.com/track/4qqgrC497SY09khXepzB4U"
@@ -7701,6 +7911,28 @@
     },
     {
       "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/4XuQPPCB4wZsEhgSvh1q7b"
+      },
+      "artists": [
+        {
+          "name": "Reyne L.",
+          "url": "https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe"
+        },
+        {
+          "name": "REYNE",
+          "url": "https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121090,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/7sR8VosJzaleXM3qmUj2tO"
+    },
+    {
+      "album": {
         "name": "Show Us What's Real",
         "url": "https://open.spotify.com/album/1djOEDuXrJcJZFcaiwKkuU"
       },
@@ -7804,7 +8036,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 183824,
       "name": "Sinners Prayer",
       "url": "https://open.spotify.com/track/3NdXCOZQOUqO2rNcC3qafA"
@@ -7952,7 +8184,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 142285,
       "name": "stainless",
       "url": "https://open.spotify.com/track/7BNctLbeIaF7fmMNbDfprc"
@@ -8379,6 +8611,28 @@
     },
     {
       "album": {
+        "name": "Thank God for You",
+        "url": "https://open.spotify.com/album/77Pl3q3WqTRs7zAUTFQQiH"
+      },
+      "artists": [
+        {
+          "name": "Kyd the Band",
+          "url": "https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS"
+        },
+        {
+          "name": "Sons of David",
+          "url": "https://open.spotify.com/artist/0G6USkLTqbeFmfA199Psbh"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227307,
+      "name": "Thank God for You",
+      "url": "https://open.spotify.com/track/0h64NthkyK9bTEGeNIMUP0"
+    },
+    {
+      "album": {
         "name": "Thank The Lord",
         "url": "https://open.spotify.com/album/0cMLla8wAfc7JGcic8E0u0"
       },
@@ -8506,7 +8760,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 244304,
       "name": "The Lord is My Shepherd",
       "url": "https://open.spotify.com/track/2hxGhXbcDKp2DtvtZ4GEL6"
@@ -9200,7 +9454,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 277031,
       "name": "Water",
       "url": "https://open.spotify.com/track/1FaZoZeg4yW23e8UcFiR8d"
@@ -9486,7 +9740,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 198072,
       "name": "Where To Go",
       "url": "https://open.spotify.com/track/3yVg1I3Rp3h7kyIberAHnb"
@@ -9706,6 +9960,28 @@
       "duration_ms": 210315,
       "name": "Wonderful Chaos",
       "url": "https://open.spotify.com/track/0sTKTScDjDIvnaSDTq8OR0"
+    },
+    {
+      "album": {
+        "name": "Wonderful, Wonderful Lord (Ps 139)",
+        "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274657,
+      "name": "Wonderful, Wonderful Lord (Ps 139)",
+      "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
     },
     {
       "album": {

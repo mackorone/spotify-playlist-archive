@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: STUTS + Kohjiya + Hana Hope\*👉 <a href="https://spice.eplus.jp/articles/337490">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: STUTS + Kohjiya + Hana Hope\*👉 <a href="https://spice.eplus.jp/articles/337622">連動記事</a>をSPICEでチェック!
 
 10,429 songs - 27 day 3 hr 8 min
 
@@ -8658,7 +8658,7 @@
 | [人生なんにもわかんねえ！](https://open.spotify.com/track/4XVbnIo9YBSPSs3qnubgxu) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [人生なんにもわかんねえ！](https://open.spotify.com/album/4fJ1GFqBOC0W9QaPDLKaD0) | 3:38 | 2024-07-23 | 2024-07-31 |
 | [人生はロマネスクさ](https://open.spotify.com/track/3yaRZk6QDrcPROMFVBmxP5) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [人生はロマネスクさ](https://open.spotify.com/album/65TL0O0XiZWh6OtaNdhdf3) | 3:41 | 2025-04-01 | 2025-04-09 |
 | [人生ノート](https://open.spotify.com/track/7r2ziNei4BzEwmOOFJsV0M) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF \(Deluxe Edition\)](https://open.spotify.com/album/50IdFTIGAhDVSknGHjUbOo) | 3:34 | 2023-08-22 | 2023-08-30 |
-| [人生爆笑](https://open.spotify.com/track/5D54TB17vwBcqIsXmSRX02) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [浜田雅功](https://open.spotify.com/artist/3viElUkkU4jUvdtjyGTily) | [人生爆笑](https://open.spotify.com/album/73jdjZ2Hpl5oQpxXHm2oQ5) | 5:28 | 2025-05-07 |  |
+| [人生爆笑](https://open.spotify.com/track/5D54TB17vwBcqIsXmSRX02) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [Masatoshi Hamada](https://open.spotify.com/artist/4cX7zcYN40m2i2btgvNiek) | [人生爆笑](https://open.spotify.com/album/73jdjZ2Hpl5oQpxXHm2oQ5) | 5:28 | 2025-05-07 |  |
 | [人間ですから](https://open.spotify.com/track/7mOXHVHj2YCjy00AbDfRxQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [人間ですから](https://open.spotify.com/album/4fFUHKUG56l6NtRUZiRd0H) | 3:18 | 2025-01-21 | 2025-01-29 |
 | [人間として](https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [人間として](https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V) | 3:14 | 2024-04-16 | 2024-04-24 |
 | [人間讃歌](https://open.spotify.com/track/43H4mEKYHixQucJLmhkiq8) | [渋谷すばる](https://open.spotify.com/artist/7KVGeQvCQQLOKxSaYi7xva) | [人間讃歌](https://open.spotify.com/album/7aeNt5fpQzymTIT2JbllZy) | 4:00 | 2024-08-20 | 2024-08-28 |

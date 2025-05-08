@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Pihlajalta, Sara Beeltä & Arekselta, Ed Sheeranilta ja NEEA RIVERiltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,414 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,416 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,10 +105,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 95 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
 | 96 | [Crowded Room](https://open.spotify.com/track/3R4LpnAXtNZb70PDmNiflt) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Crowded Room](https://open.spotify.com/album/13wICXoKq3uaarw1SqEOXG) | 2:21 |
 | 97 | [What Do I Do Now](https://open.spotify.com/track/5KrPKu7Rk8qIA4WhTZHyCv) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [What Do I Do Now](https://open.spotify.com/album/4lhiYocTwNf5ldZBPO8FiB) | 3:42 |
-| 98 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 |
-| 99 | [AIGARI](https://open.spotify.com/track/4kl9PimsIaLoKy1PlxBuMw) | [Pieni Poika Caleb](https://open.spotify.com/artist/3JmgoMVTD6x51sE9kKmDre) | [AIGARI](https://open.spotify.com/album/4hw3GzsSIGwTrwSgAa010M) | 2:32 |
-| 100 | [Cloud Nine](https://open.spotify.com/track/5U2DAQILAdR3R3cbCeVXpE) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Cloud Nine](https://open.spotify.com/album/2fh19lOIJBlxdB7T2dqTrq) | 2:41 |
-| 101 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 |
-| 102 | [Tequila Sunrise](https://open.spotify.com/track/3Qpf60vTrmUBKPlxuHNxnv) | [Tea Sofia](https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W) | [Café Bar Sunset Love](https://open.spotify.com/album/7jcZVCtBA6qIdLLGqte47k) | 2:58 |
+| 98 | [Everything Everywhere at Once](https://open.spotify.com/track/5qXxXEoDQvkGc0aw4DTEmJ) | [Kleo](https://open.spotify.com/artist/3UvjfeWjJTe7E88iz1dWbc) | [Everything Everywhere at Once](https://open.spotify.com/album/4ySnolM6OMKtRVbCs3FFXf) | 2:44 |
+| 99 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 |
+| 100 | [AIGARI](https://open.spotify.com/track/4kl9PimsIaLoKy1PlxBuMw) | [Pieni Poika Caleb](https://open.spotify.com/artist/3JmgoMVTD6x51sE9kKmDre) | [AIGARI](https://open.spotify.com/album/4hw3GzsSIGwTrwSgAa010M) | 2:32 |
+| 101 | [Cloud Nine](https://open.spotify.com/track/5U2DAQILAdR3R3cbCeVXpE) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Cloud Nine](https://open.spotify.com/album/2fh19lOIJBlxdB7T2dqTrq) | 2:41 |
+| 102 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 |
+| 103 | [Tequila Sunrise](https://open.spotify.com/track/3Qpf60vTrmUBKPlxuHNxnv) | [Tea Sofia](https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W) | [Café Bar Sunset Love](https://open.spotify.com/album/7jcZVCtBA6qIdLLGqte47k) | 2:58 |
 
 Snapshot ID: `aBRz1wAAAACQ6RhMZJdSCf6tJowEXYWH`

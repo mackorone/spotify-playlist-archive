@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,856 likes - 79 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,867 likes - 79 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 | 21 | [Vai Toma Na Rave](https://open.spotify.com/track/6hGZAVKcOzaG3N25Zkuy2U) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db) | [Vai Toma Na Rave](https://open.spotify.com/album/2YBBAqLBi1WxSvHia5c3nC) | 3:21 |
 | 22 | [Tambaleo \- Machine Girl Remix](https://open.spotify.com/track/101Ny9kUZZXjVIf5EDPxxw) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T), [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Tambaleo \(Machine Girl Remix\)](https://open.spotify.com/album/0NmFLDEM7hhYB22K2qUjMU) | 4:42 |
 | 23 | [Done Talking](https://open.spotify.com/track/7nBSi9VmoWGY7xoNyHA033) | [Peder Mannerfelt](https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g) | [Unwitch \- Break The Pretense](https://open.spotify.com/album/76wPjwr2eI3Yyi1ntCuyyR) | 5:04 |
-| 24 | [Origami](https://open.spotify.com/track/0ElxFQhGfYyYZwRNTx6Qv1) | [Quelza](https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS) | [Origami](https://open.spotify.com/album/1zgnW2XpgN6bPKbs63KlC5) | 7:38 |
+| 24 | [Origami](https://open.spotify.com/track/0ElxFQhGfYyYZwRNTx6Qv1) | [Quelza](https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS), [Vault Sessions](https://open.spotify.com/artist/19eKEY8FACEJEecIpge5Jm) | [Origami](https://open.spotify.com/album/1zgnW2XpgN6bPKbs63KlC5) | 7:38 |
 | 25 | [OOOOOOO, AAAAAAA](https://open.spotify.com/track/3PB5ktABT2NZ70lJECfTsQ) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [123.](https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB) | 3:29 |
 | 26 | [Tavisupali](https://open.spotify.com/track/6PPwmU4piopJDmZ9By83Y2) | [Ignez](https://open.spotify.com/artist/35vEDafV45d7QN0D5rRwYV) | [SMV010](https://open.spotify.com/album/2uCMROxg5MuBJKpKdv4QpR) | 5:25 |
 | 27 | [Mind Games](https://open.spotify.com/track/0mCG0zgNBg6V2i777j6Agq) | [Erin Hopes](https://open.spotify.com/artist/6fv51yNOgYF2FMV0QncJNd) | [Pushed to the Limit](https://open.spotify.com/album/3RZLWdaqosmCZdf9rxFQDM) | 4:58 |

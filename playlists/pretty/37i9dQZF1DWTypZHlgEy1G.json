@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537006,
+  "num_followers": 537009,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "In\u00e9dits 68-97",
+        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Vu De L'Ext\u00e9rieur",
         "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 199800,
       "name": "Je suis venu te dire que je m'en vais",
       "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Comme d'habitude",
-      "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "In\u00e9dits 68-97",
-        "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
       },
       "artists": [
         {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
         }
       ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
+      "duration_ms": 253013,
+      "name": "Comme d'habitude",
+      "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
     },
     {
       "added_at": "2024-07-25 13:22:22",

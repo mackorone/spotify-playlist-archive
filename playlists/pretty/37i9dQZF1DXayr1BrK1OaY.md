@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,086 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,145 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 109 | [Gone](https://open.spotify.com/track/12U8LiMUvM61GseyRQ7Oiv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Gone / So Far](https://open.spotify.com/album/1cr2DDNVkBc9SGH83YXpYB) | 3:39 |
 | 110 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
 | 111 | [Heartbeat](https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Heartbeat](https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7) | 3:30 |
-| 112 | [Miss U](https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Miss U](https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre) | 2:37 |
-| 113 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 112 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 113 | [Miss U](https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Miss U](https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre) | 2:37 |
 | 114 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
 | 115 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |
 | 116 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 120 | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [I DON'T WANT TO FALL IN LOVE](https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V) | 3:08 |
 | 121 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 |
 | 122 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
-| 123 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
-| 124 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 |
-| 125 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
+| 123 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 |
+| 124 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
+| 125 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
 
 Snapshot ID: `aBRUpAAAAAAjAK9T4FCTaPD7XRntIZne`

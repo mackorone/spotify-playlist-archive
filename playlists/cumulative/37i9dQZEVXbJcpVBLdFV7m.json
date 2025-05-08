@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"
+    },
+    {
+      "album": {
         "name": "ATESH",
         "url": "https://open.spotify.com/album/1vgyNSsVsiuzTIApec6Adn"
       },
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Baille",
       "url": "https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
@@ -23888,7 +23906,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
@@ -27503,6 +27521,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
+        "url": "https://open.spotify.com/album/1DMaKwgQRLhFcwc1SAEGU3"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
+      "url": "https://open.spotify.com/track/67v4GN0tIrfPGosPzSyo2I"
+    },
+    {
+      "album": {
         "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
         "url": "https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh"
       },
@@ -28184,7 +28220,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 164309,
       "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
       "url": "https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop"
@@ -28322,7 +28358,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 170444,
       "name": "\u041d\u043e\u0441\u0442\u0430\u043b\u0433\u0438\u044f",
       "url": "https://open.spotify.com/track/46g7CI2nx9hnVMOC3CgI2e"
@@ -28660,7 +28696,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 249117,
       "name": "\u041f\u0440\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3i3u7vIf6TLvPFvE9nQm6J"
@@ -29842,10 +29878,28 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 262105,
       "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
       "url": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
+    },
+    {
+      "album": {
+        "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+        "url": "https://open.spotify.com/album/1MUspKk4nE4K3e8GlzJAqW"
+      },
+      "artists": [
+        {
+          "name": "AiScReam",
+          "url": "https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262117,
+      "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+      "url": "https://open.spotify.com/track/30PmD37mFAzjdl8xyZ3PS2"
     },
     {
       "album": {

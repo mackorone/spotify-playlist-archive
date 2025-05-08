@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,921 songs - 9 day 1 hr 18 min
+3,923 songs - 9 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 | 2025-02-01 |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-01-18 |
 | [5AM At Bagleys](https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [5AM At Bagleys](https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK) | 4:10 | 2025-01-24 | 2025-02-01 |
+| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-07 |  |
 | [6 Gigas](https://open.spotify.com/track/1Kiv6RIWq8bfwZBYnVwIIk) | [Soyla](https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg), [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [6 Gigas](https://open.spotify.com/album/0LI1QY5WImeN5myOqt6IeO) | 3:44 | 2024-09-27 | 2024-10-05 |
 | [69](https://open.spotify.com/track/5wJXYVXeN0bhXn1SprPaJf) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [69](https://open.spotify.com/album/2Fx3UvKJgkMzKc7ocwXsG5) | 3:24 | 2025-03-28 | 2025-04-05 |
 | [7 Horses](https://open.spotify.com/track/6Y6zRzq4Vu01TiEvp0cIcI) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [7 Horses](https://open.spotify.com/album/4wPS9o2EKkC3fX1q1Zhynd) | 4:22 | 2024-09-18 | 2024-09-28 |
@@ -2801,7 +2802,7 @@
 | [Quédate](https://open.spotify.com/track/6LqwOMWdGMTmkfkB7dZe9P) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Algú vol un flam?](https://open.spotify.com/album/43MjODhGhP0FH73Qla6m3p) | 1:31 | 2025-04-30 |  |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-06-14 | 2024-06-22 |
 | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/track/5H38vBUsQxZcigRGIDeyv5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/album/7lG78BindCd8ADTzT3sADg) | 2:29 | 2025-02-28 | 2025-03-08 |
-| [Raffaella](https://open.spotify.com/track/4zNykWMMBA1iH6gYWddOUh) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp), [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [Entre Bodegas y Ferias](https://open.spotify.com/album/6JPVu3U91G5hS69ithQtiI) | 4:02 | 2025-03-21 | 2025-03-29 |
+| [Raffaella](https://open.spotify.com/track/4zNykWMMBA1iH6gYWddOUh) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp), [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [Entre Bodegas y Ferias](https://open.spotify.com/album/6JPVu3U91G5hS69ithQtiI) | 4:02 | 2025-03-21 |  |
 | [Ragdoll](https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Ragdoll](https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw) | 3:03 | 2024-08-16 | 2024-08-24 |
 | [Raggio Di Sole](https://open.spotify.com/track/3G5y92poXcGvaO0h9a8VgG) | [Mawot](https://open.spotify.com/artist/2Eie68MUiRjCEaztQ2TWGj) | [Raggio Di Sole](https://open.spotify.com/album/4f8ao5P2ienddymbyopvJh) | 2:58 | 2024-12-20 | 2025-01-11 |
 | [RAIN](https://open.spotify.com/track/0uLTxqgIsfMSTQLiWFae7f) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [RAIN](https://open.spotify.com/album/3zd2PR0Dpho3Cz2gVnqZ62) | 3:50 | 2024-05-03 | 2024-05-18 |
@@ -3095,6 +3096,7 @@
 | [Sociometer Blues](https://open.spotify.com/track/6wWrzyLyhCqlBk37a4NymO) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it 👍 don't give a fuck anymore 👍](https://open.spotify.com/album/10OAPWpR7qXlxUbJlRhSFi) | 3:43 | 2024-05-10 | 2024-05-18 |
 | [SOFIA](https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:53 | 2024-07-26 | 2024-08-10 |
 | [Soft Girl Era](https://open.spotify.com/track/1Jk072eWqMwDQwvI7R8fff) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Soft Girl Era](https://open.spotify.com/album/5jBlZoU6wTgDDsNyr8PZwO) | 3:06 | 2025-03-28 | 2025-04-05 |
+| [soft serve](https://open.spotify.com/track/4Euy2uQfNa9mwEPT61gDuO) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [soft serve](https://open.spotify.com/album/1KJzF08mBNJgQXCMnwvwmy) | 2:51 | 2025-05-07 |  |
 | [Sol](https://open.spotify.com/track/1HhkSwbxNbcJkBpfNBUrXR) | [Marisol Eichborn](https://open.spotify.com/artist/6T1wEg0JVyXe1MJhrpKH6Q) | [Sol](https://open.spotify.com/album/4kRywEE7mTbZ87QTBYrASc) | 3:33 | 2024-04-26 | 2024-05-10 |
 | [SOL](https://open.spotify.com/track/24E5sAKqrbz3shElOlc1Ya) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4) | [SOL](https://open.spotify.com/album/2QnVU3YCEmZ4XyO49TS9aB) | 3:08 | 2024-09-06 | 2024-09-14 |
 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 | 2024-05-31 | 2024-06-12 |

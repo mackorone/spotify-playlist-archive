@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-219 songs - 9 hr 31 min
+220 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 |  |
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 | 2023-08-19 |
 | [Mood Swings](https://open.spotify.com/track/0hcX7etCRdZALhZEV33Vip) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Niklas Nadidai](https://open.spotify.com/artist/7xG4xBlSjxQnDcToJoVs0Q) | [Mood Swings](https://open.spotify.com/album/36xWvXUdongzxhblaAyjZl) | 2:21 | 2024-08-23 |  |
-| [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 | 2025-04-14 |
+| [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 |  |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 | 2024-10-10 |
 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 |  |
@@ -181,8 +181,9 @@
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-01-12 | 2024-08-24 |
 | [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 | 2024-06-07 | 2024-06-15 |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-10-06 | 2024-05-25 |
+| [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2025-02-21 |  |
 | [Smooth Sunday Barbeque](https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Smooth Sunday Barbeque](https://open.spotify.com/album/3248TWghWQaI4iwhukipLS) | 3:17 | 2023-06-20 | 2024-07-13 |
-| [smooveoperator](https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [smooveoperator](https://open.spotify.com/album/1d4mBlFhdQUB3W5cj2awJA) | 3:12 | 2023-09-29 |  |
+| [smooveoperator](https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [smooveoperator](https://open.spotify.com/album/1d4mBlFhdQUB3W5cj2awJA) | 3:12 | 2023-09-29 | 2025-05-08 |
 | [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-12 |  |
 | [Soul Charger](https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Soul Charger](https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv) | 2:20 | 2023-11-26 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-06-01 |  |
@@ -203,7 +204,7 @@
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-29 |  |
 | [The Great Beyond](https://open.spotify.com/track/0adBScenhPmsuAE8kd7vjQ) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:27 | 2023-01-12 | 2024-06-08 |
 | [The Player](https://open.spotify.com/track/36KETQiXiqMXytQOy5LnCR) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Paul Indigo](https://open.spotify.com/artist/6IfNWRVQzowSEwwiUwXnCc) | [Afternoon Jazz](https://open.spotify.com/album/2aR5IFi9ZpIRPKuCS9yNrJ) | 2:33 | 2023-01-12 | 2023-02-02 |
-| [The Puzzle](https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Puzzle](https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R) | 2:33 | 2023-01-12 |  |
+| [The Puzzle](https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Puzzle](https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R) | 2:33 | 2023-01-12 | 2025-05-08 |
 | [The Special](https://open.spotify.com/track/0clBXqkR2kqIhkAGdSnSHB) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [The Special](https://open.spotify.com/album/1lrQMnWVHOHBXEWw231jCK) | 2:01 | 2023-01-13 |  |
 | [THIQ](https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [THIQ](https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u) | 2:23 | 2023-11-26 |  |
 | [Tiger Balm](https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Tiger Balm](https://open.spotify.com/album/5gs6FZB6CxLfJI47Y6nLNm) | 2:31 | 2023-01-12 |  |

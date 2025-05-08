@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Yves Berendse, Idaly & Miloolaathetlukken, Damiano David en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,468 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,470 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 41 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 |
 | 42 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |
 | 43 | [Nothing More Than A Memory](https://open.spotify.com/track/5hYYy4LqusTeeqsxshVPCr) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Nothing More Than A Memory](https://open.spotify.com/album/5YuJN1cW7ARhHQu8vlCEP7) | 3:00 |
-| 44 | [Dochters](https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Dochters](https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp) | 2:23 |
+| 44 | [Dochters](https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Dochters \(Titelsong\)](https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp) | 2:23 |
 | 45 | [Hoe Kan Ik Je Vergeten](https://open.spotify.com/track/33ObrsMkQH0rKqjscJrgfY) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Hoe Kan Ik Je Vergeten](https://open.spotify.com/album/5a1vpmPUaHoxrtXhnFYCfj) | 4:01 |
 | 46 | [THE ATL EXPERIENCE \- from the Short Film "Red Clay"](https://open.spotify.com/track/5159OfkK8qNGl60UUEbbIr) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [THE ATL EXPERIENCE \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4qfDfLD8gFUtuJtFyCJskq) | 4:27 |
 | 47 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Onder De Dekens](https://open.spotify.com/track/3imsvk7TtcvRpRztEQcbGe) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [ruben](https://open.spotify.com/artist/218nPfu4vgjV3Wu4mXvhxy) | [Onder De Dekens](https://open.spotify.com/album/1xCvocuLfOTeOHdzc0LZUl) | 3:45 |
 | 96 | [Ineens Weg](https://open.spotify.com/track/7l6trYvIpGZATjkAS7pFGy) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Ineens Weg](https://open.spotify.com/album/3fz8YWj8veV97uLC66mOsi) | 2:41 |
 | 97 | [On The Run](https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [On The Run](https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6) | 3:19 |
-| 98 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
+| 98 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 99 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
 
 Snapshot ID: `aBkJRQAAAABkbjy+XFxkW0/LA9q3ytXA`

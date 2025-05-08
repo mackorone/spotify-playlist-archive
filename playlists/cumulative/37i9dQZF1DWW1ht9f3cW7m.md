@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Alex Amor 🍑
 
-228 songs - 12 hr 28 min
+229 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-06-14 |  |
 | [All I Ever Dream About](https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [All I Ever Dream About](https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ) | 3:04 | 2024-08-21 | 2025-04-13 |
 | [All I Ever Dream About](https://open.spotify.com/track/4Qwp34CisVMC3T8EXBxccl) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 3:05 | 2025-04-12 | 2025-05-04 |
+| [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 | 2025-05-01 |  |
 | [animal](https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [animal](https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM) | 3:33 | 2025-01-24 | 2025-04-13 |
 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 | 2024-07-12 | 2025-04-13 |
 | [anything for you](https://open.spotify.com/track/0ucxeQa4PyP4rRpOswffcv) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [anything for you](https://open.spotify.com/album/2YQbA9MRcttOywdtMYkWHG) | 3:17 | 2024-06-14 | 2024-09-12 |
@@ -57,7 +58,7 @@
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-06-14 | 2025-01-24 |
 | [congratulations for getting off the drink](https://open.spotify.com/track/3OKDCLcs8N2NBviZttpnGY) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [congratulations for getting off the drink](https://open.spotify.com/album/0adEa6tzGFSbF60RmNyI0w) | 2:31 | 2024-06-14 | 2024-07-13 |
 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 | 2024-09-20 | 2025-05-02 |
-| [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2025-01-24 |  |
+| [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2025-01-24 | 2025-05-08 |
 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-14 | 2025-04-13 |
 | [Crushing!](https://open.spotify.com/track/6h4m0ZZhvGnFPrRJ8qmax1) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Crushing!](https://open.spotify.com/album/1JxCqmjMtWU2HXPSNNoWgA) | 3:05 | 2025-04-12 |  |
 | [crying in chanel](https://open.spotify.com/track/0vrZ7IPhmPflJv57GWB5gh) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [crying in chanel](https://open.spotify.com/album/0oXGHpzA98ax17AznYBCMO) | 2:29 | 2025-05-01 |  |

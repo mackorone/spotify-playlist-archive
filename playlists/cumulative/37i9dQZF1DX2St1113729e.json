@@ -2743,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Diluvia",
+        "url": "https://open.spotify.com/album/0D2rtQvpsAPmAQPsqibcQd"
+      },
+      "artists": [
+        {
+          "name": "Lexxi",
+          "url": "https://open.spotify.com/artist/0Hq4VsUMJJSDMouXwWm0K3"
+        },
+        {
+          "name": "Rokkme",
+          "url": "https://open.spotify.com/artist/7E8e4CmH5Vvqt8sC3G2tuU"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137836,
+      "name": "Diluvia",
+      "url": "https://open.spotify.com/track/1tjX5e7W7CBAAU5qVvEU6Q"
+    },
+    {
+      "album": {
         "name": "diluvio",
         "url": "https://open.spotify.com/album/6vWQqcKvMKMOCjO8684nZq"
       },
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 143363,
       "name": "espinas koraz\u00f3n",
       "url": "https://open.spotify.com/track/22rCwmI7jnG40zH2IyQ1SN"

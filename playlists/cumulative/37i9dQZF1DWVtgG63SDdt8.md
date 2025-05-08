@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Childlike CiCi & Lecrae
 
-9,041 songs - 24 day 20 hr 1 min
+9,042 songs - 24 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5812,6 +5812,7 @@
 | [ONE WAY](https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ONE WAY](https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6) | 2:11 | 2022-07-08 | 2022-07-23 |
 | [Onipotente / Omnipotent](https://open.spotify.com/track/48tVLdRrcrUmX5lx0G1aAa) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Onipotente / Omnipotent](https://open.spotify.com/album/2obLD6QuA1HKlGdkivRCPJ) | 7:24 | 2022-09-23 | 2022-10-08 |
 | [Only](https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Only](https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw) | 2:39 | 2022-10-28 | 2022-11-19 |
+| [Only By Your Spirit \- Live](https://open.spotify.com/track/2cEuSmB1l3PD5cTH2rmsUi) | [Jennifer Jimenez](https://open.spotify.com/artist/34AvaqEPfpouhvRvlhRFLY) | [FLOURiSH](https://open.spotify.com/album/4yP1HKs0aymj4qP4CVhbHW) | 4:31 | 2025-05-02 |  |
 | [Only Ever \- Strings Version](https://open.spotify.com/track/2kVjWSboIcgRjIaANIM9lU) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever \(Strings Version\)](https://open.spotify.com/album/5iX3rXGl5QyLBXeAjmfr9I) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-01 | 2022-04-16 |
 | [Only Ever Good \(feat\. Steve Davis & Jordan Colle\)](https://open.spotify.com/track/0t3dlwpubONWQ4OttZAOFJ) | [SONS THE BAND](https://open.spotify.com/artist/0HRtriOgRf9dPnJJf9mNqL), [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Steve Davis](https://open.spotify.com/artist/0W0SebL9hjshBgixMERBL4), [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Only Ever Good \(feat\. Steve Davis & Jordan Colle\)](https://open.spotify.com/album/17xMmaTBye4Hwighgagszo) | 5:45 | 2022-08-12 | 2022-08-27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: STUTS + Kohjiya + Hana Hope\*👉 <a href="https://spice.eplus.jp/articles/337490">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: STUTS + Kohjiya + Hana Hope\*👉 <a href="https://spice.eplus.jp/articles/337622">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,067 likes - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,092 likes - 72 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [LOVESONG](https://open.spotify.com/track/6xU5RLXWJCZPtJH0wkafmi) | [Q.I.S.](https://open.spotify.com/artist/28WPc8Ww4MrKCvUynmJ74C) | [LOVESONG](https://open.spotify.com/album/1rEP745iUDm1F7tUeqHNRx) | 3:05 |
 | 49 | [まわるきもち](https://open.spotify.com/track/4VescnoVnbgR2VpGlCaGm0) | [玉井詩織](https://open.spotify.com/artist/7ELE35x6MVJjMCyo4WgS39) | [まわるきもち](https://open.spotify.com/album/21da2ZtFIpjqeBXCaeKYvt) | 4:38 |
 | 50 | [Victory Anthem](https://open.spotify.com/track/5Md6iD5AWdEwRf47sm4asY) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [Victory Anthem](https://open.spotify.com/album/1HVO5Y0WRasYuqhMZvfCxF) | 3:48 |
-| 51 | [人生爆笑](https://open.spotify.com/track/5D54TB17vwBcqIsXmSRX02) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [浜田雅功](https://open.spotify.com/artist/3viElUkkU4jUvdtjyGTily) | [人生爆笑](https://open.spotify.com/album/73jdjZ2Hpl5oQpxXHm2oQ5) | 5:28 |
+| 51 | [人生爆笑](https://open.spotify.com/track/5D54TB17vwBcqIsXmSRX02) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [Masatoshi Hamada](https://open.spotify.com/artist/4cX7zcYN40m2i2btgvNiek) | [人生爆笑](https://open.spotify.com/album/73jdjZ2Hpl5oQpxXHm2oQ5) | 5:28 |
 | 52 | [LOVE](https://open.spotify.com/track/18SVRw5wtQVJEAVnMNRX2T) | [Nora](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [LOVE](https://open.spotify.com/album/0ABzvHS0aCaeBkzKJVRXIt) | 3:38 |
 | 53 | [わるくない](https://open.spotify.com/track/5QSd1wfNowKw71cXUn21IA) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [わるくない](https://open.spotify.com/album/627joVd3Fzvg33KgQIk5PZ) | 4:38 |
 | 54 | [Yanenonaihoshi](https://open.spotify.com/track/4s7ZGVJU8qJX1XBJmkQRNs) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Yanenonaihoshi](https://open.spotify.com/album/3Z1mgn7AraZ88tXKdCmozW) | 4:57 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [MURDER FACE \- 2025 REMIX](https://open.spotify.com/track/1AzhiHwm9mNMSRFOFKctmt) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c), [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [MURDER FACE \(2025 REMIX\)](https://open.spotify.com/album/36Q3FJ8GQOUJmeXSgDrsp0) | 6:19 |
 | 72 | [桜源郷](https://open.spotify.com/track/3U4xv0PPyGXjOW4J5oe1M9) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [祭](https://open.spotify.com/album/3V333kA2vZBFzHKRBIGxpm) | 4:43 |
 
-Snapshot ID: `aBrAdQAAAADU7vSnT/ouyXMqJRHdC9OK`
+Snapshot ID: `aBtZeAAAAABK3spdcmrzz75vzPAf16pe`

@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-305 songs - 19 hr 41 min
+306 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2022-10-06 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ) | 3:48 | 2022-05-11 | 2022-07-27 |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2022-10-06 |  |
+| [Confession Is Not Flashy \- Drama Version](https://open.spotify.com/track/1cG1SmUAcASMFUy75bc7aq) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\) SPECIAL](https://open.spotify.com/album/4PiSzOTOdTkD4kl2SJM8o5) | 3:55 | 2024-10-10 |  |
 | [Cosmos](https://open.spotify.com/track/3Ukg7x6vckORXPCZclCtT9) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5KgAZS5cZuKNrCEtIRfoRh) | 4:13 | 2022-05-11 | 2022-06-03 |
 | [Crazy of you](https://open.spotify.com/track/1EC8QewniFjTg6a2eYB60a) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Master\`s sun OST Part.3](https://open.spotify.com/album/00Gajw59e8BvExy9BJQUIz) | 4:30 | 2022-05-11 |  |
 | [Crying out](https://open.spotify.com/track/7jVLe21bkwX1DTy1mfkxjB) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [CART OST](https://open.spotify.com/album/680xGIfuVXMyY3fxb0kII9) | 3:51 | 2024-04-04 | 2024-12-28 |
@@ -163,7 +164,7 @@
 | [Love so Fine](https://open.spotify.com/track/5vLh2E2BqadttPtaylJno1) | [Cha Eun Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [True Beauty \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/7AmL4EoLhnyIID5LDi3WaX) | 3:09 | 2022-05-11 | 2022-06-01 |
 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 | 2024-04-04 |  |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-10-10 |  |
-| [Lucky](https://open.spotify.com/track/1De79ur0U8mLeIOSBgaPA0) | [Ashily](https://open.spotify.com/artist/5shg7YVACGTlnae4Ld9lQR) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:00 | 2024-10-10 |  |
+| [Lucky](https://open.spotify.com/track/1De79ur0U8mLeIOSBgaPA0) | [Ashily](https://open.spotify.com/artist/5shg7YVACGTlnae4Ld9lQR) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:00 | 2024-10-10 | 2025-05-08 |
 | [Make it count](https://open.spotify.com/track/6zDfmmeyBbUBti3KhVhiyf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Touch your heart OST Part.1](https://open.spotify.com/album/0TRDHt2m0F2XScn7J7YzfV) | 3:26 | 2024-04-04 | 2024-08-05 |
 | [Maybe](https://open.spotify.com/track/0Q1revH1S76S5e1NOxRN2a) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/6KtI28DkWKsxRvLm9ylKU3) | 3:48 | 2022-05-11 | 2022-07-04 |
 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 | 2022-05-11 | 2024-11-27 |

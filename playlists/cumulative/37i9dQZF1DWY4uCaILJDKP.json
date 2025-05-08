@@ -3015,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "\u884c\u304f\u305c\u3063! \u602a\u76d7\u5c11\u5973 / \u8d70\u308c! (2025 REMIX)",
+        "url": "https://open.spotify.com/album/4BgontHfrEvN0Nepa5MILA"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        },
+        {
+          "name": "\u5409\u91ce\u8b19\u5fd7",
+          "url": "https://open.spotify.com/artist/2AhH47IKjObuyfMoYef0jM"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "\u884c\u304f\u305c\u3063! \u602a\u76d7\u5c11\u5973 - 2025 REMIX",
+      "url": "https://open.spotify.com/track/6cm22Yo38X6cGmDOO6Wf5v"
+    },
+    {
+      "album": {
         "name": "ZZ's",
         "url": "https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB"
       },
@@ -3026,7 +3048,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 228026,
       "name": "\u884c\u304f\u305c\u3063!\u602a\u76d7\u5c11\u5973 -ZZ ver.-",
       "url": "https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: rainwrld Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,760 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,779 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 30 | [Gabi](https://open.spotify.com/track/4nPlIZrulzWS3JfJc9MfY8) | [Satellite Daydream](https://open.spotify.com/artist/02GJcs2uLMsWg1svSbzxv9) | [Gabi](https://open.spotify.com/album/7h4KyM1mUCzKI9MG1nRmRX) | 3:47 |
 | 31 | [Home](https://open.spotify.com/track/34FwuzdwnKCDU0EGaSFe7L) | [Bree](https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4) | [Home](https://open.spotify.com/album/563fuDPjdbwIz9xpDs8yMa) | 4:27 |
 | 32 | [ALL AN ACT](https://open.spotify.com/track/65Ej03DWQexJRhMiU8tLa5) | [Shine Valentine](https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5) | [ALL AN ACT](https://open.spotify.com/album/1eFLWwTZkbGJzORqlJsx20) | 2:50 |
-| 33 | [Kodigo](https://open.spotify.com/track/7dX6SifhdulLGfFN2R6ptT) | [Dione](https://open.spotify.com/artist/2tXlQ6wwH8bmOqXLEumYkg) | [Kodigo](https://open.spotify.com/album/06OR9EXI67XIRhnAytT8EG) | 3:15 |
+| 33 | [Kodigo](https://open.spotify.com/track/7dX6SifhdulLGfFN2R6ptT) | [DIONE](https://open.spotify.com/artist/2tXlQ6wwH8bmOqXLEumYkg) | [Kodigo](https://open.spotify.com/album/06OR9EXI67XIRhnAytT8EG) | 3:15 |
 | 34 | [Mamacita](https://open.spotify.com/track/7qphbWENVPw4Oz5n7LIjCh) | [JADY](https://open.spotify.com/artist/15Pk63GWnQxEruNAWi76JC), [UNO](https://open.spotify.com/artist/0ZidGKZEuWMKpVIlCAJOlt) | [Mamacita](https://open.spotify.com/album/5pMUuQZXsroVKMHw178GP0) | 3:56 |
 | 35 | [Who Seeks God, Who Seeks Him \(Psalm 14\)](https://open.spotify.com/track/56Osa3xRlKRojHvQ09xDMK) | [Where's the Sheep?](https://open.spotify.com/artist/0IvsAJ3WzVgyC9b6ZnXp9O) | [Psalms](https://open.spotify.com/album/5cuDMqFOZjvQVNktqakVSb) | 3:31 |
 | 36 | [Tahan Na](https://open.spotify.com/track/5Dy7ImvtTBIiXbBqnkTGYC) | [Jerms](https://open.spotify.com/artist/0ecCRQhRSR0PTID7RdB6qA) | [Tahan Na](https://open.spotify.com/album/0XWV8CVMXJlYS2yxnG6cEM) | 2:51 |

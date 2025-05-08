@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto:  Amygdala.",
-  "num_followers": 26537,
+  "num_followers": 26545,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
+        "name": "Esculpe Mi Nombre",
+        "url": "https://open.spotify.com/album/5UlZDnbQ5VoUj1q9GQJXu5"
+      },
+      "artists": [
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+        }
+      ],
+      "duration_ms": 166684,
+      "name": "Esculpe Mi Nombre",
+      "url": "https://open.spotify.com/track/2UaOiuA4p1gHtQcKOHOnkv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
         "name": "Patrick",
         "url": "https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 213805,
       "name": "Luces de emergencia",
       "url": "https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
-        "name": "Esculpe Mi Nombre",
-        "url": "https://open.spotify.com/album/5UlZDnbQ5VoUj1q9GQJXu5"
-      },
-      "artists": [
-        {
-          "name": "Ghouljaboy",
-          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
-        }
-      ],
-      "duration_ms": 166684,
-      "name": "Esculpe Mi Nombre",
-      "url": "https://open.spotify.com/track/2UaOiuA4p1gHtQcKOHOnkv"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Echo de menos a los Arctic Monkeys",
-        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Echo de menos a los Arctic Monkeys",
-      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
         "name": "Dientes rotos",
         "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
       },
@@ -1071,34 +1055,18 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "Echo de menos a los Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+      "duration_ms": 199448,
+      "name": "Echo de menos a los Arctic Monkeys",
+      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1123,18 +1091,34 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Esclavos Do Baile",
-        "url": "https://open.spotify.com/album/3OH06u8PZ4R0LbB99thX2p"
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
       "artists": [
         {
-          "name": "Lisdexia",
-          "url": "https://open.spotify.com/artist/1qGWo8bEDEnZUkaosx6B4s"
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Espidifren",
-      "url": "https://open.spotify.com/track/4IGBNxP8A0RGB3Owkeu1az"
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "L\u00ednea 11",
-        "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
+        "name": "Esclavos Do Baile",
+        "url": "https://open.spotify.com/album/3OH06u8PZ4R0LbB99thX2p"
       },
       "artists": [
         {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+          "name": "Lisdexia",
+          "url": "https://open.spotify.com/artist/1qGWo8bEDEnZUkaosx6B4s"
         }
       ],
-      "duration_ms": 231283,
-      "name": "L\u00ednea 11",
-      "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
+      "duration_ms": 134000,
+      "name": "Espidifren",
+      "url": "https://open.spotify.com/track/4IGBNxP8A0RGB3Owkeu1az"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1199,6 +1183,22 @@
       "duration_ms": 165151,
       "name": "No quiero seguir as\u00ed",
       "url": "https://open.spotify.com/track/7IbWbWgT1ZBKtE8OjLVBMA"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
+        "name": "L\u00ednea 11",
+        "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 231283,
+      "name": "L\u00ednea 11",
+      "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Tripitir",
-        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Tripitir",
-      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
         "name": "MENTIRA",
         "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
       },
@@ -1307,6 +1275,22 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
         "name": "TODO ROSA",
         "url": "https://open.spotify.com/album/32MYXfjjL1FOCbBRgUU4nQ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 179294,
       "name": "TODO ROSA",
       "url": "https://open.spotify.com/track/2w4G9KIg5tfLF87lv38rBx"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Autocine",
-        "url": "https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP"
-      },
-      "artists": [
-        {
-          "name": "Selvajes",
-          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
-        }
-      ],
-      "duration_ms": 161629,
-      "name": "Autocine",
-      "url": "https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:21",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 137344,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "added_at": "2025-05-01 22:00:21",
+      "album": {
+        "name": "Autocine",
+        "url": "https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP"
+      },
+      "artists": [
+        {
+          "name": "Selvajes",
+          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
+        }
+      ],
+      "duration_ms": 161629,
+      "name": "Autocine",
+      "url": "https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Danza de la muerte",
-        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
+        "name": "Romance Extremo",
+        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Danza de la muerte",
-      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
+      "duration_ms": 144179,
+      "name": "Romance Extremo",
+      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
     },
     {
       "added_at": "2025-05-01 22:00:21",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-05-01 22:00:21",
       "album": {
-        "name": "Romance Extremo",
-        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
+        "name": "Danza de la muerte",
+        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
       },
       "artists": [
         {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Romance Extremo",
-      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
+      "duration_ms": 164400,
+      "name": "Danza de la muerte",
+      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
     },
     {
       "added_at": "2025-05-01 22:00:21",

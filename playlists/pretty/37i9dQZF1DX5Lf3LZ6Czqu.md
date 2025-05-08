@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,330 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,351 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 11 | [Karnevel!](https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Karnevel!](https://open.spotify.com/album/6ZI8RVYgxxSymcnQT4DqnH) | 8:40 |
 | 12 | [Meteor Shower](https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT) | [The Fusion Syndicate](https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Meteor Shower](https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk) | 3:36 |
 | 13 | [Zig Zag](https://open.spotify.com/track/4Sz7cjZ85xjcgrZ82WsbVW) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb) | [Triple Play](https://open.spotify.com/album/3dDU3PWrXlMHW5C9eJebpu) | 8:23 |
-| 14 | [Around The Galaxy](https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq) | [AFØNK](https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE), [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R), [Lorenzo Ceci](https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM) | [Around The Galaxy](https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8) | 3:24 |
+| 14 | [Around The Galaxy](https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq) | [AFØNK](https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE), [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R) | [Around The Galaxy](https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8) | 3:24 |
 | 15 | [Nine](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Part 2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 |
 | 16 | [Catboy \- Live at the Iridium](https://open.spotify.com/track/6ENVj2YszxhC9QLgwBNkJE) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Daniel Porter](https://open.spotify.com/artist/16uVRYUgf82UOiseOjclwG) | [Catboy \(Live at the Iridium\)](https://open.spotify.com/album/2dig4oAnKv3V2G5fDEZs5x) | 8:09 |
 | 17 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 |

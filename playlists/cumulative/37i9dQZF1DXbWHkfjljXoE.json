@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Melodies of the movement. Cover: Roy Ayers",
+  "description": "Melodies of the movement. Cover: Buddy Guy",
   "name": "Power To The People",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 239040,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5fxuaUVBweczm8SNnd2Ink"
@@ -1558,6 +1558,24 @@
       "duration_ms": 297800,
       "name": "Strength Courage & Wisdom",
       "url": "https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0"
+    },
+    {
+      "album": {
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469533,
+      "name": "Sweet Black Angel (Black Angel Blues) - Live",
+      "url": "https://open.spotify.com/track/1QJv2dfo7kIWMzpsREfvhn"
     },
     {
       "album": {

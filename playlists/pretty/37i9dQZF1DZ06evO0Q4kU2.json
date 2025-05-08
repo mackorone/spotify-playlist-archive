@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1889,
+  "num_followers": 1890,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBf/gAAAAAAbmb2hOrKQ2//x68/XtjBi",
+  "snapshot_id": "aBlRAAAAAACSJLRkPxMOJomELHZgN334",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fandra",
-        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143667,
-      "name": "T\u00fandra",
-      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whale Overture",
         "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 253493,
       "name": "Whale Overture",
       "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fandra",
+        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 84853,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
+      "duration_ms": 118347,
+      "name": "Mosi",
+      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 118347,
-      "name": "Mosi",
-      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
+      "duration_ms": 84853,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
       "duration_ms": 272501,
       "name": "The Monolith",
       "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 241131,
-      "name": "The Winds",
-      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
     },
     {
       "added_at": null,
@@ -707,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Droplets",
-      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -732,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 278298,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
+      "duration_ms": 241131,
+      "name": "The Winds",
+      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
     },
     {
       "added_at": null,
@@ -751,6 +719,22 @@
       "duration_ms": 210272,
       "name": "L\u00f3a - Bing & Ruth Rework",
       "url": "https://open.spotify.com/track/7zOD82TiYnv0kfX3drP26p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Filma",
+      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
     },
     {
       "added_at": null,
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Filma",
-      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 214551,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
+      "duration_ms": 181613,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
+      "duration_ms": 214551,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 160920,
       "name": "S\u00e1lmur Variation",
       "url": "https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

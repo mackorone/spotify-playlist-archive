@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-872 songs - 1 day 18 hr 21 min
+876 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Double Helix](https://open.spotify.com/track/5Hd70laM8Glw4wcT8FFEO5) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Double Helix](https://open.spotify.com/album/1yep9TfPABX97QXdFKao62) | 2:55 | 2024-01-17 | 2024-07-10 |
 | [Downstream](https://open.spotify.com/track/3k5J26HJZ8tZHEGsg0s32u) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Downstream](https://open.spotify.com/album/1QYN4P1EHdrEIhMYBh17TD) | 2:38 | 2023-04-06 | 2024-03-07 |
 | [Dream Creator](https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Dream Creator](https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6) | 2:59 | 2024-01-17 | 2024-02-09 |
+| [Dream With Me](https://open.spotify.com/track/31DR8bVBcfO8gF3w9OMOEJ) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Dream With Me](https://open.spotify.com/album/1ex6e5R19r00Bx2XrFDKdT) | 3:09 | 2025-05-07 |  |
 | [Dreamfall](https://open.spotify.com/track/7ejAZN3oevsGNQHleqohD8) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Dreamfall](https://open.spotify.com/album/2fkqeaQAcXbTZkYMxt1jBB) | 3:05 | 2025-03-19 |  |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2023-04-06 | 2024-01-18 |
 | [Dreaming In Red](https://open.spotify.com/track/6PSJuGFslPV78KN8OP6JJS) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Dreaming In Red](https://open.spotify.com/album/4QXfujCE7LFkZInZb0BqVy) | 2:57 | 2023-04-06 | 2023-08-19 |
@@ -273,6 +274,7 @@
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-04-12 |
 | [Eternal Rest](https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Rest](https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9) | 3:18 | 2024-12-03 |  |
 | [Eterno](https://open.spotify.com/track/3oay2XHAnlNMqFdFzlJUmt) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Eterno](https://open.spotify.com/album/3xLFUr6AYl2ZSyqQMAC4MD) | 2:31 | 2023-04-06 | 2024-01-18 |
+| [Ether's Embrace](https://open.spotify.com/track/1bPYDDOK4NOcLnQg5Y2hMx) | [Marble Sky](https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI) | [Ether's Embrace](https://open.spotify.com/album/7mDvAoQC6dBmUMuMlShYwQ) | 2:32 | 2025-05-07 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-04-06 | 2024-01-18 |
 | [Ethereal](https://open.spotify.com/track/3zgJ1tCqq4QKJk5Ku99pEX) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Ethereal](https://open.spotify.com/album/3QfXFJAvn3M2Aa51CCnR09) | 3:01 | 2024-12-12 |  |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-04-06 | 2024-02-09 |
@@ -494,7 +496,7 @@
 | [Moonlit Serenity](https://open.spotify.com/track/0mjRLZf7gpyTUMrnik8PuK) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Moonlit Serenity](https://open.spotify.com/album/01av7JgZJSuw6ndd153Tr6) | 3:15 | 2024-07-22 |  |
 | [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 | 2024-03-06 | 2024-05-21 |
 | [Morgennebel](https://open.spotify.com/track/2LSVCsevs25vMNmAdCTVMZ) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Morgennebel](https://open.spotify.com/album/2IUu3veYokLvk0OF7fjprN) | 3:01 | 2023-09-22 | 2024-05-05 |
-| [Morning Light](https://open.spotify.com/track/4V4Rd0UkmgGAUFDeKgFN2q) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Morning Light](https://open.spotify.com/album/4TZI9MZ4YW14GSnKtFqkdi) | 2:31 | 2024-09-11 |  |
+| [Morning Light](https://open.spotify.com/track/4V4Rd0UkmgGAUFDeKgFN2q) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Morning Light](https://open.spotify.com/album/4TZI9MZ4YW14GSnKtFqkdi) | 2:31 | 2024-09-11 | 2025-05-08 |
 | [Morning Meditation](https://open.spotify.com/track/1wsHIWc5negUXcEJ7Uiom3) | [Willian Mcgrow](https://open.spotify.com/artist/4K2nKDCPEtBoPLVPC3j2tT) | [Morning Meditation](https://open.spotify.com/album/6JsqydIIPrsyhiz7QX1opW) | 2:31 | 2025-02-28 |  |
 | [Mountain Views](https://open.spotify.com/track/4WcQsAhJ7TNp5NtYhx4lr0) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [Mountain Views](https://open.spotify.com/album/1LJIdeAb2PIgW9Y5vdMtdy) | 2:41 | 2024-06-13 |  |
 | [Mudita](https://open.spotify.com/track/7Hm3jiAs1f0oypQythNWxy) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Mudita](https://open.spotify.com/album/1BTP6Dm6UiPfCV0slcxGuB) | 2:36 | 2023-10-13 | 2024-05-05 |
@@ -531,6 +533,7 @@
 | [Novastar](https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Novastar](https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r) | 2:57 | 2024-03-06 |  |
 | [Novation](https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB) | [Abi Burkholder](https://open.spotify.com/artist/1sVWQGvblGt6xTMFwIT6Ta) | [Novation](https://open.spotify.com/album/0CCRyVo2yblONJcn10hTRV) | 2:57 | 2024-05-04 | 2024-07-10 |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2023-04-06 | 2024-01-18 |
+| [Nuit](https://open.spotify.com/track/6udRwz6ACfhaN0xL62FKFc) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Nuit](https://open.spotify.com/album/2pPy0hF55l32PsGiPASIih) | 3:19 | 2025-05-07 |  |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2023-04-06 | 2024-03-07 |
 | [nydelig](https://open.spotify.com/track/6YfJVtcMC4T0qYXp2mD9Ck) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [nydelig](https://open.spotify.com/album/066Naapq4MiEoXEpajLSyK) | 2:51 | 2024-03-20 | 2024-07-10 |
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-17 | 2024-07-16 |
@@ -596,6 +599,7 @@
 | [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 | 2023-06-09 | 2024-05-05 |
 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 | 2023-04-06 | 2024-03-21 |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-04-06 | 2024-01-18 |
+| [Purposes](https://open.spotify.com/track/5ByeLs4DGsccq7inLK1R2p) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Purposes](https://open.spotify.com/album/6B6ypEQU3Jv86d7obqytLr) | 3:04 | 2025-05-07 |  |
 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2023-04-06 | 2024-01-18 |
 | [Quand la neige tombe](https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Quand la neige tombe](https://open.spotify.com/album/0WS3vyLeMR9nNvvRf9c0fO) | 2:52 | 2023-04-06 | 2024-01-18 |
 | [Quiet](https://open.spotify.com/track/47wZeEB51rxneHGdmVwA63) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Quiet](https://open.spotify.com/album/4gdOCIRKdhVaH4mglrW33m) | 2:17 | 2025-04-29 |  |
@@ -633,7 +637,7 @@
 | [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 | 2023-08-04 | 2024-05-05 |
 | [Restful Ease](https://open.spotify.com/track/2h31m60oGwh8ivc90435Sv) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful Ease](https://open.spotify.com/album/7uf0kuVQiwA5voLUxHSUZH) | 2:54 | 2025-03-19 |  |
 | [Restful Mind](https://open.spotify.com/track/4mpjqRuTh5sj0cVAQc5asC) | [Zefiriana](https://open.spotify.com/artist/4ICQID9oZqFnQrUrXeC2s0) | [Restful Mind](https://open.spotify.com/album/4XrvIxPRXAu96S350GrjzV) | 3:02 | 2024-03-20 | 2024-07-10 |
-| [Restful Resonance](https://open.spotify.com/track/7FraSL2VkEYsiuHEklliFW) | [Polar Silence](https://open.spotify.com/artist/7JAfQaP7joxA4i16FCxKIS) | [Restful Resonance](https://open.spotify.com/album/5mAMOJTonYzkE6iD1hw4tJ) | 3:14 | 2024-05-20 |  |
+| [Restful Resonance](https://open.spotify.com/track/7FraSL2VkEYsiuHEklliFW) | [Polar Silence](https://open.spotify.com/artist/7JAfQaP7joxA4i16FCxKIS) | [Restful Resonance](https://open.spotify.com/album/5mAMOJTonYzkE6iD1hw4tJ) | 3:14 | 2024-05-20 | 2025-05-08 |
 | [Resting Mode](https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Resting Mode](https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg) | 2:24 | 2023-04-06 | 2023-08-05 |
 | [Restore](https://open.spotify.com/track/0CjdyGv7FmgvNAYszIAx45) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Restore](https://open.spotify.com/album/3PfUsCJRKCtXdShHmcOG09) | 3:03 | 2025-04-11 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2023-04-06 | 2024-01-18 |

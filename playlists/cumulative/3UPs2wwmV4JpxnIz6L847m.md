@@ -4,11 +4,12 @@
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-4,782 songs - 11 day 0 hr 27 min
+4,782 songs - 11 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1Kz1U8BmQ4RqKUXAjfW9Ir) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2pob6oNxEykLSGIeIPyxll) | 0:00 | 2019-05-22 |  |
+| [](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 0:00 | 2023-07-19 |  |
 | [](https://open.spotify.com/track/3HczaTWJDuVFIL1Op7xQio) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0MScPhmQt0C4aarEU5a3O7) | 0:00 | 2018-11-15 |  |
 | [](https://open.spotify.com/track/5FJO6MCEWfnpLq51c5Zaid) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2nZ2dd1EsxjXQr4va3AHa7) | 0:00 | 2018-10-13 |  |
 | [](https://open.spotify.com/track/5MvCurNMpM3WCCSs40cd37) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6GK7MOPqacKl84T0r6Rctc) | 0:00 | 2020-04-21 |  |
@@ -3522,7 +3523,6 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2018-07-17 |  |
 | [Sadly I Cannot Control](https://open.spotify.com/track/7fZJhgVbQxwmxTe0aJKYHT) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 2:57 | 2021-05-23 |  |
 | [SAFARI](https://open.spotify.com/track/09xpQPfKWdio1wx6v17dGa) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:57 | 2021-06-25 |  |
-| [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 | 2023-07-19 |  |
 | [Said N Done](https://open.spotify.com/track/11XegnWeJHBDtj9IsNwngu) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:51 | 2020-10-02 |  |
 | [Saint](https://open.spotify.com/track/7foypmc7KZyU716Yv63BPe) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 2:20 | 2018-08-23 |  |
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2020-11-23 |  |

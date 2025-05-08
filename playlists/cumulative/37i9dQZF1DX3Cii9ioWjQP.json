@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Maria Kim (\ub9c8\ub9ac\uc544 \ud0b4)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: \uc720\ubc1c\uc774 (U.BAR.E)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 196868,
       "name": "Children",
       "url": "https://open.spotify.com/track/0OevcboX4JSYxC2o9RtOOm"
@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Espresso Rush",
+        "url": "https://open.spotify.com/album/3zG5QTErCjGc5Tcr5SQAtx"
+      },
+      "artists": [
+        {
+          "name": "Relax Ann",
+          "url": "https://open.spotify.com/artist/2esrpoyixMx83vSV2UzV65"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133207,
+      "name": "Espresso Rush",
+      "url": "https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ"
+    },
+    {
+      "album": {
         "name": "EVERMOON",
         "url": "https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 228829,
       "name": "gut",
       "url": "https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG"
@@ -1650,6 +1668,24 @@
       "duration_ms": 144283,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg"
+    },
+    {
+      "album": {
+        "name": "I Love U",
+        "url": "https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s"
+      },
+      "artists": [
+        {
+          "name": "U.BAR.E",
+          "url": "https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116520,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv"
     },
     {
       "album": {
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 136000,
       "name": "love nwantiti",
       "url": "https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV"
@@ -2424,6 +2460,24 @@
       "duration_ms": 241866,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG"
+    },
+    {
+      "album": {
+        "name": "STELLA II",
+        "url": "https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231505,
+      "name": "News & Sames",
+      "url": "https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs"
     },
     {
       "album": {
@@ -3208,7 +3262,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 151319,
       "name": "Second Date",
       "url": "https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu"
@@ -3296,6 +3350,24 @@
       "duration_ms": 291320,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0"
+    },
+    {
+      "album": {
+        "name": "Soft Serenade",
+        "url": "https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG"
+      },
+      "artists": [
+        {
+          "name": "Green Pulse",
+          "url": "https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191829,
+      "name": "Soft Serenade",
+      "url": "https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf"
     },
     {
       "album": {
@@ -3606,7 +3678,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 185000,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1diaSeNj5bvc48mTGrabJQ"
@@ -3772,6 +3844,24 @@
       "duration_ms": 312414,
       "name": "The Day Of My Naughty Cat",
       "url": "https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1"
+    },
+    {
+      "album": {
+        "name": "The Divorce Insurance, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo"
+      },
+      "artists": [
+        {
+          "name": "Luca minor",
+          "url": "https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148693,
+      "name": "The moon is mooning",
+      "url": "https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b"
     },
     {
       "album": {
@@ -4147,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Vulnerable Night",
+        "url": "https://open.spotify.com/album/5RpHEJFgOObKgjlefX2Zsn"
+      },
+      "artists": [
+        {
+          "name": "ORORA",
+          "url": "https://open.spotify.com/artist/11x44zHKHZ8Yyg6qTzuUoE"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Vulnerable Night",
+      "url": "https://open.spotify.com/track/3N9goAiZWkx57SBr6exO5K"
+    },
+    {
+      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq"
       },
@@ -4422,7 +4530,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 308185,
       "name": "You and I had seen the same thing",
       "url": "https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV"

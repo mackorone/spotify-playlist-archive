@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
+    },
+    {
+      "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
       },
@@ -2746,6 +2764,24 @@
       "duration_ms": 209259,
       "name": "Zombie - English Version",
       "url": "https://open.spotify.com/track/3h34cQPPddk4x9cluPIAvv"
+    },
+    {
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169627,
+      "name": "\ub05d\ub0ac\uc9c0 game over",
+      "url": "https://open.spotify.com/track/39zH0b5b1tJfXUCW0hPE8P"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Ucx6LaTP5S"

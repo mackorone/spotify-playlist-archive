@@ -95,6 +95,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 85 | [Maalesef](https://open.spotify.com/track/0dtHCbEb03Uz4QhId2Bnus) | [Nil Karataş](https://open.spotify.com/artist/0kSAEY0h6ztVQ5EtOf2nVJ) | [Maalesef](https://open.spotify.com/album/5mSOoQ0VigN1IVApgnhUfh) | 2:50 |
 | 86 | [İnadına](https://open.spotify.com/track/2ffItJ8L4xARE7aIL367Ws) | [Nihan Çelik](https://open.spotify.com/artist/2sJhBSO8uHc9oGynn8BkyW) | [İnadına](https://open.spotify.com/album/1qMUh4cR4YWaipF0Z83JhJ) | 2:36 |
 | 87 | [SEVGİLİM](https://open.spotify.com/track/5w8aWwLlzmPsRVOZTYebz2) | [Didem Ezgi Kurt](https://open.spotify.com/artist/5pMpKRA1OMQnfCdURbJmiC) | [SEVGİLİM](https://open.spotify.com/album/4uAbYppznWrlvNQFCPM0ik) | 3:14 |
-| 88 | [BMV](https://open.spotify.com/track/65rACiRch3pyHlAfg8GIrb) | [Kandirali Ferdi](https://open.spotify.com/artist/53PQsfANI1iZimXX8RukST) | [BMV](https://open.spotify.com/album/3XrQGbHhOFUSFZ3Ipl5gPP) | 2:24 |
+| 88 | [BMW](https://open.spotify.com/track/65rACiRch3pyHlAfg8GIrb) | [Kandirali Ferdi](https://open.spotify.com/artist/53PQsfANI1iZimXX8RukST) | [BMW](https://open.spotify.com/album/3XrQGbHhOFUSFZ3Ipl5gPP) | 2:24 |
 
 Snapshot ID: `aBSLWAAAAAA/vJsa3IlIYBp+m+04OSyG`

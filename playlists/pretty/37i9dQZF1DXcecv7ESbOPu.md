@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Ed Sheeran, LOVA, Yung Lean och Linnea Henriksson med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,051 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,060 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 |
 | 71 | [speedrunnin](https://open.spotify.com/track/6UwBbTAgMvHGDN6kdkiugT) | [Diorange](https://open.spotify.com/artist/1BKMGwVQOhbkZ1xEiPH2k3), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [speedrunnin](https://open.spotify.com/album/1GJPD9PPof9Dzr759VJS28) | 2:58 |
 | 72 | [DANCERS IN THE DARK](https://open.spotify.com/track/19hSwRch76V8TDxQxIfDl0) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [DANCERS IN THE DARK](https://open.spotify.com/album/0RQQZCy1Y0AQKdVNF5kmfC) | 3:23 |
-| 73 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
+| 73 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 74 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 |
 | 75 | [When Time Flies](https://open.spotify.com/track/7atid9fr2KS4GSbSXJASHo) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [When Time Flies](https://open.spotify.com/album/4r4SgJSpdtmsn0REjE7JrG) | 3:18 |
 | 76 | [Tills idag](https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tills idag](https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki) | 3:01 |

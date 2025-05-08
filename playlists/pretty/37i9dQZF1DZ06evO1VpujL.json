@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 26793,
+  "num_followers": 26802,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBauAAAAAAD+zQhtrFXFgBO5POIXDgRl",
+  "snapshot_id": "aBlRAAAAAAAzLgzOAYrKFCO3sQFRopXP",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot (Japanese Version)",
-        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Ratrace",
-      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shark Bites and Dog Fights",
         "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 190853,
       "name": "Electric Avenue",
       "url": "https://open.spotify.com/track/1YxE1cKYJztCvSfpPYS85G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot (Japanese Version)",
+        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Ratrace",
+      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+      "duration_ms": 241573,
+      "name": "Guntalk",
+      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 241573,
-      "name": "Guntalk",
-      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
     },
     {
       "added_at": null,

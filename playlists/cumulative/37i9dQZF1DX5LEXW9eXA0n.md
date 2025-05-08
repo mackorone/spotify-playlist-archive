@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: YOOK SUNGJAE\(육성재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,455 songs - 3 day 22 hr 14 min
+1,457 songs - 3 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [EDELWEISS](https://open.spotify.com/track/5SDjTcJ6zzK9Y4ov3IQxsn) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [EDELWEISS](https://open.spotify.com/album/1iz3ooZCGW65GIlhuaDNjN) | 3:39 | 2022-03-24 | 2022-04-08 |
 | [Embroider night](https://open.spotify.com/track/14Pullyc0cYWFzCpgyqQht) | [원종혁](https://open.spotify.com/artist/73zQMIVSjWRopbzmvfq26V) | [Embroider night](https://open.spotify.com/album/3BdlJQ320GK6cHCLL0xT9o) | 3:20 | 2023-01-20 | 2023-03-28 |
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2022-01-17 | 2022-04-20 |
+| [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 | 2025-05-07 |  |
 | [Empty Spot](https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Yeolguk Scandal \(Original Soundtrack\), Part\. 1](https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj) | 4:10 | 2023-01-20 | 2023-02-25 |
 | [End Of Night](https://open.spotify.com/track/2l8jtHeXRSH420IEWH93UQ) | [에코브릿지](https://open.spotify.com/artist/4ozyMZxydr2BsVslZEjkOB) | [End Of Night](https://open.spotify.com/album/59D9CcgSLantWVuwyUIjBL) | 3:06 | 2022-02-25 | 2022-03-05 |
 | [End of the Road](https://open.spotify.com/track/177g45l0BbZWVTMXJMjebn) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [End of the Road](https://open.spotify.com/album/7sMS8RSw0zCeImL7STnXyP) | 3:38 | 2023-05-31 | 2023-10-20 |
@@ -821,7 +822,7 @@
 | [My Feelings for You will Never Change](https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [My Feelings for You will Never Change](https://open.spotify.com/album/6JAaQPpuauWTLTxQuSpBFq) | 2:38 | 2023-02-24 | 2023-05-16 |
 | [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-09-05 | 2022-11-08 |
 | [My Girl](https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv) | [nautilus](https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ) | [My Girl](https://open.spotify.com/album/6j6oWzD2FDaatkJWaGcggf) | 4:18 | 2022-11-07 | 2023-01-12 |
-| [My Heart Is Full Of You](https://open.spotify.com/track/07WUAnERMSnM1KLU38oegD) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [My Heart Is Full Of You](https://open.spotify.com/album/6fzdCCBF3209jWNyIOlRw5) | 3:49 | 2024-11-27 |  |
+| [My Heart Is Full Of You](https://open.spotify.com/track/07WUAnERMSnM1KLU38oegD) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [My Heart Is Full Of You](https://open.spotify.com/album/6fzdCCBF3209jWNyIOlRw5) | 3:49 | 2024-11-27 | 2025-05-08 |
 | [My heart says](https://open.spotify.com/track/2GUAkbWxTLNIyTMNUCqX54) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [My Lovely Liar, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0KQD5f1uZuvqxdDIAXyd7n) | 4:05 | 2023-08-24 | 2023-11-03 |
 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 | 2021-12-20 | 2022-07-08 |
 | [My Love](https://open.spotify.com/track/3fLGciDBnydNdpgAfAr8Fj) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1iCLqvveyYARoQBwenf0HY) | 4:21 | 2023-02-24 | 2023-05-16 |
@@ -976,7 +977,7 @@
 | [Repetition \(Feat\. Shin Jong Wook\)](https://open.spotify.com/track/6pX5HtlcSumP8XgablXLbV) | [Noh Hyunwoo](https://open.spotify.com/artist/2UvVidJJv6g17OMmlpS39z), [신종욱](https://open.spotify.com/artist/3cxWvvIqZGNyWsgmdi0wsf) | [Repetition](https://open.spotify.com/album/7grs7APT3ALK9vNT3r2GdD) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [RETURN](https://open.spotify.com/track/2LBE64f36ImF4tjAWM9dSD) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [REBORN](https://open.spotify.com/album/0hKzdrns5SkzuqV1ALfkZj) | 4:07 | 2024-06-04 | 2024-09-24 |
 | [Return \(With LYn\)](https://open.spotify.com/track/65XjIZuRTQsHVl35YjfceH) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [With](https://open.spotify.com/album/3ryhcCuKE1mdUoF9rUSWcR) | 4:40 | 2024-12-05 | 2025-04-25 |
-| [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 | 2024-01-05 |  |
+| [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 | 2024-01-05 | 2025-05-08 |
 | [River Flows In You](https://open.spotify.com/track/7yEEYSoudY6LUWS1nnP6Tu) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Remake \. A](https://open.spotify.com/album/2GGj99IzsNGnPojf6abzOP) | 4:37 | 2023-07-07 | 2023-10-17 |
 | [Rolling \(2022\)](https://open.spotify.com/track/3zgrXUNrq4eNLQ354wGhVq) | [Ji Yeon](https://open.spotify.com/artist/4ojQ8Cy1AVup7CZ0OG68eq) | [Rolling \(2022\)](https://open.spotify.com/album/3ADhhPdW6cQNw9HVmtBjf9) | 4:25 | 2022-08-01 | 2022-12-27 |
 | [Romance](https://open.spotify.com/track/5NBfTcPP4lziv3z36P2OPI) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Ghost Doctor, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/4toPwTrNu6DrRmXestTGzS) | 4:06 | 2022-02-25 | 2022-05-24 |
@@ -1284,6 +1285,7 @@
 | [Wedding song](https://open.spotify.com/track/4bO0jUMVOuTaCrchNYg1Ta) | [J\-Cera](https://open.spotify.com/artist/2ZHaUPxvjSB8UZ33QEjm6N) | [Wedding song](https://open.spotify.com/album/3RP3aPzjGu4rMQka7I1BPD) | 3:50 | 2023-02-24 | 2023-04-27 |
 | [Weird](https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Weird](https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y) | 4:08 | 2024-03-15 | 2024-08-01 |
 | [What do you think](https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Delivery Man, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC) | 4:42 | 2023-03-27 | 2023-08-25 |
+| [What else](https://open.spotify.com/track/489iFTivqvY74tf9LSyTHK) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [What else \(Crushology 101 OST Part.5\)](https://open.spotify.com/album/6fLPZLlVwHR3eXFSz283Ay) | 3:09 | 2025-05-07 |  |
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-09-19 |
 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 | 2025-02-06 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 | 2025-04-22 |  |

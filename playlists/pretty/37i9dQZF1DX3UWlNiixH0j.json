@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Chappo \u30b7\u30e3\u30c3\u30dd",
-  "num_followers": 61858,
+  "num_followers": 61885,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
+        "name": "Passing (PAS TASTA Remix)",
+        "url": "https://open.spotify.com/album/04pxdk6Ky7i3MF2JZ3c7dM"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        },
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Passing - PAS TASTA Remix",
+      "url": "https://open.spotify.com/track/1lXCUs6VzMKZO7p5dm2QhK"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
         "name": "GRAND POP",
         "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "Passing (PAS TASTA Remix)",
-        "url": "https://open.spotify.com/album/04pxdk6Ky7i3MF2JZ3c7dM"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        },
-        {
-          "name": "PAS TASTA",
-          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Passing - PAS TASTA Remix",
-      "url": "https://open.spotify.com/track/1lXCUs6VzMKZO7p5dm2QhK"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
         "name": "ASOBO",
         "url": "https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 208653,
       "name": "ASOBO",
       "url": "https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
-        "name": "Minds & Colors",
-        "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
-      },
-      "artists": [
-        {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
     },
     {
       "added_at": "2025-05-06 15:00:04",
@@ -819,22 +803,6 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
-        "url": "https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m"
-      },
-      "artists": [
-        {
-          "name": "Khaki",
-          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
-        }
-      ],
-      "duration_ms": 174007,
-      "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
-      "url": "https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
         "name": "AWAKE",
         "url": "https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 233000,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
+        "name": "Minds & Colors",
+        "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
+        "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
+        "url": "https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m"
+      },
+      "artists": [
+        {
+          "name": "Khaki",
+          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
+        }
+      ],
+      "duration_ms": 174007,
+      "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
+      "url": "https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI"
     },
     {
       "added_at": "2025-05-06 15:00:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "\u98a8\u304c\u306f\u3084\u3044",
-        "url": "https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1"
-      },
-      "artists": [
-        {
-          "name": "Sundae May Club",
-          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
-        }
-      ],
-      "duration_ms": 112017,
-      "name": "\u6e26\u4e2d\u30ed\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
         "name": "\u30e1\u30ed\u3044\u5922",
         "url": "https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159648,
       "name": "\u541b\u306b\u30ce\u30fc\u30d9\u30eb\u8cde",
       "url": "https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
+        "name": "\u98a8\u304c\u306f\u3084\u3044",
+        "url": "https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1"
+      },
+      "artists": [
+        {
+          "name": "Sundae May Club",
+          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
+        }
+      ],
+      "duration_ms": 112017,
+      "name": "\u6e26\u4e2d\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu"
     },
     {
       "added_at": "2025-05-06 15:00:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "Kaze",
-        "url": "https://open.spotify.com/album/1UsXneklNKajfXyDwucJ8H"
-      },
-      "artists": [
-        {
-          "name": "No Buses",
-          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/4xpFyoaOkH5UK9BPv3nWBZ"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
         "name": "In Your Languages",
         "url": "https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 296500,
       "name": "Whenever, Whatever",
       "url": "https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
+        "name": "Kaze",
+        "url": "https://open.spotify.com/album/1UsXneklNKajfXyDwucJ8H"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/4xpFyoaOkH5UK9BPv3nWBZ"
     },
     {
       "added_at": "2025-05-06 15:00:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "Antigone",
-        "url": "https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm"
-      },
-      "artists": [
-        {
-          "name": "Eiko Ishibashi",
-          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
-        }
-      ],
-      "duration_ms": 246503,
-      "name": "Trial",
-      "url": "https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN"
-    },
-    {
-      "added_at": "2025-05-06 15:00:04",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 169208,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
+    },
+    {
+      "added_at": "2025-05-06 15:00:04",
+      "album": {
+        "name": "Antigone",
+        "url": "https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm"
+      },
+      "artists": [
+        {
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+        }
+      ],
+      "duration_ms": 246503,
+      "name": "Trial",
+      "url": "https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN"
     },
     {
       "added_at": "2025-05-06 15:00:04",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-05-06 15:00:04",
       "album": {
-        "name": "\u5065\u5eb7",
-        "url": "https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE"
+        "name": "\u9759\u5ca1",
+        "url": "https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo"
       },
       "artists": [
         {
-          "name": "\u771e\u540d\u5b50\u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
         }
       ],
-      "duration_ms": 182467,
-      "name": "\u5065\u5eb7",
-      "url": "https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l"
+      "duration_ms": 224256,
+      "name": "\u9759\u5ca1",
+      "url": "https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58"
     },
     {
       "added_at": "2025-05-06 15:00:04",

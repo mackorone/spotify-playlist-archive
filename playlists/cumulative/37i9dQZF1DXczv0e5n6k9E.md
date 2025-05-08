@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: SNIK
 
-386 songs - 17 hr 53 min
+387 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [MONEYFEST](https://open.spotify.com/track/7CQlohLZtYhPXJba0MY3dz) | [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc), [duKYS](https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89) | [MEGAS DIDASKALOS](https://open.spotify.com/album/686b1ue5xFv9qhmCP7i5aN) | 2:43 | 2025-04-03 | 2025-04-25 |
 | [MOTTO](https://open.spotify.com/track/4V9TARJscHk9TSApWcDeIJ) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [MOTTO](https://open.spotify.com/album/6fnu3h9vz9wXCDMVObkXEo) | 2:24 | 2024-12-19 | 2025-02-14 |
 | [MPATSOI](https://open.spotify.com/track/1IfseN2xCxhrorW4g3xiMU) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC), [Stef Tony](https://open.spotify.com/artist/3JcFxZ928S8hsqkaNZhbwZ), [Cenobite](https://open.spotify.com/artist/0t9MS2F03BZi3oLSJNSRb3) | [Balkan Express](https://open.spotify.com/album/4bDm0ffAgvsIqLzFyfBWEs) | 2:02 | 2024-12-12 | 2025-01-17 |
+| [Mprosta](https://open.spotify.com/track/2J8LgasKpBYXV45m9Dj451) | [12os Pithikos](https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [Mprosta](https://open.spotify.com/album/1kohqG5msRGOfXMJO8xvub) | 4:25 | 2025-05-01 |  |
 | [MYKONOS](https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [MYKONOS](https://open.spotify.com/album/3Y9mR0pM4tqO4QdRs3twm8) | 2:31 | 2024-06-27 | 2024-11-29 |
 | [Mystika](https://open.spotify.com/track/3pWiP0toxFKeo4x9ylPPHv) | [Dimitris Koufoudakis](https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx), [Fer de Lance](https://open.spotify.com/artist/5PYdmvWY1gtKiCvmJ4tgYW), [Exus186](https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4), [Kazal](https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR) | [Mystika](https://open.spotify.com/album/4dqURWZpBfTrG3ALTlZDxC) | 2:39 | 2025-04-10 | 2025-04-25 |
 | [Na Vreksi \- A COLORS SHOW](https://open.spotify.com/track/0cu0fPNoTGKE7pwnR7lsCf) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Na Vreksi \- A COLORS SHOW](https://open.spotify.com/album/4DXZkuGHuAUpmnav9OQf4j) | 2:15 | 2024-07-18 | 2024-08-16 |

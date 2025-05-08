@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,563 likes - 82 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,555 likes - 82 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 |
 | 7 | [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 |
 | 8 | [Allerlaatste Keer](https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Allerlaatste Keer](https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl) | 2:20 |
-| 9 | [Dochters](https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Dochters](https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp) | 2:23 |
+| 9 | [Dochters](https://open.spotify.com/track/4GLeBTdjA8DUopnjV8pjOl) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Dochters \(Titelsong\)](https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp) | 2:23 |
 | 10 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 11 | [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 |
 | 12 | [Carrousel](https://open.spotify.com/track/37ol7vhRstiq8txUKXDkNP) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Carrousel](https://open.spotify.com/album/4MVvf0xyqyN8o0QN1GqZM6) | 2:19 |

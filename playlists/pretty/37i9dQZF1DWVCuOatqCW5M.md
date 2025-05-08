@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Arjun Kanungo, Badshah, Madhubanti Bagchi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,200 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,224 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 21 | [Koyal](https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Koyal](https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw) | 3:28 |
 | 22 | [Khaula Ishq](https://open.spotify.com/track/4lCzEbt9ZryXjTt9zUu6Hb) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Irfan Siddiqui](https://open.spotify.com/artist/4s8DyR2k1eh2fBJt86M43K) | [Khaula Ishq](https://open.spotify.com/album/1n02dVvBOb8HCmgk9z1aoM) | 3:59 |
 | 23 | [Nazar](https://open.spotify.com/track/79nB5wBVW8GtqaTdrnWwsS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Nazar](https://open.spotify.com/album/5mbnll7Q0EZcSC88Cvutut) | 4:08 |
-| 24 | [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 |
+| 24 | [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 |
 | 25 | [Shartein](https://open.spotify.com/track/1FgWDCNXay9OdzhJvjf2Jk) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Shartein](https://open.spotify.com/album/3Z4gmVatSpBamkaJkNedrY) | 4:03 |
 | 26 | [Nadi](https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadi](https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H) | 3:26 |
 | 27 | [Tu Hi Meri Zindagi](https://open.spotify.com/track/7rgysJ5lEL2hIjBvfPeeGO) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Tu Hi Meri Zindagi](https://open.spotify.com/album/5wbgHV65OT4SjCzZkQCWk7) | 3:17 |

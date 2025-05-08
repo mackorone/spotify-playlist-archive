@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,275 likes - 157 songs - 8 hr 51 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,273 likes - 157 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 146 | [ONME](https://open.spotify.com/track/2eUBYrE0XIRfQhwwJnqDlx) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [ONME](https://open.spotify.com/album/6Acvvt2LbbJkoeBvkfPz6t) | 2:12 |
 | 147 | [Hollywood \(Waiting\)](https://open.spotify.com/track/5PzeeDJhXMcfdpCXefpaTB) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG) | [Bluewerks Vol\. 17: SLICE](https://open.spotify.com/album/4Fk03pKsZHzismavOjBFOT) | 4:33 |
 | 148 | [Walk Away](https://open.spotify.com/track/6v0MkE83u8BmNTgorcN0Bg) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Walk Away](https://open.spotify.com/album/6SU0RYy52AlhbxmqrFLmgT) | 3:09 |
-| 149 | [Wild Flowers](https://open.spotify.com/track/5GvC8Uzo1zIb03zWNHC2V2) | [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [Wild Flowers](https://open.spotify.com/album/3AYsxTbk9MZtVjquj60Isb) | 5:23 |
+| 149 | [Wild Flowers](https://open.spotify.com/track/5GvC8Uzo1zIb03zWNHC2V2) | [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [Wild Flowers](https://open.spotify.com/album/3AYsxTbk9MZtVjquj60Isb) | 5:23 |
 | 150 | [Matter](https://open.spotify.com/track/09PC3yX4cqQJiuZmZvoluo) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Matter](https://open.spotify.com/album/3n90t0r97zC6UpKATYOAqe) | 3:40 |
 | 151 | [Something About You](https://open.spotify.com/track/63TDBxivgxx437JRtxyiVN) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Something About You / Haste](https://open.spotify.com/album/4E67PTUrLgvMdO2prAsAdg) | 3:32 |
 | 152 | [Hittem](https://open.spotify.com/track/21dx0x8Q8s0rw4loRxgzUk) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Hittem](https://open.spotify.com/album/4JaGrqJa0UoFbBMq9vfRBh) | 3:32 |

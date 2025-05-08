@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ud06c\ub77c\uc789\ub11b (CRYING NUT)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: DAY6) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Birthday Song",
+        "url": "https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT"
+    },
+    {
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 214320,
       "name": "blu print",
       "url": "https://open.spotify.com/track/03B8ay9lItNvNIBbmPoL7C"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 202870,
       "name": "Cat",
       "url": "https://open.spotify.com/track/7LGxie1fkXm3vHQvjijoBw"
@@ -3631,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "Dream is Beautiful",
+        "url": "https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134533,
+      "name": "Dream is Beautiful",
+      "url": "https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY"
       },
@@ -4732,7 +4768,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 189403,
       "name": "Fuck Your Neighbor (FYN)",
       "url": "https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3"
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 216066,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/3YazEnAmUwCJnL2HNYquFN"
@@ -6676,7 +6712,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 150269,
       "name": "I \u2260 DOLL",
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
@@ -7308,6 +7344,24 @@
       "duration_ms": 219026,
       "name": "It\u2032s Red (Feat. Park Dawool)",
       "url": "https://open.spotify.com/track/7oB8XYkkN0oPKMoex43HeL"
+    },
+    {
+      "album": {
+        "name": "Resident Playbook, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227530,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7"
     },
     {
       "album": {
@@ -8496,7 +8550,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 175600,
       "name": "Love Crash!",
       "url": "https://open.spotify.com/track/7H61vBAGi62KrbCmGj04Yj"
@@ -8904,6 +8958,46 @@
       "duration_ms": 343746,
       "name": "Make My Sadness a Cloud",
       "url": "https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW"
+    },
+    {
+      "album": {
+        "name": "Sound of Music pt.1",
+        "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        },
+        {
+          "name": "KARINA",
+          "url": "https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
+      "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
+    },
+    {
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
     },
     {
       "album": {
@@ -12341,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "Scentria Forest",
+        "url": "https://open.spotify.com/album/7wMKJTDEU0zjQhtJT7ut4x"
+      },
+      "artists": [
+        {
+          "name": "OWALLOIL",
+          "url": "https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217711,
+      "name": "Scentria Forest",
+      "url": "https://open.spotify.com/track/10pKtFhaP67u3870jeMd7v"
+    },
+    {
+      "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
@@ -14599,6 +14711,24 @@
     },
     {
       "album": {
+        "name": "Theory of Happiness",
+        "url": "https://open.spotify.com/album/67wjLxTpwPDc30xl3btNvc"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Theory of Happiness",
+      "url": "https://open.spotify.com/track/5jJwkrmBWIWSbsZomwbDAc"
+    },
+    {
+      "album": {
         "name": "This is Beta Testing",
         "url": "https://open.spotify.com/album/4bf0FX0qrw3lYJETWgIdi5"
       },
@@ -15656,7 +15786,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
@@ -16920,7 +17050,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
@@ -17284,7 +17414,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 222040,
       "name": "\uc791\uc740 \ubd04",
       "url": "https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq"

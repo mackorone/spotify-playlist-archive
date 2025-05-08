@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,784 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,860 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 57 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 58 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
 | 59 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
-| 60 | [LOVER/LOSER](https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [LOVER/LOSER](https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy) | 3:03 |
-| 61 | [Change \- Edit](https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Change \(Edit\)](https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp) | 3:31 |
+| 60 | [Change \- Edit](https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Change \(Edit\)](https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp) | 3:31 |
+| 61 | [LOVER/LOSER](https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [LOVER/LOSER](https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy) | 3:03 |
 | 62 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
 | 63 | [Backwards \- Dirty Danger Remix](https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Dirty Danger](https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG) | [Backwards \(Dirty Danger Remix\)](https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP) | 2:21 |
 | 64 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 66 | [Lucky U](https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Lucky U](https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ) | 2:50 |
 | 67 | [Promised Me Love](https://open.spotify.com/track/6b5NKD3dNcwNs2RzMZvjE2) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Finn Rees](https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb), [Joy Spheres Rees](https://open.spotify.com/artist/2BJvzGYPdJyk3kT90S6gmD) | [Promised Me Love](https://open.spotify.com/album/6ZSsKjaKt5xFuAGk8piIrW) | 4:28 |
 | 68 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
-| 69 | [Outside](https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Outside](https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk) | 3:29 |
-| 70 | [Hold of Me](https://open.spotify.com/track/5yzwtVC34FhG478dU4SlKT) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Rhythm Vol.1](https://open.spotify.com/album/2Icj4vEVEjXyrIHhEWWJ2e) | 3:42 |
+| 69 | [Hold of Me](https://open.spotify.com/track/5yzwtVC34FhG478dU4SlKT) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Rhythm Vol.1](https://open.spotify.com/album/2Icj4vEVEjXyrIHhEWWJ2e) | 3:42 |
+| 70 | [Outside](https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Outside](https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk) | 3:29 |
 
 Snapshot ID: `aAEhDQAAAAAgQ5tdZVaYDKy3sPXw6STf`

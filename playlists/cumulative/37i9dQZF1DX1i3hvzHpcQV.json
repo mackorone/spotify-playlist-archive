@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Good Bad Ugly [TAMIL]",
+        "url": "https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC"
+      },
+      "artists": [
+        {
+          "name": "Darkkey",
+          "url": "https://open.spotify.com/artist/04RZUhq6dIFyX9eJYij92Q"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "Ak - The Tiger",
+      "url": "https://open.spotify.com/track/6XyeIcCT97drM5lzi9Pq88"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -2500,7 +2522,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 149433,
       "name": "Porkanda Singam (EDM Version) [From \"Vikram\"]",
       "url": "https://open.spotify.com/track/12LE4Omy9ze8xTOMofMVB3"

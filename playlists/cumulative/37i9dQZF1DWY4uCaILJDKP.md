@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-162 songs - 10 hr 57 min
+163 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [終わらない歌](https://open.spotify.com/track/5q2k4ZcQxv0B8lnb8G4B6g) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [終わらない歌](https://open.spotify.com/album/2lbFEf1xibFfNrq7jsu2oo) | 3:40 | 2022-03-08 |  |
 | [絶唱！なにわで生まれた少女たち](https://open.spotify.com/track/2nAeK63zz8YGcufGW16Y58) | [TACOYAKI RAINBOW](https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq) | [絶唱！なにわで生まれた少女たち \(Special Edition\)](https://open.spotify.com/album/1RfkKGbNIT3yhqkkDLyuwi) | 4:34 | 2022-03-08 |  |
 | [自分キログラム](https://open.spotify.com/track/0ZYebJLkuA9hiZTMon2xvD) | [ALL IN](https://open.spotify.com/artist/4nv5YPEq0pGqERWTpG86ej) | [自分キログラム](https://open.spotify.com/album/79CaxgIuSw3cLQND1zCEsa) | 3:03 | 2025-01-10 |  |
-| [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 | 2022-03-08 |  |
+| [行くぜっ! 怪盗少女 \- 2025 REMIX](https://open.spotify.com/track/6cm22Yo38X6cGmDOO6Wf5v) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [吉野謙志](https://open.spotify.com/artist/2AhH47IKjObuyfMoYef0jM) | [行くぜっ! 怪盗少女 / 走れ! \(2025 REMIX\)](https://open.spotify.com/album/4BgontHfrEvN0Nepa5MILA) | 3:47 | 2025-05-07 |  |
+| [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 | 2022-03-08 | 2025-05-08 |
 | [表裏一体](https://open.spotify.com/track/6aBOMQNskwFTl330WjOkrO) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [表裏一体](https://open.spotify.com/album/0vduACUV6AI6yH3n4h7WdX) | 5:36 | 2022-03-08 |  |
 | [誠\-Live for Justice\-](https://open.spotify.com/track/1L5wceNlns34OuiQ1UycYO) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:32 | 2022-03-08 |  |
 | [負けん気！強気！元気！前向き！](https://open.spotify.com/track/16rnSK4y4AEinny7crgWaD) | [雪野のえる starring 北原沙弥香](https://open.spotify.com/artist/5Yz9YjEMV8fJPW9mZ5Lm5n) | [きらりん☆レボリューション・ソング・セレクション \(5\)](https://open.spotify.com/album/1W9vnBbk3VJgvIZwgasYQ1) | 3:25 | 2025-01-02 |  |

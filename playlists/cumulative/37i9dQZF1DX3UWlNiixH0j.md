@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Chappo シャッポ
 
-2,381 songs - 6 day 4 hr 37 min
+2,382 songs - 6 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1948,7 +1948,7 @@
 | [俺たち](https://open.spotify.com/track/6IcsgTSy0IILxdNsRgEDfJ) | [TØGARÜ](https://open.spotify.com/artist/5ouwyGcoeuDl6mRua8okkb) | [俺たち](https://open.spotify.com/album/7ghl2hdqBzeWcSgyjrL8bf) | 3:42 | 2025-05-01 | 2025-05-07 |
 | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/track/6KxqJCpuP6ZRPOs2xyVDZO) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/album/3GZvgiUm8uL3Iqdf23QIfY) | 3:37 | 2024-02-20 | 2024-02-22 |
 | [俺に真実を教えてくれ!!](https://open.spotify.com/track/1K9T9R5EgS4TThkDzjvx1W) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [俺に真実を教えてくれ!!](https://open.spotify.com/album/3paW3uw5uQJH5aJN59tU8W) | 1:34 | 2024-06-17 | 2024-09-18 |
-| [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 | 2025-01-23 |  |
+| [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 | 2025-01-23 | 2025-05-08 |
 | [健康なライフ](https://open.spotify.com/track/3QilKo8Ltdrqj7vGzFwbz1) | [踊る！ディスコ室町](https://open.spotify.com/artist/0zOXaa6lzmLjtp5mbRV37p) | [Murology](https://open.spotify.com/album/1sJ9IkvXyTVlvhUk6ZtFk6) | 5:08 | 2025-02-18 | 2025-03-05 |
 | [僕しか知らない](https://open.spotify.com/track/5bO0x5yT69HKIDVekQWUVV) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [僕しか知らない](https://open.spotify.com/album/1tDVydiEgw1y82hjmOvEcN) | 3:34 | 2023-09-26 | 2023-09-28 |
 | [僕の右手](https://open.spotify.com/track/2CLJmMe5g3ZKmQg13zKR9o) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [僕の右手](https://open.spotify.com/album/7bKj3wV1x34nhrkaTTO7rq) | 4:59 | 2023-08-15 | 2023-08-23 |
@@ -2366,6 +2366,7 @@
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-03-08 |
 | [青い雨](https://open.spotify.com/track/2ybDGwhFqT7gOsPulLMo0v) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [青い雨](https://open.spotify.com/album/2DmMx1JHTI5StG8qs7LL84) | 3:33 | 2023-06-13 | 2023-06-15 |
 | [青春だった](https://open.spotify.com/track/17q9guNF1LDW9bVonF45Nv) | [わたしたちは真悟](https://open.spotify.com/artist/2cef2XVY5X6vHLI3eEDG7J) | [青春だった](https://open.spotify.com/album/7fcCmT9YBwr80SL6zO8Xln) | 3:38 | 2024-05-28 | 2024-06-05 |
+| [静岡](https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [静岡](https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo) | 3:44 | 2025-05-06 |  |
 | [預言者](https://open.spotify.com/track/7uw4txmyapTji8Ee6Ex1nV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [\(\(ika\)\)](https://open.spotify.com/album/46yFYGF7mbFCnwQbMgetRp) | 3:18 | 2024-04-30 | 2024-09-18 |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2024-09-18 |
 | [風になって](https://open.spotify.com/track/4rz9SL6tnC4Pno1DQQCk2y) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [風になって](https://open.spotify.com/album/2s7KGADcWkxCNpui3yFsoG) | 3:40 | 2024-04-09 | 2024-04-17 |

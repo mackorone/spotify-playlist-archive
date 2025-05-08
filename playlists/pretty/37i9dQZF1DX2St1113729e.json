@@ -1,6 +1,6 @@
 {
   "description": " sOniiDos En conStaNte mutAci\u00f3Nn \u2729\u00b0\uff61\u22c6\u2e1c \ud83c\udfa7\u272e feat. AKRIILA, Juicy BAE.",
-  "num_followers": 215468,
+  "num_followers": 215488,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
+        "name": "TIGUERON",
+        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "TIGUERON",
+      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
         "name": "el curioso caso de benjamin manto",
         "url": "https://open.spotify.com/album/1oVAbgraaNdXomMs0Kt61e"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 110886,
       "name": "matabufalos",
       "url": "https://open.spotify.com/track/29kPpxbhXtL84iiajmRTjX"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
-        "name": "TIGUERON",
-        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
-      },
-      "artists": [
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        },
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "TIGUERON",
-      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/7uPQ5WlQIRpKw3kTF0Rx6u"
-      },
-      "artists": [
-        {
-          "name": "Euskoprincess",
-          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
-        },
-        {
-          "name": "Mattin",
-          "url": "https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO"
-        }
-      ],
-      "duration_ms": 103399,
-      "name": "MALA FAMA",
-      "url": "https://open.spotify.com/track/45qaU0OsdxUw7v4Ld9QuY5"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
         "name": "CAR CRUSH",
         "url": "https://open.spotify.com/album/4dYoOgTEdw0UxKwCpjUKF5"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 186900,
       "name": "CAR CRUSH",
       "url": "https://open.spotify.com/track/78uYMghzmGTmCuzzPaEqVa"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/7uPQ5WlQIRpKw3kTF0Rx6u"
+      },
+      "artists": [
+        {
+          "name": "Euskoprincess",
+          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
+        },
+        {
+          "name": "Mattin",
+          "url": "https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO"
+        }
+      ],
+      "duration_ms": 103399,
+      "name": "MALA FAMA",
+      "url": "https://open.spotify.com/track/45qaU0OsdxUw7v4Ld9QuY5"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
+        "name": "verde",
+        "url": "https://open.spotify.com/album/1kU14nFKPInJXaQpSCcBqY"
+      },
+      "artists": [
+        {
+          "name": "misss",
+          "url": "https://open.spotify.com/artist/6jhs7ENMVkWJjvoHCFZpvU"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "verde",
+      "url": "https://open.spotify.com/track/1lNSt9cxjZQeNHr7qQp24C"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
         "name": "Otra rola y un par de besos",
         "url": "https://open.spotify.com/album/3RDJqCoj4V3WMLhTvNiKIN"
       },
@@ -1399,6 +1415,22 @@
       "duration_ms": 101943,
       "name": "Otra rola y un par de besos",
       "url": "https://open.spotify.com/track/0sN90O9DABN7CvJ9StDuPb"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
+        "name": "LUNA DE MIEL",
+        "url": "https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "duration_ms": 128673,
+      "name": "LUNA DE MIEL",
+      "url": "https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1423,38 +1455,6 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
-        "name": "LUNA DE MIEL",
-        "url": "https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W"
-      },
-      "artists": [
-        {
-          "name": "Ana Farelo",
-          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
-        }
-      ],
-      "duration_ms": 128673,
-      "name": "LUNA DE MIEL",
-      "url": "https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
-      },
-      "artists": [
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
         "name": "Cr\u00f3nicas de Nadie",
         "url": "https://open.spotify.com/album/5OsKjVYSF6CiYbfFAc2mTF"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
-        "name": "verde",
-        "url": "https://open.spotify.com/album/1kU14nFKPInJXaQpSCcBqY"
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
       "artists": [
         {
-          "name": "misss",
-          "url": "https://open.spotify.com/artist/6jhs7ENMVkWJjvoHCFZpvU"
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
         }
       ],
-      "duration_ms": 195230,
-      "name": "verde",
-      "url": "https://open.spotify.com/track/1lNSt9cxjZQeNHr7qQp24C"
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
+        "name": "persiguiendo musas (mixtape)",
+        "url": "https://open.spotify.com/album/5oEAFUsaRNbhNd39fMom8b"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "duration_ms": 152856,
+      "name": "no lo entiendo...",
+      "url": "https://open.spotify.com/track/1CpN12hB8NSkUul21Kbabb"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
         "name": "10g de polen",
         "url": "https://open.spotify.com/album/4xrJeIzrtiXDuCfZ5vMeG4"
       },
@@ -1567,6 +1583,22 @@
       "duration_ms": 193681,
       "name": "10g de polen",
       "url": "https://open.spotify.com/track/73zUjNka4cvwb8sxEBfLrJ"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
+        "name": "JOHATSU",
+        "url": "https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "JOHATSU",
+      "url": "https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1591,34 +1623,22 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
-        "name": "JOHATSU",
-        "url": "https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1"
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/6nEwSmQW5NcYPKR8pgrZc6"
       },
       "artists": [
         {
-          "name": "Ana Farelo",
-          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "JOHATSU",
-      "url": "https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
-        "name": "persiguiendo musas (mixtape)",
-        "url": "https://open.spotify.com/album/5oEAFUsaRNbhNd39fMom8b"
-      },
-      "artists": [
+          "name": "ImNuoki",
+          "url": "https://open.spotify.com/artist/0vFDPGdLR4mm5ie1beusfc"
+        },
         {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
         }
       ],
-      "duration_ms": 152856,
-      "name": "no lo entiendo...",
-      "url": "https://open.spotify.com/track/1CpN12hB8NSkUul21Kbabb"
+      "duration_ms": 172500,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/2JnfBsVWupSlr1LXRUTaU2"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1639,26 +1659,6 @@
       "duration_ms": 109714,
       "name": "Luv letter",
       "url": "https://open.spotify.com/track/2fQOFTnTQFXMDDwIsxqARj"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
-        "name": "INSOMNIA",
-        "url": "https://open.spotify.com/album/6nEwSmQW5NcYPKR8pgrZc6"
-      },
-      "artists": [
-        {
-          "name": "ImNuoki",
-          "url": "https://open.spotify.com/artist/0vFDPGdLR4mm5ie1beusfc"
-        },
-        {
-          "name": "Dewuhu",
-          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "INSOMNIA",
-      "url": "https://open.spotify.com/track/2JnfBsVWupSlr1LXRUTaU2"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-05-01 22:00:23",
       "album": {
-        "name": "lovelanguage,",
-        "url": "https://open.spotify.com/album/7pc2QMwGsA36CTsmTHnnjA"
-      },
-      "artists": [
-        {
-          "name": "keko",
-          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
-        }
-      ],
-      "duration_ms": 174994,
-      "name": "ROMAN EMPIRE!",
-      "url": "https://open.spotify.com/track/08VCLpjhrKQbKlF50kq8MK"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
         "name": "Te Hice una Cancion! (Remix)",
         "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
       },
@@ -1811,6 +1795,42 @@
       "duration_ms": 193714,
       "name": "Te Hice una Cancion! - Remix",
       "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
+        "name": "lovelanguage,",
+        "url": "https://open.spotify.com/album/7pc2QMwGsA36CTsmTHnnjA"
+      },
+      "artists": [
+        {
+          "name": "keko",
+          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
+        }
+      ],
+      "duration_ms": 174994,
+      "name": "ROMAN EMPIRE!",
+      "url": "https://open.spotify.com/track/08VCLpjhrKQbKlF50kq8MK"
+    },
+    {
+      "added_at": "2025-05-01 22:00:23",
+      "album": {
+        "name": "Diluvia",
+        "url": "https://open.spotify.com/album/0D2rtQvpsAPmAQPsqibcQd"
+      },
+      "artists": [
+        {
+          "name": "Lexxi",
+          "url": "https://open.spotify.com/artist/0Hq4VsUMJJSDMouXwWm0K3"
+        },
+        {
+          "name": "Rokkme",
+          "url": "https://open.spotify.com/artist/7E8e4CmH5Vvqt8sC3G2tuU"
+        }
+      ],
+      "duration_ms": 137836,
+      "name": "Diluvia",
+      "url": "https://open.spotify.com/track/1tjX5e7W7CBAAU5qVvEU6Q"
     },
     {
       "added_at": "2025-05-01 22:00:23",
@@ -1871,30 +1891,6 @@
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
-    },
-    {
-      "added_at": "2025-05-01 22:00:23",
-      "album": {
-        "name": "espinas koraz\u00f3n",
-        "url": "https://open.spotify.com/album/0wN9e7tlNhLbdyoJvLlZiV"
-      },
-      "artists": [
-        {
-          "name": "kor4triste",
-          "url": "https://open.spotify.com/artist/4nBDI0qVU18ips2bRT3gAc"
-        },
-        {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
-        },
-        {
-          "name": "Danisan47",
-          "url": "https://open.spotify.com/artist/1yTlZQrJjObA2BxIjdyp4Z"
-        }
-      ],
-      "duration_ms": 143363,
-      "name": "espinas koraz\u00f3n",
-      "url": "https://open.spotify.com/track/22rCwmI7jnG40zH2IyQ1SN"
     }
   ],
   "unique_name": "helium",

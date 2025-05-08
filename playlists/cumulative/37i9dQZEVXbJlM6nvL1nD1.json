@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 154845,
       "name": "Dan\u00e7alao",
       "url": "https://open.spotify.com/track/7EeZMKsgrkPOiyeJWZgagI"
@@ -12016,7 +12016,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -19802,7 +19802,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -21784,6 +21784,24 @@
       "duration_ms": 103240,
       "name": "X20X",
       "url": "https://open.spotify.com/track/1lqJic7VMR7PBlwpPrZuPK"
+    },
+    {
+      "album": {
+        "name": "XCLANA",
+        "url": "https://open.spotify.com/album/4sd5sCQVP1MH0U9cK62yob"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "XCLANA",
+      "url": "https://open.spotify.com/track/4wlv3MSrlHVXpr6Z6zeK3T"
     },
     {
       "album": {

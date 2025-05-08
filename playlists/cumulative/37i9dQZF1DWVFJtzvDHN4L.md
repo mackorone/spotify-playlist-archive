@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-98 songs - 4 hr 43 min
+99 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Game of Croquet](https://open.spotify.com/track/2TGTivEqpW9RUkfukL7vvA) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:45 | 2021-11-19 |  |
 | [A Rose in Spanish Harlem \(Bonus Track\)](https://open.spotify.com/track/3jbDmjnUYXoEbuwHEnt12O) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:56 | 2021-11-19 |  |
 | [Alma](https://open.spotify.com/track/5s1mZcxqYhgmlvDxg4IGwt) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 4:07 | 2021-11-19 |  |
+| [American Beauty \- Arr\. for Orchestra by David Le Page](https://open.spotify.com/track/44yJ0ref4zNaTgLzoVLyLN) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x), [David Gordon](https://open.spotify.com/artist/4YvmbUu5BxZsyJkkgf5CZN) | [American Beauty \(Arr\. for Orchestra by David Le Page\)](https://open.spotify.com/album/20gCLYuqHftsYNN3DnE9NN) | 3:18 | 2025-05-07 |  |
 | [American Symphony Theme](https://open.spotify.com/track/12YNZAFHGLIrtzQU7cfnQ6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 2:41 | 2024-11-19 |  |
 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 | 2021-11-19 |  |
 | [Beyond](https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Il Grande Male \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL) | 3:12 | 2023-05-12 |  |

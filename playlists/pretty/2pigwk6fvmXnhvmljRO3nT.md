@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,056 songs - 18 day 8 hr 42 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,066 songs - 18 day 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7064,5 +7064,15 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7054 | [once in a moon](https://open.spotify.com/track/1OefEa9FQ4XxiYRC1cv3GI) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 4:05 |
 | 7055 | [The Mercy of the Wind](https://open.spotify.com/track/59EPbYaZgU4qrQy1OwwhKt) | [Million Eyes](https://open.spotify.com/artist/2sXnk24vARe4jxHbd1HbEq) | [In the Wind](https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW) | 1:45 |
 | 7056 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
+| 7057 | [Kanashii Ureshii](https://open.spotify.com/track/6TT5vTinGLuUQcepMyZ21G) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [TOGENKYO](https://open.spotify.com/album/6g6gE5X9F6Re0avkttNDcw) | 4:45 |
+| 7058 | [READY STEADY GO \- Remastered 2022](https://open.spotify.com/track/18Z9odGzO4WPtF4FUJzre9) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [SMILE \(Remastered 2022\)](https://open.spotify.com/album/57On4WC4VZAEp62QGLeqI3) | 3:45 |
+| 7059 | [レイン](https://open.spotify.com/track/2LZ9iobmtiQa52mZMIebuH) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [dead stock](https://open.spotify.com/album/2ixMIjm8h9yWYzWer77AhV) | 4:15 |
+| 7060 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
+| 7061 | [ワタリドリ](https://open.spotify.com/track/5PFxNrRme9z6jiprt8AfqX) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Where's My History?](https://open.spotify.com/album/3HcoGE0lkcDVOR6BhyfFDE) | 4:13 |
+| 7062 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 |
+| 7063 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
+| 7064 | [Mr\-Ambiguous](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [HELLO](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) | 3:41 |
+| 7065 | [You’re the Best](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 3:50 |
+| 7066 | [I Think They Call This Love](https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu) | 3:13 |
 
-Snapshot ID: `AAAF8uEiSBliG01xCX8dNaefIbfO/UnY`
+Snapshot ID: `AAAF/AuL4p/u/OnM03TfJ+Rvy6Wv5GO/`

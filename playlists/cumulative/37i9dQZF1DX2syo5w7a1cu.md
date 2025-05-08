@@ -2,7 +2,7 @@
 
 ### [Soft 90s](https://open.spotify.com/playlist/37i9dQZF1DX2syo5w7a1cu)
 
-> Mellow songs from the 90s\. Cover: Mariah Carey
+> Mellow songs from the 90s.
 
 376 songs - 1 day 4 hr 6 min
 

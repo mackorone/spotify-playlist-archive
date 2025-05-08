@@ -5175,6 +5175,36 @@
     },
     {
       "album": {
+        "name": "Mprosta",
+        "url": "https://open.spotify.com/album/1kohqG5msRGOfXMJO8xvub"
+      },
+      "artists": [
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265882,
+      "name": "Mprosta",
+      "url": "https://open.spotify.com/track/2J8LgasKpBYXV45m9Dj451"
+    },
+    {
+      "album": {
         "name": "MYKONOS",
         "url": "https://open.spotify.com/album/3Y9mR0pM4tqO4QdRs3twm8"
       },

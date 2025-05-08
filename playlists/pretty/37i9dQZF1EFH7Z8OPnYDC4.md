@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 330 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 531 likes - 330 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,8 +314,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 304 | [In Time](https://open.spotify.com/track/48REPh28xAVT5o6k69w58w) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:53 |
 | 305 | [Why?](https://open.spotify.com/track/6sHjiDKhviVimNFyik2Rgm) | [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 3:00 |
 | 306 | [From Afar](https://open.spotify.com/track/7lV93cvaU5RjR3BaxYgUQS) | [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 3:05 |
-| 307 | [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 |
-| 308 | [Rodgers: Suite From "The Valiant Years"](https://open.spotify.com/track/1CL0bPf6dr7fUqrvu3fiUb) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Erich Kunzel](https://open.spotify.com/artist/6a9IGvEOlro1FRZmeEH48Z), [Cincinnati Pops Orchestra](https://open.spotify.com/artist/1FV3sKugQJFGWgWpMIA2Fy) | [Selections From Victory At Sea, War And Remembrance & Other Favorites](https://open.spotify.com/album/7nt38HuGwWM9BgEc7qCzdq) | 4:38 |
+| 307 | [Rodgers: Suite From "The Valiant Years"](https://open.spotify.com/track/1CL0bPf6dr7fUqrvu3fiUb) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Erich Kunzel](https://open.spotify.com/artist/6a9IGvEOlro1FRZmeEH48Z), [Cincinnati Pops Orchestra](https://open.spotify.com/artist/1FV3sKugQJFGWgWpMIA2Fy) | [Selections From Victory At Sea, War And Remembrance & Other Favorites](https://open.spotify.com/album/7nt38HuGwWM9BgEc7qCzdq) | 4:38 |
+| 308 | [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 |
 | 309 | [You Took Advantage of Me / Do I Hear You Saying ''I Love You'' \- From the Musical ''Present Arms''](https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Deane Janis](https://open.spotify.com/artist/6kJih1Kejtd8n7KShKto1T) | [Smash Song Hits by Rodgers & Hart](https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2) | 2:59 |
 | 310 | [Strangers](https://open.spotify.com/track/2JQfPvlIhhAaZh74leLiF8) | [Inga Swenson](https://open.spotify.com/artist/7EqGzM2cJA1e2tZhH7lsY5), [John Cullum](https://open.spotify.com/artist/1odplm0E6R5DQDgfdPqfL5) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 5:03 |
 | 311 | [Velvet Paws](https://open.spotify.com/track/36wyN9hN03WOq5go0EPCjE) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 5:45 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Abwt9gAAAACu7vPKy2zWMYOqUs2/X7dn`
+Snapshot ID: `AbwzyAAAAACMTF0JWOuzMNAef2IBjU65`

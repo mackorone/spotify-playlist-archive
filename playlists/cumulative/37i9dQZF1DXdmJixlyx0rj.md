@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: DPR ARTIC\)
+> New & best K\-Electronic music is here\. \(Cover: SHINDRUM\)
 
-229 songs - 13 hr 3 min
+230 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
 | [All I Wanna Do](https://open.spotify.com/track/4ScfjW8eccBGFqmoaOKfND) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Point of Hue](https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF) | 6:58 | 2025-02-11 |  |
 | [Always with You](https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP) | [Aseul](https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo) | [Always with You](https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q) | 3:59 | 2024-04-05 |  |
+| [am i shaking like a human ?](https://open.spotify.com/track/7sRlZYIot5OWDWlPdb9qIa) | [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB), [ME\-41 Units](https://open.spotify.com/artist/2ClGUNXUmLrAW2UFsQYyLg) | [am i shaking like a human ?](https://open.spotify.com/album/1qc8NOyFF9T2S7TEGwxMga) | 6:18 | 2025-05-07 |  |
 | [Amazing](https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:42 | 2024-04-05 | 2024-06-29 |
 | [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 | 2025-02-07 |
 | [Armageddon \(2Spade Remix\)](https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:08 | 2024-09-21 |  |
@@ -145,7 +146,7 @@
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
 | [Music \(with\. sunwoojunga\)](https://open.spotify.com/track/7qgUPFjr05oDLtNT2l73Dm) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Music](https://open.spotify.com/album/6tZsLeta17ydKrxuWix40e) | 5:13 | 2025-03-28 |  |
 | [My Universe \- David Guetta Remix](https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [My Universe \(David Guetta Remix\)](https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI) | 3:19 | 2024-06-28 |  |
-| [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 |  |
+| [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 | 2025-05-08 |
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- IMLAY Remix](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 | 2025-01-24 |

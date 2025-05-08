@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-1,450 songs - 3 day 9 hr 4 min
+1,451 songs - 3 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
 | [Leeh Ala Baly](https://open.spotify.com/track/7zztl40LzFgznVyXeaf4nu) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Nancy Mounir](https://open.spotify.com/artist/0ibLTETR8FEqRRODrpwnuS) | [Red Bull Sika](https://open.spotify.com/album/4Hb81TjdJIoCplM3pFsoXg) | 2:14 | 2024-01-17 | 2024-02-14 |
 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 | 2023-09-22 | 2024-01-04 |
+| [LEH](https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LEH](https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p) | 2:40 | 2025-05-07 |  |
 | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/track/6XqswjwRHsf5DMSdxEhFSm) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/album/2kSwBV93jeWgrbYcLUVXHV) | 3:45 | 2022-10-26 | 2023-01-08 |
 | [Leh Betaeday2](https://open.spotify.com/track/1NODXc70QAPN0GNvBpsgj2) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Leh Betaeday2](https://open.spotify.com/album/3G8nVTaPY5m2vh2WrOeGkF) | 2:19 | 2022-12-29 | 2023-02-17 |
 | [Leh Bneshta2](https://open.spotify.com/track/29jTO5xg0YoXw1zKDwoXDO) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [Leh Bneshta2](https://open.spotify.com/album/1qTcViGNGMuBzeF3t4OldP) | 2:52 | 2024-05-02 | 2024-07-05 |
@@ -924,7 +925,7 @@
 | [Youm Ma Abeltak](https://open.spotify.com/track/7IsEnPI5N3eTUjmg1a6cGA) | [Nour Morshedy](https://open.spotify.com/artist/3QZQKnalknOTQdiWA0EfBG) | [Youm Ma Abeltak](https://open.spotify.com/album/44g7hqhCE32Z755x8LdCGy) | 4:21 | 2024-02-16 | 2024-05-03 |
 | [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 | 2025-01-15 | 2025-04-18 |
 | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/track/3LhjGqorUE4YRxtSeiwlEA) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/album/1MLX5vDZrTLDiHgqS90Qpi) | 3:18 | 2025-01-23 | 2025-04-18 |
-| [ZAFAH](https://open.spotify.com/track/393baeE4UoRuGWKqYTxE8D) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [ZAFAH](https://open.spotify.com/album/1JqklfXVe56yQQMlgktrXm) | 3:19 | 2025-02-20 |  |
+| [ZAFAH](https://open.spotify.com/track/393baeE4UoRuGWKqYTxE8D) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [ZAFAH](https://open.spotify.com/album/1JqklfXVe56yQQMlgktrXm) | 3:19 | 2025-02-20 | 2025-05-08 |
 | [Zaghareet](https://open.spotify.com/track/3xBntZbJHq4IXWxmpGPIGs) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Zaghareet](https://open.spotify.com/album/0cKTa8PwZWYjA8c2jxWrvS) | 2:39 | 2024-07-24 | 2024-09-25 |
 | [ZANN](https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [ZANN](https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX) | 2:56 | 2024-07-29 | 2024-09-13 |
 | [Zay El Ganna](https://open.spotify.com/track/6AVEglzXRfBsRag62s9JGn) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Zay El Ganna](https://open.spotify.com/album/3f7aSZmg3DNCFwsnDiKVr7) | 3:20 | 2024-07-04 | 2024-08-30 |

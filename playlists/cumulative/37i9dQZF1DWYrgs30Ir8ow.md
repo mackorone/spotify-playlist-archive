@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Frenna
 
-934 songs - 1 day 21 hr 31 min
+935 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Weer Een Nieuwe Boete](https://open.spotify.com/track/1M11AR0qQ9MN5crOjnfeQk) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [Weer Een Nieuwe Boete](https://open.spotify.com/album/6XCyA7cwj5W8G7FnrJR4v9) | 2:16 | 2023-05-11 | 2023-05-26 |
 | [Wegenwacht](https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wegenwacht](https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn) | 2:34 | 2024-11-28 | 2025-01-25 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-05-11 | 2023-06-02 |
+| [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 | 2025-05-07 |  |
 | [Werkpaarden](https://open.spotify.com/track/3aypmO20NtT2LKFag6ek9Y) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Werkpaarden](https://open.spotify.com/album/7DWMruitVpNxScBcZgCZFH) | 3:38 | 2024-02-15 | 2024-03-08 |
 | [Wervelwind](https://open.spotify.com/track/0jWAtZeNlMSdrmG6LGMRhb) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Wervelwind](https://open.spotify.com/album/0UDhi7JWas881DRdCM3cBg) | 3:05 | 2024-11-07 | 2024-12-12 |
 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 | 2024-03-21 | 2024-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,136 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,188 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 6 | [In Due Time](https://open.spotify.com/track/2DZejweCkto2IEvu7rstXd) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [In Due Time](https://open.spotify.com/album/32YcXgF636mj8WyEvlzJ7T) | 3:26 |
 | 7 | [WHEN IN ROME](https://open.spotify.com/track/5oWZuJIRqiLjbnrYQWdA22) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [WHEN IN ROME](https://open.spotify.com/album/789Bksm1brUUGEvFS0SNIc) | 3:09 |
 | 8 | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
-| 9 | [CHURCH](https://open.spotify.com/track/1xMtnbG6Tcy23kPnwyriRB) | [Wahenga](https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [CHURCH](https://open.spotify.com/album/3iUOttZJJbZroRllSaST8X) | 1:27 |
+| 9 | [CHURCH](https://open.spotify.com/track/1xMtnbG6Tcy23kPnwyriRB) | [Wahenga](https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [CHURCH](https://open.spotify.com/album/3iUOttZJJbZroRllSaST8X) | 1:27 |
 | 10 | [LOUDER!](https://open.spotify.com/track/0roBwHPpPoBtmlpeaOQXYt) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [LOUDER!](https://open.spotify.com/album/5G5d6P7xn3HJfbzk6F5nmI) | 2:17 |
 | 11 | [Is It Real](https://open.spotify.com/track/6YqEt8jpAnWN3EksIbB0Nr) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [JiKay](https://open.spotify.com/artist/5ZciodrGuWZAkGIXHzTiQP) | [Is It Real](https://open.spotify.com/album/4Gu32AgZ2heNdNPJTQZvAN) | 3:40 |
 | 12 | [Porzingis](https://open.spotify.com/track/1DJfkN0ZZigRHzNFNycKRi) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:45 |

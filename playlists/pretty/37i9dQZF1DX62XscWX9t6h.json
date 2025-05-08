@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 202265,
+  "num_followers": 202330,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Sun Colored Eyes",
-      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Me Duele",
         "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 196733,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 479546,
-      "name": "Atomic Bomb",
-      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Sonido C\u00f3smico",
         "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 223427,
       "name": "Sonido C\u00f3smico",
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Amanheceu",
-        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Ruan Vitor Vaqueirinho",
-          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Clandestino (feat. Calypso Rose)",
         "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Ruan Vitor Vaqueirinho",
+          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "Dromomania",
+        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
+      },
+      "artists": [
+        {
+          "name": "Cemento Atlantico",
+          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
+        }
+      ],
+      "duration_ms": 293253,
+      "name": "Garawek khaos",
+      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "Enkaz",
         "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 346413,
       "name": "Kolyskova",
       "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Dromomania",
-        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
-      },
-      "artists": [
-        {
-          "name": "Cemento Atlantico",
-          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Garawek khaos",
-      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 301723,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Los Chucos Suaves (featuring Macha)",
+      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Los Chucos Suaves (featuring Macha)",
-      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "Dar Disku",
+        "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
+      },
+      "artists": [
+        {
+          "name": "Dar Disku",
+          "url": "https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR"
+        },
+        {
+          "name": "FLANAH",
+          "url": "https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5"
+        }
+      ],
+      "duration_ms": 159783,
+      "name": "Alsutur",
+      "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "Gur\u00fa",
         "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 134720,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Dar Disku",
-        "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
-      },
-      "artists": [
-        {
-          "name": "Dar Disku",
-          "url": "https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR"
-        },
-        {
-          "name": "FLANAH",
-          "url": "https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5"
-        }
-      ],
-      "duration_ms": 159783,
-      "name": "Alsutur",
-      "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Komorebi",
         "url": "https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 213900,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "From Taipei",
-        "url": "https://open.spotify.com/album/7naHJIaAmviVSk33XCLJBy"
-      },
-      "artists": [
-        {
-          "name": "Passepartout Duo",
-          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
-        }
-      ],
-      "duration_ms": 316022,
-      "name": "From Taipei",
-      "url": "https://open.spotify.com/track/55z98JmhoaxURPNAZescyt"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Manara",
         "url": "https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 170734,
       "name": "Ya Watan",
       "url": "https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "From Taipei",
+        "url": "https://open.spotify.com/album/7naHJIaAmviVSk33XCLJBy"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "duration_ms": 316022,
+      "name": "From Taipei",
+      "url": "https://open.spotify.com/track/55z98JmhoaxURPNAZescyt"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Hagata",
-        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
-      },
-      "artists": [
-        {
-          "name": "TEKE::TEKE",
-          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
     }
   ],
   "unique_name": "Folk Fabrique",

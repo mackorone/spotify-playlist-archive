@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 36 likes - 4,783 songs - 11 day 0 hr 28 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 36 likes - 4,783 songs - 11 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4585,7 +4585,7 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 | 4575 | [WASTED TIMES](https://open.spotify.com/track/37TkK1yF2JeIpzLlkv43Ns) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [STILL PRETTY](https://open.spotify.com/album/2BdFsADlZDxK09knj5fSEk) | 2:03 |
 | 4576 | [WALKED IN](https://open.spotify.com/track/232hyHvhIvmKSmN9LXy53n) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [STILL PRETTY](https://open.spotify.com/album/2BdFsADlZDxK09knj5fSEk) | 2:22 |
 | 4577 | [WHAT DA OPP SAID](https://open.spotify.com/track/4Sb4s9pY0YCDUrh76U9HA7) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [STILL PRETTY](https://open.spotify.com/album/2BdFsADlZDxK09knj5fSEk) | 2:57 |
-| 4578 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 |
+| 4578 | [](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 0:00 |
 | 4579 | [Texas](https://open.spotify.com/track/2p5La0D38fkvhobrC1HRCU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8) | 2:26 |
 | 4580 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
 | 4581 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |

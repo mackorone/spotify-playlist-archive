@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-292 songs - 18 hr 36 min
+293 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [The Doomsday Clock](https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [The Doomsday Clock](https://open.spotify.com/album/0ilMPn2NgTzh5kvyJBnphe) | 3:42 | 2024-06-27 | 2024-08-02 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-10-18 |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2024-11-07 | 2025-04-12 |
+| [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-07 |  |
 | [The End Justifies](https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [The End Justifies](https://open.spotify.com/album/3yKUFE4u6NtSrfQ0OAKjtU) | 5:09 | 2024-06-27 | 2024-09-20 |
 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 | 2024-06-27 | 2025-01-10 |
 | [The Game](https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [The Game](https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t) | 3:28 | 2025-01-09 |  |

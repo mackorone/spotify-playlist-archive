@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 181977,
       "name": "Cool Cruiser",
       "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 187404,
       "name": "Dark Vision",
       "url": "https://open.spotify.com/track/5WuOblWMG2QcshyAU0eKxN"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 329789,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 278440,
       "name": "Lazy Evening Blues",
       "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
@@ -1664,6 +1664,24 @@
       "duration_ms": 236866,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj"
+    },
+    {
+      "album": {
+        "name": "Bruton BRE2: Children",
+        "url": "https://open.spotify.com/album/3Sx668l5vVuMPMnf6hCPto"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98528,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/3woqg0etSG2vp0p9rkrowv"
     },
     {
       "album": {
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 103253,
       "name": "Ski Bird (B)",
       "url": "https://open.spotify.com/track/2UOzXaRrDnrfSeHSGaPQTq"

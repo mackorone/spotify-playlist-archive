@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : MHR, JOKER390P
 
-300 songs - 15 hr 27 min
+301 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [KAAYI](https://open.spotify.com/track/4POXo4IBs74MRjBB5NctbP) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [KAAYI](https://open.spotify.com/album/6MGV4xLMxk0PcOyCGBmNR2) | 3:08 | 2024-01-15 |  |
 | [KABAR](https://open.spotify.com/track/2qZ887g5AznECp6SyPDiG4) | [Shabab](https://open.spotify.com/artist/2adX9X3TKBcCmzBmc1pcIT) | [KABAR](https://open.spotify.com/album/65HjRHPyEx21z1A7y5rH2S) | 2:36 | 2025-01-08 | 2025-03-26 |
 | [KACHERI](https://open.spotify.com/track/2sKsxT1TtBmEyE1BboqZ6E) | [HAAL](https://open.spotify.com/artist/2GZ9KLbet2YoaKCW74f8HR), [Samii](https://open.spotify.com/artist/7CzTpDulCrDngkdUgaimiA), [S H A A D](https://open.spotify.com/artist/0G6uawYqoaGZahEId5atRh), [Raaga Kaatralai](https://open.spotify.com/artist/37ENvNukKZHu5dblTPbUlf), [Damu](https://open.spotify.com/artist/7k1i2xUFqw8QE5fWguf6VB) | [KACHERI](https://open.spotify.com/album/2wrD2WZ0zGc1BufUjFtvjO) | 3:49 | 2025-04-11 |  |
+| [Kadakkeni](https://open.spotify.com/track/6ROXYeSUe6mU23DSO7CQRn) | [Alpha](https://open.spotify.com/artist/7zv5CoE9STLCNLSf3wxk01) | [Kadakkeni](https://open.spotify.com/album/0FJsHdQCVo6YBj9A0EtIEB) | 2:39 | 2025-05-07 |  |
 | [Kadha](https://open.spotify.com/track/2l4EVn50WSQIu5Z34hRg1y) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kadha](https://open.spotify.com/album/204Cd7br9ZbJwx8VsVQcsR) | 2:15 | 2024-03-28 | 2024-05-22 |
 | [Kafan](https://open.spotify.com/track/68xGI5z4Uwzvi2ZLEOr3NU) | [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI) | [Kafan](https://open.spotify.com/album/6mytAwiM55TpIc9OBV6BsW) | 2:25 | 2025-01-09 | 2025-02-21 |
 | [Kaipuzha to Balewadi](https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [Kaipuzha to Balewadi](https://open.spotify.com/album/18NoTZC6G1zSKxvKSThiPh) | 2:34 | 2025-01-30 |  |
@@ -292,7 +293,7 @@
 | [Vayyaveli](https://open.spotify.com/track/7foOcAmVozH37pMMCdv4I0) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vayyaveli](https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ) | 2:57 | 2022-06-23 | 2024-12-19 |
 | [Vedakk Chekka](https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Vedakk Chekka](https://open.spotify.com/album/6zMqolSY0IiUh6eRPcWOa6) | 2:21 | 2025-02-25 |  |
 | [Vedi](https://open.spotify.com/track/1hF2EpIVu1pOK2AtRq9Wod) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Shyam Krishna](https://open.spotify.com/artist/3EOMc5YFWjnbULJWR4zP3G), [Mallu Gomez](https://open.spotify.com/artist/02YDDhHdxAQCYMUUKIGUEt), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Vedi](https://open.spotify.com/album/46IOg4n8hRcFt6TiBApEzN) | 3:35 | 2025-01-27 | 2025-03-22 |
-| [VELICHAM](https://open.spotify.com/track/2GLMiM7B6hpFWQrGGsQDvI) | [Dilthu](https://open.spotify.com/artist/1SEOpORjLaRtDiQE8UnMAW), [BAXC](https://open.spotify.com/artist/1vmbJ7sRXrAaT0ojZfrlBC) | [VELICHAM](https://open.spotify.com/album/0yQ6SYw2jQ6SFHn92Grkm8) | 2:00 | 2025-02-17 |  |
+| [VELICHAM](https://open.spotify.com/track/2GLMiM7B6hpFWQrGGsQDvI) | [Dilthu](https://open.spotify.com/artist/1SEOpORjLaRtDiQE8UnMAW), [BAXC](https://open.spotify.com/artist/1vmbJ7sRXrAaT0ojZfrlBC) | [VELICHAM](https://open.spotify.com/album/0yQ6SYw2jQ6SFHn92Grkm8) | 2:00 | 2025-02-17 | 2025-05-08 |
 | [VELLI](https://open.spotify.com/track/78gntht2AtRT1xXIKnZG17) | [HIMSRA](https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na) | [VELLI](https://open.spotify.com/album/06lYQFfzaLr5RTSO0IW2mq) | 1:56 | 2025-02-17 | 2025-03-18 |
 | [Venjarippu](https://open.spotify.com/track/7F02EEb6hTjG4y7Md3hJvx) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:52 | 2023-07-23 | 2023-08-22 |
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 | 2024-04-09 |

@@ -2,7 +2,7 @@
 
 ### [80s Party](https://open.spotify.com/playlist/37i9dQZF1DX6xnkAwJX7tn)
 
-> The biggest party hits of the 1980s\. Cover: Cyndi Lauper
+> The biggest party hits of the 1980s.
 
 331 songs - 22 hr 53 min
 

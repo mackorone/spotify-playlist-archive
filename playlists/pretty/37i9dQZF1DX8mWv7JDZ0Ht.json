@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Math Basso, Cynthia Luz",
-  "num_followers": 437876,
+  "num_followers": 437878,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 143658,
       "name": "Como D\u00f3i",
       "url": "https://open.spotify.com/track/3nNb9AXOB4sH2Q6z3ERMV1"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "eu n\u00e3o queria mais nada",
         "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 172909,
       "name": "M\u00c1QUINA DO TEMPO",
       "url": "https://open.spotify.com/track/5IhvMaUbuThd2dgW8cHthu"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "Coisa Rara",
         "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 165441,
       "name": "Coisa Rara",
       "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1287,6 +1287,26 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "domingo",
+        "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
+      },
+      "artists": [
+        {
+          "name": "nat\u00e1lia carreira",
+          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
+        },
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "domingo",
+      "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1327,26 +1347,6 @@
       "duration_ms": 200315,
       "name": "CARAMELO E FLOR DE SAL",
       "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
-        "name": "domingo",
-        "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
-      },
-      "artists": [
-        {
-          "name": "nat\u00e1lia carreira",
-          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
-        },
-        {
-          "name": "saudade",
-          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "domingo",
-      "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
     },
     {
       "added_at": "2025-05-02 03:00:41",

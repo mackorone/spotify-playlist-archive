@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Kelly Lee Owens
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,983 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,995 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 7 | [Gotta Have It](https://open.spotify.com/track/5mFSzrBlxPJnCxxlLw5lUj) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:24 |
 | 8 | [somebody else](https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [somebody else](https://open.spotify.com/album/1hHndqjMpJ426F7xFruQ2z) | 2:11 |
 | 9 | [glory](https://open.spotify.com/track/4eRhnf2tZGwBqkGxUd6MWs) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [glory](https://open.spotify.com/album/7xZTjW4Soxw9Mp1E7mMKoT) | 2:34 |
-| 10 | [Rose On A Stone](https://open.spotify.com/track/3Ml3CIaOpDBYcJNmIR96Py) | [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Rose On A Stone](https://open.spotify.com/album/2kMrpBA3sY5kantNC7v6fh) | 2:38 |
+| 10 | [rose on a stone](https://open.spotify.com/track/3Ml3CIaOpDBYcJNmIR96Py) | [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [rose on a stone](https://open.spotify.com/album/2kMrpBA3sY5kantNC7v6fh) | 2:38 |
 | 11 | [Down And Out \(Where E\-Girls Dare\)](https://open.spotify.com/track/4VVtRw0YWUQ72iA8R5VGU4) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [We Will Annihilate Our Enemies](https://open.spotify.com/album/3lkEkMGrB1JpIvf45r4HIg) | 3:44 |
-| 12 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
+| 12 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 13 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 14 | [Dreamstate \(yunè pinku remix\)](https://open.spotify.com/track/0hJFPliAnUoTVFIPNlJHna) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Dreamstate \(yunè pinku remix\)](https://open.spotify.com/album/5uX6NjzJYgBjfDO2AnasAQ) | 3:22 |
 | 15 | [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 |

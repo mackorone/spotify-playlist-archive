@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 187532,
+  "num_followers": 187584,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Wenn Worte meine Sprache w\u00e4ren",
-        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
-      },
-      "artists": [
-        {
-          "name": "Tim Bendzko",
-          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Wenn Worte meine Sprache w\u00e4ren",
-      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Meine Liebe",
         "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 188446,
       "name": "Meine Liebe",
       "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Wenn Worte meine Sprache w\u00e4ren",
+        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Wenn Worte meine Sprache w\u00e4ren",
+      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
     },
     {
       "added_at": "2025-03-26 13:54:44",

@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-391 songs - 21 hr 18 min
+392 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-15 |  |
 | [Frikitona \- Odd Mob Remix](https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Frikitona \(Odd Mob Remix\)](https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk) | 3:11 | 2024-03-29 | 2024-04-27 |
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
-| [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 |  |
+| [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 | 2025-05-08 |
 | [Fuego](https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Fuego](https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP) | 2:37 | 2024-01-05 | 2024-03-04 |
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Get Me There](https://open.spotify.com/track/3Vibd3EowNEXVCLbp1nMKT) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Get Me There](https://open.spotify.com/album/2hzVqM5sd94DRVzzMUjjFk) | 3:23 | 2025-02-28 |  |
@@ -319,6 +319,7 @@
 | [Senta Relaxa](https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP) | [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Senta Relaxa](https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0) | 3:00 | 2024-02-02 | 2024-05-25 |
 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 | 2023-11-10 | 2025-04-21 |
 | [Shingaling Shingaling](https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0) | [Shingaling Shingaling](https://open.spotify.com/album/6kRYsgKCkmWeDnkT7m6eUS) | 2:26 | 2025-03-07 | 2025-05-03 |
+| [SI TE VAS](https://open.spotify.com/track/70wWSIgYuecaVcB0Uy1TpV) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [SI TE VAS](https://open.spotify.com/album/4G12QJz400WVWe0WeQDuhO) | 2:47 | 2025-05-02 |  |
 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 | 2021-10-08 | 2023-11-11 |
 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 | 2024-09-20 | 2024-11-22 |
 | [Sin Nada](https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow) | [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Sin Nada](https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT) | 3:19 | 2024-05-10 | 2025-02-22 |

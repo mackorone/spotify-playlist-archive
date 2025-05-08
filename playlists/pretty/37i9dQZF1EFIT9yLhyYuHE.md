@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 28 | [To The Moon And Back](https://open.spotify.com/track/1VpGCuCz9Xl05lUn9VY2Yk) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:41 |
 | 29 | [Emotional](https://open.spotify.com/track/09a4XeVIPNsXSM91WkvOFe) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Emotional](https://open.spotify.com/album/7m7RlX0aZW7TIjLH24Pv1N) | 2:50 |
 | 30 | [High Days \(feat\. Cara Melín\)](https://open.spotify.com/track/2SVFPq7AIQjuFTjHMDgHnP) | [Hoved](https://open.spotify.com/artist/6aH5wUamNyPqimXRBt67k1), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [High Days \(feat\. Cara Melín\)](https://open.spotify.com/album/7I8QZ0ODUcU4jkvQ54Ldd7) | 2:47 |
-| 31 | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/track/5xRZl63xK3jOFmR417Mk5v) | [Rowen Reecks](https://open.spotify.com/artist/7MW3lTs9G10C55or1KZrwQ), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/album/5JKSPeEoNxUEe6XHYVs6XB) | 2:59 |
-| 32 | [Soaking In The Silence](https://open.spotify.com/track/3ryw2lnxtPXu3TjLsl25pP) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:25 |
+| 31 | [Soaking In The Silence](https://open.spotify.com/track/3ryw2lnxtPXu3TjLsl25pP) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:25 |
+| 32 | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/track/5xRZl63xK3jOFmR417Mk5v) | [Rowen Reecks](https://open.spotify.com/artist/7MW3lTs9G10C55or1KZrwQ), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/album/5JKSPeEoNxUEe6XHYVs6XB) | 2:59 |
 | 33 | [Peru](https://open.spotify.com/track/7qr0v1QyIED6i8BqdTmC3z) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:50 |
 | 34 | [Miss You Most](https://open.spotify.com/track/32kagcGRbSa9GuditM1HDQ) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Turn The Page](https://open.spotify.com/album/5oiHAL9UXkpB2OzTy6AqEk) | 3:02 |
 | 35 | [Bad Habit](https://open.spotify.com/track/0CEr4FjLrq3rXGOX3QpL2O) | [Michael Amani](https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn) | [Bad Habit](https://open.spotify.com/album/5fLCMpxPwZk9au9gtZbqmf) | 2:28 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 52 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 |
 | 53 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `AbwuFAAAAADRP4w/xQImMcyPMMR+5ISn`
+Snapshot ID: `AbwzqgAAAABnROUfTmXIcMMu1AO1mzna`

@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Rifle Club",
-  "num_followers": 455405,
+  "num_followers": 455647,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBmnXgAAAACxmDJi5HEXyl4lA5DzNLX0",
+  "snapshot_id": "aBsfmQAAAAD+oBgEqMlqV0xeRfpefd7k",
   "tracks": [
     {
       "added_at": "2025-03-12 10:30:31",
@@ -99,6 +99,30 @@
       "duration_ms": 178923,
       "name": "Pacha Parishkari",
       "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
+    },
+    {
+      "added_at": "2025-05-07 08:53:45",
+      "album": {
+        "name": "Minnalvala (From \"Narivetta\")",
+        "url": "https://open.spotify.com/album/2TGMDuoU4JVIrFOFH77GGH"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "duration_ms": 299055,
+      "name": "Minnalvala (From \"Narivetta\")",
+      "url": "https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm"
     },
     {
       "added_at": "2025-01-16 09:40:27",
@@ -631,26 +655,6 @@
       "duration_ms": 247164,
       "name": "Kondal Vedan Song (From \"Kondal\")",
       "url": "https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz"
-    },
-    {
-      "added_at": "2024-09-09 08:19:56",
-      "album": {
-        "name": "Beevi",
-        "url": "https://open.spotify.com/album/3iNJIpyJQCMr2qC2vZ3d8X"
-      },
-      "artists": [
-        {
-          "name": "Rish NK",
-          "url": "https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5"
-        },
-        {
-          "name": "Zail",
-          "url": "https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Beevi",
-      "url": "https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V"
     },
     {
       "added_at": "2024-09-04 08:10:57",

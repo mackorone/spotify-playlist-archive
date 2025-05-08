@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe muziek van Yves Berendse, Idaly & Miloolaathetlukken, Damiano David en meer...",
-  "num_followers": 275468,
+  "num_followers": 275470,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -807,7 +807,7 @@
     {
       "added_at": "2025-05-01 22:00:13",
       "album": {
-        "name": "Dochters",
+        "name": "Dochters (Titelsong)",
         "url": "https://open.spotify.com/album/30D8mBxfyKLSEHukDaXHYp"
       },
       "artists": [
@@ -1762,6 +1762,10 @@
         {
           "name": "Swoosh",
           "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
       "duration_ms": 190078,

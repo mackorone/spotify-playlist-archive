@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,784 songs - 6 day 6 hr 55 min
+2,786 songs - 6 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1980,6 +1980,7 @@
 | [Ready Steady Go](https://open.spotify.com/track/61r5T7ipQKQEQ9zmozRy73) | [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX), [M.J.E](https://open.spotify.com/artist/4ckS9OvY9h1t0figFAzJWD), [Michael Chodo](https://open.spotify.com/artist/609DFTZe3buPo59prh8xb4) | [Ready Steady Go](https://open.spotify.com/album/0CSB461kX66FD18DTEDwfI) | 3:01 | 2025-04-25 | 2025-05-03 |
 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 | 2024-07-06 |
 | [Real Love](https://open.spotify.com/track/4tH0GB3np4chzxoXS5IajH) | [ARKO](https://open.spotify.com/artist/2GI2DwMpAtvgmCqOrEnq3s), [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) | [Real Love](https://open.spotify.com/album/63IfPO83Z3yhMNClQnFPFH) | 3:11 | 2024-07-12 | 2024-07-19 |
+| [Real Love](https://open.spotify.com/track/3GCAFO94ClT1AuaCkhix80) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Real Love](https://open.spotify.com/album/3E2krcA1CogjbuWHAGMb8l) | 3:03 | 2025-05-07 |  |
 | [Real Ones](https://open.spotify.com/track/4i73JXNvFqZxw9PyYzE72e) | [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD) | [Real Ones](https://open.spotify.com/album/2QFDGPi7YBR7hYmVdyklzG) | 2:29 | 2024-05-17 | 2024-05-25 |
 | [Realise](https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Motions](https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ) | 3:13 | 2024-08-16 | 2024-08-24 |
 | [Reality](https://open.spotify.com/track/2bShswESgPeQ8Oy7Z1UZnw) | [HAUMS](https://open.spotify.com/artist/2rHkapXIPIa4EVvMC8Nm6G) | [Reality](https://open.spotify.com/album/3r1gHznwKf1YWseKwLO3jO) | 5:43 | 2024-11-15 | 2024-11-23 |
@@ -2580,6 +2581,7 @@
 | [Unleash the Beast](https://open.spotify.com/track/5wpIno1JvT3KRoRKvETCbI) | [SAVCE](https://open.spotify.com/artist/4frWgrPPauminK5ZRhtdOm) | [Unleash the Beast](https://open.spotify.com/album/0TRuEYcXnV3pNn94Yp600a) | 4:00 | 2025-04-04 | 2025-04-11 |
 | [Unloveable](https://open.spotify.com/track/1FYin7DCNlJwMctW0uDI6p) | [Jiriki](https://open.spotify.com/artist/26iKceUpmT14tCFm2cdwaz) | [Unloveable](https://open.spotify.com/album/6L1aNA5Rvx97dJSJf3KOf6) | 3:45 | 2025-03-23 | 2025-03-29 |
 | [Unpredictable](https://open.spotify.com/track/7Dd8N0RyGvh9DO09OFtbgq) | [IRXN](https://open.spotify.com/artist/5GJOlShR405YP5d1fzcvv9) | [Unpredictable](https://open.spotify.com/album/4xveQF9R80bEzwj7hIyAUD) | 2:31 | 2025-04-18 | 2025-04-25 |
+| [Unseen Paths](https://open.spotify.com/track/2wW0ovpyNmr9MO39aysmxf) | [Oxime](https://open.spotify.com/artist/5QKvr3RLdyetvVGmNa31Ja) | [Galaxies](https://open.spotify.com/album/0kzOgS6zPKqvcq14NQwVdo) | 3:55 | 2025-05-07 |  |
 | [Until Morning](https://open.spotify.com/track/6al7rXgfkaq4oiESWTkyyp) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [KEROS](https://open.spotify.com/artist/5QJ2m4qkxpeNku20ALgwDu) | [Until Morning](https://open.spotify.com/album/74gaTBLusWAq8c0zryb1Te) | 3:53 | 2025-05-02 |  |
 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 | 2024-08-30 | 2024-09-06 |
 | [Untold](https://open.spotify.com/track/0E4Idg6VmTAPHeLCC6PxoV) | [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Untold](https://open.spotify.com/album/2YJ85AV4GCjOsbtTivnZhu) | 2:36 | 2025-01-31 | 2025-02-07 |

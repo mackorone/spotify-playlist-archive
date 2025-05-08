@@ -6055,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "FELT SO GOOD",
+        "url": "https://open.spotify.com/album/5tFCuuYSEtcJREx9e76atL"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181154,
+      "name": "FELT SO GOOD",
+      "url": "https://open.spotify.com/track/7L6YNg3MRBkaub8S744SZG"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK"
       },
@@ -15402,19 +15420,27 @@
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        },
-        {
           "name": "LOAM",
           "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/5MSILmANslIYw4gMOmnxe0"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
         }
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 76799,
-      "name": "SEE YOU AGAIN VIP",
+      "name": "SEE YOU AGAIN VIP (feat. Eurohead & swedm\u00ae)",
       "url": "https://open.spotify.com/track/4RuJK9EOL8xsuHHwXsYHI2"
     },
     {
@@ -18186,7 +18212,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 161142,
       "name": "The Days - Rudimental Remix",
       "url": "https://open.spotify.com/track/2LrwQcjuavA44Es0mQtT2o"

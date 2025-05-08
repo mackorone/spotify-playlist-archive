@@ -1,13 +1,45 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6793,
+  "num_followers": 6792,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAC11wom4i3idti/ZhsB2jltedlo6nhW",
+  "snapshot_id": "AAC12lya9iUOMQf8L4BYO8uuY2cIFh1H",
   "tracks": [
+    {
+      "added_at": "2025-05-07 10:29:34",
+      "album": {
+        "name": "6 DE FEBRERO",
+        "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 175584,
+      "name": "6 DE FEBRERO",
+      "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+    },
+    {
+      "added_at": "2025-05-07 06:09:08",
+      "album": {
+        "name": "soft serve",
+        "url": "https://open.spotify.com/album/1KJzF08mBNJgQXCMnwvwmy"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "soft serve",
+      "url": "https://open.spotify.com/track/4Euy2uQfNa9mwEPT61gDuO"
+    },
     {
       "added_at": "2025-05-02 08:30:36",
       "album": {
@@ -2495,6 +2527,26 @@
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "added_at": "2025-05-07 04:21:23",
+      "album": {
+        "name": "Entre Bodegas y Ferias",
+        "url": "https://open.spotify.com/album/6JPVu3U91G5hS69ithQtiI"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        },
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "duration_ms": 242068,
+      "name": "Raffaella",
+      "url": "https://open.spotify.com/track/4zNykWMMBA1iH6gYWddOUh"
     }
   ],
   "unique_name": "Ready for the Weekend (JNSP)",

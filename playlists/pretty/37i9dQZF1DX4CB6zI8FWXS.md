@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,524 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,528 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 40 | [CONTRAST](https://open.spotify.com/track/3VSu7JS5sAP62eiAxqrXGR) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [CONTRAST](https://open.spotify.com/album/4G1fsGrrWiTqK4UwprfwTc) | 3:17 |
 | 41 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 |
 | 42 | [Me & I](https://open.spotify.com/track/6ArUYYRbvNQOnB74Jcotwl) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Me & I](https://open.spotify.com/album/46JU0X2CxDbBxh4zIr5A4B) | 2:05 |
-| 43 | [No Way Closer feat\. James Droll](https://open.spotify.com/track/7b7lsRiYyGdAZOeQA71461) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4) | [No Way Closer feat\. James Droll](https://open.spotify.com/album/4w1ICl0t1aocA7vJsYkip9) | 3:23 |
+| 43 | [No Way feat\. James Droll](https://open.spotify.com/track/7b7lsRiYyGdAZOeQA71461) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4) | [No Way feat\. James Droll](https://open.spotify.com/album/4w1ICl0t1aocA7vJsYkip9) | 3:23 |
 | 44 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
 | 45 | [Spaceship](https://open.spotify.com/track/6ZQN6H0HW1prWXcEZNuKHS) | [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [FOFU](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U) | [Spaceship](https://open.spotify.com/album/2vnKTJGp5HuFdoSicyIDrT) | 2:36 |
 | 46 | [Hotel Lobby](https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Hotel Lobby](https://open.spotify.com/album/23MJIfVoGJi3Svn0xgKUUZ) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world, with Ed Sheeran on the cover.",
-  "num_followers": 420774,
+  "num_followers": 420812,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -1738,6 +1738,10 @@
         {
           "name": "Swoosh",
           "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
       "duration_ms": 190078,

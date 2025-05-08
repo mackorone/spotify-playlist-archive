@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 167649,
+  "num_followers": 167700,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Los Super Elegantes Ep",
-        "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
-      },
-      "artists": [
-        {
-          "name": "Los Super Elegantes",
-          "url": "https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Recuerdos del Futuro",
         "url": "https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 204746,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Los Super Elegantes Ep",
+        "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
+      },
+      "artists": [
+        {
+          "name": "Los Super Elegantes",
+          "url": "https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Seminuevo de Manzana",
         "url": "https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Vicente Gayo",
-        "url": "https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q"
-      },
-      "artists": [
-        {
-          "name": "Vicente Gayo",
-          "url": "https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch"
-        }
-      ],
-      "duration_ms": 122226,
-      "name": "G A Y O",
-      "url": "https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Madre M\u00eda",
         "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 226413,
       "name": "Agua De Coco",
       "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Vicente Gayo",
+        "url": "https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q"
+      },
+      "artists": [
+        {
+          "name": "Vicente Gayo",
+          "url": "https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "G A Y O",
+      "url": "https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

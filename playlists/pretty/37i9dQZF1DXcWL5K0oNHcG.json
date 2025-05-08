@@ -1,13 +1,29 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Tyreek McDole. Artwork: Joy Yamusangie.",
-  "num_followers": 235712,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Don Glori. Artwork: Joy Yamusangie.",
+  "num_followers": 235819,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBGgXgAAAADsFbsPNTFYSzeiPWUrWWhv",
+  "snapshot_id": "aBuC0wAAAABb0QbMuhsggV8XgZW876Um",
   "tracks": [
+    {
+      "added_at": "2025-05-07 15:57:07",
+      "album": {
+        "name": "Ron Song",
+        "url": "https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu"
+      },
+      "artists": [
+        {
+          "name": "Don Glori",
+          "url": "https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo"
+        }
+      ],
+      "duration_ms": 336509,
+      "name": "Ron Song",
+      "url": "https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl"
+    },
     {
       "added_at": "2025-04-30 04:00:30",
       "album": {
@@ -591,22 +607,6 @@
       "duration_ms": 270326,
       "name": "Dig Deep (feat.Jairo\uff09",
       "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Straying In Alpacas",
-        "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Straying In Alpacas",
-      "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
     },
     {
       "added_at": "2025-01-15 05:00:02",

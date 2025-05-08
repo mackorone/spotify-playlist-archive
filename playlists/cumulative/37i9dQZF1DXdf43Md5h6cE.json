@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Aligned",
+        "url": "https://open.spotify.com/album/7juo6zul1vzrxZqHSPCXQK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Meadow",
+          "url": "https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175005,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/2S7B5c3uMDnvDSnCHqlgPD"
+    },
+    {
+      "album": {
         "name": "Alleviate",
         "url": "https://open.spotify.com/album/69W7p1tAkQGJC1DXXMzB1s"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 173000,
       "name": "Ascendant",
       "url": "https://open.spotify.com/track/50JNoSUvkx85c340maD59O"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 169520,
       "name": "Behind the Waterfall",
       "url": "https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI"
@@ -737,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Suddenly/Big Empty Country (Edit)",
+        "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254122,
+      "name": "Big Empty Country - Edit",
+      "url": "https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU"
+    },
+    {
+      "album": {
         "name": "Biochronology",
         "url": "https://open.spotify.com/album/1RkzLanW9bqfB3RIHgB1Gl"
       },
@@ -774,6 +814,24 @@
       "duration_ms": 210209,
       "name": "Blis",
       "url": "https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi"
+    },
+    {
+      "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/6GbYWulzEnDA0pVKHsLZyD"
+      },
+      "artists": [
+        {
+          "name": "Pause Infinite",
+          "url": "https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227487,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/4GvBEsgZmbbLZlEliKOhRi"
     },
     {
       "album": {
@@ -1517,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Divinity Code",
+        "url": "https://open.spotify.com/album/1aI9zCtmkt8FLZ5q5HzswX"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163140,
+      "name": "Divinity Code",
+      "url": "https://open.spotify.com/track/3ttGGcnPM2uEl7ypEUBWI3"
+    },
+    {
+      "album": {
         "name": "Doux Sommeil",
         "url": "https://open.spotify.com/album/7saNKwrdkqrmz7w2eXliyn"
       },
@@ -1564,7 +1640,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 188799,
       "name": "Dream Silhouette",
       "url": "https://open.spotify.com/track/52aAiAhyUCzo8OrHSgPqHn"
@@ -2463,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Four Gates",
+        "url": "https://open.spotify.com/album/7idy7eM52TSWolqlRDUAGN"
+      },
+      "artists": [
+        {
+          "name": "Blue Cliff",
+          "url": "https://open.spotify.com/artist/0oOJXjzPzhvFU7kjSxpE5s"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Four Gates",
+      "url": "https://open.spotify.com/track/1SIAgUGOnhYhGxxXaPWPJz"
+    },
+    {
+      "album": {
         "name": "From Way Up Here",
         "url": "https://open.spotify.com/album/4bEXOE5jByoYZy36ek8pfL"
       },
@@ -2913,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7vaHquLWFYfG7TvVYIQXsC"
+      },
+      "artists": [
+        {
+          "name": "The Sound of Quiet",
+          "url": "https://open.spotify.com/artist/296qh8Fd2r5fT8PcckLPwV"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214378,
+      "name": "Hope - Meditation",
+      "url": "https://open.spotify.com/track/7CIaegX38CxjFn2nOuo3Hw"
+    },
+    {
+      "album": {
         "name": "hope to see you again (Remixes)",
         "url": "https://open.spotify.com/album/68tmCCN2uuu3M79UrPfaj8"
       },
@@ -3090,6 +3202,24 @@
       "duration_ms": 342857,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b"
+    },
+    {
+      "album": {
+        "name": "in fields",
+        "url": "https://open.spotify.com/album/5VHKrbWvs4mP4iCDXEaa8W"
+      },
+      "artists": [
+        {
+          "name": "pkwy.",
+          "url": "https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179895,
+      "name": "in fields",
+      "url": "https://open.spotify.com/track/77Ff622n4YLziBnmnsgLel"
     },
     {
       "album": {
@@ -3638,6 +3768,24 @@
       "duration_ms": 175453,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0STqiQsx07Hws7OVwXUd2w"
+    },
+    {
+      "album": {
+        "name": "Lullaby of the Stars",
+        "url": "https://open.spotify.com/album/0Qrpw9mRwgk9NMEjN2eszw"
+      },
+      "artists": [
+        {
+          "name": "Tide Nebula",
+          "url": "https://open.spotify.com/artist/1Bhj4rsKqOA42MJilyYqWy"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Lullaby of the Stars",
+      "url": "https://open.spotify.com/track/0x77MHPxUXcCWhRwOeOUl7"
     },
     {
       "album": {
@@ -5275,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/4qWQx37CgylyMGKwxMsN6u"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148340,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/3t8Ue1ixZvUATDR0P4UOrG"
+    },
+    {
+      "album": {
         "name": "Shedding Light",
         "url": "https://open.spotify.com/album/5cF8G1iw5S37RwRI6udQpQ"
       },
@@ -5643,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/0YiEgg4dfUGOXHpUmD6jKm"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/0gk1r21nsoROGeg7xFoHJW"
+    },
+    {
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/6DK4BWKtXmcObGitoU9D4j"
       },
@@ -5986,6 +6170,24 @@
       "duration_ms": 142000,
       "name": "The Code of Love",
       "url": "https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu"
+    },
+    {
+      "album": {
+        "name": "The Deep Dive In",
+        "url": "https://open.spotify.com/album/0LZ62ayPdeMg6evhUoi9F4"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "The Deep Dive In",
+      "url": "https://open.spotify.com/track/1GApISdY1RIPkkIkRrFgNa"
     },
     {
       "album": {
@@ -6696,6 +6898,24 @@
       "duration_ms": 209971,
       "name": "Whispering Winds",
       "url": "https://open.spotify.com/track/4WtOiVV0INe9P4UranCTBy"
+    },
+    {
+      "album": {
+        "name": "whispers of the eternal mind",
+        "url": "https://open.spotify.com/album/4Ab9C5y2xxbJABZBDQn79c"
+      },
+      "artists": [
+        {
+          "name": "WIDE HORIZON",
+          "url": "https://open.spotify.com/artist/5EEy0pxsYQurmMjiSXB9g0"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169166,
+      "name": "whispers of the eternal mind",
+      "url": "https://open.spotify.com/track/7GdOOe6crt98e3OSFIaFUN"
     },
     {
       "album": {

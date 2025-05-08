@@ -2,7 +2,7 @@
 
 ### [70s Soul Classics](https://open.spotify.com/playlist/37i9dQZF1DWULEW2RfoSCi)
 
-> A collection of the biggest soul tracks from the 1970s\. Cover: The Isley Brothers
+> A collection of the biggest soul tracks from the 1970s.
 
 168 songs - 11 hr 44 min
 

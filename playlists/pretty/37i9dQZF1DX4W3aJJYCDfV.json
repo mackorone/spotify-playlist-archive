@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Jorja Smith, Ed Sheeran, Turnstile and more!",
-  "num_followers": 896593,
+  "num_followers": 896631,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -486,6 +486,10 @@
         {
           "name": "Swoosh",
           "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
       "duration_ms": 190078,

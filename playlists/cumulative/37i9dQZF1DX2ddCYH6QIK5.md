@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Solong, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Qeller, Artwork: Isu Kim
 
-1,367 songs - 3 day 5 hr 32 min
+1,368 songs - 3 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Du Bist Hier](https://open.spotify.com/track/2mMMDJM85hhd5vtoQK75U7) | [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF), [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Du Bist Hier](https://open.spotify.com/album/04wCKH2hb2simGmejgKYux) | 5:08 | 2023-08-16 | 2023-10-26 |
 | [du bleibst](https://open.spotify.com/track/7riZdelgc5zAYScR0s8Aq7) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [du bleibst](https://open.spotify.com/album/42iPVnvfAxk67gW298MDet) | 2:27 | 2024-04-24 | 2024-09-26 |
 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 | 2023-03-08 | 2023-09-07 |
+| [Dumbo](https://open.spotify.com/track/2W1AFZlcRJVkWvHcILJ723) | [Qeller](https://open.spotify.com/artist/1jgKcBppoulN7OroLDnzTM) | [Dumbo](https://open.spotify.com/album/5f1YaBzIRarXKA8jTxvU3z) | 3:25 | 2025-05-07 |  |
 | [Dunkelheit](https://open.spotify.com/track/2s6seqO1Jn4hAWVUfBQJgc) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH) | 5:29 | 2022-08-24 | 2022-10-26 |
 | [Dunkelheit](https://open.spotify.com/track/3iUeGwc6Eg1X29zE13rRKQ) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/55jstwnqOvwq3kX8tHsMl9) | 5:29 | 2022-10-12 | 2022-12-01 |
 | [Durch die Blume](https://open.spotify.com/track/2djdr6I8WH3kqDnTV9QIkn) | [Super Arrogant](https://open.spotify.com/artist/5Qxw3gMvelYa5wFpBUWQpN) | [Durch die Blume](https://open.spotify.com/album/5gslWDijyeGci5fAXPeXYE) | 3:18 | 2023-11-08 | 2023-11-30 |
@@ -1221,7 +1222,7 @@
 | [Toxic](https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH) | [HAVET](https://open.spotify.com/artist/0Ppjh3TEy1VYLQoyKmIxaD) | [Toxic](https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN) | 2:36 | 2022-07-27 | 2022-09-22 |
 | [Toxisch](https://open.spotify.com/track/0xXg49Q95WwUIVc3TC9eK7) | [Die Krux](https://open.spotify.com/artist/2SLzDQT4gRA9vDbUB2BxMp) | [Toxisch](https://open.spotify.com/album/5Bg0G5KWlxCY4JMVj6HPyT) | 3:18 | 2023-06-28 | 2023-08-10 |
 | [TOXISCH](https://open.spotify.com/track/0WkO9mCwx4nVN1gexEm22W) | [florian frank](https://open.spotify.com/artist/1gROtFXUw3buMIAD77pEuK), [Amaria](https://open.spotify.com/artist/0ivOZEy6bTZX9j5utjbdW1) | [TOXISCH](https://open.spotify.com/album/5VATJMeTPJP2WyJyBfldud) | 2:36 | 2023-02-08 | 2023-03-02 |
-| [TOYBOY](https://open.spotify.com/track/4fGdHKUHIf1aVquNPYqvUg) | [Gigi Blow Cooperation](https://open.spotify.com/artist/5X3cfRLmcaCxJw4CEFG5Im) | [MOST KiLLA HORSE](https://open.spotify.com/album/650mosAdjb29mNEUGMqXFT) | 2:09 | 2025-04-02 |  |
+| [TOYBOY](https://open.spotify.com/track/4fGdHKUHIf1aVquNPYqvUg) | [Gigi Blow Cooperation](https://open.spotify.com/artist/5X3cfRLmcaCxJw4CEFG5Im) | [MOST KiLLA HORSE](https://open.spotify.com/album/650mosAdjb29mNEUGMqXFT) | 2:09 | 2025-04-02 | 2025-05-08 |
 | [Trace Your Steps](https://open.spotify.com/track/1QkBL87DJuqRdkSxi55O9G) | [Almost Falling](https://open.spotify.com/artist/7siR2cbExdWBx4fe6SAKb3) | [Trace Your Steps](https://open.spotify.com/album/19bk6xRkKz6Kp0SdeSFeFt) | 3:40 | 2023-04-26 | 2023-05-24 |
 | [Traces](https://open.spotify.com/track/5KhnrnJduaIeG7qq7Kly1Y) | [Mikka Bozu](https://open.spotify.com/artist/2OcWVlGXYVKwR4vtjEvpyF) | [The Big Business Experience, Pt\. 1](https://open.spotify.com/album/0zbutoqFwjgCYIzKQRswfb) | 3:15 | 2022-08-17 | 2022-09-29 |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-12 | 2023-01-19 |

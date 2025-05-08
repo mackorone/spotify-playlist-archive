@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "Lebelo - EP",
+        "url": "https://open.spotify.com/album/5yiS9eTIivp1Sofm2ZRrSJ"
+      },
+      "artists": [
+        {
+          "name": "Romeo Makota",
+          "url": "https://open.spotify.com/artist/4VpEaIwPzwAlxKCN4RwAhs"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452455,
+      "name": "Abangifuni",
+      "url": "https://open.spotify.com/track/6UTWHvcKICoVo2OuD78Wxq"
+    },
+    {
+      "album": {
         "name": "NGOMOYA",
         "url": "https://open.spotify.com/album/05HX31ytzjPOO53EqrIu0c"
       },
@@ -5514,7 +5536,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -8598,7 +8620,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 221254,
       "name": "Chokeslem",
       "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
@@ -14772,7 +14794,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 233710,
       "name": "Fly High Lekompo",
       "url": "https://open.spotify.com/track/59mjyEPTKjs2D8zHvmqfa8"
@@ -15552,7 +15574,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 261668,
       "name": "Ga Mmapula",
       "url": "https://open.spotify.com/track/5SvbnXu2wWe9e6ICWlMw1E"
@@ -20870,7 +20892,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 345704,
       "name": "Inja Kabi Lena",
       "url": "https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW"
@@ -28716,7 +28738,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 348357,
       "name": "Mina Nawe",
       "url": "https://open.spotify.com/track/5TsjcsZxlhw85ChHMktd2g"
@@ -37658,7 +37680,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"

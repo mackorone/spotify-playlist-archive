@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,758 likes - 139 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,809 likes - 139 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 112 | [Forbidden Fruit](https://open.spotify.com/track/6Ip3L1WWFnlGUp55H4A0G0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/4jrfba3omPZcFt9YXiaqt4) | 3:16 |
 | 113 | [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 6:26 |
 | 114 | [Forever Mine](https://open.spotify.com/track/5dS4r8s7z5r1LpivqrCP0U) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 3:19 |
-| 115 | [Placement and Longing Pt\. 1](https://open.spotify.com/track/3rSWE0C3rFWpATVNVH4Tym) | [Allison Philips Trio](https://open.spotify.com/artist/5kdwPeI1XJ4Ktzue7y9RR7) | [Placement and Longing Pt\. 1](https://open.spotify.com/album/0JKgzNrlmMtcaCxxKt3NwW) | 4:29 |
+| 115 | [Placement and Longing, Pt\. 1](https://open.spotify.com/track/3rSWE0C3rFWpATVNVH4Tym) | [Allison Philips Trio](https://open.spotify.com/artist/5kdwPeI1XJ4Ktzue7y9RR7), [Allison Philips](https://open.spotify.com/artist/1ZEze3ZP3aKseM3Z7lWRGE) | [Placement and Longing, Pt\. 1](https://open.spotify.com/album/0JKgzNrlmMtcaCxxKt3NwW) | 4:29 |
 | 116 | [Daddy Won't You Please Come Home \(with The New Englanders\)](https://open.spotify.com/track/3Tr4rNbK1hSMS9hlKwgy1l) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk), [The New Englanders](https://open.spotify.com/artist/07x7aTPPSmupbu63ddzTVd) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) | 2:58 |
 | 117 | [I'm Afraid the Masquerade Is Over](https://open.spotify.com/track/6mXID0DbyA7qBZVLPZ1yXg) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [Mood\(S\)wings](https://open.spotify.com/album/4XiJAy1fNIsCdbwpvVofBK) | 7:25 |
 | 118 | [Stand by me](https://open.spotify.com/track/2muiX4tWrBQP8lqyntgKaB) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy), [Jacob Sureda](https://open.spotify.com/artist/3gE03pCkb7C12o6c4BNX8u) | [Mestizüo](https://open.spotify.com/album/6a0PDaf3EreMYF04InjuVg) | 7:22 |

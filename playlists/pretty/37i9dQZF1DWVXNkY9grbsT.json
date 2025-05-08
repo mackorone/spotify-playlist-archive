@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 108364,
+  "num_followers": 108403,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
       },
       "artists": [
         {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        },
-        {
-          "name": "Dawncall",
-          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         }
       ],
-      "duration_ms": 259310,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
+      "duration_ms": 167212,
+      "name": "Cryo",
+      "url": "https://open.spotify.com/track/3A0r8Pi9bbhLBI1OBhnzpQ"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -699,18 +695,22 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "R Plus Seven",
-        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        },
+        {
+          "name": "Dawncall",
+          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
         }
       ],
-      "duration_ms": 167212,
-      "name": "Cryo",
-      "url": "https://open.spotify.com/track/3A0r8Pi9bbhLBI1OBhnzpQ"
+      "duration_ms": 259310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -835,38 +835,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "12\u00b0C",
-        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 273564,
-      "name": "12\u00b0C",
-      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Memorie I",
-        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 439125,
-      "name": "Come Prima",
-      "url": "https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 241862,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Memorie I",
+        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 439125,
+      "name": "Come Prima",
+      "url": "https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "12\u00b0C",
+        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 273564,
+      "name": "12\u00b0C",
+      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
+        "name": "HomeSoon",
+        "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Catsu",
+      "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
         "name": "Afrodisia",
         "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 255477,
       "name": "8\u00b0C",
       "url": "https://open.spotify.com/track/1dnSI8xGpjtD5vLzUEIIHd"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "HomeSoon",
-        "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
-      },
-      "artists": [
-        {
-          "name": "Cousin",
-          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Catsu",
-      "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Multiplex",
-        "url": "https://open.spotify.com/album/0ZSVcbxKo3Dbm7mbIuJz6e"
-      },
-      "artists": [
-        {
-          "name": "Mark Van Hoen",
-          "url": "https://open.spotify.com/artist/7mEHndkM91rEPLkC8LfYx3"
-        }
-      ],
-      "duration_ms": 238447,
-      "name": "Multiplex",
-      "url": "https://open.spotify.com/track/1Kno2Q1ERfRnQCpTJET81C"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Selected Ambient Works Volume II (Expanded Edition)",
         "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 531426,
       "name": "#7",
       "url": "https://open.spotify.com/track/3mqHljnbhJx3CsoJ2c7MSK"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Multiplex",
+        "url": "https://open.spotify.com/album/0ZSVcbxKo3Dbm7mbIuJz6e"
+      },
+      "artists": [
+        {
+          "name": "Mark Van Hoen",
+          "url": "https://open.spotify.com/artist/7mEHndkM91rEPLkC8LfYx3"
+        }
+      ],
+      "duration_ms": 238447,
+      "name": "Multiplex",
+      "url": "https://open.spotify.com/track/1Kno2Q1ERfRnQCpTJET81C"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "ooo \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 o\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361( \u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u02dc\u0e31\u0e34\u0e35\u0e36\u0e37\u0e4c\u0e4e\u0e49\u0e47\u0e4b\u0e4a\u29810 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 \u0c20\u0c40\u0a42\u0ce7\u0eb9\u0fc3\u0942\u0a42",
-        "url": "https://open.spotify.com/album/7tZo2dx2IQc8FSKuGYhfJQ"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 102681,
-      "name": "\u0275\u0a42\u2262\u0fc3\u0942\u0a42\u0ce7\u0eb9\u0c20\u0c40\u0a42\u061e\u0619\u0616\u207d\u207e\u0627\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489",
-      "url": "https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Selected Ambient Works Volume II (Expanded Edition)",
         "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 414706,
       "name": "#9",
       "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "ooo \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 o\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361( \u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u02dc\u0e31\u0e34\u0e35\u0e36\u0e37\u0e4c\u0e4e\u0e49\u0e47\u0e4b\u0e4a\u29810 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 \u0c20\u0c40\u0a42\u0ce7\u0eb9\u0fc3\u0942\u0a42",
+        "url": "https://open.spotify.com/album/7tZo2dx2IQc8FSKuGYhfJQ"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 102681,
+      "name": "\u0275\u0a42\u2262\u0fc3\u0942\u0a42\u0ce7\u0eb9\u0c20\u0c40\u0a42\u061e\u0619\u0616\u207d\u207e\u0627\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489",
+      "url": "https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "no floor",
-        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
-      },
-      "artists": [
-        {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 357293,
-      "name": "the applebees outside kalamazoo, michigan",
-      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 357293,
+      "name": "the applebees outside kalamazoo, michigan",
+      "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/4gtQeBKsAWeE3lKcC13TOH"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Tempora",
         "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Lirica Ucraina",
-        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Fuggire",
-      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/4gtQeBKsAWeE3lKcC13TOH"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1527,6 +1511,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Lirica Ucraina",
+        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Fuggire",
+      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 109937,
-      "name": "3eee",
-      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1671,6 +1655,22 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 109937,
+      "name": "3eee",
+      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
     },
     {
       "added_at": "2025-04-25 19:42:26",

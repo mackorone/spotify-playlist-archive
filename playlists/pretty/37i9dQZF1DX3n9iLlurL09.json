@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 99812,
+  "num_followers": 99839,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Walk The Moon",
-        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 321280,
-      "name": "Anna Sun",
-      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 271880,
       "name": "Mind Mischief",
       "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Walk The Moon",
+        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 321280,
+      "name": "Anna Sun",
+      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "San Cisco",
-        "url": "https://open.spotify.com/album/5iyJwtJJoTLFLa0NmiJeYx"
-      },
-      "artists": [
-        {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
-        }
-      ],
-      "duration_ms": 154093,
-      "name": "Awkward - EP Version",
-      "url": "https://open.spotify.com/track/7eHQkyYJnjehynpmZF3uXI"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 285546,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/47V6SAlY1SWHYoPHY2vSIK"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "San Cisco",
+        "url": "https://open.spotify.com/album/5iyJwtJJoTLFLa0NmiJeYx"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 154093,
+      "name": "Awkward - EP Version",
+      "url": "https://open.spotify.com/track/7eHQkyYJnjehynpmZF3uXI"
     },
     {
       "added_at": "2025-03-14 12:16:12",

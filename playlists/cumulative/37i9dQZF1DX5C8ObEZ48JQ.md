@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe?si=z2vCqjdPRaCQ0FfRVCl5PA">John Muq</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4?si=I2V7dxgHSVaDpT0eiynOhw">HEVI</a>\. Artwork: Isu Kim.
 
-1,302 songs - 2 day 17 hr 9 min
+1,306 songs - 2 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Blueprint](https://open.spotify.com/track/4mwq55DaCkiptwx1UljRvB) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Third Kind](https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4) | 3:28 | 2023-10-10 | 2023-10-26 |
 | [Blues](https://open.spotify.com/track/6hofzLNwXx1PfubLUaLLKG) | [Abi.Deen](https://open.spotify.com/artist/7jzUnmpVSltSJ99j6gX0Sh), [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Blues](https://open.spotify.com/album/0Drhz709vGb3KuzToVxDKT) | 3:15 | 2023-02-22 | 2023-03-30 |
 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2023-02-22 | 2023-03-30 |
+| [Blurry Nights](https://open.spotify.com/track/0v7L4PS0CV3DXo2ZsD2eG9) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Blurry Nights](https://open.spotify.com/album/1wNbteaYJV9QaCixwcdfQA) | 3:11 | 2025-05-07 |  |
 | [BNB](https://open.spotify.com/track/6TYdcksDllQb7KFTpUl5Ek) | [Master Helpline](https://open.spotify.com/artist/4Zm1CD8ECx7N8Vrgk3AqUD), [Spaceboy Mercury](https://open.spotify.com/artist/2mR0GIWBegdzOpWjqoMPfI) | [Stories From Houtbay](https://open.spotify.com/album/5VigFY46G0uqityzdCastP) | 2:01 | 2023-07-26 | 2024-02-07 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-29 | 2024-02-07 |
 | [Bobo Spirit](https://open.spotify.com/track/1khBIacqBiXjrIFudGLLY6) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Bobo Spirit](https://open.spotify.com/album/1OebH9pLOTesDAPFBsOtHJ) | 4:41 | 2025-04-02 |  |
@@ -163,6 +164,7 @@
 | [Bonjour](https://open.spotify.com/track/0BkYNFe23cGq7herskna5k) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour](https://open.spotify.com/album/2OHIWGJpTUKx5WuEhJ2QoO) | 3:39 | 2025-01-23 | 2025-03-06 |
 | [Booless Brothers](https://open.spotify.com/track/7gTgdhChd3dH93Ej8Qr8c5) | [Gasky](https://open.spotify.com/artist/5EyDiELo7F136IKRoicaB2), [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Booless Brothers](https://open.spotify.com/album/7lJsrNjkX9ObNZ7fQ4IEFD) | 2:11 | 2023-02-22 | 2023-03-30 |
 | [BopScrew](https://open.spotify.com/track/2QdJw8EBTCJuAJXF2QtjOU) | [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s), [Tongue\-Fu Senseii](https://open.spotify.com/artist/0wwLeCrkyBWdgQ34XZqEnC) | [BopScrew](https://open.spotify.com/album/7dfnhnnnO5i8u1C4aWLuAY) | 2:27 | 2022-09-30 | 2023-01-26 |
+| [Bossa Nova](https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Bossa Nova](https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR) | 3:15 | 2025-05-07 |  |
 | [Bother](https://open.spotify.com/track/1sNjSgQD3OgEtfHBkYJMZh) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Bother](https://open.spotify.com/album/3NlA4ZqZKmRqA9pM8VeZqc) | 2:46 | 2024-07-03 | 2024-08-08 |
 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 | 2024-07-03 | 2024-10-05 |
 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 | 2024-11-06 | 2024-12-05 |
@@ -713,6 +715,7 @@
 | [Margarita](https://open.spotify.com/track/5HN8VVC24FpSe5a3kVQKdD) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [ECHOLOCATION](https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD) | 2:37 | 2024-03-06 | 2024-04-03 |
 | [Margret](https://open.spotify.com/track/1iinznvzU26mQT9SBqkyRL) | [Gafgold](https://open.spotify.com/artist/6gpFdQiZCxXX0rJezWHJao) | [Margret](https://open.spotify.com/album/0YFDzIE1dhG5dYWhViYEiX) | 2:45 | 2024-07-03 | 2024-08-08 |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-12-04 | 2025-01-24 |
+| [Marigold](https://open.spotify.com/track/4e4BDHvDpHMqQtPdiX1qCT) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:19 | 2025-05-07 |  |
 | [Mary J](https://open.spotify.com/track/61mSUYsdQknaRbWwxwI9xg) | [Radar X](https://open.spotify.com/artist/61sgW29lXEHcAgCfaSmoEj) | [Mary J](https://open.spotify.com/album/4Bult0rXG6CXrovcqnTIZX) | 3:24 | 2023-06-05 | 2023-06-28 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-11-06 | 2025-01-24 |
 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 | 2022-09-30 | 2023-01-26 |
@@ -786,6 +789,7 @@
 | [My Lily](https://open.spotify.com/track/4uf1W0eA7iKN42g1VC5C77) | [B.Brefo](https://open.spotify.com/artist/5gWzR7oAi40m2VBOgGAtkv) | [My Lily](https://open.spotify.com/album/2nIlCcRIgtQrUIikTkclod) | 2:07 | 2024-10-04 | 2024-11-07 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-11-29 | 2024-02-07 |
 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 | 2024-11-06 | 2024-12-05 |
+| [My Rider](https://open.spotify.com/track/3yt9iLc09aR4wCsK6Jn6IY) | [HEVI](https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4) | [Hevi](https://open.spotify.com/album/3SLCfZi43xfkkBRmrNd8mY) | 3:03 | 2025-05-07 |  |
 | [My Smoke](https://open.spotify.com/track/1Q5WEyGCb6duyzvXan6RAr) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV) | [My Smoke](https://open.spotify.com/album/2KiEgxP3XdHgDakatza7e8) | 2:50 | 2024-08-07 | 2024-09-05 |
 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-09-04 | 2024-10-05 |
 | [My Way](https://open.spotify.com/track/1mKTa5l73nQ2LGHIaT6WZJ) | [Enaky](https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724) | [Wild Flower](https://open.spotify.com/album/5Olwt6TpBP1wtitZTYZQd5) | 2:36 | 2025-03-05 | 2025-04-03 |

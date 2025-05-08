@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,025 likes - 91 songs - 6 hr 2 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,026 likes - 91 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 16 | [Lying In The Sand](https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lying In The Sand](https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A) | 3:19 |
 | 17 | [Motion](https://open.spotify.com/track/7udN5zYa0p1rA97wJx7nwC) | [Carriers](https://open.spotify.com/artist/03Y6dXzmx4DFtBblTZpAw4) | [Every Time I Feel Afraid](https://open.spotify.com/album/40OAxhVeCRd8BkvgXh4ko4) | 5:28 |
 | 18 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/2HKHccmnwpsx0FDGiehYoi) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Scholars](https://open.spotify.com/album/3EuXbeOZZukUbq4ZdreJzV) | 5:28 |
-| 19 | [Hei Ti](https://open.spotify.com/track/2v7twRk9QPaUyrSrx8zWPu) | [Carwyn Ellis & Rio 18](https://open.spotify.com/artist/6L2FmhX67tsAe4o7TrVR3b) | [Hei Ti](https://open.spotify.com/album/5QktF3plJ06M85hMmReYfE) | 2:47 |
+| 19 | [Hei Ti](https://open.spotify.com/track/2v7twRk9QPaUyrSrx8zWPu) | [Carwyn Ellis & Rio 18](https://open.spotify.com/artist/6L2FmhX67tsAe4o7TrVR3b), [Baldo Verdú](https://open.spotify.com/artist/0jxtWCmuQw79tEOTDu5b2i) | [Hei Ti](https://open.spotify.com/album/5QktF3plJ06M85hMmReYfE) | 2:47 |
 | 20 | [Alē](https://open.spotify.com/track/5xkWnuF0eA5ODVKiTJaQXZ) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M) | 2:51 |
 | 21 | [Polaroid](https://open.spotify.com/track/3m9XlszsXW1CP9MiPlYP7L) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Pink Silence](https://open.spotify.com/album/6mtfCjelghqCcjp6EiZMSG) | 3:47 |
 | 22 | [Cadillac](https://open.spotify.com/track/44HfrhakAPrzL8WLQuvrnr) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Losin'](https://open.spotify.com/album/5sH5XoVKY8ZMJgVhuc1gw0) | 3:16 |

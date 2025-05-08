@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Loathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,038 likes - 74 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,111 likes - 74 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 |
 | 2 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 |
-| 3 | [Not Yet Broken](https://open.spotify.com/track/42ntmP97HRvZ9UsF8eAnK1) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [March Of The Unheard \(Bonus Edition\)](https://open.spotify.com/album/7l4D7A6nJjfTtLPuNZLGBN) | 3:14 |
+| 3 | [Not Yet Broken \- Bonus Track](https://open.spotify.com/track/42ntmP97HRvZ9UsF8eAnK1) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [March Of The Unheard \(Bonus Edition\)](https://open.spotify.com/album/7l4D7A6nJjfTtLPuNZLGBN) | 3:14 |
 | 4 | [Thanks For Nothing](https://open.spotify.com/track/2xcG0Df2Q1MlAtPF4yP6BG) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Thanks For Nothing](https://open.spotify.com/album/2rTr503ollPifDLec3kyea) | 3:42 |
 | 5 | [Negative Space](https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Negative Space](https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh) | 3:18 |
 | 6 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Ella Ion",
-  "num_followers": 27442,
+  "num_followers": 27541,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBoWAAAAAABUQ52JZeAYqgf1Y83+emhc",
+  "snapshot_id": "aBwZfAAAAABEypibXE+LKIQOVm0/pnyW",
   "tracks": [
     {
       "added_at": "2025-05-06 14:00:32",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz"
     },
     {
+      "added_at": "2025-05-06 14:00:32",
+      "album": {
+        "name": "Fading Star",
+        "url": "https://open.spotify.com/album/61HxdpA91qktxynFPsafWF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Rings",
+          "url": "https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf"
+        }
+      ],
+      "duration_ms": 299123,
+      "name": "Fading Star",
+      "url": "https://open.spotify.com/track/75I3yTyavJJ6fhTCtgxh2u"
+    },
+    {
       "added_at": "2025-04-22 14:00:30",
       "album": {
         "name": "fold the edges",
@@ -217,20 +233,20 @@
       "url": "https://open.spotify.com/track/4FBXh0rBrmGxsF8FjfBDlv"
     },
     {
-      "added_at": "2025-05-06 14:00:32",
+      "added_at": "2025-05-08 02:39:56",
       "album": {
-        "name": "Sky Writing",
-        "url": "https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL"
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/6cDwVnXXarJNSjfVaZYvb0"
       },
       "artists": [
         {
-          "name": "Fade Evare",
-          "url": "https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4"
+          "name": "xiao xiao",
+          "url": "https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK"
         }
       ],
-      "duration_ms": 185581,
-      "name": "Sky Writing",
-      "url": "https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW"
+      "duration_ms": 99918,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/6O9C9mJeXopK83yHdKAvAo"
     },
     {
       "added_at": "2025-05-06 14:00:32",
@@ -257,6 +273,22 @@
       "url": "https://open.spotify.com/track/5sygIFl6wIC1jvbgEuLI0V"
     },
     {
+      "added_at": "2025-05-06 14:00:32",
+      "album": {
+        "name": "Sky Writing",
+        "url": "https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL"
+      },
+      "artists": [
+        {
+          "name": "Fade Evare",
+          "url": "https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4"
+        }
+      ],
+      "duration_ms": 185581,
+      "name": "Sky Writing",
+      "url": "https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW"
+    },
+    {
       "added_at": "2025-04-15 14:00:41",
       "album": {
         "name": "hot and talking",
@@ -271,6 +303,22 @@
       "duration_ms": 208054,
       "name": "hot and talking",
       "url": "https://open.spotify.com/track/72vZQDoPeWNmo9cbuAfFvY"
+    },
+    {
+      "added_at": "2025-05-08 00:01:49",
+      "album": {
+        "name": "Guillotine",
+        "url": "https://open.spotify.com/album/70TDhd6mFORgQZSRVdo5Ro"
+      },
+      "artists": [
+        {
+          "name": "OH! Daisy",
+          "url": "https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ"
+        }
+      ],
+      "duration_ms": 150159,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2"
     },
     {
       "added_at": "2025-04-01 13:00:31",
@@ -383,6 +431,22 @@
       "duration_ms": 158843,
       "name": "a green light",
       "url": "https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ"
+    },
+    {
+      "added_at": "2025-05-07 03:37:26",
+      "album": {
+        "name": "I LEFT MYY HEART OUT WEST",
+        "url": "https://open.spotify.com/album/6nwl0MVK57lBELY6Vloiz4"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "OH MYY! OH MYY!",
+      "url": "https://open.spotify.com/track/0kU9P1Z0f9UwqdCBlHjc1r"
     },
     {
       "added_at": "2025-05-06 14:00:32",
@@ -1595,54 +1659,6 @@
       "duration_ms": 226840,
       "name": "Kapi Ngalyananni",
       "url": "https://open.spotify.com/track/4eVcknZFBhhj0D4avcdwwx"
-    },
-    {
-      "added_at": "2025-04-01 13:00:31",
-      "album": {
-        "name": "Mile High Club",
-        "url": "https://open.spotify.com/album/1aeuXZX2Yif6ntQtU0JStS"
-      },
-      "artists": [
-        {
-          "name": "Stevan",
-          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
-        }
-      ],
-      "duration_ms": 145408,
-      "name": "Mile High Club",
-      "url": "https://open.spotify.com/track/63fFhhjmdUOS1eP1LNZUZ6"
-    },
-    {
-      "added_at": "2025-03-18 18:00:25",
-      "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/2vIKkYhzUMuvrl4shFEvkM"
-      },
-      "artists": [
-        {
-          "name": "Aidan Fine",
-          "url": "https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/2FfZOgGPyrdNMnLipQRBLX"
-    },
-    {
-      "added_at": "2025-04-01 13:00:31",
-      "album": {
-        "name": "Couch",
-        "url": "https://open.spotify.com/album/4DFfCQvZbgPotgFYE3QXsk"
-      },
-      "artists": [
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Couch",
-      "url": "https://open.spotify.com/track/4b1mOc7zI02grN27Xyu3r8"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

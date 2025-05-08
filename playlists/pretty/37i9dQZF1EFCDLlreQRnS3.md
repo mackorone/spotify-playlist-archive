@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 124 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 124 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 16 | [Touch](https://open.spotify.com/track/6xa40oo11mx6XTLpZwuLUL) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Touch](https://open.spotify.com/album/34q5aD1Ldo2e7nSQzF608l) | 2:52 |
 | 17 | [Gets Me The Most](https://open.spotify.com/track/5BogyQ5iTohTqatlsZOUDZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ) | [Gets Me The Most](https://open.spotify.com/album/0roScFcpdRcdOsqOWfGV8r) | 3:08 |
 | 18 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 |
-| 19 | [Wrong Direction](https://open.spotify.com/track/2j0xyMTbwQHRZAL8IGL6JK) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Changes](https://open.spotify.com/album/6nqE3TBxP0i7BV7y5lfvpk) | 3:28 |
-| 20 | [Saving Me](https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Saving Me](https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1) | 3:35 |
+| 19 | [Saving Me](https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Saving Me](https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1) | 3:35 |
+| 20 | [Wrong Direction](https://open.spotify.com/track/2j0xyMTbwQHRZAL8IGL6JK) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Changes](https://open.spotify.com/album/6nqE3TBxP0i7BV7y5lfvpk) | 3:28 |
 | 21 | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/track/3heHkofB4rcPXF75FF482N) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/album/7ClTxzoITkU65S1D41hJBQ) | 2:40 |
 | 22 | [Lover](https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [Lover](https://open.spotify.com/album/5IFOgVSkDJ1Umd6Fej7Ab1) | 3:41 |
 | 23 | [Hungover You](https://open.spotify.com/track/318IfrBxOfkJPGPRszfrzT) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/7rL5DfwcQqW4kNuxQb8OeY) | 3:04 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 123 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 124 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbwuFAAAAAApn04ACXtQUgElWTgG7JzQ`
+Snapshot ID: `AbwztAAAAAAnCS/JzdVGctsshAC/Zclp`

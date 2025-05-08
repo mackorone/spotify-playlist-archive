@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Alles Wordt Beter",
+        "url": "https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191404,
+      "name": "Alles Wordt Beter",
+      "url": "https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP"
+    },
+    {
+      "album": {
         "name": "Als Geen Ander",
         "url": "https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP"
       },
@@ -2295,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Hart In Brand",
+        "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Hart In Brand",
+      "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
+    },
+    {
+      "album": {
         "name": "Hartslag Van De Stad",
         "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
       },
@@ -2590,7 +2630,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 138655,
       "name": "HJB",
       "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
@@ -3170,6 +3210,28 @@
       "duration_ms": 236920,
       "name": "Ik Wou Dat Ik Jou Was",
       "url": "https://open.spotify.com/track/5t6mxGSbrfKjocqUlsyAZH"
+    },
+    {
+      "album": {
+        "name": "Ik Zal Er Zijn",
+        "url": "https://open.spotify.com/album/4CB3M5eGFtOxzGLifjpeF5"
+      },
+      "artists": [
+        {
+          "name": "Akwasi",
+          "url": "https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Ik Zal Er Zijn",
+      "url": "https://open.spotify.com/track/3jsefvfjc2gtnSsxebofiK"
     },
     {
       "album": {
@@ -3925,6 +3987,28 @@
     },
     {
       "album": {
+        "name": "Lil Freakje",
+        "url": "https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214446,
+      "name": "Lil Freakje",
+      "url": "https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ"
+    },
+    {
+      "album": {
         "name": "Love Of My Life",
         "url": "https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1"
       },
@@ -4624,7 +4708,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 174545,
       "name": "Onweer In M'n Hoofd",
       "url": "https://open.spotify.com/track/6CQyZI2sh3sxSlKkDickO2"
@@ -5724,7 +5808,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
@@ -6064,7 +6148,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 179482,
       "name": "Verder Gaan",
       "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"

@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-134 songs - 7 hr 11 min
+135 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 | 2023-01-03 |  |
 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 | 2023-01-03 |  |
 | [Alô Ex\-Amor \- Ao Vivo](https://open.spotify.com/track/08I9PzelbafWeXufyvKL3S) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Alô Ex\-Amor \(Ao Vivo\)](https://open.spotify.com/album/5D84Xvu0CAC3JFKWqm3uvb) | 3:17 | 2023-01-03 | 2024-04-19 |
-| [Amando Individual](https://open.spotify.com/track/6WhnioyjsbxNSpQhCXhYv6) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Amando Individual](https://open.spotify.com/album/3MQMMLUYMEsIBPTIf4oZVy) | 2:56 | 2023-11-17 |  |
+| [Amando Individual](https://open.spotify.com/track/6WhnioyjsbxNSpQhCXhYv6) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Amando Individual](https://open.spotify.com/album/3MQMMLUYMEsIBPTIf4oZVy) | 2:56 | 2023-11-17 | 2025-05-08 |
 | [Amava Nada \- Ao Vivo](https://open.spotify.com/track/4AOOcHnZdU6qyUVtKZUEuF) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amava Nada \(Ao Vivo\)](https://open.spotify.com/album/054z4D8xRcVUqmXXErNdjz) | 3:05 | 2023-11-17 |  |
 | [Amor da Despedida](https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Amor da Despedida](https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i) | 2:49 | 2023-01-03 |  |
 | [Amor Falsificado](https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amor Falsificado](https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT) | 3:26 | 2023-01-03 |  |
@@ -42,6 +42,7 @@
 | [Carona do Amor / Shortinho Saint\-Tropez / Novos Tempos](https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 6:21 | 2023-01-03 |  |
 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 | 2023-01-03 |  |
 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 | 2023-11-17 |  |
+| [Chave Cópia](https://open.spotify.com/track/2AjPFi6CcjGXlvt1rkrDRD) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Clube Do Araújo \(Vol\. 1\)](https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG) | 2:35 | 2024-07-09 |  |
 | [Cheia de Manias](https://open.spotify.com/track/1XNdu4czbxZ9tdVOhDtI4M) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt) | [Grandes Sucessos](https://open.spotify.com/album/7oEbEk1KjiSx4VyYeCZXum) | 3:31 | 2023-01-03 | 2024-04-19 |
 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 | 2023-01-03 |  |
 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 | 2023-01-03 |  |

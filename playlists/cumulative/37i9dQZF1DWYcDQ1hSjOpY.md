@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-928 songs - 1 day 21 hr 34 min
+932 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [dream cycles](https://open.spotify.com/track/7wZsoD4bRQKdcii063kicd) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream cycles](https://open.spotify.com/album/7eapgzoaSHwJh7tg80GUrJ) | 3:25 | 2022-10-04 | 2023-05-04 |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-14 | 2024-05-05 |
 | [Dream Of Flight](https://open.spotify.com/track/6aXdJ9fD7KLRIQu3TN7LoE) | [Nile Kaufman](https://open.spotify.com/artist/2pyrI3SOsUuA1iiVe62WU4) | [Dream Of Flight](https://open.spotify.com/album/48dIMDFlwhgIh0hHpA1XMV) | 2:41 | 2021-11-10 | 2024-03-21 |
+| [Dream With Me](https://open.spotify.com/track/31DR8bVBcfO8gF3w9OMOEJ) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Dream With Me](https://open.spotify.com/album/1ex6e5R19r00Bx2XrFDKdT) | 3:09 | 2025-05-07 |  |
 | [Dreamfall](https://open.spotify.com/track/7ejAZN3oevsGNQHleqohD8) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Dreamfall](https://open.spotify.com/album/2fkqeaQAcXbTZkYMxt1jBB) | 3:05 | 2025-03-19 |  |
 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 | 2021-11-10 | 2024-04-06 |
 | [Dreaming of You](https://open.spotify.com/track/4SASETFSjgN34MCo47t01c) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Dreaming of You](https://open.spotify.com/album/3HFNfEccj45kguoaP64qHD) | 2:36 | 2025-02-04 | 2025-04-02 |
@@ -314,6 +315,7 @@
 | [Eternal Rest](https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Rest](https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9) | 3:18 | 2024-12-03 |  |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 | 2024-03-21 |
 | [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 | 2023-02-09 | 2024-05-21 |
+| [Ether's Embrace](https://open.spotify.com/track/1bPYDDOK4NOcLnQg5Y2hMx) | [Marble Sky](https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI) | [Ether's Embrace](https://open.spotify.com/album/7mDvAoQC6dBmUMuMlShYwQ) | 2:32 | 2025-05-07 |  |
 | [Ethereal](https://open.spotify.com/track/3zgJ1tCqq4QKJk5Ku99pEX) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Ethereal](https://open.spotify.com/album/3QfXFJAvn3M2Aa51CCnR09) | 3:01 | 2024-12-12 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-11-10 | 2023-02-18 |
 | [Ethereal Echoes](https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s) | [Ella Hush](https://open.spotify.com/artist/6dcMOViRlnkmZkjhckcMmx) | [Ethereal Echoes](https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp) | 3:04 | 2024-05-04 | 2025-04-12 |
@@ -591,6 +593,7 @@
 | [Now](https://open.spotify.com/track/1LQlKIWA4eQqJg7KFdlyou) | [Hausste](https://open.spotify.com/artist/5Oz6ivFBe8vVFznXeggj30) | [Now](https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF) | 2:39 | 2022-12-02 | 2024-05-05 |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-11-10 | 2024-04-06 |
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-07 | 2024-05-05 |
+| [Nuit](https://open.spotify.com/track/6udRwz6ACfhaN0xL62FKFc) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Nuit](https://open.spotify.com/album/2pPy0hF55l32PsGiPASIih) | 3:19 | 2025-05-07 |  |
 | [Nukkua](https://open.spotify.com/track/4fiixzVvaFJBCWStaGJgFv) | [terje jaakonen](https://open.spotify.com/artist/7KHBvqZmZsQsu1Hg9eXcGh) | [Nukkua](https://open.spotify.com/album/33iCEmp2lXKQMzL8eAFC8T) | 3:14 | 2024-03-06 | 2024-10-16 |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2022-09-13 | 2024-03-21 |
 | [nydelig](https://open.spotify.com/track/6YfJVtcMC4T0qYXp2mD9Ck) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [nydelig](https://open.spotify.com/album/066Naapq4MiEoXEpajLSyK) | 2:51 | 2024-03-20 | 2025-01-15 |
@@ -663,6 +666,7 @@
 | [Promising](https://open.spotify.com/track/7xweqrovC1B12NKeZkcfow) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Promising](https://open.spotify.com/album/2iqBW2fFWm6dejo2Z3TQlb) | 2:57 | 2024-06-13 |  |
 | [Protostar](https://open.spotify.com/track/5F82mtEXo9CbyPchaCWDI3) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Protostar](https://open.spotify.com/album/3zCIUdjM4M0qr0LCfk3UYE) | 3:27 | 2021-11-10 | 2023-05-06 |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 | 2024-04-06 |
+| [Purposes](https://open.spotify.com/track/5ByeLs4DGsccq7inLK1R2p) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Purposes](https://open.spotify.com/album/6B6ypEQU3Jv86d7obqytLr) | 3:04 | 2025-05-07 |  |
 | [Puste 432Hz](https://open.spotify.com/track/5QopDD6crrYIvVZ66EEjoG) | [Droneq](https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH) | [Puste 432Hz](https://open.spotify.com/album/0wvCQeevi31eTbmSaLQRgJ) | 2:44 | 2024-03-06 | 2025-02-05 |
 | [Querencia](https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Querencia](https://open.spotify.com/album/6xqRYu3sp4EmrKESzm68tz) | 3:14 | 2021-11-10 | 2024-01-18 |
 | [Quiet](https://open.spotify.com/track/47wZeEB51rxneHGdmVwA63) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Quiet](https://open.spotify.com/album/4gdOCIRKdhVaH4mglrW33m) | 2:17 | 2025-04-29 |  |

@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Ryouji, CK YG
 
-253 songs - 14 hr 21 min
+254 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [GANG KO](https://open.spotify.com/track/6hIn7q8ZpAknIteqnU2Ry0) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [GANG KO](https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg) | 3:17 | 2025-01-01 | 2025-03-19 |
 | [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 | 2024-07-24 | 2024-11-06 |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-27 | 2025-04-17 |
-| [Girl U Gotta Go](https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [2Joints & Harmony](https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L) | 2:47 | 2025-02-06 |  |
+| [Girl U Gotta Go](https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [2Joints & Harmony](https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L) | 2:47 | 2025-02-06 | 2025-05-08 |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-17 | 2024-04-11 |
 | [GO GETTA](https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST](https://open.spotify.com/album/3E2ZsA4ZGIWPkzPr9Zc12R) | 4:12 | 2023-09-20 | 2023-11-18 |
 | [GO GETTA](https://open.spotify.com/track/36g22J7pBvXozaLUumgefE) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST MIXTAPE](https://open.spotify.com/album/6XGUdytvMhuUe7XekfFpDM) | 4:12 | 2023-11-15 | 2024-04-04 |
@@ -161,6 +161,7 @@
 | [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-02-14 |  |
 | [MARLBORO BLACK 3](https://open.spotify.com/track/5g44fkdzvWCk4btj6hh5tA) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [HEARTBREAK SZN 3](https://open.spotify.com/album/0OYk10DGvHILpIDDtsk1Ad) | 4:10 | 2024-08-29 | 2024-12-05 |
 | [MAS GUSTO KITA](https://open.spotify.com/track/2c5CsVc89pz3gc11BnWVLL) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [LUVXIC](https://open.spotify.com/album/2yqjOt3MA5dJvRb2hlhn6o) | 2:15 | 2023-12-13 | 2024-02-01 |
+| [May Nanalo Na](https://open.spotify.com/track/0sRiN6LTeSEUQZOSuCG8mr) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [May Nanalo Na](https://open.spotify.com/album/2VAQoucUaHrBViTgDSyLMD) | 3:57 | 2025-05-07 |  |
 | [Medyo Crazy](https://open.spotify.com/track/7JZG2ljaYhgCLz3YwcI9zH) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw), [\_dyco](https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb), [Cozyivy](https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS) | [Medyo Crazy](https://open.spotify.com/album/0mOyA4JrnWfOC7ai9SxJ1w) | 3:04 | 2024-09-04 | 2024-10-18 |
 | [MINAHALAGAD](https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MINAHALAGAD](https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD) | 4:11 | 2024-05-01 | 2025-01-02 |
 | [Mine](https://open.spotify.com/track/16BMFqJFcbs0iriQ5Hrkcp) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Mine](https://open.spotify.com/album/0m4VEjA8qEHpKZfptH53uE) | 2:47 | 2024-07-24 | 2024-09-05 |

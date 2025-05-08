@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ed Sheeran, Flume, Selena Gomez, Bailey Zimmerman & Luke Combs, Doja Cat + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,499 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,536 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 79 | [Scared Of Screaming](https://open.spotify.com/track/2P3ZRlyJxseRbrxMbMltuP) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Scared Of Screaming](https://open.spotify.com/album/5TF56mSxRuv2Tivpiem1ff) | 5:11 |
 | 80 | [YOU DON'T CARE ABOUT POOR PEOPLE](https://open.spotify.com/track/5SkL4VvmEWxHBD8oH884p5) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YOU DON'T CARE ABOUT POOR PEOPLE](https://open.spotify.com/album/4MnkwHsKiN9FHOR11ypFvk) | 3:15 |
 | 81 | [BYOD](https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [BYOD](https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet) | 3:21 |
-| 82 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
+| 82 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 83 | [Comeback Queens](https://open.spotify.com/track/1R2Z0q05CisYZeHeIUXES7) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Comeback Queens](https://open.spotify.com/album/1KmM83HRAOdn52evDcZwMk) | 3:02 |
 | 84 | [I Really Like You](https://open.spotify.com/track/7hvt9OKUkvMRaJ01o8dV49) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [I Really Like You](https://open.spotify.com/album/1bJ33VmXN5So2hfJmemcyP) | 2:45 |
 | 85 | [Right Back To You](https://open.spotify.com/track/1MYMPDMfs6a8SLjA9CLBST) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Right Back To You](https://open.spotify.com/album/4WxYIHzBfRzPJ38EyVL5DA) | 2:28 |

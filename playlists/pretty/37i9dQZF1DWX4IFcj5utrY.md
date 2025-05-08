@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=J3ZBNXJ1SXSw1r2T1HgEvA">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,665 likes - 56 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,706 likes - 56 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 18 | [Khoisan](https://open.spotify.com/track/2rnvcSb0Of5nxK6nNW0EPX) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 4:23 |
 | 19 | [Ghost](https://open.spotify.com/track/4k1BkXgLSbrEQ7r5YKWSZc) | [Bekzin Terris](https://open.spotify.com/artist/5bxu1WA3009bxj00yHRcMm), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt) | [The Ghost EP](https://open.spotify.com/album/0rrxFVclSDhEjpw4zQuQKf) | 7:03 |
 | 20 | [INHLIZIYO \(feat\. Brandon Dhludhlu\)](https://open.spotify.com/track/5f33BzBZzMMAFrMr0O4xHe) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr), [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV), [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV) | [THE XO EFFECT 2](https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt) | 7:18 |
-| 21 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
+| 21 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 22 | [Short Dick Man](https://open.spotify.com/track/2qMvYwMRDxAexRgbbE4NL2) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt), [DJ Falk](https://open.spotify.com/artist/0ZlPz8n080wd6MpuQFV7IC), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Short Dick Man](https://open.spotify.com/album/143o4elWqeZjElDZyoz3Vl) | 3:56 |
 | 23 | [Lost and Found](https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Caliber AfroFusion](https://open.spotify.com/artist/1hrAOP0zA7EB9H77zCrYlZ) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 7:53 |
 | 24 | [Phula \(feat\. Sykes\)](https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sykes](https://open.spotify.com/artist/7HZvtnE7QziKRQ6ttoQAzj) | [ARCADE TRILOGY](https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ) | 5:59 |

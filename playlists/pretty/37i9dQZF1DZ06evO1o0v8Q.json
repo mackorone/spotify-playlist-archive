@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 27287,
+  "num_followers": 27355,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBf/gAAAAACaCHwsJlQEDH3o36CO3mml",
+  "snapshot_id": "aBlRAAAAAACIF08t44toatSGOThLM1jC",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -39,6 +55,38 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "BIRDS",
+      "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 116453,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
     },
     {
       "added_at": null,
@@ -67,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -76,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 116453,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": null,
@@ -99,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
@@ -108,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+      "duration_ms": 194520,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
     },
     {
       "added_at": null,
@@ -131,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -140,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
+      "duration_ms": 172020,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
       "added_at": null,
@@ -163,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
@@ -172,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": null,
@@ -195,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -204,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+      "duration_ms": 184944,
+      "name": "UNDERWATER BOI",
+      "url": "https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2"
     },
     {
       "added_at": null,
@@ -227,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
@@ -236,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 184944,
-      "name": "UNDERWATER BOI",
-      "url": "https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2"
+      "duration_ms": 89840,
+      "name": "Big Smile",
+      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
     },
     {
       "added_at": null,
@@ -259,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -268,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 89840,
-      "name": "Big Smile",
-      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
+      "duration_ms": 133353,
+      "name": "DON'T PLAY",
+      "url": "https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe"
     },
     {
       "added_at": null,
@@ -291,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
@@ -300,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 133353,
-      "name": "DON'T PLAY",
-      "url": "https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe"
+      "duration_ms": 116840,
+      "name": "High Pressure",
+      "url": "https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm"
     },
     {
       "added_at": null,
@@ -323,38 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 116840,
-      "name": "High Pressure",
-      "url": "https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 136716,
-      "name": "Bad Wave",
-      "url": "https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -367,38 +383,6 @@
       "duration_ms": 102804,
       "name": "T.L.C. (TURNSTILE LOVE CONNECTION)",
       "url": "https://open.spotify.com/track/3zQpWQCDm9QMDaAhe4ggoO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Step to Rhythm",
-        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 211712,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "(Lost Another) Piece of My World",
-      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
     },
     {
       "added_at": null,
@@ -419,6 +403,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 111586,
+      "name": "(Lost Another) Piece of My World",
+      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Step to Rhythm",
+        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 211712,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pressure to Succeed",
         "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
       },
@@ -435,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Step to Rhythm",
-        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 93013,
-      "name": "Snaked",
-      "url": "https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5"
+      "duration_ms": 136716,
+      "name": "Bad Wave",
+      "url": "https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql"
     },
     {
       "added_at": null,
@@ -463,6 +479,22 @@
       "duration_ms": 123237,
       "name": "Come Back For More",
       "url": "https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Step to Rhythm",
+        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 93013,
+      "name": "Snaked",
+      "url": "https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5"
     },
     {
       "added_at": null,
@@ -524,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 142269,
-      "name": "Fuck Me Blind",
-      "url": "https://open.spotify.com/track/7G4MQxc8gZXUKlErhIDgxR"
+      "duration_ms": 138902,
+      "name": "Move Thru Me",
+      "url": "https://open.spotify.com/track/4rKG6dxdnugCSZ6COGNlvB"
     },
     {
       "added_at": null,
@@ -556,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 138902,
-      "name": "Move Thru Me",
-      "url": "https://open.spotify.com/track/4rKG6dxdnugCSZ6COGNlvB"
+      "duration_ms": 142269,
+      "name": "Fuck Me Blind",
+      "url": "https://open.spotify.com/track/7G4MQxc8gZXUKlErhIDgxR"
     },
     {
       "added_at": null,

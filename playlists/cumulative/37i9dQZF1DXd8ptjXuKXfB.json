@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
+  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! Cover: Beton.Hofi",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -658,6 +658,24 @@
       "duration_ms": 210020,
       "name": "Baszok R\u00e1tok",
       "url": "https://open.spotify.com/track/0M3j65N63vJMzvFgif2R5R"
+    },
+    {
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
       "album": {
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 150000,
       "name": "Oy Lele",
       "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"

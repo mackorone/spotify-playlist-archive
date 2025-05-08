@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Pihlajalta, Sara Beeltä & Arekselta, Ed Sheeranilta ja NEEA RIVERiltä.
 
-5,729 songs - 12 day 15 hr 31 min
+5,730 songs - 12 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,6 +1339,7 @@
 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-03 | 2025-01-10 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-16 | 2025-01-24 |
 | [Everything Everything](https://open.spotify.com/track/2dYEoN94CbbMrsE7xF5xNF) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Everything Everything](https://open.spotify.com/album/2UXirOekrwMb7pjGVUEePM) | 3:17 | 2025-03-06 | 2025-03-14 |
+| [Everything Everywhere at Once](https://open.spotify.com/track/5qXxXEoDQvkGc0aw4DTEmJ) | [Kleo](https://open.spotify.com/artist/3UvjfeWjJTe7E88iz1dWbc) | [Everything Everywhere at Once](https://open.spotify.com/album/4ySnolM6OMKtRVbCs3FFXf) | 2:44 | 2025-05-02 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-13 | 2025-02-21 |
 | [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-12 | 2024-09-20 |
 | [EVERYTIME](https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [EVERYTIME](https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa) | 2:35 | 2024-11-14 | 2024-11-22 |

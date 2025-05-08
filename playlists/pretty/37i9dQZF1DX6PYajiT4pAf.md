@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Guitarricadelafuente, Morad, Álvaro de Luna, Lali con Duki, Selena Gomez y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,562 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,580 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 23 | [Angelitos](https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [Angelitos](https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF) | 2:23 |
 | 24 | [Et Puc Odiar Molt Més](https://open.spotify.com/track/1BqIJho7iexaE3eTLRv9y2) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Et Puc Odiar Molt Més](https://open.spotify.com/album/5piCO9vFpeLjOTi25Z1NWU) | 3:01 |
 | 25 | [a la cara](https://open.spotify.com/track/3alDWlvGPYBEOOzTXZ5RWo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [a la cara](https://open.spotify.com/album/0fwhkUiSsPTbuOqgxTLeVq) | 3:06 |
-| 26 | [Iguazú](https://open.spotify.com/track/5mW8Q5KIGVh2dTyEC3uKQi) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [Iguazú](https://open.spotify.com/album/4JxDndHOEiVR4SgFsecrxk) | 2:38 |
+| 26 | [Iguazú](https://open.spotify.com/track/5mW8Q5KIGVh2dTyEC3uKQi) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7) | [Iguazú](https://open.spotify.com/album/4JxDndHOEiVR4SgFsecrxk) | 2:38 |
 | 27 | [Aliento de cristal](https://open.spotify.com/track/0GybWpq4j9FBlITMccTj78) | [Cyclo](https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV), [Zarcort](https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6) | [Aliento de cristal](https://open.spotify.com/album/4R1XBWBFKNOkdC1axXyBLs) | 2:48 |
 | 28 | [volver a ti](https://open.spotify.com/track/6XRfyxbzqAwwdeGVE3wk0f) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [jeney](https://open.spotify.com/artist/2tHXGK160wGh4RTOXfZ96F) | [volver a ti](https://open.spotify.com/album/7n1LwAOLLNN6knNBw2n1Gf) | 3:02 |
 | 29 | [Veneno](https://open.spotify.com/track/11YOPWfUXX4Q1GNgTNt8oW) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 2:45 |

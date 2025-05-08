@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Francis Mercier
 
-260 songs - 17 hr 14 min
+261 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Ya Rawa'anek](https://open.spotify.com/track/63z26Te7baeagaYRW3BvbY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Ya Rayah](https://open.spotify.com/track/1KVpa83fBkART0ZZuRb3Bt) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.2](https://open.spotify.com/album/64nugwneK97CluUKPSUAzb) | 2:18 | 2023-07-11 | 2024-07-28 |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-03-30 | 2023-06-24 |
+| [Ya Zarif](https://open.spotify.com/track/5lBPn6PmXqe52OXIaXxnjS) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W) | [Ya Zarif](https://open.spotify.com/album/1oOf332OXrB1PoRMVco0zV) | 1:59 | 2025-05-07 |  |
 | [Yababa \- Tunisian Mix](https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Yababa \(Tunisian Mix\)](https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf) | 5:35 | 2023-06-23 | 2025-03-07 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-18 |  |
 | [Yena'al Li](https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT) | [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn), [Sahraaoui](https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff) | [Yena'al Li](https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs) | 4:52 | 2022-10-11 | 2023-11-03 |

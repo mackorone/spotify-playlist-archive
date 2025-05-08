@@ -1,6 +1,6 @@
 {
   "description": "The home for alternative electronic music. Cover: Kelly Lee Owens",
-  "num_followers": 526983,
+  "num_followers": 526995,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
@@ -171,7 +171,7 @@
     {
       "added_at": "2025-05-06 17:00:01",
       "album": {
-        "name": "Rose On A Stone",
+        "name": "rose on a stone",
         "url": "https://open.spotify.com/album/2kMrpBA3sY5kantNC7v6fh"
       },
       "artists": [
@@ -181,7 +181,7 @@
         }
       ],
       "duration_ms": 158429,
-      "name": "Rose On A Stone",
+      "name": "rose on a stone",
       "url": "https://open.spotify.com/track/3Ml3CIaOpDBYcJNmIR96Py"
     },
     {
@@ -210,6 +210,10 @@
         {
           "name": "Swoosh",
           "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
       "duration_ms": 190078,

@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Damiano David
 
-1,345 songs - 2 day 21 hr 3 min
+1,346 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Marco](https://open.spotify.com/track/3gVKUlpjkWoe9GcYl3HGO8) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [Marco](https://open.spotify.com/album/59ULSxbZvExiOdCpoORivk) | 2:55 | 2025-03-14 | 2025-03-28 |
 | [MARE DI CHIODI \(feat\. Emma Nolde & Tedua\)](https://open.spotify.com/track/4FSxMysgOwAzcF1Zp9RiPs) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [TOCCA IL CIELO](https://open.spotify.com/album/4jPzZlabX82iApEx74Zldl) | 3:41 | 2025-04-03 | 2025-05-02 |
 | [Marziani](https://open.spotify.com/track/333snPErLohYVTHPI5BT3k) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Marziani](https://open.spotify.com/album/7K9JAOo3NYuRep8omW7rM6) | 3:11 | 2024-11-07 | 2024-11-22 |
+| [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 | 2025-05-07 |  |
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-02-14 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-27 | 2024-07-12 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-09-06 |

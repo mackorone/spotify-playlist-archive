@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Zoë Më
 
-2,007 songs - 4 day 6 hr 22 min
+2,009 songs - 4 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [blackout in der gegend](https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blackout in der gegend](https://open.spotify.com/album/5IFoofVHSlPBwUEgHGMqKu) | 2:32 | 2024-08-06 | 2024-09-04 |
 | [blah blah](https://open.spotify.com/track/2o4FRrXTFzcd3hPhNlmZFg) | [DRAMAS](https://open.spotify.com/artist/7wwQRdYt302AuynW8ioIgS) | [blah blah](https://open.spotify.com/album/4yWRTQLBbL5cmdwOfFxsCE) | 3:30 | 2022-01-04 | 2022-02-02 |
 | [Blau](https://open.spotify.com/track/0aoDXGbQp9cd5QQ3KPxFvl) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Blau](https://open.spotify.com/album/39oB4dVpCweoiPCs4MEa8k) | 3:07 | 2023-09-05 | 2023-10-04 |
+| [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 | 2025-05-07 |  |
 | [Blaues Kleid](https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Blaues Kleid](https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c) | 2:47 | 2023-01-31 | 2023-03-01 |
 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 | 2024-04-30 | 2024-06-06 |
 | [Bleib](https://open.spotify.com/track/42m4ZMTXkYlAk6D8y5JUoY) | [Berglind](https://open.spotify.com/artist/2tJWpZysbUxzTqBmxtN8WY) | [Bleib](https://open.spotify.com/album/00E9UOFiiHLlzdbLM04o2j) | 2:46 | 2022-09-06 | 2022-10-05 |
@@ -576,6 +577,7 @@
 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 | 2023-06-06 | 2023-07-05 |
 | [Feuerzeug](https://open.spotify.com/track/4lI0rrD34jnWE2n8VrVCaO) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Feuerzeug](https://open.spotify.com/album/4ubhVOStM70AKrmhOhYMpn) | 3:13 | 2024-06-05 | 2024-07-03 |
 | [Ffm](https://open.spotify.com/track/0bewzvUl8QIgiH39VV8khI) | [NyoMii](https://open.spotify.com/artist/5SnIM9os0wEayiX4XxL9yD) | [Ffm](https://open.spotify.com/album/6ZiDviNMTvmvtV4ReAXIZj) | 1:52 | 2023-08-01 | 2023-09-06 |
+| [fick dich](https://open.spotify.com/track/3aoWrdMqBvc7Vn025KDPBe) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [fick dich](https://open.spotify.com/album/7qjivdljBThfyKLJPEzEgZ) | 2:32 | 2025-05-07 |  |
 | [Fickst mein Kopf](https://open.spotify.com/track/34tXcXaDEYkEboxRHY6rab) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Fickst mein Kopf](https://open.spotify.com/album/12XaMZ9IU19CNe2f7F51rx) | 2:38 | 2021-12-21 | 2022-01-05 |
 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 | 2025-04-01 | 2025-05-07 |
 | [Fight Back](https://open.spotify.com/track/4jjNzkgYSy53kBnocmHR4v) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Fight Back / 25](https://open.spotify.com/album/3GwbVm6w802dhWbL8ynnfl) | 3:46 | 2025-04-01 | 2025-05-07 |
@@ -717,7 +719,7 @@
 | [Guestroom](https://open.spotify.com/track/2NIsHEJHtSyQ24lO98laEG) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Guestroom](https://open.spotify.com/album/4XKA4n0XMiyuwPTAvT1u9u) | 3:07 | 2022-07-05 | 2022-08-03 |
 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 | 2025-02-04 | 2025-03-05 |
 | [HA HA HA](https://open.spotify.com/track/0PNVAPRdLL18eisS2qUzgl) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [HA HA HA](https://open.spotify.com/album/3gIM7nrNkwZD3QJ8sxpABT) | 2:02 | 2022-05-03 | 2022-06-01 |
-| [Hab ich dir je gesagt...](https://open.spotify.com/track/5jRbDmyF5aSHleN96fKZD3) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Hab ich dir je gesagt...](https://open.spotify.com/album/7595jxNRB5GdpPkyRBQcjx) | 2:46 | 2025-05-06 |  |
+| [Hab ich dir je gesagt...](https://open.spotify.com/track/5jRbDmyF5aSHleN96fKZD3) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Hab ich dir je gesagt...](https://open.spotify.com/album/7595jxNRB5GdpPkyRBQcjx) | 2:46 | 2025-05-06 | 2025-05-08 |
 | [HAB NUR EINE BITTE.](https://open.spotify.com/track/6gSXG57Sp2BmdEXMCopTIF) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [HAB NUR EINE BITTE.](https://open.spotify.com/album/7FS5DCoYKixV42lXkFI6uS) | 2:25 | 2025-01-07 | 2025-02-05 |
 | [Halb 3](https://open.spotify.com/track/4S9w9u6MnE9j09UROeNsto) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Halb 3](https://open.spotify.com/album/7eBjH8qGXRW05o4RLI7Z6V) | 1:49 | 2022-02-01 | 2022-03-08 |
 | [hallo Kinder](https://open.spotify.com/track/6k6e4ZF2lrtwgwhHAgH73D) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [hallo Kinder](https://open.spotify.com/album/2cCsy0r86Odp6KRTK4dM0J) | 2:39 | 2022-01-04 | 2022-02-02 |
@@ -1496,7 +1498,7 @@
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-09-05 | 2023-10-04 |
 | [Schmetterling](https://open.spotify.com/track/0pZ9CVpntp64dBWsIUg9sG) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Schmetterling](https://open.spotify.com/album/5Y24DcwuZGIkoVXy2CnxAN) | 2:23 | 2022-07-05 | 2022-08-03 |
 | [Schmetterlinge](https://open.spotify.com/track/1JRtXd8WREehanndaJOuEM) | [Clara Lou](https://open.spotify.com/artist/7aC89IptWSdgo4pP1Vih7P) | [Schmetterlinge](https://open.spotify.com/album/5MsGpt9iCXIZQ5pffbwm7T) | 2:10 | 2025-02-04 | 2025-03-05 |
-| [Schmetterlinge](https://open.spotify.com/track/3f4IvFmig584KELtNSXKaj) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schmetterlinge](https://open.spotify.com/album/1IxFrxur96BYfoQpZbhGMd) | 3:04 | 2025-05-06 |  |
+| [Schmetterlinge](https://open.spotify.com/track/3f4IvFmig584KELtNSXKaj) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schmetterlinge](https://open.spotify.com/album/1IxFrxur96BYfoQpZbhGMd) | 3:04 | 2025-05-06 | 2025-05-08 |
 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 | 2024-11-05 | 2024-12-05 |
 | [Schubidu](https://open.spotify.com/track/4HbZ7D4AslgbGnwi5MrTH1) | [DCCM](https://open.spotify.com/artist/2wMFibdNVlRu9xPt7bFjm0), [SektSpätStück](https://open.spotify.com/artist/5DeKxh1EpLz9xYQXwvRSJr) | [Schubidu](https://open.spotify.com/album/1p5pGrYo3VHcxdgmNwGCZn) | 2:45 | 2023-04-04 | 2023-05-03 |
 | [Schuhe](https://open.spotify.com/track/5yLsyeqRLhuWiUxH4Iygxr) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Schuhe](https://open.spotify.com/album/5mznGaEoDDJxPnkFZ5DSFi) | 2:51 | 2021-12-21 | 2022-01-05 |

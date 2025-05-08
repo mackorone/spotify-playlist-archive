@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,825 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,830 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 4 | [Ich lieb den Frühling](https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:57 |
 | 5 | [Lass die dicke Jacke hier](https://open.spotify.com/track/7HbaL8KZwadxAEZMhS3XKy) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Frühling \- EP](https://open.spotify.com/album/354SkQAcZnMLnmcca2quI3) | 2:54 |
 | 6 | [Ein Vogel wollte Hochzeit machen \- 1](https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Vogelhochzeit \(Das Original in der Urfassung\)](https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl) | 1:47 |
-| 7 | [Häschen hüpf](https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Heile Welt](https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc) | 3:14 |
-| 8 | [Guck mal diese Biene da Summ Summ](https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Video Mixe](https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW) | 2:56 |
+| 7 | [Guck mal diese Biene da Summ Summ](https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Video Mixe](https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW) | 2:56 |
+| 8 | [Häschen hüpf](https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Heile Welt](https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc) | 3:14 |
 | 9 | [Boom Schakkalakka](https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:19 |
 | 10 | [Der tollste Tag deines Lebens](https://open.spotify.com/track/0LucQd1DOdPIZ5U0PgK9A6) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Der tollste Tag deines Lebens](https://open.spotify.com/album/6CYKR3TwmkV5vHSGVOWpYl) | 2:55 |
 | 11 | [Ich bleib hier \(feat\. Lina Larissa Strahl\)](https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Lina Larissa Strahl](https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk) | [Bibi und Tina: VOLL VERHEXT! \(Der Original\-Soundtrack zum Kinofilm\)](https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP) | 2:59 |

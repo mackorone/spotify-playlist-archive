@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 322035,
       "name": "3 Tage Wach",
       "url": "https://open.spotify.com/track/72cfj9t5LxEkicluIvNmQc"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 442941,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2kn78Gu3XOy65V6wbYOq0j"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 210530,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/0s2Mc1cyH6XyxCTWdxkbgq"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 500262,
       "name": "Blitz - Rampa & Re.You AKA RAR Remix",
       "url": "https://open.spotify.com/track/6GWw4hJDlfWgCWgdX4EPFv"
@@ -258,10 +258,54 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 271939,
       "name": "Brushcutter",
       "url": "https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp"
+    },
+    {
+      "album": {
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
+    },
+    {
+      "album": {
+        "name": "Champagne (Da Capo's Touch)",
+        "url": "https://open.spotify.com/album/0hJakEVPLIitCxvcDrGSds"
+      },
+      "artists": [
+        {
+          "name": "Sammi Ferrer",
+          "url": "https://open.spotify.com/artist/767M9YoTd9yP3A3qqymYap"
+        },
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419000,
+      "name": "Champagne (Da Capo's Touch)",
+      "url": "https://open.spotify.com/track/2y1jHgCj7z1m1sUDPYt6QE"
     },
     {
       "album": {
@@ -276,7 +320,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 206195,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2VXQpEvGSxrCXzhll9f6UK"
@@ -509,6 +553,50 @@
     },
     {
       "album": {
+        "name": "Changing Days (Remixes)",
+        "url": "https://open.spotify.com/album/0LXXmso0xMVmM0EIB9olhN"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388302,
+      "name": "Everything You've Done Before - Dixon Remix",
+      "url": "https://open.spotify.com/track/6GGGeMdoTtghgu7Kbnbfoq"
+    },
+    {
+      "album": {
+        "name": "Exhale (Samm Remix)",
+        "url": "https://open.spotify.com/album/7Lz0SFmyYsNouPJXl1Gp1C"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286352,
+      "name": "Exhale - Samm Remix",
+      "url": "https://open.spotify.com/track/46sxJpEjK6NgqW5ppFR0kt"
+    },
+    {
+      "album": {
         "name": "On A Trip",
         "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
       },
@@ -564,6 +652,28 @@
       "duration_ms": 312514,
       "name": "Five Gorilla",
       "url": "https://open.spotify.com/track/7ATmLyXXJpChbb5x2TjvfE"
+    },
+    {
+      "album": {
+        "name": "Flying Away With You",
+        "url": "https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249120,
+      "name": "Flying Away With You",
+      "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
     },
     {
       "album": {
@@ -775,6 +885,32 @@
     },
     {
       "album": {
+        "name": "King Steps (DESIREE Remix)",
+        "url": "https://open.spotify.com/album/6EiDNyltt1WdYjNJ70LWCK"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255754,
+      "name": "King Steps (DESIREE Remix)",
+      "url": "https://open.spotify.com/track/0DOYGfGpp5wD4qJ7akSrcx"
+    },
+    {
+      "album": {
         "name": "La Musa (with Miluhska) [Adam Ten & Rafael Remix]",
         "url": "https://open.spotify.com/album/6EhVwvuwYWjS7mO1smxNnL"
       },
@@ -871,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Getting Started",
+        "url": "https://open.spotify.com/album/7pFgibQAxrZlj1HAkJvN7d"
+      },
+      "artists": [
+        {
+          "name": "KENSHO (ofc)",
+          "url": "https://open.spotify.com/artist/5qqcETUQBL4JdcTs5pLzS2"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5EB07djdGtvuFH6cBGGtIg"
+    },
+    {
+      "album": {
         "name": "Lost In The Desert",
         "url": "https://open.spotify.com/album/3Dl447qI0KgKOwhVMagDQC"
       },
@@ -948,7 +1102,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 349090,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/0cuQoMOLSAZugJeHTNkLLF"
@@ -988,6 +1142,24 @@
       "duration_ms": 386195,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/49UnvR3vrn1LtK8bs9484p"
+    },
+    {
+      "album": {
+        "name": "Mermaids On Acid",
+        "url": "https://open.spotify.com/album/3XzMBTlN73SweePab35Mqp"
+      },
+      "artists": [
+        {
+          "name": "Sedef Adasi",
+          "url": "https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261901,
+      "name": "Mermaids On Acid",
+      "url": "https://open.spotify.com/track/1Dj2EvuZWH7fkovM61Xh0T"
     },
     {
       "album": {
@@ -1104,7 +1276,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 147500,
       "name": "New Days",
       "url": "https://open.spotify.com/track/7rmI7C02Acz6QXmm3sFsNg"
@@ -1126,7 +1298,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 487426,
       "name": "Nomads - Matthias Tanzmann Remix",
       "url": "https://open.spotify.com/track/5M3lkHXxY7bDhaUyJKrjRS"
@@ -1277,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Porchlight & Rockingchairs Remixes Pt. One",
+        "url": "https://open.spotify.com/album/2bKPy0dzHUQ5F6timwejQB"
+      },
+      "artists": [
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420925,
+      "name": "Porchlight and Rocking Chairs - Kink Remix",
+      "url": "https://open.spotify.com/track/6s6EXfkYD3RmUNDQ6mjGeL"
+    },
+    {
+      "album": {
         "name": "Radiate",
         "url": "https://open.spotify.com/album/4vtIx8nA2Ymi9CYMmOb9YS"
       },
@@ -1292,7 +1482,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 380000,
       "name": "Radiate - Radeckt UA UA Remix",
       "url": "https://open.spotify.com/track/4VSk42QN0Osk8hKN4G5UnS"
@@ -1314,7 +1504,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 355288,
       "name": "Rambla",
       "url": "https://open.spotify.com/track/1uLVvmJqfvcArFLZzN21jA"
@@ -1498,7 +1688,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 427931,
       "name": "Sign Me Out - Lulu Rouge Remix",
       "url": "https://open.spotify.com/track/4E0TW7xKDhQ7VCUnjqqdPg"
@@ -1615,6 +1805,50 @@
     },
     {
       "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/2RYyFCz4j6jO1lSj0ADtAf"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300496,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/5Ow8SNfLvZxM6gfftR7sE8"
+    },
+    {
+      "album": {
+        "name": "Kill the Anger EP",
+        "url": "https://open.spotify.com/album/1Qnr9iZVov8vjGcmfJe2yW"
+      },
+      "artists": [
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        },
+        {
+          "name": "WAHM (FR)",
+          "url": "https://open.spotify.com/artist/33pXBL0Br2jGGqRjK5aAgF"
+        },
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Sundance - Denis Horvat Remix",
+      "url": "https://open.spotify.com/track/2BBma6H9kWlmofUbjha6YW"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
       },
@@ -1652,6 +1886,76 @@
       "duration_ms": 450967,
       "name": "Terrace",
       "url": "https://open.spotify.com/track/6o9U4dOPtLFGvZDy88UcNj"
+    },
+    {
+      "album": {
+        "name": "The Chase (Remixes)",
+        "url": "https://open.spotify.com/album/3adCd6NJqObdUcsuYxBogc"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214341,
+      "name": "The Chase - VXSION Remix",
+      "url": "https://open.spotify.com/track/5pRRSDZ2nn4oGh7C8tiSrG"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1zgOUuLPqWcK5qeTg27YCs"
+      },
+      "artists": [
+        {
+          "name": "Kalyma",
+          "url": "https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo"
+        },
+        {
+          "name": "KEKURA",
+          "url": "https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285943,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5gV08IdTyWZhfbyOo2guSY"
+    },
+    {
+      "album": {
+        "name": "The One (feat. Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182498,
+      "name": "The One (feat. Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
     },
     {
       "album": {
@@ -1726,7 +2030,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 380886,
       "name": "The Wave - Nandu Extended Remix",
       "url": "https://open.spotify.com/track/2qY1C7AELeIgOYnzVVCFlV"
@@ -1856,7 +2160,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 429268,
       "name": "Voices",
       "url": "https://open.spotify.com/track/3Wno0NiRUj8vGi28uafGv9"
@@ -1914,7 +2218,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 226105,
       "name": "Wela Bo",
       "url": "https://open.spotify.com/track/07KJ7CtF5W8qzQJ373lnc8"
@@ -1940,6 +2244,32 @@
       "duration_ms": 483199,
       "name": "Whatever We Call It",
       "url": "https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG"
+    },
+    {
+      "album": {
+        "name": "Who's Got The Time (feat. Nick Maurer)",
+        "url": "https://open.spotify.com/album/0GSw0hr9wvS3mjw2vtt9Jn"
+      },
+      "artists": [
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        },
+        {
+          "name": "Alican",
+          "url": "https://open.spotify.com/artist/20JcfncPyV3x2XjAKLWL98"
+        },
+        {
+          "name": "Nick Maurer",
+          "url": "https://open.spotify.com/artist/6z70ncdIFVoybnZoh3O5F1"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225609,
+      "name": "Who's Got The Time (feat. Nick Maurer)",
+      "url": "https://open.spotify.com/track/2r00ppOfMr4yr6yWmQWGqY"
     },
     {
       "album": {

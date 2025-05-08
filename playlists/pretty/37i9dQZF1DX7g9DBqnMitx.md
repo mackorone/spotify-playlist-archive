@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,971 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,977 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 21 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 22 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 23 | [Quand te reverrai\-je, pays merveilleux ?](https://open.spotify.com/track/3ayoJTOXuq9HKlWStM8KVV) | [Michel Blanc](https://open.spotify.com/artist/27MjLiRbNSQRsj5HeVqnOh) | [Les bronzés & les bronzés font du ski \(Bande originale du film\)](https://open.spotify.com/album/0SbjpPx9uYBTAkNTozG8OT) | 0:47 |
-| 24 | [Unchained Melody \- Orchestral](https://open.spotify.com/track/7FKsfPuxRLpar9enQ7LmtA) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT) | [Ghost](https://open.spotify.com/album/1yETyUdM0HxBFy8MHdSsYW) | 3:59 |
+| 24 | [Unchained Melody \- Orchestral](https://open.spotify.com/track/7FKsfPuxRLpar9enQ7LmtA) | [Maurice Jarre](https://open.spotify.com/artist/12MVcFSt9x5AoX7UipMiUl) | [Ghost](https://open.spotify.com/album/1yETyUdM0HxBFy8MHdSsYW) | 3:59 |
 | 25 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5p0H50uFCdWTpLY640HoPc) | 2:29 |
 | 26 | [No Time To Die](https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 4:04 |
 | 27 | [Streets of Philadelphia](https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Philadelphia \- Music From The Motion Picture](https://open.spotify.com/album/5HL1JjJ2aiKNfsZ29YWyiM) | 4:12 |

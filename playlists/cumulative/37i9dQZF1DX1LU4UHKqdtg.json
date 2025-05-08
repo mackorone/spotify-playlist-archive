@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "I MET PEEJAY",
+        "url": "https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "1-4-3",
+      "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
+    },
+    {
+      "album": {
         "name": "PINK CRUSH",
         "url": "https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl"
       },

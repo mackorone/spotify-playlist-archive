@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-499 songs - 23 hr 9 min
+500 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 |  |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2024-09-29 |
 | [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 |  |
-| [Grandma's Stove](https://open.spotify.com/track/7bcOJpMCtzmLDq5IaSqFn6) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Grandma's Stove](https://open.spotify.com/album/3wvW2X3Tc5zMQ3QkQwYuhk) | 3:19 | 2025-05-02 |  |
+| [Grandma's Stove](https://open.spotify.com/track/7bcOJpMCtzmLDq5IaSqFn6) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Grandma's Stove](https://open.spotify.com/album/3wvW2X3Tc5zMQ3QkQwYuhk) | 3:19 | 2025-05-02 | 2025-05-08 |
 | [Great Void](https://open.spotify.com/track/0JDeLjaHDaXT3SR9SjrNCt) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Great Void](https://open.spotify.com/album/2oKyOFhX6bkJsKy7xW6rX9) | 2:40 | 2025-01-10 |  |
 | [Grey Sky](https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0) | [Mjølnir](https://open.spotify.com/artist/0oXIq7U8lZeSOpBXt2EFfQ), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Grey Sky](https://open.spotify.com/album/5tnq2hprFcEZn5oOEvqW9P) | 2:04 | 2025-02-14 |  |
 | [Growing Season](https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Growing Season](https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1) | 2:51 | 2025-03-03 |  |
@@ -466,6 +466,7 @@
 | [Twilight Talks](https://open.spotify.com/track/30dqnlvFB324oieCnSkSPp) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Twilight Talks](https://open.spotify.com/album/155DYfLTyRXesb2NoaXixp) | 2:16 | 2025-02-14 | 2025-03-08 |
 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 | 2024-09-01 |
 | [u'pond waters](https://open.spotify.com/track/3pbZPVeeJD6uEQuTYNMXui) | [Jökull Logi](https://open.spotify.com/artist/2nA2IdGdoXBV7N1c43a4cq), [Jasada](https://open.spotify.com/artist/6Z8DZJYoBbxLI1tNldwxhx), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [u’pond waters](https://open.spotify.com/album/7iIoKTHKWvD09rDYiUH3MK) | 1:38 | 2025-04-11 |  |
+| [Ueno Park](https://open.spotify.com/track/4APjKyfvWXd5C5Hltv2ELn) | [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Ueno Park](https://open.spotify.com/album/2zEG5RMKtQck0RqRDqJF9h) | 1:53 | 2025-05-02 |  |
 | [Umami](https://open.spotify.com/track/1CoW6lB9ZQULmdJJXDm2Ac) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Umami](https://open.spotify.com/album/46MXN7JDW8o8E7YisqVshH) | 1:45 | 2025-04-11 |  |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 | 2025-02-08 |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-08-22 | 2025-02-08 |

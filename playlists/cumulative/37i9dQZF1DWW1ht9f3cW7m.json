@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "All that !",
+        "url": "https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204531,
+      "name": "All that !",
+      "url": "https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu"
+    },
+    {
+      "album": {
         "name": "animal",
         "url": "https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-08",
       "duration_ms": 203766,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj"
